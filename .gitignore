@@ -6,5 +6,9 @@ config.py
 *.pyo
 
 # Standard locations of data and server temporary files
-data/
+data/examples
+data/snippets_3k
+data/test_data
+data/test_data_3k
+data/tutorials
 work/

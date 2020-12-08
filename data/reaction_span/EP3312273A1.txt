@@ -1,0 +1,1778 @@
+TECHNICAL FIELD
+The present disclosure relates to a protein-degradation inducing tag and use thereof.
+BACKGROUND ART
+Controlling the amount (expression) of a target protein in a cell, a living body, and the like is very useful for analyzing the functions of the target protein and life phenomena in which the target protein is involved. When a target protein is responsible for a disease, the disease can be prevented or treated by decreasing the amount of the target protein.
+As a conventional technique for controlling the amount of a target protein at the DNA level, known is the gene knockout technique in which a gene coding the target protein is made defective. As another technique for controlling the amount of a target protein at the RNA level, known is the RNAi (RNA interference) technique in which mRNA of the target protein is degraded with siRNA (small interfering RNA). However, the gene knockout technique is time consuming and expensive, and in addition, may involve bioethical issues. Further, the gene knockout technique cannot be applied to medicine because the gene of a target protein itself is made defective in the technique. Meanwhile, the RNAi technique suffers from off-target effects, and thus the amount of a target protein is difficult to be controlled in a specific manner. Further, the RNAi technique has been challenged in terms of the delivery of siRNA, and many problems need to be solved for applying to medicine.
+In view of the above circumstances, a technique has recently gathered much attention in which a target protein is degraded in a cell to control the amount of the target protein at the protein level. This technique is roughly categorized into an ubiquitin dependent technique in which ubiquitination of a target protein is used and an ubiquitin independent technique in which ubiquitination of a target protein is not used.
+As the ubiquitin dependent technique, known is a technique in which a complex is used, the complex having a structure where a molecule capable of binding to a target protein is linked to a molecule capable of binding ubiquitin ligase (E3) (For example, see Japanese Unexamined Patent Application Publication No. 2013-056837 U.S. Patent No. 7208157, a report by Itoh, Y. et al., (Itoh, Y. et al., "Development of target protein-selective degradation inducer for protein knockdown.", Bioorg. Med. Chem., 2011, 19, 3229-3241), a report by Demizu et al., (Demizu, Y. et al., "Design and synthesis of estrogen receptor degradation inducer based on a protein knockdown strategy.", Bioorg. Med. Chem. Lett., 2012, 15, 1793-1796), and a report by Hines et al. (Hines, J. et al., "Posttranslational protein knockdown coupled to receptor tyrosine kinase activation with phosphoPROTACs.", Proc. Natl. Acad. Sci. U.S.A., 2013, 110(22), 8942-8947)) This technique involves allowing a target protein to be connected with ubiquitin ligase through the aforementioned complex to specifically ubiquitinate the target protein. This can lead the target protein to degradation by a proteasome. It is noted that the aforementioned complex may also be referred to as SNIPER (Specific and Nongenetic IAP-dependent Protein ERaser), PROTAC (PROteolysis TArgeting Chimera), and the like.
+As the ubiquitin independent technique, known is a technique in which a complex is used, the complex having a structure where a molecule capable of binding to a target protein is linked to a hydrophobic tag (for example, see WO2012/003281, a report by Long et al. (Long, M. J. et al., "Inhibitor mediated protein degradation.", Chem. Biol., 2012, 19(5), 629-637), and a report by Neklesa et al. (Neklesa, T.K. et al., "Greasy tags for protein removal.", Nature, 2012, 487, 308-309)). This technique involves allowing the aforementioned complex to bind with a target protein to mimic a partially unfolded state of the target protein. This appears to lead the target protein to degradation by a proteasome.
+DISCLOSURE OF THE INVENTION
+Problems to be Solved by the Invention
+However, the aforementioned ubiquitin dependent technique involving use of a complex having a structure where a molecule capable of binding to a target protein is linked to a molecule capable of binding ubiquitin ligase suffers from low versatility. That is, there are 1000 or more types of ubiquitin ligases in mammal, and ubiquitin ligase plays an important role in recognition of a target protein. Therefore, the complex needs to be individually designed per target protein. Further, the requirement of preparing an individually designed complex per target protein means that the target protein has to be known. Therefore, the technique is difficult to apply, for example, as a tool for identifying a target protein among degraded proteins.
+On the other hand, the aforementioned ubiquitin independent technique involving use of a complex having a structure where a molecule capable of binding to a target protein is linked to a hydrophobic tag suffers from low cell membrane permeability and high cytotoxicity due to the hydrophobic tag.
+In view of the above circumstances, an object of the present disclosure is to provide a novel protein-degradation inducing tag configured to induce degradation of a target protein, and use thereof.
+Means for Solving the Problems
+Specific means for achieving the above object include the following embodiments.(1) A protein-degradation inducing tag, which is a molecule having an affinity with a protease without inhibiting degradation of a protein by the protease.(2) The protein-degradation inducing tag according to (1), in which the protein-degradation inducing tag has a structure where a proteasome inhibitory activity of a protease inhibitor is inactivated.(3) The protein-degradation inducing tag according to (1), in which the protease is a proteasome.(4) The protein-degradation inducing tag according to (3), in which the protein-degradation inducing tag has a structure where a proteasome inhibitory activity of a proteasome inhibitor is inactivated.(5) The protein-degradation inducing tag according to (4), in which the proteasome inhibiting activity is an inhibitory activity against at least one selected from a caspase-like activity, a trypsin-like activity, and a chymotrypsin-like activity.(6) A method of screening for a protein-degradation inducing tag, the method including a step of selecting a molecule having an affinity with a protease without inhibiting degradation of a protein by the protease from candidate molecules.(7) The method of screening for a protein-degradation inducing tag according to (6), in which the protease is a proteasome.(8) A method of manufacturing a protein-degradation inducing tag, the method including a step of a modifying a structure of an active site of a protease inhibitor to inactivate a protease inhibitory activity.(9) The method of manufacturing a protein-degradation inducing tag according to (8), the method further including a step of selecting, as the protease inhibitor, a molecule having an affinity with a protease and inhibiting degradation of a protein by the protease from candidate molecules.(10) A library of protein-degradation inducing tags, including two or more types of protein-degradation inducing tags, each of the two or more types of protein-degradation inducing tags being the protein-degradation inducing tag according to any one of (1) to (5).(11) A protein-degradation inducing molecule, which is a conjugate of at least one protein-degradation inducing tag and at least one protein binding molecule capable of binding to a protein, the at least one protein-degradation inducing tag being the protein-degradation inducing tag according to any one of (1) to (5).(12) A library of protein-degradation inducing molecules, including two or more types of protein-degradation inducing molecules, each of the two or more types of protein-degradation inducing molecules being the protein-degradation inducing molecule according to (11).(13) A pharmaceutical composition including the protein-degradation inducing tag according to any one of (1) to (5) or the protein-degradation inducing molecule according to (11).(14) A method of degrading a target protein, the method including a step of inducing degradation of the target protein using the protein-degradation inducing tag according to any one of (1) to (5) or the protein-degradation inducing molecule according to (11).(15) A method of performing functional analysis on a target protein, the method including a step of inducing degradation of the target protein using the protein-degradation inducing tag according to any one of (1) to (5) or the protein-degradation inducing molecule according to (11).(16) A method of identifying a target protein, the method including a step of inducing degradation of the target protein using the protein-degradation inducing tag according to any one of (1) to (5) or the protein-degradation inducing molecule according to (11), and a step of identifying a protein subjected to degradation induced by the protein-degradation inducing tag or the protein-degradation inducing molecule.(17) A method of identifying a pathway molecule through a target protein, the method including a step of inducing degradation of the target protein using the protein-degradation inducing tag according to any one of (1) to (5) or the protein-degradation inducing molecule according to (11), and a step of identifying a protein showing an altered activity or expression, the protein being different from the target protein.(18) A method of screening for a protein-degradation inducing tag or a protein-degradation inducing molecule, the method including a step of introducing the protein-degradation inducing tag according to any one of (1) to (5), the library of protein-degradation inducing tags according to (10), the protein-degradation inducing molecule according to (11), or the library of protein-degradation inducing molecules according to (12) into a system including a target protein, and selecting a protein-degradation inducing tag or protein-degradation inducing molecule which has induced degradation of the target protein.(19) The method of screening for a protein-degradation inducing tag or a protein-degradation inducing molecule according to (18), wherein the target protein is a disease causative agent, and the protein-degradation inducing tag or the protein-degradation inducing molecule which has induced degradation of the target protein is selected as a candidate ingredient for preventing or treating a disease.(20) A method of screening for a candidate ingredient for preventing or treating a disease, the method including a step of supllying the protein-degradation inducing tag according to any one of (1) to (5), the library of protein-degradation inducing tags according to (10), the protein-degradation inducing molecule according to (11), or the library of protein-degradation inducing molecules according to (12) into a disease model system, and selecting a protein-degradation inducing tag or a protein-degradation inducing molecule which has improved a condition of the disease.(21) A method of screening for a candidate ingredient for preventing or treating a disease, the method including a step of introducing the protein-degradation inducing tag according to any one of (1) to (5), the library of protein-degradation inducing tags according to (10), the protein-degradation inducing molecule according to (11), or the library of protein-degradation inducing molecules according to (12) into a disease model system, and extracting a protein-degradation inducing tag or a protein-degradation inducing molecule which has aggravated a condition of the disease, and selecting a protein subjected to degradation induced by the extracted protein-degradation inducing tag or the extracted protein-degradation inducing molecule.(22) A method of specifying a disease-related protein, the method including a step of introducing the protein-degradation inducing tag according to any one of (1) to (5), the library of protein-degradation inducing tags according to (10), the protein-degradation inducing molecule according to (11), or the library of protein-degradation inducing molecules according to (12) into a disease model system, and extracting a protein-degradation inducing tag or a protein-degradation inducing molecule which has altered a condition of a disease, and selecting a protein subjected to degradation induced by the extracted protein-degradation inducing tag or the extracted protein-degradation inducing molecule.
+Effects of the Invention
+According to the present disclosure, a novel protein-degradation inducing tag configured to induce degradation of a protein, and use thereof can be provided.
+BRIEF DESCRIPTION OF THE DRAWINGS
+Fig. 1 shows the plasmid map of a plasmid (pMIR DsRed-IRES-ecDHFR-HA-GFP) used in Example.Fig. 2A shows results from FACS (Fluorescence Activated Cell Sorting) analysis of a forcedly expressed target protein (E. coli DHFR) in HeLa cells to which TMP-CiKD_Bortezomib was added.Fig. 2B shows results from the FACS analysis of a forcedly expressed target protein (E. coli DHFR) in HeLa cells to which TMP was added.Fig. 3 shows results from the thermal shift assay of a forcedly expressed target protein (E. coli DHFR) in HeLa cells to which TMP-CiKD_Bortezomib or TMP was added.Fig. 4A shows the inhibitory activity of TMP-CiKD_Bortezomib and Bortezomib against the catalytic subunit β1 of a proteasome.Fig. 4B shows the inhibitory activity of TMP-CiKD_Bortezomib and Bortezomib against the catalytic subunit β2 of the proteasome.Fig. 4C shows the inhibitory activity of TMP-CiKD_Bortezomib and Bortezomib against the catalytic subunit β5 of the proteasome.Fig. 5A shows results from the FACS analysis of a forcedly expressed target protein (E. coli DHFR) in HeLa cells to which TMP-CiKD_ALLN was added.Fig. 5B shows results from the FACS analysis of a forcedly expressed target protein (E. coli DHFR) in HeLa cells to which TMP was added.Fig. 6 shows results from the thermal shift assay of a forcedly expressed target protein (E. coli DHFR) in HeLa cells to which TMP-CiKD_ALLN or TMP was added.Fig. 7A shows the inhibitory activity of TMP-CiKD_ALLN and ALLN against the catalytic subunit β1 of the proteasome.Fig. 7B shows the inhibitory activity of TMP-CiKD_ALLN and ALLN against the catalytic subunit β2 of the proteasome.Fig. 7C shows the inhibitory activity of TMP-CiKD_ALLN and ALLN against the catalytic subunit β5 of the proteasome.Fig. 8A shows results from the FACS analysis of a forcedly expressed target protein (E. coli DHFR) in HeLa cells to which TMP-CiKD_MLN was added.Fig. 8B shows results from the FACS analysis of a forcedly expressed target protein (E. coli DHFR) in HeLa cells to which TMP was added.Fig. 8C shows results from the FACS analysis of a forcedly expressed target protein (E. coli DHFR) in HeLa cells to which TMP-CiKD_MLN and Bortezomib were added.Fig. 9 shows results from the thermal shift assay of an endogenously expressed target protein (human DHFR) in HeLa cells to which MTX-CiKD_MLN or MTX was added.Fig. 10A shows results from quantification of bands detected in the Western blot analysis of an endogenously expressed target protein (human DHFR) in HeLa cells to which MTX-CiKD_MLN or MTX was added.Fig. 10B shows bands detected in the Western blot analysis of an endogenously expressed target protein (human DHFR) in HeLa cells to which MTX-CiKD_MLN or MTX was added.Fig. 11 shows results from the Western blot analysis of an endogenously expressed target protein (human DHFR) in a liver tissue extract from a mouse individual to which MTX-CiKD_MLN or MTX was administered.Fig. 12A shows the inhibitory activity of TMP-CiKD_DMT and MG-132 against the catalytic subunit β1 of the proteasome.Fig. 12B shows the inhibitory activity of TMP-CiKD_DMT and MG-132 against the catalytic subunit β2 of the proteasome.Fig. 12C shows the inhibitory activity of TMP-CiKD_DMT and MG-132 against the catalytic subunit β5 of the proteasome.Fig. 13 shows results from the thermal shift assay of a forcedly expressed target protein (E. coli DHFR) in HeLa cells to which TMP-CiKD_DMT or TMP was added.Fig. 14A shows results from the FACS analysis of a forcedly expressed target protein (E. coli DHFR) in HeLa cells to which TMP-CiKD_DMT was added.Fig. 14B shows results from the FACS analysis of a forcedly expressed target protein (E. coli DHFR) in HeLa cells to which TMP-CiKD_DMT was added.Fig. 14C shows results from the FACS analysis of a forcedly expressed target protein (E. coli DHFR) in HeLa cells to which TMP was added.Fig. 15A shows results from quantification of bands detected in the Western blot analysis of a forcedly expressed target protein (E. coli DHFR) in HeLa cells to which TMP-CiKD_DMT, TMP, or TMP-CiKD_DMT and bortezomib were added.Fig. 15B shows bands detected in the Western blot analysis of a forcedly expressed target protein (E. coli DHFR) in HeLa cells to which TMP-CiKD_DMT, TMP, or TMP-CiKD_DMT and bortezomib were added.Fig. 16 shows results from the Western blot analysis of a forcedly expressed target protein (E. coli DHFR) in HeLa cells to which TMP-CiKD_DMT, TMP-CiKD_MLN, TMP-CiKD_ALLN, TMP-CiKD_Bortezomib, or TMP was added.
+PREFERRED MODE FOR CARRYING OUT THE INVENTION
+Below, the embodiments of the present invention will be described in detail. However, the present invention shall not be limited to the following embodiments.
+The term "protein" as used herein refers to any having two or more amino acid residues, and encompasses a so-called "peptide." A range of numerical values specified using "-" as used herein refers to a range including values indicated before and after "-" as the the minimum value and the maximum value, respectively. The term "step" as used herein encompasses a step independent from the other steps as well as a step which can not be clearly separated from the other steps as long as the purpose of that step can be achieved.
+<Protein-degradation inducing tag>
+The protein-degradation inducing tag according to the present disclosure is a molecule having an affinity with a protease without inhibiting degradation of a protein by the protease. The protein-degradation inducing tag is used to lead a protein directly bound or indirectly bound through a protein binding molecule to degradation (knockdown) by a protease. The protein-degradation inducing tag can lead a target protein to degradation (knockdown) by a protease without ubiquitination of the target protein (i.e., in a ubiquitin independent manner), the protein-degradation inducing tag being used alone when the protein-degradation inducing tag is capable of binding to the target protein, or conjugated (the protein-degradation inducing molecule described below) to a protein binding molecule capable of binding to the target protein when the protein-degradation inducing tag is incapable of binding to the target protein. It is noted that the phrase "the protein-degradation inducing tag is capable of binding to a target protein" means that the protein-degradation inducing tag is capable of binding to the target protein via a covalent bond, a hydrogen bond, a hydrophobic bond, Van der Waals force, and the like. There is no particular limitation for the binding mode thereof.
+Below, the above protein-degradation inducing tag may also be referred to a CiKD (Chemical interaction and KnockDown) tag.
+There is no particular limitation for the protease, and any molecule having a protease activity can be used. For example, it may be a protease complex such as a proteasome, or may be a protease other than the proteasome. Alternatively, it may be a portion of a proteasome as long as the portion has a protease activity.
+Examples of the proteasome include 26S proteasome, an immunoproteasome, and a thymus proteasome. 26S proteasome is composed of 20S proteasome and two units of 19S proteasome, the two units of 19S proteasome being attached to the 20S proteasome. 20S proteasome has a cylindrical structure in which an α-ring consisting of 7 subunits of α1 to α7 and a β-ring consisting of 7 subunits of β1 to β7 are stacked in order of αββα, and β1, β2, and β5 show catalytic activities of a caspase-like activity, a trypsin-like activity, and a chymotrypsin-like activity, respectively. In the immunoproteasome, the catalytic subunits β1, β2, and β5 are replaced with β11, β21, and β51, respectively (Science, 1994, 265, 1234-1237). In the thymus proteasome, β5t which is expressed specifically in cortical thymic epithelial cells (cTEC) is incorporated along with β1i and β2i (Science, 2007, 316, 1349-1353).
+Examples of a protease other than the proteasome include β-secretase, γ-secretase, aminopeptidase, angiotensin-converting enzyme, bromelain, calpine I, calpine II, carboxypeptidase A, carboxypeptidase B, carboxypeptidase P, carboxypeptidase Y, caspase 1, caspase 2, caspase 3, caspase 5, caspase 6, caspase 7, caspase 8, caspase 9, caspase 13, cathepsin B, cathepsin C, cathepsin D, cathepsin G, cathepsin L, chymotrypsin, clostripain, collagenase, complement C1r, complement C1s, complement factor B, complement factor D, dipeptidyl peptidase I, dipeptidyl peptidase II, dipeptidyl peptidase IV, dispase, elastase, endoproteinase Arg-C, endoproteinase Glu-C, endoproteinase Lys-C, ficin, granzyme B, kallikrein, leucine aminopeptidase, matrix metalloprotease, metalloprotease, papain, pepsin, plasmin, procaspase 3, pronase E, proteinase K, renin, thermolysin, thrombin, trypsin, cytosol alanyl aminopeptidase, enkephalinase, neprilysin, and the like.
+As used herein, the phrase "having an affinity with a protease" means the capability of binding to a protease, for example, via a covalent bond, a hydrogen bond, a hydrophobic bond, Van der Waals force, and the like. When the thermal stability of a protease changes in the presence of a protein-degradation inducing tag, the protein-degradation inducing tag can be considered as capable of interacting with that protease.
+As used herein, the phrase "without inhibiting degradation of a protein by a protease" means that, for example, the protein-degradation inducing tag does not bind to the degradation active site of the protease via a covalent bonding. When a protein is degraded by a protease in the presence of a protein-degradation inducing tag, and the degradation of the protein is inhibited in the presence of a protease inhibitor, the protein-degradation inducing tag can be considered not to inhibit the degradation of the protein by the protease.
+Examples of the protein-degradation inducing tag include low molecular weight compounds, natural products, peptides, and the like. The protein-degradation inducing tag has a molecular weight within the range of, for example, 50 to 5000.
+There is no particular limitation for the structure of the protein-degradation inducing tag as long as the protein-degradation inducing tag has an affinity with a protease without inhibiting degradation of a protein by the protease. The protein-degradation inducing tag can be obtained from candidate molecules by the screening method as described below, and can also be manufactured according to the method of manufacture as described below.
+In a certain embodiment, for example, the protein-degradation inducing tag may have a structure represented by following formula (I):
+In the formula (I), R1 and R2 each independently represent a hydrocarbon group having 1 to 20 carbon atoms, an alkoxy group having 1 to 20 carbon atoms, an aryloxy group having 6 to 20 carbon atoms, a hydroxy group, a carboxy group, an amino group, or a halogeno group.
+Examples of the hydrocarbon group include an alkyl group, an alkenyl group, an aryl group, combinations thereof, and the like. Specifically, the followings can be mentioned: an alkyl group having 1 to 20 carbon atoms such as a methyl group and an ethyl group; an alkenyl group having 2 to 20 carbon atoms such as a vinyl group and an allyl group; an aryl group having 6 to 20 carbon atoms such as a phenyl group and a naphthyl group; an arylalkyl group having 7 to 20 carbon atoms such as a benzyl group and a phenethyl group; an alkylaryl group having 7 to 20 carbon atoms such as a tolyl group and a xylyl group; and the like. Examples of the halogeno group include a fluoro group, a chloro group, a bromo group, and the like.
+In another embodiment, the protein-degradation inducing tag may have a structure in which the proteasome inhibitory activity of a proteasome inhibitor is inactivated. More specifically, at least one inhibitory activity selected from a caspase-like activity, a trypsin-like activity, and a chymotrypsin-like activity can be mentioned as the proteasome inhibitory activity.
+The term "structure in which a proteasome inhibitory activity is inactivated" as used herein encompasses a structure in which a proteasome inhibitory activity is attenuated in addition to a structure in which a proteasome inhibitory activity is completely eliminated. In a certain embodiment, the protein-degradation inducing tag has a 50% inhibition concentration (IC50) against at least one selected from a caspase-like activity, a trypsin-like activity, and a chymotrypsin-like activity which is 2 times or more of the 50% inhibition concentration (IC50) of the original proteasome inhibitor.
+As the proteasome inhibitor, any compound having a proteasome inhibitory activity can be used. A proteasome inhibitor is a compound which has an affinity with a proteasome (a protease complex), and inhibits degradation of a protein by a proteasome. Therefore, a protein-degradation inducing tag may be obtained by replacing the active site of a proteasome inhibitor with another structural moiety to inactivate the proteasome inhibitory activity. Proteasome inhibitors have been progressively explored as anticancer agent and the like. Many compounds have been approved as pharmaceutical products, or are under clinical trials. Moreover, many of proteasome inhibitors have relatively small molecular weights and low hydrophobicity, and are less problematic in terms of cell membrane permeability, cytotoxicity, and the like. For these reasons, synthesizing a protein-degradation inducing tag based on a proteasome inhibitor is quite reasonable and efficient.
+Examples of the proteasome inhibitor are shown in the following Tables 1 and 2. The proteasome inhibitors shown in Tables 1 and 2 are each a 20S proteasome inhibitor having an affinity with 20S proteasome. However, a proteasome inhibitor which can be used in the present embodiment shall not be limited to these examples.
+<table>
+<header>
+No. & Generic name / Product name & Structural formula (Circles indicate active sites) & Molecular weight
+</header>
+1 & Bortezomib &  & 384.24
+2 & ALLN (MG-101, Calpain inhibitor I &  & 383.53
+3 & MLN9708 (Ixazomib) &  & 517.12
+4 & MLN2238 &  & 361.03
+5 & CEP-18770 &  & 413.28
+6 & ONO-7058 (Oprozomib) &  & 532.61
+7 & MG-132 &  & 475.63
+</table>
+<table>
+<header>
+No. & Generic name / Product name & Structural formula (Circles indicate active sites) & Molecular weight
+</header>
+8 & Carfilzomib &  & 719.92
+9 & BSc-2118 &  & 533.66
+10 & PSI &  & 604.75
+11 & Epoxomicin &  & 554.73
+12 & ONX-0914 &  & 580.68
+13 & 125I-NIP-L3VS &  & 720.64
+14 & NPI-0052 (Marizomib) &  & 313.78
+</table>
+For example, bortezomib as a boronic acid-based proteasome inhibitor is known to inhibit a proteasome activity when the boronyl group as an active site covalently binds to the degradation active site of 20S proteasome as shown in the following scheme (Kisselev, A.F. et al., Chemistry & Biology, 2012, 19, 99-115).
+Further, MLN9708 and MLN2238, which are boronic acid-based proteasome inhibitors, are known to inhibit a proteasome activity when the boronic acid ester moiety or the boronyl group as an active site covalently binds to the degradation active site of 20S proteasome as shown in the following scheme (Kisselev, A.F. et al., Chemistry & Biology, 2012, 19, 99-115) .
+Therefore, a protein-degradation inducing tag may be obtained by replacing the boronyl group or the boronic acid ester moiety as the active sites of bortezomib, MLN9708, and MLN2238 with another structural moiety (a carboxy group, an alkyl group, an aryl group, an amino group, a hydroxy group, and the like) to inactive the proteasome inhibitory activity.
+It is noted that even for other boronic acid-based proteasome inhibitors such as CEP-18770, a protein-degradation inducing tag can be obtained by replacing the active site with another structural moiety (a carboxy group, an alkyl group, an aryl group, an amino group, a hydroxy group, and the like).
+Further, ALLN, which is an aldehyde proteasome inhibitor, is known to inhibit a proteasome activity when the formyl group as an active site covalently binds to the degradation activity site of 20S proteasome as shown in the following scheme (Kisselev, A.F. et al., Chemistry & Biology, 2012, 19, 99-115) .
+Therefore, a protein-degradation inducing tag can be obtained by replacing the formyl group as the active site of ALLN with another structural moiety (a carboxy group, an alkyl group, an aryl group, an amino group, a hydroxy group, and the like) to inactivate the proteasome inhibitory activity.
+It is noted that even for other aldehyde proteasome inhibitors such as MG-132, BSc-2118, and PSI, a protein-degradation inducing tag can be obtained by replacing the formyl group as an active site with another structural moiety (a carboxy group, an alkyl group, an aryl group, an amino group, a hydroxy group, and the like).
+Examples of the protein-degradation inducing tag having a structure in which the proteasome inhibitory activity of a proteasome inhibitor is inactivated are shown in the following Tables 3 and 4. Examples of the monovalent group represented by R in the tables include a carboxy group, an alkyl group having 1 to 20 carbon atoms, an aryl group having 6 to 20 atoms, an amino group, a hydroxy group, and the like.
+<table>
+<header>
+No. & Structural formula
+</header>
+1 &  & (In the formula, R represents a monovalent group except for .)
+2 &  & (In the formula, R represents a monovalent group except for -CHO.)
+3 &  & (In the formula, R represents a monovalent group except for
+
+.)
+4 &  & (In the formula, R represents a monovalent group except for
+
+.)
+5 &  & (In the formula, R represents a monovalent group except for
+
+.)
+6 &  & (In the formula, R represents a monovalent group except for -CHO.)
+7 &  & (In the formula, R represents a monovalent group except for
+
+.)
+</table>
+<table>
+<header>
+No. & Struct ural formula
+</header>
+8 &  & (In the formula, R represents a monovalent group except for -CHO.)
+9 &  & (In the formula, R represents a monovalent group except for -CHO.)
+10 &  & (In the formula, R represents a monovalent group except for
+
+.)
+11 &  & (In the formula, R represents a monovalent group except for
+
+.)
+12 &  & (In the formula, R represents a monovalent group except
+
+.)
+13 &  & (In the formula, R represents a monovalent group.)
+14 &  & (In the formula, R represents a monovalent group.)
+</table>
+Other examples of the proteasome inhibitor are shown in the following Tables 5 to 10. Even for these proteasome inhibitor, a protein-degradation inducing tag can be obtained by inactivating the proteasome inhibitory activity in a similar way as described above.
+<table>
+<header>
+20S proteasome inhibitor
+</header>
+<header>
+No. & Generic name / Product name & Structural formula & Molecular weight
+</header>
+15 & Aspirin &  & 180.15
+16 & Hydroxyurea inhibitor &  & 354.54
+17 & PI-1840 &  & 394.47
+18 & PI-083 &  & 439.87
+19 & Cerastol &  & 450.61
+</table>
+<table>
+<header>
+20S proteasome inhibitor (Continued)
+</header>
+<header>
+No. & Generic name / Product name & Structural formula & Molecular weight
+</header>
+20 & CVT-659 &  & 571.66
+21 & Capped dipeptide 2 &  & 645.15
+22 & TMC95A &  & 677.71
+23 & Capped dipeptide 1 &  & 699.80
+</table>
+<table>
+<header>
+20S proteasome inhibitor (Continued)
+</header>
+<header>
+No. & Generic name / Product name & Structural formula & Molecular weight
+</header>
+24 & Ritonavir &  & 720.94
+25 & Scytonemide A &  & 744.89
+26 & Argyrin A &  & 824.91
+27 & Benzylstatine peptide 1 &  & 826.00
+</table>
+<table>
+<header>
+19S proteasome inhibitor
+</header>
+<header>
+No. & Generic name / Product name & Structural formula & Molecular weight
+</header>
+1 & RIP-1 (Rpt4 inhibitor) &  & 1348.76
+</table>
+<table>
+<header>
+Inhibitor for a constituent factor other than 20S/19S
+</header>
+<header>
+No. & Generic name / Product name & Structural formula & Molecular weight & Others
+</header>
+1 & JBIR-22 &  & 419.52 & PAC-3 (molecule assembly factor) inhibition)
+</table>
+<table>
+<header>
+20S immunoproteasome inhibitor
+</header>
+<header>
+No. & Generic name / Product name & Structural formula & Molecular weight & Others
+</header>
+1 & PR-957 &  & 580.68 & β5i is inhibited
+2 & IPSI-001 &  & 362.47 & β2i is inhibited
+3 & LMP2-sp-ek &  & 484.75 & β2i is inhibited
+</table>
+In another embodiment, the protein-degradation inducing tag may have a structure in which the protease inhibitory activity of a protease inhibitor (except for the proteasome inhibitors described above) is inactivated.
+The term "structure in which a protease inhibitory activity is inactivated" as used herein encompasses a structure in which the protease inhibitory activity is attenuated in addition to a structure in which the protease inhibitory activity is completely eliminated. In a certain embodiment, the protein-degradation inducing tag has a 50% inhibition concentration (IC50) against a protease as an inhibition target of a protease inhibitor which is 2 times or more of the 50% inhibition concentration (IC50) of the original protease inhibitor.
+As a protease inhibitor, any compound having a protease inhibitory activity can be used. The protease inhibitor is a compound having an affinity with a protease and inhibiting degradation of a protein by the protease. Therefore, a protein-degradation inducing tag can be obtained by replacing the active site of a protease inhibitor with another structural moiety to inactivate the protease inhibitory activity.
+Examples of the protease inhibitor are shown in the following Tables 11 to 78. Protein-degradation inducing tags can be obtained by replacing the active sites of these protease inhibitor with another structural moieties to inactivate the protease inhibitory activities. However, a protease inhibitor which can be used in the present embodiment shall not be limited to these examples. Existing data bases (for example, "MEROPS-the peptidase database" (http://merops.sanger.ac.uk/index.shtml)) can be consulted for information about proteases and protease inhibitors if needed.
+<table>
+<header>
+β-secretase inhibitor
+</header>
+No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
+1 & OM99-2 &  & 892.99 & 
+</table>
+<table>
+<header>
+γ-secretase inhibitor
+</header>
+<header>
+No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
+</header>
+1 & γ-Secretase inhibitor &  & 705.83 & 
+2 & L-685,458 &  & 672 .85 & 
+</table>
+<table>
+<header>
+Aminopeptidase inhibitor
+</header>
+<header>
+No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
+</header>
+1 & Cysteamine &  & 113.61 & 
+2 & Bestatin &  & 344.83 & ▪ Aminopeptidase B
+▪ Leucine aminopeptidase
+</table>
+<table>
+<header>
+Angiotensin converting enzyme inhibitor
+</header>
+<header>
+No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
+</header>
+1 & Captopril &  & 217.29 & ▪ Formation of angiotensin II is inhibited
+2 & Fenoldopam monohydrob romide &  & 386.67 & 
+3 & Angiotensi n Converting Enzyme Inhibitor &  & 1101.26 & 
+</table>
+<table>
+<header>
+Bromelain inhibitor
+</header>
+<header>
+No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
+</header>
+1 & E-64 &  & 357.41 & ▪ Cathepsin B
+▪ Ficin
+▪ Papain
+▪ Bromelain
+2 & N-Ethylmalei mide &  & 125.13 & ▪ Calpine
+▪ Ficin
+3 & N-p-Tosyl-L-phenilalan ine chlorometh yl ketone &  & 351.85 & ▪ Papain
+▪ Chymotrypsin
+▪ Ficin
+▪ Bromelain
+4 & Sodium iodoacetat e &  & 207.93 & ▪ Carboxypeptidase P
+▪ Bromelain
+▪ Ficin
+▪ Cathepsin
+</table>
+<table>
+<header>
+Calpain inhibitor
+</header>
+<header>
+No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
+</header>
+1 & E-64c &  & 314.38 & 
+2 & E-64d &  & 342.43 & 
+3 & Z-Leu-Leu-Leu-fluorometh yl ketone &  & 507.64 & 
+4 & N-Ethylmalei mide &  & 125.13 & ▪ Ficin
+▪ Calpine
+5 & Antipain dihydrochl oride from microbial source &  & 677.62 & ▪ Calpine
+▪Papain
+▪ Trypsin
+▪ Cathepsin A
+▪ Cathepsin B
+▪ Cathepsin D
+▪ Plasmin
+▪ Chymotrypsin
+▪ Pepsin
+▪ Granzyme B
+▪ Thrombin
+6 & 4-Chloromerc uribenzoic acid &  & 357.16 & ▪ Calpine
+▪ Carboxypeptidase
+▪ Clostripain
+7 & Leupeptin &  & 426.55 & ▪ Plasmin
+▪ Trypsin
+▪ Papain
+▪ Calpine
+▪ Cathepsin B
+▪ Thrombin
+▪ Kallikrein
+▪ Endoproteinase
+▪ Chymotrypsin
+▪ Proteasome (β2)
+</table>
+<table>
+<header>
+Calpain I inhibitor
+</header>
+<header>
+No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
+</header>
+1 & Calpain Inhibitor I (ALLN, Ac-LLnL-CHO, MG-101) &  & 383.53 & ▪ Cathepsin B
+▪ Cathepsin L
+▪ Calpine
+▪ Proteasome
+2 & Calpain Inhibitor II &  & 401.56 & ▪ Cathepsin B
+▪ Calpine
+▪ Proteasome
+</table>
+<table>
+<header>
+Calpain II inhibitor
+</header>
+<header>
+No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
+</header>
+1 & E-64c &  & 314.38 & 
+2 & Calpain Inhibitor I (ALLN, Ac-LLnL-CHO, MG-101) &  & 383.53 & ▪ Cathepsin B
+▪Cathepsin L
+▪ Calpine
+▪ Proteasome
+3 & Calpain Inhibitor II &  & 401.56 & ▪ Cathepsin B
+▪ Calpine
+▪ Proteasome
+4 & N-Ethylmalei mide &  & 125.13 & ▪ Ficin
+▪ Calpine
+5 & Antipain dihydrochl oride from microbial source &  & 677.62 & ▪ Calpine
+▪ Papain
+▪ Trypsin
+▪ Cathepsin A
+▪ Cathepsin B
+▪ Cathepsin D
+▪ Plasmin
+▪ Chymotrypsin
+▪ Pepsin
+▪ Granzyme B
+▪ Thrombin
+6 & 4-Chloromerc uribenzoic acid &  & 357.16 & ▪ Calpine
+▪ Carboxypeptidase
+▪ Clostripain
+7 & Leupeptin &  & 426.55 & ▪ Plasmin
+▪ Trypsin
+▪ Papain
+▪ Calpine
+▪ Cathepsin B
+▪ Thrombin
+▪ Kallikrein
+▪ Endoproteinase
+▪ Chymotrypsin
+▪ Proteasome (β2)
+</table>
+<table>
+<header>
+Carboxypeptidase A/B inhibitor
+</header>
+<header>
+No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
+</header>
+1 & Ethylene glycol-bis (2-aminoethyl ether)-N,N,N',N'-tetraaceti c acid &  & 380.35 & ▪ Carboxypeptidase A
+▪ Carboxypeptidase B
+2 & EDTA disodium salt &  & 372.24 & ▪ Carboxypeptidase A
+▪ Carboxypeptidase B
+▪ Dispase
+▪ Collagenase
+3 & Pentetic acid (DETAPAC, DTPA) &  & 393.35 & ▪ Carboxypeptidase A
+▪ Carboxypeptidase B
+4 & 1,10-Phenanthro line monohydrat e &  & 198.22 & ▪ Carboxypeptidase A
+▪ Carboxypeptidase B
+▪ Dispase
+▪ Leucine aminopeptidase
+▪ Thermolysin
+</table>
+<table>
+<header>
+Carboxypeptidase P inhibitor
+</header>
+<header>
+No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
+</header>
+1 & Diisopropy lfluoropho sphate &  & 184.15 & ▪ Carboxypeptidase
+▪ Chymotrypsin
+▪ Complement
+▪ Elastase
+▪ Endoproteinase
+▪ Kallikrein
+▪ Plasmin
+▪ Thrombin
+▪ Pronase
+▪ Proteinase
+2 & 4-Chloromerc uribenzoic acid &  & 357.16 & ▪ Calpine
+▪ Carboxypeptidase
+▪ Clostripain
+3 & Diethyl pyrocarbon ate (DEP) &  & 162.14 & 
+4 & Sodium iodoacetat e &  & 207.93 & ▪ Carboxypeptidase P
+▪ Bromelain
+▪ Ficin
+▪ Cathepsin
+</table>
+<table>
+<header>
+Carboxypeptidase Y inhibitor
+</header>
+<header>
+No. & Name & Structural formula & Molecul ar weight & Protease to be inhibi ted
+</header>
+1 & Diisopropy lfluoropho sphate &  & 184.15 & ▪ Carboxypeptidase
+▪ Chymotrypsin
+▪ Complement
+▪ Elastase
+▪ Endoproteinase
+▪ Kallikrein
+▪ Plasmin
+▪ Thrombin
+▪ Pronase
+▪ Proteinase
+2 & Phenylmeth anesulfony l fluoride &  & 174.19 & ▪ Thrombin
+▪ Elastase
+▪ Plasmin
+▪ Proteinase
+</table>
+<table>
+<header>
+Cathepsin B inhibitor
+</header>
+<header>
+No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
+</header>
+1 & CA-074 &  & 383.44 & 
+2 & CA-074 methyl ester &  & 397.47 & 
+3 & E-64 &  & 357.41 & ▪ Cathepsin B
+▪ Ficin
+▪ Papain
+▪ Bromelain
+4 & Z-Phe-Phe-fluorometh yl ketone (Z-FF-FMK) &  & 462.51 & 
+5 & Antipain dihydrochl oride from microbial source &  & 677.62 & ▪ Calpine
+▪ Papain
+▪ Trypsin
+▪ Cathepsin A
+▪ Cathepsin B
+▪ Cathepsin D
+▪ Plasmin
+▪ Chymotrypsin
+▪ Pepsin
+</table>
+<table>
+<header>
+Cathepsin B inhibitor (Continued)
+</header>
+<header>
+No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
+</header>
+6 & Calpain Inhibitor I (ALLN, Ac-LLnL-CHO, MG-101) &  & 383.53 & 
+▪ Cathepsin B
+▪ Cathepsin L
+▪ Calpine
+▪ Proteasome
+7 & Calpain Inhibitor II &  & 401.56 & 
+▪ Cathepsin B
+▪ Calpine
+▪ Proteasome
+8 & Chymostati n &  & A : MW = 607.7 & ▪ Chymotrypsin
+▪ Papain
+B: MW = 593.7 & ▪ Chymotrypsin-like serine proteinase
+Chymostatin A X = Leu & C: MW = 607.7 & ▪ Cathepsin A, B, C, B, H, L
+Chymostatin B X = Val
+Chymostatin C X = Ile
+9 & Leupeptin &  & 426.55 & ▪ Plasmin
+▪ Trypsin
+▪ Papain
+▪ Calpine
+▪ Cathepsin B
+▪ Thrombin
+▪ Kallikrein
+▪ Endoproteinase
+▪ Chymotrypsin
+▪ Proteasome (β2)
+</table>
+<table>
+<header>
+Cathepsin C inhibitor
+</header>
+<header>
+No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
+</header>
+1 & Sodium iodoacetat e &  & 207.93 & ▪ Carboxypeptidase P
+▪ Bromelain
+▪ Ficin
+▪ Cathepsin
+</table>
+<table>
+<header>
+Cathepsin D inhibitor
+</header>
+<header>
+No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
+</header>
+1 & Antipain dihydrochl oride from microbial source &  & 677.62 & ▪ Calpine
+▪ Papain
+▪ Trypsin
+▪ Cathepsin A
+▪ Cathepsin B
+▪ Cathepsin D
+▪ Plasmin
+▪ Chymotrypsin
+▪ Pepsin
+▪ Granzyme B
+▪ Thrombin
+2 & Chymostati n &  &  & ▪ Chymotrypsin
+A : MW = 607.7 & ▪ Papain
+B: MW = 593.7 & ▪ Chymotrypsin-like serine proteinase
+Chymostatin A X = Leu & C: MW = 607.7 & ▪ Cathepsin A, B, C, B, H, I
+Chymostatin B X = Val & ▪ Proteasome (β5)
+Chymostatin C X = Ile
+3 & Pepstatin A &  & 685.89 & ▪ Pepsin
+▪ Cathepsin
+</table>
+<table>
+<header>
+Cathepsin L inhibitor
+</header>
+<header>
+No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
+</header>
+1 & Z-Phe-Phe-fluorometh yl ketone (Z-FF-FMK) &  & 462.51 & 
+2 & Calpain Inhibitor I (ALLN, Ac-LLnL-CHO, MG-101) &  & 383.53 & ▪ Cathepsin B
+▪ Cathepsin L
+▪ Calpine
+▪ Proteasome
+</table>
+<table>
+<header>
+Chymotrypsin inhibitor
+</header>
+<header>
+No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
+</header>
+1 & Diisopropy lfluoropho sphate &  & 184.15 & ▪ Carboxypeptidase
+▪ Chymotrypsin
+▪ Complement
+▪ Elastase
+▪ Endoproteinase
+▪ Kallikrein
+▪ Plasmin
+▪ Thrombin
+▪ Pronase
+▪ Proteinase
+2 & 4- (2-Aminoethyl )benzenesu lfonyl fluoride hydrochlor ide (AEBSF) &  & 239.69 & ▪ Plasmin
+▪ Trypsin
+▪ Chymotrypsin
+3 & 6-Aminocapro ic acid &  & 131.17 & 
+4 & Chymostati n &  & A : MW = 607.7 & ▪ Chymotrypsin
+▪ Papain
+▪ Chymotrypsin-like serine proteinase
+B: MW = 593.7 & ▪ Cathepsin A, B, C, B, H, L
+Chymostatin A X = Leu & C: MW = 607.7 & ▪ Proteasome (β5)
+Chymostatin B X = Val
+Chymostatin C X = Ile
+</table>
+<table>
+<header>
+Chymotrypsin inhibitor (Continued)
+</header>
+<header>
+No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
+</header>
+1 & N-p-Tosyl-L-phenylalan ine chlorometh yl ketone &  & 351.85 & ▪ Papain
+▪ Chymotrypsin
+▪ Ficin
+▪ Bromelain
+2 & Bromoenol lactone &  & 317.18 & 
+3 & Gabexate mesylate &  & 417.48 & 
+4 & Leupeptin &  & 426.55 & ▪ Plasmin
+▪ Trypsin
+▪ Papain
+▪ Calpine
+▪ Cathepsin B
+▪ Thrombin
+▪ Kallikrein
+▪ Endoproteinase
+▪ Chymotrypsin
+▪ Proteasome (β2)
+</table>
+<table>
+<header>
+Clostripain inhibitor
+</header>
+<header>
+No. & Name & Structural formula & Molecul ar weight & Protease to be inhibi ted
+</header>
+1 & 4-Chloromerc uribenzoic acid &  & 357.16 & ▪ Calpine
+▪ Carboxypeptidase
+▪ Clostripain
+2 & Nα-Tosyl-L-lysine chlorometh yl ketone hydrochlor ide &  & 369.31 & 
+</table>
+<table>
+<header>
+Collagenase inhibitor
+</header>
+<header>
+No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
+</header>
+1 & EDTA disodium salt &  & 372.24 & 
+▪ Carboxypeptidase A
+▪ Carboxypeptidase B
+▪ Dispase
+▪ Collagenase
+2 & Dichlorome thylene diphosphon ic acid disodium salt (DMDP) &  & 288.86 & 
+</table>
+<table>
+<header>
+Complement Clr/Cls inhibitor
+</header>
+<header>
+No. & Name & Structural formula & Molecul ar weight & Protease to be inhibi ted
+</header>
+1 & Diisopropy lfluoropho sphate &  & 184.15 & ▪ Carboxypeptidase
+▪ Chymotrypsin
+▪ Complement
+▪ Elastase
+▪ Endoproteinase
+▪ Kallikrein
+▪ Plasmin
+▪ Thrombin
+▪ Pronase
+▪ Proteinase
+</table>
+<table>
+<header>
+Complement factor D/B inhibitor
+</header>
+<header>
+No. & Name & Structural formula & Molecul ar weight & Protease to be inhibi ted
+</header>
+1 & Diisopropy lfluoropho sphate &  & 184.15 & ▪ Carboxypeptidase
+▪ Chymotrypsin
+▪ Complement
+▪ Elastase
+▪ Endoproteinase
+▪ Kallikrein
+▪ Plasmin
+▪ Thrombin
+▪ Pronase
+▪ Proteinase
+</table>
+<table>
+<header>
+Dipeptidyl peptidase II inhibitor
+</header>
+<header>
+No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
+</header>
+1 & Puromycin &  & 471.51 & ▪ Dipeptidyl peptidase II
+▪ Cytosol alanyl aminopeptidase
+</table>
+<table>
+<header>
+Dipeptidyl peptidase III inhibitor
+</header>
+<header>
+No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
+</header>
+1 & Opiorphin &  & 692.77 & ▪ Enkephalinase
+▪ Neprilysin
+▪ Dipeptidyl peptidase III
+▪ Cytosol alanyl aminopeptidase
+</table>
+<table>
+<header>
+Dipeptidyl peptidase IV inhibitor
+</header>
+<header>
+No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
+</header>
+1 & Ile-Pro-Ile &  & 341.45 & ▪ Dipeptidyl peptidase IV
+</table>
+<table>
+<header>
+Dispase inhibitor
+</header>
+<header>
+No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
+</header>
+1 & EDTA disodium salt &  & 372.24 & ▪ Carboxypeptidase A
+▪ Carboxypeptidase B
+▪ Dispase
+▪ Collagenase
+2 & 1,10-Phenanthro line monohydrat e &  & 198.22 & ▪ Carboxypeptidase A
+▪ Carboxypeptidase B
+▪ Dispase
+▪ Leucine
+aminopeptidase
+▪ Thermolysin
+</table>
+<table>
+<header>
+Elastase (granulocyte) inhibitor
+</header>
+<header>
+No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
+</header>
+1 & N-(Methoxysu ccinyl)-Ala-Ala-Pro-Val-chlorometh yl ketone &  & 502.99 & 
+</table>
+<table>
+<header>
+Elastase (leukocyte) inhibitor
+</header>
+<header>
+No. & Name & Structural formula & Molecul ar weight & Protease to be inhibi ted
+</header>
+1 & Diisopropy lfluoropho sphate &  & 184.15 & ▪ Carboxypeptidase
+▪ Chymotrypsin
+▪ Complement
+▪ Elastase
+▪ Endoproteinase
+▪ Kallikrein
+▪ Plasmin
+▪ Thrombin
+▪ Pronase
+▪ Proteinase
+2 & 3,4-Dichlorois ocoumarin &  & 215.03 & ▪ Thrombin
+▪ Papain
+▪ Plasmin
+3 & Phenylmeth anesulfony l fluoride &  & 174.19 & ▪ Thrombin
+▪ Elastase
+▪ Plasmin
+▪ Proteinase
+</table>
+<table>
+<header>
+Elastase (pancreas) inhibitor
+</header>
+<header>
+No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
+</header>
+1 & Diisopropy lfluoropho sphate &  & 184.15 & ▪ Carboxypeptidase
+▪ Chymotrypsin
+▪ Complement
+▪ Elastase
+▪ Endoproteinase
+▪ Kallikrein
+▪ Plasmin
+▪ Thrombin
+▪ Pronase
+▪ Proteinase
+2 & 3,4-Dichlorois ocoumarin &  & 215.03 & ▪ Thrombin
+▪ Papain
+▪ Plasmin
+</table>
+<table>
+<header>
+Endoproteinase Arg-C inhibitor
+</header>
+<header>
+No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
+</header>
+1 & Diisopropy lfluoropho sphate &  & 184.15 & ▪ Carboxypeptidase
+▪ Chymotrypsin
+▪ Complement
+▪ Elastase
+▪ Endoproteinase
+▪ Kallikrein
+▪ Plasmin
+▪ Thrombin
+▪ Pronase
+▪ Proteinase
+2 & 3,4-Dichlorois ocoumarin &  & 215.03 & ▪ Thrombin
+▪ Papain
+▪ Plasmin
+</table>
+<table>
+<header>
+No. & Name & Structural formula & Molecul ar weight & Protease to be inhibi ted
+</header>
+Endoproteinase Glu-C inhibitor
+1 & Diisopropy Ifluoropho sphate &  & 184.15 & ▪Carboxypeptidase
+▪Chymotrypsin
+▪Complement
+▪Elastase
+▪Endoproteinase
+▪Kallikrein
+▪Plasmin
+▪Thrombin
+▪Pronase
+▪Proteinase
+</table>
+<table>
+<header>
+Endoproteinase Lys-C inhibitor
+</header>
+<header>
+No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
+</header>
+1 & Diisopropy Ifluoropho sphate &  & 184.15 & ▪Carboxypeptidase
+▪Chymotrypsin
+▪Complement
+▪Elastase
+▪Endoproteinase
+▪Kallikrein
+▪Plasmin
+▪Thrombin
+▪Pronase
+▪Proteinase
+2 & 3,4-Dichlorois ocoumarin &  & 215.03 & ▪Thrombin
+▪Papain
+▪Plasmin
+3 & Leupeptin &  & 426.55 & ▪Plasmin
+▪Trypsin
+▪Papain
+▪Calpine
+▪Cathepsin B
+▪Thrombin
+▪Kallikrein
+▪Endoproteinase
+▪Chymotrypsin
+▪Proteasome (β2)
+</table>
+<table>
+<header>
+Ficin inhibitor
+</header>
+<header>
+No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
+</header>
+1 & E-64 &  & 357.41 & ▪Cathepsin B
+▪Ficin
+▪Papain
+▪Bromelain
+2 & N-Ethylmalei mide &  & 125.13 & ▪Calpine
+▪Ficin
+3 & N-p-Tosyl-L-phenilalan ine chlorometh yl ketone &  & 351.85 & ▪Papain
+▪Chymotrypsin
+▪Ficin
+▪Bromelain
+4 & Sodium iodoacetat e &  & 207.93 & ▪Carboxypeptidase P
+▪Bromelain
+▪Ficin
+▪Cathepsin
+5 & Nα-Tosyl-L-lysine chlorometh yl ketone hydrochlor ide &  & 369.31 & 
+</table>
+<table>
+<header>
+Granzyme B inhibitor
+</header>
+<header>
+No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
+</header>
+1 & Antipain dihydrochl oride from microbial source &  & 677.62 & ▪Calpine
+▪Papain
+▪Trypsin
+▪Cathepsin A
+▪Cathepsin B
+▪Cathepsin D
+▪Plasmin
+▪Chymotrypsin
+▪Pepsin
+▪Granzyme B
+▪Thrombin
+2 & 3,4-Dichlorois ocoumarin &  & 215.03 & ▪Thrombin
+▪Papain
+▪Plasmin
+</table>
+<table>
+<header>
+Kallikrein (tissue) inhibitor
+</header>
+<header>
+No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
+</header>
+1 & Diisopropy Ifluoropho sphate &  & 184.15 & ▪Carboxypeptidase
+▪Chymotrypsin
+▪Complement
+▪Elastase
+▪Endoproteinase
+▪Kallikrein
+▪Plasmin
+▪Thrombin
+▪Pronase
+▪Proteinase
+2 & 3,4-Dichlorois ocoumarin &  & 215.03 & ▪Thrombin
+▪Papain
+▪Plasmin
+3 & Leupeptin &  & 426.55 & ▪Plasmin
+▪Trypsin
+▪Papain
+▪Calpine
+▪Cathepsin B
+▪Thrombin
+▪Kallikrein
+▪Endoproteinase
+▪Chymotrypsin
+▪Proteasome (β2)
+</table>
+<table>
+<header>
+Kallikrein (plasma) inhibitor
+</header>
+<header>
+No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
+</header>
+1 & Gabexate mesylate &  & 417.48 & 
+</table>
+<table>
+<header>
+Leucine aminopeptidase inhibitor
+</header>
+<header>
+No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
+</header>
+1 & Actinonin &  & 385.5 & 
+2 & Bestatin hydrochlor ide &  & 344.83 & ▪Aminopeptidase B
+</table>
+<table>
+<header>
+Leucine aminopeptidase (cytosol) inhibitor
+</header>
+<header>
+No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
+</header>
+1 & Actinonin &  & 385.5 & 
+2 & Amastatin hydrochlor ide hydrate &  & 511.01 (anhydr ous basis) & 
+3 & Ethylene glycol-bis (2-aminoethyl ether)-N,N,N',N'-tetraaceti c acid &  & 380.35 & 
+4 & Ethylenedi aminetetra acetic acid disodium salt dihydrate &  & 372.24 & 
+</table>
+<table>
+<header>
+Leucine aminopeptidase (cytosol) inhibitor (Continued)
+</header>
+<header>
+No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
+</header>
+5 & Diethylene triaminepe ntaacetic acid &  & 393.35 & 
+6 & 3,4-Dichlorois ocoumarin &  & 215.03 & ▪Thrombin
+▪Papain
+▪Plasmin
+7 & 1,10-Phenanthro line monohydrat e &  & 198.22 & ▪Carboxypeptidase A
+▪Carboxypeptidase B
+▪Dispase
+▪Leucine aminopeptidase
+▪Thermolysin
+8 & Bestatin hydrochlor ide &  & 344.83 & ▪AminopeptidaseB
+</table>
+<table>
+<header>
+Leucine aminopeptidase (microsome) inhibitor
+</header>
+<header>
+No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
+</header>
+1 & Actinonin &  & 385.5 & 
+2 & Amastatin hydrochlor ide hydrate &  & 511.01 (anhydr ous basis) & 
+3 & Bestatin hydrochlor ide &  & 344.83 & ▪Aminopeptidase B
+</table>
+<table>
+<header>
+Matrix aminopeptidase inhibitor
+</header>
+<header>
+No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
+</header>
+1 & GM6001 &  & 388.46 & 
+</table>
+<table>
+<header>
+Metalloprotease inhibitor
+</header>
+<header>
+No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
+</header>
+1 & Epiamastat in hydrochlor ide &  & 474.55 & 
+</table>
+<table>
+<header>
+Papain inhibitor
+</header>
+<header>
+No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
+</header>
+1 & E-64 &  & 357.41 & 
+2 & Gly-Gly-Tyr-Arg &  & 451.48 & 
+3 & Antipain dihydrochl oride from microbial source &  & 677.62 & ▪Calpine
+▪Papain
+▪Trypsin
+▪Cathepsin A
+▪Cathepsin B
+▪Cathepsin D
+▪Plasmin
+▪Chymotrypsin
+▪Pepsin
+▪Granzyme B
+▪Thrombin
+4 & Ebselen &  & 274.18 & 
+</table>
+<table>
+<header>
+Papain inhibitor (Continued)
+</header>
+<header>
+No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
+</header>
+5 & Chymostati n &  & A: MW = 607.7 & ▪Chymotrypsin
+B: MW = 593.7 & ▪Papain
+▪Chymotrypsin-like serine proteinase
+Chymostatin A X = Leu & C: MW = 607.7 & ▪Cathepsin A, B, C, B, H, L
+Chymostatin B X = Val & ▪Proteasome (β5)
+Chymostatin C X = Ile & 
+6 & Cystamine dihydrochl oride &  & 225.2 & 
+7 & 3,4-Dichlorois ocoumarin &  & 215.03 & ▪Thrombin
+▪Papain
+▪Plasmin
+8 & N-p-Tosyl-L-phenilalan ine chlorometh yl ketone &  & 351.85 & ▪Papain
+▪Chymotrypsin
+▪Ficin
+▪Bromelain
+9 & Leupeptin &  & 426.55 & ▪Plasmin
+▪Trypsin
+▪Papain
+▪Calpine
+▪Cathepsin B
+▪Thrombin
+▪Kallikrein
+▪Endoproteinase
+▪Chymotrypsin
+▪Proteasome (β2)
+</table>
+<table>
+<header>
+Pepsin inhibitor
+</header>
+<header>
+No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
+</header>
+1 & Pepstatin A &  & 685.89 & ▪Cathepsin D
+</table>
+<table>
+<header>
+Plasmin inhibitor
+</header>
+<header>
+No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
+</header>
+1 & Diisopropy Ifluoropho sphate &  & 184.15 & ▪Carboxypeptidase
+▪Chymotrypsin
+▪Complement
+▪Elastase
+▪Endoproteinase
+▪Kallikrein
+▪Plasmin
+▪Thrombin
+▪Pronase
+▪Proteinase
+2 & Elastatina 1 &  & 512.56 & 
+3 & 4-(2-Aminoethyl )benzenesu lfonyl fluoride hydrochlor ide (AEBSF) &  & 239.69 & ▪Plasmin
+▪Trypsin
+▪Chymotrypsin
+4 & 6-Aminocapro ic acid &  & 131.17 & 
+5 & Antipain dihydrochl oride from microbial source &  & 677.62 & ▪Calpine
+▪Papain
+▪Trypsin
+▪Cathepsin A
+▪Cathepsin B
+▪Cathepsin D
+▪Plasmin
+▪Chymotrypsin
+▪Pepsin
+▪Granzyme B
+▪Thrombin
+</table>
+<table>
+<header>
+Plasmin inhibitor (Continued)
+</header>
+<header>
+No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
+</header>
+6 & 3,4-Dichlorois ocoumarin &  & 215.03 & ▪Thrombin
+▪Papain
+▪Plasmin
+7 & Phenylmeth anesulfony 1 fluoride &  & 174.19 & ▪Thrombin
+▪Elastase
+▪Plasmin
+▪Proteinase
+8 & Gabexate mesylate &  & 417.48 & 
+9 & Leupeptin &  & 426.55 & ▪Plasmin
+▪Trypsin
+▪Papain
+▪Calpine
+▪Cathepsin B
+▪Thrombin
+▪Kallikrein
+▪Endoproteinase
+▪Chymotrypsin
+▪Proteasome (β2)
+</table>
+<table>
+<header>
+Thrombin inhibitor
+</header>
+<header>
+No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
+</header>
+1 & Diisopropy Ifluoropho sphate &  & 184.15 & ▪Carboxypeptidase
+▪Chymotrypsin
+▪Complement
+▪Elastase
+▪Endoproteinase
+▪Kallikrein
+▪Plasmin
+▪Thrombin
+▪Pronase
+▪Proteinase
+2 & Nα-Tosyl-L-lysine chlorometh yl ketone hydrochlor ide &  & 369.31 & 
+3 & 4- (2-Aminoethyl )benzenesu lfonyl fluoride hydrochlor ide (AEBSF) &  & 239.69 & 
+4 & Antipain dihydrochl oride from microbial source &  & 677.62 & ▪Calpine
+▪Papain
+▪Trypsin
+▪Cathepsin A
+▪Cathepsin B
+▪Cathepsin D
+▪Plasmin
+▪Chymotrypsin
+▪Pepsin
+</table>
+<table>
+<header>
+Thrombin inhibitor (Continued)
+</header>
+<header>
+No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
+</header>
+5 & 3,4-Dichlorois ocoumarin &  & 215.03 & ▪Thrombin
+▪Papain
+▪Plasmin
+6 & Phenylmeth anesulfony 1 fluoride &  & 174.19 & ▪Thrombin
+▪Elastase
+▪Plasmin
+▪Proteinase
+7 & Gabexate mesylate &  & 417.48 & 
+8 & Leupeptin &  & 426.55 & ▪Plasmin
+▪Trypsin
+▪Papain
+▪Calpine
+▪Cathepsin B
+▪Thrombin
+▪Kallikrein
+▪Endoproteinase
+▪Chymotrypsin
+▪Proteasome (β2)
+</table>
+<table>
+<header>
+Thermolysin inhibitor
+</header>
+<header>
+No. & Name & Structural formula & Molecul ar weight & Protease to be inhibi ted
+</header>
+1 & Ethylene glycol-bis (2-aminoethyl ether)-N,N,N',N'-tetraaceti c acid &  & 380.35 & 
+2 & Ethylenedi aminetetra acetic acid disodium salt dihydrate &  & 372.24 & 
+▪Carboxypeptidase A
+▪Carboxypeptidase B
+▪Dispase
+▪Collagenase
+3 & Diethylene triaminepe ntaacetic acid &  & 393.35 & 
+4 & 1,10-Phenanthro line monohydrat e &  & 198.22 & ▪Carboxypeptidase A
+▪Carboxypeptidase B
+▪Dispase
+▪Leucine
+aminopeptidase
+▪ Thermolysin
+5 & Phosphoram idon disodium salt &  & 587.47 & 
+</table>
+<table>
+<header>
+Trypsin inhibitor
+</header>
+<header>
+No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
+</header>
+1 & 4-(2-Aminoethyl )benzenesu lfonyl fluoride hydrochlor ide &  & 239.69 & ▪Plasmin
+▪Trypsin
+▪Chymotrypsin
+2 & Antipain dihydrochl oride from microbial source &  & 677.62 & ▪Calpine
+▪Papain
+▪Trypsin
+▪Cathepsin A
+▪Cathepsin B
+▪Cathepsin D
+▪Plasmin
+▪Chymotrypsin
+▪Pepsin
+▪Granzyme B
+▪Thrombin
+3 & Boldine &  & 327.37 & 
+</table>
+<table>
+<header>
+Pronase E inhibitor
+</header>
+<header>
+No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
+</header>
+1 & EDTA disodium salt &  & 372.24 & ▪Carboxypeptidase A
+▪Carboxypeptidase B
+▪Dispase
+▪Collagenase
+2 & Diisopropy Ifluoropho sphate &  & 184.15 & ▪Carboxypeptidase
+▪Chymotrypsin
+▪Complement
+▪Elastase
+▪Endoproteinase
+▪Kallikrein
+▪Plasmin
+▪Thrombin
+▪Pronase
+▪Proteinase
+</table>
+<table>
+<header>
+Procaspase 3 inhibitor
+</header>
+<header>
+No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
+</header>
+1 & N-Acetyl-Glu-Ser-Met-Asp-al (Ac-ESMD-CHO) &  & 506.53 & 
+2 & N-Acetyl-Ile-Glu-Thr-Asp-al (Ac-IETD-CHO) &  & 502.52 & 
+</table>
+<table>
+<header>
+Proteinase K inhibitor
+</header>
+<header>
+No. & Name & Structural formula & Molecul ar weight & Protease to be inhibi ted
+</header>
+1 & Phenylmeth anesulfony 1 fluoride &  & 174.19 & ▪Thrombin
+▪Elastase
+▪Plasmin
+▪Proteinase
+2 & Diisopropy Ifluoropho sphate &  & 184.15 & ▪Carboxypeptidase
+▪Chymotrypsin
+▪Complement
+▪Elastase
+▪Endoproteinase
+▪Kallikrein
+▪Plasmin
+▪Thrombin
+▪Pronase
+▪Proteinase
+</table>
+<table>
+<header>
+Renin inhibitor
+</header>
+<header>
+No. & Name & Structural formula & Molecul ar weight & Protease to be inhibi ted
+</header>
+1 & Pepstatin A &  & 685.89 & ▪Cathepsin D
+</table>
+<table>
+<header>
+Caspase inhibitor
+</header>
+<header>
+No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
+</header>
+1 & Boc Asp(OMe)-fluorometh yl ketone (Boc-D-FMK) &  & 263.26 & 
+2 & Z-Ala-Glu(OMe)-Val-Asp(OMe)-fluorometh yl ketone (Z-AEVD-FMK) &  & 610.63 & 
+</table>
+<table>
+<header>
+Caspase 1 inhibitor
+</header>
+<header>
+No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
+</header>
+1 & N-Acetyl-Trp-Glu-His-Asp-al (Ac-WEHD-CHO) &  & 611.6 & 
+</table>
+<table>
+<header>
+Caspase 2 inhibitor
+</header>
+<header>
+No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
+</header>
+1 & N-Acetyl-Val-Asp-Val-Ala-Asp-CHO (Ac-VDVAD-CHO) &  & 543.52 & 
+2 & Z-Val-Asp(O-Me)-Val-Ala-Asp (O-Me) fluorom ethyl ketone (Z-VDVAD-FMK) &  & 695.73 & 
+</table>
+<table>
+<header>
+Caspase 3 inhibitor
+</header>
+<header>
+No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
+</header>
+1 & N-Acetyl-Glu-Ser-Met-Asp-al (Ac-ESMD-CHO) &  & 506.53 & 
+2 & Z-Asp(OMe)-Gln-Met-Asp (OMe) fl uoromethyl ketone &  & 685.72 & 
+3 & N-Acetyl-Asp-Glu-Val-Asp-al (Ac-DEVD-CHO) &  & 502.47 & 
+4 & N-Acetyl-Ile-Glu-Thr-Asp-al (Ac-IETD-CHO) &  & 502.52 & 
+</table>
+<table>
+<header>
+Caspase 5 inhibitor
+</header>
+<header>
+No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
+</header>
+1 & N-Acetyl-Trp-Glu-His-Asp-al (Ac-WEHD-CHO) &  & 611.6 & 
+</table>
+<table>
+<header>
+Caspase 6 inhibitor
+</header>
+<header>
+No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
+</header>
+1 & N-Acetyl-Val-Glu-Ile-Asp-al &  & 500.54 & 
+2 & Z-Asp(OMe)-Gln-Met-Asp (OMe) fl uoromethyl ketone &  & 685.72 & 
+3 & Z-Val-Glu(O-Me)-Ile-Asp (O-Me)fluorom ethyl ketone &  & 652.71 & 
+</table>
+<table>
+<header>
+Caspase 7 inhibitor
+</header>
+<header>
+No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
+</header>
+1 & Z-Asp(O-Me)-Glu(O-Me)-Val-Asp(O-Me)fluoeom ethyl ketone (Z-DEVD-FMK) &  & 668.66 & 
+</table>
+<table>
+<header>
+Caspase 8 inhibitor
+</header>
+<header>
+No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
+</header>
+1 & Z-Ile-Glu (O-Me) - Thr-Asp (O-Me)fluorom ethyl ketone (Z-IETD-FMK) &  & 654.68 & 
+2 & Z-Leu-Glu (OMe)-Thr-Asp (OMe)-fluorometh yl ketone (Z-LETD-FMK) &  & 655.69 & 
+3 & N-Acetyl-Ile-Glu-Thr-Asp-al (Ac-IETD-CHO) &  & 502.52 & 
+</table>
+<table>
+<header>
+Caspase 9 inhibitor
+</header>
+<header>
+No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
+</header>
+1 & Z-Leu-Glu (O-Me)-His-Asp (O-Me)fluorom ethyl ketone (Z-LE(OMe)HD( OMe) - FMK, Z-LEHD-FMK) &  & 690.72 & 
+</table>
+<table>
+<header>
+Caspase 13 inhibitor
+</header>
+<header>
+No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
+</header>
+1 & Z-Leu-Glu(OMe)-Glu(OMe)-Asp(OMe)-fluorometh yl ketone (Z-LEED-FMK) &  & 696.72 & 
+</table>
+<table>
+<header>
+Cytosol alanyl aminopeptidase inhibitor
+</header>
+<header>
+No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
+</header>
+1 & Puromycin &  & 471.51 & ▪Dipeptidyl peptidase II
+▪Cytosol alanyl aminopeptidase
+2 & Opiorphin &  & 692.77 & ▪Enkephalinase
+▪Neprilysin
+▪Dipeptidyl peptidase III
+▪Cytosol alanyl aminopeptidase
+</table>
+<table>
+<header>
+Enkephalinase inhibitor
+</header>
+<header>
+No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
+</header>
+1 & Opiorphin &  & 692.77 & ▪Enkephalinase
+▪Neprilysin
+▪Dipeptidyl peptidase III
+▪Cytosol alanyl aminopeptidase
+</table>
+<table>
+<header>
+Neprilysin inhibitor
+</header>
+<header>
+No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
+</header>
+1 & Opiorphin &  & 692.77 & ▪Enkephalinase
+▪Neprilysin
+▪Dipeptidyl peptidase III
+▪Cytosol alanyl aminopeptidase
+</table>
+It is noted that in the above descriptions, proteasome inhibitors and protease inhibitors other than the proteasome inhibitors are separately discussed for convenience, but a compound is also known which can inhibit the activities of both a proteasome and a protease other than proteasomes. Therefore, a protein-degradation inducing tag having an affinity with both a proteasome and a protease other than proteasomes can be obtained when such a compound is used.
+Examples of the compound which can inhibit the activities of both a proteasome and a protease other than proteasomes are shown in the following table 79. In Example 10 described below, the protein-degradation inducing tag is used in which the protease (proteasome) inhibitory activity of a calpain inhibitor (ALLN) shown in No. 1 of Table 79 is inactivated. However, the compound which can inhibit the activities of both a proteasome and a protease other than proteasomes shall not be limited to these examples.
+<table>
+<header>
+No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
+</header>
+1 & Calpain Inhibitor I (ALLN, Ac-LLnL-CHO, MG-101) &  & 383.53 & ▪Proteasome
+▪Cathepsin B
+▪Cathepsin L
+▪Calpine
+2 & Calpain Inhibitor II &  & 401.56 & ▪Proteasome
+▪Cathepsin B
+▪Calpine
+3 & Leupeptin &  & 426.55 & ▪Plasmin
+▪Trypsin
+▪Papain
+▪Calpine
+▪Cathepsin B
+▪Thrombin
+▪Kallikrein
+▪Endoproteinase
+▪Chymotrypsin
+▪Proteasome (β2)
+4 & Chymostati n &  & A: MW = 607.7 & ▪Proteasome (β5)
+▪Chymotrypsin
+B: MW = 593.7 & ▪Papain
+▪Chymotrypsin-like serine proteinase
+Chymostatin A X = Leu & C: MW = 607.7 & ▪Cathepsin A, B, C, B, H, L
+Chymostatin B X = Val
+Chymostatin C X = Ile
+5 & clasto-Lactacysti n β-lactone &  & 213.23 & ▪tripeptidyl peptidase II
+▪chlamydial protease-like activity factor
+</table>
+In another embodiment, a proteasome activator can be used as a protein-degradation inducing tag. A proteasome activator is a compound having an affinity with a proteasome (a protease complex) without inhibiting degradation of a protein by the proteasome, and can be used as a protein-degradation inducing tag. That is, according to the present disclosure, use of a proteasome activator as a protein-degradation inducing tag is provided.
+Examples of the proteasome activator are shown in the following Tables 80 to 82. However, the proteasome activator which can be used in the present embodiment shall not be limited to these examples.
+<table>
+<header>
+20S proteasome activator
+</header>
+<header>
+No. & Generic name / Product name & Structural formula & Molecular weight
+</header>
+1 & Oleuropein &  & 540.51
+2 & Betulinic acid &  & 456.70
+</table>
+<table>
+<header>
+19S/11S (PA28) proteasome activator
+</header>
+<header>
+No. & Generic name / Product name & Structural formula & Molecular weight
+</header>
+1 & IU1 (Usp 14 inhibitor) &  & 300.38
+2 & b-AP-15 (Usp 14 and Uch-L5 inhibitor) &  & 419.39
+3 & 17-AAG &  & 585.7
+4 & PU3 &  & 371.44
+5 & PU-H71 &  & 512.37
+6 & NVP-AUY922 &  & 493.60
+</table>
+<table>
+<header>
+19S/11S (PA28) proteasome activator (Continued)
+</header>
+<header>
+No. & Generic name / Product name & Structural formula & Molecular weight
+</header>
+7 & SNX-5422 &  & 521.54
+8 & HBX 19,818 &  & 407.94
+9 & LS1 &  & 518.53
+10 & LDN91946 &  & 314.32
+11 & P005091 &  & 348.21
+12 & P0040429 &  & 484.38
+</table>
+<Method of screening for protein-degradation inducing tag>
+The method of screening for a protein-degradation inducing tag according to the present disclosure includes a step of selecting a molecule having an affinity with a protease without inhibiting degradation of a protein by the protease from candidate molecules. In a certain embodiment, the protease is a proteasome (a protease complex).
+There is no particular limitation for a method of selecting, from candidate molecules, a molecule having an affinity with a protease without inhibiting degradation of a protein by the protease, but, for example, the following method may be used.
+First, candidate molecules are prepared. As the candidate molecules, a library can be used such as a compound library, a drug library, and a natural-product library. The candidate molecules are preferably pre-immobilized on each well of a plate for high throughput screening (HTS), a microarray plate, a metal plate, and the like.
+Next, the candidate molecules immobilized on each well are subjected to treatment with a protease labelled with a fluorochrome, nucleic acid (mRNA or DNA), or the like, and then each well is washed. In order to label a protease with a fluorochrome, a fusion protein with GFP (Green Fluorescent Protein), labelling by C-terminus labeling, and the like can be used. In order to label a protease with nucleic acid, a display method can be used such as the IVV (in vitro virus) method (may also be referred to as the mRNA display method) and the DNA display method. Then, a molecule having an affinity with a protease will be specified based on the label on a protease. When a protease is labelled with a fluorochrome, a molecule having an affinity with the protease can be specified by detecting fluorescence. When a protease is labelled with mRNA, a molecule having an affinity with the protease can be specified by detecting the sequence of the nucleic acid by reverse transcription PCR.
+Next, a molecule which does not inhibit degradation of a protein by the protease will be specified from molecules having an affinity with the protease. To evaluate whether degradation of a protein by a protease is inhibited or not, a method can be use which is described in Example below.
+<Method of manufacturing protein-degradation inducing tag>
+The method of manufacturing a protein-degradation inducing tag according to the present disclosure includes a step of modifying a structure of an active site of a protease inhibitor to inactivate the protease inhibitory activity. In a certain embodiment, the protease inhibitor is a proteasome inhibitor, and a protein-degradation inducing tag is manufactured by inactivating the proteasome inhibitory activity of the proteasome inhibitor.
+As described above, the protease inhibitor is a compound having an affinity with a protease and inhibiting degradation of a protein by the protease. Therefore, a protein-degradation inducing tag can be obtained by modifying structure of the active site of a protease inhibitor to inactivate the protease inhibitory activity.
+The protease inhibitor used for manufacturing a protein-degradation inducing tag may be a known protease inhibitor, or may be obtained by screening candidate molecules. That is, the method of manufacturing a protein-degradation inducing tag may further include a step of selecting, as a protease inhibitor, a molecule having an affinity with a protease and inhibiting degradation of a protein by the protease from candidate molecules. For example, in the aforementioned method of screening for a protein-degradation inducing tag, a molecule which does not inhibit degradation of a protein by a protease is specified from molecules having an affinity with the protease, and thus a molecule (a protease inhibitor) having an affinity with the protease and inhibiting degradation of a protein by the protease is specified during the screening process. Therefore, a protein-degradation inducing tag may be manufactured using a protease inhibitor obtained by the screening method as described above.
+<Library of protein-degradation inducing tags>
+The library of protein-degradation inducing tags according to the present disclosure includes two or more types of the aforementioned protein-degradation inducing tags. The library of protein-degradation inducing tags can be used in the screening method described below.
+<Protein-degradation inducing molecule>
+The protein-degradation inducing molecule according the present disclosure is a conjugate of at least one protein-degradation inducing tag described above and at least one protein binding molecule capable of binding to a protein. The above protein-degradation inducing molecule enables the at least one protein binding molecule to bind with a target protein, leading the target protein to degradation (knockdown) by a protease (for example, a proteasome) without ubiquitination of the target protein (see Examples 2, 7, 12, 15, 16, 21 to 23 described above). It is noted that there is no particular limitation for the binding mode between the protein binding molecule and the target protein, but examples of the binding mode include a covalent bond, a hydrogen bond, a hydrophobic bond, Van der Waals force, and the like.
+Examples of the target protein include proteins residing inside a cell or on a cell membrane. The target protein may be a mutant protein produced by mutation, or may be a fusion protein produced by translocation and the like. Further, the target protein may be an endogenous protein, or may be an exogenous protein from viruses, bacteria, and the like. Moreover, the target protein may be a protein which is not promptly degraded, and thus accumulated for some reasons. In a certain embodiment, the target protein is a protein involving in cell cycle, signal transduction, cell differentiation, cell dedifferentiation, cell proliferation, production of a biologically active substance such as cytokine, or the like. It is noted that the target protein does not need to be prespecified. An unknown target protein can be identified as described below by using a protein-degradation inducing molecule.
+Examples of the protein binding molecule include medicaments such as low molecular weight compounds, antibodies, and peptides; endogenous biologically active substances such as cytokines, growth factors, hormones; natural products; metabolites; plant ingredients; food ingredients; and the like. Binding molecules (eg.inhibitors) in some types of the target protein are known (for example, see WO2008/123266), and thus these known molecules can be used as protein binding molecules. When a molecule capable of binding to a target protein is unknown, binding molecules may be screened by high throughput screening (HTS). Alternatively, an antibody capable of binding to a target protein may be produced, which may be used as a protein binding molecule.
+There is no particular limitation for the form of a conjugate of a protein-degradation inducing tag and a protein binding molecule as long as the affinity of the protein-degradation inducing tag with a protease and the binding of the protein binding molecule with a protein are maintained.
+For example, the protein-degradation inducing molecule may have a structure in which at least one protein-degradation inducing tag and at least one protein binding molecule are linked. The protein-degradation inducing molecule may have a structure in which one protein-degradation inducing tag is linked to one protein binding molecule, or may have a structure in which one protein-degradation inducing tag is linked to a plurality of protein binding molecules, or may have a structure in which a plurality of protein-degradation inducing tags are linked to one protein binding molecule, or may have a structure in which a plurality of protein-degradation inducing tags are linked to a plurality of protein binding molecules. In a certain embodiment, the protein-degradation inducing molecule has a structure in which one protein-degradation inducing tag is linked to one protein binding molecule.
+There is no particular limitation for the linkage position of a protein-degradation inducing tag with the protein binding molecule as long as an affinity with a protease is maintained. For example, when the protein-degradation inducing tag has a structure in which the active site of a protease inhibitor (for example, a proteasome inhibitor) is replaced with another structural moiety as described above, the protein-degradation inducing tag can be bound to the protein binding molecule at the replaced another structural moiety. Specifically, when the active site of a protease inhibitor is replaced with a carboxy group, the protein-degradation inducing tag can be bound to the protein binding molecule through the carboxy group. On the other hand, there is no particular limitation for the linkage position of the protein binding molecule with the protein-degradation inducing tag as long as binding property with a protein is maintained.
+It is noted that the protein-degradation inducing tag and the protein binding molecule may be configured to be linked to each other. When a protein-degradation inducing tag is difficult to be directly linked to a protein binding molecule, a structure which enables mutual linkage may be introduced into at least one of the protein-degradation inducing tag and the protein binding molecule. For example, a molecule known to bind with a target protein can be used as a protein binding molecule, but a direct linkage between this known molecule and a protein-degradation inducing tag may potentially be difficult to form. In such a case, a structure which can be linked to a protein-degradation inducing tag may be introduced into the aforementioned known molecule for use as a protein binding molecule.
+<Library of protein-degradation inducing molecules>
+The library of protein-degradation inducing molecules according to the present disclosure includes two or more types of the aforementioned protein-degradation inducing molecules. Examples of the form in which two or more types of protein-degradation inducing molecules are included include a form in which two or more types of protein-degradation inducing molecules having the same type of protein-degradation inducing tags but having different types of protein binding molecules are included, a form in which two or more types of protein-degradation inducing molecules having the same type of protein binding molecules but having different types of protein-degradation inducing tags are included, and a form in which two or more types of protein-degradation inducing molecules having different types of protein-degradation inducing tags and having different types of protein binding molecules are included.
+There is no particular limitation for the method of manufacturing a library of protein-degradation inducing molecules. Examples of the method of manufacturing a library of protein-degradation inducing molecules include a method in which protein-degradation inducing tags are conjugated to each protein binding molecule included in the library of protein binding molecules. Examples of the library of protein binding molecules include a compound library, a drug library, a natural product library, and the like. For example, a library of protein-degradation inducing molecules can be manufactured by linking protein-degradation inducing molecules to each protein binding molecule included in a library of protein binding molecules using a chemical reaction, a crosslinking reaction, and the like. Other examples of the method of manufacturing a library of protein-degradation inducing molecules include a method in which protein binding molecules are conjugated to each protein-degradation inducing tag included in the aforementioned library of protein-degradation inducing tags.
+The library of protein-degradation inducing molecules can be used in the screening method described below.
+<Pharmaceutical composition>
+The pharmaceutical composition according to the present disclosure includes the aforementioned protein-degradation inducing tag or the protein-degradation inducing molecule. As described above, the protein-degradation inducing tag can lead a target protein to degradation (knockdown) by a protease (for example, a proteasome) without ubiquitination of the target protein, the protein-degradation inducing tag being used alone when the protein-degradation inducing tag is capable of binding to the target protein, or conjugated (the protein-degradation inducing molecule) to a protein binding molecule capable of binding to the target protein when the protein-degradation inducing tag is incapable of binding to the target protein. Therefore, when a target protein is responsible for a certain disease (disease causative agent), a pharmaceutical composition against that disease can be manufactured by using a protein-degradation inducing tag or a protein-degradation inducing molecule which can lead the target protein to degradation. Then, the above pharmaceutical composition is administered to a patient to promote degradation of the target protein in the body of the patient. This can lead to prevention or treatment of that disease (for example, see Example 16 described below which represents a knockdown experiment in mouse individuals).
+In the conventional drug discovery methodology where drug discovery is performed based on the form of a target protein, about 75% of the proteome are thought to be undruggable targets. In contrast, according to the aforementioned protein-degradation inducing tag, or protein-degradation inducing molecule, any protein can be be targeted in principle. Here, the target protein is from eukaryote or prokaryote (animal, plant, fungus, yeast, E. coli, and the like). The target protein may be a mutant protein produced by mutation, or may be a fusion protein produced by translocation and the like. Further, the target protein may be an endogenous protein, or may be an exogenous protein from viruses, bacteria, and the like. Moreover, the target protein may be a protein which is not promptly degraded, and thus accumulated for some reasons.
+The pharmaceutical composition may include an ingredient other than the protein-degradation inducing tag or protein-degradation inducing molecule. For example, the pharmaceutical composition may include an organic or inorganic carrier which is conventionally used as a formulation material. The above carrier is formulated as an excipient, a lubricant, a binder, a disintegrating agent, and the like in a solid preparation, and as a solvent, a solubilizing agent, a suspending agent, an isotonizing agent, a buffer agent, and the like in a liquid preparation. Further, the pharmaceutical composition may include a formulation additive such as an antiseptic agent, an anti-oxidative agent, a coloring agent, a sweetening agent, and the like.
+There is no particular limitation for the dosage form of the pharmaceutical composition. Examples of the dosage form of the pharmaceutical composition include oral preparations such as tablet, capsule, granule, powder, trochiscus, syrup, emulsion, suspension, and film preparations; parenteral preparations such injectable preparations, infusion preparations, external preparations, suppository, pellets, transnasal preparations, pulmonary preparations (inhalation), and eye drops; and the like.
+The dose of the pharmaceutical composition is appropriately determined depending on the subject, route of administration, target disease, conditions, and the like.
+<Method of degrading target protein>
+The method of degrading a target protein according to the present disclosure includes a step of inducing degradation of a target protein using the aforementioned protein-degradation inducing tag or protein-degradation inducing molecule.
+There is no particular limitation for the method of inducing degradation of a target protein using the protein-degradation inducing tag or protein-degradation inducing molecule. For example, the protein-degradation inducing tag or protein-degradation inducing molecule may be added to a medium in which cells, a tissue, or an organ is cultured. Any cells, tissue, and organ can be used as long as they are from eukaryote or prokaryote (animal, plant, fungus, yeast, E. coli, and the like) which have a protease (for example, a proteasome). Alternatively, the protein-degradation inducing tag or protein-degradation inducing molecule may be administered orally or parenterally to the living body of eukaryote or prokaryote which has a protease (for example, a proteasome). Subjects of administration include primate such as human, mouse, rat, swine, canine, feline, and the like. Alternatively, the protein-degradation inducing tag or protein-degradation inducing molecule may be added to an in vitro (cell free) protease degradation system (for example, a proteasome degradation system).
+As described above, the protein-degradation inducing tag can lead a target protein to degradation (knockdown) by a protease (for example, a proteasome) without ubiquitination of the target protein, the protein-degradation inducing tag being used alone when the protein-degradation inducing tag is capable of binding to the target protein, or conjugated (the protein-degradation inducing molecule) to a protein binding molecule capable of binding to the target protein when the protein-degradation inducing tag is incapable of binding to the target protein.
+<Method of performing functional analysis on target protein>
+The method of performing functional analysis on a target protein according to the present disclosure includes a step of inducing degradation of the target protein using the aforementioned protein-degradation inducing tag or protein-degradation inducing molecule. As used herein, the term "functional analysis on a target protein" means analyzing functions of the target protein when the target protein is specified. The target protein may have completely unknown functions or partially elucidated functions.
+There is no particular limitation for the method of inducing degradation of a target protein using the protein-degradation inducing tag or protein-degradation inducing molecule. For example, the protein-degradation inducing tag or protein-degradation inducing molecule may be added to a medium in which cells, a tissue, or an organ is cultured. Alternatively, the protein-degradation inducing tag or protein-degradation inducing molecule may be administered orally or parenterally to the living body of eukaryote or prokaryote which has a protease (for example, a proteasome). Alternatively, the protein-degradation inducing tag or protein-degradation inducing molecule may be added to an in vitro (cell free) functional analysis system along with a protease degradation system (for example, a proteasome degradation system).
+As described above, the protein-degradation inducing tag can lead a target protein to degradation (knockdown) by a protease (for example, a proteasome) without ubiquitination of the target protein, the protein-degradation inducing tag being used alone when the protein-degradation inducing tag is capable of binding to the target protein, or conjugated (the protein-degradation inducing molecule) to a protein binding molecule capable of binding to the target protein when the protein-degradation inducing tag is incapable of binding to the target protein. Accordingly, when eukaryote or prokaryote, or cells thereof are used, functions of a target protein can be analyzed by, for example, inducing degradation of the target protein using the protein-degradation inducing tag or protein-degradation inducing molecule, and then analyzing changes in the phenotype of the cells or living body. Alternatively, when an in vitro (cell free) functional analysis system is used, functions of a target protein can be analyzed by inducing degradation of the target protein using the protein-degradation inducing tag or protein-degradation inducing molecule, and then analyzing differences (changes) in molecular networks in the presence or absence of the target protein.
+Traditionally, when functions of a target protein are analyzed in the living body of an animal, a gene knockout mouse is usually created. However, disadvantageously, a long period of time (for example, 1 year or more) is required to create a gene knockout mouse. In recent years, the genome editing technique (CRISPR/CAS9) has been developed. Nonetheless, creation of a gene knockout mouse takes several months to half a year even when this CRISPR/CAS9 technique is used. In contrast, according to the aforementioned protein-degradation inducing tag or protein-degradation inducing molecule, a target protein can be led to degradation (knockdown) in a short period of time, and an effect comparable to a case where a gene knockout mouse is created can be obtained. Further, according to the aforementioned protein-degradation inducing tag or protein-degradation inducing molecule, functions of a target protein can also be analyzed dynamically.
+<Method of identifying target protein>
+The method of identifying a target protein according to the present disclosure includes a step of inducing degradation of the target protein using the aforementioned protein-degradation inducing tag or protein-degradation inducing molecule; and a step of identifying a protein subjected to degradation induced by the protein-degradation inducing tag or protein-degradation inducing molecule. As used herein, the term "identifying a target protein" means that a target protein capable of binding to a protein-degradation inducing tag or a protein binding molecule is identified. The protein-degradation inducing tag or the protein binding molecule may bind to not only a completely unknown target protein but a partially known target protein.
+According to the method of identifying a target protein, protein degradation is first induced using the aforementioned protein-degradation inducing tag or protein-degradation inducing molecule. There is no particular limitation for the method of inducing protein degradation using the protein-degradation inducing tag or protein-degradation inducing molecule. For example, the method of degrading a target protein as described above may be adopted.
+Next, a protein is identified, of when degradation having been induced by the protein-degradation inducing tag or the protein-degradation inducing molecule. As described above, the protein-degradation inducing tag can lead a target protein to degradation (knockdown) by a protease (for example, a proteasome) without ubiquitination of the target protein, the protein-degradation inducing tag being used alone when the protein-degradation inducing tag is capable of binding to the target protein, or conjugated (the protein-degradation inducing molecule) to a protein binding molecule capable of binding to the target protein when the protein-degradation inducing tag is incapable of binding to the target protein. Subsequently, the target protein can be identified by, for example, extracting proteins from cells, and performing proteome analysis to specify a protein present in a reduced amount.
+<Method of identifying pathway molecule through target protein>
+The method of identifying a pathway molecule through a target protein according to the present disclosure includes a step of inducing degradation of the target protein using the aforementioned protein-degradation inducing tag or protein-degradation inducing molecule; and a step of identifying a protein showing an altered activity or expression, the protein being different from the target protein. As used herein, the term "identifying a pathway molecule through a target protein" means that identifying a protein other than the target protein in a protein pathway (a signal transduction pathway and the like) where the target protein is involved. The pathway molecule through a target protein may be not only completely unknown but partially known.
+According to the method of identifying a pathway molecule through a target protein, protein degradation is first induced using the aforementioned protein-degradation inducing tag or protein-degradation inducing molecule. There is no particular limitation for the method of inducing protein degradation using the protein-degradation inducing tag or protein-degradation inducing molecule. For example, the method of degrading a target protein as described above may be adopted.
+Next, a protein showing an altered activity or expression which is different from the target protein is identified. As described above, the protein-degradation inducing tag can lead a target protein to degradation (knockdown) by a protease (for example, a proteasome) without ubiquitination of the target protein, the protein-degradation inducing tag being used alone when the protein-degradation inducing tag is capable of binding to the target protein, or conjugated (the protein-degradation inducing molecule) to a protein binding molecule capable of binding to the target protein when the protein-degradation inducing tag is incapable of binding to the target protein. At this time, the activity or expression of another protein along a protein pathway where the target protein is involved may be altered as the target protein undergoes degradation. Therefore, a pathway molecule can be identified through a target protein by specifying another protein showing an altered activity or expression.
+It is noted that when an increase or decrease in the target protein is responsible for a decrease, identification of a pathway molecule through the target protein can contribute to elucidation of the mechanism of that disease.
+<Method of screening for protein-degradation inducing tag or protein-degradation inducing molecule>
+The method of screening for a protein-degradation inducing tag or protein-degradation inducing molecule according to the present disclosure includes a step of introducing the aforementioned protein-degradation inducing tag, library of protein-degradation inducing tags, protein-degradation inducing molecules, or library of protein-degradation inducing molecules to a system including a target protein present, and a step of selecting a protein-degradation inducing tag or protein-degradation inducing molecule which has induced degradation of the target protein.
+There is no particular limitation for the system including a target protein, but it may be, for example, a protease degradation system (for example, a proteasomal degradation system) using eukaryotic or prokaryotic cells which have a protease (for example, a proteasome) or an in vitro (cell-free) protease degradation system (for example, a proteasomal degradation system).
+When a protein-degradation inducing tag or protein-degradation inducing molecule capable of binding to a target protein is included in the protein-degradation inducing tag, library of protein-degradation inducing tags, protein-degradation inducing molecule, or library of protein-degradation inducing molecules introduced to the system including the target protein, the target protein is led to degradation (knockdown) by a protease (for example, a proteasome). Therefore, what is necessary is just to select a protein-degradation inducing tag or protein-degradation inducing molecule which has induced such degradation of the target protein upon screening.
+According to the above screening method, a protein-degradation inducing tag or protein-degradation inducing molecule which leads any selected target protein to degradation can be obtained in principle. Further, when a target protein is responsible for a certain disease (disease causative agent), a protein-degradation inducing tag or protein-degradation inducing molecule which leads the target protein to degradation can be selected as a candidate ingredient for preventing or treating that disease.
+<Method of screening candidate ingredient for preventing or treating disease>
+One embodiment of the method of screening for a candidate ingredient for preventing or treating a disease according to the present disclosure includes a step of introducing the aforementioned protein-degradation inducing tag, library of protein-degradation inducing tags, protein-degradation inducing molecule, or library of protein-degradation inducing molecules to a disease model system, and selecting a protein-degradation inducing tag or protein-degradation inducing molecule which has improves a condition of the disease. Moreover, another embodiment of the method of screening for a candidate ingredient for preventing or treating a disease according to the present disclosure includes a step of introducing the aforementioned protein-degradation inducing tag, library of protein-degradation inducing tags, protein-degradation inducing molecule, or library of protein-degradation inducing molecules to a disease model system, and extracting a protein-degradation inducing tag or a protein-degradation inducing molecule which has aggravated a condition of the disease, and selecting a protein subjected to degradation induced by the extracted protein-degradation inducing tag or the extracted protein-degradation inducing molecule.
+There is no particular limitation for the disease model system, but examples thereof include disease model animals, disease model cells, and the like.
+When a protein-degradation inducing tag or protein-degradation inducing molecule capable of binding to a protein related to a disease (disease-related protein) is included in the protein-degradation inducing tag, library of protein-degradation inducing tags, protein-degradation inducing molecule, or library of protein-degradation inducing molecules introduced into the disease model system, the disease-related protein is led to degradation (knockdown) by a protease (for example, a proteasome). When a condition of the disease is improves as a result of degradation of the disease-related protein, an increase in the disease-related protein may potentially be related to development or progress of the disease. Therefore, a candidate ingredient for preventing or treating a disease can be obtained by selecting a protein-degradation inducing tag or protein-degradation inducing molecule which has improved a condition of the disease. On the other hand, when a condition of the disease is aggravated as a result of degradation of the disease-related protein, a decrease in the disease-related protein may potentially be related to development or progress of the disease. Therefore, a candidate ingredient for preventing or treating a disease can be obtained by extracting a protein-degradation inducing tag or protein-degradation inducing molecule which aggravates a condition of the disease, and selecting a protein subjected to degradation induced by the extracted protein-degradation inducing tag or the extracted protein-degradation inducing molecule.
+<Method of specifying disease-related protein>
+The method of specifying a disease-related protein according to the present disclosure includes a step of introducing the aforementioned protein-degradation inducing tag, library of protein-degradation inducing tags, protein-degradation inducing molecule, or library of protein-degradation inducing molecules into a disease model system, and extracting a protein-degradation inducing tag or a protein-degradation inducing molecule which has altered a condition of the disease, and selecting a protein subjected to degradation induced by the extracted protein-degradation inducing tag or the extracted protein-degradation inducing molecule.
+When a protein-degradation inducing tag, a library of protein-degradation inducing tags, a protein-degradation inducing molecule, or a library of protein-degradation inducing molecules is introduced into a disease model system, a condition of a disease may be altered as protein degradation (knockdown) progresses in the disease model system. Therefore, disease-related protein can be specified by extracting a protein-degradation inducing tag or protein-degradation inducing molecule which has altered a condition of the disease, and selecting a protein subjected to degradation induced by the extracted protein-degradation inducing tag or the extracted protein-degradation inducing molecule.
+Information about a disease-related protein specified can be used, for example, to develop an ingredient for preventing or treating a disease.
+EXAMPLES
+Below, the present invention will be described specifically with reference to Examples, but the present invention shall not be limited to Examples.
+Abbreviations of compounds used in the following Examples are as follows.ec: Escherichia coliDHFR: Dihydrofolate reductaseTMP: TrimethoprimH-Phe-OtBu·HCl: L-Phenylalanine t-butyl ester hydrochlorideDMF: N,N-DimethylformamideDMT-MM: 4-(4,6-Dimethoxy-1,3,5-triazin-2-yl)-4-methylmorpholinium chloride n-hydrateTFA: Trifluoroacetic acidH-Leu-OtBu·HCl: L-Leucine t-butyl ester hydrochlorideDIEA: N,N-DiisopropylethylamineD-MEM: Dulbecco's modified eagle's mediumFBS: Fetal bovine serumEDTA: Ethylenediamine tetraacetic acidHA: HemagglutininGFP: Green fluorescent proteinDsRed: Discosoma sp. red fluorescent proteinDMSO: Dimethyl sulfoxidePBS: Phosphate buffered salineTBS: Tris buffered salineSDS: Sodium dodecyl sulfatePAGE: Polyacrylamide gel ectrophoresisBPB: Bromophenol bluePVDF: Polyvinylidene difluorideAMC: 7-Amino-4-methylcoumarinH-Gly-OtBu·HCl: L-Glycine t-butyl ester hydrochloridePyBOP: 1H-Benzotriazol-1-yloxy-tri(pyrrolidino)phosphonium hexafluorophosphateMTX: MethotrexateDMA: N,N-DimethylacetamideBOP: 1H-Benzotriazol-1-yloxy-tris(dimethylamino)phosphonium hexafluorophosphateTEA: TriethylamineHATU: O-(7-Azabenzotriazol-1-yl)-N,N,N',N'-tetramethyluronium hexafluorophosphateGAPDH: Glyceraldehyde 3-phosphate dehydrogenase
+<Example 1: Synthesis of protein-degradation inducing molecule (TMP-CiKD_Bortezomib) having CiKD_Bortezomib as protein-degradation inducing tag and TMP derivative as protein binding molecule>
+In Example 1, TMP-CiKD_Bortezomib as a protein-degradation inducing molecule was synthesized according to the following synthesis scheme. Bortezomib-COOH (CiKD_Bortezomib) in which the boronyl group as the active site of bortezomib was replaced with a carboxy group was used as a protein-degradation inducing tag. Further, a TMP derivative (TMP-NH2) in which a functional group including an amino group was introduced into TMP as a dihydrofolate reductase inhibitor capable of binding to E. coli DHFR was used as a protein binding molecule. Then, Bortezomib-COOH was linked to TMP-NH2 to synthesize TMP-CiKD_Bortezomib as a protein-degradation inducing molecule.
+The method of synthesizing TMP-CiKD_Bortezomib is described in detail as follows.
+(Synthesis of compound 1)
+Pyrazinecarboxylic acid (152.8 mg, 1.23 mmol, 1 eq, Code No. 357-00042, Wako Pure Chem Industries, Ltd.) and H-Phe-OtBu-HCl (253.8 mg, 0.98 mmol, 0.8 eq, Code No. 10Y830617, Watanabe Chemical Industries, Ltd.) were charged into an eggplant flask, and 10 mL of dehydrate DMF was then added. After stirred for 5 minutes at room temperature, DMT-MM (1.02 g, 3.69 mmol, 3 eq, Code No. 329-53751, Wako Pure Chem Industries, Ltd.) was directly added to the reaction solution, and stirred at room temperature for 18 hours. The reaction solution was diluted with water, and extracted with ethyl acetate for 3 times. This was washed with brine, and then dried over anhydrous sodium sulfate. After evaporating the solvent under reduced pressure, separation and purification treatment was performed by silica gel chromatography (Code No. 30511-35, Nacalai Tesque, Inc.) (hexane/chloroform = 1/1 to 0/1, gradient) to obtain a compound 1 (482.3 mg, 1.47 mmol, quant.).
+(Synthesis of compound 2)
+The compound 1 (398.4 mg, 1.22 mmol) was charged into an eggplant flask, and 5 mL of dichloromethane was then added. This was stirred at room temperature for 5 minutes, and then 7 mL of TFA was added, and stirred at room temperature for 2 hours. After evaporating the solvent under reduced pressure, vacuum drying was performed to obtain a compound 2 (318.8 mg, 96%) .
+(Synthesis of compound 3>
+The compound 2 (271.3 mg, 1.00 mmol, 1 eq) and H-Leu-OtBu-HCl (223.8 mg, 1.00 mmol, 1 eq, Code No. 14G110356, Watanabe Chemical Industries, Ltd.) were charged into an eggplant flask, and 10 mL of dehydrate DMF was then added. After stirred at room temperature for 5 minutes, 2 mL of DIEA was added to neutralize the solution. After stirred for 5 minutes at room temperature, DMT-MM (553.4 mg, 2.00 mmol, 2 eq, Code No. 329-53751, Wako Pure Chemical Industries, Ltd.) was directly added to the reaction solution, and stirred at room temperature for 3 hours. Under cooling conditions, 20 mL of 10 mass% brine/0.1 N aqueous hydrochloric acid was added, and extracted with ethyl acetate for 3 times. This was washed with 0.5 N aqueous hydrochloric acid and then brine, and then dried over anhydrous sodium sulfate. After evaporating the solvent under reduced pressure, separation and purification treatment was performed by silica gel chromatography (Code No. 30511-35, Nacalai Tesque, Inc.) (hexane/chloroform = 1/1 to 0/1, gradient) to obtain a compound 3 (168.1 mg, 0.38 mmol, 38%)
+(Synthesis of compound 4 (Bortezomib-COOH))
+The compound 3 (157.3 mg, 0.36 mmol) was charged into an eggplant flask, and 5 mL of dichloromethane was then added. This was stirred at room temperature for 5 minutes, and then 6 mL of TFA was added, and stirred at room temperature for 2 hours. After evaluating the solvent under reduced pressure, vacuum drying was performed to obtain a compound 4 (Bortezomib-COOH) (179.6 mg, 0.48 mmol, quant.).
+(Synthesis of compound 5 (TMP-CiKD_Bortezomib))
+The compound 4 (Bortezomib-COOH) (55.7 mg, 0.15 mmol, 1 eq) and TMP-NH2 synthesized separately (Long, M. J. et al., Chem. Biol., 2012, 19 (5), 629-637) (62.7 mg, 0.15 mmol, 1 eq) were charged into an eggplant flask, and 7 mL of dehydrate DMF was added. After stirred at room temperature for 5 minutes, 2 mL of DIEA was added to neutralize the solution. After stirred at room temperature for 5 minutes, DMT-MM (207.5 mg, 0.75 mmol, 5 eq, Code No. 329-53751, Wako Pure Chemical Industries, Ltd.) was directly added to the reaction solution, and stirred at room temperature for 3 hours. Under cooling conditions, 20 mL of 10 mass% brine/0.1 N aqueous hydrochloric acid was added, and extracted with ethyl acetate for 3 times. This was washed with 0.5 N aqueous hydrochloric acid and then brine, and then dried over anhydrous sodium sulfate. After evaporating the solvent under reduced pressure, separation and purification treatment was performed by silica gel chromatography (Code No. 30511-35, Nacalai Tesque, Inc.) (chloroform/methanol = 10/1). Subsequently, separation and purification treatment was performed with a TLC silica gel 60 (Code No. HX264817, Merck) (chloroform/methanol = 10/1) to obtain a compound 5 (TMP-CiKD_Bortezomib) (2.3 mg, 0.0029 mmol, 2%, isolated yield).
+<Example 2: Evaluation (FACS analysis) of degradation (knockdown) of forcedly expressed target protein (E. coli DHFR) in HeLa cells to which protein-degradation inducing molecule (TMP-CiKD_Bortezomib) was added>
+In Example 2, degradation (knockdown) of a forcedly expressed target protein (E. coli DHFR) in HeLa cells to which TMP-CiKD_Bortezomib was added was evaluated by FACS analysis.
+(Preparation of cultured cells)
+As a preculture medium, prepared was a medium where 10 mass% FBS (Code No. SH30910.03, Lot. No. AYG161516, HyClone) and 1 mass% PenStrep (100 U/mL sodium penicillin G and 100 µg/mL streptomycin sulfate) (Code No. 168-23191, Wako Pure Chemical Industries, Ltd.) were added to D-MEM (low D-glucose, L-glutamine, phenol red (Code No. 041-29775, Wako Pure Chemical Industries, Ltd.). Then, HeLa cells (Lot No. 60143948, ATCC) were cultured in the preculture medium under conditions of 37°C and 5 vol% CO2. As a culture dish for passage culture, used was a cell culture-dish, treated having a diameter of 100 mm (sterile, non pyrogenic) (Code No. TR4002, TrueLine). Passage culture was performed at the time of 70% to 80% confluence. Cells were detached by trypsin treatment (0.25 w/v% trypsin-1 mmol/L EDTA·4 Na solution with phenol red) (Code No. 201-16945, Wako Pure Chemical Industries, Ltd.), and then one quarter of the cells were cultured in 10 mL of the preculture medium.
+(Introduction of plasmid into HeLa cells and cell seeding)
+A plasmid was introduced into HeLa cells to transiently overexpress E. coli DHFR as a target protein (specifically, a fusion protein of E. coli DHFR and GFP through a HA tag) or DsRed for comparison in the cells, and the effects of TMP-CiKD_Bortezomib on the target protein were evaluated.
+The plasmid (pMIR DsRed-IRES-ecDHFR-HA-GFP) was provided by Professor Lizbeth Hedstrom at Brandeis University (the United States) (Long, M. J. et al., "Inhibitor mediated protein degradation." Chem. Biol., 2012, 19 (5), 629-637). The plasmid map of pMIR DsRed-IRES-ecDHFR-HA-GFP is shown in Fig. 1. The plasmid was amplified in E. coli, and then purified with a Miniprep kit (Code No. 27106, QIAGEN).
+ScreenFect™ A (Code No. 297-73201, Wako Pure Chemical Industries, Ltd.) as a transfection reagent was used to introduce the plasmid into HeLa cells. A dilution buffer of ScreenFect™ A was added to two 1.5 mL tubes at 600 µL per tube. Then, 30 µL of a transfection reagent of ScreenFect™ A was added to one tube (a solution A), and 12 µg of the plasmid was added to the other tube (a solution B), and each tube was lightly pipetted, and then allowed to stand at room temperature for 2 minutes. The solution A was lightly mixed with the solution B, and allowed to stand at room temperature for 30 minutes (a solution C). The solution C was mixed with a cell solution at 1.2 x 105 cells/24 mL collected from trypsin treatment, and seeded on a 24-well plate (Code No. TR5002, TrueLine, Nippon Genetics Co., Ltd.) at a cell density of 4 x 104 cells/ 800 µL/well, and then cultured under conditions of 37°C and 5 vol% CO2 for 40 hours.
+(Addition of protein-degradation inducing molecule (TMP-CiKD_Bortezomib) to HeLa cells)
+TMP-CiKD_Bortezomib was added to HeLa cells as follows. Culture was performed for 40 hours after introduction of the plasmid, and then the preculture medium was removed, and a serum-free medium (37°C) in which a 1 mass% L-glutamine solution (Code No. G7513, Sigma-Aldrich) was added to D-MEM (high D-Glucose, phenol red, and sodium pyruvate (Code No. 045-32245, Wako Pure Chemical Industries, Ltd.) was added to each well at 300 µL/well. It is noted that the L-glutamine solution was added immediately before use. A DMSO solution containing a predetermined concentration of TMP-CiKD_Bortezomib was added to each well at 3 µL/well, and cultured under conditions of 37°C and 5 vol% CO2. It is noted that a DMSO solution containing TMP or DMSO was used as a control in place of the DMSO solution containing TMP-CiKD_Bortezomib.
+(Evaluation of target degradation (knockdown) due to TMP-CiKD_Bortezomib by FACS analysis)
+The medium was removed 24 hours after addition of TMP-CiKD_Bortezomib (80 µM) or TMP (80 µM), and then PBS (Wako Pure Chemical Industries, Ltd.) at 37°C was added to each well at 2 mL/well to wash the cells. After removing PBS, trypsin (0.25 w/v% trypsin-1 mmol/L EDTA·4 Na solution with phenol red) (Wako Pure Chemical Industries, Ltd.) at 37°C was added to each well at 200 µL/well, and cultured under conditions of 37°C and 5 vol% CO2 for 1 minute. After culturing, a medium where 10 mass% FBS (Code No. SH30910.03, Lot No. AYG161516, HyClone) and 1 mass% PenStrep (100 U/mL sodium penicillin G and 100 µg/mL streptomycin sulfate) (Code No. 168-23191, Wako Pure Chemical Industries, Ltd.) were added to D-MEM (low D-glucose, L-glutamine, phenol red (Code No. 041-29775, Wako Pure Chemical Industries, Ltd.)) was added to each well at 300 µL/well, and suspended, and then a cell solution was collected in a 15 mL tube.
+The cell solution collected was centrifuged (at 1000 rpm x 5 minutes, 4°C), and the supernatant was removed, and then suspended in 2 ml of PBS (37°C). The cell solution after suspension was centrifuged (at 1000 rpm x 5 minutes, 4°C), and the supernatant was removed, and then 500 µL of an FACS buffer (1 mass% FBS/PBS) at 4°C was added, and allowed to stand on ice.
+A BD FACSCanto™ II (BD Biosciences) was used for flow cytometry, and the expression levels of GFR and DsRed in cells were quantified. The cell solution was passed through a mesh with a pore size of 32 µm, and transferred to an FACS tube immediately before FACS analysis. The GFR/DsRed ratio per cell was computed using an analysis software FLOWJO™ (TOMY Digital Biology Co., Ltd.), and the efficiency of target degradation (knockdown) by TMP-CiKD_Bortezomib was determined from a shift by target degradation in a graph.
+Fig. 2A shows results from the FACS analysis of a forcedly expressed target protein (E. coli DHFR) in HeLa cells to which TMP-CiKD_Bortezomib was added. Further, Fig. 2B shows results from the FACS analysis of a forcedly expressed target protein (E. coli DHFR) in HeLa cells to which TMP was added. As can be seen in Fig. 2A, when TMP-CiKD_Bortezomib (80 µM) was added, the graph was found to be significantly shifted to the left as compared with that of the control (DMSO), indicating that the target protein (E. coli DHFR) was degraded. The degradation efficiency estimated from the amount of a shift was about 50% to 60%. In contrast, as can be seen in Fig. 2B, when TMP (80 µM) was added, the graph was found to be overlapped with that of the control (DMSO), indicating that the target protein was not degraded.
+<Example 3: Evaluation (thermal shift assay) of affinity of protein-degradation inducing molecule (TMP-CiKD_Bortezomib) with forcedly expressed target protein (ecDHFR) in HeLa cells to which protein-degradation inducing molecule (TMP-CiKD_Bortezomib) was added>
+In Example 3, the affinity of TMP-CiKD_Bortezomib with a forcedly expressed target protein (E. coli DHFR) in HeLa cells to which TMP-CiKD_Bortezomib was added was evaluated by thermal shift assay.
+(Preparation of cultured cells, introduction of plasmid into HeLa cells, and cell seeding)
+HeLa cells were prepared as in Example 2. A plasmid (pMIR DsRed-IRES-ecDHFR-HA-GFP) was introduced into HeLa cells as in Example 2, and then seeded on a 24-well plate.
+(Addition of protein-degradation inducing molecule (TMP-CiKD_Bortezomib) to HeLa cells)
+TMP-CiKD_Bortezomib was added to HeLa cells as in Example 2. A DMSO solution containing TMP or DMSO was used as a control in place of the DMSO solution containing TMP-CiKD_Bortezomib.
+(Evaluation of affinity of TMP-CiKD_Bortezomib with target by thermal shift assay)
+The medium was removed 3 hours after addition of TMP-CiKD_Bortezomib (40 µM) or TMP (40 µM), and then PBS (Wako Pure Chemical Industries, Ltd.) at 37°C was added to each well at 2 mL/well to wash the cells. After removing PBS, trypsin (0.25 w/v% trypsin-1 mmol/L EDTA·4 Na solution with phenol red) (Wako Pure Chemical Industries, Ltd.) at 37°C was added to each well at 200 µL/well, and cultured under conditions of 37°C and 5 vol% CO2 for 1 minute. After culturing, a medium where 10 mass% FBS (Code No. SH30910.03, Lot No. AYG161516, HyClone) and 1 mass% PenStrep (100 U/mL sodium penicillin G and 100 µg/mL streptomycin sulfate) (Code No. 168-23191, Wako Pure Chemical Industries, Ltd.) were added to D-MEM (low D-glucose, L-glutamine, phenol red (Code No. 041-29775, Wako Pure Chemical Industries, Ltd.) was added to each well at 300 µL/well, and suspended, and then a cell solution was collected in a 15 mL tube.
+The cell solution collected was centrifuged (at 1000 rpm x 5 minutes, 4°C), and the supernatant was removed, and then suspended in 2 ml of PBS (37°C). The cell solution after suspension was centrifuged (at 1000 rpm x 5 minutes, 4°C), and the supernatant was removed, and then 180 µL of a CETSA buffer (complete™ Mini, EDTA-free (Roche) as a protease inhibitor was added to TBS immediately before use) was added, and then suspended. The cell solution after suspension was dispensed to nine 1.5 mL tubes at 20 µL per tube, and allowed to stand at room temperature for 30 minutes. After allowed to stand, the 9 tubes were heat-treated for 3 minutes, one each at 38°C, 42°C, 46 °C, 50°C, 54°C, 58°C, 62°C, 66°C, or 70°C, and allowed to stand at room temperature for 3 minutes. After allowed to stand, the cell solution was flash frozen in liquid nitrogen, and thawed on ice. After repeating this freeze-thaw cycle for 3 times, the solution was centrifuged (at 13500 rpm x 20 minutes, 4°C), and the supernatant (cell extract) was collected.
+The cell extract collected was subjected to Western blot analysis. A SDS-PAGE gel (14 wells) was prepared using TGX™ FastCast™ Acrylamide Kit, 12% (Bio-Rad). Electrophoresis samples were prepared in a 6x SDS-PAGE sample buffer (62.5 mM Tris-HCl pH 6.8, 2% SDS, 5% 2-mercaptoethanol, 10% glycerol, 0.25% BPB), and placed on a heat block at 95°C for 4 minutes. The electrophoresis samples prepared were applied to each well at 17 µL/well. Precision Plus Protein™ Dual Color Standards (Bio-Rad) were used as electrophoresis markers. Electrophoresis was performed at 150 V for 40 minutes (electrophoresis buffer; 195 mM glycine, 25 mM Tris).
+After electrophoresis, proteins were transferred to a PVDF membrane (Immobion™-P, Millipore) under conditions of 100 V and 40 minutes using a tank-type blotting device and a transfer buffer (25 mM Tris-HCl, 195 mM glycine, 0.01% SDS, 15% methanol). The membrane after transfer was shaken and blocked in 5% skim milk/high-salt TBS-T (100 mM Tris-HCl, 500 mM NaCl, 0.2% Tween-20, pH 7.6) at room temperature for 30 minutes. After blocking, the membrane was rinsed with high-salt TBS-T, and an antibody reaction was performed in 1% skim milk/high-salt TBS-T. With regard to antibody, anti-HA-peroxidase, high-affinity (3F10) rat monoclonal antibody (25 U/mL) (Roche) diluted 1500 times was used. The membrane was shaken at room temperature for 90 minutes, and then washed with high-salt TBS-T for 5 minutes. It is noted that washing was performed for 3 times. Further, the membrane was washed with high-salt TBS (100 mM Tris-HCl, 500 mM NaCl, pH 7.6) for 5 minutes. Subsequently, the membrane was treated with a chemiluminescence reagent Immobilon™ Western (Millipore), and then chemiluminescence was detected using a lumino image analyzer LAS-3000 (FUJIFILM Corporation).
+Fig. 3 shows results from the thermal shift assay of a forcedly expressed target protein (E. coli DHFR) in HeLa cells to which TMP-CiKD_Bortezomib or TMP was added. As shown in Fig. 3, E. coli DHFR was able to be detected only up to about 50°C for the control (DMSO). In contrast, E. coli DHFR was able to be detected up to about 54°C by virtue of interaction between E. coli DHFR and TMP when TMP (40 µM) was added. Similarly, E. coli DHFR was able to be detected up to about 54°C by virtue of interaction between E. coli DHFR and TMP-CiKD_Bortezomib when TMP-CiKD_Bortezomib (40 µM) was added. It is noted that bortezomib alone as a proteasome inhibitor did not interact with E. coli DHFR. These results show that TMP-CiKD_Bortezomib, in which TMP-NH2 is linked to CiKD_Bortezomib, has an affinity with E. coli DHFR to a similar extent as TMP.
+<Example 4: Evaluation of proteasome inhibitory activity of protein-degradation inducing molecule (TMP-CiKD_Bortezomib) and affinity thereof with proteasome>
+In Example 4, the proteasome inhibitory activity of TMP-CiKD_Bortezomib, and the affinity of TMP-CiKD_Bortezomib with a proteasome were evaluated.
+For evaluation, AMC released when the C-terminus of an AMC-conjugated proteasome fluorescent substrate specific to a β subunit of β5 (chymotrypsin-like activity), β2 (trypsin-like activity), and β1 (caspase-like activity) of 20S proteasome was cut using 20S Proteasome StressXpress™ Assay Kit Gold (Bioscience) was measured with a multi-detection microplate reader (Synergy HT, BIO-TEK). The measurement wavelengths were 360 nm for excitation light (Ex.), and 460 nm for fluorescence (Em.) .
+Figs. 4A to 4C show the proteasome activities against β1 (caspase-like activity), β2 (trypsin-like activity), and β5 (chymotrypsin-like activity), respectively. As can be seen in Figs. 4A to 4C, the inhibitory activity of TMP-CiKD_Bortezomib against β1 and β5 was found to be substantially weakened as compared with bortezomib alone, indicating that the inhibitory activity of bortezomib was inactivated. For β2, the present results were consistent with a previous report stating that β2 was not significantly inhibited by bortezomib (Kisselev, A. F. et al., Chemistry & Biology, 2012, 19, 99-115). Further, the inhibitory activity of TMP-CiKD_Bortezomib against β2 and β5 was found to be increased in a concentration dependent manner, indicating that TMP-CiKD_Bortezomib had an affinity with a proteasome.
+<Example 5: Measurement of 50% inhibition concentration (IC50) of protein-degradation inducing molecule (TMP-CiKD_Bortezomib)>
+In Example 5, 50% inhibition concentrations (IC50) of TMP-CiKD_Bortezomib and bortezomib (Code No. sc-217785, Santa Cruz Biotechnology) were measured for each of the proteasome activities of β1, β2, and β5 of 20S proteasome.
+For the 50% inhibition concentration (IC50), AMC released when the C-terminus of an AMC-conjugated proteasome fluorescent substrate specific to a β subunit of β5 (chymotrypsin-like activity), β2 (trypsin-like activity), and β1 (caspase-like activity) of 20S proteasome was cut using 20S Proteasome StressXpress™ Assay Kit Gold (Bioscience) was measured with a multi-detection microplate reader (Synergy HT, BIO-TEK). The measurement wavelengths were 360 nm for excitation light (Ex.), and 460 nm for fluorescence (Em.).
+Test compounds (TMP-CiKD_Bortezomib and bortezomib) were each adjusted to 6 concentrations as shown in the following Table 83.
+<table>
+TMP-CiKD_Bortezomib & β1 : 1, 4, 10, 40, 80, 160 µM
+β2 : 1, 4, 10, 40, 80, 160 µM
+β5 : 1, 4, 10, 40, 80, 160 µM
+Bortezomib & β1 : 0.01, 0.04, 0.1, 0.4, 1, 10 µM
+β2 : 0.4, 1, 4, 10, 40, 100 µM
+β5 : 0.001, 0.004, 0.01, 0.04, 0.1, 0.4 µM
+</table>
+A test compound and 20S proteasome (0.1 µg) were incubated at room temperature for 30 minutes. To these, Suc-LLVY-AMC (degradable by β5), Bz-VGR-AMC (degradable by β2), and Z-LLE-AMC (degradable by β1) as a luminescent substrates were added so that the concentrations thereof were each 100 µM, and incubated at room temperature. After one hour, AMC produced by the proteasome activity was measured. Values of proteasome degradation inhibition of the test compounds at each concentration were calculated as relative values to the control (DMSO). Using the inhibition values at the 6 concentrations, a regression curve was created with an analysis software ImageJ (NIH) to obtain 4 parameters (a: Malthusian parameter, b: crowdedness constant, c: slope, d: intercept). Then, the obtained 4 parameters and y = 0.5 (50% inhibition) were introduced into the following regression expression of 4-parameter logistic curve, and a value of x (IC50) was computed. Regression expression of 4-parameter logistic curve: y=d+a−d/1+x/cb
+The 50% inhibition concentrations (IC50) of TMP-CiKD_Bortezomib and bortezomib are shown in the following Table 84.
+<table>
+<header>
+ & IC50 (µM)
+</header>
+<header>
+β1 & β2 & β5
+</header>
+TMP-CiKD_Bortezomib & > 160 & > 160 & > 160
+Bortezomib & 0.129 & 2.61 & 0.00314
+</table>
+As can be seen in Table 84, TMP-CiKD_Bortezomib was found to have significantly increased 50% inhibition concentrations (IC50) against all of β1, β2, and β5 as compared with bortezomib, indicating that the inhibitory activity of bortezomib was inactivated.
+<Example 6: Synthesis of protein-degradation inducing molecule (TMP-CiKD_ALLN) using CiKD_ALLN as protein-degradation inducing tag and TMP derivative as protein binding molecule>
+In Example 6, TMP-CiKD_ALLN as a protein-degradation inducing molecule was synthesized according to the following synthesis scheme. As a protein-degradation inducing tag, used was ALLN-COOH (CiKD_ALLN) in which the formyl group as the active site of ALLN was replaced with a carboxy group. As a protein binding molecule, TMP-NH2 was used as in Example 1. Then, ALLN-COOH was linked to TMP-NH2 to synthesize TMP-CiKD_ALLN as a protein-degradation inducing molecule.
+The method of synthesizing TMP-CiKD_ALLN is described in detail as follows.
+(Synthesis of compound 6 (ALLN-COOH)>
+ALLN (87.2 mg, 0.23 mmol, 1 eq, Code No. 07036-24, Nacalai Tesque, Inc.) was charged into an eggplant flask, and 2 mL of dehydrate DMF was added. After stirred at room temperature for 5 minutes, Oxone (212.1 mg, 0.69 mmol, 3 eq, Code No. 228036, Sigma-Aldrich) was added directly to the reaction solution, and stirred at room temperature for 5 hours. The reaction solution was diluted with water, and extracted with chloroform for 3 times. After dried over anhydrous sodium sulfate, the solvent was evaporated under reduced pressure. Separation and purification treatment was performed by silica gel chromatography (Code No. 30511-35, Nacalai Tesque, Inc.) (chloroform/methanol = 20/1 to 10/1, gradient) to obtain a compound 6 (ALLN-COOH) (27.0 mg, 0.068 mmol, 30%).
+(Synthesis of compound 7 (TMP-CiKD_ALLN))
+The compound 6 (ALLN-COOH) (26.8 mg, 0.067 mmol, 1 eq) and TMP-NH2 synthesized separately (Long, M. J. et al., Chem. Biol., 2012, 19 (5) 629-637) (26.0 mg, 0.060 mmol, 0.9 eq) was charged into an eggplant flask, and 2 mL of dehydrate DMF was added. After stirred at room temperature for 5 minutes, 0.1 mL of DIEA was added to neutralize the solution. After stirred at room temperature for 5 minutes, DMT-MM (30.0 mg, 0.11 mmol, 1.6 eq, Code No. 329-53751, Wako Pure Chemical Industries, Ltd.) was added directly to the reaction solution, and stirred at room temperature for 2 hours. Under cooling conditions, 10 mL of 10 mass% brine/0.1 N aqueous hydrochloric acid was added, and extracted with ethyl acetate for 3 times. This was washed with 0.5 N aqueous hydrochloric acid and then brine, and then dried over anhydrous sodium sulfate. After evaporating the solvent under reduced pressure, separation and purification treatment was performed by silica gel chromatography (Code No. 30511-35, Nacalai Tesque, Inc.) (chloroform/methanol = 10/1) to obtain a compound 7 (TMP-CiKD_ALLN) (8.2 mg, 0.010 mmol, 15%, isolated yield).
+<Example 7: Evaluation (FACS analysis) of degradation (knockdown) of forcedly expressed target protein (E. coli DHFR) in HeLa cells to which protein-degradation inducing molecule (TMP-CiKD_ALLN) was added>
+In Example 7, degradation (knockdown) of a forcedly expressed target protein (E. coli DHFR) in HeLa cells to which TMP-CiKD_ALLN was added was evaluated by FACS analysis.
+(Preparation of cultured cells, introduction of plasmid into HeLa cells, and cell seeding)
+HeLa cells were prepared as in Example 2. A plasmid (pMIR DsRed-IRES-ecDHFR-HA-GFP) was introduced into HeLa cells as in Example 2, and then seeded on a 24-well plate.
+(Addition of protein-degradation inducing molecule (TMP-CiKD_ALLN) to HeLa cells)
+TMP-CiKD_ALLN was added to HeLa cells as in Example 2 except that TMP-CiKD_ALLN was used in place of TMP-CiKD_Bortezomib. A DMSO solution containing TMP or DMSO was used as a control in place of the DMSO solution containing TMP-CiKD_ALLN.
+(Evaluation of target degradation (knockdown) due to TMP-CiKD_ALLN by FACS analysis)
+The efficiency of target degradation (knockdown) by TMP-CiKD_ALLN was determined as in Example 2 except that TMP-CiKD_ALLN was used in place of TMP-CiKD_Bortezomib.
+Fig. 5A shows results from the FACS analysis of a forcedly expressed target protein (E. coli DHFR) in HeLa cells to which TMP-CiKD_ALLN was added. Further, Fig. 5B shows results from the FACS analysis of a forcedly expressed target protein (E. coli DHFR) in HeLa cells to which TMP was added. As can be seen in Fig. 5A, when TMP-CiKD_ALLN (80 µM) was added, the graph was found to be significantly shifted to the left as compared with that of the control (DMSO), indicating that the target protein (E. coli DHFR) was degraded. The degradation efficiency estimated from the amount of a shift was about 60% to 70%. In contrast, as can be seen in Fig.5B, when TMP (80 µM) was added, the graph was found to be overlapped with that of the control (DMSO), indicating that the target protein was not degraded.
+<Example 8: Evaluation (thermal shift assay) of affinity of protein-degradation inducing molecule (TMP-CiKD_ALLN) with forcedly expressed target protein (E. coli DHFR) in HeLa cells to which protein-degradation inducing molecule (TMP-CiKD_ALLN) was added>
+In Example 8, the affinity of TMP-CiKD_ALLN with a forcedly expressed target protein (E. coli DHFR) in HeLa cells to which TMP-CiKD_ALLN was added was evaluated by thermal shift assay.
+(Preparation of cultured cells, introduction of plasmid into HeLa cells, and cell seeding)
+HeLa cells were prepared as in Example 2. A plasmid (pMIR DsRed-IRES-ecDHFR-HA-GFP) was introduced into HeLa cells as in Example 2, and then seeded on a 24-well plate.
+(Addition of protein-degradation inducing molecule (TMP-CiKD_ALLN) to HeLa cells)
+TMP-CiKD_ALLN was added to HeLa cells as in Example 2 except that TMP-CiKD_ALLN was used in place of TMP-CiKD_Bortezomib. A DMSO solution containing TMP or DMSO was used as a control in place of the DMSO solution containing TMP-CiKD_ALLN.
+(Evaluation of affinity of TMP-CiKD_ALLN with target by thermal shift assay)
+The affinity of TMP-CiKD_ALLN with a target was evaluated by thermal shift assay as in Example 3 except that TMP-CiKD_ALLN was used in place of TMP-CiKD_Bortezomib.
+Fig. 6 shows results from the thermal shift assay of a forcedly expressed target protein (E. coli DHFR) in HeLa cells to which TMP-CiKD_ALLN or TMP was added. As shown in Fig. 6, E. coli DHFR was able to be detected only up to about 50°C for the control (DMSO). In contrast, E. coli DHFR was able to be detected up to about 54°C by virtue of interaction between E. coli DHFR and TMP when TMP (40 µM) was added. Similarly, E. coli DHFR was able to be detected up to about 58°C by virtue of interaction between E. coli DHFR and TMP-CiKD_ALLN when TMP-CiKD_ALLN (40 µM) was added. These results show that TMP-CiKD_ALLN, in which TMP-NH2 is linked to CiKD_ALLN, has a higher affinity with E. coli DHFR than TMP.
+<Example 9: Evaluation of proteasome inhibitory activity of protein-degradation inducing molecule (TMP-CiKD_ALLN) and affinity thereof with proteasome>
+In Example 9, the proteasome inhibitory activity of TMP-CiKD_ALLN, and the affinity of TMP-CiKD_ALLN with a proteasome were evaluated as in Example 4 except that TMP-CiKD_ALLN was used in place of TMP-CiKD_Bortezomib.
+Figs. 7A to 7C show the proteasome activities against β1 (caspase-like activity), β2 (trypsin-like activity), and β5 (chymotrypsin-like activity), respectively. As can be seen in Figs. 7A to 7C, the inhibitory activity of TMP-CiKD_ALLN against β2 and β5 was found to be weakened as compared with ALLN alone, indicating that the activity of ALLN was inactivated. For β1, the present results were consistent with a previous report stating that β1 was not significantly inhibited by ALLN (Kaiser, M. et al., Chem. Bio. Chem., 2004, 5, 1256-1266). Further, the inhibitory activity of TMP-CiKD_ALLN was found to be increased against any of β1, β2, and β5 in a concentration dependent manner, indicating that TMP-CiKD_ALLN had an affinity with a proteasome.
+<Example 10: Measurement of 50% inhibition concentration (IC50) of protein-degradation inducing molecule (TMP-CiKD_ALLN)>
+In Example 10, the 50% inhibition concentrations (IC50) of TMP-CiKD_ALLN and ALLN (Code No. 07036-82, Nacalai Tesque, Inc.) were measured for each of the proteasome activities of β1, β2, and β5 of 20S proteasome as in Example 5 except that TMP-CiKD_ALLN and ALLN were used in place of TMP-CiKD_Bortezomib and bortezomib. It is noted that test compounds (TMP-CiKD_ALLN and ALLN) were each adjusted to 6 concentrations as shown in the following Table 85.
+<table>
+TMP-CiKD_ALLN & β1 : 5, 10, 20, 40, 80, 160 µM
+β2 : 5, 10, 20, 40, 80, 160 µM
+β5 : 5, 10, 20, 40, 80, 160 µM
+ALLN & β1 : 0.4, 1, 4, 10, 20, 40 µM
+β2 : 0.4, 1, 4, 10, 20, 40 µM
+β5 : 0.04, 0.1, 0.4, 1, 4, 10 µM
+</table>
+The 50% inhibition concentrations (IC50) of TMP-CiKD_ALLN and ALLN are shown in the following Table 86.
+<table>
+<header>
+ & IC50 (µM)
+</header>
+<header>
+β1 & β2 & β5
+</header>
+TMP-CiKD_ALLN & 38.8 & > 160 & 42.3
+ALLN & 12.4 & 5.25 & 1.15
+</table>
+As can be seen in Table 86, TMP-CiKD_ALLN was found to have significantly increased 50% inhibition concentrations (IC50) for all of β1, β2, and β5 as compared with ALLN, indicating that the inhibitory activity of ALLN was inactivated.
+<Example 11: Synthesis of protein-degradation inducing molecule (TMP-CiKD_MLN) using CiKD_MLN as protein-degradation inducing tag and TMP derivative as protein binding molecule>
+In Example 11, TMP-CiKD_MLN as a protein-degradation inducing molecule was synthesized according to the following synthesis scheme. As a protein-degradation inducing tag, used was MLN-COOH (CiKD_MLN) in which the boronic acid ester moiety or boronyl group as the active site of MLN9708 and MLN2238 was replaced with a carboxy group. As a protein binding molecule, TMP-NH2 was used as in Example 1. Then, MLN-COOH was linked to TMP-NH2 to synthesize TMP-CiKD_MLN as a protein-degradation inducing molecule.
+The method of synthesizing TMP-CiKD_MLN is described in detail as follows.
+(Synthesis of compound 8)
+H-Gly-OtBu·HCl (286.8 mg, 1.69 mmol, 1 eq, Code No. AK-46074, Ark Pharm) was charged into a side-arm eggplant flask, and purged with nitrogen. Under nitrogen gas stream, 10 mL of dehydrate DMF and 5 mL of DIEA were added, and stirred at room temperature. In 1 mL of dehydrate DMF and 1 mL of DIEA, dissolved was 2,5-dichlorobenzoic acid (309.3 mg, 1.62 mmol, 1 eq, Code No. AK-47665, Ark Pharm), which was then added to the reaction solution, and stirred at room temperature for 20 minutes. PyBOP (1.02 g, 1.96 mmol, 1.2 eq, Code No. 8.51009.0005, Novabiochem, Merck) was dissolved in 1 mL of dehydrate DMF, and then added to the reaction solution, and stirred at room temperature for 3 hours. The reaction solution was diluted with water and aqueous sodium hydrogen carbonate, and extracted twice with ethyl acetate/hexane (= 4/1). After dried over anhydrous sodium sulfate, the solvent was evaporated under reduced pressure. Separation and purification treatment was performed by silica gel chromatography (Code No. 30511-35, Nacalai Tesque, Inc.) (hexane/chloroform = 1/1 to 0/1, gradient) to obtain a compound 8 (531.0 mg, 1.75 mmol, 103%) .
+(Synthesis of compound 9)
+The compound 8 (212.4 mg, 0.70 mmol) was charged into an eggplant flask, and 5 mL of dichloromethane was then added. This was stirred at room temperature for 5 minutes, and then 5 mL of TFA was added, and stirred at room temperature for 1 hour. After evaporating the solvent under reduced pressure, vacuum drying was performed to obtain a compound 9 (190.7 mg, quant.).
+(Synthesis of compound 10)
+The compound 9 (190.7 mg, 0.77 mmol, 1 eq) and H-Leu-OtBu·HCl (175.8 mg, 0.79 mmol, 1 eq, Code No. 14G110356, Watanabe Chemical Industries, Ltd.) were charged into a side-arm eggplant flask, and purged with nitrogen. Under nitrogen gas stream, 5 mL of dehydrate DMF and 5 mL of DIEA were added, and stirred at room temperature for 20 minutes. PyBOP (886.7 mg, 1.70 mmol, 2.2 eq, Code No. 8.51009.0005, Novabiochem, Merck) was dissolved in 1.5 mL of dehydrate DMF, and added to the reaction solution, and stirred at room temperature for 3 hours. The reaction solution was diluted with water and aqueous sodium hydrogen carbonate, and extracted twice with ethyl acetate/hexane (= 4/1). After dried over anhydrous sodium sulfate, the solvent was evaporated under reduced pressure. Separation and purification treatment was performed by silica gel chromatography (Code No. 30511-35, Nacalai Tesque, Inc.) (hexane/chloroform = 1/1 to 0/1, gradient) to obtain a compound 10 (244.2 mg, 0.58 mmol, 76%).
+(Synthesis of compound 11 (MLN-COOH)
+The compound 10 (240.8 mg, 0.58 mmol) was charged into an eggplant flask, and 5 mL of dichloromethane was added. This was stirred at room temperature for 5 minutes, and then 5 mL of TFA was added, and stirred at room temperature for 1 hour. After evaporating the solvent under reduced pressure, vacuum drying was performed to obtain a compound 11 (MLN-COOH) (214.7 mg, 0.59 mmol, 100%).
+(Synthesis of Compound 12 (TMP-CiKD_MLN))
+The compound 11 (MLN-COOH) (210.3 mg, 0.58 mmol, 1 eq) was charged into a side-arm eggplant flask, and purged with nitrogen. TMP-NH2 synthesized separately (Long, M. J. et al., Chem. Biol., 2012, 19 (5), 629-637) (207.6 mg, 0.48 mmol, 0.8 eq) was dissolved in 5 mL of dehydrate DMF, and added to the reaction solution. To this, 5 ml of DIEA was added, and stirred at room temperature for 20 minutes. PyBOP (765.2 mg, 1.47 mmol, 2.5 eq, Code No. 8.51009.0005, Novabiochem, Merck) was dissolved in 1.5 mL of dehydrate DMF, and then added to the reaction solution, and stirred at room temperature for 18 hours. The reaction solution was diluted with water and aqueous sodium hydrogen carbonate, and extracted twice with ethyl acetate. After dried over anhydrous sodium sulfate, the solvent was evaporated under reduced pressure, and separation and purification treatment was performed by silica gel chromatography (Code No. 30511-35, Nacalai Tesque, Inc.) (chloroform/methanol = 20/1 to 4/1, gradient). Subsequently, separation and purification treatment was performed using a TLC silica gel 60 (Code No. HX264817, Merck) (chloroform/methanol = 10/1) to obtain a compound 12 (TMP-CiKD_MLN) (20.2 mg, 0.026 mmol, 5%, isolated yield).
+<Example 12: Evaluation (FACS analysis) of degradation (knockdown) of forcedly expressed target protein (E. coli DHFR) in HeLa cells to which protein-degradation inducing molecule (TMP-CiKD_MLN) was added>
+In Example 12, degradation (knockdown) of a forcedly expressed target protein (E. coli DHFR) in HeLa cells to which TMP-CiKD_MLN was added was evaluated by FACS analysis.
+(Preparation of cultured cells, introduction of plasmid into HeLa cells, and cell seeding)
+HeLa cells were prepared as in Example 2. A plasmid (pMIR DsRed-IRES-ecDHFR-HA-GFP) was introduced into HeLa cells as in Example 2, and then seeded on a 24-well plate.
+(Addition of protein-degradation inducing molecule (TMP-CiKD_MLN) to HeLa cells)
+TMP-CiKD_MLN was added to HeLa cells as in Example 2 except that TMP-CiKD_MLN was used in place of TMP-CiKD_Bortezomib. Further, an experiment group where a DMSO solution containing TMP-CiKD_MLN and bortezomib was added was also prepared in addition to an experiment group where a DMSO solution containing TMP-CiKD_MLN was added. A DMSO solution containing TMP or DMSO was used as a control in place of the DMSO solution containing TMP-CiKD_MLN.
+(Evaluation of target degradation (knockdown) due to TMP-CiKD_MLN by FACS analysis)
+The efficiency of target degradation (knockdown) by TMP-CiKD_MLN was determined as in Example 2 except that TMP-CiKD_MLN or TMP-CiKD_MLN and bortezomib were used in place of TMP-CiKD_Bortezomib.
+Fig. 8A shows results from the FACS analysis of a forcedly expressed target protein (E. coli DHFR) in HeLa cells to which TMP-CiKD_MLN was added. Further, Fig. 8B shows results from the FACS analysis of a forcedly expressed target protein (E. coli DHFR) in HeLa cells to which TMP was added. Moreover, Fig. 8C shows results from the FACS analysis of a forcedly expressed target protein (E. coli DHFR) in HeLa cells to which TMP-CiKD_MLN and bortezomib were added. As can be seen in Fig. 8A, when TMP-CiKD_MLN (80 µM) was added, the graph was found to be significantly shifted to the left as compared with that of the control (DMSO), indicating that the target protein (E. coli DHFR) was degraded. The degradation efficiency estimated from the amount of a shift was about 60% to 70%. In contrast, as can be seen in Fig. 8B, when TMP (80 µM) was added, the graph was found to be overlapped with that of the control (DMSO), indicating that the target protein was not degraded. Moreover, as shown in Fig. 8C, when TMP-CiKD_MLN (80 µM) and bortezomib (1.5 µM) were added, degradation of the target protein was more significantly inhibited than a case where TMP-CiKD_MLN (80 µM) was added. These results suggest that TMP-CiKD_MLN enabled the target protein to lead to degradation by the proteasome.
+<Example 13: Synthesis of protein-degradation inducing molecule (MTX-CiKD_MLN) using CiKD_MLN as protein-degradation inducing tag and MTX derivative as protein binding molecule>
+In Example 13, MTX-CiKD_MLN as a protein-degradation inducing molecule was synthesized according to the following synthesis scheme. As a protein-degradation inducing tag, used was MLN-COOH (CiKD_MLN) in which the boronic acid ester moiety or boronyl group as the active site of MLN9708 and MLN2238 was replaced with a carboxy group. As a protein binding molecule, used was an MTX derivative (MTX-NH2) in which a functional group including an amino group was introduced into MTX as a dihydrofolate reductase inhibitor capable of binding to DHFR. Then, MLN-COOH was linked to MTX-NH2 to synthesize MTX-CiKD_MLN as a protein-degradation inducing molecule.
+The method of synthesizing MTX-CiKD_MLN is described in detail as follows.
+(Synthesis of compound 21 (MTX-NH2))
+The compound 13 was allowed to react with triphenylphosphine dibromide in DMA to obtain a compound 14. The compound 14 was dissolved in DMA under nitrogen gas stream, and then the compound 15 and DIEA were added and reacted to obtain a compound 16 (yield: 69%). Subsequently, the compound 16 and the compound 17 were dissolved in DMSO under nitrogen gas stream, and condensation reaction was performed with a BOP reagent to obtain a compound 18 (yield: 46%). Subsequently, the compound 18 and the compound 19 were dissolved in DMA under nitrogen gas stream, and condensation reaction was performed with HATU to obtain a compound 20 (yield: 69%). Then, the compound 20 was dissolved in dichloromethane, and deprotection was performed with TFA to obtain a compound 21 (MTX-NH2).
+(Synthesis of compound 22 (MTX-CiKD_MLN))
+The compound 21 (MTX-NH2) and the compound 11 used for synthesis of the compound 12 (TMP-CiKD_MLN) were dissolved in DMF under nitrogen gas stream, and a condensation reaction was performed with PyBOP (at room temperature for 3 hours). The reaction solution was diluted with water and aqueous sodium hydrogen carbonate, and extracted with ethyl acetate for 3 times. After dried over anhydrous sodium sulfate, the solvent was evaporated under reduced pressure, and separation and purification treatment was performed by silica gel chromatography (chloroform/methanol = 20/1 to 4/1, gradient). Subsequently, separation and purification treatment was performed using a TLC silica gel 60 (chloroform/methanol = 85/15) to obtain a compound 22 (MTX-CiKD_MLN) (isolated yield: 8%) .
+<Example 14: Evaluation (thermal shift assay) of the affinity of a protein-degradation inducing molecule (MTX-CiKD_MLN) with endogenously expressed target protein (human DHFR) in HeLa cells to which a protein-degradation inducing molecule (MTX-CiKD_MLN) was added>
+In Example 14, the affinity of MTX-CiKD_MLN with an endogenously expressed target protein (human DHFR) in HeLa cells to which MTX-CiKD_MLN was added was evaluated by thermal shift assay.
+(Preparation of cultured cells and cell seeding)
+HeLa cells were prepared as in Example 2. The cell solution collected after trypsin treatment was seeded on a 24-well plate (Code No. TR5002, TrueLine, Nippon Genetics Co., Ltd.) at a cell density of 4 x 104 cells/800 µL/well, and then cultured under conditions of 37°C and 5 vol% CO2 for 16 hours.
+(Addition of protein-degradation inducing molecule (MTX-CiKD_MLN) to HeLa cells)
+MTX-CiKD_MLN was added to HeLa cells as follows 16 hours after cell seeding. As a medium, used was a serum free medium (37°C) in which a 1 mass% L-glutamine solution (Code No. G7513, Sigma-Aldrich) was added to D-MEM (high D-glucose, phenol red, sodium pyruvate (Code No. 045-32245, Wako Pure Chemical Industries, Ltd.). It is noted that the L-glutamine solution was added immediately before use. A DMSO solution containing MTX-CiKD_MLN was mixed with the medium so that the concentration of DMSO was 1 vol%, and added to each well where the pre-culture medium had been removed at 500 µL/well, and cultured under conditions of 37°C and 5 vol% CO2. It is noted that a DMSO solution containing MTX or DMSO was used as a control in place of the DMSO solution containing MTX-CiKD_MLN.
+(Evaluation of affinity of MTX-CiKD_MLN with target by thermal shift assay)
+The medium was removed 3 hours after addition of MTX-CiKD_MLN (40 µM) or MTX (40 µM), and then PBS (Wako Pure Chemical Industries, Ltd.) at 37°C was added to each well at 1 mL/well to wash the cells. After removing PBS, trypsin (0.25 w/v% trypsin-1 mmol/L EDTA·4 Na solution with phenol red) (Wako Pure Chemical Industries, Ltd.) at 37°C was added to each well at 200 µL/well, and cultured under conditions of 37°C and 5 vol% CO2 for 1 minute. After culturing, a medium where 10 mass% FBS (Code No. SH30910.03, Lot. No. AYG161516, HyClone) and 1 mass% PenStrep (100 U/mL sodium penicillin G and 100 µg/mL streptomycin sulfate) (Code No. 168-23191, Wako Pure Chemical Industries, Ltd.) were added to D-MEM (low D-glucose, L-glutamine, phenol red (Code No. 041-29775, Wako Pure Chemical Industries, Ltd.) was added to each well at 0.8 mL/well, and suspended, and then a cell solution was collected in a 15 mL tube.
+The cell solution collected was centrifuged (at 1000 rpm x 5 minutes, 4°C), and the supernatant was removed, and then suspended in 2 ml of PBS (37°C). The cell solution after suspension was centrifuged (at 1000 rpm x 5 minutes, 4°C), and the supernatant was removed, and then 170 µL of a CETSA buffer (complete™ Mini, EDTA-free (Roche) as a protease inhibitor was added to TBS just before use) was added, and then suspended. The cell solution after suspension was dispensed to nine 1.5 mL tubes at 20 µL per tube, and allowed to stand at room temperature for 30 minutes. After allowed to stand, the 9 tubes were heat-treated for 3 minutes, one each at 38°C, 42°C, 46°C, 50°C, 54°C, 58°C, 62°C, 66°C, or 70°C, and allowed to stand at room temperature for 3 minutes. After allowed to stand, the cell solution was flash frozen in liquid nitrogen, and thawed on ice. After repeating this freeze-thaw cycle for 3 times, the cell solution was centrifuged (at 13500 rpm x 20 minutes, 4°C), and the supernatant (cell extract) was collected.
+The cell extract collected was subjected to Western blot analysis. An SDS-PAGE gel (14 wells) was prepared using TGX™ FastCast™ Acrylamide Kit, 12% (Bio-Rad). Electrophoresis samples were prepared in a 6x SDS-PAGE sample buffer (62.5 mM Tris-HCl pH 6.8, 2% SDS, 5% 2-mercaptoethanol, 10% glycerol, 0.25% BPB), and placed on a heat block at 95°C for 4 minutes. The electrophoresis samples prepared were applied to each well at 17 µL/well. Precision Plus Protein™ Dual Color Standards (Bio-Rad) were used as electrophoresis markers. Electrophoresis was performed at 160 V for 60 minutes (electrophoresis buffer; 195 mM glycine, 25 mM Tris).
+After electrophoresis, proteins were transferred to a PVDF membrane (Immobion™-P, Millipore) under conditions of 100 V and 2 hours using a tank-type blotting device and a transfer buffer (25 mM Tris-HCl, 195 mM glycine, 0.01% SDS, 15% methanol). The membrane after transfer was shaken and blocked in 5% skim milk/TBS-T (100 mM Tris-HCl, 150 mM NaCl, 0.1% Tween-20, pH 7.6) at room temperature for 30 minutes. After blocking, a primary antibody reaction was performed in 5% skim milk/TBS-T. As a primary antibody, anti-DHFR antibody (sc-377091, SantaCruz) diluted 500 times was used. After shaken at 4°C overnight, the membrane was washed with TBS-T for 5 minutes. It is noted that washing was performed for 3 times. After the primary antibody reaction, a secondary antibody reaction was performed in 2% skim milk/TBS-T. As a secondary antibody, anti-mouse IgG (H+L) antibody (A90-116P-33, BETHYL) diluted 10000 times was used. The membrane was shaken at room temperature for 30 minutes, and then washed with TBS-T for 5 minutes. It is noted that washing was performed for 3 times. Further, the membrane was washed with TBS (100 mM Tris-HCl, 150 mM NaCl, pH 7.6) for 5 minutes. Subsequently, the membrane was treated with a chemiluminescence reagent Immobilon™ Western (Millipore), and then chemiluminescence was detected using a lumino image analyzer LAS-3000 (FUJIFILM Corporation).
+Fig. 9 shows results from the thermal shift assay of an endogenously expressed target protein (human DHFR) in HeLa cells to which MTX-CiKD_MLN or MTX was added. As shown in Fig. 9, human DHFR was able to be detected only up to about 42°C for the control (DMSO) while human DHFR was able to be detected up to about 50°C by virtue of interaction between human DHFR and MTX-CiKD_MLN when MTX-CiKD_MLN (40 µM) was added. These results indicate that MTX-CiKD_MLN, in which MTX-NH2 was linked to CiKD_MLN, had an affinity with human DHFR.
+<Example 15: Evaluation (Western blot analysis) of degradation (knockdown) of endogenously expressed target protein (human DHFR) in HeLa cells to which protein-degradation inducing molecule (MTX-CiKD_MLN) was added>
+In Example 15, degradation (knockdown) of an endogenously expressed target protein (human DHFR) in HeLa cells to which MTX-CiKD_MLN was added was evaluated by Western blot analysis.
+(Preparation of cultured cells and cell seeding)
+HeLa cells were prepared, and seeded on a 24-well plate as in Example 14.
+(Addition of protein-degradation inducing molecule (MTX-CiKD_MLN) to HeLa cells)
+MTX-CiKD_MLN was added to HeLa cells as in Example 14. A DMSO solution containing MTX or DMSO was used as a control in place of the DMSO solution containing MTX-CiKD_MLN.
+(Evaluation of target degradation (knockdown) due to MTX-CiKD_MLN by Western blot analysis)
+The medium was removed 16 hours after addition of MTX-CiKD_MLN (50 µM, 100 µM, or 200 µM) or MTX (50 µM, 100 µM, or 200 µM), and then PBS (Wako Pure Chemical Industries, Ltd.) at 4°C was added to each well at 1 mL/well to wash the cells. After removing PBS, a mixed solution of a cell lysis buffer (CelLytic™ M, Sigma) and a protease inhibitor (complete™ Mini, EDTA-free (REF 11 836 170 001), Roche) was added to each well at 27 µL/well. After allowed to stand at 4°C for 15 minutes, cells were detached with a pipette tip (P1000) on ice. A cell solution was collected in a 1.5 mL tube, and flash frozen in liquid nitrogen, and then thawed on ice. After thawed, the cell solution was centrifuged (at 12000 rpm x 15 minutes, 4°C), and the supernatant (cell extract) was collected.
+The cell extract collected was subjected to Western blot analysis. An SDS-PAGE gel (14 wells) was prepared using TGX™ FastCast™ Acrylamide Kit, 12% (Bio-Rad). Electrophoresis samples were prepared in a 6x SDS-PAGE sample buffer (62.5 mM Tris-HCl pH 6.8, 2% SDS, 5% 2-mercaptoethanol, 10% glycerol, 0.25% BPB), and placed on a heat block at 95°C for 4 minutes. The electrophoresis samples prepared were applied to each well at 20 µL/well. Precision Plus Protein™ Dual Color Standards (Bio-Rad) were used as electrophoresis markers. Electrophoresis was performed at 160 V for 65 minutes (electrophoresis buffer; 195 mM glycine, 25 mM Tris).
+After electrophoresis, proteins were transferred to a PVDF membrane (Immobion™-P, Millipore) under conditions of 100 V and 2 hours using a tank-type blotting device and a transfer buffer (25 mM Tris-HCl, 195 mM glycine, 0.01% SDS, 15% methanol). The Membrane was split into two at the position of a 25 kDa marker. The membrane after transfer was shaken and blocked in 5% skim milk/TBS-T (100 mM Tris-HCl, 150 mM NaCl, 0.1% Tween-20, pH 7.6) at room temperature for 30 minutes. After blocking, a primary antibody reaction was performed in 5% skim milk/TBS-T. As a primary antibody, anti-DHFR antibody (sc-14780, SantaCruz, diluted 500 times) and anti-GAPDH antibody (sc-32233, SantaCruz, diluted 20000 times) were used. After shaken at room temperature for 90 minutes (anti-DHFR antibody) or for 45 minutes (anti-GAPDH antibody), the membranes were washed with TBS-T for 5 minutes. It is noted that washing was performed for 3 times. After the primary antibody reaction, a secondary antibody reaction was performed in 2% skim milk/TBS-T. The membranes were shaken at room temperature for 30 minutes, and then washed with TBS-T for 5 minutes. It is noted that washing was performed for 3 times. Further, the membranes were washed with TBS (100 mM Tris-HCl, 150 mM NaCl, pH 7.6) for 5 minutes. Subsequently, the membranes were treated with a chemiluminescence reagent Immobilon™ Western (Millipore), and then chemiluminescence was detected using a lumino image analyzer LAS-3000 (FUJIFILM Corporation). Detected bands were quantified with an image processing software ImageJ (NIH).
+Fig. 10A shows results from quantification of bands detected in the Western blot analysis of the endogenously expressed target protein (human DHFR) in HeLa cells to which MTX-CiKD_MLN or MTX was added. Fig. 10B shows the detected bands. As can be seen in Figs. 10A and 10B, the amount of the target protein (human DHFR) was decreased in a concentration dependent manner when MTX-CiKD_MLN was added. In contrast, when MTX was added, a decrease in the amount of the target protein (human DHFR) was not observed even at a concentration of 200 µM.
+<Example 16: Evaluation of degradation (knockdown) of endogenously expressed target protein (mouse DHFR) in mouse individuals to which protein-degradation inducing molecule (MTX-CiKD_MLN) is administered>
+In Example 16, degradation (knockdown) of an endogenously expressed target protein (mouse DHFR) in mouse individuals to which MTX-CiKD_MLN was administered was evaluated by Western blot analysis.
+(Administration of protein-degradation inducing molecule (MTX-CiKD_MLN) to mice)
+DMSO, 10 mg/kg of MTX, 50 mg/kg of MTX-CiKD_MLN, or 100 mg/kg of MTX-CiKD_MLN was administered to C57BL/6J wild type mice (7 weeks old, male) (CLEA Japan, Inc.) for 24 hours (n = 3). MTX-CiKD_MLN and MTX were dissolved in DMSO, and then dissolved in corn oil (Code No. 25606-55, Nacalai Tesque, Inc.) so that the concentration of DMSO was 10 vol%, and then administered intraperitoneally. The mice were kept under an environment of ad libitum access to food and water. The mice were dissected under deep Somnopentyl anesthesia (serial number: 3214101, Kyoritsuseiyaku Corporation) 24 hours after administration. The liver, kidney, spleen, heart, and lung were excised, and flash freeze in liquid nitrogen.
+(Western blot analysis of mouse tissues)
+The frozen liver (40 mg) was triturated, and then 980 µL of 1x TKM tissue lysis buffer (50 mM triethanolamine (pH 7.8), 50 mM KCl, 5 mM MgCl2, 0.25 M sucrose, 1 mM PMSF, Protein Inhibitors Cocktail-EDTA free (Code No. 03969-21, Nacalai Tesque, Inc.), 1 mM DTT, recombinant RNase inhibitor 5 µL/mL (40 U/µL, Cat No. 2313A, Lot No. K8402DA, TAKARA) were added, and rotated for 15 minutes (1 rpm, 25°C). After centrifugation (at 3000 rpm x 15 minutes, 4°C), the supernatant (liver tissue extract) was collected. The concentration of extracted proteins was quantified with a spectrophotometer.
+The liver tissue extract collected was subjected to Western blot analysis. An SDS-PAGE gel (14 wells) was prepared using TGX™ FastCast™ Acrylamide Kit, 12% (Bio-Rad) . Electrophoresis samples were prepared in a 6x SDS-PAGE sample buffer (62.5 mM Tris-HCl pH 6.8, 2% SDS, 5% 2-mercaptoethanol, 10% glycerol, 0.25% BPB), and placed on a heat block at 95°C for 5 minutes. The electrophoresis samples prepared were applied at 100 µg/20 µL/well (for detection of DHFR) or 50 µg/10 µL/well (for detection of GAPDH). Precision Plus Protein™ Dual Color Standards (Bio-Rad) were used as electrophoresis markers. Electrophoresis was performed at 160 V for 60 minutes (electrophoresis buffer; 195 mM glycine, 25 mM Tris).
+After electrophoresis, proteins were transferred to a PVDF membrane (Immobion™-P, Millipore) under conditions of 100 V and 90 minutes using a tank-type blotting device and a transfer buffer (25 mM Tris-HCl, 195 mM glycine, 0.01% SDS, 15% methanol). The membrane after transfer was shaken and blocked in 5% skim milk/TBS-T (100 mM Tris-HCl, 150 mM NaCl, 0.1% Tween-20, pH 7.6) at room temperature for 30 minutes. After blocking, a primary antibody reaction was performed in 5% skim milk/TBS-T. As a primary antibody, anti-DHFR antibody (sc-14780, SantaCruz, diluted 500 times) and anti-GAPDH antibody (sc-32233, SantaCruz, diluted 20000 times) were used. The membrane was shaken at room temperature for 60 minutes, and then washed with TBS-T for 5 minutes. It is noted that washing was performed for 3 times. After the primary antibody reaction, a secondary antibody reaction was performed in 1% skim milk/TBS-T. The membrane was shaken at room temperature for 30 minutes, and then washed with TBS-T for 5 minutes. It is noted that washing was performed for 3 times. Further, the membrane was washed with TBS (100 mM Tris-HCl, 150 mM NaCl, pH 7.6) for 10 minutes. Subsequently, the membrane was treated with a chemiluminescence reagent Immobilon™ Western (Millipore), and then chemiluminescence was detected using a lumino image analyzer LAS-3000 (FUJIFILM Corporation).
+Fig. 11 shows results from the Western blot analysis of an endogenous expressed target protein (mouse DHFR) in a liver tissue extract from a mouse individual to which MTX-CiKD_MLN or MTX was administered. As can be seen in Fig. 11, when 50 mg/kg or 100 mg/kg of MTX-CiKD_MLN was administered to mice for 24 hours, the amount of the target protein (mouse DHFR) in the liver tissue was decreased in a concentration dependent manner. These results show that about 70% to 80% of the target protein (mouse DHFR) was degraded as fast as one day in the mouse individuals. In contrast, when 10 mg/kg of MTX was administered to mice for 24 hours, the amount of the target protein (mouse DHFR) in the liver tissue was increased as compared with that of the control (DMSO).
+<Example 17: Synthesis of protein-degradation inducing molecule (TMP-CiKD_DMT) using CiKD_DMT as protein-degradation inducing tag and TMP derivative as protein binding molecule>
+In Example 17, TMP-CiKD_DMT as a protein-degradation inducing molecule was synthesized according to the following synthesis scheme. As a protein-degradation inducing tag, used was a compound (DMT) in which R1 and R2 in the aforementioned formula (I) were each a methoxy group. DMT is a compound which is not derived from a proteasome inhibitor, but has an affinity with a proteasome. As a protein binding molecule, TMP-NH2 was used as in Example 1. Then, DMT was linked to TMP-NH2 to synthesize TMP-CiKD_DMT as a protein-degradation inducing molecule.
+The method of synthesizing TMP-CiKD_DMT is described in detail as follows.
+TMP-NH2 (Long, M. J. et al., Chem. Biol., 2012, 19 (5), 629-637) (31.7 mg, 0.073 mmol) was charged into an eggplant flask, and 0.3 mL of dehydrate DMF was added. After stirred at room temperature for 10 minutes, 0.1 mL of DIEA was added, and stirred at room temperature for 10 minutes. DMT-MM (33.6 mg, 0.12 mmol, 1.6 eq, Code No. 329-53751, Wako Pure Chemical Industries, Ltd.) was directly added to the reaction solution, and stirred at room temperature for 18 hours. The reaction solution was diluted with water and aqueous sodium hydrogen carbonate, and extracted with chloroform for 5 times. After dried over anhydrous sodium sulfate, the solvent was evaporated under reduced pressure. Separation and purification treatment was performed by silica gel chromatography (Code No. 30511-35, Nacalai Tesque, Inc.) (chloroform/methanol = 92/8) to obtain TMP-CiKD_DMT (25.8 mg, 0.045 mmol, 62%, isolated yield).
+<Example 18: Evaluation of proteasome inhibitory activity of protein-degradation inducing molecule (TMP-CiKD_DMT) and affinity thereof with proteasome>
+In Example 18, the proteasome inhibitory activity of TMP-CiKD_DMT and the affinity of TMP-CiKD_DMT with a proteasome were evaluated as in Example 4 except that 10 µM or 100 µM of TMP-CiKD_DMT was used in place of TMP-CiKD_Bortezomib. As a positive control, used was MG-132 as a proteasome inhibitor.
+Figs. 12A to 12C show the proteasome activities against β1 (caspase-like activity), β2 (trypsin-like activity), and β5 (chymotrypsin-like activity), respectively. As can be seen in Figs. 12A to 12C, TMP-CiKD_DMT was found to have a significantly lower proteasome inhibitory activity as compared with MG-132. Moreover, the inhibitory activity of TMP-CiKD_DMT was increased in a concentration dependent manner against any of β1, β2, and β5, suggesting that TMP-CiKD_DMT has a moderate affinity with a proteasome. That is, DMT was evaluated to have an affinity with a proteasome, but does not inhibit degradation.
+<Example 19: Measurement of 50% inhibition concentration (IC50) of protein-degradation inducing molecule (TMP-CiKD_DMT)>
+In Example 19, the 50% inhibition concentration (IC50) of TMP-CiKD_DMT against each of the proteasome activities of β1, β2, and β5 of 20S proteasome was measured as in Example 5 except that TMP-CiKD_DMT was used in place of TMP-CiKD_Bortezomib. As a positive control, used was MLN2238 as a proteasome inhibitor.
+The 50% inhibition concentrations (IC50) of TMP-CiKD_DMT and MLN2238 are shown in the following Table 87.
+<table>
+<header>
+ & IC50 (µM)
+</header>
+<header>
+β1 & β2 & β5
+</header>
+TMP-CiKD_DMT & > 100 & > 100 & 90.5
+MLN2238 & 0.0079 & 6.4 & 0.043
+</table>
+As can be seen in Table 87, TMP-CiKD_DMT was found to have a significantly lower proteasome inhibitory activity as compared with MLN2238.
+<Example 20: Evaluation (thermal shift assay) of affinity of protein-degradation inducing molecule (TMP-CiKD_ALLN) with forcedly expressed target protein (E. coli DHFR) in HeLa cells to which protein-degradation inducing molecule (TMP-CiKD_DMT) was added>
+In Example 20, the affinity of TMP-CiKD_DMT with a forcedly expressed target protein (E. coli DHFR) in HeLa cells to which TMP-CiKD_DMT was added was evaluated by thermal shift assay.
+(Preparation of cultured cells)
+HeLa cells were prepared as in Example 2.
+(Introduction of plasmid into HeLa cells and cell seeding)
+A plasmid was introduced into HeLa cells to transiently overexpress ecDHFR as a target protein (specifically, a fusion protein of ecDHFR and GFP through a HA tag) or DsRed for comparison in the cells, and the effects of TMP-CiKD_DMT on the target protein were evaluated.
+The plasmid (pMIR DsRed-IRES-ecDHFR-HA-GFP) was provided by Professor Lizbeth Hedstrom at Brandeis University (the United States) (Long, M. J. et al., "Inhibitor mediated protein degradation." Chem. Biol., 2012, 19 (5), 629-637). The plasmid was amplified in E. coli, and then purified with Miniprep Kit (Code No. 27106, QIAGEN).
+ScreenFectA™ (Code No. 297-73201, Wako Pure Chemical Industries, Ltd.) as a transfection reagent was used to introduce the plasmid into HeLa cells. A dilution buffer of ScreenFect™ A was added to two 1.5 mL tubes at 250 µL per tube. Then, 12 µL of a transfection reagent of ScreenFect™ A was added to one tube (a solution A), and 6 µg of the plasmid was added to the other tube (a solution B), and each tube was lightly pipetted, and then allowed to stand at room temperature for 2 minutes. The solution A was lightly mixed with the solution B, and allowed to stand at room temperature for 30 minutes (a solution C). The solution C was mixed in a cell solution of 6 x 105 cells/12 mL collected by trypsin treatment, and seeded on a 24-well plate (Code No. TR5002, TrueLine, and Nippon Genetics Co., Ltd.) at a cell density of 4 x 104 cells/800 µL/well, and then cultured under conditions of 37°C and 5 vol% CO2 for 40 hours.
+(Addition of protein-degradation inducing molecule (TMP-CiKD_DMT) to HeLa cells)
+Culture was performed for 40 hours after introduction of the plasmid, and then TMP-CiKD_DMT was added to HeLa cells as follows. As a medium, used was a serum free medium (37°C) in which 1 mass% L-glutamine solution (Code No. G7513, Sigma-Aldrich) was added to D-MEM (high D-glucose, phenol red, sodium pyruvate (Code No. 045-32245, Wako Pure Chemical Industries, Ltd.). It is noted that the L-glutamine solution was added immediately before use. A DMSO solution containing MTX-CiKD_DMT was mixed with the medium so that the concentration of DMSO was 1 vol%, and added to each well at 300 µL/well where the pre-culture medium had been removed, and cultured under conditions of 37°C and 5 vol% CO2. It is noted that a DMSO solution containing TMP or DMSO was used as a control in place of the DMSO solution containing TMP-CiKD_DMT.
+(Evaluation of affinity of TMP-CiKD_DMT with target by thermal shift assay)
+The medium was removed 3 hours after addition of TMP-CiKD_DMT (28 µM) or TMP (40 µM), and then PBS (Wako Pure Chemical Industries, Ltd.) at 37°C was added to each well at 1 mL/well to wash the cells. After removing PBS, trypsin (0.25 w/v% trypsin-1 mmol/L EDTA·4 Na solution with phenol red) (Wako Pure Chemical Industries, Ltd.) at 37°C was added to each well at 300 µL/well, and cultured under conditions of 37°C and 5 vol% CO2 for 1 minutes. After culturing, a medium where 10 mass% FBS (Code No. SH30910.03, Lot. No. AYG161516, HyClone) and 1 mass% PenStrep (100 U/mL sodium penicillin G and 100 µg/mL streptomycin sulfate) (Code No. 168-23191, Wako Pure Chemical Industries, Ltd.) were added to D-MEM (low D-glucose, L-glutamine, phenol red (Code No. 041-29775, Wako Pure Chemical Industries, Ltd.) was added to each well at 1 mL/well, and suspended, and then a cell solution was collected in a 15 mL tube.
+The cell solution collected was centrifuged (at 1000 rpm x 5 minutes, 4°C), and the supernatant was removed, and then suspended in 2 ml of PBS (37°C). The cell solution after suspension was centrifuged (at 1000 rpm x 5 minutes, 4°C), and the supernatant was removed, and then 180 µL of a CETSA buffer (complete™ Mini, EDTA-free (Roche) as a protease inhibitor was added to TBS immediately before use) was added and suspended. The cell solution after suspension was dispensed to nine 1.5 mL tubes at 20 µL per tube, and allowed to stand at room temperature for 30 minutes. After allowed to stand, the 9 tubes were heat-treated for 3 minutes, one each at 38°C, 42°C, 46°C, 50°C, 54°C, 58°C, 62°C, 66°C, or 70°C, and allowed to stand at room temperature for 3 minutes. After allowed to stand, the cell solution was flash frozen in liquid nitrogen, and thawed on ice. After repeating this freeze-thaw cycle for 3 times, the solution was centrifuged (at 13500 rpm x 20 minutes, 4°C), and the supernatant (cell extract) was collected.
+The cell extract collected was subjected to Western blot analysis. An SDS-PAGE gel (14 wells) was prepared using TGX™ FastCast™ Acrylamide Kit, 12% (Bio-Rad). Electrophoresis samples were prepared in a 6x SDS-PAGE sample buffer (62.5 mM Tris-HCl pH 6.8, 2% SDS, 5% 2-mercaptoethanol, 10% glycerol, 0.25% BPB), and placed on a heat block at 95°C for 4 minutes. The electrophoresis samples prepared were applied to each well at 17 µL/well. Precision Plus Protein™ Dual Color Standards (Bio-Rad) were used as electrophoresis markers. Electrophoresis was performed at 150 V for 40 minutes (electrophoresis buffer; 195 mM glycine, 25 mM Tris).
+After electrophoresis, proteins were transferred to a PVDF membrane (Immobion™-P, Millipore) under conditions of 100 V and 40 minutes using a tank-type blotting device and a transfer buffer (25 mM Tris-HCl, 195 mM glycine, 0.01% SDS, 15% methanol). The membrane after transfer was shaken and blocked at room temperature for 30 minutes in 5% skim milk/high-salt TBS-T (100 mM Tris-HCl, 500 mM NaCl, 0.2% Tween-20, pH 7.6). After blocking, the membrane was rinsed with high-salt TBS-T, and an antibody reaction was performed in 1% skim milk/high-salt TBS-T. With regard to antibody, anti-HA-peroxidase, high-affinity (3F10) rat monoclonal antibody (25 U/mL) (Roche) diluted 1000 times was used. The membrane was shaken at room temperature for 90 minutes, and then washed with high-salt TBS-T for 5 minutes. It is noted that washing was performed for 3 times. Further, the membrane was washed with high-salt TBS (100 mM Tris-HCl, 500 mM NaCl, pH 7.6) for 5 minutes. Subsequently, the membrane was treated with a chemiluminescence reagent Immobilon™ Western (Millipore), and then chemiluminescence was detected using a lumino image analyzer LAS-3000 (FUJIFILM Corporation).
+Fig. 13 shows results from the thermal shift assay of a forcedly expressed target protein (E. coli DHFR) in HeLa cells to which TMP-CiKD_DMT or TMP was added. E. coli DHFR was able to be detected only up to about 50°C for the control (DMSO) while E. coli DHFR was able to be detected up to about 54°C for TMP (40 µM) and up to about 62°C for TMP-CiKD_DMT (28 µM). These results show that TMP-CiKD_DMT, in which TMP-NH2 is linked to DMT, has a higher affinity with E. coli DHFR than TMP.
+<Example 21: Evaluation (FACS analysis) of degradation (knockdown) of forcedly expressed target protein (E. coli DHFR) in HeLa cells to which protein-degradation inducing molecule (TMP-CiKD_DMT) was added>
+In Example 21, degradation (knockdown) of a forcedly expressed target protein (E. coli DHFR) in HeLa cells to which TMP-CiKD_DMT was added was evaluated by FACS analysis.
+(Preparation of cultured cells)
+HeLa cells were prepared as in Example 2.
+(Introduction of plasmid into HeLa cells and cell seeding)
+A plasmid was introduced into HeLa cells to transiently overexpress E. coli DHFR as a target protein (specifically, a fusion protein of E. coli DHFR and GFP through a HA tag) or DsRed for comparison in the cells, and the effects of TMP-CiKD_DMT on the target protein were evaluated.
+The plasmid (pMIR DsRed-IRES-ecDHFR-HA-GFP) was provided by Professor Lizbeth Hedstrom at Brandeis University (the United States) (Long, M. J. et al., "Inhibitor mediated protein degradation." Chem. Biol., 2012, 19 (5), 629-637). The plasmid was amplified in E. coli, and purified with Miniprep Kit (Code No. 27106, QIAGEN).
+ScreenFect™ A (Code No. 297-73201, Wako Pure Chemical Industries, Ltd.) as a transfection reagent was used to introduce the plasmid into HeLa cells. A dilution buffer of ScreenFect™ A was added to two 1.5 mL tubes at 960 µL per tube. Then, 40 µL of a transfection reagent of ScreenFect™ A was added to one tube (a solution A), and 16 µg of the plasmid was added to the other tube (a solution B), and each tube was lightly pipetted, and then allowed to stand at room temperature for 2 minutes. The solution A was lightly mixed with the solution B, and allowed to stand at room temperature for 30 minutes (a solution C). The solution C was mixed with a cell solution of 2.7 x 105 cells/18 mL collected from trypsin treatment, and seeded on a 24-well plate (Code No. TR5002, TrueLine, Nippon Genetics Co., Ltd.) at a cell density of 6 x 104 cells/400 µL/well, and then cultured under conditions of 37 °C and 5 vol% CO2 for 40 hours.
+(Addition of protein-degradation inducing molecule (TMP-CiKD_DMT) to HeLa cells)
+TMP-CiKD_DMT was added to HeLa cells as follows. Culture was performed for 40 hours after introduction of the plasmid, and then the preculture medium was removed. Then, a serum-free medium (37°C) in which 1 mass% L-glutamine solution (Code No. G7513, Sigma-Aldrich) was added to D-MEM (high D-glucose, phenol red, and sodium pyruvate (Code No. 045-32245, Wako Pure Chemical Industries, Ltd.) was added to each well at 297 µL/well. It is noted that the L-glutamine solution was added immediately before use. A DMSO solution containing a predetermined concentration of TMP-CiKD_DMT was added to each well at 3 µL/well, and cultured under conditions of 37°C and 5 vol% CO2. It is noted that a DMSO solution containing TMP or DMSO was used as a control in place of the DMSO solution containing TMP-CiKD_DMT.
+The medium was removed 24 hours after addition of TMP-CiKD_DMT (56 µM or 112 µM) or TMP (80 µM), PBS (Wako Pure Chemical Industries, Ltd.) at 37°C was added to each well at 1 mL/well to wash the cells. After removing PBS, trypsin (0.25 w/v% trypsin-1 mmol/L EDTA·4 Na solution with phenol red) (Wako Pure Chemical Industries, Ltd.) at 37°C was added to each well at 300 µL/well, and cultured under conditions of 37°C and 5 vol% CO2 for 1 minute. After culturing, a medium where 10 mass% FBS (Code No. SH30910.03, Lot. No. AYG161516, HyClone) and 1 mass% PenStrep (100 U/mL sodium penicillin G and 100 µg/mL streptomycin sulfate) (Code No. 168-23191, Wako Pure Chemical Industries, Ltd.) were added to D-MEM (low D-glucose, L-glutamine, phenol red (Code No. 041-29775, Wako Pure Chemical Industries, Ltd.)) was added to each well at 500 µL/well, and suspended, and then a cell solution was collected in a 15 mL tube.
+The cell solution collected was centrifuged (at 1000 rpm x 5 minutes, 4°C), and the supernatant was removed, and then suspended in 2 ml of PBS (37°C). The cell solution after suspension was centrifuged (at 1000 rpm x 5 minutes, 4°C), and the supernatant was removed, and then 500 µL of an FACS buffer (1 mass% FBS/PBS) at 4°C was added, and allowed to stand on ice.
+A BD FACSCanto™ II (BD Biosciences) was used for flow cytometry, and the expression levels of GFR and DsRed in the cells were quantified. The cell solution was passed through a mesh with a pore size of 32 µm, and transferred to an FACS tube immediately before FACS analysis. The GFR/DsRed ratio per cell was computed using an analysis software FLOWJO™ (TOMY Digital Biology Co., Ltd.), and the efficiency of target degradation (knockdown) by TMP-CiKD_DMT was determined from a shift in a graph of target degradation.
+Fig. 14A shows results from the FACS analysis of a forcedly expressed target protein (E. coli DHFR) in HeLa cells to which TMP-CiKD_DMT (56 µM) was added. Fig. 14B shows results from the FACS analysis of a forcedly expressed target protein (E. coli DHFR) in HeLa cells to which TMP-CiKD_DMT (112 µM) was added. Further, Fig. 14C shows results from the FACS analysis of a forcedly expressed target protein (E. coli DHFR) in HeLa cells to which TMP was added. As can be seen from Figs. 14A and 14B, when TMP-CiKD_DMT was added, the amounts of a shift to the left in the graphs were found to be increased as compared with the control (DMSO) in a concentration dependent manner, indicating that the target protein (E. coli DHFR) was degraded. The degradation efficiency estimated from the amount of a shift was about 60% to 70%. In contrast, as can be seen in Fig. 14C, the graph was found to be overlapped with that of the control (DMSO) when TMP was added, indicating that the target protein was not degraded.
+<Example 22: Evaluation (Western blot analysis) of degradation (knockdown) of forcedly expressed target protein (E. coli DHFR) in HeLa cells to which protein-degradation inducing molecule (TMP-CiKD_DMT) was added>
+In Example 22, degradation (knockdown) of a forcedly expressed target protein (E. coli DHFR) in HeLa cells to which TMP-CiKD_DMT was added was evaluated by Western blot analysis.
+(Preparation of cultured cells)
+HeLa cells were prepared as in Example 2.
+(Introduction of plasmid into HeLa cells and cell seeding)
+A plasmid was introduced into HeLa cells to transiently overexpress E. coli DHFR as a target protein (specifically, a fusion protein of E. coli DHFR and GFP through a HA tag) or DsRed for comparison in the cells, and the effects of TMP-CiKD_DMT on the target protein were evaluated.
+The plasmid (pMIR DsRed-IRES-ecDHFR-HA-GFP) was provided by Professor Lizbeth Hedstrom at Brandeis University (the United States) (Long, M. J. et al., "Inhibitor mediated protein degradation." Chem. Biol., 2012, 19 (5), 629-637). The plasmid was amplified in E. coli, and purified with Miniprep Kit (Code No. 27106, QIAGEN).
+ScreenFect™ A (Code No. 297-73201, Wako Pure Chemical Industries, Ltd.) as a transfection reagent was used to introduce the plasmid into HeLa cells. A dilution buffer of ScreenFect™ A was added to two 1.5 mL tubes at 250 µL per tube. Then, 12 µL of a transfection reagent of ScreenFect™ A was added to one tube (a solution A), and 4.8 µg of the plasmid was added to the other tube (a solution B), and each tube was lightly pipetted, and then allowed to stand at room temperature for 2 minutes. The solution A was lightly mixed with the solution B, and allowed to stand at room temperature for 30 minutes (a solution C). The solution C was mixed with a cell solution of 7.7 x 104 cells/7.7 mL collected from trypsin treatment, and seeded on a 24-well plate (Code No. TR5002, TrueLine, Nippon Genetics Co., Ltd.) at a cell density of 4 x 104 cells/400 µL/well, and then cultured under conditions of 37°C and 5 vol% CO2 for 40 hours.
+(Addition of protein-degradation inducing molecule (TMP-CiKD_DMT) to HeLa cells)
+Culture was performed for 40 hours after introduction of the plasmid, and then TMP-CiKD_DMT was added to HeLa cells as follows. As a medium, used was a serum free medium (37°C) in which 1 mass% L-glutamine solution (Code No. G7513, Sigma-Aldrich) was added to D-MEM (high D-glucose, phenol red, sodium pyruvate (Code No. 045-32245, Wako Pure Chemical Industries, Ltd.)). It is noted that the L-glutamine solution was added immediately before use. A DMSO solution containing TMP-CiKD_DMT was mixed with the medium so that the concentration of DMSO was 1 vol%, and added to each well at 300 µL/well where the pre-culture medium had been removed, and cultured under conditions of 37°C and 5 vol% CO2. Further, an experiment group where a DMSO solution containing TMP-CiKD_DMT and bortezomib was added was also prepared in addition to an experiment group where a DMSO solution containing TMP-CiKD_DMT was added. Cycloheximide as a protein synthesis inhibitor was added to the medium so as to give a concentration of 50 µg/mL 12 hours after addition of TMP-CiKD_DMT or TMP-CiKD_DMT and bortezomib. It is noted that a DMSO solution containing TMP or DMSO was used as a control in place of the DMSO solution containing TMP-CiKD_DMT.
+(Evaluation of target degradation (knockdown) due to TMP-CiKD_DMT by Western blot analysis)
+The medium was removed 24 hours after addition of TMP-CiKD_DMT or TMP-CiKD_DMT and bortezomib, and 1 mL of PBS (Wako Pure Chemical Industries, Ltd.) at 4°C was added to each well to wash the cells. After removing PBS, a mixed solution of a cell lysis buffer (CelLytic™ M, Sigma) and a protease inhibitor (cOmplete™ Mini, EDTA-free (REF 11 836 170 001), Roche) was added to each well at 55 µL/well. After allowed to stand at 4°C for 15 minutes, cells were detached with a pipette tip (P1000) on ice. A cell solution was collected in a 1.5 mL tube, and flash frozen in liquid nitrogen, and then thawed on ice. After repeating this freeze-thaw cycle for 3 times, the solution was centrifuged (at 13000 rpm x 20 minutes, 4°C), and the supernatant (cell extract) was collected.
+The cell extract collected was subjected to Western blot analysis. An SDS-PAGE gel (8 wells) was prepared using TGX™ FastCast™ Acrylamide Kit, 12% (Bio-Rad). Electrophoresis samples were prepared in a 6x SDS-PAGE sample buffer (62.5 mM Tris-HCl pH 6.8, 2% SDS, 5% 2-mercaptoethanol, 10% glycerol, 0.25% BPB), and placed on a heat block at 95°C for 4 minutes. The electrophoresis samples prepared were applied to each well at 40 µL/well. Precision Plus Protein™ Dual Color Standards (Bio-Rad) were used as electrophoresis markers. Electrophoresis was performed at 150 V for 50 minutes (electrophoresis buffer; 195 mM glycine, 25 mM Tris).
+After electrophoresis, proteins were transferred to a PVDF membrane (Immobion™-P, Millipore) under conditions of 100 V and 40 minutes using a tank-type blotting device and a transfer buffer (25 mM Tris-HCl, 195 mM glycine, 0.01% SDS, 15% methanol). The membrane after transfer was shaken and blocked at room temperature for 30 minutes in 5% skim milk/high-salt TBS-T (100 mM Tris-HCl, 500 mM NaCl, 0.2% Tween-20, pH 7.6). After blocking, the membrane was rinsed with high-salt TBS-T, and an antibody reaction was performed in 1% skim milk/high-salt TBS-T. With regard to antibody, anti-HA-peroxidase, high-affinity (3F10) rat monoclonal antibody (25 U/mL) (Roche) diluted 1000 times was used. The membrane was shaken at room temperature for 1 hour, and then washed with high-salt TBS-T for 5 minutes. It is noted that washing was performed for 3 times. Further, the membrane was washed with high-salt TBS (100 mM Tris-HCl, 500 mM NaCl, pH 7.6) for 5 minutes. Subsequently, the membrane was treated with a chemiluminescence reagent Immobilon™ Western (Millipore), and then chemiluminescence was detected using a lumino image analyzer LAS-3000 (FUJIFILM Corporation).
+Next, a reaction for detecting GAPDH as a control was performed using the same membrane. The membrane was washed with TBS-T (100 mM Tris-HCl, 150 mM NaCl, 0.1% Tween-20, pH 7.6), and blocked by shaking at room temperature for 30 minutes in 5% skim milk/TBS-T. After blocking, a primary antibody reaction was performed in 5% skim milk/TBS-T. As a primary antibody, anti-GAPDH antibody (sc-32233, SantaCruz, diluted 20000 times) was used. The membrane was shaken at room temperature for 60 minutes, and then washed with TBS-T for 5 minutes. It is noted that washing was performed for 3 times. After the primary antibody reaction, a secondary antibody reaction was performed in 2% skim milk/TBS-T. As a secondary antibody, anti-mouse IgG (H+L) antibody (A90-116P-33, BETHYL) diluted 20000 times was used. The membrane was shaken at room temperature for 30 minutes, and then washed with TBS-T for 5 minutes. It is noted that washing was performed for 3 times. Further, the membrane was washed with TBS (100 mM Tris-HCl, 150 mM NaCl, pH 7.6) for 5 minutes. Subsequently, the membrane was treated with a chemiluminescence reagent Immobilon™ Western (Millipore), and then chemiluminescence was detected using a lumino image analyzer LAS-3000 (FUJIFILM Corporation). Detected bands were quantified with an image processing software ImageJ (NIH).
+Fig. 15A shows results from quantification of bands detected in the Western blot analysis of a forcedly expressed target protein (E. coli DHFR) in HeLa cells to which TMP-CiKD_DMT or TMP-CiKD_DMT and bortezomib were added. Fig. 10B shows the detected bands. As can be seen in Figs. 15A and 15B, the degradation efficiency was about 60% relative to the control (DMSO) when TMP-CiKD_DMT (112 µM) was added. In contrast, degradation of the target protein was inhibited when TMP-CiKD_DMT (112 µM) and bortezomib (1 µM) were added. These results suggest that TMP-CiKD_DMT enabled the target protein to be led to degradation by a proteasome.
+<Example 23: Evaluation (Western blot analysis) of degradation (knockdown) of forcedly expressed target protein (E. coli DHFR) in HeLa cells to which protein-degradation inducing molecule (TMP-CiKD_DMT, TMP-CiKD_MLN, TMP-CiKD_ALLN, or TMP-CiKD_Bortezomib) was added>
+In Example 23, degradation (knockdown) of a forcedly expressed target protein (E. coli DHFR) in HeLa cells to which TMP-CiKD_DMT, TMP-CiKD_MLN, TMP-CiKD_ALLN, or TMP-CiKD_Bortezomib were added was evaluated by Western blot analysis.
+(Preparation of cultured cells)
+HeLa cells were prepared as in Example 2.
+(Introduction of plasmid into HeLa cells and cell seeding)
+A plasmid was introduced into HeLa cells to transiently overexpress E. coli DHFR as a target protein (specifically, a fusion protein of E. coli DHFR and GFP through a HA tag) or DsRed for comparison in the cells, and the effects of TMP-CiKD_DMT on the target protein were evaluated.
+The plasmid (pMIR DsRed-IRES-ecDHFR-HA-GFP) was provided by Professor Lizbeth Hedstrom at Brandeis University (the United States) (Long, M. J. et al., "Inhibitor mediated protein degradation." Chem. Biol., 2012, 19 (5), 629-637). The plasmid was amplified in E. coli, and purified with Miniprep Kit (Code No. 27106, QIAGEN).
+ScreenFect™ A (Code No. 297-73201, Wako Pure Chemical Industries, Ltd.) as a transfection reagent was used to introduce the plasmid into HeLa cells. A dilution buffer of ScreenFect™ A was added to two 1.5 mL tubes at 400 µL per tube. Then, 20 µL of a transfection reagent of ScreenFect™ A was added to one tube (a solution A), and 10.3 µg of the plasmid was added to the other tube (a solution B), and each tube was lightly pipetted, and then allowed to stand at room temperature for 2 minutes. The solution A was lightly mixed with the solution B, and allowed to stand at room temperature for 30 minutes (a solution C). The solution C was mixed in a cell solution of 8 x 105 cells/16 mL collected by trypsin treatment, and seeded on a 24-well plate (Code No. TR5002, TrueLine, Nippon Genetics Co., Ltd.) at a cell density of 4 x 104 cells/800 µL/well, and then cultured under conditions of 37°C and 5 vol% CO2 for 40 hours.
+(Addition of protein-degradation inducing molecule (TMP-CiKD_DMT, TMP-CiKD_MLN, TMP-CiKD_ALLN, or TMP-CiKD_Bortezomib) to HeLa cells)
+Culture was performed for 40 hours after introduction of the plasmid, and then TMP-CiKD_DMT, TMP-CiKD_MLN, TMP-CiKD_ALLN, or TMP-CiKD_Bortezomib was added to HeLa cells as follows. As a medium, used was a serum free medium (37°C) in which a 1 mass% L-glutamine solution (Code No. G7513, Sigma-Aldrich) was added to D-MEM (high D-glucose, phenol red, sodium pyruvate (Code No. 045-32245, Wako Pure Chemical Industries, Ltd.)). It is noted that the L-glutamine solution was added immediately before use. A DMSO solution containing TMP-CiKD_DMT, TMP-CiKD_MLN, TMP-CiKD_ALLN, or TMP-CiKD_Bortezomib was mixed with the medium so that the concentration of DMSO was 1 vol%, and added to each well at 300 µL/well where the pre-culture medium had been removed, and cultured under conditions of 37°C and 5 vol% CO2. It is noted that a DMSO solution containing TMP or DMSO was used as a control.
+(Evaluation of target degradation (knockdown) by Western blot analysis)
+The medium was removed 24 hours after addition of TMP-CiKD_DMT, TMP-CiKD_MLN, TMP-CiKD_ALLN, or TMP-CiKD_Bortezomib, and PBS (Wako Pure Chemical Industries, Ltd.) at 4°C was added to each well at 1 mL/well to wash the cells. After removing PBS, a mixed solution of a cell lysis buffer (CelLytic™ M, Sigma) and a protease inhibitor (cOmplete™ Mini, EDTA-free (REF 11 836 170 001), Roche) was added to each well at 30 µL/well. After allowed to stand at 4°C for 10 minutes, cells were detached with a pipette tip (P1000) on ice. A cell solution was collected in a 1.5 mL tube, and flash frozen in liquid nitrogen, and then thawed on ice. After repeating this freeze-thaw cycle for 3 times, the solution was centrifuged (at 13500 rpm x 20 minutes, 4°C), and the supernatant (cell extract) was collected.
+The cell extract collected was subjected to Western blot analysis. An SDS-PAGE gel (12 wells) was prepared using TGX™ FastCast™ Acrylamide Kit, 12% (Bio-Rad). Electrophoresis samples were prepared in a 6x SDS-PAGE sample buffer (62.5 mM Tris-HCl pH 6.8, 2% SDS, 5% 2-mercaptoethanol, 10% glycerol, 0.25% BPB), and placed on a heat block at 95°C for 4 minutes. The electrophoresis samples prepared were applied to each well at 20 µL/well. Precision Plus Protein™ Dual Color Standards (Bio-Rad) were used as electrophoresis markers. Electrophoresis was performed at 160 V for 45 minutes (electrophoresis buffer; 195 mM glycine, 25 mM Tris).
+After electrophoresis, proteins were transferred to a PVDF membrane (Immobion™-P, Millipore) under conditions of 100 V and 35 minutes using a tank-type blotting device and a transfer buffer (25 mM Tris-HCl, 195 mM glycine, 0.01% SDS, 15% methanol). The membrane after transfer was shaken and blocked at room temperature for 30 minutes in 5% skim milk/high-salt TBS-T (100 mM Tris-HCl, 500 mM NaCl, 0.2% Tween-20, pH 7.6). After blocking, the membrane was rinsed with high-salt TBS-T, and an antibody reaction was performed in 1% skim milk/high-salt TBS-T. With regard to antibody, anti-HA-peroxidase, high-affinity (3F10) rat monoclonal antibody (25 U/mL) (Roche) diluted 500 times was used. The membrane was shaken at room temperature for 2 hours, and then washed with high-salt TBS-T for 5 minutes. It is noted that washing was performed for 3 times. Further, the membrane was washed with high-salt TBS (100 mM Tris-HCl, 500 mM NaCl, pH 7.6) for 5 minutes. Subsequently, the membrane was treated with a chemiluminescence reagent Immobilon™ Western (Millipore), and then chemiluminescence was detected using a lumino image analyzer LAS-3000 (FUJIFILM Corporation).
+Next, a reaction for detecting GAPDH as a control was performed using the same membrane. The membrane was washed with TBS-T (100 mM Tris-HCl, 150 mM NaCl, 0.1% Tween-20, pH 7.6), and blocked by shaking in 5% skim milk/TBS-T at room temperature for 30 minutes. After blocking, a primary antibody reaction was performed in 5% skim milk/TBS-T. As a primary antibody, anti-GAPDH antibody (sc-32233, SantaCruz, diluted 10000 times) was used. The membrane was shaken at room temperature for 60 minutes, and then washed with TBS-T for 5 minutes. It is noted that washing was performed for 3 times. After the primary antibody reaction, a secondary antibody reaction was performed in 2% skim milk/TBS-T. As a secondary antibody, anti-mouse IgG (H+L) antibody (A90-116P-33, BETHYL) diluted 20000 times was used. The membrane was shaken at room temperature for 30 minutes, and then washed with TBS-T for 5 minutes. It is noted that washing was performed for 3 times. Further, the membrane was washed with TBS (100 mM Tris-HCl, 150 mM NaCl, pH 7.6) for 5 minutes. Subsequently, the membrane was treated with a chemiluminescence reagent Immobilon™ Western (Millipore), and then chemiluminescence was detected using a lumino image analyzer LAS-3000 (FUJIFILM Corporation). Detected bands were quantified with an image processing software ImageJ (NIH).
+Fig. 16 shows results from the Western blot analysis of a forcedly expressed target protein (E. coli DHFR) in HeLa cells to which TMP-CiKD_DMT, TMP-CiKD_MLN, TMP-CiKD_ALLN, or TMP-CiKD_Bortezomib was added. As can be seen in Fig. 16, when TMP-CiKD_DMT was added in an amount of 80 µM or 160 µM, the degradation efficiency relative to the control (DMSO) was 72% or 91%, respectively. Moreover, the degradation efficiencies of TMP-CiKD_MLN, TMP-CiKD_ALLN, and TMP-CiKD_Bortezomib at 160 µM was 82%, 45%, and 28%, respectively.
+The disclosures of Japanese Patent Application No. 2015-123740 filed on June 19, 2015, and Japanese Patent Application No. 2016-078324 filed on April 8, 2016 are entirely incorporated herein by reference. All documents, patent applications, and technical standards cited herein are incorporated herein by reference to the same extent as if each of the documents, patent applications, and technical standards was specifically and individually indicated to be incorporated by reference.

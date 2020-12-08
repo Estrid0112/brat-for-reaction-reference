@@ -1,0 +1,374 @@
+TECHNICAL FIELD
+The present disclosure relates to a probe for detecting in vivo hydrogen sulfide, and specifically, to a probe for detecting hydrogen sulfide including a complex compound into which a radioactive isotope Cu is introduced.
+BACKGROUND ART
+According to results of recent studies, hydrogen sulfide (H2S) is known to be involved in various physiological phenomena as a 3rd gasotransmitter and gasomediator, together with nitric oxide and carbon monoxide.
+A level of hydrogen sulfide in blood plasma is known to be about 50 µM-100 µM, and results of recent studies reported that hydrogen sulfide acts as an important signaling molecule in many different physiological actions such as various inflammatory responses, cardiovascular diseases, vasodilation, glucose metabolism, neovascularization, etc., indicating that it is possible to diagnose a disease such as Down syndrome, Alzheimer's disease, diabetes, liver cirrhosis, etc. simply by detecting the level of hydrogen sulfide.
+Particularly, hydrogen sulfide has attracted attention because it functions as a K-ATP channel opener, and contributes to homeostasis of the cardiovascular system, and plays a role in treating cardiac muscle damage. In this regard, WO 2014027820 A1 discloses a real-time biosignal measurement apparatus for cardiac ischemia and reperfusion, including a hydrogen sulfide sensor which detects hydrogen sulfide concentrations in real time.
+Further, in vivo hydrogen sulfide is produced by three enzymes of cystathionine-synthase (CBS), cystathionine-lyase (CSE), and 3-mercaptopyruvate sulfurtransferase (3-MST), and hydrogen sulfide inhibits intracellular oxidative stress by inducing glutathione (GSH) which functions to protect cells by a cell immune system and an antioxidant action. Cytosolic hydrogen sulfide produced by CSE enters mitochondria via Katp channels under conditions of increased intracellular oxidative stress, and induces GSH, together with mitochondrial hydrogen sulfide produced by 3-MST and CAT enzymes, thereby protecting cells.
+As such, since hydrogen sulfide induces changes of the GSH concentration to actually protect cells, it serves as a mediator preventing cell dysfunction and inhibiting apoptosis. Therefore, if detection of mitochondrial hydrogen sulfide and measurement of its concentration are possible, it will contribute to studying various life phenomena.
+Accordingly, many technologies capable of detecting and quantifying hydrogen sulfide are being developed competitively, and in particular, development of a method of detecting in vivo hydrogen sulfide by non-invasive imaging has emerged as an important issue.
+Although involvement of hydrogen sulfide in disease diagnosis and physiological phenomena has received attention and various types of probes are now being introduced, detection and accurate quantification of hydrogen sulfide are known to require very difficult and complex conditions such as measurement of H2S in a liquid state, selectivity for hydrogen sulfide over other anionic species, selectivity for hydrogen sulfide over reduced glutathione (GSH), etc.
+In this regard, a method of detecting hydrogen sulfide by using a chromophore that utilizes chemical properties of intracellular cytosolic hydrogen sulfide and blood plasma hydrogen sulfide, a method of detecting hydrogen sulfide by passing a specific electrode through sulfide ions, and a method of detecting hydrogen sulfide by gas chromatography have been used until now. In recent years, various fluorescent probes have been developed. However, due to limitations of the fluorescent probe method, detection of hydrogen sulfide through imaging is very limited to a small animal level, and its application in practical bioimaging and studies on life phenomena is extremely restricted.
+As a general fluorescent probe for detecting H2S, a 2,4,6-triaryl pyridium cation compound was disclosed (Journal of the American Chemical Society, 125, 9000, 2003), but there is a problem that this compound cannot avoid competitive reaction with GSH. Further, a method of using 2,4 dinitrobenzene sulfonyl fluorescein as a fluorescence enhancement probe was suggested (Analytica Chimica Acta, 631, 91, 2009), but there is a problem that fluorescence intensity is changed over time due to hydrolysis of sulfonic acid ester.
+In addition, an aminofluorescein compound (DPA-4-AF) having 2,2-dipicolylamine containing divalent copper ions (Cu2+) was disclosed (Myung Gil Choi, et. al., Chem. Commun., (47), 7390-7392, 2009). A compound, in which a fluorescent material is attached to cyclen, cyclam, TACN, etc., is disclosed in WO2012-144654A1. This compound itself emits fluorescence, but it does not emit fluorescence by quenching of copper ions once binding with copper to form a complex compound. When hydrogen sulfide reacts with the complex compound, the copper complex is detached in a CuS form. Depending on the degree, fluorescence intensity to be restored differs. On the basis of this principle, a method of quantifying the amount of hydrogen sulfide was disclosed. However, this compound still has many problems in that images can be acquired only in vitro, and it is difficult to selectively detect hydrogen sulfide in vivo. Development of a new technology capable of replacing the known detection methods is still demanded.
+DETAILED DESCRIPTION OF THE INVENTION
+TECHNICAL PROBLEM
+An object to be achieved in the present disclosure is to provide a radioactive probe capable of selectively detecting in vivo/ex vivo hydrogen sulfide.
+TECHNICAL SOLUTION
+According to one representative aspect of the present disclosure, provided is a probe for detecting hydrogen sulfide (H2S), including a radioactive isotope Cu-introduced complex compound which is represented by any one of the following Chemical Formulae 1 to 4:
+(wherein A, B, X1 to X3, Y1, Y2, and R1 to R8 are the same as disclosed herein)
+(wherein K, L, M, and R15 to R17 are the same as disclosed herein)
+(wherein X is the same as disclosed herein)
+ADVANTAGEOUS EFFECTS OF THE INVENTION
+According to specific embodiments of the present disclosure, as a result of real-time observing animal models, in which hydrogen sulfide involved in various diseases is generated in a large quantity, through optical and nuclear medicine imaging, the probe for detecting hydrogen sulfide according to the present disclosure may selectively bind with hydrogen sulfide to provide images of a site where hydrogen sulfide has abnormally increased in a cell or a tissue, thereby detecting a disease in an unexpected site without affecting the anatomical properties of the body. In addition, the probe for detecting hydrogen sulfide quickly reacts with hydrogen sulfide, thereby solving the existing problem of waiting a predetermined time for testing after an imaging agent is injected. Accordingly, the probe may be effectively used as a means for diagnosing diseases, such as a composition for imaging, an imaging method, etc.
+DESCRIPTION OF THE DRAWINGS
+FIG. 1 shows a graph measuring hydrogen sulfide sensitivity of 64Cu-labeled complex compounds according to a specific embodiment of the present disclosure;FIGS. 2A and 2B show results of measuring radio-TLC of 64Cu-labeled complex compounds according to a specific embodiment of the present disclosure;FIG. 3 shows a graph measuring hydrogen sulfide reactivity of 64Cu-labeled complex compounds according to the present disclosure over time;FIG. 4 shows photographs of examining selective imaging through optical imaging after injecting the backs of rats with 64Cu-labeled complex compounds according to the present disclosure;FIGS. 5A to 5D show results of imaging paw inflammation models injected with a 64Cu-labeled complex compound of Example 1 according to a specific embodiment of the present disclosure;FIGS. 6A to 6C show results of imaging paw inflammation models injected with a 64Cu-labeled complex compound of Example 20 according to a specific embodiment of the present disclosure;FIGS. 7A to 7D show results of imaging paw inflammation models injected with 64Cu-labeled complex compounds of Example 2 or Example 14 according to a specific embodiment of the present disclosure;FIGS. 8A to 8E show results of imaging paw inflammation models injected with 64Cu-labeled complex compounds of Example 3 or Example 21 according to a specific embodiment of the present disclosure;FIGS. 9A and 9B show results of imaging paw inflammation models injected with a 64Cu-labeled complex compound of Example 7 according to a specific embodiment of the present disclosure;FIGS. 10A and 10B show results of imaging paw inflammation models injected with a 64Cu-labeled complex compound of Example 9 according to a specific embodiment of the present disclosure;FIGS. 11A to 11D show results of imaging paw inflammation models injected with a 64Cu-labeled complex compound of Example 16 according to a specific embodiment of the present disclosure;FIG. 12 shows the degree of inflammation in the joint regions of arthritis animal models according to a specific embodiment of the present disclosure;FIGS. 13A and 13B show results of imaging arthritis models injected with the 64Cu-labeled complex compound of Example 1 according to a specific embodiment of the present disclosure;FIG. 14 shows result of imaging brain inflammation models injected with a 64Cu-labeled complex compound of Example 17 according to a specific embodiment of the present disclosure;FIG. 15 shows result of imaging myocardial infarction models injected with the 64Cu-labeled complex compound of Example 1 according to a specific embodiment of the present disclosure;FIG. 16 shows result of imaging myocardial infarction models injected with the 64Cu-labeled complex compound of Example 20 according to a specific embodiment of the present disclosure;FIG. 17 shows result of imaging myocardial infarction models injected with the 64Cu-labeled complex compound of Example 16 according to a specific embodiment of the present disclosure;FIG. 18 shows result of imaging brain tumor models injected with the 64Cu-labeled complex compound of Example 17 according to a specific embodiment of the present disclosure;FIGS. 19A and 19B show results of imaging tumor (EMT6) (19A) and tumor (CT26) (19B) injected with the 64Cu-labeled complex compound of Example 1 according to a specific embodiment of the present disclosure, respectively;FIG. 20 shows result of imaging pancreatitis models injected with the 64Cu-labeled complex compounds of Example 1 or Example 20 according to the present disclosure;FIG. 21 shows result of imaging sepsis models injected with the 64Cu-labeled complex compound of Example 20 according to the present disclosure;FIG. 22 is a PET image showing a high concentration of hydrogen sulfide in the tongue of a normal rat injected with the 64Cu-labeled complex compound of Example 1 according to the present disclosure, indicating that the 64Cu-labeled complex compound of Example 1 according to the present disclosure is used to easily detect a site having a high concentration of in vivo hydrogen sulfide;FIG. 23 shows a graph quantifying decomplexation by reacting the 64Cu-labeled complex compound of Example 20 according to the present disclosure with hydrogen sulfide at different concentrations, indicating that there is excellent correlation between the 64Cu-labeled complex compound according to the present disclosure and hydrogen sulfide; andFIG. 24 shows a graph of hydrogen sulfide concentrations in the plasmas of a normal rat and a myocardial infarction model rat, which were measured by using the 64Cu-labeled complex compound of Example 20 according to the present disclosure, in which the 64Cu-labeled complex compound of Example 20 according to the present disclosure showed measured values very similar to those of a known methylene method, and the myocardial infarction model showed a very high plasma concentration of hydrogen sulfide, as compared with the normal rat.
+BEST MODE
+Hereinafter, various aspects and specific embodiments of the present disclosure will be described in more detail.
+As used herein, the term 'probe' is defined as a substance which is able to detect or image an in vivo/ex vivo target. In place of the term, an imaging agent, a contrast agent, a radiopharmaceutical, etc. is generally used.
+According to an aspect of the present disclosure, disclosed is a probe for detecting hydrogen sulfide (H2S), including a radioactive isotope Cu-introduced complex compound which is represented by any one of the following Chemical Formulae 1 to 4:
+(wherein X1, X2 and X3 are each independently one or more selected from N, O, and S;
+Y1 and Y2 are each independently C or N;
+A and B are each independently one or more selected from no bond, C(R9)(R10)-C(R11)(R12)-, =C(R9)-C(R10)(R11)-C(R12)(R13)-, and C(R9)(R10)-C(R11)(R12)-C(R13)(R14)-, and =C(R9)-C(R10)=;
+R1 to R14 are each independently one or more selected from no bond, hydrogen, hydroxy, substituted or unsubstituted C1-C6 linear or branched alkyl, substituted or unsubstituted C1-C6 linear or branched alkyloxycarbonyl, substituted or unsubstituted C5-C12 aryl C1-C6 alkyl, substituted or unsubstituted C5-C12 heterocycloalkyl, substituted or unsubstituted C5-C20 aryl, substituted or unsubstituted C5-C20 arylsulfonyl, C1-C6 alkylamine, C1-C6 dialkylamine, and substituted or unsubstituted amine,
+the 'substituted' means being substituted with one or more substituents selected from hydroxy, hydroxy C1-C6 alkyl, C1-C6 dialkylamine, nitro, and 64Cu-labeled 3-methyl-1, 4, 7, 10-tetraazacyclotridecane,
+R5 and R8 or R6 and R7 bind to each other to form a C4-C8 cycloalkyl ring;
+--- is a single bond or a double bond,
+Cu is any one selected from 60Cu, 61Cu, 62Cu, 64Cu, and 67Cu);
+(wherein K, L and N are each independently one or more selected from C(R18)(R19)-C(R20)(R21)-, =C(R18)-C(R19)(R20)-C(R21)(R22)-, C(R18)(R19)-C(R20)(R21)-C(R22)(R23)-, and =C(R18)-C(R19)=;
+R15 to R23 are each independently one or more selected from no bond, hydrogen, hydroxy, substituted or unsubstituted C1-C20 linear or branched alkyl, substituted or unsubstituted C1-C6 linear or branched alkyloxycarbonyl, substituted or unsubstituted C5-C12 aryl C1-C6 alkyl, substituted or unsubstituted C5-C12 heterocycloalkyl, substituted or unsubstituted C5-C20 aryl, substituted or unsubstituted C5-C20 arylsulfonyl, C1-C6 alkylamine, C1-C6 dialkylamine, and substituted or unsubstituted amine,
+the 'substituted' means being substituted with one or more substituents selected from hydroxy, hydroxy C1-C6 alkyl, C1-C6 dialkylamine, nitro, and 64Cu-labeled 3-methyl-1, 4, 7, 10-tetraazacyclotridecane;
+Cu is any one selected from 60Cu, 61Cu, 62Cu, 64Cu, and 67Cu);
+(wherein X is hydrogen or a compound represented by the following Chemical Formula)
+Preferably, the complex compound of Chemical Formula 1 is characterized by a complex compound represented by the following Chemical Formula 5 or 6:
+(wherein A or B is one or more selected from C(R32)(R33)-C(R34)(R35)-, =C(R32)-C(R33)(R34)-C(R35)(R36)-, and C(R32)-C(R33)-C(R34)(R35)-C(R36)(R37)-,
+R24 to R37 are each independently one or more selected from no bond, hydrogen, hydroxy, C1-C6 linear or branched alkyl, C1-C6 linear or branched alkyloxycarbonyl, C1-C6 linear or branched alkylamine, substituted or unsubstituted amine, C5-C12 aryl C1-C6 alkyl substituted or unsubstituted with 64Cu-labeled 3-methyl-1, 4, 7, 10-tetraazacyclotridecane or nitro, C5-C20 heterocycloalkyl substituted or unsubstituted with hydroxy or hydroxy C1-C6 alkyl, and C5-C20 arylsulfonyl substituted or unsubstituted with C1-C6 dialkylamine,
+R26 and R27 or R30 and R31 bind to each other to form a C4-C8 cycloalkyl ring;
+Cu is any one selected from 60Cu, 61Cu, 62Cu, 64Cu, and 67Cu);
+(wherein A is C(R30)(R31)-C(R32)(R33)- or =C(R30)-C(R31)=,
+R24 to R33 are each independently one or more selected from no bond, hydrogen, hydroxy, C1-C6 linear or branched alkyl, C1-C6 alkylamine, C1-C6 dialkylamine, and substituted or unsubstituted amine,
+--- is a single bond or a double bond,
+if --- is a double bond, R24 or R29 is no bond,
+Cu is any one selected from 60Cu, 61Cu, 62Cu, 64Cu, and 67Cu).
+More preferably, the compound represented by any one of Chemical Formulae 1 to 4 is characterized by any one selected from(1) 1,4,7,10-tetraazacyclododecane;(2) 1-(anthracen-9-ylmethyl)-1,4,7,10-tetraazacyclododecane;(3) 1,7-dioxa-4,10-diazacyclododecane;(4)1,4,7,10-tetrakis(anthracen-9-ylmethyl)-1,4,7,10-tetraazacyclododecane;(5)(7S,14R)-5,5,7,12,12,14-hexahexamethyl-1,4,8,11-tetraazacyclotetradecane;(6) 2,5,5,7,9,12,12,14-octamethyl-1,4,8,11-tetraazacyclotetradecane;(7)(1E,7E)-2,5,5,7,9,12,12,14-octamethyl-1,4,8,11-tetraazacyclotetradeca-7,14-diene;(8) (7S,14S)-5,5,7,12,12,14-hexamethyl-1,4,8,11-tetraazacyclotetradecane;(9) 6,15-dimethyldocosahydrodibenzo[b,i][1,4,8,11]tetraazacyclotetradecene;(10) ethyl 3-(1,4,7,10-tetraazacyclododecan-1-yl)propanoate;(11) 1,4-bis((1,4,7,10-tetraazacyclotridecan-4-yl)methyl)benzene;(12) 2-(4-nitrobenzyl)-1,4,7,10-tetraazacyclododecane;(13) 1,4,7,10-tetraazacyclotridecane;(14) (2R,3S,4S,5R,6S)-2-(hydroxymethyl)-6-(1,4,7,10-tetraazacyclododecan-1-yl)tetrahyd ro-2H-pyran-3,4,5-triol;(15) 5-((1,4,7,10-tetraazacyclododecan-1-yl)sulfonyl)-N,N-dimethylnaphthalene-1-amine;(16) 1,4,8,11-tetraazacyclotetradecane;(17) (2R,2'R,3S,3'S,4S,4'S,5R,5'R,6R,6'R)-6,6'-(1,4,7,10-tetraazacyclododecane-1,7-diyl) bis(2-(hydroxymethyl)tetrahydro-2H-pyran-3,4,5-triol);(18) 1,4,7-triazonane;(19) 1,5,9-triazacyclododecane;(20) 5-((1,4,7-triazonan-1-yl)sulfonyl)-N,N-dimethylnaphthalene-1-amine;(21) 1-methyl-1,4,8,11-tetraazacyclotetradecane;(22) 1,4,8,11-tetraazabicyclo[6.6.3]heptadecane;(23) bis(pyridin-2-ylmethyl)amine;(24) N1,N1,N2,N2-tetrakis(pyridin-2-ylmethyl)ethane-1,2-diamine;(25) (1Z,N'E)-N'-((E)-3-((bis(methylamino)methylene)hydrazono)butan-2-ylidene)-N-meth ylcarbamohydrazonothioic acid;(26) (1Z,N'E)-N'-((E)-2-((bis(methylamino)methylene)hydrazono)propylidene)-N-methylca rbamohydrazonothioic acid;(27)(2E,2'E,3R,3'R)-3-((3-(((R,E)-3-(hydroxyimino)butan-2-yl)amino)-2,2-dimethylpropyl) amino)butan-2-one oxime;(28) 1,4,7-trithia-10-azacyclododecane;(29) 1-methyl-1,4,7-triazonane;(30) 1-(anthracen-9-ylmethyl)-1,4,7-triazonane;(31) 1-hexadecyl-1,4,7-triazonane;(32) 1,4,7-trimethyl-1,4,7-triazonane;(33) 1,4,7-tris(anthracen-9-ylmethyl)-1,4,7-triazonane; and(34) 1,4,7-trihexadecyl-1,4,7-triazonane.
+The compound represented by any one of Chemical Formulae 1 to 4 is any one selected from
+With regard to the radioactive isotope Cu-introduced complex compound represented by any one of Chemical Formulae 1 to 4 according to a specific embodiment of the present disclosure, as a result of real-time observing animal models, in which hydrogen sulfide involved in various diseases is generated in a large quantity, through optical and nuclear medicine imaging, the probe for detecting hydrogen sulfide according to the present disclosure may selectively bind with hydrogen sulfide and quickly reacts with hydrogen sulfide to provide images of a site where hydrogen sulfide has abnormally increased in a cell or a tissue, thereby detecting a disease in an unexpected site without affecting the anatomical properties of the body, and solving the existing problem of waiting a predetermined time for testing after an imaging agent is injected. Accordingly, the probe may be effectively used as a means for diagnosing diseases, such as a contrast agent for positron emission tomography (PET), a contrast agent for gamma camera, single photon emission computed tomography (SPECT), or Cherenkov optical imaging, a contrast agent for charge-coupled device (CCD), a contrast agent for magnetic resonance imaging (MRI), an imaging composition for computed tomography (CT), ultrasound (US), etc., or an imaging method.
+In this regard, any one complex compound of Chemical Formulae 1 to 4 is preferably included in a dose of 50 µCi/kg-1000 µCi/kg, based on a dose immediately before use.
+If the dose is out of the above range, there are additional problems that a signal-to-noise ratio is too low or the radiation exposure of a patient is excessively increased.
+According to another aspect of the present disclosure, disclosed is a method of imaging sulfide ions in a cell or a tissue by using the probe for detecting hydrogen sulfide including the radioactive isotope Cu-introduced complex compound.
+In a specific embodiment of the present disclosure, the imaging of sulfide ions is characterized by being performed by measuring Cherenkov radiation emitted from the radioactive isotope Cu.
+In another specific embodiment of the present disclosure, Cherenkov radiation is characterized by having a wavelength of 200 nm to 1000 nm.
+In still another specific embodiment of the present disclosure, the probe for detecting hydrogen sulfide including the radioactive isotope Cu-introduced complex compound is characterized by imaging sulfide ions in a site where hydrogen sulfide is abnormally increased or in a cell or extracellular matrix localized to the site, after being administered.
+In still another specific embodiment of the present disclosure, disclosed is a method of detecting density of hydrogen sulfide, the method including introducing the probe for detecting hydrogen sulfide including the radioactive isotope Cu-introduced complex compound into a pharmaceutical carrier; injecting the probe into a mammal excluding a human; and scanning the mammal excluding a human by using a radiation imaging device.
+In still another specific embodiment of the present disclosure, disclosed is a pharmaceutically acceptable pharmaceutical composition for diagnosing inflammatory diseases, including the probe for detecting hydrogen sulfide including the radioactive isotope Cu-introduced complex compound.
+In a specific embodiment of the present disclosure, the inflammatory diseases are characterized by one or more selected from rheumatoid arthritis, non-rheumatoid inflammatory arthritis, Lyme disease-associated arthritis, inflammatory osteoarthritis, encephalomeningitis, osteomyelitis, inflammatory bowel disease, appendicitis, pancreatitis, sepsis, pyelitis, nephritis, and inflammatory diseases caused by bacterial infections.
+In a specific embodiment of the present disclosure, as a result of conducting optical imaging and nuclear medicine imaging studies using animal models having induced paw inflammation, muscle inflammation, arthritis, or brain inflammation, selective uptake of the radioactive isotope Cu-introduced complex compound according to the present disclosure was observed in inflamed sites, and therefore, it may be effectively used as a pharmaceutical composition for diagnosing inflammatory diseases.
+In still another specific embodiment of the present disclosure, disclosed is a pharmaceutically acceptable pharmaceutical composition for diagnosing cardiac diseases, including the probe for detecting hydrogen sulfide including the radioactive isotope Cu-introduced complex compound.
+In a specific embodiment of the present disclosure, the cardiac diseases are characterized by one or more selected from myocardial infarction, cardiac ischemia, angina, cardiomyopathy, and endocarditis.
+It is known that a myocardial infarction site has a high concentration of hydrogen sulfide. After induction of myocardial infarction by coronary artery occlusion in rats, the 64Cu-labeled complex compound according to the present disclosure was injected to the rats, and uptake in the myocardial infarction site was observed over time by imaging. As a result, when the radioactive isotope Cu-introduced complex compound according to a specific embodiment of the present disclosure was injected, high uptake in the myocardial infarction site was confirmed such that the myocardial infarction site was clearly observed in the image, indicating that the radioactive isotope Cu-introduced complex compound may be effectively used as a pharmaceutical composition for diagnosing cardiac diseases, as compared with FDG which is a known imaging agent to visualize cardiac muscles as partially broken rings when it is injected for imaging.
+According to still another aspect of the present disclosure, disclosed is a pharmaceutically acceptable pharmaceutical composition for diagnosing Parkinson's disease, including the probe for detecting hydrogen sulfide including the radioactive isotope Cu-introduced complex compound.
+According to still another aspect of the present disclosure, disclosed is a pharmaceutically acceptable pharmaceutical composition for diagnosing Alzheimer's disease, including the probe for detecting hydrogen sulfide including the radioactive isotope Cu-introduced complex compound.
+According to still another aspect of the present disclosure, disclosed is a pharmaceutically acceptable pharmaceutical composition for diagnosing Down syndrome, including the probe for detecting hydrogen sulfide including the radioactive isotope Cu-introduced complex compound.
+According to still another aspect of the present disclosure, disclosed is a pharmaceutically acceptable pharmaceutical composition for diagnosing tumors, including the probe for detecting hydrogen sulfide including the radioactive isotope Cu-introduced complex compound.
+According to a specific embodiment of the present disclosure, the diagnosing of tumors is to diagnose hypoxia in tumors.
+According to still another aspect of the present disclosure, disclosed is a pharmaceutically acceptable pharmaceutical composition for diagnosing sepsis, including the probe for detecting hydrogen sulfide including the radioactive isotope Cu-introduced complex compound.
+According to still another aspect of the present disclosure, disclosed is a pharmaceutically acceptable pharmaceutical composition for diagnosing pains, including the probe for detecting hydrogen sulfide including the radioactive isotope Cu-introduced complex compound.
+According to still another aspect of the present disclosure, disclosed is a pharmaceutically acceptable pharmaceutical composition for diagnosing arteriosclerosis, including the probe for detecting hydrogen sulfide including the radioactive isotope Cu-introduced complex compound.
+According to still another aspect of the present disclosure, disclosed is a pharmaceutically acceptable pharmaceutical composition for diagnosing diabetes, including the probe for detecting hydrogen sulfide including the radioactive isotope Cu-introduced complex compound.
+According to still another aspect of the present disclosure, disclosed is a pharmaceutically acceptable pharmaceutical composition for diagnosing stroke, including the probe for detecting hydrogen sulfide including the radioactive isotope Cu-introduced complex compound.
+According to still another aspect of the present disclosure, disclosed is a pharmaceutically acceptable pharmaceutical composition for diagnosing liver cirrhosis, including the probe for detecting hydrogen sulfide including the radioactive isotope Cu-introduced complex compound.
+According to still another aspect of the present disclosure, disclosed is a pharmaceutically acceptable pharmaceutical composition for diagnosing asthma, including the probe for detecting hydrogen sulfide including the radioactive isotope Cu-introduced complex compound.
+According to still another aspect of the present disclosure, disclosed is a pharmaceutically acceptable pharmaceutical composition for diagnosing Parkinson's disease, including the probe for detecting hydrogen sulfide including the radioactive isotope Cu-introduced complex compound.
+According to still another aspect of the present disclosure, disclosed is a kit for preparing a radioactive isotope Cu-labeled drug which is a sterile non-pyrogenic sealed form of a solution, frozen, or lyophilized state, including 1 ng to 100 mg of the probe for detecting hydrogen sulfide including the radioactive isotope Cu-introduced complex compound or a pharmaceutically acceptable salt thereof.
+In an aspect of the present disclosure, the kit for preparing the drug is characterized by further including 0.01 mL-10 mL of a buffer solution at pH 1-9 and a concentration of 1 µM-10 µM.
+In another aspect of the present disclosure, the buffer solution is characterized by acetic acid, phosphoric acid, citric acid, fumaric acid, butyric acid, succinic acid, tartaric acid, carbonic acid, glucoheptonic acid, gluconic acid, glucuronic acid, glucaric acid, boric acid, or a sodium salt or potassium salt thereof.
+According to still another aspect of the present disclosure, disclosed is a method of early diagnosing a disease in an animal excluding a human by examining whether a hydrogen sulfide concentration is rapidly increased or decreased as compared with that of a normal state by measuring the hydrogen sulfide concentration in the blood or tissue using the radioactive isotope Cu-introduced complex compound.
+Hereinafter, the present disclosure will be described in more detail with reference to Examples, etc. However, these examples should not be construed as narrowing or limiting the scope and content of the present disclosure. Further, it will be apparent that a person of ordinary skill in the art can easily implement the present invention, of which specific experimental results are not suggested, on the basis of the disclosure of the present invention including the following Examples, and changes and modifications also belong to the scope of the appended claims of the present invention.
+MODE OF THE INVENTION
+Synthesis of various chelates
+Synthesis of (2R,3S,4S,5R,6R)-2-(hydroxymethyl)-6-(1,4,7,10-tetraazacyclododecan-1-yl)tetrahyd ro-2H-pyran-3,4,5-triol (CyclenGlc)
+Cyclen (240 mg, 1.4 mmol) was added to a stirred solution of glucose (50 mg, 0.28 mmol) in anhydrous MeOH (10 mL), and the resulting solution was heated under reflux for 16 hours under N2 atmosphere. Complete consumption of the starting materials was confirmed by TLC [stationary phase = C-18 TLC, mobile phase = MeOH : 10% NH4OAc (1:1)]. Then, the solvent was evaporated to dryness under reduced pressure and column chromatography was used to obtain a pure compound (52 mg, 56%). 1H NMR (D2O, 400 MHz): δ 1.8 (s, 3H), 2.60-3.02 (m, 17H), 3.24-3.42 (m, 6H), 3.58-3.63 (m, 1H), 3.78 (d, J = 12.0 Hz, 1H), 4.00 (d, J = 8.4 Hz, 1H); 13C NMR (D2O, 100 MHz): δ43.67, 44.97, 45.92, 46.85, 49.18, 61.08, 69.96, 70.29, 77.47, 91.69; HRMS (FAB): m/z calcd for C14H30N4O5 [M+H] 335.2294; found 335.2296.
+Synthesis of ethyl 3-(1,4,7,10-tetraazacyclododecan-1-yl)propanoate
+K2CO3 (300 mg, 2.2 mmol) and ethyl 3-bromopropanoate (100 mg, 0.61 mmol) were added to a stirred solution of cyclen (380 mg, 2.2 mmol) in anhydrous CH3CN (10 mL), and the resulting solution was stirred at room temperature for 16 hours under N2 atmosphere. Complete consumption of the starting materials was confirmed by TLC [stationary phase = Basic alumina TLC, mobile phase = CH2Cl2 : MeOH (10:1)]. The resulting product was separated from K2CO3 by filtration, and evaporated to dryness under reduced pressure. Column chromatography was used to obtain a pure compound (100 mg, 64%). 1H NMR (CDCl3, 400 MHz): δ1.27 (t, J = 7.2 Hz, 3H), 2.38-2.57 (m, 10H), 2.64-2.67 (m, 4H), 2.76-2.84 (m, 6H), 4.07-4.18 (m, 2H); 13C NMR (CDCl3, 100 MHz): δ14.10, 32.55, 44.38, 45.64, 46.39, 49.61, 50.92, 60.31, 172.67.
+Synthesis of 1,4,7,10-tetrakis(anthracen-9-ylmethyl)-1,4,7,10-tetraazacyclododecane
+K2CO3 (400 mg, 2.9 mmol) and 9-(chloromethyl)anthracene (655 mg, 2.9 mmol) were added to a stirred solution of cyclen (100 mg, 0.58 mmol) in anhydrous toluene (15 mL), and the resulting solution was heated under reflux for 16 hours under N2 atmosphere. Formation of a new product was confirmed by TLC [stationary phase = Silica TLC, mobile phase = EtOAc]. The resulting product was evaporated to dryness under reduced pressure and dichloromethane (50 mL) was added. The resulting product was shaken well with water and the separated organic layer was dried over MgSO4. Column chromatography was used to obtain a pure compound (270 mg, 50%). 1H NMR (CDCl3, 400 MHz): δ2.42 (s, 16H), 4.45 (s, 8H), 7.43-7.65 (m, 16 H), 7.81-8.09 (m, 10 H), 8.32-8.48 (m, 10 H); 13C NMR (CDCl3, 100 MHz): δ45.28, 51.02, 54.68, 123.86, 124.60, 125.15, 126.52, 126.82, 127.38, 128.44, 129.31, 129.51, 131.44, 131.49, 131.51, 134.28.
+Synthesis of 1-(anthracen-9-ylmethyl)-1,4,7,10-tetraazacyclododecane
+Chloromethylanthracene (1.0 equiv.) was dissolved in toluene (5 mL), and cyclen (5.0 equiv.) was added thereto. The resulting solution was heated under reflux for 8 hours. 1H NMR (CDCl3, 400 MHz): δ2.04 (s, 3H, NH), 2.44-2.47 (m, 8H), 2.84-2.94 (m, 8H), 4.75 (s, 2H), 7.46-7.59 (m, 4H), 8.01-8.03 (m, 2H), 8.45-8.51 (m, 3H).
+Synthesis of 5-((1,4,7,10-tetraazacyclododecan-1 -yl)sulfonyl)-N,N-dimethylnaphthalene-1 -amine
+Dansyl chloride (1.0 equiv.) was dissolved in toluene (5 mL), and then cyclen (5.0 equiv.) was added thereto. The resulting solution was stirred at room temperature for 2 hours. Precipitated salts were removed, and an organic phase was separated and dried. The solid was purified by column chromatography. 1H NMR (CDCl3, 400 MHz): δ2.00-2.04 (m, 3H), 2.89 (s, 6H), 3.11-3.88 (m, 16H), 7.20 (d, J = 7.6 Hz, 1H), 7.50-7.59 (m, 2H), 7.92 (d, J = 7.2 Hz, 1H), 8.34 (d, J = 8.4 Hz, 1H), 8.57 (d, J = 8.8 Hz, 1H) ); 13C NMR (CDCl3, 100 MHz): δ45.47, 47.37, 49.95, 50.74, 51.90, 115.67, 118.90, 123.12, 127.97, 128.75, 130.28, 130.56, 131.03, 132.84, 152.07.
+Synthesis of 1,4,7-trithia-10-azacyclododecane
+Step I: 3-thia-1,5-pentanedithiol (a, 1 equiv.) in DMF and N-boc-bis(2-chloroethyl)amine (b, 1 equiv.) were slowly added and Cs2CO3 (1.5 equiv.) was also added, and allowed to react for 96 hours at 65°C to prepare N-Boc-[12]aneNS3 (c). The solvent was removed under vacuum, and the resulting product was dissolved in CH2Cl2 and washed with water to remove cesium salts. The product was dried over MgSO4, and subjected to filtration and evaporation processes. The resulting product was purified by recrystallization with warm toluene to obtain a white crystal of Nboc-[12]aneNS3 (c).
+Step II: N-Boc-[12]aneNS3 (c) was deprotected with a mixture of TFA and CH2Cl2 (1:1) at room temperature for 15 minutes. Excess TFA and CH2Cl2 were evaporated, and then water was added, and pH of the resulting product was adjusted to 14 by using Na2CO3 and NaOH. Thereafter, the mixture was extracted with CH2Cl2, and dried over MgSO4, and subjected to filtration and evaporation processes to obtain a white crystal of [12]aneNS3. 1H NMR (CDCl3, 400 MHz): δ2.71-2.91 (m, 16H), 3.98 (brs, 1H); 13C NMR (CDCl3, 100 MHz): δ 49.75, 32.37, 31.83, 31.56.
+Synthesis of (1Z,N'E)-N'-((E)-3-((bis(methylamino)methylene)hydrazono)butan-2-ylidene)-N-meth ylcarbamohydrazonothioic acid
+Step I: Semicarbazide (1.0 equiv.) and 2,3-butadione (10 equiv.) were first mixed in MeOH (10 mL), and the resulting product was refluxed for 1 hour to obtain a compound c, which was then purified by column chromatography.
+Step II: The compound c (1 equiv.) was first mixed with hydrazine hydrate (10 equiv.) in MeOH (10 mL), and then the resulting product was refluxed for 1 hour to obtain a compound c, which was then purified by column chromatography.
+Step III: The compound d (1 equiv.) was first mixed with N,N-dimethyl urea (1 equiv.) in MeOH (10 mL), and then the resulting product was refluxed for 1 hour to obtain a compound f. The solvent was dried and the compound f was purified by column chromatography to obtain a pure compound f. 1H NMR (DMSO-d6, 400 MHz): δ1.574 (s, 1H), 1.85 (s, 1H), 1.95 (s, 1H), 2.02 (s, 3H), 2.19 (s, 6H), 3.03 (s, 3H), 3.04 (s, 3H), 3.13 (s, 1H).
+Synthesis of 1-methyl-1,4,7-triazonane
+Potassium carbonate (27 mg, 0.19 mmol) and methyl iodide (28 mg, 0.19 mmol) were added to a stirred solution of TACN (100 mg, 0.78 mmol) in anhydrous acetonitrile (10 mL), and the resulting solution was stirred at room temperature for 16 hours. Formation of a new product was confirmed by TLC [stationary phase = Silica TLC, mobile phase = dichloromethane : IPA (10:1)]. The product was diluted with acetonitrile, and separated from potassium carbonate by using a filter, and evaporated to dryness under reduced pressure to obtain 1-methyl-1,4,7-triazonane. HR-MS (FAB) m/z calculated value C7H17N3 [M+H]+ 144.1501, measured value 144.1501.
+Synthesis of 1-(anthracen-9-ylmethyl)-1,4,7-triazonane
+Potassium carbonate (27 mg, 0.19 mmol) and 9-(chloromethyl)anthracene (43 mg, 0.19 mmol) were added to a stirred solution of TACN (100 mg, 0.78 mmol) in anhydrous acetonitrile (10 mL), and the resulting mixture was stirred at room temperature for 16 hours. Formation of a new product was confirmed by TLC [stationary phase = Silica TLC, mobile phase = dichloromethane : IPA (10:1)]. The product was diluted with acetonitrile, and separated from potassium carbonate by using a filter, and evaporated to dryness under reduced pressure to obtain 1-(anthracen-9-ylmethyl)-1,4,7-triazonane. HR-MS(FAB) m/z calculated value C21H25N3[M+H]+320.2127, measured value 320.2127.
+Synthesis of 1-hexadecyl-1,4,7-triazonane
+Potassium carbonate (27 mg, 0.19 mmol) and 1-bromohexadecane (58 mg, 0.19 mmol) were added to a stirred solution of TACN (100 mg, 0.78 mmol) in anhydrous acetonitrile (10 mL), and the resulting solution was stirred at room temperature for 16 hours. Formation of a new product was confirmed by TLC [stationary phase = Silica TLC, mobile phase = dichloromethane : IPA (10:1)]. The product was diluted with acetonitrile, and separated from potassium carbonate by using a filter, and evaporated to dryness under reduced pressure to obtain 1-hexadecyl-1,4,7-triazonane. HR-MS(FAB) m/z calculated value C22H47N3[M+H]+ 354.3848, measured value 354.3848.
+Synthesis of 1,4,7-trimethyl-1,4,7-triazonane
+Potassium carbonate (433 mg, 3.12 mmol) and methyl iodide (443 mg, 3.12 mmol) were added to a stirred solution of TACN (100 mg, 0.78 mmol) in anhydrous acetonitrile (10 mL), and the resulting solution was stirred at room temperature for 16 hours. Formation of a new product was confirmed by TLC [stationary phase = Silica TLC, mobile phase = dichloromethane : IPA (10:1)]. The product was diluted with acetonitrile, and separated from potassium carbonate by using a filter, and evaporated to dryness under reduced pressure to obtain 1,4,7-trimethyl-1,4,7-triazonane. MS(FAB) m/z calculated value C9H21N3[M]+ 171.17, measured value 171.11
+Synthesis of 1,4,7-tris(anthracen-9-ylmethyl)-1,4,7-triazonane
+Potassium carbonate (433 mg, 3.12 mmol) and 9-(chloromethyl)anthracene (705 mg, 3.12 mmol) were added to a stirred solution of TACN (100 mg, 0.78 mmol) in anhydrous acetonitrile (10 mL), and the resulting solution was stirred at room temperature for 16 hours. Formation of a new product was confirmed by TLC [stationary phase = Silica TLC, mobile phase = dichloromethane : IPA (10:1)]. The product was diluted with acetonitrile, and separated from potassium carbonate by using a filter, and evaporated to dryness under reduced pressure to obtain 1,4,7-tris(anthracen-9-ylmethyl)-1,4,7-triazonane. HR-MS(EI) m/z calculated value C51H45N3[M]+699.3613, measured value 699.3612.
+Synthesis of 1,4,7-trihexadecyl-1,4,7-triazonane
+Potassium carbonate (433 mg, 3.12 mmol) and 1-bromohexadecane (949 mg, 3.12 mmol) were added to a stirred solution of TACN (100 mg, 0.78 mmol) in anhydrous acetonitrile (10 mL), and the resulting solution was stirred for 16 hours. Formation of a new product was confirmed by TLC [stationary phase = Silica TLC, mobile phase = dichloromethane : IPA (10:1)]. The product was diluted with acetonitrile, and separated from potassium carbonate by using a filter, and evaporated to dryness under reduced pressure to obtain 1,4,7-trihexadecyl-1,4,7-triazonane. HR-MS(EI) m/z calculated value C54H111N3 [M+H]+ 802.8856, measured value 802.8856.
+Radioactive labeling of various chelates with 64Cu
+64CuCl2 of 0.01 N HCI (1-2 L, 1-5 mCi) was added to various chelates (100 µg) dissolved in 100 µL of 0.1 M ammonium acetate (pH = 6.8) without addition of carriers, and allowed to react for 20 minutes at 60°C to prepare different kinds of chelate-64Cu complexes (of the chelates, PCB cyclam which is a complex compound of the following Example 19 was reacted for 60 minutes at 90°C). A chelate storage solution (20 µg/µL) was prepared by using MilliQ water (the following Example 19) or anhydrous DMSO (Examples 24, 25, 33, 34, 17, a mixture of 18 and 18-1, 26, and 23). Corresponding 64Cu complex formation was confirmed by radio-TLC. Radioactive isotope-labeled compounds for Example 17 and a mixture of Example 18 and 18-1 were purified by using a C-18 Sep Pak column (washed with 10 mL of water to remove DMSO, the compound was eluted with 200 µL of EtOH six times).
+Example 1: 64Cu complex compound-1a
+0.01 mg - 2 mg of 1, 4, 7, 10-tetraazacyclododecane was dissolved in a buffer solution of 0.1 M NH4OAc(pH 6.8) and then 10 µCi - 10,000 µCi of 64CuCl2 solution was added thereto, and allowed to react at 60°C to prepare a 64Cu complex compound represented by Chemical Formula 1a. If the chelate was not dissolved well, a small amount of DMSO was used.
+A labeling yield of the 64Cu complex compound represented by Chemical Formula1a was confirmed by radio-TLC, and the results are shown in the following Table 1.
+<table>
+<header>
+Reg & (mm) Start & (mm) Stop & (mm) Centroid & Rf & Region counts & Region CPM & % of Total & % of ROI
+</header>
+Rgn 1 & 48.2 & 73.1 & 62.2 & 0.271 & 167686.0 & 83843.0 & 97.67 & 100.00
+1 peaks & - & - & - & - & 167686.0 & 83843.0 & 97.67 & 100.00
+</table>
+As shown in Table 1, labeling of 1, 4, 7, 10-tetraazacyclododecane with 64Cu was found to be 100%.
+Example 2: 64Cu complex compound-1b
+A 64Cu complex compound represented by Chemical Formula 1 was obtained in the same manner as in Example 1.
+Example 3: 64Cu complex compound-1c
+A 64Cu complex compound represented by Chemical Formula 1c was obtained in the same manner as in Example 1.
+Example 4: 64Cu complex compound-1d
+A 64Cu complex compound represented by Chemical Formula 1d was obtained in the same manner as in Example 1.
+Example 5: 64Cu complex compound-1e
+A 64Cu complex compound represented by Chemical Formula 1e was obtained in the same manner as in Example 1.
+Example 6: 64Cu complex compound-1f
+A 64Cu complex compound represented by Chemical Formula 1f was obtained in the same manner as in Example 1.
+Example 7: 64Cu complex compound-1g
+A 64Cu complex compound represented by Chemical Formula 1g was obtained in the same manner as in Example 1.
+Example 8: 64Cu complex compound-1h
+A 64Cu complex compound represented by Chemical Formula 1h was obtained in the same manner as in Example 1.
+Example 9: 64Cu complex compound-1i
+A 64Cu complex compound represented by Chemical Formula 1i was obtained in the same manner as in Example 1.
+Example 10: 64Cu complex compound-1i
+A 64Cu complex compound represented by Chemical Formula 1j was obtained in the same manner as in Example 1.
+Example 11: 64Cu complex compound-1k
+A 64Cu complex compound represented by Chemical Formula 1k was obtained in the same manner as in Example 1.
+Example 12: 64Cu complex compound-1l
+A 64Cu complex compound represented by Chemical Formula 1I was obtained in the same manner as in Example 1.
+Example 13: 64Cu complex compound-1m
+A 64Cu complex compound represented by Chemical Formula 1m was obtained in the same manner as in Example 1.
+Example 14: 64Cu complex compound-1n
+A 64Cu complex compound represented by Chemical Formula 1n was obtained in the same manner as in Example 1.
+Example 15: 64Cu complex compound-1o
+A 64Cu complex compound represented by Chemical Formula 1o was obtained in the same manner as in Example 1.
+Example 16: 64Cu complex compound-1p
+A 64Cu complex compound represented by Chemical Formula 1p was obtained in the same manner as in Example 1.
+Example 17: 64Cu complex compound-1q
+A 64Cu complex compound represented by Chemical Formula 1q was obtained in the same manner as in Example 1.
+Example 18: 64Cu complex compound-1r
+A 64Cu complex compound represented by Chemical Formula 1r was obtained in the same manner as in Example 1.
+Example 18-1: 64Cu complex compound-1r'
+A 64Cu complex compound represented by Chemical Formula 1r' was obtained in the same manner as in Example 1.
+Example 19: 64Cu complex compound-1s
+A 64Cu complex compound represented by Chemical Formula 1s was obtained in the same manner as in Example 1.
+Example 20: 64Cu complex compound-2a
+A 64Cu complex compound represented by Chemical Formula 2a was obtained in the same manner as in Example 1.
+Example 21: 64Cu complex compound-2b
+A 64Cu complex compound represented by Chemical Formula 2b was obtained in the same manner as in Example 1.
+Example 22: 64Cu complex compound-2c
+A 64Cu complex compound represented by Chemical Formula 2c was obtained in the same manner as in Example 1.
+Example 23: 64Cu complex compound-1t
+A 64Cu complex compound represented by Chemical Formula 1t was obtained in the same manner as in Example 1.
+Example 24: 64Cu complex compound-1u
+A 64Cu complex compound represented by Chemical Formula 1u was obtained in the same manner as in Example 1.
+Example 25: 64Cu complex compound-4
+A 64Cu complex compound represented by Chemical Formula 4 was obtained in the same manner as in Example 1.
+Example 26: 64Cu complex compound-1w
+A 64Cu complex compound represented by Chemical Formula 1w was obtained in the same manner as in Example 1.
+Example 27: 64Cu complex compound-2d
+A 64Cu complex compound represented by Chemical Formula 2d was obtained in the same manner as in Example 1.
+Example 28: 64Cu complex compound-2e
+A 64Cu complex compound represented by Chemical Formula 2e was obtained in the same manner as in Example 1.
+Example 29: 64Cu complex compound-2f
+A 64Cu complex compound represented by Chemical Formula 2f was obtained in the same manner as in Example 1.
+Example 30: 64Cu complex compound-2g
+A 64Cu complex compound represented by Chemical Formula 2g was obtained in the same manner as in Example 1.
+Example 31: 64Cu complex compound-2h
+A 64Cu complex compound represented by Chemical Formula 2h was obtained in the same manner as in Example 1.
+Example 32: 64Cu complex-2i
+A 64Cu complex compound represented by Chemical Formula 2i was obtained in the same manner as in Example 1.
+Example 33: 64Cu complex compound-3a
+A 64Cu complex compound represented by Chemical Formula 3a was obtained in the same manner as in Example 1.
+Example 34: 64Cu complex compound-3b
+A 64Cu complex compound represented by Chemical Formula 3b was obtained in the same manner as in Example 1.
+Experimental Example 1: Test of hydrogen sulfide detection sensitivity
+To measure hydrogen sulfide detection sensitivity of the 64Cu-labeled complex compound according to the present disclosure, the following experiment was performed. Results are shown in the following Tables 2 and 3, and
+FIG. 1.
+About 45 Ci -55 Ci of 64Cu-labeled complex compound (250 µL of triple distilled water) was mixed with various concentrations of NaHS solution (250 L of triple distilled water), and stirred at 37°C for 15 minutes (a total volume used in the reaction was equally 500 µL). After completion of the reaction, the resulting products were strongly stirred to mix appropriately.
+Formation of copper sulfide (64CuS) was confirmed by quantification of % decomplexation by using a radio-TLC scanner, and results are shown in the following Tables 2 and 3.
+<table>
+<header>
+ & Example 1 & Example 2 & Example 3 & Example 23 & Example 16 & Example 20 & Example 21
+</header>
+<header>
+NaHS (µM) & cyclen & cyclen-Anthr acene (1:1) & DODACD & ATTCD & cyclam & TACN & TACD
+</header>
+0 & 0 & 0 & 0 & 0 & 0 & 0 & 0
+1 & 3 & 0 & 0 & 0 & 0 & 0 & 0
+10 & 11 & 0 & 3 & 0 & 0 & 9 & 6.2
+15 & 63 & 0 & 6 & 36.4 & 0 & 11 & 10
+20 & 95 & 15 & 79 & 49.4 & 0 & 13.5 & 58
+50 & 100 & 56 & 100 & 67.7 & 1.3 & 24.6 & 63
+100 & 100 & 100 & 100 & 78.2 & 10.5 & 54.4 & 100
+</table>
+<table>
+<header>
+Example & % decomplexation against 100 µM NaHS solution
+</header>
+24 & 0
+25 & 0
+33 & 26.6
+34 & 0
+17 & 39.67
+26 & 62.43 ± 0.87
+23 & 78.3 ± 2.6
+</table>
+As shown in Tables 2 and 3, the results of measuring the lowest detectable concentration of hydrogen sulfide by the 64Cu-labeled complex compound according to the present disclosure showed that 64Cu-labeled cyclen of Example 1 according to the present disclosure has the lowest detection limits from low concentrations to high concentrations, and it has the most excellent sensitivity for hydrogen sulfide.
+As shown in FIGS. 2A and 2B, radio-TLC results of using 64Cu-labeled cyclen of Example 1 according to the present disclosure at different concentrations of sulfide ion showed that 64Cu-labeled cyclen of Example 1 had Rf value greater than 0, but when 64Cu-labeled cyclen of Example 1 reacts with sulfide ions to form 64CuS, its Rf value was changed to 0, and it remained at a starting point without moving, and therefore, reaction was easily detected.
+Experimental Example 2: Test of hydrogen sulfide detection over time
+To examine reactivity of the 64Cu-labeled complex compound according to the present disclosure over time, the following experiment was performed. Results are shown in the following Table 4 and FIG. 3.
+A detailed experimental method is as follows.
+About 45 µCi-50 µCi of 64Cu-labeled complex compound (250 µL of triple distilled water) was mixed with 100 µM of NaHS solution (250 mL of triple distilled water), and stirred at 37°C for 15 minutes. Formation of copper sulfide (64CuS) was quantified by using a radio-TLC scanner.
+<table>
+<header>
+Section & 10 sec & 30 sec & 60 sec & 5 min & 10 min & 15 min
+</header>
+Example 1 & cyclen & 13 & 17 & 21 & 100 & 100 & 100
+Example 2 & cyclen-Anthra cene & 21 & 22 & 33 & 82 & 100 & 100
+Example 3 & DODACD & 62 & 70 & 75 & 100 & 100 & 100
+Example 16 & cyclam & 0 & 0 & 0 & 3 & 5 & 10
+Example 20 & TACN & 0 & 0 & 5 & 13 & 60 & 60
+Example 21 & TACD & 52 & 72 & 100 & 100 & 100 & 100
+</table>
+As shown in Table 4, to examine a reaction rate of the 64Cu-labeled complex compound according to the present disclosure with sulfide ions, hydrogen sulfide concentrations were measured over time. As a result, 64Cu-labeled complex compounds of Examples 1, 2, 3 and 21 were found to begin to detect hydrogen sulfide within about 10 seconds.
+Experimental Example 3: Test of hydrogen sulfide selectivity
+In addition to hydrogen sulfide, many different anions, radicals, etc. exist in the body. Therefore, to examine selective reactivity of the 64Cu-labeled complex compound according to the present disclosure for sulfide ions, the following experiment was performed. Results are shown in the following Table 5.
+About 45 µCi-55 µCi of the 64Cu-labeled complex compound (250 µL of triple distilled water) was mixed with 100 µM of various anion solutions (250 µL of triple distilled water) including biothiol, and stirred at 37°C for 15 minutes.
+Formation of copper sulfide (64CuS) was quantified by using a radio-TLC scanner.
+Various biothiol or salt solutions were prepared by dissolving the compounds in triple distilled water.
+<table>
+<header>
+Decomplexation [%]
+</header>
+<header>
+ & Example 20 & Example 1 & Example 16 & Example 3 & Example 23 & Example 21
+</header>
+<header>
+ & 64Cu-TACN & 64Cu-cyclen & 64Cu-cyclam & 64Cu-DODACD* & 64Cu-ATTCD & 64Cu-TACD*
+</header>
+Cys & 0.8 ± 0.3 & 0.5 ± 0.1 & 0.7 ± 0.2 & 0.4 & 0.5 & 9 ± 3
+Hcys & 1.1 ± 0.5 & 1.4 ± 0.4 & 0.7 ± 0.0 & 3 & 0.4 & 30 ± 5
+GSH & 2.6 ± 0.0 & 0.7 ± 0.0 & 0.8 ± 0.2 & 2.7 ± 3 & 0.7 & 33
+DTT & 0.9 ± 0.1 & 0.6 ± 0.4 & 0.8 ± 0.0 & 45 ± 2 & 0.4 & 25
+L-AsA & 0.8 ± 0.5 & 0.5 ± 0.1 & 0.7 ± 0.2 & 15 & 0.4 & 4 ± 2
+ME & 0.4 ± 0.0 & 0.5 ± 0.1 & 0.5 ± 0.6 & 16 & 0.5 & 2 ± 2
+NaCl & 0.5 ± 0.0 & 0.2 ± 0.0 & 0.7 ± 0.0 & 0.3 & 0.5 & 0.4 ± 0.2
+Kl & 0.4 ± 0.2 & 0.7 ± 0.2 & 0.7 ± 0.0 & 0.1 & 0.2 & 0.3
+Na2S2O3 & 0.5 ± 0.0 & 0.4 ± 0.0 & 0.8 ± 0.1 & 19 ± 5 & 0.2 & 3 ± 1
+Na2S2O5 & 0.5 ± 0.2 & 0.5 ± 0.2 & 0.5 ± 0.0 & 5 & 0.6 & 4 ± 2
+NaOAc & 0.3 ± 0.0 & 0.6 ± 0.1 & 0.8 ± 0.0 & 15 & 0.3 & 1
+H2O2 & 0.8 ± 0.3 & 0.5 ± 0.4 & 0.7 ± 0.2 & 0.4 & 0.3 & 3
+NaClO4 & 0.4 ± 0.1 & 0.6 ± 0.2 & 0.6 ± 0.1 & 0.4 & 0.8 & 2 ± 1
+NaHCO2 & 0.6 ± 0.4 & 0.6 ± 0.3 & 0.5 ± 0.1 & 0.3 & 0.1 & 0.9
+NaNO2 & 0.4 ± 0.0 & 0.6 ± 0.0 & 0.5 ± 0.1 & 0.5 & 0.6 & 0.5
+NaN2 & 0.4 ± 0.0 & 0.3 ± 0.2 & 0.7 ± 0.1 & 0.6 & 0.8 & 0.5
+ATB 337 & 0.7 ± 0.2 & 0.7 ± 0.4 & 0.6 ± 0.0 & 3 ± 1 & 0.6 & 6 ± 2
+DAT & 0.7 ± 0.6 & 0.4 ± 0.3 & 0.5 ± 0.1 & 100 & 0.4 & 49 ± 2
+</table>
+In Table, concentrations of all biothiols and other competitive materials are 100 µM. Further, specific concentrations of biothiols, anions, and oxidants used in Table are as follows: [L-Cys (1 mM); L-Hcys (10 mM); GSH (10 mM); DL-dithiothretitol (DTT, 100 µM); L-ascorbic acid (L-AsA, 10 mM); 2-mercaptoethanol (2-ME, 10 mM); NaCl (10 mm); KI (1 mM); Na2S2O3 (1 mM); Na2S2O5 (1 mM); NaOAc (1 mM); H2O2 (100 M); NaClO4 (100 µM); NaHCO3 (100 µM); NaNO2 (100 M); NaN3 (100 µM); ATB 337 (100 µM); diallyl trisulphide (100 µM)].
+As shown in Table 5, results of measuring reactivity with various anions containing sulfur showed that 64Cu-labeled complex compounds of Examples 1, 2, 16 and 20 according to the present disclosure selectively reacted with hydrogen sulfide whereas 64Cu-labeled complex compounds of Examples 3 and 21 did not selectively react with hydrogen sulfide, and they also reacted with other biothiol compounds or anions.
+Further, selective reactivity of radioactive isotope copper ions, which were not labeled with chelates, with hydrogen sulfide was examined. As a result, it was found that the copper ions reacted with various biothiol compounds or anions, unlike 64Cu-labeled cyclen of Example 1 according to the present disclosure.
+Experimental Example 4: Cellular uptake test
+Cellular drug uptake is an important prognostic factor in the diagnosis of diseases. Therefore, to examine cellular uptake of the 64Cu-labeled complex compounds according to the present disclosure, experiments for measuring changes in the cellular uptake under various concentrations of hydrogen sulfide were performed.
+A colon carcinoma cell CT-26 was seeded in each plate at a density of 5 × 106, and then 10 µCi - 300 µCi of 64Cu-labeled complex compound of Examples 1, 7 or 9 according to the present disclosure was treated thereto, followed by incubation for 10 minutes. The cells were washed with PBS, and then 0 µM, 1 µM, or 50 µM of NaHS solution was added thereto, followed by incubation for 5 minutes. Thereafter, the cells were washed with PBS, and then cells were removed from the plate by adding trypsin and EDTA, followed by centrifugation. Supernatants were discarded and radiation of remaining cells was measured by using a gamma counter.
+Results are shown in the following Table 6.
+<table>
+<header>
+Section & Concentration (µM) & Uptake
+</header>
+Example 1 & 0 & 600
+1 & 780
+50 & 850
+Example 7 & 0 & 20000
+1 & 21000
+50 & 23000
+Example 9 & 0 & 7000
+1 & 6500
+50 & 6900
+Example 20 & 0 & 30000
+1 & 32000
+50 & 34000
+</table>
+As shown in Table 6, 64Cu-labeled complex compounds according to the present disclosure showed that as the NaHS concentration was increased, radiation of 64Cu-labeled complex compounds by cellular uptake slightly increased.
+Experimental Example 4-2: Test of hydrogen sulfide-specific imaging
+In order to examine whether the 64Cu-labeled complex compounds according to the present disclosure are able to selectively detect in vivo hydrogen sulfide, different materials were injected into the backs of rats, and then each 64Cu-labeled complex compound according to the present disclosure was injected via the tail, and then selective imaging was examined by optical imaging.
+FIG. 4 shows photographs of examining selective imaging through optical imaging after injecting the backs of rats with 64Cu-labeled complex compounds according to the present disclosure. Referring to FIG. 4, at the beginning of the first experiment, matrigel alone, matrigel + 1 mg NaCl, matrigel + 0.5 mg NaHS, and matrigel + 0.05 mg NaHS were injected into four sites on the backs of rats, respectively. 1.8 mCi of the 64Cu-labeled complex compound according to Example 1 was injected via the tails of rats, immediately followed by optical imaging. As a result, of the four sites, signals were detected only in the lower two sites injected with NaHS generating hydrogen sulfide. Even after 4 hours, signals were still detected only in the lower two sites.
+Next, at the beginning of the second experiment, about 0.48 mCi of 64Cu(II) ion, 64CuS, 64Cu-labeled complex compound according to Example 1, and 64Cu-labeled complex compound according to Example 16 were injected into four sites on the backs of the same rats, respectively. Immediately, optical images were taken and shown in a lower left image of FIG. 4. A photograph taken after 4 hours was shown in a lower right image of FIG. 4. Referring to FIG. 4, 64Cu-labeled complex compound according to Example 1 and 64Cu-labeled complex compound according to Example 16 were very rapidly excreted from the body, unlike 64CuS. A retention time of 64Cu(II) ion was about half of 64CuS. These experiments showed that the 64Cu-labeled complex compounds according to the present disclosure bind with hydrogen sulfide to form 64CuS, which remains for a long time in the body, thereby being easily detected by imaging.
+Preparation Example 1: Preparation of animal models
+(1) Paw pain inflammation model
+A small amount of CFA (complete Freund's adjuvant) or formalin was injected into only one paw (right) of the hind paws of Balb/c or ICR mice to establish inflammation models. 1 day after injection of the inflammation inducer, the mice were used in imaging or other in vivo experiments.
+It is a known fact that inflamed sites show high concentrations of hydrogen sulfide.
+(2) Myocardial infarction model
+A myocardial infarction model was established by using Sprague-Dawley rats (12-week-old or older, about 250 g). 2 days later after induction of myocardial infarction by occlusion of the coronary arteries in the heart, the rats were used in imaging tests. It is a known fact that myocardial infarction sites show high concentrations of hydrogen sulfide.
+(3) Arthritis model
+An arthritis inducer, bovine type II collagen was intradermally injected into the tails of DBA/1J mice twice, and 5 weeks later (about 13-week-old), the mice were used in imaging tests. Arthritis degree of the paw was quantified by scoring.
+(4) Brain inflammation model
+An inflammation inducer, lipopolysaccharide was directly injected into one part of the brain of Sprague-Dawley rat to induce inflammation in one part of the brain. 24 hours after induction of inflammation, the rats were used in imaging tests.
+(5) Tumor model
+To prepare a CT26 tumor model, the number of cells was counted using a haemacytometer, and 5 × 106 cells were subcutaneously injected into the right flank of BALB/c mouse. About 10 days later, when formation of about 1 cm of tumor was observed, the mice were used in subsequent experiments.
+To prepare an EMT6 tumor model, the number of cells was counted using a haemacytometer, and 2 × 105 cells were subcutaneously injected into the right flank and left shoulder region of BALB/c female mouse. About 2∼ 3 weeks later, when formation of about 1 cm of tumor was observed, the mice were used in subsequent experiments.
+(6) Sepsis model
+After the lower abdominal region of ICR mice was opened, a small puncture in the appendix was made by using a syringe needle to prepare an acute sepsis model.
+(7) Brain tumor model
+The surface of the rat's head was incised and the capillaries and meninges on the outer surface of the skull were removed. Subsequently, a hole was made at the defined coordinates by stereotactic surgery, and 20,000 C6 cells which are known as glioma cells of the rat brain were injected by using a syringe pump. After cell injection, the syringe was left for about 5 minutes to allow absorption of the cells, and then slowly removed. The hole was filled with bone cement, and then sutured to prepare a brain tumor model.
+(8) Pancreatitis model
+Caerulein (50 µg/kg) was intraperitoneally injected into Balb/c mouse seven times at hourly intervals to prepare a pancreatitis model.
+Experimental Example 5: Optical imaging and nuclear medicine imaging studies
+Nuclear medicine imaging was measured by using an Inveon PET/CT system of Siemens Healthcare, and optical imaging was measured by using IVIS spectrum CT equipment. Cherenkov radiation emitted from 64Cu was measured by using a highly sensitive CCD (charge-coupled device) camera.
+Imaging was measured for 1 minute to 5 minutes, and a radiation dose was about 50 µCi to 2000 µCi, and photographs were variously taken as needed, such as immediately after first injection, at 1 hour, 4 hours, and 24 hours later.
+(1) Paw inflammation model
+As shown in FIG. 5A, result of treating 64Cu-labeled cyclen of Example 1 according to the present disclosure showed that higher uptake in the inflamed right paw than in the opposite paw was observed in PET imaging. As shown in FIG. 5B, optical imaging showed increased uptake of 64Cu-labeled cyclen of Example 1 according to the present disclosure in the CFA-induced inflamed site. As shown in FIG. 5C, it was confirmed that 64Cu-labeled cyclen of Example 1 according to the present disclosure showed a high reaction rate with hydrogen sulfide such that the inflamed site can be detected immediately after injection (1.5-10 minutes).
+As shown in FIG. 5D, the same results were also observed in the paw inflammation ICR and Balb/c mouse models, and 64Cu-labeled cyclen of Example 1 according to the present disclosure showed a retention time of 24 hours or longer in the animal models, suggesting that therapeutic effects may be predicted in a non-invasive manner without continuous injection of the drug.
+As shown in FIGS. 6A to 6C, higher uptake of 64Cu-labeled TACN of Example 20 was observed in the inflamed paw than in the opposite paw when imaging was performed after 1 hour, and the same result was also observed in PET imaging. The inflamed site was also detected in imaging immediately after injection of 64Cu-labeled TACN of Example 20.
+In addition, selective uptake of 64Cu-labeled complex compound of Examples 2, 3, 14 or 21 according to the present disclosure in inflamed sites was also observed in optical imaging and nuclear medicine imaging, as shown in FIGS. 7A to 7D and FIGS. 8A to 8E.
+Meanwhile, as shown in FIGS. 9A to 9B and FIGS. 10A to 10B, higher uptakes of 64Cu-labeled compounds 1g and 1i of Examples 7 and 9 in the inflamed paw than in the opposite paw were observed in the optical and nuclear medicine imaging which were performed 2 hours later.
+Meanwhile, as shown in FIGS. 11A to 11D, 64Cu-labeled cyclam of Example 16 showed no obvious difference in the inflamed and normal paws, and its injection showed low uptake, compared to injection of the same quantity of 64Cu-labeled cyclen of Example 1.
+(2) Arthritis model
+When 64Cu-labeled cyclen of Example 1 according to the present disclosure was injected into the arthritis model, selective uptake in the joint region was observed, as shown in FIGS. 13A and 13B.
+(3) Brain inflammation model
+Inflammation was induced by injecting LPS into the half of the rat's brain, and 1 day later, 64Cu-labeled complex compound of Example 17 according to the present disclosure was injected, followed PET imaging. As shown in FIG. 14, higher uptake was observed in the inflamed site than in the opposite site.
+Experimental Example 6: Imaging study in myocardial infarction model
+It is known that myocardial infarction sites show high concentrations of hydrogen sulfide. Thus, after induction of myocardial infarction by coronary artery occlusion in rats, 50 µCi-900 µCi of the 64Cu-labeled complex compound was injected via the tails of the rats, and uptake in the myocardial infarction site was examined over time by PET imaging.
+2 days after injection of the 64Cu-labeled complex compound, [18F]FDG was injected, and PET imaging was performed to examine whether myocardial infarction was properly induced.
+36 hours after establishment of the myocardial infarction model, 730 µCi of the radioisotope-labeled complex compound of the present disclosure was injected and nuclear medicine imaging was performed. 2 days later, 1.06 µCi of FDG was injected into the same rat, and then FDG-PET images were obtained. Results are shown in FIGS. 15 to 17 (in the nuclear medicine imaging, the upper image represents a transverse image, and the lower image represents a coronal image).
+As shown in FIG. 15, in the image taken at 24 hours after injection of 64Cu-labeled cyclen of Example 1 according to the present disclosure, high uptake was detected in the myocardial infarction site such that the myocardial infarction site was clearly observed. In contrast, when FDG was injected, FDG uptake did not occur in the myocardial infarction site, and therefore, the cardiac muscles was observed not as donut-shaped rings but as partially broken rings.
+As shown in FIG. 16, when 64Cu-labeled TACN compound of Example 20 was injected, the myocardial infarction site was clearly observed.
+As shown in FIG. 17, when 64Cu-labeled cyclam of Example 16 was injected, no specific uptake was observed in the heart, as in the above paw inflammation and arthritis models.
+Experimental Example 7: Imaging study in brain tumor model
+PET images were obtained at 72 hours after injecting the 64Cu-labeled 1q compound of Example 17 into the prepared brain tumor rat model. High uptake was observed in the brain tumor, and this imaging study suggests that brain tumor may be diagnosed by using the probe for detecting hydrogen sulfide.
+Experimental Example 8: Imaging study in various tumor models
+PET images were obtained after injecting the 64Cu-labeled complex compound of Example 1 into the prepared rat model having EMT6 tumor and rat model having CT26 tumor. Results are shown in FIGS. 19A and 19B. Referring to FIGS. 19A and 19B, higher uptake was observed in the tumor region (red circle) than in the background, suggesting that the probe for detecting hydrogen sulfide may be used in the diagnosis of various tumors. In particular, since EMT6 tumor is commonly used as a hypoxic tumor model, the probe may be suggested as a probe applicable to detection of hypoxia in tumors.
+Experimental Example 9: Imaging study in pancreatitis model
+Optical images were obtained after injecting each of the 64Cu-labeled complex compounds of Example 1 and Example 20 into the prepared rat models having pancreatitis, and PET images were obtained after excision of tissues thereof. Results are shown in FIG. 20. Referring to FIG. 20, high uptakes of the 64Cu-labeled complex compounds of Example 1 and Example 20 were observed in the pancreas (red oval) of the pancreatitis models, suggesting that the probe of the present disclosure may be used to diagnose pancreatitis.
+Experimental Example 10: Imaging study in sepsis model
+PET images were obtained after injecting the 64Cu-labeled complex compound of Example 20 into the prepared rat model having sepsis. Result is shown in FIG. 21. Referring to FIG. 21, uptake was increased throughout the body of the sepsis model. In particular, increased uptake was observed in the lung, suggesting that the probe for detecting hydrogen sulfide may be used in the diagnosis of sepsis.
+Experimental Example 11: Imaging study of hydrogen sulfide in normal rat
+PET images were obtained after injecting the 64Cu-labeled complex compound of Example 1 into a normal rat, and PET images were obtained again after excision of the tongue thereof. Results are shown in FIG. 22. In PET image before excision of the tongue (A), high uptake was observed in the tongue. However, after excision (B), the uptake was decreased in the same site. Further, high uptake was observed in the tongue removed by excision. (C) is a photograph taken before imaging the tongue after excision. These results suggest that the probe for detecting hydrogen sulfide may be used in the detection of hydrogen sulfide under a normal condition as well as under a disease condition.
+Experimental Example 12: Calibration study of hydrogen sulfide
+64Cu-labeled TACN of Example 20 according to the present disclosures was reacted with various concentrations of NaHS which is a source of hydrogen sulfide, and decomplexation was measured to obtain a calibration curve, as shown in FIG. 23. There was a very excellent correlation therebetween, suggesting that concentrations of hydrogen sulfide may be accurately determined by measuring decomplexation.
+Experimental Example 13: Comparison with common method of measuring hydrogen sulfide concentrations
+In order to demonstrate that the complex compound for detecting hydrogen sulfide according to the present disclosure specifically detects a model having a specific disease showing a higher concentration of hydrogen sulfide than a normal rat, data obtained by using the 64Cu-labeled complex compound of Example 20 and a common methylene blue method were compared.
+The obtained data were shown in the following Table 7 andFIG. 24.
+<table>
+<header>
+ & Normal rat & Standard deviation & Myocardial infarction model & Standard deviation
+</header>
+64Cu-TACN & 23.6 & 3.9 & 41.8 & 2.0
+Methylene blue & 23.8 & 7.0 & 40.3 & 2.0
+</table>
+Referring to Table 7 and FIG. 24, the complex compound for detecting hydrogen sulfide according to the present disclosure may specifically detect a myocardial infarction model generating hydrogen sulfide, which is comparable to the common methylene blue method.

@@ -137,13 +137,15 @@ var Visualizer = (function($, window, undefined) {
       // this.annotatorNotes = undefined;
     };
 
-    var Chunk = function(index, text, from, to, space, spans) {
+    var Chunk = function(index, text, from, to, space) {
       this.index = index;
       this.text = text;
       this.from = from;
       this.to = to;
       this.space = space;
       this.fragments = [];
+      this.tokens = [];
+      // this.frag_followers = [];
       // this.sentence = undefined;
       // this.group = undefined;
       // this.highlightGroup = undefined;
@@ -369,7 +371,9 @@ var Visualizer = (function($, window, undefined) {
       var spanTypes = null;
       var highlightGroup;
       var collapseArcs = false;
+      var id_only = false;
       var hideMidArcs = false;
+      var wrapEntity = false;
       var rtlmode = false;
       var collapseArcSpace = false;
       var pagingOffset = 0;
@@ -620,35 +624,70 @@ var Visualizer = (function($, window, undefined) {
         var chunkNo = 0;
         var space;
         var chunk = null;
+        var fine_grained_sorted_fragments = [];
+        var fragID = 0;
         // token containment testing (chunk recognition)
-        $.each(sourceData.token_offsets, function() {
-          var from = this[0];
-          var to = this[1];
-          if (firstFrom === null) firstFrom = from;
-
-          // Replaced for speedup; TODO check correctness
-          // inSpan = false;
-          // $.each(data.spans, function(spanNo, span) {
-          //   if (span.from < to && to < span.to) {
-          //     // it does; no word break
-          //     inSpan = true;
-          //     return false;
-          //   }
-          // });
-
-          // Is the token end inside a span?
-          if (startFragmentId && to > sortedFragments[startFragmentId - 1].to) {
+        if (startFragmentId && to > sortedFragments[startFragmentId - 1].to) {
             while (startFragmentId < numFragments && to > sortedFragments[startFragmentId].from) {
               startFragmentId++;
             }
           }
           currentFragmentId = startFragmentId;
+        var tokenID;
+        var newFragment;
+        var prevSpan = "";
+        for (tokenID = 0; tokenID < sourceData.token_offsets.length; tokenID++){
+        // $.each(sourceData.token_offsets, function() {
+        //   var from = this[0];
+        //   var to = this[1];
+          var from = sourceData.token_offsets[tokenID][0];
+          var to = sourceData.token_offsets[tokenID][1];
+          if (firstFrom === null) firstFrom = from;
+
+          // if the end of the current chunk is after the end of the current fragment
           while (currentFragmentId < numFragments && to >= sortedFragments[currentFragmentId].to) {
+            if (sortedFragments[currentFragmentId].span.id !== prevSpan){
+                sortedFragments[currentFragmentId].span.offsets = [];
+                sortedFragments[currentFragmentId].span.fragments = [];
+                sortedFragments[currentFragmentId].span.unsegmentedOffsets = [];
+                prevSpan = sortedFragments[currentFragmentId].span.id;
+              }
+            // if we wrap entity and the last chunk is partially overlapped with the current fragment
+            if (wrapEntity && lastTo > sortedFragments[currentFragmentId].from && fragID > 0){
+              sortedFragments[currentFragmentId].span.offsets.push([from, sortedFragments[currentFragmentId].to]);
+              sortedFragments[currentFragmentId].span.unsegmentedOffsets.push([from, sortedFragments[currentFragmentId].to]);
+              sortedFragments[currentFragmentId].span.segmentedOffsetsMap[fragID] = fragID;
+              newFragment = new Fragment(fragID, sortedFragments[currentFragmentId].span, from, sortedFragments[currentFragmentId].to);
+              sortedFragments[currentFragmentId].span.fragments.push(newFragment);
+              fine_grained_sorted_fragments.push(newFragment);
+              fragID = 0;
+            }else if (lastTo <= sortedFragments[currentFragmentId].from){
+              // if the last chunk is not overlapped with the current fragment
+              sortedFragments[currentFragmentId].span.fragments.push(sortedFragments[currentFragmentId]);
+              fine_grained_sorted_fragments.push(sortedFragments[currentFragmentId]);
+            }
             currentFragmentId++;
+            fragID = 0;
           }
           // if yes, the next token is in the same chunk
           if (currentFragmentId < numFragments && to > sortedFragments[currentFragmentId].from) {
-            return;
+            if (!wrapEntity) {
+              return;
+            }else{
+              if (sortedFragments[currentFragmentId].span.id !== prevSpan){
+                sortedFragments[currentFragmentId].span.offsets = [];
+                sortedFragments[currentFragmentId].span.fragments = [];
+                sortedFragments[currentFragmentId].span.unsegmentedOffsets = [];
+                prevSpan = sortedFragments[currentFragmentId].span.id;
+              }
+              sortedFragments[currentFragmentId].span.offsets.push([from, to]);
+              sortedFragments[currentFragmentId].span.unsegmentedOffsets.push([from, to]);
+              sortedFragments[currentFragmentId].span.segmentedOffsetsMap[fragID] = fragID;
+              newFragment = new Fragment(fragID, sortedFragments[currentFragmentId].span, from, to);
+              sortedFragments[currentFragmentId].span.fragments.push(newFragment);
+              fine_grained_sorted_fragments.push(newFragment);
+              fragID ++;
+            }
           }
 
           // otherwise, create the chunk found so far
@@ -661,7 +700,11 @@ var Visualizer = (function($, window, undefined) {
           data.chunks.push(chunk);
           lastTo = to;
           firstFrom = null;
-        });
+        }
+
+        if (wrapEntity){
+          sortedFragments = fine_grained_sorted_fragments;
+        }
         var numChunks = chunkNo;
 
         // find sentence boundaries in relation to chunks
@@ -713,7 +756,11 @@ var Visualizer = (function($, window, undefined) {
           if (!span.firstFragment) {
             span.firstFragment = span.lastFragment = span.fragments[0];
           }
-          span.headFragment = span.lastFragment; // TODO configurable?
+          if (wrapEntity){
+            span.headFragment = span.firstFragment;
+          }else {
+            span.headFragment = span.lastFragment; // TODO configurable?
+          }
         });
 
         var spanComparator = function(a, b) {
@@ -924,7 +971,11 @@ var Visualizer = (function($, window, undefined) {
             // TODO heuristics
             fragmentTexts.push(fragment.text);
           });
-          span.text = fragmentTexts.join('');
+          if (wrapEntity){
+            span.text = fragmentTexts.join(' ');
+          }else {
+            span.text = fragmentTexts.join('');
+          }
         }); // data.spans
 
         for (var i = 0; i < 2; i++) {
@@ -1074,12 +1125,17 @@ var Visualizer = (function($, window, undefined) {
                 }
               }
             });
-            var text = fragment.labelText;
+            var text;
+            if (id_only) {
+              text = fragment.span['id'];
+            }else{
+              text = fragment.labelText;
+            }
             if (prefix !== '') {
               text = prefix + ' ' + text;
               svgtext.string(' ');
             }
-            svgtext.string(fragment.labelText);
+            svgtext.string(text);
             if (postfixArray.length) {
               text += ' ' + postfix;
               svgtext.string(' ');
@@ -1248,7 +1304,12 @@ var Visualizer = (function($, window, undefined) {
                   'space characters'
                   , 'warning', 15]]]);
               }
-              var lastChar = fragment.to - fragment.chunk.from - 1;
+              var lastChar;
+              if (!wrapEntity) {
+                lastChar = fragment.to - fragment.chunk.from - 1;
+              }else{
+                lastChar = fragment.to - fragment.chunk.from - 1 > fragment.chunk.text.length - 1? fragment.chunk.text.length - 1: fragment.to - fragment.chunk.from - 1
+              }
 
               // Adjust for XML whitespace (#832, #1009)
               var textUpToFirstChar = fragment.chunk.text.substring(0, firstChar);
@@ -1267,6 +1328,12 @@ var Visualizer = (function($, window, undefined) {
               endPos = (lastChar < firstChar)
                 ? startPos
                 : text.getEndPositionOfChar(lastChar).x;
+              if (wrapEntity && fragment.chunk.tokens){
+                fragment.tokenPos = [];
+                $.each(fragment.chunk.tokens, function(tokenIDx, token){
+                  fragment.tokenPos.push(text.getStartPositionOfChar(token.from - fragment.chunk.from).x);
+                });
+              }
 
               // In RTL mode, positions are negative (left to right)
               if (rtlmode) {
@@ -1737,6 +1804,7 @@ Util.profileStart('chunks');
 
             var shadowRect;
             var markedRect;
+            if (!wrapEntity){
             if (span.marked) {
               markedRect = svg.rect(chunk.highlightGroup,
                   bx - markedSpanSize, by - markedSpanSize,
@@ -1760,6 +1828,7 @@ Util.profileStart('chunks');
               chunkTo = Math.max(bx + bw + markedSpanSize, chunkTo);
               fragmentHeight = Math.max(bh + 2 * markedSpanSize, fragmentHeight);
             }
+            }
             // .match() removes unconfigured shadows, which were
             // always showing up as black.
             // TODO: don't hard-code configured shadowclasses.
@@ -1777,58 +1846,64 @@ Util.profileStart('chunks');
               chunkTo = Math.max(bx + bw + rectShadowSize, chunkTo);
               fragmentHeight = Math.max(bh + 2 * rectShadowSize, fragmentHeight);
             }
-            fragment.rect = svg.rect(fragment.group,
-                bx, by, bw, bh, {
+            if (fragment.id != null && fragment.id === 0) {
+              fragment.rect = svg.rect(fragment.group,
+                  bx, by, bw, bh, {
 
-                'class': rectClass,
-                fill: bgColor,
-                stroke: borderColor,
-                rx: Configuration.visual.margin.x,
-                ry: Configuration.visual.margin.y,
-                'data-span-id': span.id,
-                'data-fragment-id': span.segmentedOffsetsMap[fragment.id],
-                'strokeDashArray': span.attributeMerge.dashArray,
-              });
+                    'class': rectClass,
+                    fill: bgColor,
+                    stroke: borderColor,
+                    rx: Configuration.visual.margin.x,
+                    ry: Configuration.visual.margin.y,
+                    'data-span-id': span.id,
+                    'data-fragment-id': span.segmentedOffsetsMap[fragment.id],
+                    'strokeDashArray': span.attributeMerge.dashArray,
+                  });
 
-            // TODO XXX: quick nasty hack to allow normalizations
-            // to be marked visually; do something cleaner!
-            if (span.normalized) {
-              $(fragment.rect).addClass(span.normalized);
-            }
+              // TODO XXX: quick nasty hack to allow normalizations
+              // to be marked visually; do something cleaner!
+              if (span.normalized) {
+                $(fragment.rect).addClass(span.normalized);
+              }
 
-            fragment.left = bx; // TODO put it somewhere nicer? // XXX RTL needed?
-            fragment.right = bx + bw; // TODO put it somewhere nicer?
-            if (!(span.shadowClass || span.marked)) {
-              chunkFrom = Math.min(bx, chunkFrom);
-              chunkTo = Math.max(bx + bw, chunkTo);
-              fragmentHeight = Math.max(bh, fragmentHeight);
-            }
-
-            fragment.rectBox = { x: bx, y: by - span.floor, width: bw, height: bh };
-            fragment.height = span.floor + hh + 3 * Configuration.visual.margin.y + Configuration.visual.curlyHeight + Configuration.visual.arcSpacing;
-            var spacedTowerId = fragment.towerId * 2;
-            if (!fragmentHeights[spacedTowerId] || fragmentHeights[spacedTowerId] < fragment.height) {
-              fragmentHeights[spacedTowerId] = fragment.height;
-            }
-            $(fragment.rect).attr('y', yy - Configuration.visual.margin.y - span.floor);
-            if (shadowRect) {
-              $(shadowRect).attr('y', yy - rectShadowSize - Configuration.visual.margin.y - span.floor);
-            }
-            if (markedRect) {
-              $(markedRect).attr('y', yy - markedSpanSize - Configuration.visual.margin.y - span.floor);
-            }
-            if (span.attributeMerge.box === "crossed") {
-              svg.path(fragment.group, svg.createPath().
-                  move(xx, yy - Configuration.visual.margin.y - span.floor).
-                  line(xx + fragment.width,
+              fragment.left = bx; // TODO put it somewhere nicer? // XXX RTL needed?
+              fragment.right = bx + bw; // TODO put it somewhere nicer?
+              if (!(span.shadowClass || span.marked)) {
+                chunkFrom = Math.min(bx, chunkFrom);
+                chunkTo = Math.max(bx + bw, chunkTo);
+                fragmentHeight = Math.max(bh, fragmentHeight);
+              }
+              fragment.rectBox = { x: bx, y: by - span.floor, width: bw, height: bh };
+              fragment.height = span.floor + hh + 3 * Configuration.visual.margin.y + Configuration.visual.curlyHeight + Configuration.visual.arcSpacing;
+              var spacedTowerId = fragment.towerId * 2;
+              if (!fragmentHeights[spacedTowerId] || fragmentHeights[spacedTowerId] < fragment.height) {
+                fragmentHeights[spacedTowerId] = fragment.height;
+              }
+              $(fragment.rect).attr('y', yy - Configuration.visual.margin.y - span.floor);
+              if (shadowRect) {
+                $(shadowRect).attr('y', yy - rectShadowSize - Configuration.visual.margin.y - span.floor);
+              }
+              if (markedRect) {
+                $(markedRect).attr('y', yy - markedSpanSize - Configuration.visual.margin.y - span.floor);
+              }
+              if (span.attributeMerge.box === "crossed") {
+                svg.path(fragment.group, svg.createPath().
+                    move(xx, yy - Configuration.visual.margin.y - span.floor).
+                    line(xx + fragment.width,
                     yy + hh + Configuration.visual.margin.y - span.floor),
-                  { 'class': 'boxcross' });
-              svg.path(fragment.group, svg.createPath().
-                  move(xx + fragment.width, yy - Configuration.visual.margin.y - span.floor).
-                  line(xx, yy + hh + Configuration.visual.margin.y - span.floor),
-                  { 'class': 'boxcross' });
+                    { 'class': 'boxcross' });
+                svg.path(fragment.group, svg.createPath().
+                    move(xx + fragment.width, yy - Configuration.visual.margin.y - span.floor).
+                    line(xx, yy + hh + Configuration.visual.margin.y - span.floor),
+                    { 'class': 'boxcross' });
+              }
+
+              svg.text(fragment.group, x, y - span.floor, data.spanAnnTexts[fragment.glyphedLabelText], {fill: fgColor});
             }
-            svg.text(fragment.group, x, y - span.floor, data.spanAnnTexts[fragment.glyphedLabelText], { fill: fgColor });
+
+            if (id_only){
+              fragment.drawCurly = false;
+            }
 
             // Make curlies to show the fragment
             if (fragment.drawCurly) {
@@ -1860,7 +1935,7 @@ Util.profileStart('chunks');
               fragmentHeight = Math.max(Configuration.visual.curlyHeight, fragmentHeight);
             }
 
-            if (fragment == span.headFragment) {
+            if (fragment === span.headFragment) {
               // find the gap to fit the backwards arcs, but only on
               // head fragment - other fragments don't have arcs
               $.each(span.incoming, function(arcId, arc) {
@@ -2710,54 +2785,55 @@ Util.profileStart('arcs');
 
 Util.profileEnd('arcs');
 Util.profileStart('fragmentConnectors');
+        if (!id_only) {
+          $.each(data.spans, function (spanNo, span) {
+            var numConnectors = span.fragments.length - 1;
+            for (var connectorNo = 0; connectorNo < numConnectors; connectorNo++) {
+              var left = span.fragments[connectorNo];
+              var right = span.fragments[connectorNo + 1];
 
-        $.each(data.spans, function(spanNo, span) {
-          var numConnectors = span.fragments.length - 1;
-          for (var connectorNo = 0; connectorNo < numConnectors; connectorNo++) {
-            var left = span.fragments[connectorNo];
-            var right = span.fragments[connectorNo + 1];
+              if (!left.chunk.outOfPage)
+                var leftBox = rowBBox(left);
+              if (!right.chunk.outOfPage)
+                var rightBox = rowBBox(right);
+              var leftRow = left.chunk.row ? left.chunk.row.index : 0;
+              var rightRow = right.chunk.row ? right.chunk.row.index : rows.length - 1;
+              var box = leftBox || rightBox;
+              if (!box) continue;
 
-            if (!left.chunk.outOfPage)
-              var leftBox = rowBBox(left);
-            if (!right.chunk.outOfPage)
-              var rightBox = rowBBox(right);
-            var leftRow = left.chunk.row ? left.chunk.row.index : 0;
-            var rightRow = right.chunk.row ? right.chunk.row.index : rows.length - 1;
-            var box = leftBox || rightBox;
-            if (!box) continue;
+              for (var rowIndex = leftRow; rowIndex <= rightRow; rowIndex++) {
+                var row = rows[rowIndex];
+                if (row.chunks.length) {
+                  row.hasAnnotations = true;
 
-            for (var rowIndex = leftRow; rowIndex <= rightRow; rowIndex++) {
-              var row = rows[rowIndex];
-              if (row.chunks.length) {
-                row.hasAnnotations = true;
+                  if (leftBox && rowIndex == leftRow) {
+                    from = rtlmode ? leftBox.x : leftBox.x + leftBox.width;
+                  } else {
+                    from = rtlmode ? canvasWidth - 2 * Configuration.visual.margin.y - sentNumMargin : sentNumMargin;
+                  }
 
-                if (leftBox && rowIndex == leftRow) {
-                  from = rtlmode ? leftBox.x : leftBox.x + leftBox.width;
-                } else {
-                  from = rtlmode ? canvasWidth - 2 * Configuration.visual.margin.y - sentNumMargin : sentNumMargin;
+                  if (rightBox && rowIndex == rightRow) {
+                    to = rtlmode ? rightBox.x + rightBox.width : rightBox.x;
+                  } else {
+                    to = rtlmode ? 0 : canvasWidth - 2 * Configuration.visual.margin.y;
+                  }
+
+                  var height = box.y + box.height - Configuration.visual.margin.y;
+                  if (roundCoordinates) {
+                    // don't ask
+                    height = (height | 0) + 0.5;
+                  }
+
+                  var path = svg.createPath().move(from, height).line(to, height);
+                  svg.path(row.arcs, path, {
+                    style: 'stroke: ' + fragmentConnectorColor,
+                    'strokeDashArray': fragmentConnectorDashArray
+                  });
                 }
-
-                if (rightBox && rowIndex == rightRow) {
-                  to = rtlmode ? rightBox.x + rightBox.width : rightBox.x;
-                } else {
-                  to = rtlmode ? 0 : canvasWidth - 2 * Configuration.visual.margin.y;
-                }
-
-                var height = box.y + box.height - Configuration.visual.margin.y;
-                if (roundCoordinates) {
-                  // don't ask
-                  height = (height|0)+0.5;
-                }
-
-                var path = svg.createPath().move(from, height).line(to, height);
-                svg.path(row.arcs, path, {
-                  style: 'stroke: ' + fragmentConnectorColor,
-                  'strokeDashArray': fragmentConnectorDashArray
-                });
-              }
-            } // rowIndex
-          } // connectorNo
-        }); // spans
+              } // rowIndex
+            } // connectorNo
+          }); // spans
+        }
 
 Util.profileEnd('fragmentConnectors');
 Util.profileStart('rows');
@@ -2851,7 +2927,7 @@ Util.profileStart('rows');
               var text;
               if (rtlmode) {
                 text = svg.text(link, canvasWidth - sentNumMargin + Configuration.visual.margin.x, y - rowPadding,
-                    '' + row.sentence, { 'data-sent': row.sentence }); 
+                    '' + row.sentence, { 'data-sent': row.sentence });
               } else {
                 text = svg.text(link, sentNumMargin - Configuration.visual.margin.x, y - rowPadding,
                     '' + row.sentence, { 'data-sent': row.sentence });
@@ -2910,8 +2986,8 @@ Util.profileStart('chunkFinish');
           var nextChunk = data.chunks[chunkNo + 1];
           var nextSpace = nextChunk ? nextChunk.space : '';
           if (rtlmode) {
-            // Render every text chunk as a SVG text so we maintain control over the layout. When 
-            // rendering as a SVG span (as brat does), then the browser changes the layout on the 
+            // Render every text chunk as a SVG text so we maintain control over the layout. When
+            // rendering as a SVG span (as brat does), then the browser changes the layout on the
             // X-axis as it likes in RTL mode.
             svg.text(textGroup, chunk.textX, chunk.row.textY, chunk.text + nextSpace, {
               'data-chunk-id': chunk.index
@@ -3008,7 +3084,12 @@ Util.profileStart('chunkFinish');
               var yShrink = shrink * nestingAdjustYStepSize;
               var xShrink = shrink * nestingAdjustXStepSize;
               // bit lighter
-              var lightBgColor = Util.adjustColorLightness(bgColor, 0.8);
+              var lightBgColor;
+              if (id_only) {
+                lightBgColor = Util.adjustColorLightness(bgColor, 0.4);
+              }else{
+                lightBgColor = Util.adjustColorLightness(bgColor, 0.8);
+              }
               // tweak for Y start offset (and corresponding height
               // reduction): text rarely hits font max height, so this
               // tends to look better
@@ -3465,7 +3546,7 @@ Util.profileStart('before render');
             aType.bool = aType.values[0].name;
           }
           // We need attribute values to be stored as an array, in the correct order,
-          // but for efficiency of access later we also create a map of each value 
+          // but for efficiency of access later we also create a map of each value
           // name to the corresponding value dictionary.
           aType.values.byName = {}
           $.each(aType.values, function(valueNo, val) {
@@ -3506,10 +3587,14 @@ Util.profileStart('before render');
           });
           var arcBundle = (response.visual_options || {}).arc_bundle || 'none';
           var textDirection = (response.visual_options || {}).text_direction || 'ltr';
+          var multilineEntity = (response.visual_options || {}).multiline_entity || 'none';
+          var entityLabel = (response.visual_options || {}).entity_label || 'none';
           collapseArcs = arcBundle == "all";
           hideMidArcs = arcBundle == "hide";
           collapseArcSpace = arcBundle != "none";
           rtlmode = textDirection == 'rtl';
+          wrapEntity = multilineEntity == "wrap";
+          id_only = entityLabel == "id_only";
 
           dispatcher.post('spanAndAttributeTypesLoaded', [spanTypes, entityAttributeTypes, eventAttributeTypes, relationTypesHash]);
 

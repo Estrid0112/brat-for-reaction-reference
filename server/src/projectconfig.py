@@ -1163,6 +1163,14 @@ def visual_options_get_arc_bundle(directory):
     v = get_visual_option_config_by_storage_form(directory, 'Arcs')
     return 'none' if v is None else v.get('bundle', 'none')
 
+def visual_options_get_multiline_entity(directory):
+    v = get_visual_option_config_by_storage_form(directory, 'Entity')
+    return 'none' if v is None else v.get('multiline', 'none')
+
+def visual_options_get_entity_label(directory):
+    v = get_visual_option_config_by_storage_form(directory, 'Entity')
+    return 'none' if v is None else v.get('label', 'none')
+
 
 def visual_options_get_text_direction(directory):
     v = get_visual_option_config_by_storage_form(directory, 'Text')

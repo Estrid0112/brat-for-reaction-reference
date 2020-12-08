@@ -1,0 +1,217 @@
+Technical Field
+The present invention belongs to the field of pharmaceutical chemistry, and particularly relates to a xanthine derivative and a preparation method thereof and a use of such compound as a dipeptidyl peptidase IV (DPP-IV) inhibitor.
+Background
+Diabetes is a polyetiological metabolic disease, characterized by chronic hyperglycemia accompanied with disorder of glucose, fat and protein metabolism caused by insulin secretion and/or effect defects. Diabetes is also a very old disease. It is caused by relative or absolute lack of insulin in the human body, which leads to rise of the concentration of glucose in the blood and this further leads to excretion of a large volume of glucose from urine accompanied with symptoms such as polydipsia, polyuria, polyphagia, emaciation, dizziness, debilitation, etc.
+In diabetes treatment, exercise therapy and diet therapy are two essential types of therapeutic methods for diabetes. When these two therapeutic methods are not sufficient to control the disease, insulin or oral hypoglycemic drugs can be used. But because there are many side effects in these hypoglycemic drugs, it is particularly important to develop a new and low-side effect drug that can effectively treat diabetes. DPP-IV is a serine protease; it can split N-terminal dipeptidase in a peptide chain containing a proline residue at the secondary end; although the physiological effect of DPP-IV to mammals has not been fully confirmed, it plays a very important role in the process of neural enzyme metabolism, T-cell activation, cancer cells metastasizing in endothelium and HIV virus entering lymphoid cells (WO98/19998).
+Studies have shown that DPP-IV can inhibit the secretion of Glucagon-Like Peptide (GLP)-1 and split His-Ala dipeptide at N-terminal in (GLP)-1 so that it is degraded from active form (GLP)-1 (Endocrinology, 1999, 140:5356-5363). Under physiological conditions, the half-life period of the intact (GLP)-1 is short in circulating blood, and DPP-IV inhibitor can completely protect the endogenous and exogenous (GLP)-1 from inactivating by DPP-IV, which greatly improves the physiological activity of (GLP)-1 (from 5 to 10 times). Because (GLP)-1 is an important stimulator for secretion of pancreatic insulin and can directly affect the distribution of glucose, DPP-IV inhibitor has very good effects for the treatment of non-insulin-dependent diabetes patients (US6110949).
+Currently marketed DPP-IV inhibitors include sitagliptin, vildagliptin, saxagliptin, alogliptin and linagliptin and so on. Wherein linagliptin has less liver and kidney function damage. The structural formula of linagliptin is as follows:
+According to the report sent by linagliptin to FDA, it was disclosed that bioavailability of linagliptin in mouse and human body was not high (CD-1 mouse, 5 mg/kg, F = 18.4%; man, 5 mg/subject, F = 30%). Therefore, providing a compound to replace linagliptin is a problem to be solved urgently.
+Summary of the Invention
+In order to solve the above-mentioned problem, the present invention carries out structural modification to it based on linagliptin so as to obtain a compound with more safety, higher activity and better bioavailability.
+The present invention provides a kind of compounds with the activity of inhibiting DPP-IV and can be used for medicine for the treatment or mitigation of DPP-IV related diseases.
+Linagliptin is the drug with highest activity and least toxicity to liver and kidney in DPP-IV inhibitors on the market; compounds obtained by the method of the present invention have similar activity with linagliptin, especially the activity of compound I-3 which is better than linagliptin, can better treat DPP-IV related diseases (such as diabetes, hyperglycemia, obesity or insulin resistance) in the future.
+Specifically, the present invention provides a xanthine derivative as shown in formula I and solvate thereof, or their pharmaceutically acceptable salts,wherein,R is selected from:R1 is selected from cyano or methoxycarbonyl;R2 is selected from hydrogen and halogen atoms, a linear or branched C1-6 alkyl group which is substituted or unsubstituted by 1 to 5 halogen atoms, a linear or branched C1-6 alkoxy group which is substituted or unsubstituted by 1 to 5 halogen atoms;X and Y are each independently selected from C or N;n is 0, 1, 2, 3 or 4.
+Preferably,R2 is selected from hydrogen, fluorine atom, chlorine atom, bromine atom, methyl, ethyl, isopropyl, methoxy, ethoxy, trifluoromethyl or trifluoromethoxy;n is 0, 1 or 2.
+Preferably,R2 is selected from hydrogen, chlorine atom, fluorine atom, methyl or methoxy.
+More preferably,R2 is selected from hydrogen or fluorine atom.
+Most preferably,wherein the xanthine derivatives and solvates thereof or their pharmaceutically acceptable salts in the present invention, wherein the pharmaceutically acceptable salts are salts formed by xanthine derivatives or their solvates with the acids selected from the following: hydrochloric acid, p-toluene sulfonic acid, tartaric acid, maleic acid, lactic acid, methanesulfonic acid, sulfuric acid, phosphoric acid, citric acid, acetic acid or trifluoroacetic acid. Preferably, the acids are p-toluene sulfonic acid, hydrochloric acid, tartaric acid or trifluoroacetic acid.the xanthine derivative is selected from:
+The present invention also provides a pharmaceutical composition containing xanthine derivatives and solvates thereof, or their pharmaceutically acceptable salts.
+Xanthine derivatives and solvates thereof of the present invention, or their pharmaceutically acceptable salts can be used as the main active ingredients of the pharmaceutical composition, the weight of which accounts for 0.1-99.9% of the pharmaceutical composition.
+Pharmaceutical compositions of the present invention, preferably in unit dosage forms of pharmaceutical preparation, can be made into any pharmaceutically acceptable dosage forms when made into pharmaceutical preparations, and these dosage forms are selected from tablets, sugar coated tablets, film coated tablets, enteric coated tablets, capsules, hard capsules, soft capsules, oral liquid, oral agents, granules, suspensions, solutions, injections, suppositories, ointments, emplastrums, creams, sprays and patches. Preferably oral preparations, and optimal preferably tablets and capsules.
+Further, the pharmaceutical compositions of the present invention also contain pharmaceutically acceptable carriers.
+The pharmaceutical preparation can be prepared by using conventional techniques in galenical pharmacy, for instance, mixing the xanthine derivatives and solvates thereof of the present invention, or their pharmaceutically acceptable salts with pharmaceutically acceptable carriers. The pharmaceutically acceptable carriers include, but not limited to: mannitol, sorbitol, sorbic acid or sylvite, sodium metabisulfite, sodium bisulfite, sodium thiosulfate, cysteine hydrochloride, mercaptoacetic acid, methionine, vitamin A, vitamin C, vitamin E, vitamin D, azone, disodium EDTA, calcium disodium EDTA, the carbonate, acetate, phosphate of monovalence alkali metal or aqueous solution thereof, hydrochloric acid, acetic acid, sulfuric acid, phosphoric acid, amino acid, sodium chloride, potassium chloride, sodium lactate, xylitol, maltose, glucose, fructose, dextran, glycine, starch, sucrose, lactose, mannitol, silicon derivative, cellulose and derivate thereof, alginate, gelatin, polyvinyl pyrrolidone, glycerine, propylene glycol, ethanol, Tween 60-80, Span-80, beeswax, lanolin, liquid paraffin, cetyl alcohol, gallic acid esters, agar, triethanolamine, basic amino acid, urea, allantoin, calcium carbonate, calcium bicarbonate, surfactant, polyethylene glycol, cyclodextrin, beta-cyclodextrin, phospholipid material, kaolin, talc, calcium stearate, magnesium stearate, etc.
+The xanthine derivatives and solvates thereof of the present invention or their pharmaceutically acceptable salts, used as the active ingredients of the pharmaceutical composition, when made into preparations, individual unit dosage form can contain 0.1-1000 mg pharmaceutical active substances of the present invention, and the balanced is pharmaceutically acceptable carrier. Pharmaceutically acceptable carriers can be 0.1-99.9% of total weight of the preparations by weight.
+The usage and dosage of the pharmaceutical compositions of the present invention are determined according to patients' conditions while being used.
+The present invention also includes use of the xanthine derivatives and solvates thereof or their pharmaceutically acceptable salts in preparing drugs for treating diseases related to dipeptidyl peptidase IV.
+The diseases related to dipeptidyl peptidase IV include, but are limited to type II diabetes, impaired glucose tolerance, hyperglycemia, obesity or insulin resistance, etc.
+Brief Description of the Drawings
+Figure 1 is glucose tolerance experimental results of normal miceFigure 2 is glucose tolerance experimental results of normal miceFigure 3 is glucose tolerance experimental results of obese miceFigure 4 is glucose tolerance experimental results of obese miceFigure 5 is glucose tolerance experimental results of diabetic miceFigure 6 is glucose tolerance experimental results of diabetic mice
+Detailed Description of the Invention
+Embodiment 1
+The preparation of 1-[(6-fluoro-benzonitrile-2-yl)methyl]-3-methyl-7-(2-butyne-1-yl)-8-[(R)-3-amino-piperidine-1-yl ]-xanthine
+(1) The preparation of 3-methyl-7-(2-butyne-1-yl)-8-bromoxanthine
+At room temperature, suspending 8-bromo-3-methylxanthine (2.5 g, 10.2 mmol) in 15mL N, N-dimethylformamide (abbreviated to DMF), adding diisopropylethylamine (1.326 g, 10.2 mmol) and 1-bromo-2-butyne (1.357 g, 10.2 mmol) dropwise, and stirring at room temperature for 12 hours after the dripping was finished. After the reaction was completed, pouring the reaction liquid into ice water and stirring to precipitate solid, filtrating by air pump, vacuum drying to obtain 2.57 g yellowish solid, with a yield of 85%. ES-API(m/z):[M+H]+297.0, 299.0.
+(2) The preparation of 1-[(6-fluoro-benzonitrile-2-yl)methyl]-3-methyl-7-(2-butyne-1-yl)-8-bromoxanthine
+Adding 3-methyl-7-(2-butyne-1-yl)-8-bromoxanthine (2.9 g, 9.8 mmol), potassium carbonate (2.2 g, 16 mmol) and 2-bromomethyl-6-fluorobenzonitrile (2.3 g, 10.7 mmol) into a 100mL round-bottom flask, adding 25mL of N,N-dimethylformamides, heating to 80°C and stirring for 5 hours; after the reaction was completed, pouring the reaction liquid into ice water to precipitate solid, filtrating by air pump, washing solid with water and drying to obtain 3.5 g yellowish solid, with a yield of 84%. ES-API(m/z):[M+H]+ 430.0.
+The preparation of 1-[(6-fluoro-benzonitrile-2-yl)methyl]-3-methyl-7-(2-butyne-1-yl)-8-[(R)-3-t-butyloxycarbonyla mino-piperidine-1-yl]-xanthine
+Adding 1-[(6-fluoro-benzonitrile-2-yl)methyl]-3-methyl-7-(2-butyne-1-yl)-8-bromoxanthine (3.5 g, 7.4 mmol), potassium carbonate (1.9 g, 14 mmol) and 3-(R)-t-butyloxycarbonyl-aminopiperidine (1.6 g, 8 mmol) into a 50ml round-bottom flask, adding 25 mL of N,N-dimethylformamides, heating to 80°C and stirring for 5 hours; after the reaction was completed, cooling to room temperature, pouring the reaction liquid into ice water to precipitate solid, filtrating by air pump and vacuum drying to obtain 2.9 g yellowish solid, with a yield of 72%. ES-API(m/z):[M+H]+ 550.3.
+The preparation of 1-[(6-fluoro-benzonitrile-2-yl)methyl]-3-methyl-7-(2-butyne-1-yl)-8-[(R)-3-amino-piperidine-1-yl ]-xanthine
+Dissolving the compound 1-[(6-fluoro-benzonitrile-2-yl)methyl]-3-methyl-7-(2-butyne-1-yl)-8-[(R)-3-t-butyloxycarbonyla mino-piperidine-1-yl]-xanthine (0.4 g, 0.7 mmol) in dichrolomethane (8 ml), dropping trifluoroacetic acid (2 ml) in at room temperature to react for 1 hour at room temperature. After adding dichloromethane (10 ml) to dilute the reaction solution, washing with a potassium carbonate aqueous solution of pH 10, extracting with dichloromethane, drying organic phase with anhydrous magnesium sulfate, filtering and concentrating. Separating and purifying the residue with thin layer chromatography (methylene chloride : methanol=20:1) to obtain compound 1-[(6-fluoro-benzonitrile-2-yl)methyl]-3-methyl-7-(2-butyne-1-yl)-8-[(R)-3-amino-piperidine-1-yl ]-xanthine (0.25 g, yellowish solid), with a yield of 77%. ES-API(m/z):[M+H]+450.2.1H NMR (400 MHz, DMSO) δ 7.68 (m, 1 H), 7.42 (m, 1 H), 7.13 (m, 1 H), 5.20 (s, 2H), 4.90 (s, 2H), 3.63 (m, 2H), 3.38 (s, 3H), 3.00 (m, 1 H), 2.90 - 2.71 (m, 2H), 1.92 - 1.72 (m, 5H), 1.62 (m, 1H), 1.34 - 1.25 (m, 1H).
+Embodiment 2
+The preparation of 1-[(4,5-difluoro-benzonitrile-2-yl)methyl]-3-methyl-7-(2-butyne-1-yl)-8-[(R)-3-amino-piperidine-1-yl]-xanthine
+The preparation of 1-[(4,5-difluoro-benzonitrile-2-yl)methyl]-3-methyl-7-(2-butyne-1-yl)-8-bromoxanthine
+Adding 3-methyl-7-(2-butyne-1-yl)-8-bromoxanthine (2.3 g, 7.9 mmol), potassium carbonate (1.7 g, 12.6 mmol) and 2-bromomethyl-4,5-difluorobenzonitrile (2.0 g, 8.7 mmol) into a 100mL round-bottom flask, adding 25 mL of N,N-dimethylformamides in, heating to 80°C and stirring for 5 hours; after the reaction was completed, pouring the reaction liquid into ice water to precipitate solid, filtrating by air pump, washing solid with water, drying to obtain 3.0 g of yellowish solid, with a yield of 86%. ES-API(m/z):[M+H]+ 448.0.
+(2) The preparation of 1-[(4,5-difluoro-benzonitrile-2-yl)methyl]-3-methyl-7-(2-butyne-1-yl)-8-[(R)-3-t-butyloxycarbon ylamino-piperidine-1-yl]-xanthine
+Adding 1-[(4,5-difluoro-benzonitrile-2-yl)methyl]-3-methyl-7-(2-butyne-1-yl)-8-bromoxanthine (2.3 g, 5.1 mmol), potassium carbonate (1.4 g, 10.4 mmol) and 3-(R)-t-butyloxycarbonyl-aminopiperidine (1.1 g, 5.5 mmol) into a 50ml round-bottom flask, adding 25 mL of N,N-dimethylformamides in, heating to 80°C and stirring for 5 hours; after the reaction was completed, cooling to room temperature, pouring the reaction liquid into ice water to precipitate solid, filtrating by air pump and vacuum drying to obtain 2.2 g of yellowish solid, with a yield of 76%. ES-API(m/z):[M+H]+ 568.2.
+(3) The preparation of 1-[(4,5-difluoro-benzonitrile-2-yl)methyl]-3-methyl-7-(2-butyne-1-yl)-8-[(R)-3-amino-piperidine-1-yl]-xanthine
+Dissolving the compound 1-[(4,5-difluoro-benzonitrile-2-yl)methyl]-3-methyl-7-(2-butyne-1-yl)-8-[(R)-3-t-butyloxycarbon ylamino-piperidine-1-yl]-xanthine (0.4 g, 0.7 mmol) in dichrolomethane (8 ml), dropping trifluoroacetic acid (2 ml) in at room temperature to react for 1 hour at room temperature. After adding dichloromethane (10ml) to dilute the reaction solution, washing with potassium carbonate aqueous solution with pH of 10, extracting with dichloromethane, drying with organic phase with anhydrous magnesium sulfate, filtering and concentrating. Separating and purifying residue thin layer chromatography (methylene chloride: methanol=20:1) to obtain compound 1-[(4,5-difluoro-benzonitrile-2-yl)methyl]-3-methyl-7-(2-butyne-1-yl)-8-[(R)-3-amino-piperidine-1-yl]-xanthine (0.26 g, yellow solid),with a yield of 79%. ES-API(m/z):[M+H]+468.2.1H NMR (400 MHz, DMSO) δ 8.18 (m, 1 H), 7.42 (m, 1 H), 5.16 (s, 2H), 4.89 (s, 2H), 3.62 (m, 2H), 3.38 (s, 3H), 2.99 (m, 1 H), 2.90 - 2.73 (m, 2H), 1.93 - 1.71 (m, 5H), 1.70 - 1.53 (m, 1 H), 1.35 - 1.24 (m, 1H).
+Embodiment 3
+The preparation of 1-[(3-cyano-pyrazine-2-yl)methyl]-3-methyl-7-(2-butyne-1-yl)-8-[(R)-3-amino-piperidine-1-yl]-x anthine
+(1) The preparation of 1-[(3-cyano-pyrazine-2-yl)methyl]-3-methyl-7-(2-butyne-1-yl)-8-bromoxanthine
+Adding 3-methyl-7-(2-butyne-1-yl)-8-bromoxanthine (0.71 g, 2.4 mmol), potassium carbonate (0.53 g, 3.8 mmol) and 2-bromomethyl-3-cyano-pyrazine (0.52 g, 2.6 mmol) into a 50ml round-bottom flask, adding 5 mL of N,N-dimethylformamides in, heating to 80°C and stirring for 5 hours; after the reaction was completed, pouring the reaction liquid into ice water to precipitate solid, filtrating by air pump, washing solid with water and dry to obtain 0.88 g of yellowish solid, with a yield of 89%. ES-API(m/z):[M+H]+ 414.0.
+(2) The preparation of 1-[(3-cyano-pyrazine-2-yl)methyl]-3-methyl-7-(2-butyne-1-yl)-8-[(R)-3-t-butyloxycarbonylamin o-piperidine-1-yl]-xanthine
+Adding 1-[(3-cyano-pyrazine-2-yl)methyl]-3-methyl-7-(2-butyne-1-yl)-8-bromoxanthine (0.23 g, 0.78 mmol), potassium carbonate (0.22 g, 1.6 mmol) and 3-(R)-t-butyloxycarbonyl-aminopiperidine (0.17 g, 0.85 mmol) into a 10ml round-bottom flask, adding 5 mL of N,N-dimethylformamides in, heated to 80°C and stirred for 5 hours; after the reaction was completed, it was cooled to room temperature, the reaction liquid was poured into ice water to precipitate solid, and suction filtration and vacuum drying were carried out to obtain 0.35 g yellowish solid, with the yield of 85%. ES-API(m/z):[M+H]+ 534.3.
+(3) The preparation of 1-[(3-cyano-pyrazine-2-yl)methyl]-3-methyl-7-(2-butyne-1-yl)-8-[(R)-3-amino-piperidine-1-yl]-x anthine
+Dissolving the compound 1-[(3-cyano-pyrazine-2-yl)methyl]-3-methyl-7-(2-butyne-1-yl)-8-[(R)-3-t-butyloxycarbonylamin o-piperidine-1-yl]-xanthine (0.31 g, 0.6 mmol) in dichrolomethane (8 ml), dropping trifluoroacetic acid (2 ml) in at room temperature to react for 1 hour at room temperature. After adding dichloromethane (10 ml) to dilute the reaction solution, washing with potassium carbonate aqueous solution with pH of 10, extracting with dichloromethane, drying organic phase with anhydrous magnesium sulfate, filtering and concentrating. Separating and purifying residue with thin layer chromatography (methylene chloride:methanol=20:1) to obtain compound 1-[(3-cyano-pyrazine-2-yl)methyl]-3-methyl-7-(2-butyne-1-yl)-8-[(R)-3-amino-piperidine-1-yl]-x anthine (0.19 g, yellow solid), with a yield of 74%. ES-API(m/z):[M+H]+434.2.1H NMR (400 MHz, DMSO)δ8.84 (m, 1 H), 8.75 (m, 1 H), 5.38 (s, 2H), 4.89 (s, 2H), 3.71-3.53 (m, 2H), 3.37 (s, 3H), 3.07-2.97 (m, 1 H), 2.90 (m, 1 H), 2.81 (m, 1 H), 1.93 - 1.73 (m, 5H), 1.70 -1.56 (m, 1 H), 1.32-1.22 (m, 1 H).
+Embodiment 4
+1-[(3-methyl formate-pyridine-2-yl)methyl]-3-methyl-7-(2-butyne-1-yl)-8-[(R)-3-amino-piperidine-1-yl]-xanth ine
+(1) The preparation of 1-[(3-methyl formate-pyridine-2-yl)methyl]-3-methyl-7-(2-butyne-1-yl)-8-bromoxanthine
+Adding 3-methyl-7-(2-butyne-1-yl)-8-bromoxanthine (2.0 g, 6.7 mmol), potassium carbonate (1.5 g, 12.6 mmol) and 2-bromomethyl-3-methyl formate-pyridine (1.7 g, 7.4 mmol) into a 100ml round-bottom flask, adding 20 mL of N,N-dimethylformamides in, heating to 80°C and stirring for 5 hours; after the reaction was completed, pouring the reaction liquid into ice water to precipitate solid, filtrating by air pump, washing solid with water and drying to obtain 2.5 g of yellowish solid, with a yield of 83%. ES-API(m/z):[M+H]+ 446.0.
+(2) The preparation of 1-[(3-methyl formate-pyridine-2-yl)methyl]-3-methyl-7-(2-butyne-1-yl)-8-[(R)-3-t-butyloxycarbonylamino-pip eridine-1-yl]-xanthine
+Adding 1-[(3-methyl formate-pyridine-2-yl)methyl]-3-methyl-7-(2-butyne-1-yl)-8-bromoxanthine (1.2 g, 2.7 mmol), potassium carbonate (0.74 g, 5.4 mmol) and 3-(R)-t-butyloxycarbonyl-aminopiperidine (0.61 g, 3.1 mmol) into a 50 ml round-bottom flask, adding 10 mL of N,N-dimethylformamides in, heating to 80°C and stirring for 5 hours; after the reaction was completed, cooling to room temperature, pouring the reaction liquid into ice water to precipitate solid, filtrating by air pump and vacuum drying to obtain 1.2 g of yellowish solid, with a yield of 80%. ES-API(m/z):[M+H]+ 566.3.
+(3) The preparation of 1-[(3-methyl formate-pyridine-2-yl)methyl]-3-methyl-7-(2-butyne-1-yl)-8-[(R)-3-amino-piperidine-1-yl]-xanth ine
+Dissolving the compound 1-[(3-methyl formate-pyridine-2-yl)methyl]-3-methyl-7-(2-butyne-1-yl)-8-[(R)-3-t-butyloxycarbonylamino-pip eridine-1-yl]-xanthine (0.4 g, 0.7 mmol) in dichrolomethane (8 ml), dropping trifluoroacetic acid (2 ml) in at room temperature to react for 1 hour at room temperature. After adding dichloromethane (10 ml) to dilute the reaction solution, washing with potassium carbonate aqueous solution with pH of 10, extracting with dichloromethane, drying organic phase with anhydrous magnesium sulfate, filtering and concentrating. Separating and purifying residue with thin layer chromatography (methylene chloride : methanol=20:1), to obtain compound 1-[(3-methyl formate-pyridine-2-yl)methyl]-3-methyl-7-(2-butyne-1-yl)-8-[(R)-3-amino-piperidine-1-yl]-xanth ine (0.25 g, yellowish solid) ,with a yield of 77%. ES-API(m/z):[M+H]+466.2.1H NMR (400 MHz, DMSO) δ 8.59 (m, 1 H), 8.30 (m, 1 H), 7.44 (m, 1 H), 5.48 (s, 2H), 4.89 (s, 2H), 3.94 (s, 3H), 3.61 (m, 2H), 3.38 (s, 3H), 3.00 (m, 2H), 2.87-2.77 (m, 1 H), 1.94-1.72 (m, 5H), 1.71-1.57 (m, 1 H), 1.36-1.25 (m, 1 H).
+Embodiment 5 Coated tablets containing 5mg of compound TSL-0319
+<table>
+ & TSL-0319 & 5 mg & hydroxypropyl methylcellulose & 15 mg
+ & calcium phosphate & 90 mg & magneseum stearate & 1.5 mg
+ & corn starch & 35 mg & polyvinyl pyrrolidone & 10 mg
+Total amount & 166.5 mg &  &  & 
+</table>
+Preparation:
+Mixing the compound TSL-0319 with calcium phosphate, corn starch, polyvinyl pyrrolidone, hydroxypropyl methylcellulose and half of the specified amount of magnesium stearate. Making a tablet with 13 mm in diameter, then making the tablet rub through a sieve mesh with a size of 1.5 mm with an appropriate machine and be mixed with the rest of magnesium stearate. Compressing the granules in the tableting machine to form tablets in desired shape.Core weight: 166.5 mg, plunger chip: 9 mm, convex type
+The tablet core made by such way is coated with a film substantially made of hydroxypropyl methylcellulose. Film coating finished at last is polished with beeswax.
+The weight of coated tablets is 175 mg.
+Embodiment 6 Capsules containing 5 mg of compound TSL-0319
+<table>
+Compound TSL-0319 & 5 g
+Starch & 400 g
+Microcrystalline cellulose & 200 g
+</table>
+According to the conventional method, after being evenly mixed, the obtained pharmaceutical composition is enclosed into ordinary gelatine capsules to obtain 1000 capsules. Capsules containing 5 mg of compound TSL-0319 were obtained according to this method.
+Experiment example I, in vitro activity experiments
+(I) DPP-IV activity inhibition tests in vitro
+DPP-IV could hydrolyze Gly-Pro-Aminoluciferin at room temperature to generate Aminoluciferin, which could produce "glow type" luminescent signals in a luciferase reaction system provided by a DPPIV-Glo (TM) protease test kit, and the strength of the luminescent signals was in direct proportion to the enzyme activity of DPP-IV.
+1. Experimental purposes:
+to evaluate the inhibition effects of compounds I-1∼I-4 in the present invention by observing their activity inhibition to DPP-IV enzyme.
+2. Experimental materials:
+2.1 humanized recombinant DPP-IV: SIGMA product, article number D3446-10UG.2.2 DPPIV-Glo(TM) protease detection kit: Promega product, article number G8351.2.3 Trizma base: Sigma product, article number T6066-1 KG: prepared into 10 mM Tris-HCl, pH 8.0.2.4 384 OptiPlate: PerkinElmer product, article number 6007299.2.5 Liquid treatment instrument: Bravo (Agilent company); Echo (Labcyte company).2.6 Detection instrument: Envision (PerkinElmer company).
+3. Experimental methods:
+3.1 Diluting tested samples in a gradient dilution to ten concentrations by DMSO with Bravo, and then transferring 250 nl of samples to 384 OptiPlate with Echo.3.2 Diluting dipeptidyl peptidase IV (Sigma) to 0.2 ng/ml solution with 10 mM Tris-HCl (pH 8.0), adding the samples to be detected in, per well 25 µl. Meanwhile, a blank control (including substrate but no enzyme and samples) and positive control (including substrate and enzyme but no samples) were also set up.3.3 Adding 25 µl of DPPIV-Glo™ Reagent (prepared according to instructions in DPPIV-Glo(TM) protease detection kit, containing 20 µM DPP-IV substrate Gly-Pro-Aminofluorescein and luciferase reaction system) into each well.3.4 Reacting at room temperature for 60 min, determining the luminescence intensity by Envision.3.5 Calculating the enzyme activity of DPP-IV according to the luminescence intensity, enzyme activity=(sample luminescence intensity values - blank control luminescence intensity values/(positive control luminescence intensity values-blank control luminescence intensity values)×100.3.6 Calculating IC50 of the samples according to the enzyme activity using GraphPad Prism5.0 software.
+4. Experimental results
+<table>
+<header>
+Compound code & Compound structure & IC50 (nM)
+</header>
+I-1 &  & 0.24
+I-2 &  & 2.1
+I-3 &  & 0.08
+I-4 &  & 4.8
+Positive control & Linagliptin & 0.21
+</table>
+According to the above results, compound I-3 of the present invention has better activity than linagliptin, and other compounds I-1, I-2 and I-4 have similar activity to ligulitine.
+(II) Drug selectivity experiments in vitro
+1. Experimental purposes:
+to observe the enzyme activity inhibition effect of the compound I-3 (hereinafter referred to as TSL-0319 for short) of the present invention on dipeptidyl peptidase, and compare with selectivity of marketed drugs of the same kind.
+2. Experimental materials:
+2.1 humanized recombinant DPP-IV, DPP8 and DPP9 enzymes, other experimental materials were the same as those in experiment example (I).
+3. Experimental methods: being the same as the experiment example (I)
+4. Experimental results
+<table>
+<header>
+Compoun d & DPP4 IC50(nM) & DPP8 IC50(nM) & DPP9 IC50(nM)
+</header>
+TSL-0319 & 0.08 & >100000 & >100000
+Selectivity>125000 0 & Selectivity>125000 0
+Linagliptin & 0.21 & 40000 & 11000
+Selectivity>190000 & Selectivity>50000
+Sitagliptin & 17 & Selectivity>2600 & Selectivity>5550
+Saxaglipti n & 26 & Selectivity>390 & Selectivity>77
+Vildagliptin & 2.3 & Selectivity>270 & Selectivity>32
+</table>
+According to the above results, the compound TSL-0319 of the present invention only shows inhibition effect to DPP4, and shows no inhibition effect to DPP8 and DPP9. Simultaneously the selectivity of compound TSL-0319 was significantly superior to the selectivity of the marketed products of the same kind.
+Experiment example II, experiments in vivo
+1. Experimental drugs: compound I-3 (referred to as TSL-0319 for short) and linagliptin2. Experimental method: normal mice, obese mice and diabetic mice were used for studying glucose tolerance tests
+Experimental process of OGTT(Oral Glucose Tolerance Test): fasting for 6 hours before the test begins, 60 min after drug administration, glucose was administrated by gavage (drug concentration 0.6 mg/ml, administration volume 5 ml/kg) (2 g/kg glucose was administrated to diabetic mice; 2 g/kg glucose was administrated to obese mice; and 5 g/kg glucose was administrated to normal mice), blood glucose values at 0 min, 15 min, 30 min, 45 min, 60 min and 120 min are respectively determined after glucose administration,
+3. Experimental results:
+The glucose tolerance test of normal mice was shown in table 3, figures 1-2, compound I-3 of the present invention (called TSL-0319 for short) has good hypoglycemic effect, especially better than that of linagliptin.
+The glucose tolerance test of obese mice was shown in table 4, figures 3-4, compound I-3 of the present invention (called TSL-0319 for short) had good hypoglycemic effect, especially better than that of linagliptin.
+The glucose tolerance test of obese mice was shown in table 5,figures 5-6, compound I-3 of the present invention (called TSL-0319 for short) had good hypoglycemic effect, especially better than that of linagliptin.
+<table>
+<header>
+Groups & Blood glucose concentrations (mmol/L)
+</header>
+<header>
+ & 0 min & 15 min & 30 min & 45 min & 60 min & 120 min & AUC0-120 min
+</header>
+Blank & 10.4 & 20.8 & 16.4 & 15.7 & 13.8 & 8.5 & 1646
+Linagliptin compared with Blank & 8.64* & 14.7*** & 10.5*** & 9.5*** & 10.14*** & 7.72 & 1198***
+P<0.05 & P<0.00 1 & P<0.00 1 & P<0.001 & P<0.00 1 & P>0.0 5 & P<0.001
+TSL-0319 compared with Blank & 8.88* & 14.6*** & 11.0*** & 9.23*** & 9.82*** & 7.58 & 1185***
+P<0.05 & P<0.00 1 & P<0.00 1 & P<0.001 & P<0.00 1 & P>0.0 5 & P<0.001
+*: P < 0.05 vs blank group; **: P < 0.01 vs blank group; ***: P < 0.001 vs blank group
+</table>
+<table>
+<header>
+Groups & Blood glucose concentrations(mmol/L)
+</header>
+<header>
+ & 0 min & 15 min & 30 min & 45 min & 60 min & 120 min & AUC0-120 min
+</header>
+Model & 14.14 & 36.33 & 28.35 & 25.03 & 22.33 & 16.15 & 2773
+Linagliptin compared with Model & 10.95 & 31.73 & 27.98 & 20.50 & 16.00* & 11.50 & 2230
+P>0.05 & P>0.05 & P>0.05 & P>0.05 & P<0.05 & P>0.05 & P>0.05
+TSL-0319 compared with Model & 10.90 & 32.88 & 25.93 & 17.03** & 13.88** & 9.53* & 2025*
+P>0.05 & P>0.05 & P>0.05 & P<0.01 & P<0.01 & P<0.05 & P<0.05
+*: P < 0.05 vs model group; **:P < 0.01 vs model group
+</table>
+<table>
+<header>
+Groups & Blood glucose concentrations(mmol/L)
+</header>
+<header>
+ & 0 min & 15 min & 30 min & 45 min & 60 min & 120 min & AUC0-120 min
+</header>
+Model: & 17.03 & 36.68 & 29.85 & 27.00 & 24.80 & 16.50 & 2956
+Linagliptin & 12.09 & 29.98* & 20.15*** & 16.60*** & 15.83** & 10.05* & 1987**
+compared with Model & P>0.05 & P<0.05 & P<0.00 1 & P<0.00 1 & P<0.01 & P<0.05 & P<0.01
+TSL-0319 compared with Model & 11.84 & 32.23 & 22.80* & 15.7*** & 13.80*** & 8.75** & 1930**
+P>0.05 & P>0.05 & P<0.05 & P<0.00 1 & P<0.00 1 & P<0.01 & P<0.01
+*: P < 0.05 vs model group; **:P < 0.01 vs model group; ***:P < 0.001 vs model group
+</table>
+4. Conclusions:
+In the glucose metabolism tests in vivo, normal mice, obese mice and diabetic mice are used for study, the compound I-3 of the present invention(called TSL-0319 for short) has hypoglycemic effects on the three kinds of mice and hypoglycemic effects are better than that of the linagliptin.
+Experiment example III, hERG toxicity research
+1. Test method: testing the effect of the compounds on hERG sodium current in stable CHO cell lines transfected hERG sodium channels by manual patch clamp method, and then calculating IC50 value of the compounds to hERG.Conventional Patch-Clamp was a technology that has been disclosed, was the most important technical means for studying ion channels and was universally recognized as the "gold standard" for ion channel researches and was the most accurate method for measuring ion channel. It was applicable to study the action mechanism of the effect of compound and the ion channel, and also could be used for toxicity evaluation and structure optimization of candidate drugs in the process of new drugs.In cardiomyocytes, human Ether-a-go-go Related Gene (hERG) coded potassium channel mediates a delayed rectification potassium current (IKr), IKr inhibition was the most important mechanism leading to QT interval prolongation by drugs. hERG could be inhibited by compounds of diversified structures, due to its specific molecular structure. Currently, testing effects of compounds on hERG potassium channel was a critical step in pre-clinical evaluation of cardiac safety of compounds, and was indispensable material for new drugs registration required by FDA.The effects of compounds on hERG could be tested and relevant IC50 could be determined by conventional patch-clamp, using CHO cell lines that had been stably transfected hERG potassium channel.2. Experimental results: IC50 of TSL-0319 to hERG was 79.80 µM in the hERG experiments. (IC50 of linagliptin to hERG was not reported, it was only mentioned that the inhibition rate to hERG was 3% under 1 µM concentration; and the inhibition rate of TSL-0319 to hERG was 0% under 1 µM concentration.)
+Calculated according to requirement of 20 times more than Cmax, when the dosage of TSL-0319 is 5 mg/kg, Cmax in mice was 200-500 nM, IC50 to hERG should be more than 20 µM, therefore, TSL-0319 was safe in hERG toxicity, and was significantly better than linagliptin.
+Experiment example IV, drug-drug interaction research(DDI)
+1. Test method: human liver microsomes were used to carry out inhibition activity test of the compounds to CYP enzyme.With the system for incubating human liver microsomes in vitro, the content variation of phenacetin, diclofenac, S-mephenytoin, dextromethorphan and midazolam, which were substrates of human liver microsomes CYP1A2, CYP2C9, CYP2C19, CYP2D6, CYP3A4, were measured simultaneously by cocktail probe drug method (which is a disclosed technology), the effects of TSL-0319 under different concentrations on activity of human liver microsomes CYP1A2, CYP2C9, CYP2C19, CYP2D6, CYP3A4 subtypes are evaluated and relavant IC50 was measured.2.Experimental results:
+<table>
+TSL-0319 concentration µM & 0 & 0.0 5 & 0.1 5 & 0.5 & 1.5 & 5 & 15 & 50
+Inhibition rate (%) to CYP1A2 & 0 & 0 & 0 & 2.2 & 4.2 & 6.6 & 20. 8 & 41. 8
+Inhibition rate (%) to CYP2C9 & 0 & 0 & 0 & 3.2 & 5.7 & 10. 5 & 12. 1 & 13. 9
+Inhibition rate (%) to CYP2C19 & 0 & 0 &  &  & 3.3 & 8.2 & 14 & 2.9
+Inhibition rate (%) to CYP2D6 & 0 & 0 & 0 & 0 & 0 & 0 & 3 & 14. 6
+Inhibition rate (%) to CYP3A4 & 0 & 0 & 0 & 4 & 4.4 & 8.7 & 17. 9 & 44. 6
+</table>
+Conclusions: IC50 of TSL-0319 to five metabolizing enzymes CYP1A2, CYP2C9, CYP2C19, CYP2D6 and CYP3A4 were all greater than 50 µM, therefore, the use of TSL-0319 would not affect the metabolism of other drugs, and it could be used by being combined with other drugs.
+Experiment example V, pharmacokinetics experiments of compound TSL-0319 in mice
+1. Dosage regimen:
+Six healthy CD-1 mice of 7-10 weeks old were randomly separated into two groups. 2 mg/kg and 5 mg/kg TSL-0319 were administrated respectively by intravenous injection and by gavage (2 mg/ml for intravenous injection, made into transparent solution with solution of DMSO/PEG400/H2O=20/60/20; 5 mg/ml for gavage; made into transparent solution with solution of PEG400/Tween80/H2O=40/10/50); fasting for 12 hours but free drinking before administration; blood was taken from the great saphenous vein or submaxillary veins by time points (time points for taking blood of intravenous injection: 0h, 0.0833h, 0.250h, 0.500h, 1.00h, 2.00h, 4.00h, 8.00h, 12.00h and 24.00h; time points for taking blood of gavage: 0h, 0.250h, 0.500h, 1.00h, 2.00h, 4.00h, 8.00h, 12.00h and 24.00h)before and after administration, lower limit of quantitation, LLOQ was set at 3ng/ml.
+2. Experimental results: see table 7
+<table>
+<header>
+Time points for taking blood of intravenous injection (h) & Plasma drug concentration (ng/ml) &  & Time points for taking blood of gavage (h) & Plasma drug concentration (ng/ml)
+</header>
+0.00833 & 759±133 &  &  & 
+0.250 & 529±93.4 &  & 0.250 & 48.0±27.9
+0.500 & 344±32.7 &  & 0.500 & 123±30.2
+1.00 & 161±21.2 &  & 1.00 & 183±19.1
+2.00 & 47.5±13.6 &  & 2.00 & 211±83.0
+4.00 & 11.9±2.24 &  & 4.00 & 145±40.9
+8.00 & BQL &  & 8.00 & 8.03±3.71
+12.00 & BQL &  & 12.00 & BQL
+24.00 & BQL &  & 24.00 & BQL
+Average pharmacokinetics parameters of intravenous injection &  &  & Average pharmacokinetics parameters of gavage & 
+T1/2(h) & 1.09±0.623 &  & Cmax(ng/ml) & 223±68.1
+Vdss(L/kg) & 3.41±0.745 &  & Tmax(h) & 1.33±0.577
+CL(ml/min/kg) & 59.1±5.63 &  & T1/2(h) & 1.37±0.317
+AUC0-last(ng.h/ml) & 555±54.7 &  & AUC0-last(ng.h/ml) & 844±181
+AUC0-inf(ng.h/ml) & 567±56.1 &  & AUC0-inf(ng.h/ml) & 858±185
+MRT0-last(h) & 0.836±0.0919 &  & MRT0-last(h) & 2.87±0.0589
+MRT0-inf(h) & 0.953±0.123 &  & MRT0-inf(h) & 3.00±0.111
+ &  &  & Bioavailability(%) & 60.5
+</table>
+3. Conclusions:
+CD-1 mice were used to do pharmacokinetics experiments of TSL-0319, its T1/2 was greatly different from disclosed data of linagliptin while being compared, due to the setting of blood taking points and LLOQ, but the bioavailability of 60.5% was much higher than that of linagliptin under the same condition(CD-1 mice were used to do pharmacokinetics experiments of linagliptin, 5mg/kg, oral administration, and the bioavailability was 18.4%).
+The structures of the compounds I-1∼I-2, 1-4 in the present invention were similar to that of I-3, therefore compounds I-1∼I-2, 1-4 all had the same pharmacodynamic effects with compound I-3.

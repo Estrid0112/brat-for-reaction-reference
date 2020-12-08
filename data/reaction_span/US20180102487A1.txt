@@ -1,0 +1,1703 @@
+FIELD
+The present invention relates to compounds for use as emitters, and devices, such as organic light emitting diodes, including the same.
+BACKGROUND
+Opto-electronic devices that make use of organic materials are becoming increasingly desirable for a number of reasons. Many of the materials used to make such devices are relatively inexpensive, so organic opto-electronic devices have the potential for cost advantages over inorganic devices. In addition, the inherent properties of organic materials, such as their flexibility, may make them well suited for particular applications such as fabrication on a flexible substrate. Examples of organic opto-electronic devices include organic light emitting diodes/devices (OLEDs), organic phototransistors, organic photovoltaic cells, and organic photodetectors. For OLEDs, the organic materials may have performance advantages over conventional materials. For example, the wavelength at which an organic emissive layer emits light may generally be readily tuned with appropriate dopants.
+OLEDs make use of thin organic films that emit light when voltage is applied across the device. OLEDs are becoming an increasingly interesting technology for use in applications such as flat panel displays, illumination, and backlighting. Several OLED materials and configurations are described in U.S. Pat. Nos. 5,844,363, 6,303,238, and 5,707,745, which are incorporated herein by reference in their entirety.
+One application for phosphorescent emissive molecules is a full color display. Industry standards for such a display call for pixels adapted to emit particular colors, referred to as “saturated” colors. In particular, these standards call for saturated red, green, and blue pixels. Alternatively the OLED can be designed to emit white light. In conventional liquid crystal displays emission from a white backlight is filtered using absorption filters to produce red, green and blue emission. The same technique can also be used with OLEDs. The white OLED can be either a single EML device or a stack structure. Color may be measured using CIE coordinates, which are well known to the art.
+One example of a green emissive molecule is tris(2-phenylpyridine) iridium, denoted Ir(ppy)3, which has the following structure:
+In this, and later figures herein, we depict the dative bond from nitrogen to metal (here, Ir) as a straight line.
+As used herein, the term “organic” includes polymeric materials as well as small molecule organic materials that may be used to fabricate organic opto-electronic devices. “Small molecule” refers to any organic material that is not a polymer, and “small molecules” may actually be quite large Small molecules may include repeat units in some circumstances. For example, using a long chain alkyl group as a substituent does not remove a molecule from the “small molecule” class. Small molecules may also be incorporated into polymers, for example as a pendent group on a polymer backbone or as a part of the backbone Small molecules may also serve as the core moiety of a dendrimer, which consists of a series of chemical shells built on the core moiety. The core moiety of a dendrimer may be a fluorescent or phosphorescent small molecule emitter. A dendrimer may be a “small molecule,” and it is believed that all dendrimers currently used in the field of OLEDs are small molecules.
+As used herein, “top” means furthest away from the substrate, while “bottom” means closest to the substrate. Where a first layer is described as “disposed over” a second layer, the first layer is disposed further away from substrate. There may be other layers between the first and second layer, unless it is specified that the first layer is “in contact with” the second layer. For example, a cathode may be described as “disposed over” an anode, even though there are various organic layers in between.
+As used herein, “solution processable” means capable of being dissolved, dispersed, or transported in and/or deposited from a liquid medium, either in solution or suspension form.
+A ligand may be referred to as “photoactive” when it is believed that the ligand directly contributes to the photoactive properties of an emissive material. A ligand may be referred to as “ancillary” when it is believed that the ligand does not contribute to the photoactive properties of an emissive material, although an ancillary ligand may alter the properties of a photoactive ligand.
+As used herein, and as would be generally understood by one skilled in the art, a first “Highest Occupied Molecular Orbital” (HOMO) or “Lowest Unoccupied Molecular Orbital” (LUMO) energy level is “greater than” or “higher than” a second HOMO or LUMO energy level if the first energy level is closer to the vacuum energy level. Since ionization potentials (IP) are measured as a negative energy relative to a vacuum level, a higher HOMO energy level corresponds to an IP having a smaller absolute value (an IP that is less negative) Similarly, a higher LUMO energy level corresponds to an electron affinity (EA) having a smaller absolute value (an EA that is less negative). On a conventional energy level diagram, with the vacuum level at the top, the LUMO energy level of a material is higher than the HOMO energy level of the same material. A “higher” HOMO or LUMO energy level appears closer to the top of such a diagram than a “lower” HOMO or LUMO energy level.
+As used herein, and as would be generally understood by one skilled in the art, a first work function is “greater than” or “higher than” a second work function if the first work function has a higher absolute value. Because work functions are generally measured as negative numbers relative to vacuum level, this means that a “higher” work function is more negative. On a conventional energy level diagram, with the vacuum level at the top, a “higher” work function is illustrated as further away from the vacuum level in the downward direction. Thus, the definitions of HOMO and LUMO energy levels follow a different convention than work functions.
+More details on OLEDs, and the definitions described above, can be found in U.S. Pat. No. 7,279,704, which is incorporated herein by reference in its entirety.
+SUMMARY
+According to one embodiment, a compound having the formula Ir(LA)n(LB)3-n, having the structure
+of Formula I is provided. In the structure of Formula I:
+each of A1, A2, A3, A4, A5, A6, A7, and A8 is independently carbon or nitrogen;
+at least one of A1, A2, A3, A4, A5, A6, A7, and A8 is nitrogen;
+ring B is bonded to ring A through a C-C bond;
+the iridium is bonded to ring A through an Ir-C bond;
+X is O, S, or Se;
+R1, R2, R3, R4, and R5 independently represent from mono-substituted to the maximum possibly substitutions, or no substitution;
+any adjacent substitutions in R1, R2, R3, R4, and R5 are optionally linked together to form a ring;
+R1, R2, R3, R4, and R5 are independently selected from the group consisting of hydrogen, deuterium, halide, alkyl, cycloalkyl, heteroalkyl, arylalkyl, alkoxy, aryloxy, amino, silyl, alkenyl, cycloalkenyl, heteroalkenyl, alkynyl, aryl, heteroaryl, acyl, carbonyl, carboxylic acids, ester, nitrile, isonitrile, sulfanyl, sulfinyl, sulfonyl, phosphino, and combinations thereof;
+n is an integer from 1 to 3; and
+at least one R2 adjacent to ring C is not hydrogen.
+According to another embodiment, an organic light emitting diode/device (OLED) is also provided. The OLED can include an anode, a cathode, and an organic layer, disposed between the anode and the cathode. The organic layer can include a compound of Formula Ir(LA)n(LB)3-n. According to yet another embodiment, the organic light emitting device is incorporated into one or more device selected from a consumer product, an electronic component module, and/or a lighting panel.
+According to yet another embodiment, a formulation containing a compound of Formula Ir(LA)n(LB)3-n is provided.
+DETAILED DESCRIPTION
+Generally, an OLED comprises at least one organic layer disposed between and electrically connected to an anode and a cathode. When a current is applied, the anode injects holes and the cathode injects electrons into the organic layer(s). The injected holes and electrons each migrate toward the oppositely charged electrode. When an electron and hole localize on the same molecule, an “exciton,” which is a localized electron-hole pair having an excited energy state, is formed. Light is emitted when the exciton relaxes via a photoemissive mechanism. In some cases, the exciton may be localized on an excimer or an exciplex. Non-radiative mechanisms, such as thermal relaxation, may also occur, but are generally considered undesirable.
+The initial OLEDs used emissive molecules that emitted light from their singlet states (“fluorescence”) as disclosed, for example, in U.S. Pat. No. 4,769,292, which is incorporated by reference in its entirety. Fluorescent emission generally occurs in a time frame of less than 10 nanoseconds.
+More recently, OLEDs having emissive materials that emit light from triplet states (“phosphorescence”) have been demonstrated. Baldo et al., “Highly Efficient Phosphorescent Emission from Organic Electroluminescent Devices,” Nature, vol. 395, 151-154, 1998; (“Baldo-I”) and Baldo et al., “Very high-efficiency green organic light-emitting devices based on electrophosphorescence,” Appl. Phys. Lett., vol. 75, No. 3, 4-6 (1999) (“Baldo-II”), are incorporated by reference in their entireties. Phosphorescence is described in more detail in U.S. Pat. No. 7,279,704 at cols. 5-6, which are incorporated by reference.
+FIG. 1 shows an organic light emitting device 100. The figures are not necessarily drawn to scale. Device 100 may include a substrate 110, an anode 115, a hole injection layer 120, a hole transport layer 125, an electron blocking layer 130, an emissive layer 135, a hole blocking layer 140, an electron transport layer 145, an electron injection layer 150, a protective layer 155, a cathode 160, and a barrier layer 170. Cathode 160 is a compound cathode having a first conductive layer 162 and a second conductive layer 164. Device 100 may be fabricated by depositing the layers described, in order. The properties and functions of these various layers, as well as example materials, are described in more detail in U.S. Pat. No. 7,279,704 at cols. 6-10, which are incorporated by reference.
+More examples for each of these layers are available. For example, a flexible and transparent substrate-anode combination is disclosed in U.S. Pat. No. 5,844,363, which is incorporated by reference in its entirety. An example of a p-doped hole transport layer is m-MTDATA doped with F4-TCNQ at a molar ratio of 50:1, as disclosed in U.S. Patent Application Publication No. 2003/0230980, which is incorporated by reference in its entirety. Examples of emissive and host materials are disclosed in U.S. Pat. No. 6,303,238 to Thompson et al., which is incorporated by reference in its entirety. An example of an n-doped electron transport layer is BPhen doped with Li at a molar ratio of 1:1, as disclosed in U.S. Patent Application Publication No. 2003/0230980, which is incorporated by reference in its entirety. U.S. Pat. Nos. 5,703,436 and 5,707,745, which are incorporated by reference in their entireties, disclose examples of cathodes including compound cathodes having a thin layer of metal such as Mg:Ag with an overlying transparent, electrically-conductive, sputter-deposited ITO layer. The theory and use of blocking layers is described in more detail in U.S. Pat. No. 6,097,147 and U.S. Patent Application Publication No. 2003/0230980, which are incorporated by reference in their entireties. Examples of injection layers are provided in U.S. Patent Application Publication No. 2004/0174116, which is incorporated by reference in its entirety. A description of protective layers may be found in U.S. Patent Application Publication No. 2004/0174116, which is incorporated by reference in its entirety.
+FIG. 2 shows an inverted OLED 200. The device includes a substrate 210, a cathode 215, an emissive layer 220, a hole transport layer 225, and an anode 230. Device 200 may be fabricated by depositing the layers described, in order. Because the most common OLED configuration has a cathode disposed over the anode, and device 200 has cathode 215 disposed under anode 230, device 200 may be referred to as an “inverted” OLED. Materials similar to those described with respect to device 100 may be used in the corresponding layers of device 200. FIG. 2 provides one example of how some layers may be omitted from the structure of device 100.
+The simple layered structure illustrated in FIGS. 1 and 2 is provided by way of non-limiting example, and it is understood that embodiments of the invention may be used in connection with a wide variety of other structures. The specific materials and structures described are exemplary in nature, and other materials and structures may be used. Functional OLEDs may be achieved by combining the various layers described in different ways, or layers may be omitted entirely, based on design, performance, and cost factors. Other layers not specifically described may also be included. Materials other than those specifically described may be used. Although many of the examples provided herein describe various layers as comprising a single material, it is understood that combinations of materials, such as a mixture of host and dopant, or more generally a mixture, may be used. Also, the layers may have various sublayers. The names given to the various layers herein are not intended to be strictly limiting. For example, in device 200, hole transport layer 225 transports holes and injects holes into emissive layer 220, and may be described as a hole transport layer or a hole injection layer. In one embodiment, an OLED may be described as having an “organic layer” disposed between a cathode and an anode. This organic layer may comprise a single layer, or may further comprise multiple layers of different organic materials as described, for example, with respect to FIGS. 1 and 2.
+Structures and materials not specifically described may also be used, such as OLEDs comprised of polymeric materials (PLEDs) such as disclosed in U.S. Pat. No. 5,247,190 to Friend et al., which is incorporated by reference in its entirety. By way of further example, OLEDs having a single organic layer may be used. OLEDs may be stacked, for example as described in U.S. Pat. No. 5,707,745 to Forrest et al, which is incorporated by reference in its entirety. The OLED structure may deviate from the simple layered structure illustrated in FIGS. 1 and 2. For example, the substrate may include an angled reflective surface to improve out-coupling, such as a mesa structure as described in U.S. Pat. No. 6,091,195 to Forrest et al., and/or a pit structure as described in U.S. Pat. No. 5,834,893 to Bulovic et al., which are incorporated by reference in their entireties.
+Unless otherwise specified, any of the layers of the various embodiments may be deposited by any suitable method. For the organic layers, preferred methods include thermal evaporation, ink-jet, such as described in U.S. Pat. Nos. 6,013,982 and 6,087,196, which are incorporated by reference in their entireties, organic vapor phase deposition (OVPD), such as described in U.S. Pat. No. 6,337,102 to Forrest et al., which is incorporated by reference in its entirety, and deposition by organic vapor jet printing (OVJP), such as described in U.S. Pat. No. 7,431,968, which is incorporated by reference in its entirety. Other suitable deposition methods include spin coating and other solution based processes. Solution based processes are preferably carried out in nitrogen or an inert atmosphere. For the other layers, preferred methods include thermal evaporation. Preferred patterning methods include deposition through a mask, cold welding such as described in U.S. Pat. Nos. 6,294,398 and 6,468,819, which are incorporated by reference in their entireties, and patterning associated with some of the deposition methods such as ink jet and OVJD. Other methods may also be used. The materials to be deposited may be modified to make them compatible with a particular deposition method. For example, substituents such as alkyl and aryl groups, branched or unbranched, and preferably containing at least 3 carbons, may be used in small molecules to enhance their ability to undergo solution processing. Substituents having 20 carbons or more may be used, and 3-20 carbons is a preferred range. Materials with asymmetric structures may have better solution processability than those having symmetric structures, because asymmetric materials may have a lower tendency to recrystallize. Dendrimer substituents may be used to enhance the ability of small molecules to undergo solution processing.
+Devices fabricated in accordance with embodiments of the present invention may further optionally comprise a barrier layer. One purpose of the barrier layer is to protect the electrodes and organic layers from damaging exposure to harmful species in the environment including moisture, vapor and/or gases, etc. The barrier layer may be deposited over, under or next to a substrate, an electrode, or over any other parts of a device including an edge. The barrier layer may comprise a single layer, or multiple layers. The barrier layer may be formed by various known chemical vapor deposition techniques and may include compositions having a single phase as well as compositions having multiple phases. Any suitable material or combination of materials may be used for the barrier layer. The barrier layer may incorporate an inorganic or an organic compound or both. The preferred barrier layer comprises a mixture of a polymeric material and a non-polymeric material as described in U.S. Pat. No. 7,968,146, PCT Pat. Application Nos. PCT/US2007/023098 and PCT/US2009/042829, which are herein incorporated by reference in their entireties. To be considered a “mixture”, the aforesaid polymeric and non-polymeric materials comprising the barrier layer should be deposited under the same reaction conditions and/or at the same time. The weight ratio of polymeric to non-polymeric material may be in the range of 95:5 to 5:95. The polymeric material and the non-polymeric material may be created from the same precursor material. In one example, the mixture of a polymeric material and a non-polymeric material consists essentially of polymeric silicon and inorganic silicon.
+Devices fabricated in accordance with embodiments of the invention can be incorporated into a wide variety of electronic component modules (or units) that can be incorporated into a variety of electronic products or intermediate components. Examples of such electronic products or intermediate components include display screens, lighting devices such as discrete light source devices or lighting panels, etc. that can be utilized by the end-user product manufacturers. Such electronic component modules can optionally include the driving electronics and/or power source(s). Devices fabricated in accordance with embodiments of the invention can be incorporated into a wide variety of consumer products that have one or more of the electronic component modules (or units) incorporated therein. Such consumer products would include any kind of products that include one or more light source(s) and/or one or more of some type of visual displays. Some examples of such consumer products include flat panel displays, computer monitors, medical monitors, televisions, billboards, lights for interior or exterior illumination and/or signaling, heads-up displays, fully or partially transparent displays, flexible displays, laser printers, telephones, mobile phones, tablets, phablets, personal digital assistants (PDAs), wearable devices, laptop computers, digital cameras, camcorders, viewfinders, micro-displays (displays that are less than 2 inches diagonal), 3-D displays, virtual reality or augmented reality displays, vehicles, video walls comprising multiple displays tiled together, theater or stadium screen, and a sign. Various control mechanisms may be used to control devices fabricated in accordance with the present invention, including passive matrix and active matrix. Many of the devices are intended for use in a temperature range comfortable to humans, such as 18 degrees C. to 30 degrees C., and more preferably at room temperature (20-25 degrees C.), but could be used outside this temperature range, for example, from −40 degree C. to +80 degree C.
+The materials and structures described herein may have applications in devices other than OLEDs. For example, other optoelectronic devices such as organic solar cells and organic photodetectors may employ the materials and structures. More generally, organic devices, such as organic transistors, may employ the materials and structures.
+The term “halo,” “halogen,” or “halide” as used herein includes fluorine, chlorine, bromine, and iodine.
+The term “alkyl” as used herein contemplates both straight and branched chain alkyl radicals. Preferred alkyl groups are those containing from one to fifteen carbon atoms and includes methyl, ethyl, propyl, 1-methylethyl, butyl, 1-methylpropyl, 2-methylpropyl, pentyl, 1-methylbutyl, 2-methylbutyl, 3-methylbutyl, 1,1-dimethylpropyl, 1,2-dimethylpropyl, 2,2-dimethylpropyl, and the like. Additionally, the alkyl group may be optionally substituted.
+The term “cycloalkyl” as used herein contemplates cyclic alkyl radicals. Preferred cycloalkyl groups are those containing 3 to 10 ring carbon atoms and includes cyclopropyl, cyclopentyl, cyclohexyl, adamantyl, and the like. Additionally, the cycloalkyl group may be optionally substituted.
+The term “alkenyl” as used herein contemplates both straight and branched chain alkene radicals. Preferred alkenyl groups are those containing two to fifteen carbon atoms. Additionally, the alkenyl group may be optionally substituted.
+The term “alkynyl” as used herein contemplates both straight and branched chain alkyne radicals. Preferred alkynyl groups are those containing two to fifteen carbon atoms. Additionally, the alkynyl group may be optionally substituted.
+The terms “aralkyl” or “arylalkyl” as used herein are used interchangeably and contemplate an alkyl group that has as a substituent an aromatic group. Additionally, the aralkyl group may be optionally substituted.
+The term “heterocyclic group” as used herein contemplates aromatic and non-aromatic cyclic radicals. Hetero-aromatic cyclic radicals also means heteroaryl. Preferred hetero-non-aromatic cyclic groups are those containing 3 to 7 ring atoms which includes at least one hetero atom, and includes cyclic amines such as morpholino, piperdino, pyrrolidino, and the like, and cyclic ethers, such as tetrahydrofuran, tetrahydropyran, and the like. Additionally, the heterocyclic group may be optionally substituted.
+The term “aryl” or “aromatic group” as used herein contemplates single-ring groups and polycyclic ring systems. The polycyclic rings may have two or more rings in which two carbons are common to two adjoining rings (the rings are “fused”) wherein at least one of the rings is aromatic, e.g., the other rings can be cycloalkyls, cycloalkenyls, aryl, heterocycles, and/or heteroaryls. Preferred aryl groups are those containing six to thirty carbon atoms, preferably six to twenty carbon atoms, more preferably six to twelve carbon atoms. Especially preferred is an aryl group having six carbons, ten carbons or twelve carbons. Suitable aryl groups include phenyl, biphenyl, triphenyl, triphenylene, tetraphenylene, naphthalene, anthracene, phenalene, phenanthrene, fluorene, pyrene, chrysene, perylene, and azulene, preferably phenyl, biphenyl, triphenyl, triphenylene, fluorene, and naphthalene. Additionally, the aryl group may be optionally substituted.
+The term “heteroaryl” as used herein contemplates single-ring hetero-aromatic groups that may include from one to five heteroatoms. The term heteroaryl also includes polycyclic hetero-aromatic systems having two or more rings in which two atoms are common to two adjoining rings (the rings are “fused”) wherein at least one of the rings is a heteroaryl, e.g., the other rings can be cycloalkyls, cycloalkenyls, aryl, heterocycles, and/or heteroaryls. Preferred heteroaryl groups are those containing three to thirty carbon atoms, preferably three to twenty carbon atoms, more preferably three to twelve carbon atoms. Suitable heteroaryl groups include dibenzothiophene, dibenzofuran, dibenzoselenophene, furan, thiophene, benzofuran, benzothiophene, benzoselenophene, carbazole, indolocarbazole, pyridylindole, pyrrolodipyridine, pyrazole, imidazole, triazole, oxazole, thiazole, oxadiazole, oxatriazole, dioxazole, thiadiazole, pyridine, pyridazine, pyrimidine, pyrazine, triazine, oxazine, oxathiazine, oxadiazine, indole, benzimidazole, indazole, indoxazine, benzoxazole, benzisoxazole, benzothiazole, quinoline, isoquinoline, cinnoline, quinazoline, quinoxaline, naphthyridine, phthalazine, pteridine, xanthene, acridine, phenazine, phenothiazine, phenoxazine, benzofuropyridine, furodipyridine, benzothienopyridine, thienodipyridine, benzoselenophenopyridine, and selenophenodipyridine, preferably dibenzothiophene, dibenzofuran, dibenzoselenophene, carbazole, indolocarbazole, imidazole, pyridine, triazine, benzimidazole, 1,2-azaborine, 1,3-azaborine, 1,4-azaborine, borazine, and aza-analogs thereof. Additionally, the heteroaryl group may be optionally substituted.
+The alkyl, cycloalkyl, alkenyl, alkynyl, aralkyl, heterocyclic group, aryl, and heteroaryl may be unsubstituted or may be substituted with one or more substituents selected from the group consisting of deuterium, halogen, alkyl, cycloalkyl, heteroalkyl, arylalkyl, alkoxy, aryloxy, amino, cyclic amino, silyl, alkenyl, cycloalkenyl, heteroalkenyl, alkynyl, aryl, heteroaryl, acyl, carbonyl, carboxylic acid, ether, ester, nitrile, isonitrile, sulfanyl, sulfinyl, sulfonyl, phosphino, and combinations thereof.
+As used herein, “substituted” indicates that a substituent other than H is bonded to the relevant position, such as carbon. Thus, for example, where R1 is mono-substituted, then one R1 must be other than H. Similarly, where R1 is di-substituted, then two of R1 must be other than H. Similarly, where R1 is unsubstituted, R1 is hydrogen for all available positions.
+The “aza” designation in the fragments described herein, i.e. aza-dibenzofuran, aza-dibenzothiophene, etc. means that one or more of the C-H groups in the respective fragment can be replaced by a nitrogen atom, for example, and without any limitation, azatriphenylene encompasses both dibenzo[f,h]quinoxaline and dibenzo[f,h]quinoline. One of ordinary skill in the art can readily envision other nitrogen analogs of the aza-derivatives described above, and all such analogs are intended to be encompassed by the terms as set forth herein.
+It is to be understood that when a molecular fragment is described as being a substituent or otherwise attached to another moiety, its name may be written as if it were a fragment (e.g. phenyl, phenylene, naphthyl, dibenzofuryl) or as if it were the whole molecule (e.g. benzene, naphthalene, dibenzofuran). As used herein, these different ways of designating a substituent or attached fragment are considered to be equivalent.
+According to one embodiment, a compound having the formula Ir(LA)n(LB)3-n, having the structure
+of Formula I is described. In the structure of Formula I:
+each of A1, A2, A3, A4, A5, A6, A7, and A8 is independently carbon or nitrogen;
+at least one of A1, A2, A3, A4, A5, A6, A7, and A8 is nitrogen;
+ring B is bonded to ring A through a C-C bond;
+the iridium is bonded to ring A through an Ir-C bond;
+X is O, S, or Se;
+R2, R3, R4, and R5 independently represent from mono-substituted to the maximum possibly substitutions, or no substitution;
+any adjacent substitutions in R1, R2, R3, R4, and R5 are optionally linked together to form a ring;
+R1, R2, R3, R4, and R5 are independently selected from the group consisting of hydrogen, deuterium, halide, alkyl, cycloalkyl, heteroalkyl, arylalkyl, alkoxy, aryloxy, amino, silyl, alkenyl, cycloalkenyl, heteroalkenyl, alkynyl, aryl, heteroaryl, acyl, carbonyl, carboxylic acids, ester, nitrile, isonitrile, sulfanyl, sulfinyl, sulfonyl, phosphino, and combinations thereof;
+n is an integer from 1 to 3; and
+at least one R2 adjacent to ring C is not hydrogen.
+In some embodiments, n is 1.
+In some embodiments, the compound is selected from the group consisting of:
+In some embodiments, only one of A1 to A8 is nitrogen. In some embodiments, A1 to A4 are carbon, and exactly one of A5 to A8 is nitrogen.
+In some embodiments, X is O.
+In some embodiments, R1, R2, R3, R4, and R5 are independently selected from the group consisting of hydrogen, deuterium, alkyl, cycloalkyl, partial fluorinated alkyl, partial fluorinated cycloalkyl, and combinations thereof. In some embodiments, R1, R2, R3, R4, and R5 are independently selected from the group consisting of hydrogen, deuterium, methyl, ethyl, propyl, 1-methylethyl, butyl, 1-methylpropyl, 2-methylpropyl, pentyl, 1-methylbutyl, 2-methylbutyl, 3-methylbutyl, 1,1-dimethylpropyl, 1,2-dimethylpropyl, 2,2-dimethylpropyl, cyclopentyl, and cyclohexyl.
+In some embodiments, the compound is selected from the group consisting of:
+In some such embodiments, the R1 next to N is selected from the group consisting of alkyl, cycloalkyl, partially or fully deuterated variants thereof, partially fluorinated variants thereof, and combinations thereof. In some such embodiments, the R1 next to N is selected from the group consisting of methyl, ethyl, propyl, 1-methylethyl, butyl, 1-methylpropyl, 2-methylpropyl, pentyl, 1-methylbutyl, 2-methylbutyl, 3-methylbutyl, 1,1-dimethylpropyl, 1,2-dimethylpropyl, 2,2-dimethylpropyl, cyclopentyl, cyclohexyl, and partially or fully deuterated variations thereof.
+In some embodiments, LA is selected from the group consisting of LAp,1 to LAp, 634 and LAm,1 to LAm,634, where LAm,i and LAm,i have structures
+where i is an integer from 1 to 634. In such embodiments, LAp,1 to LAp, 634 and LAm,1 to LAm,634, the substituents RA1, RA2, RA3, and RA4 are defined as follows:
+<table>
+<header>
+
+</header>
+<header>
+i & RA1 & RA2 & RA3 & RA4
+</header>
+<header>
+
+</header>
+1. & CH3 & H & H & H
+2. & CH3 & CH3 & H & CH3
+3. & CH3 & H & CH3 & H
+4. & CH3 & H & H & CH3
+5. & CH3 & CH3 & CH3 & H
+6. & CH3 & CH3 & H & CH3
+7. & CH3 & H & CH3 & CH3
+8. & CH3 & CH3 & CH3 & CH3
+9. & CH2CH3 & H & H & H
+10. & CH2CH3 & CH3 & H & CH3
+11. & CH2CH3 & H & CH3 & H
+12. & CH2CH3 & H & H & CH3
+13. & CH2CH3 & CH3 & CH3 & H
+14. & CH2CH3 & CH3 & H & CH3
+15. & CH2CH3 & H & CH3 & CH3
+16. & CH2CH3 & CH3 & CH3 & CH3
+17. & CH3 & CH2CH3 & H & CH3
+18. & CH3 & CH2CH3 & CH3 & H
+19. & CH3 & CH2CH3 & H & CH3
+20. & CH3 & CH2CH3 & CH3 & CH3
+21. & CH3 & H & CH2CH3 & H
+22. & CH3 & CH3 & CH2CH3 & H
+23. & CH3 & H & CH2CH3 & CH3
+24. & CH3 & CH3 & CH2CH3 & CH3
+25. & CH(CH3)2 & H & H & H
+26. & CH(CH3)2 & CH3 & H & CH3
+27. & CH(CH3)2 & H & CH3 & H
+28. & CH(CH3)2 & H & H & CH3
+29. & CH(CH3)2 & CH3 & CH3 & H
+30. & CH(CH3)2 & CH3 & H & CH3
+31. & CH(CH3)2 & H & CH3 & CH3
+32. & CH(CH3)2 & CH3 & CH3 & CH3
+33. & CH3 & CH(CH3)2 & H & CH3
+34. & CH3 & CH(CH3)2 & CH3 & H
+35. & CH3 & CH(CH3)2 & H & CH3
+36. & CH3 & CH(CH3)2 & CH3 & CH3
+37. & CH3 & H & CH(CH3)2 & H
+38. & CH3 & CH3 & CH(CH3)2 & H
+39. & CH3 & H & CH(CH3)2 & CH3
+40. & CH3 & CH3 & CH(CH3)2 & CH3
+41. & CH2CH(CH3)2 & H & H & H
+42. & CH2CH(CH3)2 & CH3 & H & CH3
+43. & CH2CH(CH3)2 & H & CH3 & H
+44. & CH2CH(CH3)2 & H & H & CH3
+45. & CH2CH(CH3)2 & CH3 & CH3 & H
+46. & CH2CH(CH3)2 & CH3 & H & CH3
+47. & CH2CH(CH3)2 & H & CH3 & CH3
+48. & CH2CH(CH3)2 & CH3 & CH3 & CH3
+49. & CH3 & CH2CH(CH3)2 & H & CH3
+50. & CH3 & CH2CH(CH3)2 & CH3 & H
+51. & CH3 & CH2CH(CH3)2 & H & CH3
+52. & CH3 & CH2CH(CH3)2 & CH3 & CH3
+53. & CH3 & H & CH2CH(CH3)2 & H
+54. & CH3 & CH3 & CH2CH(CH3)2 & H
+55. & CH3 & H & CH2CH(CH3)2 & CH3
+56. & CH3 & CH3 & CH2CH(CH3)2 & CH3
+57. & C(CH3)3 & H & H & H
+58. & C(CH3)3 & CH3 & H & CH3
+59. & C(CH3)3 & H & CH3 & H
+60. & C(CH3)3 & H & H & CH3
+61. & C(CH3)3 & CH3 & CH3 & H
+62. & C(CH3)3 & CH3 & H & CH3
+63. & C(CH3)3 & H & CH3 & CH3
+64. & C(CH3)3 & CH3 & CH3 & CH3
+65. & CH3 & C(CH3)3 & H & CH3
+66. & CH3 & C(CH3)3 & CH3 & H
+67. & CH3 & C(CH3)3 & H & CH3
+68. & CH3 & C(CH3)3 & CH3 & CH3
+69. & CH3 & H & C(CH3)3 & H
+70. & CH3 & CH3 & C(CH3)3 & H
+71. & CH3 & H & C(CH3)3 & CH3
+72. & CH3 & CH3 & C(CH3)3 & CH3
+73. & CH2C(CH3)3 & H & H & H
+74. & CH2C(CH3)3 & CH3 & H & CH3
+75. & CH2C(CH3)3 & H & CH3 & H
+76. & CH2C(CH3)3 & H & H & CH3
+77. & CH2C(CH3)3 & CH3 & CH3 & H
+78. & CH2C(CH3)3 & CH3 & H & CH3
+79. & CH2C(CH3)3 & H & CH3 & CH3
+80. & CH2C(CH3)3 & CH3 & CH3 & CH3
+81. & CH3 & CH2C(CH3)3 & H & CH3
+82. & CH3 & CH2C(CH3)3 & CH3 & H
+83. & CH3 & CH2C(CH3)3 & H & CH3
+84. & CH3 & CH2C(CH3)3 & CH3 & CH3
+85. & CH3 & H & CH2C(CH3)3 & H
+86. & CH3 & CH3 & CH2C(CH3)3 & H
+87. & CH3 & H & CH2C(CH3)3 & CH3
+88. & CH3 & CH3 & CH2C(CH3)3 & CH3
+89. & CH2C(CH3)2CF3 & H & H & H
+90. & CH2C(CH3)2CF3 & CH3 & H & CH3
+91. & CH2C(CH3)2CF3 & H & CH3 & H
+92. & CH2C(CH3)2CF3 & H & H & CH3
+93. & CH2C(CH3)2CF3 & CH3 & CH3 & H
+94. & CH2C(CH3)2CF3 & CH3 & H & CH3
+95. & CH2C(CH3)2CF3 & H & CH3 & CH3
+96. & CH2C(CH3)2CF3 & CH3 & CH3 & CH3
+97. & CH3 & CH2C(CH3)2CF3 & H & CH3
+98. & CH3 & CH2C(CH3)2CF3 & CH3 & H
+99. & CH3 & CH2C(CH3)2CF3 & H & CH3
+100. & CH3 & CH2C(CH3)2CF3 & CH3 & CH3
+101. & CH3 & H & CH2C(CH3)2CF3 & H
+102. & CH3 & CH3 & CH2C(CH3)2CF3 & H
+103. & CH3 & H & CH2C(CH3)2CF3 & CH3
+104. & CH3 & CH3 & CH2C(CH3)2CF3 & CH3
+105. & CH2CH2CF3 & H & H & H
+106. & CH2CH2CF3 & CH3 & H & CH3
+107. & CH2CH2CF3 & H & CH3 & H
+108. & CH2CH2CF3 & H & H & CH3
+109. & CH2CH2CF3 & CH3 & CH3 & H
+110. & CH2CH2CF3 & CH3 & H & CH3
+111. & CH2CH2CF3 & H & CH3 & CH3
+112. & CH2CH2CF3 & CH3 & CH3 & CH3
+113. & CH3 & CH2CH2CF3 & H & CH3
+114. & CH3 & CH2CH2CF3 & CH3 & H
+115. & CH3 & CH2CH2CF3 & H & CH3
+116. & CH3 & CH2CH2CF3 & CH3 & CH3
+117. & CH3 & H & CH2CH2CF3 & H
+118. & CH3 & CH3 & CH2CH2CF3 & H
+119. & CH3 & H & CH2CH2CF3 & CH3
+120. & CH3 & CH3 & CH2CH2CF3 & CH3
+121. &  & H & H & H
+122. &  & CH3 & H & CH3
+123. &  & H & CH3 & H
+124. &  & H & H & CH3
+125. &  & CH3 & CH3 & H
+126. &  & CH3 & H & CH3
+127. &  & H & CH3 & CH3
+128. &  & CH3 & CH3 & CH3
+129. & CH3 &  & H & CH3
+130. & CH3 &  & CH3 & H
+131. & CH3 &  & H & CH3
+132. & CH3 &  & CH3 & CH3
+133. & CH3 & H &  & H
+134. & CH3 & CH3 &  & H
+135. & CH3 & H &  & CH3
+136. & CH3 & CH3 &  & CH3
+137. &  & H & H & H
+138. &  & CH3 & H & CH3
+139. &  & H & CH3 & H
+140. &  & H & H & CH3
+141. &  & CH3 & CH3 & H
+142. &  & CH3 & H & CH3
+143. &  & H & CH3 & CH3
+144. &  & CH3 & CH3 & CH3
+145. & CH3 &  & H & CH3
+146. & CH3 &  & CH3 & H
+147. & CH3 &  & H & CH3
+148. & CH3 &  & CH3 & CH3
+149. & CH3 & H &  & H
+150. & CH3 & CH3 &  & H
+151. & CH3 & H &  & CH3
+152. & CH3 & CH3 &  & CH3
+153. &  & H & H & H
+154. &  & CH3 & H & CH3
+155. &  & H & CH3 & H
+156. &  & H & H & CH3
+157. &  & CH3 & CH3 & H
+158. &  & CH3 & H & CH3
+159. &  & H & CH3 & CH3
+160. &  & CH3 & CH3 & CH3
+161. & CH3 &  & H & CH3
+162. & CH3 &  & CH3 & H
+163. & CH3 &  & H & CH3
+164. & CH3 &  & CH3 & CH3
+165. & CH3 & H &  & H
+166. & CH3 & CH3 &  & H
+167. & CH3 & H &  & CH3
+168. & CH3 & CH3 &  & CH3
+169. &  & H & H & H
+170. &  & CH3 & H & CH3
+171. &  & H & CH3 & H
+172. &  & H & H & CH3
+173. &  & CH3 & CH3 & H
+174. &  & CH3 & H & CH3
+175. &  & H & CH3 & CH3
+176. &  & CH3 & CH3 & CH3
+177. & CH3 &  & H & CH3
+178. & CH3 &  & CH3 & H
+179. & CH3 &  & H & CH3
+180. & CH3 &  & CH3 & CH3
+181. & CH3 & H &  & H
+182. & CH3 & CH3 &  & H
+183. & CH3 & H &  & CH3
+184. & CH3 & CH3 &  & CH3
+185. &  & H & H & H
+186. &  & CH3 & H & CH3
+187. &  & H & CH3 & H
+188. &  & H & H & CH3
+189. &  & CH3 & CH3 & H
+190. &  & CH3 & H & CH3
+191. &  & H & CH3 & CH3
+192. &  & CH3 & CH3 & CH3
+193. & CH3 &  & H & CH3
+194. & CH3 &  & CH3 & H
+195. & CH3 &  & H & CH3
+196. & CH3 &  & CH3 & CH3
+197. & CH3 & H &  & H
+198. & CH3 & CH3 &  & H
+199. & CH3 & H &  & CH3
+200. & CH3 & CH3 &  & CH3
+201. &  & H & H & H
+202. &  & CH3 & H & CH3
+203. &  & H & CH3 & H
+204. &  & H & H & CH3
+205. &  & CH3 & CH3 & H
+206. &  & CH3 & H & CH3
+207. &  & H & CH3 & CH3
+208. &  & CH3 & CH3 & CH3
+209. & CH3 &  & H & CH3
+210. & CH3 &  & CH3 & H
+211. & CH3 &  & H & CH3
+212. & CH3 &  & CH3 & CH3
+213. & CH3 & H &  & H
+214. & CH3 & CH3 &  & H
+215. & CH3 & H &  & CH3
+216. & CH3 & CH3 &  & CH3
+217. & CH(CH3)2 & H & CH2CH3 & H
+218. & CH(CH3)2 & H & CH(CH3)2 & H
+219. & CH(CH3)2 & H & CH2CH(CH3)2 & H
+220. & CH(CH3)2 & H & C(CH3)3 & H
+221. & CH(CH3)2 & H & CH2C(CH3)3 & H
+222. & CH(CH3)2 & H & CH2CH2CF3 & H
+223. & CH(CH3)2 & H & CH2C(CH3)2CF3 & H
+224. & CH(CH3)2 & H &  & H
+225. & CH(CH3)2 & H &  & H
+226. & CH(CH3)2 & H &  & H
+227. & CH(CH3)2 & H &  & H
+228. & CH(CH3)2 & H &  & H
+229. & CH(CH3)2 & H &  & H
+230. & C(CH3)3 & H & CH2CH3 & H
+231. & C(CH3)3 & H & CH(CH3)2 & H
+232. & C(CH3)3 & H & CH2CH(CH3)2 & H
+233. & C(CH3)3 & H & C(CH3)3 & H
+234. & C(CH3)3 & H & CH2C(CH3)3 & H
+235. & C(CH3)3 & H & CH2CH2CF3 & H
+236. & C(CH3)3 & H & CH2C(CH3)2CF3 & H
+237. & C(CH3)3 & H &  & H
+238. & C(CH3)3 & H &  & H
+239. & C(CH3)3 & H &  & H
+240. & C(CH3)3 & H &  & H
+241. & C(CH3)3 & H &  & H
+242. & C(CH3)3 & H &  & H
+243. & CH2C(CH3)3 & H & CH2CH3 & H
+244. & CH2C(CH3)3 & H & CH(CH3)2 & H
+245. & CH2C(CH3)3 & H & CH2CH(CH3)2 & H
+246. & CH2C(CH3)3 & H & C(CH3)3 & H
+247. & CH2C(CH3)3 & H & CH2C(CH3)3 & H
+248. & CH2C(CH3)3 & H & CH2CH2CF3 & H
+249. & CH2C(CH3)3 & H & CH2C(CH3)2CF3 & H
+250. & CH2C(CH3)3 & H &  & H
+251. & CH2C(CH3)3 & H &  & H
+252. & CH2C(CH3)3 & H &  & H
+253. & CH2C(CH3)3 & H &  & H
+254. & CH2C(CH3)3 & H &  & H
+255. & CH2C(CH3)3 & H &  & H
+256. &  & H & CH2CH3 & H
+257. &  & H & CH(CH3)2 & H
+258. &  & H & CH2CH(CH3)2 & H
+259. &  & H & C(CH3)3 & H
+260. &  & H & CH2C(CH3)3 & H
+261. &  & H & CH2CH2CF3 & H
+262. &  & H & CH2C(CH3)2CF3 & H
+263. &  & H &  & H
+264. &  & H &  & H
+265. &  & H &  & H
+266. &  & H &  & H
+267. &  & H &  & H
+268. &  & H &  & H
+269. &  & H & CH2CH3 & H
+270. &  & H & CH(CH3)2 & H
+271. &  & H & CH2CH(CH3)2 & H
+272. &  & H & C(CH3)3 & H
+273. &  & H & CH2C(CH3)3 & H
+274. &  & H & CH2CH2CF3 & H
+275. &  & H & CH2C(CH3)2CF3 & H
+276. &  & H &  & H
+277. &  & H &  & H
+278. &  & H &  & H
+279. &  & H &  & H
+280. &  & H &  & H
+281. &  & H &  & H
+282. &  & H & CH2CH(CH3)2 & H
+283. &  & H & C(CH3)3 & H
+284. &  & H & CH2C(CH3)3 & H
+285. &  & H & CH2CH2CF3 & H
+286. &  & H & CH2C(CH3)2CF3 & H
+287. &  & H &  & H
+288. &  & H &  & H
+289. &  & H &  & H
+290. &  & H &  & H
+291. &  & H &  & H
+292. &  & H &  & H
+293. &  & H & CH2CH(CH3)2 & H
+294. &  & H & C(CH3)3 & H
+295. &  & H & CH2C(CH3)3 & H
+296. &  & H & CH2CH2CF3 & H
+297. &  & H & CH2C(CH3)2CF3 & H
+298. &  & H &  & H
+299. &  & H &  & H
+300. &  & H &  & H
+301. &  & H &  & H
+302. &  & H &  & H
+303. &  & H &  & H
+304. &  & H & CH2CH(CH3)2 & H
+305. &  & H & C(CH3)3 & H
+306. &  & H & CH2C(CH3)3 & H
+307. &  & H & CH2CH2CF3 & H
+308. &  & H & CH2C(CH3)2CF3 & H
+309. &  & H &  & H
+310. &  & H &  & H
+311. &  & H &  & H
+312. &  & H &  & H
+313. &  & H &  & H
+314. &  & H &  & H
+315. & CD3 & H & H & H
+316. & CD3 & CD3 & H & CD3
+317. & CD3 & H & CD3 & H
+318. & CD3 & H & H & CD3
+319. & CD3 & CD3 & CD3 & H
+320. & CD3 & CD3 & H & CD3
+321. & CD3 & H & CD3 & CD3
+322. & CD3 & CD3 & CD3 & CD3
+323. & CD2CH3 & H & H & H
+324. & CD2CH3 & CD3 & H & CD3
+325. & CD2CH3 & H & CD3 & H
+326. & CD2CH3 & H & H & CD3
+327. & CD2CH3 & CD3 & CD3 & H
+328. & CD2CH3 & CD3 & H & CD3
+329. & CD2CH3 & H & CD3 & CD3
+330. & CD2CH3 & CD3 & CD3 & CD3
+331. & CH3 & CD2CH3 & H & CD3
+332. & CD3 & CD2CH3 & CD3 & H
+333. & CD3 & CD2CH3 & H & CD3
+334. & CD3 & CD2CH3 & CD3 & CD3
+335. & CD3 & H & CD2CH3 & H
+336. & CD3 & CD3 & CD2CH3 & H
+337. & CD3 & H & CD2CH3 & CD3
+338. & CD3 & CD3 & CD2CH3 & CD3
+339. & CD(CH3)2 & H & H & H
+340. & CD(CH3)2 & CD3 & H & CD3
+341. & CD(CH3)2 & H & CD3 & H
+342. & CD(CH3)2 & H & H & CD3
+343. & CD(CH3)2 & CD3 & CD3 & H
+344. & CD(CH3)2 & CD3 & H & CD3
+345. & CD(CH3)2 & H & CD3 & CD3
+346. & CD(CH3)2 & CD3 & CD3 & CD3
+347. & CD3 & CD(CH3)2 & H & CD3
+348. & CD3 & CD(CH3)2 & CD3 & H
+349. & CD3 & CD(CH3)2 & H & CD3
+350. & CD3 & CD(CH3)2 & CD3 & CD3
+351. & CD3 & H & CD(CH3)2 & H
+352. & CD3 & CD3 & CD(CH3)2 & H
+353. & CD3 & H & CD(CH3)2 & CD3
+354. & CD3 & CD3 & CD(CH3)2 & CD3
+355. & CD(CD3)2 & H & H & H
+356. & CD(CD3)2 & CD3 & H & CD3
+357. & CD(CD3)2 & H & CD3 & H
+358. & CD(CD3)2 & H & H & CD3
+359. & CD(CD3)2 & CD3 & CD3 & H
+360. & CD(CD3)2 & CD3 & H & CD3
+361. & CD(CD3)2 & H & CD3 & CD3
+362. & CD(CD3)2 & CD3 & CD3 & CD3
+363. & CH3 & CD(CD3)2 & H & CD3
+364. & CD3 & CD(CD3)2 & CD3 & H
+365. & CD3 & CD(CD3)2 & H & CD3
+366. & CD3 & CD(CD3)2 & CD3 & CD3
+367. & CD3 & H & CD(CD3)2 & H
+368. & CD3 & CD3 & CD(CD3)2 & H
+369. & CD3 & H & CD(CD3)2 & CD3
+370. & CD3 & CD3 & CD(CD3)2 & CD3
+371. & CD2CH(CH3)2 & H & H & H
+372. & CD2CH(CH3)2 & CD3 & H & CD3
+373. & CD2CH(CH3)2 & H & CD3 & H
+374. & CD2CH(CH3)2 & H & H & CD3
+375. & CD2CH(CH3)2 & CD3 & CD3 & H
+376. & CD2CH(CH3)2 & CD3 & H & CD3
+377. & CD2CH(CH3)2 & H & CD3 & CD3
+378. & CD2CH(CH3)2 & CD3 & CD3 & CD3
+379. & CD3 & CD2CH(CH3)2 & H & CD3
+380. & CD3 & CD2CH(CH3)2 & CD3 & H
+381. & CD3 & CD2CH(CH3)2 & H & CD3
+382. & CD3 & CD2CH(CH3)2 & CD3 & CD3
+383. & CD3 & H & CD2CH(CH3)2 & H
+384. & CD3 & CD3 & CD2CH(CH3)2 & H
+385. & CD3 & H & CD2CH(CH3)2 & CD3
+386. & CD3 & CD3 & CD2CH(CH3)2 & CD3
+387. & CD2C(CH3)3 & H & H & H
+388. & CD2C(CH3)3 & CD3 & H & CD3
+389. & CD2C(CH3)3 & H & CD3 & H
+390. & CD2C(CH3)3 & H & H & CD3
+391. & CD2C(CH3)3 & CD3 & CD3 & H
+392. & CD2C(CH3)3 & CD3 & H & CD3
+393. & CD2C(CH3)3 & H & CD3 & CD3
+394. & CD2C(CH3)3 & CH3 & CD3 & CD3
+395. & CD3 & CD2C(CH3)3 & H & CD3
+396. & CD3 & CD2C(CH3)3 & CD3 & H
+397. & CD3 & CD2C(CH3)3 & H & CD3
+398. & CD3 & CD2C(CH3)3 & CD3 & CD3
+399. & CD3 & H & CD2C(CH3)3 & H
+400. & CD3 & CD3 & CD2C(CH3)3 & H
+401. & CD3 & H & CD2C(CH3)3 & CD3
+402. & CD3 & CD3 & CD2C(CH3)3 & CD3
+403. & CD2C(CH3)2CF3 & H & H & H
+404. & CD2C(CH3)2CF3 & CD3 & H & CD3
+405. & CD2C(CH3)2CF3 & H & CD3 & H
+406. & CD2C(CH3)2CF3 & H & H & CD3
+407. & CD2C(CH3)2CF3 & CD3 & CD3 & H
+408. & CD2C(CH3)2CF3 & CD3 & H & CD3
+409. & CD2C(CH3)2CF3 & H & CD3 & CD3
+410. & CD2C(CH3)2CF3 & CD3 & CD3 & CD3
+411. & CD3 & CD2C(CH3)2CF3 & H & CD3
+412. & CD3 & CD2C(CH3)2CF3 & CD3 & H
+413. & CD3 & CD2C(CH3)2CF3 & H & CD3
+414. & CD3 & CD2C(CH3)2CF3 & CD3 & CD3
+415. & CD3 & H & CD2C(CH3)2CF3 & H
+416. & CD3 & CD3 & CD2C(CH3)2CF3 & H
+417. & CD3 & H & CD2C(CH3)2CF3 & CD3
+418. & CD3 & CD3 & CD2C(CH3)2CF3 & CD3
+419. & CD2CH2CF3 & H & H & H
+420. & CD2CH2CF3 & CD3 & H & CD3
+421. & CD2CH2CF3 & H & CD3 & H
+422. & CD2CH2CF3 & H & H & CD3
+423. & CD2CH2CF3 & CD3 & CD3 & H
+424. & CD2CH2CF3 & CD3 & H & CD3
+425. & CD2CH2CF3 & H & CD3 & CD3
+426. & CD2CH2CF3 & CD3 & CD3 & CD3
+427. & CD3 & CD2CH2CF3 & H & CD3
+428. & CD3 & CD2CH2CF3 & CD3 & H
+429. & CD3 & CD2CH2CF3 & H & CD3
+430. & CD3 & CD2CH2CF3 & CD3 & CD3
+431. & CD3 & H & CD2CH2CF3 & H
+432. & CD3 & CD3 & CD2CH2CF3 & H
+433. & CD3 & H & CD2CH2CF3 & CD3
+434. & CD3 & CD3 & CD2CH2CF3 & CD3
+435. &  & H & H & H
+436. &  & CD3 & H & CD3
+437. &  & H & CD3 & H
+438. &  & H & H & CD3
+439. &  & CD3 & CD3 & H
+440. &  & CD3 & H & CD3
+441. &  & H & CD3 & CD3
+442. &  & CD3 & CD3 & CD3
+443. & CD3 &  & H & CD3
+444. & CD3 &  & CD3 & H
+445. & CD3 &  & H & CD3
+446. & CD3 &  & CD3 & CD3
+447. & CD3 & H &  & H
+448. & CD3 & CD3 &  & H
+449. & CD3 & H &  & CD3
+450. & CD3 & CD3 &  & CD3
+451. &  & H & H & H
+452. &  & CD3 & H & CD3
+453. &  & H & CD3 & H
+454. &  & H & H & CD3
+455. &  & CD3 & CD3 & H
+456. &  & CD3 & H & CD3
+457. &  & H & CD3 & CD3
+458. &  & CD3 & CD3 & CD3
+459. & CH3 &  & H & CD3
+460. & CD3 &  & CD3 & H
+461. & CD3 &  & H & CD3
+462. & CH3 &  & CD3 & CD3
+463. & CD3 & H &  & H
+464. & CD3 & CD3 &  & H
+465. & CD3 & H &  & CD3
+466. & CD3 & CD3 &  & CD3
+467. &  & H & H & H
+468. &  & CD3 & H & CD3
+469. &  & H & CD3 & H
+470. &  & H & H & CD3
+471. &  & CD3 & CD3 & H
+472. &  & CD3 & H & CD3
+473. &  & H & CD3 & CD3
+474. &  & CD3 & CD3 & CD3
+475. & CD3 &  & H & CD3
+476. & CD3 &  & CD3 & H
+477. & CD3 &  & H & CD3
+478. & CD3 &  & CD3 & CD3
+479. & CD3 & H &  & H
+480. & CD3 & CD3 &  & H
+481. & CD3 & H &  & CD3
+482. & CD3 & CD3 &  & CD3
+483. &  & H & H & H
+484. &  & CD3 & H & CD3
+485. &  & H & CD3 & H
+486. &  & H & H & CD3
+487. &  & CD3 & CD3 & H
+488. &  & CD3 & H & CD3
+489. &  & H & CD3 & CD3
+490. &  & CD3 & CD3 & CD3
+491. & CD3 &  & H & CD3
+492. & CD3 &  & CD3 & H
+493. & CD3 &  & H & CD3
+494. & CD3 &  & CD3 & CD3
+495. & CD3 & H &  & H
+496. & CD3 & CD3 &  & H
+497. & CD3 & H &  & CD3
+498. & CD3 & CD3 &  & CD3
+499. &  & H & H & H
+500. &  & CD3 & H & CD3
+501. &  & H & CD3 & H
+502. &  & H & H & CD3
+503. &  & CD3 & CD3 & H
+504. &  & CD3 & H & CD3
+505. &  & H & CD3 & CD3
+506. &  & CD3 & CD3 & CD3
+507. & CD3 &  & H & CD3
+508. & CD3 &  & CD3 & H
+509. & CD3 &  & H & CD3
+510. & CD3 &  & CD3 & CD3
+511. & CD3 & H &  & H
+512. & CD3 & CD3 &  & H
+513. & CD3 & H &  & CD3
+514. & CD3 & CD3 &  & CD3
+515. &  & H & H & H
+516. &  & CD3 & H & CD3
+517. &  & H & CD3 & H
+518. &  & H & H & CD3
+519. &  & CH3 & CH3 & H
+520. &  & CD3 & H & CD3
+521. &  & H & CD3 & CD3
+522. &  & CD3 & CD3 & CD3
+523. & CD3 &  & H & CD3
+524. & CD3 &  & CD3 & H
+525. & CD3 &  & H & CD3
+526. & CD3 &  & CD3 & CD3
+527. & CD3 & H &  & H
+528. & CD3 & CD3 &  & H
+529. & CD3 & H &  & CD3
+530. & CD3 & CD3 &  & CD3
+531. & CD(CH3)2 & H & CD2CH3 & H
+532. & CD(CH3)2 & H & CD(CH3)2 & H
+533. & CD(CH3)2 & H & CD2CH(CH3)2 & H
+534. & CD(CH3)2 & H & C(CH3)3 & H
+535. & CD(CH3)2 & H & CD2C(CH3)3 & H
+536. & CD(CH3)2 & H & CD2CH2CF3 & H
+537. & CD(CH3)2 & H & CD2C(CH3)2CF3 & H
+538. & CD(CH3)2 & H &  & H
+539. & CD(CH3)2 & H &  & H
+540. & CD(CH3)2 & H &  & H
+541. & CD(CH3)2 & H &  & H
+542. & CD(CH3)2 & H &  & H
+543. & CD(CH3)2 & H &  & H
+544. & C(CH3)3 & H & CD2CH3 & H
+545. & C(CH3)3 & H & CD(CH3)2 & H
+546. & C(CH3)3 & H & CD2CH(CH3)2 & H
+547. & C(CH3)3 & H & C(CH3)3 & H
+548. & C(CH3)3 & H & CD2C(CH3)3 & H
+549. & C(CH3)3 & H & CD2CH2CF3 & H
+550. & C(CH3)3 & H & CD2C(CH3)2CF3 & H
+551. & C(CH3)3 & H &  & H
+552. & C(CH3)3 & H &  & H
+553. & C(CH3)3 & H &  & H
+554. & C(CH3)3 & H &  & H
+555. & C(CH3)3 & H &  & H
+556. & C(CH3)3 & H &  & H
+557. & CD2C(CH3)3 & H & CD2CH3 & H
+558. & CD2C(CH3)3 & H & CD(CH3)2 & H
+559. & CD2C(CH3)3 & H & CD2CH(CH3)2 & H
+560. & CD2C(CH3)3 & H & C(CH3)3 & H
+561. & CD2C(CH3)3 & H & CD2C(CH3)3 & H
+562. & CD2C(CH3)3 & H & CD2CH2CF3 & H
+563. & CD2C(CH3)3 & H & CD2C(CH3)2CF3 & H
+564. & CD2C(CH3)3 & H &  & H
+565. & CD2C(CH3)3 & H &  & H
+566. & CD2C(CH3)3 & H &  & H
+567. & CD2C(CH3)3 & H &  & H
+568. & CD2C(CH3)3 & H &  & H
+569. & CD2C(CH3)3 & H &  & H
+570. &  & H & CD2CH3 & H
+571. &  & H & CD(CH3)2 & H
+572. &  & H & CD2CH(CH3)2 & H
+573. &  & H & C(CH3)3 & H
+574. &  & H & CD2C(CH3)3 & H
+575. &  & H & CD2CH2CF3 & H
+576. &  & H & CD2C(CH3)2CF3 & H
+577. &  & H &  & H
+578. &  & H &  & H
+579. &  & H &  & H
+580. &  & H &  & H
+581. &  & H &  & H
+582. &  & H &  & H
+583. &  & H & CD2CH3 & H
+584. &  & H & CD(CH3)2 & H
+585. &  & H & CD2CH(CH3)2 & H
+586. &  & H & C(CH3)3 & H
+587. &  & H & CD2C(CH3)3 & H
+588. &  & H & CD2CH2CF3 & H
+589. &  & H & CD2C(CH3)2CF3 & H
+590. &  & H &  & H
+591. &  & H &  & H
+592. &  & H &  & H
+593. &  & H &  & H
+594. &  & H &  & H
+595. &  & H &  & H
+596. &  & H & CD2CH3 & H
+597. &  & H & CD(CH3)2 & H
+598. &  & H & CD2CH(CH3)2 & H
+599. &  & H & C(CH3)3 & H
+600. &  & H & CD2C(CH3)3 & H
+601. &  & H & CD2CH2CF3 & H
+602. &  & H & CD2C(CH3)2CF3 & H
+603. &  & H &  & H
+604. &  & H &  & H
+605. &  & H &  & H
+606. &  & H &  & H
+607. &  & H &  & H
+608. &  & H &  & H
+609. &  & H & CD2CH3 & H
+610. &  & H & CD(CH3)2 & H
+611. &  & H & CD2CH(CH3)2 & H
+612. &  & H & C(CH3)3 & H
+613. &  & H & CD2C(CH3)3 & H
+614. &  & H & CD2CH2CF3 & H
+615. &  & H & CD2C(CH3)2CF3 & H
+616 . &  & H &  & H
+617. &  & H &  & H
+618. &  & H &  & H
+619. &  & H &  & H
+620. &  & H &  & H
+621. &  & H &  & H
+622. &  & H & CD2CH3 & H
+623. &  & H & CD(CH3)2 & H
+624. &  & H & CD2CH(CH3)2 & H
+625. &  & H & C(CH3)3 & H
+626. &  & H & CD2C(CH3)3 & H
+627. &  & H & CD2CH2CF3 & H
+628. &  & H & CD2C(CH3)2CF3 & H
+629 . &  & H &  & H
+630. &  & H &  & H
+631. &  & H &  & H
+632. &  & H &  & H
+633. &  & H &  & H
+634. &  & H &  & H
+</table>
+In some embodiments, LB is selected from the group consisting of LB1 to LB856, where LB,b has the structure:
+wherein b is an integer from 1 to 856, and the substituents RB1, RB2, RB3 and RB4 are defined as follows:
+<table>
+<header>
+
+</header>
+<header>
+b & RB1 & RB2 & RB3 & RB4
+</header>
+<header>
+
+</header>
+1. & H & H & H & H
+2. & CH3 & H & H & H
+3. & H & CH3 & H & H
+4. & H & H & CH3 & H
+5. & CH3 & CH3 & H & CH3
+6. & CH3 & H & CH3 & H
+7. & CH3 & H & H & CH3
+8. & H & CH3 & CH3 & H
+9. & H & CH3 & H & CH3
+10. & H & H & CH3 & CH3
+11. & CH3 & CH3 & CH3 & H
+12. & CH3 & CH3 & H & CH3
+13. & CH3 & H & CH3 & CH3
+14. & H & CH3 & CH3 & CH3
+15. & CH3 & CH3 & CH3 & CH3
+16. & CH2CH3 & H & H & H
+17. & CH2CH3 & CH3 & H & CH3
+18. & CH2CH3 & H & CH3 & H
+19. & CH2CH3 & H & H & CH3
+20. & CH2CH3 & CH3 & CH3 & H
+21. & CH2CH3 & CH3 & H & CH3
+22. & CH2CH3 & H & CH3 & CH3
+23. & CH2CH3 & CH3 & CH3 & CH3
+24. & H & CH2CH3 & H & H
+25. & CH3 & CH2CH3 & H & CH3
+26. & H & CH2CH3 & CH3 & H
+27. & H & CH2CH3 & H & CH3
+28. & CH3 & CH2CH3 & CH3 & H
+29. & CH3 & CH2CH3 & H & CH3
+30. & H & CH2CH3 & CH3 & CH3
+31. & CH3 & CH2CH3 & CH3 & CH3
+32. & H & H & CH2CH3 & H
+33. & CH3 & H & CH2CH3 & H
+34. & H & CH3 & CH2CH3 & H
+35. & H & H & CH2CH3 & CH3
+36. & CH3 & CH3 & CH2CH3 & H
+37. & CH3 & H & CH2CH3 & CH3
+38. & H & CH3 & CH2CH3 & CH3
+39. & CH3 & CH3 & CH2CH3 & CH3
+40. & CH(CH3)2 & H & H & H
+41. & CH(CH3)2 & CH3 & H & CH3
+42. & CH(CH3)2 & H & CH3 & H
+43. & CH(CH3)2 & H & H & CH3
+44. & CH(CH3)2 & CH3 & CH3 & H
+45. & CH(CH3)2 & CH3 & H & CH3
+46. & CH(CH3)2 & H & CH3 & CH3
+47. & CH(CH3)2 & CH3 & CH3 & CH3
+48. & H & CH(CH3)2 & H & H
+49. & CH3 & CH(CH3)2 & H & CH3
+50. & H & CH(CH3)2 & CH3 & H
+51. & H & CH(CH3)2 & H & CH3
+52. & CH3 & CH(CH3)2 & CH3 & H
+53. & CH3 & CH(CH3)2 & H & CH3
+54. & H & CH(CH3)2 & CH3 & CH3
+55. & CH3 & CH(CH3)2 & CH3 & CH3
+56. & H & H & CH(CH3)2 & H
+57. & CH3 & H & CH(CH3)2 & H
+58. & H & CH3 & CH(CH3)2 & H
+59. & H & H & CH(CH3)2 & CH3
+60. & CH3 & CH3 & CH(CH3)2 & H
+61. & CH3 & H & CH(CH3)2 & CH3
+62. & H & CH3 & CH(CH3)2 & CH3
+63. & CH3 & CH3 & CH(CH3)2 & CH3
+64. & CH2CH(CH3)2 & H & H & H
+65. & CH2CH(CH3)2 & CH3 & H & CH3
+66. & CH2CH(CH3)2 & H & CH3 & H
+67. & CH2CH(CH3)2 & H & H & CH3
+68. & CH2CH(CH3)2 & CH3 & CH3 & H
+69. & CH2CH(CH3)2 & CH3 & H & CH3
+70. & CH2CH(CH3)2 & H & CH3 & CH3
+71. & CH2CH(CH3)2 & CH3 & CH3 & CH3
+72. & H & CH2CH(CH3)2 & H & H
+73. & CH3 & CH2CH(CH3)2 & H & CH3
+74. & H & CH2CH(CH3)2 & CH3 & H
+75. & H & CH2CH(CH3)2 & H & CH3
+76. & CH3 & CH2CH(CH3)2 & CH3 & H
+77. & CH3 & CH2CH(CH3)2 & H & CH3
+78. & H & CH2CH(CH3)2 & CH3 & CH3
+79. & CH3 & CH2CH(CH3)2 & CH3 & CH3
+80. & H & H & CH2CH(CH3)2 & H
+81. & CH3 & H & CH2CH(CH3)2 & H
+82. & H & CH3 & CH2CH(CH3)2 & H
+83. & H & H & CH2CH(CH3)2 & CH3
+84. & CH3 & CH3 & CH2CH(CH3)2 & H
+85. & CH3 & H & CH2CH(CH3)2 & CH3
+86. & H & CH3 & CH2CH(CH3)2 & CH3
+87. & CH3 & CH3 & CH2CH(CH3)2 & CH3
+88. & C(CH3)3 & H & H & H
+89. & C(CH3)3 & CH3 & H & CH3
+90. & C(CH3)3 & H & CH3 & H
+91. & C(CH3)3 & H & H & CH3
+92. & C(CH3)3 & CH3 & CH3 & H
+93. & C(CH3)3 & CH3 & H & CH3
+94. & C(CH3)3 & H & CH3 & CH3
+95. & C(CH3)3 & CH3 & CH3 & CH3
+96. & H & C(CH3)3 & H & H
+97. & CH3 & C(CH3)3 & H & CH3
+98. & H & C(CH3)3 & CH3 & H
+99. & H & C(CH3)3 & H & CH3
+100. & CH3 & C(CH3)3 & CH3 & H
+101. & CH3 & C(CH3)3 & H & CH3
+102. & H & C(CH3)3 & CH3 & CH3
+103. & CH3 & C(CH3)3 & CH3 & CH3
+104. & H & H & C(CH3)3 & H
+105. & CH3 & H & C(CH3)3 & H
+106. & H & CH3 & C(CH3)3 & H
+107. & H & H & C(CH3)3 & CH3
+108. & CH3 & CH3 & C(CH3)3 & H
+109. & CH3 & H & C(CH3)3 & CH3
+110. & H & CH3 & C(CH3)3 & CH3
+111. & CH3 & CH3 & C(CH3)3 & CH3
+112. & CH2C(CH3)3 & H & H & H
+113. & CH2C(CH3)3 & CH3 & H & CH3
+114. & CH2C(CH3)3 & H & CH3 & H
+115. & CH2C(CH3)3 & H & H & CH3
+116. & CH2C(CH3)3 & CH3 & CH3 & H
+117. & CH2C(CH3)3 & CH3 & H & CH3
+118. & CH2C(CH3)3 & H & CH3 & CH3
+119. & CH2C(CH3)3 & CH3 & CH3 & CH3
+120. & H & CH2C(CH3)3 & H & H
+121. & CH3 & CH2C(CH3)3 & H & CH3
+122. & H & CH2C(CH3)3 & CH3 & H
+123. & H & CH2C(CH3)3 & H & CH3
+124. & CH3 & CH2C(CH3)3 & CH3 & H
+125. & CH3 & CH2C(CH3)3 & H & CH3
+126. & H & CH2C(CH3)3 & CH3 & CH3
+127. & CH3 & CH2C(CH3)3 & CH3 & CH3
+128. & H & H & CH2C(CH3)3 & H
+129. & CH3 & H & CH2C(CH3)3 & H
+130. & H & CH3 & CH2C(CH3)3 & H
+131. & H & H & CH2C(CH3)3 & CH3
+132. & CH3 & CH3 & CH2C(CH3)3 & H
+133. & CH3 & H & CH2C(CH3)3 & CH3
+134. & H & CH3 & CH2C(CH3)3 & CH3
+135. & CH3 & CH3 & CH2C(CH3)3 & CH3
+136. & CH2C(CH3)2CF3 & H & H & H
+137. & CH2C(CH3)2CF3 & CH3 & H & CH3
+138. & CH2C(CH3)2CF3 & H & CH3 & H
+139. & CH2C(CH3)2CF3 & H & H & CH3
+140. & CH2C(CH3)2CF3 & CH3 & CH3 & H
+141. & CH2C(CH3)2CF3 & CH3 & H & CH3
+142. & CH2C(CH3)2CF3 & H & CH3 & CH3
+143. & CH2C(CH3)2CF3 & CH3 & CH3 & CH3
+144. & H & CH2C(CH3)2CF3 & H & H
+145. & CH3 & CH2C(CH3)2CF3 & H & CH3
+146. & H & CH2C(CH3)2CF3 & CH3 & H
+147. & H & CH2C(CH3)2CF3 & H & CH3
+148. & CH3 & CH2C(CH3)2CF3 & CH3 & H
+149. & CH3 & CH2C(CH3)2CF3 & H & CH3
+150. & H & CH2C(CH3)2CF3 & CH3 & CH3
+151. & CH3 & CH2C(CH3)2CF3 & CH3 & CH3
+152. & H & H & CH2C(CH3)2CF3 & H
+153. & CH3 & H & CH2C(CH3)2CF3 & H
+154. & H & CH3 & CH2C(CH3)2CF3 & H
+155. & H & H & CH2C(CH3)2CF3 & CH3
+156. & CH3 & CH3 & CH2C(CH3)2CF3 & H
+157. & CH3 & H & CH2C(CH3)2CF3 & CH3
+158. & H & CH3 & CH2C(CH3)2CF3 & CH3
+159. & CH3 & CH3 & CH2C(CH3)2CF3 & CH3
+160. & CH2CH2CF3 & H & H & H
+161. & CH2CH2CF3 & CH3 & H & CH3
+162. & CH2CH2CF3 & H & CH3 & H
+163. & CH2CH2CF3 & H & H & CH3
+164. & CH2CH2CF3 & CH3 & CH3 & H
+165. & CH2CH2CF3 & CH3 & H & CH3
+166. & CH2CH2CF3 & H & CH3 & CH3
+167. & CH2CH2CF3 & CH3 & CH3 & CH3
+168. & H & CH2CH2CF3 & H & H
+169. & CH3 & CH2CH2CF3 & H & CH3
+170. & H & CH2CH2CF3 & CH3 & H
+171. & H & CH2CH2CF3 & H & CH3
+172. & CH3 & CH2CH2CF3 & CH3 & H
+173. & CH3 & CH2CH2CF3 & H & CH3
+174. & H & CH2CH2CF3 & CH3 & CH3
+175. & CH3 & CH2CH2CF3 & CH3 & CH3
+176. & H & H & CH2CH2CF3 & H
+177. & CH3 & H & CH2CH2CF3 & H
+178. & H & CH3 & CH2CH2CF3 & H
+179. & H & H & CH2CH2CF3 & CH3
+180. & CH3 & CH3 & CH2CH2CF3 & H
+181. & CH3 & H & CH2CH2CF3 & CH3
+182. & H & CH3 & CH2CH2CF3 & CH3
+183. & CH3 & CH3 & CH2CH2CF3 & CH3
+184. &  & H & H & H
+185. &  & CH3 & H & CH3
+186. &  & H & CH3 & H
+187. &  & H & H & CH3
+188. &  & CH3 & CH3 & H
+189. &  & CH3 & H & CH3
+190. &  & H & CH3 & CH3
+191. &  & CH3 & CH3 & CH3
+192. & H &  & H & H
+193. & CH3 &  & H & CH3
+194. & H &  & CH3 & H
+195. & H &  & H & CH3
+196. & CH3 &  & CH3 & H
+197. & CH3 &  & H & CH3
+198. & H &  & CH3 & CH3
+199. & CH3 &  & CH3 & CH3
+200. & H & H &  & H
+201. & CH3 & H &  & H
+202. & H & CH3 &  & H
+203. & H & H &  & CH3
+204. & CH3 & CH3 &  & H
+205. & CH3 & H &  & CH3
+206. & H & CH3 &  & CH3
+207. & CH3 & CH3 &  & CH3
+208. &  & H & H & H
+209. &  & CH3 & H & CH3
+210. &  & H & CH3 & H
+211. &  & H & H & CH3
+212. &  & CH3 & CH3 & H
+213. &  & CH3 & H & CH3
+214. &  & H & CH3 & CH3
+215. &  & CH3 & CH3 & CH3
+216. & H &  & H & H
+217. & CH3 &  & H & CH3
+218. & H &  & CH3 & H
+219. & H &  & H & CH3
+220. & CH3 &  & CH3 & H
+221. & CH3 &  & H & CH3
+222. & H &  & CH3 & CH3
+223. & CH3 &  & CH3 & CH3
+224. & H & H &  & H
+225. & CH3 & H &  & H
+226. & H & CH3 &  & H
+227. & H & H &  & CH3
+228. & CH3 & CH3 &  & H
+229. & CH3 & H &  & CH3
+230. & H & CH3 &  & CH3
+231. & CH3 & CH3 &  & CH3
+232. &  & H & H & H
+233. &  & CH3 & H & CH3
+234. &  & H & CH3 & H
+235. &  & H & H & CH3
+236. &  & CH3 & CH3 & H
+237. &  & CH3 & H & CH3
+238. &  & H & CH3 & CH3
+239. &  & CH3 & CH3 & CH3
+240. & H &  & H & H
+241. & CH3 &  & H & CH3
+242. & H &  & CH3 & H
+243. & H &  & H & CH3
+244. & CH3 &  & CH3 & H
+245. & CH3 &  & H & CH3
+246. & H &  & CH3 & CH3
+247. & CH3 &  & CH3 & CH3
+248. & H & H &  & H
+249. & CH3 & H &  & H
+250. & H & CH3 &  & H
+251. & H & H &  & CH3
+252. & CH3 & CH3 &  & H
+253. & CH3 & H &  & CH3
+254. & H & CH3 &  & CH3
+255. & CH3 & CH3 &  & CH3
+256. &  & H & H & H
+257. &  & CH3 & H & CH3
+258. &  & H & CH3 & H
+259. &  & H & H & CH3
+260. &  & CH3 & CH3 & H
+261. &  & CH3 & H & CH3
+262. &  & H & CH3 & CH3
+263. &  & CH3 & CH3 & CH3
+264. & H &  & H & H
+265. & CH3 &  & H & CH3
+266. & H &  & CH3 & H
+267. & H &  & H & CH3
+268. & CH3 &  & CH3 & H
+269. & CH3 &  & H & CH3
+270. & H &  & CH3 & CH3
+271. & CH3 &  & CH3 & CH3
+272. & H & H &  & H
+273. & CH3 & H &  & H
+274. & H & CH3 &  & H
+275. & H & H &  & CH3
+276. & CH3 & CH3 &  & H
+277. & CH3 & H &  & CH3
+278. & H & CH3 &  & CH3
+279. & CH3 & CH3 &  & CH3
+280. &  & H & H & H
+281. &  & CH3 & H & CH3
+282. &  & H & CH3 & H
+283. &  & H & H & CH3
+284. &  & CH3 & CH3 & H
+285. &  & CH3 & H & CH3
+286. &  & H & CH3 & CH3
+287. &  & CH3 & CH3 & CH3
+288. & H &  & H & H
+289. & CH3 &  & H & CH3
+290. & H &  & CH3 & H
+291. & H &  & H & CH3
+292. & CH3 &  & CH3 & H
+293. & CH3 &  & H & CH3
+294. & H &  & CH3 & CH3
+295. & CH3 &  & CH3 & CH3
+296. & H & H &  & H
+297. & CH3 & H &  & H
+298. & H & CH3 &  & H
+299. & H & H &  & CH3
+300. & CH3 & CH3 &  & H
+301. & CH3 & H &  & CH3
+302. & H & CH3 &  & CH3
+303. & CH3 & CH3 &  & CH3
+304. &  & H & H & H
+305. &  & CH3 & H & CH3
+306. &  & H & CH3 & H
+307. &  & H & H & CH3
+308. &  & CH3 & CH3 & H
+309. &  & CH3 & H & CH3
+310. &  & H & CH3 & CH3
+311. &  & CH3 & CH3 & CH3
+312. & H &  & H & H
+313. & CH3 &  & H & CH3
+314. & H &  & CH3 & H
+315. & H &  & H & CH3
+316. & CH3 &  & CH3 & H
+317. & CH3 &  & H & CH3
+318. & H &  & CH3 & CH3
+319. & CH3 &  & CH3 & CH3
+320. & H & H &  & H
+321. & CH3 & H &  & H
+322. & H & CH3 &  & H
+323. & H & H &  & CH3
+324. & CH3 & CH3 &  & H
+325. & CH3 & H &  & CH3
+326. & H & CH3 &  & CH3
+327. & CH3 & CH3 &  & CH3
+328. & CH(CH3)2 & H & CH2CH3 & H
+329. & CH(CH3)2 & H & CH(CH3)2 & H
+330. & CH(CH3)2 & H & CH2CH(CH3)2 & H
+331. & CH(CH3)2 & H & C(CH3)3 & H
+332. & CH(CH3)2 & H & CH2C(CH3)3 & H
+333. & CH(CH3)2 & H & CH2CH2CF3 & H
+334. & CH(CH3)2 & H & CH2C(CH3)2CF3 & H
+335. & CH(CH3)2 & H &  & H
+336. & CH(CH3)2 & H &  & H
+337. & CH(CH3)2 & H &  & H
+338. & CH(CH3)2 & H &  & H
+339. & CH(CH3)2 & H &  & H
+340. & CH(CH3)2 & H &  & H
+341. & C(CH3)3 & H & CH2CH3 & H
+342. & C(CH3)3 & H & CH(CH3)2 & H
+343. & C(CH3)3 & H & CH2CH(CH3)2 & H
+344. & C(CH3)3 & H & C(CH3)3 & H
+345. & C(CH3)3 & H & CH2C(CH3)3 & H
+346. & C(CH3)3 & H & CH2CH2CF3 & H
+347. & C(CH3)3 & H & CH2C(CH3)2CF3 & H
+348. & C(CH3)3 & H &  & H
+349. & C(CH3)3 & H &  & H
+350. & C(CH3)3 & H &  & H
+351. & C(CH3)3 & H &  & H
+352. & C(CH3)3 & H &  & H
+353. & C(CH3)3 & H &  & H
+354. & CH2C(CH3)3 & H & CH2CH3 & H
+355. & CH2C(CH3)3 & H & CH(CH3)2 & H
+356. & CH2C(CH3)3 & H & CH2CH(CH3)2 & H
+357. & CH2C(CH3)3 & H & C(CH3)3 & H
+358. & CH2C(CH3)3 & H & CH2C(CH3)3 & H
+359. & CH2C(CH3)3 & H & CH2CH2CF3 & H
+360. & CH2C(CH3)3 & H & CH2C(CH3)2CF3 & H
+361. & CH2C(CH3)3 & H &  & H
+362. & CH2C(CH3)3 & H &  & H
+363. & CH2C(CH3)3 & H &  & H
+364. & CH2C(CH3)3 & H &  & H
+365. & CH2C(CH3)3 & H &  & H
+366. & CH2C(CH3)3 & H &  & H
+367. &  & H & CH2CH3 & H
+368. &  & H & CH(CH3)2 & H
+369. &  & H & CH2CH(CH3)2 & H
+370. &  & H & C(CH3)3 & H
+371. &  & H & CH2C(CH3)3 & H
+372. &  & H & CH2CH2CF3 & H
+373. &  & H & CH2C(CH3)2CF3 & H
+374. &  & H &  & H
+375. &  & H &  & H
+376. &  & H &  & H
+377. &  & H &  & H
+378. &  & H &  & H
+379. &  & H &  & H
+380. &  & H & CH2CH3 & H
+381. &  & H & CH(CH3)2 & H
+382. &  & H & CH2CH(CH3)2 & H
+383. &  & H & C(CH3)3 & H
+384. &  & H & CH2C(CH3)3 & H
+385. &  & H & CH2CH2CF3 & H
+386. &  & H & CH2C(CH3)2CF3 & H
+387. &  & H &  & H
+388. &  & H &  & H
+389. &  & H &  & H
+390. &  & H &  & H
+391. &  & H &  & H
+392. &  & H &  & H
+393. &  & H & CH2CH(CH3)2 & H
+394. &  & H & C(CH3)3 & H
+395. &  & H & CH2C(CH3)3 & H
+396. &  & H & CH2CH2CF3 & H
+397. &  & H & CH2C(CH3)2CF3 & H
+398. &  & H &  & H
+399. &  & H &  & H
+400. &  & H &  & H
+401. &  & H &  & H
+402. &  & H &  & H
+403. &  & H &  & H
+404. &  & H & CH2CH(CH3)2 & H
+405. &  & H & C(CH3)3 & H
+406. &  & H & CH2C(CH3)3 & H
+407. &  & H & CH2CH2CF3 & H
+408. &  & H & CH2C(CH3)2CF3 & H
+409. &  & H &  & H
+410. &  & H &  & H
+411. &  & H &  & H
+412. &  & H &  & H
+413. &  & H &  & H
+414. &  & H &  & H
+415. &  & H & CH2CH(CH3)2 & H
+416. &  & H & C(CH3)3 & H
+417. &  & H & CH2C(CH3)3 & H
+418. &  & H & CH2CH2CF3 & H
+419. &  & H & CH2C(CH3)2CF3 & H
+420. &  & H &  & H
+421. &  & H &  & H
+422. &  & H &  & H
+423. &  & H &  & H
+424. &  & H &  & H
+425. &  & H &  & H
+426. & H & H & H & H
+427. & CD3 & H & H & H
+428. & H & CD3 & H & H
+429. & H & H & CD3 & H
+430. & CD3 & CD3 & H & CD3
+431. & CD3 & H & CD3 & H
+432. & CD3 & H & H & CD3
+433. & H & CD3 & CH3 & H
+434. & H & CD3 & H & CD3
+435. & H & H & CD3 & CD3
+436. & CD3 & CD3 & CD3 & H
+437. & CD3 & CD3 & H & CD3
+438. & CD3 & H & CD3 & CD3
+439. & H & CD3 & CD3 & CD3
+440. & CD3 & CD3 & CD3 & CD3
+441. & CD2CH3 & H & H & H
+442. & CD2CH3 & CD3 & H & CD3
+443. & CD2CH3 & H & CD3 & H
+444. & CD2CH3 & H & H & CD3
+445. & CD2CH3 & CD3 & CD3 & H
+446. & CD2CH3 & CD3 & H & CD3
+447. & CD2CH3 & H & CD3 & CD3
+448. & CD2CH3 & CD3 & CD3 & CD3
+449. & H & CD2CH3 & H & H
+450. & CH3 & CD2CH3 & H & CD3
+451. & H & CD2CH3 & CD3 & H
+452. & H & CD2CH3 & H & CD3
+453. & CD3 & CD2CH3 & CD3 & H
+454. & CD3 & CD2CH3 & H & CD3
+455. & H & CD2CH3 & CD3 & CD3
+456. & CD3 & CD2CH3 & CD3 & CD3
+457. & H & H & CD2CH3 & H
+458. & CD3 & H & CD2CH3 & H
+459. & H & CD3 & CD2CH3 & H
+460. & H & H & CD2CH3 & CD3
+461. & CD3 & CD3 & CD2CH3 & H
+462. & CD3 & H & CD2CH3 & CD3
+463. & H & CD3 & CD2CH3 & CD3
+464. & CD3 & CD3 & CD2CH3 & CD3
+465. & CD(CH3)2 & H & H & H
+466. & CD(CH3)2 & CD3 & H & CD3
+467. & CD(CH3)2 & H & CD3 & H
+468. & CD(CH3)2 & H & H & CD3
+469. & CD(CH3)2 & CD3 & CD3 & H
+470. & CD(CH3)2 & CD3 & H & CD3
+471. & CD(CH3)2 & H & CD3 & CD3
+472. & CD(CH3)2 & CD3 & CD3 & CD3
+473. & H & CD(CH3)2 & H & H
+474. & CD3 & CD(CH3)2 & H & CD3
+475. & H & CD(CH3)2 & CD3 & H
+476. & H & CD(CH3)2 & H & CD3
+477. & CD3 & CD(CH3)2 & CD3 & H
+478. & CD3 & CD(CH3)2 & H & CD3
+479. & H & CD(CH3)2 & CD3 & CD3
+480. & CD3 & CD(CH3)2 & CD3 & CD3
+481. & H & H & CD(CH3)2 & H
+482. & CD3 & H & CD(CH3)2 & H
+483. & H & CD3 & CD(CH3)2 & H
+484. & H & H & CD(CH3)2 & CD3
+485. & CD3 & CD3 & CD(CH3)2 & H
+486. & CD3 & H & CD(CH3)2 & CD3
+487. & H & CD3 & CD(CH3)2 & CD3
+488. & CD3 & CD3 & CD(CH3)2 & CD3
+489. & CD(CD3)2 & H & H & H
+490. & CD(CD3)2 & CD3 & H & CD3
+491. & CD(CD3)2 & H & CD3 & H
+492. & CD(CD3)2 & H & H & CD3
+493. & CD(CD3)2 & CD3 & CD3 & H
+494. & CD(CD3)2 & CD3 & H & CD3
+495. & CD(CD3)2 & H & CD3 & CD3
+496. & CD(CD3)2 & CD3 & CD3 & CD3
+497. & H & CD(CD3)2 & H & H
+498. & CH3 & CD(CD3)2 & H & CD3
+499. & H & CD(CD3)2 & CD3 & H
+500. & H & CD(CD3)2 & H & CD3
+501. & CD3 & CD(CD3)2 & CD3 & H
+502. & CD3 & CD(CD3)2 & H & CD3
+503. & H & CD(CD3)2 & CD3 & CD3
+504. & CD3 & CD(CD3)2 & CD3 & CD3
+505. & H & H & CD(CD3)2 & H
+506. & CD3 & H & CD(CD3)2 & H
+507. & H & CD3 & CD(CD3)2 & H
+508. & H & H & CD(CD3)2 & CD3
+509. & CD3 & CD3 & CD(CD3)2 & H
+510. & CD3 & H & CD(CD3)2 & CD3
+511. & H & CD3 & CD(CD3)2 & CD3
+512. & CD3 & CD3 & CD(CD3)2 & CD3
+513. & CD2CH(CH3)2 & H & H & H
+514. & CD2CH(CH3)2 & CD3 & H & CD3
+515. & CD2CH(CH3)2 & H & CD3 & H
+516. & CD2CH(CH3)2 & H & H & CD3
+517. & CD2CH(CH3)2 & CD3 & CD3 & H
+518. & CD2CH(CH3)2 & CD3 & H & CD3
+519. & CD2CH(CH3)2 & H & CD3 & CD3
+520. & CD2CH(CH3)2 & CD3 & CD3 & CD3
+521. & H & CD2CH(CH3)2 & H & H
+522. & CD3 & CD2CH(CH3)2 & H & CD3
+523. & H & CD2CH(CH3)2 & CD3 & H
+524. & H & CD2CH(CH3)2 & H & CD3
+525. & CD3 & CD2CH(CH3)2 & CD3 & H
+526. & CD3 & CD2CH(CH3)2 & H & CD3
+527. & H & CD2CH(CH3)2 & CD3 & CD3
+528. & CD3 & CD2CH(CH3)2 & CD3 & CD3
+529. & H & H & CD2CH(CH3)2 & H
+530. & CD3 & H & CD2CH(CH3)2 & H
+531. & H & CD3 & CD2CH(CH3)2 & H
+532. & H & H & CD2CH(CH3)2 & CD3
+533. & CD3 & CD3 & CD2CH(CH3)2 & H
+534. & CD3 & H & CD2CH(CH3)2 & CD3
+535. & H & CD3 & CD2CH(CH3)2 & CD3
+536. & CD3 & CD3 & CD2CH(CH3)2 & CD3
+537. & CD2C(CH3)3 & H & H & H
+538. & CD2C(CH3)3 & CD3 & H & CD3
+539. & CD2C(CH3)3 & H & CD3 & H
+540. & CD2C(CH3)3 & H & H & CD3
+541. & CD2C(CH3)3 & CD3 & CD3 & H
+542. & CD2C(CH3)3 & CD3 & H & CD3
+543. & CD2C(CH3)3 & H & CD3 & CD3
+544. & CD2C(CH3)3 & CH3 & CD3 & CD3
+545. & H & CD2C(CH3)3 & H & H
+546. & CD3 & CD2C(CH3)3 & H & CD3
+547. & H & CD2C(CH3)3 & CD3 & H
+548. & H & CD2C(CH3)3 & H & CD3
+549. & CD3 & CD2C(CH3)3 & CD3 & H
+550. & CD3 & CD2C(CH3)3 & H & CD3
+551. & H & CD2C(CH3)3 & CD3 & CD3
+552. & CD3 & CD2C(CH3)3 & CD3 & CD3
+553. & H & H & CD2C(CH3)3 & H
+554. & CD3 & H & CD2C(CH3)3 & H
+555. & H & CD3 & CD2C(CH3)3 & H
+556. & H & H & CD2C(CH3)3 & CD3
+557. & CD3 & CD3 & CD2C(CH3)3 & H
+558. & CD3 & H & CD2C(CH3)3 & CD3
+559. & H & CD3 & CD2C(CH3)3 & CD3
+560. & CD3 & CD3 & CD2C(CH3)3 & CD3
+561. & CD2C(CH3)2CF3 & H & H & H
+562. & CD2C(CH3)2CF3 & CD3 & H & CD3
+563. & CD2C(CH3)2CF3 & H & CD3 & H
+564. & CD2C(CH3)2CF3 & H & H & CD3
+565. & CD2C(CH3)2CF3 & CD3 & CD3 & H
+566. & CD2C(CH3)2CF3 & CD3 & H & CD3
+567. & CD2C(CH3)2CF3 & H & CD3 & CD3
+568. & CD2C(CH3)2CF3 & CD3 & CD3 & CD3
+569. & H & CD2C(CH3)2CF3 & H & H
+570. & CD3 & CD2C(CH3)2CF3 & H & CD3
+571. & H & CD2C(CH3)2CF3 & CD3 & H
+572. & H & CD2C(CH3)2CF3 & H & CD3
+573. & CD3 & CD2C(CH3)2CF3 & CD3 & H
+574. & CD3 & CD2C(CH3)2CF3 & H & CD3
+575. & H & CD2C(CH3)2CF3 & CD3 & CD3
+576. & CD3 & CD2C(CH3)2CF3 & CD3 & CD3
+577. & H & H & CD2C(CH3)2CF3 & H
+578. & CD3 & H & CD2C(CH3)2CF3 & H
+579. & H & CD3 & CD2C(CH3)2CF3 & H
+580. & H & H & CD2C(CH3)2CF3 & CD3
+581. & CD3 & CD3 & CD2C(CH3)2CF3 & H
+582. & CD3 & H & CD2C(CH3)2CF3 & CD3
+583. & H & CD3 & CD2C(CH3)2CF3 & CD3
+584. & CD3 & CD3 & CD2C(CH3)2CF3 & CD3
+585. & CD2CH2CF3 & H & H & H
+586. & CD2CH2CF3 & CD3 & H & CD3
+587. & CD2CH2CF3 & H & CD3 & H
+588. & CD2CH2CF3 & H & H & CD3
+589. & CD2CH2CF3 & CD3 & CD3 & H
+590. & CD2CH2CF3 & CD3 & H & CD3
+591. & CD2CH2CF3 & H & CD3 & CD3
+592. & CD2CH2CF3 & CD3 & CD3 & CD3
+593. & H & CD2CH2CF3 & H & H
+594. & CD3 & CD2CH2CF3 & H & CD3
+595. & H & CD2CH2CF3 & CD3 & H
+596. & H & CD2CH2CF3 & H & CD3
+597. & CD3 & CD2CH2CF3 & CD3 & H
+598. & CD3 & CD2CH2CF3 & H & CD3
+599. & H & CD2CH2CF3 & CD3 & CD3
+600. & CD3 & CD2CH2CF3 & CD3 & CD3
+601. & H & H & CD2CH2CF3 & H
+602. & CD3 & H & CD2CH2CF3 & H
+603. & H & CD3 & CD2CH2CF3 & H
+604. & H & H & CD2CH2CF3 & CD3
+605. & CD3 & CD3 & CD2CH2CF3 & H
+606. & CD3 & H & CD2CH2CF3 & CD3
+607. & H & CD3 & CD2CH2CF3 & CD3
+608. & CD3 & CD3 & CD2CH2CF3 & CD3
+609. &  & H & H & H
+610. &  & CD3 & H & CD3
+611. &  & H & CD3 & H
+612. &  & H & H & CD3
+613. &  & CD3 & CD3 & H
+614. &  & CD3 & H & CD3
+615. &  & H & CD3 & CD3
+616. &  & CD3 & CD3 & CD3
+617. & H &  & H & H
+618. & CD3 &  & H & CD3
+619. & H &  & CD3 & H
+620. & H &  & H & CD3
+621. & CD3 &  & CD3 & H
+622. & CD3 &  & H & CD3
+623. & H &  & CD3 & CD3
+624. & CD3 &  & CD3 & CD3
+625. & H & H &  & H
+626. & CD3 & H &  & H
+627. & H & CD3 &  & H
+628. & H & H &  & CD3
+629. & CD3 & CD3 &  & H
+630. & CD3 & H &  & CD3
+631. & H & CD3 &  & CD3
+632. & CD3 & CD3 &  & CD3
+633. &  & H & H & H
+634. &  & CD3 & H & CD3
+635. &  & H & CD3 & H
+636. &  & H & H & CD3
+637. &  & CD3 & CD3 & H
+638. &  & CD3 & H & CD3
+639. &  & H & CD3 & CD3
+640. &  & CD3 & CD3 & CD3
+641. & H &  & H & H
+642. & CH3 &  & H & CD3
+643. & H &  & CD3 & H
+644. & H &  & H & CD3
+645. & CD3 &  & CD3 & H
+646. & CD3 &  & H & CD3
+647. & H &  & CD3 & CD3
+648. & CH3 &  & CD3 & CD3
+649. & H & H &  & H
+650. & CD3 & H &  & H
+651. & H & CD3 &  & H
+652. & H & H &  & CD3
+653. & CD3 & CD3 &  & H
+654. & CD3 & H &  & CD3
+655. & H & CD3 &  & CD3
+656. & CD3 & CD3 &  & CD3
+657. &  & H & H & H
+658. &  & CD3 & H & CD3
+659. &  & H & CD3 & H
+660. &  & H & H & CD3
+661. &  & CD3 & CD3 & H
+662. &  & CD3 & H & CD3
+663. &  & H & CD3 & CD3
+664. &  & CD3 & CD3 & CD3
+665. & H &  & H & H
+666. & CD3 &  & H & CD3
+667. & H &  & CD3 & H
+668. & H &  & H & CD3
+669. & CD3 &  & CD3 & H
+670. & CD3 &  & H & CD3
+671. & H &  & CD3 & CD3
+672. & CD3 &  & CD3 & CD3
+673. & H & H &  & H
+674. & CD3 & H &  & H
+675. & H & CD3 &  & H
+676. & H & H &  & CD3
+677. & CD3 & CD3 &  & H
+678. & CD3 & H &  & CD3
+679. & H & CD3 &  & CD3
+680. & CD3 & CD3 &  & CD3
+681. &  & H & H & H
+682. &  & CD3 & H & CD3
+683. &  & H & CD3 & H
+684. &  & H & H & CD3
+685. &  & CD3 & CD3 & H
+686. &  & CD3 & H & CD3
+687. &  & H & CD3 & CD3
+688. &  & CD3 & CD3 & CD3
+689. & H &  & H & H
+690. & CD3 &  & H & CD3
+691. & H &  & CD3 & H
+692. & H &  & H & CD3
+693. & CD3 &  & CD3 & H
+694. & CD3 &  & H & CD3
+695. & H &  & CD3 & CD3
+696. & CD3 &  & CD3 & CD3
+697. & H & H &  & H
+698. & CD3 & H &  & H
+699. & H & CD3 &  & H
+700. & H & H &  & CD3
+701. & CD3 & CD3 &  & H
+702. & CD3 & H &  & CD3
+703. & H & CD3 &  & CD3
+704. & CD3 & CD3 &  & CD3
+705. &  & H & H & H
+706. &  & CD3 & H & CD3
+707. &  & H & CD3 & H
+708. &  & H & H & CD3
+709. &  & CD3 & CD3 & H
+710. &  & CD3 & H & CD3
+711. &  & H & CD3 & CD3
+712. &  & CD3 & CD3 & CD3
+713. & H &  & H & H
+714. & CD3 &  & H & CD3
+715. & H &  & CD3 & H
+716. & H &  & H & CD3
+717. & CD3 &  & CD3 & H
+718. & CD3 &  & H & CD3
+719. & H &  & CD3 & CD3
+720. & CD3 &  & CD3 & CD3
+721. & H & H &  & H
+722. & CD3 & H &  & H
+723. & H & CD3 &  & H
+724. & H & H &  & CD3
+725. & CD3 & CD3 &  & H
+726. & CD3 & H &  & CD3
+727. & H & CD3 &  & CD3
+728. & CD3 & CD3 &  & CD3
+729. &  & H & H & H
+730. &  & CD3 & H & CD3
+731. &  & H & CD3 & H
+732. &  & H & H & CD3
+733. &  & CH3 & CH3 & H
+734. &  & CD3 & H & CD3
+735. &  & H & CD3 & CD3
+736. &  & CD3 & CD3 & CD3
+737. & H &  & H & CD3
+738. & CD3 &  & H & CD3
+739. & H &  & CD3 & H
+740. & H &  & H & CD3
+741. & CD3 &  & CD3 & H
+742. & CD3 &  & H & CD3
+743. & H &  & CD3 & CD3
+744. & CD3 &  & CD3 & CD3
+745. & H & H &  & H
+746. & CD3 & H &  & H
+747. & H & CD3 &  & H
+748. & H & H &  & CH3
+749. & CD3 & CD3 &  & H
+750. & CD3 & H &  & CD3
+751. & H & CD3 &  & CD3
+752. & CD3 & CD3 &  & CD3
+753. & CD(CH3)2 & H & CD2CH3 & H
+754. & CD(CH3)2 & H & CD(CH3)2 & H
+755. & CD(CH3)2 & H & CD2CH(CH3)2 & H
+756. & CD(CH3)2 & H & C(CH3)3 & H
+757. & CD(CH3)2 & H & CD2C(CH3)3 & H
+758. & CD(CH3)2 & H & CD2CH2CF3 & H
+759. & CD(CH3)2 & H & CD2C(CH3)2CF3 & H
+760. & CD(CH3)2 & H &  & H
+761. & CD(CH3)2 & H &  & H
+762. & CD(CH3)2 & H &  & H
+763. & CD(CH3)2 & H &  & H
+764. & CD(CH3)2 & H &  & H
+765. & CD(CH3)2 & H &  & H
+766. & C(CH3)3 & H & CD2CH3 & H
+767. & C(CH3)3 & H & CD(CH3)2 & H
+768. & C(CH3)3 & H & CD2CH(CH3)2 & H
+769. & C(CH3)3 & H & C(CH3)3 & H
+770. & C(CH3)3 & H & CD2C(CH3)3 & H
+771. & C(CH3)3 & H & CD2CH2CF3 & H
+772. & C(CH3)3 & H & CD2C(CH3)2CF3 & H
+773. & C(CH3)3 & H &  & H
+774. & C(CH3)3 & H &  & H
+775. & C(CH3)3 & H &  & H
+776. & C(CH3)3 & H &  & H
+777. & C(CH3)3 & H &  & H
+778. & C(CH3)3 & H &  & H
+779. & CD2C(CH3)3 & H & CD2CH3 & H
+780. & CD2C(CH3)3 & H & CD(CH3)2 & H
+781. & CD2C(CH3)3 & H & CD2CH(CH3)2 & H
+782. & CD2C(CH3)3 & H & C(CH3)3 & H
+783. & CD2C(CH3)3 & H & CD2C(CH3)3 & H
+784. & CD2C(CH3)3 & H & CD2CH2CF3 & H
+785. & CD2C(CH3)3 & H & CD2C(CH3)2CF3 & H
+786. & CD2C(CH3)3 & H &  & H
+787. & CD2C(CH3)3 & H &  & H
+788. & CD2C(CH3)3 & H &  & H
+789. & CD2C(CH3)3 & H &  & H
+790. & CD2C(CH3)3 & H &  & H
+791. & CD2C(CH3)3 & H &  & H
+792. &  & H & CD2CH3 & H
+793. &  & H & CD(CH3)2 & H
+794. &  & H & CD2CH(CH3)2 & H
+795. &  & H & C(CH3)3 & H
+796. &  & H & CD2C(CH3)3 & H
+797. &  & H & CD2CH2CF3 & H
+798. &  & H & CD2C(CH3)2CF3 & H
+799. &  & H &  & H
+800. &  & H &  & H
+801. &  & H &  & H
+802. &  & H &  & H
+803. &  & H &  & H
+804. &  & H &  & H
+805. &  & H & CD2CH3 & H
+806. &  & H & CD(CH3)2 & H
+807. &  & H & CD2CH(CH3)2 & H
+808. &  & H & C(CH3)3 & H
+809. &  & H & CD2C(CH3)3 & H
+810. &  & H & CD2CH2CF3 & H
+811. &  & H & CD2C(CH3)2CF3 & H
+812. &  & H &  & H
+813. &  & H &  & H
+814. &  & H &  & H
+815. &  & H &  & H
+816. &  & H &  & H
+817. &  & H &  & H
+818. &  & H & CD2CH3 & H
+819. &  & H & CD(CH3)2 & H
+820. &  & H & CD2CH(CH3)2 & H
+821. &  & H & C(CH3)3 & H
+822. &  & H & CD2C(CH3)3 & H
+823. &  & H & CD2CH2CF3 & H
+824. &  & H & CD2C(CH3)2CF3 & H
+825. &  & H &  & H
+826. &  & H &  & H
+827. &  & H &  & H
+828. &  & H &  & H
+829. &  & H &  & H
+830. &  & H &  & H
+831. &  & H & CD2CH3 & H
+832. &  & H & CD(CH3)2 & H
+833. &  & H & CD2CH(CH3)2 & H
+834. &  & H & C(CH3)3 & H
+835. &  & H & CD2C(CH3)3 & H
+836. &  & H & CD2CH2CF3 & H
+837. &  & H & CD2C(CH3)2CF3 & H
+838. &  & H &  & H
+839. &  & H &  & H
+840. &  & H &  & H
+841. &  & H &  & H
+842. &  & H &  & H
+843. &  & H &  & H
+844. &  & H & CD2CH3 & H
+845. &  & H & CD(CH3)2 & H
+846. &  & H & CD2CH(CH3)2 & H
+847. &  & H & C(CH3)3 & H
+848. &  & H & CD2C(CH3)3 & H
+849. &  & H & CD2CH2CF3 & H
+850. &  & H & CD2C(CH3)2CF3 & H
+851 . &  & H &  & H
+852. &  & H &  & H
+853. &  & H &  & H
+854. &  & H &  & H
+855. &  & H &  & H
+856. &  & H &  & H
+</table>
+In some embodiments, the compound is selected from the group consisting of Compound 1 through Compound 1,085,408, where:(I) for Compound 1 through Compound 542,704, Compound x has the formula Ir(LAp,i)(LBj)2; where x=856i+j−856; i is an integer from 1 to 634, and j is an integer from 1 to 856, and(II) for Compound 542,705 through Compound 1,085,408, Compound x has the formula Ir(LAm,i)(LBj)2; where x=856i+j+541,848; i is an integer from 1 to 634, and j is an integer from 1 to 856;
+In some embodiments, the compound can be an emissive dopant. In some embodiments, the compound can produce emissions via phosphorescence, fluorescence, thermally activated delayed fluorescence, i.e., TADF (also referred to as E-type delayed fluorescence), triplet-triplet annihilation, or combinations of these processes.
+In another embodiments, an organic light emitting device (OLED) that includes an anode; a cathode; and an organic layer, disposed between the anode and the cathode is described. The organic layer can include a compound having the formula Ir(LA)n(LB)3-n and its variants as described herein.
+The OLED disclosed herein can be incorporated into one or more of a consumer product, an electronic component module, and a lighting panel. The organic layer can be an emissive layer and the compound can be an emissive dopant in some embodiments, while the compound can be a non-emissive dopant in other embodiments.
+The organic layer can also include a host. In some embodiments, two or more hosts are preferred. In some embodiments, the hosts used maybe a) bipolar, b) electron transporting, c) hole transporting or d) wide band gap materials that play little role in charge transport. In some embodiments, the host can include a metal complex. The host can be a triphenylene containing benzo-fused thiophene or benzo-fused furan. Any substituent in the host can be an unfused substituent independently selected from the group consisting of CnH2n+1, OCnH2n+1, OAr1, N(CnH2n+1)2, N(Ar1)(Ar2), CH═CH-CnH2n+1, C≡C-CnH2n+1, Ar1, Ar1-Ar2, and CnH2n-Ar1, or the host has no substitution. In the preceding substituents n can range from 1 to 10; and Ar1 and Ar2 can be independently selected from the group consisting of benzene, biphenyl, naphthalene, triphenylene, carbazole, and heteroaromatic analogs thereof. The host can be an inorganic compound. For example a Zn containing inorganic material e.g. ZnS.
+The host can be a compound comprising at least one chemical group selected from the group consisting of triphenylene, carbazole, dibenzothiophene, dibenzofuran, dibenzoselenophene, azatriphenylene, azacarbazole, aza-dibenzothiophene, aza-dibenzofuran, and aza-dibenzoselenophene. The host can include a metal complex. The host can be, but is not limited to, a specific compound selected from the group consisting of:
+and combinations thereof. Additional information on possible hosts is provided below.
+In yet another aspect of the present disclosure, a formulation that comprises a compound according to Formula Ir(LA)n(LB)3-n is described. The formulation can include one or more components selected from the group consisting of a solvent, a host, a hole injection material, hole transport material, and an electron transport layer material, disclosed herein.
+Combination with Other Materials
+The materials described herein as useful for a particular layer in an organic light emitting device may be used in combination with a wide variety of other materials present in the device. For example, emissive dopants disclosed herein may be used in conjunction with a wide variety of hosts, transport layers, blocking layers, injection layers, electrodes and other layers that may be present. The materials described or referred to below are non-limiting examples of materials that may be useful in combination with the compounds disclosed herein, and one of skill in the art can readily consult the literature to identify other materials that may be useful in combination.
+Conductivity Dopants:
+A charge transport layer can be doped with conductivity dopants to substantially alter its density of charge carriers, which will in turn alter its conductivity. The conductivity is increased by generating charge carriers in the matrix material, and depending on the type of dopant, a change in the Fermi level of the semiconductor may also be achieved. Hole-transporting layer can be doped by p-type conductivity dopants and n-type conductivity dopants are used in the electron-transporting layer.
+Non-limiting examples of the conductivity dopants that may be used in an OLED in combination with materials disclosed herein are exemplified below together with references that disclose those materials: EP01617493, EP01968131, EP2020694, EP2684932, US20050139810, US20070160905, US20090167167, US2010288362, WO06081780, WO2009003455, WO2009008277, WO2009011327, WO2014009310, US2007252140, US2015060804 and US2012146012.
+HIL/HTL:
+A hole injecting/transporting material to be used in the present invention is not particularly limited, and any compound may be used as long as the compound is typically used as a hole injecting/transporting material. Examples of the material include, but are not limited to: a phthalocyanine or porphyrin derivative; an aromatic amine derivative; an indolocarbazole derivative; a polymer containing fluorohydrocarbon; a polymer with conductivity dopants; a conducting polymer, such as PEDOT/PSS; a self-assembly monomer derived from compounds such as phosphonic acid and silane derivatives; a metal oxide derivative, such as MoOx; a p-type semiconducting organic compound, such as 1,4,5,8,9,12-Hexaazatriphenylenehexacarbonitrile; a metal complex, and a cross-linkable compounds.
+Examples of aromatic amine derivatives used in HIL or HTL include, but not limit to the following general structures:
+Each of Ar1 to Ar9 is selected from the group consisting of aromatic hydrocarbon cyclic compounds such as benzene, biphenyl, triphenyl, triphenylene, naphthalene, anthracene, phenalene, phenanthrene, fluorene, pyrene, chrysene, perylene, and azulene; the group consisting of aromatic heterocyclic compounds such as dibenzothiophene, dibenzofuran, dibenzoselenophene, furan, thiophene, benzofuran, benzothiophene, benzoselenophene, carbazole, indolocarbazole, pyridylindole, pyrrolodipyridine, pyrazole, imidazole, triazole, oxazole, thiazole, oxadiazole, oxatriazole, dioxazole, thiadiazole, pyridine, pyridazine, pyrimidine, pyrazine, triazine, oxazine, oxathiazine, oxadiazine, indole, benzimidazole, indazole, indoxazine, benzoxazole, benzisoxazole, benzothiazole, quinoline, isoquinoline, cinnoline, quinazoline, quinoxaline, naphthyridine, phthalazine, pteridine, xanthene, acridine, phenazine, phenothiazine, phenoxazine, benzofuropyridine, furodipyridine, benzothienopyridine, thienodipyridine, benzoselenophenopyridine, and selenophenodipyridine; and the group consisting of 2 to 10 cyclic structural units which are groups of the same type or different types selected from the aromatic hydrocarbon cyclic group and the aromatic heterocyclic group and are bonded to each other directly or via at least one of oxygen atom, nitrogen atom, sulfur atom, silicon atom, phosphorus atom, boron atom, chain structural unit and the aliphatic cyclic group. Each Ar may be unsubstituted or may be substituted by a substituent selected from the group consisting of deuterium, halide, alkyl, cycloalkyl, heteroalkyl, arylalkyl, alkoxy, aryloxy, amino, silyl, alkenyl, cycloalkenyl, heteroalkenyl, alkynyl, aryl, heteroaryl, acyl, carbonyl, carboxylic acids, ester, nitrile, isonitrile, sulfanyl, sulfinyl, sulfonyl, phosphino, and combinations thereof.
+In one aspect, Ar1 to Ar9 is independently selected from the group consisting of:
+wherein k is an integer from 1 to 20; X101 to X108 is C (including CH) or N; Z101 is NAr1, O, or S; Ar1 has the same group defined above.
+Examples of metal complexes used in HIL or HTL include, but are not limited to the following general formula:
+wherein Met is a metal, which can have an atomic weight greater than 40; (Y101-Y102) is a bidentate ligand, Y101 and Y102 are independently selected from C, N, O, P, and S; L101 is an ancillary ligand; k' is an integer value from 1 to the maximum number of ligands that may be attached to the metal; and k'+k″ is the maximum number of ligands that may be attached to the metal.
+In one aspect, (Y101-Y102) is a 2-phenylpyridine derivative. In another aspect, (Y101-Y102) is a carbene ligand. In another aspect, Met is selected from Ir, Pt, Os, and Zn. In a further aspect, the metal complex has a smallest oxidation potential in solution vs. Fc+/Fc couple less than about 0.6 V.
+Non-limiting examples of the HIL and HTL materials that may be used in an OLED in combination with materials disclosed herein are exemplified below together with references that disclose those materials: CN102702075, DE102012005215, EP01624500, EP01698613, EP01806334, EP01930964, EP01972613, EP01997799, EP02011790, EP02055700, EP02055701, EP1725079, EP2085382, EP2660300, EP650955, JP07-073529, JP2005112765, JP2007091719, JP2008021687, JP2014-009196, KR20110088898, KR20130077473, TW201139402, U.S. Pat. No. 06,517,957, US20020158242, US20030162053, US20050123751, US20060182993, US20060240279, US20070145888, US20070181874, US20070278938, US20080014464, US20080091025, US20080106190, US20080124572, US20080145707, US20080220265, US20080233434, US20080303417, US2008107919, US20090115320, US20090167161, US2009066235, US2011007385, US20110163302, US2011240968, US2011278551, US2012205642, US2013241401, US20140117329, US2014183517, U.S. Pat. No. 5,061,569, U.S. Pat. No. 5,639,914, WO05075451, WO07125714, WO08023550, WO08023759, WO2009145016, WO2010061824, WO2011075644, WO2012177006, WO2013018530, WO2013039073, WO2013087142, WO2013118812, WO2013120577, WO2013157367, WO2013175747, WO2014002873, WO2014015935, WO2014015937, WO2014030872, WO2014030921, WO2014034791, WO2014104514, WO2014157018.
+EBL:
+An electron blocking layer (EBL) may be used to reduce the number of electrons and/or excitons that leave the emissive layer. The presence of such a blocking layer in a device may result in substantially higher efficiencies, and or longer lifetime, as compared to a similar device lacking a blocking layer. Also, a blocking layer may be used to confine emission to a desired region of an OLED. In some embodiments, the EBL material has a higher LUMO (closer to the vacuum level) and/or higher triplet energy than the emitter closest to the EBL interface. In some embodiments, the EBL material has a higher LUMO (closer to the vacuum level) and or higher triplet energy than one or more of the hosts closest to the EBL interface. In one aspect, the compound used in EBL contains the same molecule or the same functional groups used as one of the hosts described below.
+Host:
+The light emitting layer of the organic EL device of the present invention preferably contains at least a metal complex as light emitting material, and may contain a host material using the metal complex as a dopant material. Examples of the host material are not particularly limited, and any metal complexes or organic compounds may be used as long as the triplet energy of the host is larger than that of the dopant. Any host material may be used with any dopant so long as the triplet criteria is satisfied.
+Examples of metal complexes used as host are preferred to have the following general formula:
+wherein Met is a metal; (Y103-Y104) is a bidentate ligand, Y103 and Y104 are independently selected from C, N, O, P, and S; L101 is an another ligand; k' is an integer value from 1 to the maximum number of ligands that may be attached to the metal; and k'+k″ is the maximum number of ligands that may be attached to the metal.
+In one aspect, the metal complexes are:
+wherein (O-N) is a bidentate ligand, having metal coordinated to atoms O and N.
+In another aspect, Met is selected from Ir and Pt. In a further aspect, (Y103-Y104) is a carbene ligand.
+Examples of other organic compounds used as host are selected from the group consisting of aromatic hydrocarbon cyclic compounds such as benzene, biphenyl, triphenyl, triphenylene, tetraphenylene, naphthalene, anthracene, phenalene, phenanthrene, fluorene, pyrene, chrysene, perylene, and azulene; the group consisting of aromatic heterocyclic compounds such as dibenzothiophene, dibenzofuran, dibenzoselenophene, furan, thiophene, benzofuran, benzothiophene, benzoselenophene, carbazole, indolocarbazole, pyridylindole, pyrrolodipyridine, pyrazole, imidazole, triazole, oxazole, thiazole, oxadiazole, oxatriazole, dioxazole, thiadiazole, pyridine, pyridazine, pyrimidine, pyrazine, triazine, oxazine, oxathiazine, oxadiazine, indole, benzimidazole, indazole, indoxazine, benzoxazole, benzisoxazole, benzothiazole, quinoline, isoquinoline, cinnoline, quinazoline, quinoxaline, naphthyridine, phthalazine, pteridine, xanthene, acridine, phenazine, phenothiazine, phenoxazine, benzofuropyridine, furodipyridine, benzothienopyridine, thienodipyridine, benzoselenophenopyridine, and selenophenodipyridine; and the group consisting of 2 to 10 cyclic structural units which are groups of the same type or different types selected from the aromatic hydrocarbon cyclic group and the aromatic heterocyclic group and are bonded to each other directly or via at least one of oxygen atom, nitrogen atom, sulfur atom, silicon atom, phosphorus atom, boron atom, chain structural unit and the aliphatic cyclic group. Each option within each group may be unsubstituted or may be substituted by a substituent selected from the group consisting of deuterium, halide, alkyl, cycloalkyl, heteroalkyl, arylalkyl, alkoxy, aryloxy, amino, silyl, alkenyl, cycloalkenyl, heteroalkenyl, alkynyl, aryl, heteroaryl, acyl, carbonyl, carboxylic acids, ester, nitrile, isonitrile, sulfanyl, sulfinyl, sulfonyl, phosphino, and combinations thereof.
+In one aspect, the host compound contains at least one of the following groups in the molecule:
+wherein each of R101 to R107 is independently selected from the group consisting of hydrogen, deuterium, halide, alkyl, cycloalkyl, heteroalkyl, arylalkyl, alkoxy, aryloxy, amino, silyl, alkenyl, cycloalkenyl, heteroalkenyl, alkynyl, aryl, heteroaryl, acyl, carbonyl, carboxylic acids, ester, nitrile, isonitrile, sulfanyl, sulfinyl, sulfonyl, phosphino, and combinations thereof, and when it is aryl or heteroaryl, it has the similar definition as Ar's mentioned above. k is an integer from 0 to 20 or 1 to 20; k'″ is an integer from 0 to 20. X101 to X108 is selected from C (including CH) or N. Z101 and Z102 is selected from NR101, O, or S.
+Non-limiting examples of the host materials that may be used in an OLED in combination with materials disclosed herein are exemplified below together with references that disclose those materials: EP2034538, EP2034538A, EP2757608, JP2007254297, KR20100079458, KR20120088644, KR20120129733, KR20130115564, TW201329200, US20030175553, US20050238919, US20060280965, US20090017330, US20090030202, US20090167162, US20090302743, US20090309488, US20100012931, US20100084966, US20100187984, US2010187984, US2012075273, US2012126221, US2013009543, US2013105787, US2013175519, US2014001446, US20140183503, US20140225088, US2014034914, U.S. Pat. No. 7,154,114, WO2001039234, WO2004093207, WO2005014551, WO2005089025, WO2006072002, WO2006114966, WO2007063754, WO2008056746, WO2009003898, WO2009021126, WO2009063833, WO2009066778, WO2009066779, WO2009086028, WO2010056066, WO2010107244, WO2011081423, WO2011081431, WO2011086863, WO2012128298, WO2012133644, WO2012133649, WO2013024872, WO2013035275, WO2013081315, WO2013191404, WO2014142472,
+Additional Emitters:
+One or more additional emitter dopants may be used in conjunction with the compound of the present disclosure. Examples of the additional emitter dopants are not particularly limited, and any compounds may be used as long as the compounds are typically used as emitter materials. Examples of suitable emitter materials include, but are not limited to, compounds which can produce emissions via phosphorescence, fluorescence, thermally activated delayed fluorescence, i.e., TADF (also referred to as E-type delayed fluorescence), triplet-triplet annihilation, or combinations of these processes.
+Non-limiting examples of the emitter materials that may be used in an OLED in combination with materials disclosed herein are exemplified below together with references that disclose those materials: CN103694277, CN1696137, EB01238981, EP01239526, EP01961743, EP1239526, EP1244155, EP1642951, EP1647554, EP1841834, EP1841834B, EP2062907, EP2730583, JP2012074444, JP2013110263, JP4478555, KR1020090133652, KR20120032054, KR20130043460, TW201332980, U.S. Pat. No. 06,699,599, U.S. Pat. No. 06,916,554, US20010019782, US20020034656, US20030068526, US20030072964, US20030138657, US20050123788, US20050244673, US2005123791, US2005260449, US20060008670, US20060065890, US20060127696, US20060134459, US20060134462, US20060202194, US20060251923, US20070034863, US20070087321, US20070103060, US20070111026, US20070190359, US20070231600, US2007034863, US2007104979, US2007104980, US2007138437, US2007224450, US2007278936, US20080020237, US20080233410, US20080261076, US20080297033, US200805851, US2008161567, US2008210930, US20090039776, US20090108737, US20090115322, US20090179555, US2009085476, US2009104472, US20100090591, US20100148663, US20100244004, US20100295032, US2010102716, US2010105902, US2010244004, US2010270916, US20110057559, US20110108822, US20110204333, US2011215710, US2011227049, US2011285275, US2012292601, US20130146848, US2013033172, US2013165653, US2013181190, US2013334521, US20140246656, US2014103305, U.S. Pat. No. 6,303,238, U.S. Pat. No. 6,413,656, U.S. Pat. No. 6,653,654, U.S. Pat. No. 6,670,645, U.S. Pat. No. 6,687,266, U.S. Pat. No. 6,835,469, U.S. Pat. No. 6,921,915, U.S. Pat. No. 7,279,704, U.S. Pat. No. 7,332,232, U.S. Pat. No. 7,378,162, U.S. Pat. No. 7,534,505, U.S. Pat. No. 7,675,228, U.S. Pat. No. 7,728,137, U.S. Pat. No. 7,740,957, U.S. Pat. No. 7,759,489, U.S. Pat. No. 7,951,947, U.S. Pat. No. 8,067,099, U.S. Pat. No. 8,592,586, U.S. Pat. No. 8,871,361, WO06081973, WO06121811, WO07018067, WO07108362, WO07115970, WO07115981, WO08035571, WO2002015645, WO2003040257, WO2005019373, WO2006056418, WO2008054584, WO2008078800, WO2008096609, WO2008101842, WO2009000673, WO2009050281, WO2009100991, WO2010028151, WO2010054731, WO2010086089, WO2010118029, WO2011044988, WO2011051404, WO2011107491, WO2012020327, WO2012163471, WO2013094620, WO2013107487, WO2013174471, WO2014007565, WO2014008982, WO2014023377, WO2014024131, WO2014031977, WO2014038456, WO2014112450.
+HBL:
+A hole blocking layer (HBL) may be used to reduce the number of holes and/or excitons that leave the emissive layer. The presence of such a blocking layer in a device may result in substantially higher efficiencies and/or longer lifetime as compared to a similar device lacking a blocking layer. Also, a blocking layer may be used to confine emission to a desired region of an OLED. In some embodiments, the HBL material has a lower HOMO (further from the vacuum level) and or higher triplet energy than the emitter closest to the HBL interface. In some embodiments, the HBL material has a lower HOMO (further from the vacuum level) and or higher triplet energy than one or more of the hosts closest to the HBL interface.
+In one aspect, compound used in HBL contains the same molecule or the same functional groups used as host described above.
+In another aspect, compound used in HBL contains at least one of the following groups in the molecule:
+wherein k is an integer from 1 to 20; L101 is an another ligand, k' is an integer from 1 to 3.
+ETL:
+Electron transport layer (ETL) may include a material capable of transporting electrons. Electron transport layer may be intrinsic (undoped), or doped. Doping may be used to enhance conductivity. Examples of the ETL material are not particularly limited, and any metal complexes or organic compounds may be used as long as they are typically used to transport electrons.
+In one aspect, compound used in ETL contains at least one of the following groups in the molecule:
+wherein R101 is selected from the group consisting of hydrogen, deuterium, halide, alkyl, cycloalkyl, heteroalkyl, arylalkyl, alkoxy, aryloxy, amino, silyl, alkenyl, cycloalkenyl, heteroalkenyl, alkynyl, aryl, heteroaryl, acyl, carbonyl, carboxylic acids, ester, nitrile, isonitrile, sulfanyl, sulfinyl, sulfonyl, phosphino, and combinations thereof, when it is aryl or heteroaryl, it has the similar definition as Ar's mentioned above. Ar1 to Ar3 has the similar definition as Ar's mentioned above. k is an integer from 1 to 20. X101 to X108 is selected from C (including CH) or N.
+In another aspect, the metal complexes used in ETL contains, but not limit to the following general formula:
+wherein (O-N) or (N-N) is a bidentate ligand, having metal coordinated to atoms O, N or N, N; L101 is another ligand; k' is an integer value from 1 to the maximum number of ligands that may be attached to the metal.
+Non-limiting examples of the ETL materials that may be used in an OLED in combination with materials disclosed herein are exemplified below together with references that disclose those materials: CN103508940, EP01602648, EP01734038, EP01956007, JP2004-022334, JP2005149918, JP2005-268199, KR0117693, KR20130108183, US20040036077, US20070104977, US2007018155, US20090101870, US20090115316, US20090140637, US20090179554, US2009218940, US2010108990, US2011156017, US2011210320, US2012193612, US2012214993, US2014014925, US2014014927, US20140284580, U.S. Pat. No. 6,656,612, U.S. Pat. No. 8415031, WO2003060956, WO2007111263, WO2009148269, WO2010067894, WO2010072300, WO2011074770, WO2011105373, WO2013079217, WO2013145667, WO2013180376, WO2014104499, WO2014104535,
+Charge Generation Layer (CGL)
+In tandem or stacked OLEDs, the CGL plays an essential role in the performance, which is composed of an n-doped layer and a p-doped layer for injection of electrons and holes, respectively. Electrons and holes are supplied from the CGL and electrodes. The consumed electrons and holes in the CGL are refilled by the electrons and holes injected from the cathode and anode, respectively; then, the bipolar currents reach a steady state gradually. Typical CGL materials include n and p conductivity dopants used in the transport layers.
+In any above-mentioned compounds used in each layer of the OLED device, the hydrogen atoms can be partially or fully deuterated. Thus, any specifically listed substituent, such as, without limitation, methyl, phenyl, pyridyl, etc. may be undeuterated, partially deuterated, and fully deuterated versions thereof. Similarly, classes of substituents such as, without limitation, alkyl, aryl, cycloalkyl, heteroaryl, etc. also may be undeuterated, partially deuterated, and fully deuterated versions thereof.
+Experimental
+Synthesis of Compound 275205
+Step 1:
+4-Iodo-1,2-dimethylbenzene (12.9 g, 55.6 mmol) was charged into the reaction flask with dimethyl sulfoxide-d6 (D6-DMSO)(60 ml, 857 mmol) followed by sodium tert-butoxide (1.8 g, 18.75 mmol). This mixture was degassed with nitrogen then was stirred at 65° C. for 18 hours. The reaction was cooled down and quenched with 75 mL of D2O. This mixture was stirred at room temperature (˜22° C.) for 45 minutes. The mixture was then diluted with 200 mL of water and was extracted with 3×70 mL of dichloromethane (DCM). These extracts were dried over magnesium sulfate, filtered and concentrated under vacuum. The crude residue was subjected to column chromatography on silica gel eluted with DCM/heptanes 95/5 (v/v). Pure fractions were combined and concentrated under vacuum yielding 4-iodo-1,2-bis(methyl-d3)benzene (12.1 g, 50.8 mmol, 91% yield).
+Step 2
+4-iodo-1,2-bis(methyl-d3)benzene (16.9 g, 71.0 mmol), 4,4,4',4',5,5,5',5'-octamethyl-2,2'-bi(1,3,2-dioxaborolane) (19.83 g, 78 mmol), and 1,1'-bis(diphenylphosphino)ferrocene-palladium(II) dichloride (2.030 g, 2.484 mmol) were charged into the reaction flask with 200 mL of dioxane, followed by the addition of potassium acetate (14.61 g, 149 mmol). This mixture was degassed with nitrogen then heated to reflux for 18 hours. The reaction mixture was cooled down to room temperature 22° C.), then dioxane was removed under vacuum. The crude material was diluted with 300 mL of water and extracted with 3×70 mL of DCM. These extracts were dried over magnesium sulfate, filtered and concentrated under vacuum. The crude residue was subjected to column chromatography on silica gel eluted with DCM/heptanes 40/60 to 70/30 (v/v) gradient mixture, yielding 2-(3,4-bis(methyl-d3)phenyl)-4,4,5,5-tetramethyl-1,3,2-dioxaborolane (11.5 g, 48.3 mmol, 68.0% yield) as a dark oil.
+Step 3
+8-(4-chloro-5-methylpyridin-2-yl)-2-methylbenzofuro[2,3-b]pyridine (6.2 g, 20.08 mmol), 2-(3,4-bis(methyl-d3)phenyl)-4,4,5,5-tetramethyl-1,3,2-dioxaborolane (8.37 g, 35.1 mmol), dicyclohexyl(2',6'-dimethoxy-[1,1'-biphenyl]-2-yl)phosphane (SPhos) (1.6 g, 3.90 mmol), and tris(dibenzylideneacetone)palladium(0) (Pd2(dba)3) (0.643 g, 0.703 mmol) were charged into the reaction flask with 350 mL of 1,2-dimethoxyethane (DME). Potassium phosphate tribasic monohydrate (23.09 g, 100 mmol) was dissolved in 50 mL of water then charged into the reaction flask. This mixture was degassed and heated to reflux for 18 hours. The reaction mixture was cooled down to room temperature and DME was removed under vacuum. The residue was partitioned between DCM/water. The DCM extracts were combined, dried over magnesium sulfate, then filtered and concentrated under vacuum. The crude residue was subjected to column chromatography on silica gel eluted with ethyl acetate/DCM 2/98 to 10/90 (v/v) gradient mixture. The pure fractions were combined and concentrated under vacuum yielding 8-(4-(3,4-bis(methyl-d3)phenyl)-5-methylpyridin-2-yl)-2-methylbenzofuro[2,3-b]pyridine (5 g, 13.00 mmol, 64.8% yield)
+Step 4
+8-(4-(3,4-bis(methyl-d3)phenyl)-5-methylpyridin-2-yl)-2-methylbenzofuro[2,3-b]pyridine (5 g, 13.00 mmol) was dissolved in 45 mL of tetrahydrofuran (THF). Dimethyl sulfoxide-d6 (40 ml, 571 mmol) was added by syringe into the reaction mixture. Sodium tert-butoxide (0.63 g, 6.56 mmol) was added as one portion to the reaction mixture. This mixture was degassed and heated at 65° C. for 17 hours, then cooled down to room temperature. The reaction mixture was quenched with 60 mL of D20 and was stirred at room temperature for 45 minutes. This mixture was then diluted with 200 mL of water, then extracted with 3×70 mL DCM. These extracts were combined, dried over magnesium sulfate, then filtered and concentrated under vacuum, The crude residue was subjected to column chromatography on silica gel columns eluted with 1-3 vol-% THF/97-99 vol-% DCM. The resulting product fractions were combined and concentrated under vacuum yielding 4 g of product. This material was recrystallized from ethyl acetate several times yielding 8-(4-(3,4-bis(methyl-d3)phenyl)-5-(methyl-d3)pyridin-2-yl)-2-(methyl-d3)benzofuro[2,3-b]pyridine (2.1 g, 5.38 mmol, 41.4% yield).
+Step 5
+8-(4-(3,4-bis(methyl-d3)phenyl)-5-(methyl-d3)pyridin-2-yl)-2-(methyl-d3)benzofuro[2,3-b]pyridine (2.1 g, 5.38 mmol) was dissolved in 65 mL of ethanol. The “iridium salt” shown above (2.23 g, 2.98 mmol) was charged into the reaction mixture with 60 mL of methanol. This mixture was degassed with nitrogen then heated in an oil bath at 73° C. for 6 days. Heating was discontinued. The reaction was diluted with 50 mL of methanol, then filtered under vacuum. The resulting material was dried under vacuum, then dissolved in 400 mL of DCM before being passed through a plug of activated basic alumina. The DCM filtrate was concentrated under vacuum then passed through 7×120 g silica gel columns eluting the columns with 1st 90-99 vol-% toluene/1-10 vol-% heptanes and second with 1-2 vol-% ethyl acetate/98-99 vol-% toluene. Clean product fractions yielded the desired iridium complex (0.4 g, 0.433 mmol, 8.05% yield).
+Synthsis of Compound 812773
+Step 1
+2,5-Dichloro-4-methylpyridine (7 g, 43.2 mmol), 2-methyl-8-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)benzofuro[2,3-b]pyridine (13.36 g, 43.2 mmol), and potassium carbonate (11.94 g, 86 mmol) were suspended in a mixture of DME (180 ml) and water (10 ml) under nitrogen at room temperature. Tetrakis(triphenylphosphine)palladium(0) (Pd(PPh3)4) (0.499 g, 0.432 mmol) was added as one portion, the reaction mixture was degassed and heated at 100° C. for 14 hours under nitrogen. The reaction mixture was then cooled down to room temperature and the organic phase was separated and filtered. Ethanol (100 ml) was added as one portion and the resulting mixture was stirred, then the white precipitate was filtered off. The remaining solution was evaporated and the residue was subjected to column chromatography on silica gel column, eluted with heptanes/DCM 1/1 (v/v), then heptanes/EtOAc 4/1 (v/v) to yield a white solid, which was combined with the white precipitate. The combined solids were recrystallized from DCM/heptanes, yielding 8-(5-chloro-4-methylpyridin-2-yl)-2-methylbenzofuro[2,3-b]pyridine (11 g, 83% yield).
+Step 2
+8-(5-Chloro-4-methylpyridin-2-yl)-2-methylbenzofuro[2,3-b]pyridine (11 g, 35.6 mmol), p-tolylboronic acid (5.81 g, 42.8 mmol), and potassium phosphate tribasic hydrate (16.41 g, 71.3 mmol) were suspended in the mixture of DME (150 ml) and water (5 ml) to give a colorless suspension. Pd2(dba)3 (0.326 g, 0.356 mmol) and dicyclohexyl(2',6'-dimethoxy-[1,1'-biphenyl]-2-yl)phosphane (Sphos, 0.293 g, 0.713 mmol) were added as one portion. The reaction mixture was degassed and heated at 100° C. for 14 hours under nitrogen. The reaction mixture was then cooled down to room temperature. The organic phase was separated, filtered, and evaporated. The residue was then subjected to column chromatography on silica gel, eluted with heptanes/THF 9/1 (v/v) gradient mixture, providing 2-methyl-8-(4-methyl-5-(p-tolyl)pyridin-2-yl)benzofuro[2,3-b]pyridine as a white solid (9.2 g, 71% yield).
+Step 3
+2-Methyl-8-(4-methyl-5-(p-tolyl)pyridin-2-yl)benzofuro[2,3-b]pyridine was dissolved in 55 g of DMSO-d6, then 1.2 of sodium tert-butoxide was added. The reaction mixture was degassed and stirred under nitrogen at 60° C. for 12 h. The reaction mixture was quenched with D2O, diluted with water, and extracted with ethyl acetate. The organic solution was dried over sodium sulfate, filtered, and evaporated. The residue was subjected to column chromatography on silica gel, eluted with heptanes/THF 9/1 (v/v), providing 3.7 g of deuterated product with a 40% yield.
+Step 4
+2-(Methyl-d3)-8-(4-(methyl-d3)-5-(4-(methyl-d3)phenyl)pyridin-2-yl)benzofuro[2,3-b]pyridine (3.67 g, 9.83 mmol, 2.45 eq.) and the above iridium complex triflic salt were suspended in 50 ml of a 1/1 (v/v) mixture of ethanol and methanol. The reaction mixture was degassed and heated to reflux under nitrogen for 96 hour. Then, the reaction mixture was cooled to room temperature and a yellow solid precipitate was filtered off. Pure material was obtained by column chromatography on silica gel, eluted with toluene/heptanes 9/1 (v/v), followed by crystallization from toluene/heptanes and DCM/methanol, providing the target compound (1.1 g, 30% yield).
+Device Examples
+All example devices were fabricated by high vacuum (<10−7 Torr) thermal evaporation. The anode electrode was 750 Å of indium tin oxide (ITO). The cathode consisted of 10 Å of Liq (8-hydroxyquinoline lithium) followed by 1,000 Å of Al. All devices were encapsulated with a glass lid sealed with an epoxy resin in a nitrogen glove box (<1 ppm of H2O and O2) immediately after fabrication with a moisture getter incorporated inside the package. The organic stack of the device examples consisted of sequentially, from the ITO surface: 100 Å of HAT-CN as the hole injection layer (HIL); 450 Å of HTM as a hole transporting layer (HTL); emissive layer (EML) with thickness 400 Å. Emissive layer containing H-host (H1): E-host (H2) in a 6:4 weight ratio and 12 weight % of green emitter. 350 Å of Liq (8-hydroxyquinoline lithium) doped with 40% of ETM as the ETL. Device structure is shown in the Table 1.
+<table>
+<header>
+TABLE 1
+</header>
+schematic device structure
+ & Layer & Material & Thickness [Å]
+ & 
+ & Anode & ITO & 750
+ & HIL & HAT-CN & 100
+ & HTL & HTM & 450
+ & Green EML & H1:H2: example dopant & 400
+ & ETL & Liq: ETM 40% & 350
+ & EIL & Liq & 10
+ & Cathode & Al & 1,000
+ & 
+</table>
+Table 1 shows the schematic device structure. The chemical structures of the materials used in the device examples are shown below.
+Upon fabrication, the devices are tested for EL, JVL and lifetime at DC 80 mA/cm2. LT95 at 1,000 nits was calculated from 80 mA/cm2 assuming an acceleration factor of 1.8. Device performance is shown in the Table 2
+<table>
+<header>
+TABLE 2
+</header>
+Device performance
+ & 1931 CIE & At 1,000 nits
+Emitter &  &  & λ max & FWHM & Voltage & LE & EQE & Relative LT
+12% & x & y & [nm] & [nm] & [V] & [cd/A] & [%] & 95% [h]
+Compound 275205 & 0.371 & 0.609 & 535 & 60 & 3.1 & 91 & 24 & 137
+Comparative & 0.328 & 0.634 & 524 & 60 & 3.1 & 96 & 25 & 100
+Example 1
+Compound 812773 & 0.352 & 0.623 & 530 & 61 & 3.0 & 105 & 27 & 85
+Comparative & 0.337 & 0.631 & 526 & 60 & 3.1 & 94 & 24 & 146
+Example 2
+</table>
+Comparing compound 275205 and the comparative example 1, the stability of compound 275205 in a device is much better than the comparative example 1. Presumably, the extend conjugation of the pyridine ring helps the electron stability and extends the device lifetime. Comparing compound 812773 and the comparative example 2, compound 812773 unexpectedly has a higher efficiency than the comparative example 2 (27% eqe vs 24% eqe at 1000 nits). Overall, inclusion of a partially twist ary ring on the pyridine ring improve the life time and efficiency without red shifting the color significantly.
+It is understood that the various embodiments described herein are by way of example only, and are not intended to limit the scope of the invention. For example, many of the materials and structures described herein may be substituted with other materials and structures without deviating from the spirit of the invention. The present invention as claimed may therefore include variations from the particular examples and preferred embodiments described herein, as will be apparent to one of skill in the art. It is understood that various theories as to why the invention works are not intended to be limiting.

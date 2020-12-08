@@ -1,9 +1,8 @@
 // -*- Mode: JavaScript; tab-width: 2; indent-tabs-mode: nil; -*-
 // vim:set ft=javascript ts=2 sw=2 sts=2 cindent:
 var VisualizerUI = (function($, window, undefined) {
-    var VisualizerUI = function(dispatcher, svg) {
+    var VisualizerUI = function(dispatcher, svg, style) {
       var that = this;
-
       var messagePostOutFadeDelay = 1000;
       var messageDefaultFadeDelay = 3000;
       var defaultFloatFormat = '%.1f/right';
@@ -68,7 +67,7 @@ var VisualizerUI = (function($, window, undefined) {
         }, 2000);
         $('#source_files').hide();
       }
-      
+
       /* END "no svg" message - related */
 
       /* START collection browser sorting - related */
@@ -386,7 +385,7 @@ var VisualizerUI = (function($, window, undefined) {
       }
 
       var displaySpanComment = function(
-          evt, target, spanId, spanType, mods, spanText, commentText, 
+          evt, target, spanId, spanType, mods, spanText, commentText,
           commentType, normalizations) {
 
         var immediately = false;
@@ -404,8 +403,8 @@ var VisualizerUI = (function($, window, undefined) {
         }
 
         comment += '</div>';
-        comment += ('<div class="comment_text">"' + 
-                    Util.escapeHTML(spanText) + 
+        comment += ('<div class="comment_text">"' +
+                    Util.escapeHTML(spanText) +
                     '"</div>');
         var validArcTypesForDrag = dispatcher.post('getValidArcTypesForDrag', [spanId, spanType]);
         if (validArcTypesForDrag && validArcTypesForDrag[0]) {
@@ -442,15 +441,15 @@ var VisualizerUI = (function($, window, undefined) {
           }
         });
 
-        // display initial comment HTML 
-        displayComment(evt, target, comment, commentText, commentType, 
+        // display initial comment HTML
+        displayComment(evt, target, comment, commentText, commentType,
                        immediately);
 
         // initiate AJAX calls for the normalization data to query
         $.each(normsToQuery, function(normqNo, normq) {
           // TODO: cache some number of most recent norm_get_data results
           var dbName = normq[0], dbKey = normq[1], infoSeqId = normq[2];
-          
+
           if (normCacheGet(dbName, dbKey)) {
             fillNormInfo(normCacheGet(dbName, dbKey), infoSeqId);
           } else {
@@ -481,14 +480,14 @@ var VisualizerUI = (function($, window, undefined) {
 
       var displayArcComment = function(
           evt, target, symmetric, arcId,
-          originSpanId, originSpanType, role, 
+          originSpanId, originSpanType, role,
           targetSpanId, targetSpanType,
           commentText, commentType) {
         var arcRole = target.attr('data-arc-role');
         // in arrowStr, &#8212 == mdash, &#8594 == Unicode right arrow
         var arrowStr = symmetric ? '&#8212;' : '&#8594;';
-        var arcDisplayForm = Util.arcDisplayForm(spanTypes, 
-                                                 data.spans[originSpanId].type, 
+        var arcDisplayForm = Util.arcDisplayForm(spanTypes,
+                                                 data.spans[originSpanId].type,
                                                  arcRole,
                                                  relationTypesHash);
         var comment = "";
@@ -503,13 +502,13 @@ var VisualizerUI = (function($, window, undefined) {
                                                          targetSpanType)) +
                     '</span>' +
                     '<span class="comment_id">' +
-                    (arcId ? 'ID:'+arcId : 
+                    (arcId ? 'ID:'+arcId :
                      Util.escapeHTML(originSpanId) +
-                     arrowStr + 
+                     arrowStr +
                      Util.escapeHTML(targetSpanId)) +
                     '</span>' +
                     '</span>');
-        comment += ('<div class="comment_text">' + 
+        comment += ('<div class="comment_text">' +
                     Util.escapeHTML('"'+data.spans[originSpanId].text+'"') +
                     arrowStr +
                     Util.escapeHTML('"'+data.spans[targetSpanId].text + '"') +
@@ -601,7 +600,7 @@ var VisualizerUI = (function($, window, undefined) {
         // https://github.com/nlplab/brat/issues/934
 
         var self = $dialog.dialog('instance');
-        
+
         if (self._isOpen) { return; }
 
         self._isOpen = true;
@@ -891,7 +890,7 @@ var VisualizerUI = (function($, window, undefined) {
         $('#document_input').val(doc);
 
         $('#readme').val(selectorData.description || '');
-        if (selectorData.description && 
+        if (selectorData.description &&
             (selectorData.description.match(/\n/) ||
              selectorData.description.length > 50)) {
           // multi-line or long description; show "more" button and fill
@@ -1498,9 +1497,9 @@ var VisualizerUI = (function($, window, undefined) {
             // NOTE: spec seems to require this to be upper-case,
             // but at least chrome 8.0.552.215 returns lowercased
             var nodeType = evt.target.type ? evt.target.type.toLowerCase() : '';
-            if (evt.target.nodeName && 
-                evt.target.nodeName.toLowerCase() == 'input' && 
-                (nodeType == 'text' || 
+            if (evt.target.nodeName &&
+                evt.target.nodeName.toLowerCase() == 'input' &&
+                (nodeType == 'text' ||
                  nodeType == 'password')) {
               currentForm.trigger('submit');
               return false;
@@ -1556,8 +1555,8 @@ var VisualizerUI = (function($, window, undefined) {
         }
         return false;
       };
-     
-      /* Automatically proceed from document to document */ 
+
+      /* Automatically proceed from document to document */
       var autoPagingTimeout = null;
       var autoPaging = function(on) {
           clearTimeout(autoPagingTimeout);
@@ -1649,12 +1648,21 @@ var VisualizerUI = (function($, window, undefined) {
         clearTimeout(saveSVGTimer);
         $('#stored_file_regenerate').hide();
         $('#stored_file_spinner').show()
-        saveSVGTimer = dispatcher.post(1, 'ajax', [{
-          action: 'storeSVG',
-          svg: $('#svg').html(),
-          collection: coll,
-          document: doc
-        }, 'savedSVG']);
+        if (style === "side-by-side"){
+          saveSVGTimer = dispatcher.post(1, 'ajax', [{
+            action: 'storeSVG',
+            svg: $('#svg_second').html(),
+            collection: coll,
+            document: doc
+          }, 'savedSVG']);
+        }else {
+          saveSVGTimer = dispatcher.post(1, 'ajax', [{
+            action: 'storeSVG',
+            svg: $('#svg').html(),
+            collection: coll,
+            document: doc
+          }, 'savedSVG']);
+        }
       };
 
       var onDoneRendering = function(coll, doc, args) {
@@ -1780,8 +1788,15 @@ var VisualizerUI = (function($, window, undefined) {
             .attr('href', 'diff.xhtml#?diff=' + encodeURIComponent(coll));
           $cmpButton.append($cmpLink);
           $cmpLink.button();
+
+          $refButton = $('#side-by-side_ref').empty();
+          var $refLink = $('<a target="_blank"/>')
+            .text('Reference mode')
+            .attr('href', 'ref.xhtml#?ref=' + encodeURIComponent(coll));
+          $refButton.append($refLink);
+          $refLink.button();
         }
-          
+
         $docName = $('#document_name input').val(coll + doc);
         var docName = $docName[0];
         // TODO do this on resize, as well
@@ -1898,8 +1913,8 @@ var VisualizerUI = (function($, window, undefined) {
         var val = this.value;
         dispatcher.post('annotationSpeed', [val]);
         return false;
-      });      
-    
+      });
+
       $('#pulldown').find('input').button();
       var headerHeight = $('#mainHeader').height();
       $('#svg').css('margin-top', headerHeight + 10);
@@ -2255,7 +2270,7 @@ var VisualizerUI = (function($, window, undefined) {
 
       var updateConfigurationUI = function() {
         // update UI to reflect non-user config changes (e.g. load)
-        
+
         // Annotation mode
         if (Configuration.confirmModeOn) {
           $('#annotation_speed1')[0].checked = true;
@@ -2268,10 +2283,10 @@ var VisualizerUI = (function($, window, undefined) {
 
         // Label abbrevs
         $('#label_abbreviations_on')[0].checked  = Configuration.abbrevsOn;
-        $('#label_abbreviations_off')[0].checked = !Configuration.abbrevsOn; 
+        $('#label_abbreviations_off')[0].checked = !Configuration.abbrevsOn;
         $('#label_abbreviations input').button('refresh');
 
-        // Text backgrounds        
+        // Text backgrounds
         $('#text_backgrounds input[value="'+Configuration.textBackgrounds+'"]')[0].checked = true;
         $('#text_backgrounds input').button('refresh');
 

@@ -22,7 +22,7 @@ from auth import NotAuthorisedError, login, logout, whoami
 from common import ProtocolError
 from convert.convert import convert
 from delete import delete_collection, delete_document
-from docimport import save_import
+from docimport import save_import, modify_reference_file
 from document import (get_configuration, get_directory_information,
                       get_document, get_document_timestamp)
 from download import download_collection, download_file
@@ -52,6 +52,7 @@ DISPATCHER = {
     'getDocument': get_document,
     'getDocumentTimestamp': get_document_timestamp,
     'importDocument': save_import,
+    'modifyReferenceFile': modify_reference_file,
 
     'storeSVG': store_svg,
     'retrieveStored': retrieve_stored,

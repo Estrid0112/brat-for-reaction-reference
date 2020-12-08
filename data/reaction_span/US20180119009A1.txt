@@ -1,0 +1,1192 @@
+TECHNICAL FIELD
+The invention relates to a liquid crystal compound, a liquid crystal composition and a liquid crystal display device. More specifically, the invention relates to a liquid crystal compound having a biphenylene ring and negative dielectric anisotropy, a liquid crystal composition containing the compound, and a liquid crystal display device including the composition.
+BACKGROUND ART
+In a liquid crystal display device, a classification based on an operating mode for liquid crystal molecules includes a phase change (PC) mode, a twisted nematic (TN) mode, a super twisted nematic (STN) mode, an electrically controlled birefringence (ECB) mode, an optically compensated bend (OCB) mode, an in-plane switching (IPS) mode, a vertical alignment (VA) mode, a fringe field switching (FFS) mode and a field-induced photo-reactive alignment (FPA) mode. A classification based on a driving mode in the device includes a passive matrix (PM) and an active matrix (AM). The PM is classified into static, multiplex and so forth, and the AM is classified into a thin film transistor (TFT), a metal insulator metal (MIM) and so forth.
+The device is sealed with a liquid crystal composition. Physical properties of the composition relate to characteristics in the device. Specific examples of the physical properties in the composition include stability to heat or light, a temperature range of a nematic phase, viscosity, optical anisotropy, dielectric anisotropy, specific resistance and an elastic constant. The composition is prepared by mixing many liquid crystal compounds. Physical properties required for a compound include high stability to environment such as water, air, heat and light, a wide temperature range of a liquid crystal phase, small viscosity, large optical anisotropy, large dielectric anisotropy, a suitable elastic constant and good compatibility with other liquid crystal compounds. A compound having high maximum temperature of the nematic phase is preferred. A compound having low minimum temperature in the liquid crystal phase such as the nematic phase and a smectic phase is preferred. A compound having the small viscosity can shorten a response time in the device. A compound having large optical anisotropy can decrease cell thickness in the device, and therefore can shorten the response time. A compound having large positive or negative dielectric anisotropy is preferred for driving the device at low voltage. A compound having good compatibility with other liquid crystal compounds is preferred for preparing the composition. The device may be occasionally used at a temperature below freezing point, and therefore a compound having good compatibility at low temperature is preferred.
+Many liquid crystal compounds have been so far prepared. Development of a new liquid crystal compound has been still continued. The reason is that good physical properties that are not found in conventional compounds are expected from a new compound. The reason is that the new compound may be occasionally provided with a suitable balance regarding at least two physical properties in the composition. Only a limited number of reports has been found on a compound having a biphenylene ring.
+JP H10-236993 A describes liquid crystal compounds (S-1) and (S-2) having a 1,8-difluorobiphenylene-3,7-diyl group.
+CITATION LIST
+Patent Literature
+Patent literature No. 1: JP H10-236993 A.
+SUMMARY OF INVENTION
+Technical Problem
+A first object is to provide a liquid crystal compound satisfying at least one of physical properties such as high stability to heat or light, a high clearing point (or high maximum temperature of a nematic phase), low minimum temperature of a liquid crystal phase, small viscosity, large optical anisotropy, large negative dielectric anisotropy, a suitable elastic constant and good compatibility with other liquid crystal compounds. In particular, the object is to provide a compound having larger optical anisotropy and larger negative dielectric anisotropy in comparison with a similar compound. A second object is to provide a liquid crystal composition that contains the compound and satisfies at least one of physical properties such as high stability to heat or light, high maximum temperature of a nematic phase, low minimum temperature of the nematic phase, small viscosity, large optical anisotropy, large negative dielectric anisotropy, large specific resistance and a suitable elastic constant. The object is to provide a liquid crystal composition having a suitable balance regarding at least two of the physical properties. A third object is to provide a liquid crystal display device including the composition and having a wide temperature range in which the device can be used, a short response time, a large voltage holding ratio, low threshold voltage, a large contrast ratio, a small flicker rate and a long service life.
+Solution to Problem
+The invention concerns a compound represented by formula (1), a liquid crystal composition containing the compound, and a liquid crystal display device including the composition:
+wherein, in formula (1),
+R1 and R2 are independently hydrogen or alkyl having 1 to 15 carbons, and in the alkyl, at least one piece of -CH2- may be replaced by -O-, -S-, -CO- or -SiH2-, and at least one piece of -CH2CH2- may be replaced by -CH═CH- or -C≡C-, and in the groups, at least one hydrogen may be replaced by fluorine or chlorine;
+ring A1, ring A2, ring A3 and ring A4 are independently 1,2-cyclopropylene, 1,3-cyclobutylene, 1,3-cyclopentylene, 1,4-cyclohexylene, 1,4-cycloheptylene, 1,4-phenylene, decahydronaphthalene-2,6-diyl, 1,2,3,4-tetrahydronaphthalene-2,6-diyl, naphthalene-2,6-diyl, 9,10-dihydrophenanthrene-2,7-diyl, 9H-xanthene-2,6-diyl or 9H-fluorene-2,7-diyl, and in the groups, at least one piece of -CH2- may be replaced by -O-, -S-, -CO- or -SiH2-, and at least one piece of -CH2CH213 may be replaced by -CH═CH- or -CH═N-, and in the divalent groups, at least one hydrogen may be replaced by fluorine, chlorine, -C≡N, -CF3, -CH2F, -CH2F, -OCF3, -OCHF2 or -OCH2F;
+Z1, Z2, Z3 and Z4 are independently a single bond or alkylene having 1 to 6 carbons, and in the alkylene, at least one piece of -CH2- may be replaced by -O-, -S-, -CO- or -SiH2-, and one or two pieces of -CH2CH2- may be replaced by -CH═CH- or -C≡C-, and in the divalent groups, at least one hydrogen may be replaced by fluorine or chlorine;
+Y1, Y2 and Y3 are independently fluorine, chlorine, -CF3 or -CHF2; and
+a, b, c and d are independently 0 or 1, and a sum of a, b, c and d is an integer from 0 to 3.
+Advantageous Effects of Invention
+A first advantage is to provide a liquid crystal compound satisfying at least one of physical properties such as high stability to heat or light, a high clearing point (or high maximum temperature of a nematic phase), low minimum temperature of a liquid crystal phase, small viscosity, large optical anisotropy, large negative dielectric anisotropy, a suitable elastic constant and good compatibility with other liquid crystal compounds. In particular, the advantage is to provide a compound having larger optical anisotropy and larger negative dielectric anisotropy in comparison with a similar compound (Comparative Example 1). A second advantage is to provide a liquid crystal composition that contains the compound and satisfies at least one of physical properties such as high stability to heat or light, high maximum temperature of a nematic phase, low minimum temperature of the nematic phase, small viscosity, large optical anisotropy, large negative dielectric anisotropy, large specific resistance and a suitable elastic constant. The advantage is to provide a liquid crystal composition having a suitable balance regarding at least two of the physical properties. A third advantage is to provide a liquid crystal display device including the composition and having a wide temperature range in which the device can be used, a short response time, a large voltage holding ratio, low threshold voltage, a large contrast ratio, a small flicker rate and a long service life.
+DESCRIPTION OF EMBODIMENTS
+Usage of terms herein is as described below. Terms “liquid crystal compound,” “liquid crystal composition” and “liquid crystal display device” may be occasionally abbreviated as “compound,” “composition” and “device,” respectively. “Liquid crystal compound” is a generic term for a compound having a liquid crystal phase such as a nematic phase and a smectic phase, and a compound having no liquid crystal phase but to be added for the purpose of adjusting physical properties of a composition, such as maximum temperature, minimum temperature, viscosity and dielectric anisotropy. The compound has a six-membered ring such as 1,4-cyclohexylene and 1,4-phenylene, and has rod-like molecular structure. “Liquid crystal display device” is a generic term for a liquid crystal display panel and a liquid crystal display module. “Polymerizable compound” is a compound to be added for the purpose of forming a polymer in the composition.
+The liquid crystal composition is prepared by mixing a plurality of liquid crystal compounds. An additive is added to the composition for the purpose of further adjusting the physical properties. The additive such as a polymerizable compound, a polymerization initiator, a polymerization inhibitor, an optically active compound, an antioxidant, an ultraviolet light absorber, a light stabilizer, a heat stabilizer, a dye and an antifoaming agent is added thereto when necessary. The liquid crystal compound and the additive are mixed in such a procedure. A proportion (content) of the liquid crystal compounds is expressed in terms of weight percent (% by weight) based on the weight of the liquid crystal composition containing no additive, even after the additive has been added. A proportion (amount of addition) of the additive is expressed in terms of weight percent (% by weight) based on the weight of the liquid crystal composition containing no additive. Weight parts per million (ppm) may be occasionally used. A proportion of the polymerization initiator and the polymerization inhibitor is exceptionally expressed based on the weight of the polymerizable compound.
+“Clearing point” is a transition temperature between the liquid crystal phase and an isotropic phase in the liquid crystal compound. “Minimum temperature of the liquid crystal phase” is a transition temperature between a solid and the liquid crystal phase (the smectic phase, the nematic phase or the like) in the liquid crystal compound. “Maximum temperature of the nematic phase” is a transition temperature between the nematic phase and the isotropic phase in a mixture of the liquid crystal compound and a base liquid crystal or in the liquid crystal composition, and may be occasionally abbreviated as “maximum temperature.” “Minimum temperature of the nematic phase” may be occasionally abbreviated as “minimum temperature.” An expression “increase the dielectric anisotropy” means that a value of dielectric anisotropy positively increases in a composition having positive dielectric anisotropy, and the value of dielectric anisotropy negatively increases in a composition having negative dielectric anisotropy. An expression “having a large voltage holding ratio” means that the device has a large voltage holding ratio at room temperature and also at a temperature close to the maximum temperature in an initial stage, and the device has the large voltage holding ratio at room temperature and also at a temperature close to the maximum temperature even after the device has been used for a long period of time. In the composition or the device, the characteristics may be occasionally examined before and after an aging test (including an acceleration deterioration test).
+A compound represented by formula (1) may be occasionally abbreviated as compound (1). At least one compound selected from the group of compounds represented by formula (1) may be occasionally abbreviated as compound (1). “Compound (1)” means one compound, a mixture of two compounds or a mixture of three or more compounds represented by formula (1). A same rule applies also to any other compound represented by any other formula. In formulas (1) to (15), a symbol of A1, B1, C1 or the like surrounded by a hexagonal shape corresponds to ring A1, ring B1 and ring C1, respectively. The hexagonal shape represents a six-membered ring such as cyclohexane or benzene. The hexagonal shape may occasionally represents a fused ring such as naphthalene or a bridged ring such as adamantane.
+A symbol of terminal group R11 is used in a plurality of compounds in chemical formulas of component compounds. In the compounds, two groups represented by two pieces of arbitrary R11 may be identical or different. For example, in one case, R11 of compound (2) is ethyl and R11 of compound (3) is ethyl. In another case, R11 of compound (2) is ethyl and R11 of compound (3) is propyl. A same rule applies also to a symbol of R12, R13, Z11 or the like. In compound (15), when i is 2, two of ring E1 exists. In the compound, two groups represented by two of ring E1 may be identical or different. A same rule applies also to two of arbitrary ring E1 when i is larger than 2. A same rule applies also to other symbols.
+An expression “at least one piece of ‘A’” means that the number of ‘A’ is arbitrary. An expression “at least one piece of ‘A’ may be replaced by ‘B’” means that, when the number of ‘A’ is 1, a position of ‘A’ is arbitrary, and also when the number of ‘A’ is 2 or more, positions thereof can be selected without restriction. A same rule applies also to an expression “at least one piece of ‘A’ is replaced by ‘B’.” An expression “at least one piece of ‘A’ may be replaced by ‘B’, ‘C’ or ‘D’” includes a case where arbitrary ‘A’ is replaced by ‘B’, a case where arbitrary ‘A’ is replaced by ‘C’, and a case where arbitrary ‘A’ is replaced by ‘D’, and also a case where a plurality of pieces of ‘A’ are replaced by at least two pieces of ‘B’, ‘C’ and/or ‘D’. For example, “alkyl in which at least one piece of -CH2- may be replaced by -O- or -CH═CH-” includes alkyl, alkoxy, alkoxyalkyl, alkenyl, alkoxyalkenyl and alkenyloxyalkyl. In addition, a case where two pieces of consecutive -CH2- are replaced by -O- to form -O-O- is not preferred. In alkyl or the like, a case where -CH2- of a methyl part (-CH2-H) is replaced by -O- to form -O-H is not preferred, either.
+An expression “R11 and R12 are independently alkyl having 1 to 10 carbons or alkenyl having 2 to 10 carbons, and in the alkyl and the alkenyl, at least one piece of -CH2- may be replaced by -O-, and in the groups, at least one hydrogen may be replaced by fluorine” may be occasionally used. In the expression, “in the groups” may be interpreted according to wording. In the expression, “the groups” means alkyl, alkenyl, alkoxy, alkenyloxy or the like. More specifically, “the groups” represents all of the groups described before the term “in the groups.” Common interpretation is applied also to terms of “in the monovalent groups” or “in the divalent groups.” For example, “the monovalent groups” represents all of the groups described before the term “in the monovalent groups.”
+Halogen means fluorine, chlorine, bromine and iodine. Preferred halogen is fluorine and chlorine. Further preferred halogen is fluorine. Alkyl of the liquid crystal compound is straight-chain alkyl or branched-chain alkyl, but includes no cyclic alkyl. In general, straight-chain alkyl is preferred to branched-chain alkyl. A same rule applies also to a terminal group such as alkoxy and alkenyl. With regard to a configuration of 1,4-cyclohexylene, trans is preferred to cis for increasing the maximum temperature. Then, 2-fluoro-1,4-phenylene means two divalent groups described below. In a chemical formula, fluorine may be leftward (L) or rightward (R). A same rule applies also to an asymmetrical divalent group formed by removing two hydrogens from a ring, such as tetrahydropyran-2,5-diyl.
+The invention includes items described below.
+Item 1. A compound, represented by formula (1):
+wherein, in formula (1),
+R1 and R2 are independently hydrogen or alkyl having 1 to 15 carbons, and in the alkyl, at least one piece of -CH2- may be replaced by -O-, -S-, -CO- or -SiH2-, and at least one piece of -CH2CH2- may be replaced by -CH═CH- or -C≡C-, and in the groups, at least one hydrogen may be replaced by fluorine or chlorine;
+A1, A2, A3 and A4 are independently 1,2-cyclopropylene, 1,3-cyclobutylene, 1,3-cyclopentylene, 1,4-cyclohexylene, 1,4-cycloheptylene, 1,4-phenylene, decahydronaphthalene-2,6-diyl, 1,2,3,4-tetrahydronaphthalene-2,6-diyl, naphthalene-2,6-diyl, 9,10-dihydrophenanthrene-2,7-diyl, 9H-xanthene-2,6-diyl or 9H-fluorene-2,7-diyl, and in the groups, at least one piece of -CH2- may be replaced by -O-, -S-, -CO- or -SiH2-, and at least one piece of -CH2CH2- may be replaced by -CH═CH- or -CH═N-, and in the divalent groups, at least one hydrogen may be replaced by fluorine, chlorine, -C≡N, -CF3, -CHF2, -CH2F, -OCF3, -OCHF2 or -OCH2F;
+Z1, Z2, Z3 and Z4 are independently a single bond or alkylene having 1 to 6 carbons, and in the alkylene, at least one piece of -CH2- may be replaced by -O-, -S-, -CO- or -SiH2-, and one or two pieces of -CH2CH2- may be replaced by -CH═CH- or -C≡C-, and in the divalent groups, at least one hydrogen may be replaced by fluorine or chlorine;
+Y1, Y2 and Y3 are independently fluorine, chlorine, -CF3 or -CHF2; and
+a, b, c and d are independently 0 or 1, and a sum of a, b, c and d is an integer from 0 to 3.
+Item 2. The compound according to item 1, wherein, in formula (1), A1, A2, A3 and A4 are independently 1,4-cyclohexylene, 1,4-phenylene, decahydronaphthalene-2,6-diyl, 1,2,3,4-tetrahydronaphthalene-2,6-diyl or naphthalene-2,6-diyl, and in the groups, at least one piece of -CH2- may be replaced by -O-, and at least one piece of -CH2CH2- may be replaced by -CH═CH-, and in the divalent groups, at least one hydrogen may be replaced by fluorine or chlorine.
+Item 3. The compound according to item 1, wherein, in formula (1), Z1, Z2, Z3 and Z4 are independently a single bond, -(CH2)2-, -CH═CH-, -C≡C-, -COO-, -OCO-, -CF2O-, -OCF2-, -CH2O-, -OCH2- or -CF═CF-.
+Item 4. The compound according to any one of items 1 to 3, represented by any one of formulas (1-1) to (1-8):
+wherein, in formulas (1-1) to (1-8),
+R1 and R2 are independently alkyl having 1 to 10 carbons, alkenyl having 2 to 10 carbons, alkoxy having 1 to 9 carbons or alkenyloxy having 2 to 9 carbons, and in the groups, at least one hydrogen may be replaced by fluorine;
+ring A1, ring A2, ring A3 and ring A4 are independently 1,4-cyclohexylene, 1,4-cyclohexenylene, 1,4-phenylene, 1,4-phenylene in which at least one hydrogen is replaced by fluorine, or tetrahydropyran-2,5-diyl; and
+Z1, Z2, Z3 and Z4 are independently a single bond, -(CH2)2-, -CH═CH-, -C≡C-, -CH2O- or -OCH2-.
+Item 5. The compound according to any one of items 1 to 4, represented by any one of formulas (1-9) to (1-19):
+wherein, in formulas (1-9) to (1-19),
+R1 and R2 are independently alkyl having 1 to 10 carbons, alkenyl having 2 to 10 carbons or alkoxy having 1 to 9 carbons;
+Z1 is a single bond, -(CH2)2- or -CH2O-;
+Z3 is a single bond, -(CH2)2- or -OCH2-; and
+L1, L2, L3 and L4 are independently hydrogen or fluorine.
+Item 6. The compound according to any one of items 1 to 5, represented by any one of formulas (1-20) to (1-24):
+wherein, in formulas (1-20) to (1-24),
+R1 and R2 are independently alkyl having 1 to 7 carbons, alkenyl having 2 to 7 carbons or alkoxy having 1 to 6 carbons;
+Z1 is a single bond, -(CH2)2- or -CH2O-;
+Z3 is a single bond, -(CH2)2- or -OCH2-; and
+L1, L2, L3 and L4 are independently hydrogen or fluorine.
+Item 7. The compound according to any one of items 1 to 6, represented by any one of formulas (1-25) to (1-29):
+wherein, in formulas (1-25) to (1-29),
+R1 and R2 are independently alkyl having 1 to 7 carbons or alkoxy having 1 to 6 carbons.
+Item 8. A liquid crystal composition, containing at least one compound selected from the group of compounds represented by formula (1) and at least one compound selected from the group of compounds represented by formulas (2) to (4):
+wherein, in formula (1),
+R1 and R2 are independently hydrogen or alkyl having 1 to 15 carbons, and in the alkyl, at least one piece of -CH2- may be replaced by -O-, -S-, -CO- or -SiH2-, and at least one piece of -CH2CH2- may be replaced by -CH═CH- or -C≡C-, and in the groups, at least one hydrogen may be replaced by fluorine or chlorine;
+A1, A2, A3 and A4 are independently 1,2-cyclopropylene, 1,3-cyclobutylene, 1,3-cyclopentylene, 1,4-cyclohexylene, 1,4-cycloheptylene, 1,4-phenylene, decahydronaphthalene-2,6-diyl, 1,2,3,4-tetrahydronaphthalene-2,6-diyl, naphthalene-2,6-diyl, 9,10-dihydrophenanthrene-2,7-diyl, 9H-xanthene-2,6-diyl or 9H-fluorene-2,7-diyl, and in the groups, at least one piece of -CH2- may be replaced by -O-, -S-, -CO- or -SiH2-, and at least one piece of -CH2CH2- may be replaced by -CH═CH- or -CH═N-, and in the divalent groups, at least one hydrogen may be replaced by fluorine, chlorine, -C≡N, -CF3, -CHF2, -CH2F, -OCF3, -OCHF2 or -OCH2F;
+Z1, Z2, Z3 and Z4 are independently a single bond or alkylene having 1 to 6 carbons, and in the alkylene, at least one piece of -CH2- may be replaced by -O-, -S-, -CO- or -SiH2-, and one or two pieces of -CH2CH2- may be replaced by -CH═CH- or -C≡C-, and in the divalent groups, at least one hydrogen may be replaced by fluorine or chlorine;
+Y1, Y2 and Y3 are independently fluorine, chlorine, -CF3 or -CHF2; and
+a, b, c and d are independently 0 or 1, and a sum of a, b, c and d is an integer from 0 to 3; and
+wherein, in formulas (2) to (4),
+R11 and R12 are independently alkyl having 1 to 10 carbons or alkenyl having 2 to 10 carbons, and in the alkyl and the alkenyl, at least one piece of -CH2- may be replaced by -O-, and in the groups, at least one hydrogen may be replaced by fluorine;
+ring B1, ring B2, ring B3 and ring B4 are independently 1,4-cyclohexylene, 1,4-phenylene, 2-fluoro-1,4-phenylene, 2,5-difluoro-1,4-phenylene or pyrimidine-2,5-diyl; and
+Z11, Z12 and Z13 are independently a single bond, -COO-, -CH2CH2-, -CH═CH- or -C≡C-.
+Item 9. The liquid crystal composition according to item 8, further containing at least one compound selected from the group of compounds represented by formulas (5) to (11):
+wherein, in formulas (5) to (11),
+R13, R14 and R15 are independently alkyl having 1 to 10 carbons or alkenyl having 2 to 10 carbons, and in the alkyl and the alkenyl, at least one piece of -CH2- may be replaced by -O-, and in the groups, at least one hydrogen may be replaced by fluorine, and R15 may be hydrogen or fluorine;
+ring C1, ring C2, ring C3 and ring C4 are independently 1,4-cyclohexylene, 1,4-cyclohexenylene, 1,4-phenylene in which at least one hydrogen may be replaced by fluorine, tetrahydropyran-2,5-diyl, or decahydronaphthalene-2,6-diyl;
+ring C5 and ring C6 are independently 1,4-cyclohexylene, 1,4-cyclohexenylene, 1,4-phenylene, tetrahydropyran-2,5-diyl or decahydronaphthalene-2,6-diyl;
+Z14, Z15, Z16 and Z17 are independently a single bond, -COO-, -CH2O-, -OCF2-, -CH2CH2- or -OCF2CH2CH2-;
+L11 and L12 are independently fluorine or chlorine;
+S11 is hydrogen or methyl;
+X is -CHF- or -CF2-; and
+j, k, m, n, p, q, r and s are independently 0 or 1, a sum of k, m, n and p is 1 or 2, a sum of q, r and s is 0, 1, 2 or 3, and t is 1, 2 or 3.
+Item 10. The liquid crystal composition according to item 8 or 9, further containing at least one compound selected from the group of compounds represented by formulas (12) to (14):
+wherein, in formulas (12) to (14),
+R16 is alkyl having 1 to 10 carbons or alkenyl having 2 to 10 carbons, and in the alkyl and the alkenyl, at least one piece of -CH2- may be replaced by -O-, and in the groups, at least one hydrogen may be replaced by fluorine;
+X11 is fluorine, chlorine, -CF3, -CHF2, -CH2F, -OCF3, -OCHF2, -OCF2CHF2 or -OCF2CHFCF3;
+ring D1, ring D2 and ring D3 are independently 1,4-cyclohexylene, 1,4-phenylene in which at least one hydrogen may be replaced by fluorine, tetrahydropyran-2,5-diyl, 1,3-dioxane-2,5-diyl, or pyrimidine-2,5-diyl;
+Z18, Z19 and Z20 are independently a single bond, -COO-, -CH2O-, -CF2O-, -OCF2-, -CH2CH2-, -CH═CH-, -C≡C- or -(CH2)4-: and
+L13 and L14 are independently hydrogen or fluorine.
+Item 11. The liquid crystal composition according to any one of items 8 to 10, further containing at least one compound selected from the group of compounds represented by formula (15):
+wherein, in formula (15),
+R17 is alkyl having 1 to 10 carbons or alkenyl having 2 to 10 carbons, and in the alkyl and the alkenyl, at least one piece of -CH2- may be replaced by -O-, and in the groups, at least one hydrogen may be replaced by fluorine;
+X12 is -C≡N or -C≡C-C≡N;
+ring E1 is 1,4-cyclohexylene, 1,4-phenylene in which at least one hydrogen may be replaced by fluorine, tetrahydropyran-2,5-diyl, 1,3-dioxane-2,5-diyl, or pyrimidine-2,5-diyl;
+Z21 is a single bond, -COO-, -CH2O-, -CF2O-, -OCF2-, -CH2CH2- or -C≡C-;
+L15 and L16 are independently hydrogen or fluorine; and
+i is 1, 2, 3 or 4.
+Item 12. A liquid crystal display device, including the liquid crystal composition according to any one of items 8 to 11.
+The invention further includes the following items: (a) the composition, further containing at least one optically active compound and/or at least one polymerizable compound; and (b) the composition, further containing at least one antioxidant and/or at least one ultraviolet light absorber.
+The invention still further includes the following items: (c) the composition, further containing one, two or at least three additives selected from the group of a polymerizable compound, a polymerization initiator, a polymerization inhibitor, an optically active compound, an antioxidant, an ultraviolet light absorber, a light stabilizer, a heat stabilizer, a dye and an antifoaming agent; and (d) the composition, wherein a maximum temperature of a nematic phase is 70° C. or higher, an optical anisotropy (measured at 25° C.) at a wavelength of 589 nanometers is 0.08 or more, and a dielectric anisotropy (measured at 25° C.) at a frequency of 1 kHz is −2 or less.
+The invention still further includes the following items: (e) a device including the composition and having the PC mode, the TN mode, the STN mode, the ECB mode, the OCB mode, the IPS mode, the VA mode, the FFS mode, the FPA mode or the PSA mode; (f) an AM device including the composition; (g) a transmissive device including the composition; (h) use of the composition as the composition having the nematic phase; and (i) use as an optically active composition by adding the optically active compound to the composition.
+An aspect of compound (1), synthesis of compound (1), the liquid crystal composition and the liquid crystal display device will be described in the order.
+1. Aspect of Compound (1)
+Compound (1) has a feature of having a biphenylene ring. The compound is physically and chemically significantly stable under conditions in which the device is ordinarily used, and has large optical anisotropy and large negative dielectric anisotropy. A composition containing the compound is stable under conditions in which the device is ordinarily used. When the composition is stored at low temperature, the compound has small tendency of precipitation as a crystal (or a smectic phase). The compound has general physical properties required for a component of the composition, such as large optical anisotropy and large negative dielectric anisotropy.
+Preferred examples of terminal groups R1 and R2, A1, A2, A3 and A4, bonding groups Z1, Z2, Z3 and Z4, lateral groups Y1, Y2 and Y3, and a, b, c and d in compound (1) are as described below. In compound (1), physical properties can be arbitrarily adjusted by suitably combining the groups. Compound (1) may contain a larger amount of isotope such as 2H (deuterium) and 13C than the amount of natural abundance because no significant difference exists in the physical properties of the compound. In addition, symbols in compound (1) are defined according to item 1.
+In formula (1), R1 and R2 are independently hydrogen or alkyl having 1 to 15 carbons, and in the alkyl, at least one piece of -CH2- may be replaced by -O-, -S-, -CO- or -SiH2-, and at least one piece of -CH2CH2- may be replaced by -CH═CH- or -C≡C-, and in the groups, at least one hydrogen may be replaced by fluorine or chlorine.
+Preferred R1 or R2 is hydrogen, alkyl, alkoxy, alkoxyalkyl, alkoxyalkoxy, alkylthio, alkylthioalkoxy, acyl, acylalkyl, acyloxy, acyloxyalkyl, alkoxycarbonyl, alkoxycarbonylalkyl, alkenyl, alkenyloxy, alkenyloxyalkyl, alkoxyalkenyl, alkynyl, alkynyloxy, silaalkyl and disilaalkyl. In the groups, at least one hydrogen may be replaced by fluorine or chlorine. The example includes a group in which at least two hydrogens are replaced by both fluorine and chlorine. A group in which at least one hydrogen is replaced by fluorine only is further preferred. In the groups, a straight chain is preferred to a branched chain. However, if R1 or R2 has the branched chain, the group is preferred when the group has optical activity. Further preferred R1 or R2 is alkyl, alkoxy, alkoxyalkyl, alkenyl, monofluoroalkyl, polyfluoroalkyl, monofluoroalkoxy, polyfluoroalkoxy, monofluoroalkenyl and polyfluoroalkenyl.
+A preferred configuration of -CH═CH- in the alkenyl depends on a position of a double bond. A trans configuration is preferred in the alkenyl such as 1-propenyl, 1-butenyl, 1-pentenyl, 1-hexenyl, 3-pentenyl and 3-hexenyl. A cis configuration is preferred in the alkenyl such as 2-butenyl, 2-pentenyl and 2-hexenyl.
+Specific R1 or R2 is hydrogen, methyl, ethyl, propyl, butyl, pentyl, hexyl, heptyl, octyl, methoxy, ethoxy, propoxy, butoxy, pentyloxy, hexyloxy, heptyloxy, methoxymethyl, methoxyethyl, methoxypropyl, ethoxymethyl, ethoxyethyl, ethoxypropyl, propoxymethyl, butoxymethyl, pentoxymethyl, vinyl, 1-propenyl, 2-propenyl, 1-butenyl, 2-butenyl, 3-butenyl, 1-pentenyl, 2-pentenyl, 3-pentenyl, 4-pentenyl, 2-propenyloxy, 2-butenyloxy, 2-pentenyloxy, 1-propynyl and 1-pentenyl.
+Specific R1 or R2 is also 2-fluoroethyl, 3-fluoropropyl, 2,2,2-trifluoroethyl, 2-fluorovinyl, 2,2-difluorovinyl, 2-fluoro-2-vinyl, 3-fluoro-1-propenyl, 3,3,3-trifluoro-1-propenyl, 4-fluoro-1-propenyl and 4,4-difluoro-3-butenyl.
+Still further preferred R1 or R2 is methyl, ethyl, propyl, butyl, pentyl, hexyl, heptyl, methoxy, ethoxy, propoxy, butoxy, pentyloxy, hexyloxy, methoxymethyl, ethoxymethyl, propoxymethyl, vinyl, 1-propenyl, 2-propenyl, 1-butenyl, 2-butenyl, 3-butenyl, 1-pentenyl, 2-pentenyl, 3-pentenyl, 4-pentenyl, 2-propenyloxy, 2-butenyloxy and 2-pentenyloxy. Most preferred R1 or R2 is methyl, ethyl, propyl, butyl, pentyl, methoxy, ethoxy, propoxy, butoxy, pentyloxy, vinyl, 1-propenyl, 3-butenyl and 3-pentenyl.
+In formula (1), A1, A2, A3 and A4 are independently 1,2-cyclopropylene, 1,3-cyclobutylene, 1,3-cyclopentylene, 1,4-cyclohexylene, 1,4-cycloheptylene, 1,4-phenylene, decahydronaphthalene-2,6-diyl, 1,2,3,4-tetrahydronaphthalene-2,6-diyl, naphthalene-2,6-diyl, 9,10-dihydrophenanthrene-2,7-diyl, 9H-xanthene-2,6-diyl or 9H-fluorene-2,7-diyl, and in the groups, at least one piece of -CH2- may be replaced by -O-, -S-, -CO- or -SiH2-, and at least one piece of -CH2CH2- may be replaced by -CH═CH- or -CH═N-, and in the divalent groups, at least one hydrogen may be replaced by fluorine, chlorine, -C≡N, -CF3, -CHF2, -CH2F, -OCF3, -OCHF2 or -OCH2F.
+Preferred examples of “in the groups, at least one piece of -CH2- may be replaced by -O-, -S-, -CO- or -SiH2-, and at least one piece of -CH2CH2- may be replaced by -CH═CH- or -CH═N-” include a divalent group represented by formulas (16-1) to (16-50) described below. Further preferred examples include the divalent group represented by formulas (16-1) to (16-4), formula (16-15), formula (16-23), formulas (16-27) to (16-29), formula (16-36), formula (16-39) and formula (16-45).
+Preferred examples of “in the divalent groups, at least one hydrogen may be replaced by fluorine, chlorine, -C≡N, -CF3, -CHF2, -CH2F, -OCF3, -OCHF2 or -OCH2F” include a divalent group represented by formulas (17-1) to (17-77) described below. Further preferred examples include the divalent group represented by formulas (17-1) to (17-4), formula (17-6), formulas (17-10) to (17-15), formulas (17-54) to (17-59) and formulas (17-72) to (17-77).
+Further preferred A1, A2, A3 and A4 are 1,4-cyclohexylene, 1,4-cyclohexenylene, tetrahydropyran-2,5-diyl, 1,3-dioxane-2,5-diyl, 1,4-phenylene, 2-fluoro-1,4-phenylene, 2,3-difluoro-1,4-phenylene, 2,5-difluoro-1,4-phenylene, 2,6-difluoro-1,4-phenylene, 2,3,5-trifluoro-1,4-phenylene, pyridine-2,5-diyl, 3-fluoropyridine-2,5-diyl, pyrimidine-2,5-diyl, pyridazine-2,5-diyl, decahydronaphthalene-2,6-diyl, 1,2,3,4-tetrahydronaphthalene-2,6-diyl and naphthalene-2,6-diyl. With regard to a configuration of 1,4-cyclohexylene, tetrahydropyran-2,5-diyl and 1,3-dioxane-2,5-diyl, trans is preferred to cis.
+Particularly preferred A1, A2, A3 or A4 is 1,4-cyclohexylene, 1,4-cyclohexenylene, tetrahydropyran-2,5-diyl, 1,4-phenylene, 2-fluoro-1,4-phenylene and 2,3-difluoro-1,4-phenylene. Most preferred A1, A2, A3 or A4 is 1,4-cyclohexylene, 1,4-phenylene, 2-fluoro-1,4-phenylene and 2,3-difluoro-1,4-phenylene.
+In formula (1), Z1, Z2, Z3 and Z4 are independently a single bond or alkylene having 1 to 6 carbons, and in the alkylene, at least one piece of -CH2- may be replaced by -O-, -S-, -CO- or -SiH2-, and one or two pieces of -CH2CH2- may be replaced by -CH═CH- or -C≡C-, and in the divalent groups, at least one hydrogen may be replaced by fluorine or chlorine.
+Specific examples of Z1, Z2, Z3 or Z4 include a single bond, -COO-, -OCO-, -CH2O-, -OCH2-, -CF2O-, -OCF2-, -CH2CH2-, -CH═CH-, -CF═CH-, -CH═CF-, -CF═CF-, -C≡C-, -CH2CO-, -COCH2-, -CH2SiH2-, -SiH2CH2-, -CH2)4-, -(CH2)2COO-, -(CH2)2OCO-, -OCO(CH2)2-, -COO(CH2)2-, -(CH2)2CF2O-, -(CH2)2OCF2-, -OCF2(CH2)2-, -CF2O (CH2)2-, -(CH2)3O- or -O(CH2)3-. With regard to a configuration of a double bond of a bonding group such as -CH═CH-, -CF═CF-, -CH═CH-CH2O- and -OCH2-CH═CH-, trans is preferred to cis.
+Preferred Z1, Z2, Z3 or Z4 is a single bond, -(CH2)2-, -CH═CH-, -C≡C-, -COO-, -OCO-, -CF2O-, -OCF2-, -CH2O-, -OCH2- and -CF═CF-. Further preferred Z1, Z2, Z3 or Z4 is a single bond, -(CH2)2-, -CH═CH-, -C≡C-, -CH2O- and -OCH2-. Most preferred Z1, Z2, Z3 or Z4 is a single bond, -(CH2)2-, -CH2O- and -OCH2-.
+In formula (1), Y1, Y2 and Y3 are independently fluorine, chlorine, -CF3 or -CHF2. Preferred Y1, Y2 and Y3 are fluorine.
+In formula (1), a, b, c and d are independently 0 or 1, and a sum of a, b, c and d is an integer from 0 to 3. Compound (1) has zero to three rings in addition to the biphenylene ring. The rings also include a fused ring and a bridged six-membered ring in addition to an ordinary six-membered ring.
+Physical properties such as optical anisotropy and dielectric anisotropy can be arbitrarily adjusted by suitably selecting a terminal group, a ring and a bonding group in compound (1). An effect of kinds of terminal groups R1 and R2, rings A1, A2 and A3 and bonding groups Z1, Z2, Z3 and Z4 on physical properties of compound (1) will be described below.
+In compound (1), when R1 or R2 has the straight chain, a temperature range of the liquid crystal phase is wide and the viscosity is small. When R1 or R2 has the branched chain, the compatibility with other liquid crystal compounds is good. A compound in which R1 or R2 is an optically active group is useful as a chiral dopant. A reverse twisted domain to be generated in the device can be prevented by adding the compound to the composition. A compound in which R1 or R2 is not the optically active group is useful as a component of the composition. When R1 or R2 is alkenyl, a preferred configuration depends on a position of a double bond. An alkenyl compound having the preferred configuration has high maximum temperature or a wide temperature range of the liquid crystal phase. A detailed description is found in Mol. Cryst. Liq. Cryst., 1985, 131, 109 and Mol. Cryst. Liq. Cryst., 1985, 131, 327.
+When ring A1, A2, A3 or A4 is 1,4-phenylene in which at least one hydrogen may be replaced by fluorine or chlorine, pyridine-2,5-diyl, pyrimidine-2,5-diyl, 1,2,3,4-tetrahydronaphthalene-2,6-diyl, naphthalene-2,6-diyl, 9,10-dihydrophenanthrene-2,7-diyl, 9H-xanthene-2,6-diyl or 9H-fluorene-2,7-diyl, the optical anisotropy is large. When ring A1, A2, A3 or A4 is 1,4-cyclohexylene, 1,4-cyclohexenylene, decahydronaphthalene-2,6-diyl, tetrahydropyran-2,5-diyl or 1,3-dioxane-2,5-diyl, the optical anisotropy is small.
+When at least two rings are 1,4-cyclohexylene, the maximum temperature is high, the optical anisotropy is small, and the viscosity is small. When at least one ring is 1,4-phenylene, the optical anisotropy is comparatively large and an orientational order parameter is large. When at least two rings are 1,4-phenylene, the optical anisotropy is large, the temperature range of the liquid crystal phase is wide, and the maximum temperature is high.
+When bonding group Z1, Z2, Z3 or Z4 is a single bond, -(CH2)2-, -CH═CH-, -CF2O-, -OCF2-, -CH2O-, -OCH2- or -CF═CF-, the viscosity is small. When the bonding group is a single bond, -CH2CH2-, -CH═CH-, -OCF2- or -CF2O-, the viscosity is further small. When the bonding group is -(CH2)2-, -CH═CH-, -CH2O- or -OCH2-, the temperature range of the liquid crystal phase is wide, and an elastic constant ratio K33/K11 (K33: a bend elastic constant, K11: a splay elastic constant) is large. When the bonding group is -C≡C-, the optical anisotropy is large.
+When Y1, Y2 or Y3 consists essentially of fluorine, the clearing point is high, and the viscosity is small. When Y1, Y2 or Y3 is composed of fluorine and -CF3, chemical stability is high. When at least one of Y1, Y2 or Y3 is -OCF3, -OCHF2 or -OCH2F, the compatibility with other liquid crystal compounds is good.
+When compound (1) consists essentially of the biphenylene ring, the viscosity is small and the compatibility with other liquid crystal compounds is good. When compound (1) has one ring in addition to the biphenylene ring, the viscosity is small. When compound (1) has two or three rings in addition to the biphenylene ring, the clearing point is high. As described above, a compound having required physical properties can be obtained by suitably selecting a kind of the terminal group, the ring and the bonding group, and the number of the rings. Accordingly, compound (1) is useful as a component of a composition used in a device having a mode such as the PC mode, the TN mode, the STN mode, the ECB mode, the OCB mode, the IPS mode and the VA mode.
+Preferred examples of compound (1) include compounds (1-1) to (1-8) described in item 4. Further preferred examples include compounds (1-9) to (1-19) described in item 5. Still further preferred examples include compounds (1-20) to (1-24) described in item 6. Most preferred examples include compounds (1-25) to (1-29) described in item 7. Compound (1) is suitable for a device having a mode such as the VA mode, the IPS mode and the PSA mode.
+2. Synthesis of Compound (1)
+A synthesis method of compound (1) will be described. Compound (1) can be prepared by suitably combining methods in synthetic organic chemistry. Methods for introducing a required terminal group, ring and bonding group into a starting material are described in books such as “Organic Syntheses” (John Wiley & Sons, Inc.), “Organic Reactions” (John Wiley & Sons, Inc.), “Comprehensive Organic Synthesis” (Pergamon Press) and “New Experimental Chemistry Course (Shin Jikken Kagaku Koza in Japanese)” (Maruzen Co., Ltd.).
+2-1. Formation of Bonding Group Z
+First, a scheme is shown with regard to a method for forming bonding groups Z1 to Z4. Next, reactions described in the scheme in methods (1) to (11) will be described. In the scheme, MSG1 (or MSG2) is a monovalent organic group having at least one ring. The monovalent organic groups represented by a plurality of MSG1 (or MSG2) used in the scheme may be identical or different. Compounds (1A) to (1J) correspond to compound (1).
+(1) Formation of a Single Bond
+Compound (1A) is prepared by allowing aryl boronic acid (21) prepared according to a publicly known method to react with halide (22), in the presence of carbonate and a catalyst such as tetrakis (triphenylphosphine) palladium. Compound (1A) is also prepared by allowing halide (23) prepared according to a publicly known method to react with n-butyllithium and subsequently with zinc chloride, and further with halide (22) in the presence of a catalyst such as dichlorobis (triphenylphosphine) palladium.
+(2) Formation of -COO-
+Carboxylic acid (24) is obtained by allowing halide (23) to react with n-butyllithium and subsequently with carbon dioxide. Compound (1B) is prepared by dehydration of compound (25) prepared according to a publicly known method and carboxylic acid (24) in the presence of 1,3-dicyclohexylcarbodiimide (DCC) and 4-dimethylaminopyridine (DMAP).
+(3) Formation of -CF2O-
+Thionoester (26) is obtained by treating compound (1B) with a thiation reagent such as Lawesson's reagent. Compound (1C) is prepared by fluorinating thionoester (26) with a hydrogen fluoride-pyridine complex and N-bromosuccinimide (NBS). Refer to M. Kuroboshi et al., Chem. Lett., 1992, 827. Compound (1C) is also prepared by fluorinating thionoester (26) with (diethylamino) sulfur trifluoride (DAST). Refer to W. H. Bunnelle et al., J. Org. Chem. 1990, 55, 768. The bonding group can also be formed according to the method described in Peer. Kirsch et al., Angew. Chem. Int. Ed. 2001, 40, 1480.
+(4) Formation of -CH═CH-
+Aldehyde (28) is obtained by treating halide (22) with n-butyllithium and then allowing the treated halide to react with N,N-dimethylformamide (DMF). Phosphorus ylide is generated by treating phosphonium salt (27) prepared according to a publicly known method with a base such as potassium t-butoxide. Compound (1D) is prepared by allowing the phosphorus ylide to react with aldehyde (28). A cis isomer may be generated depending on reaction conditions, and therefore the cis isomer is isomerized into a trans isomer according to a publicly known method when necessary.
+(5) Formation of -(CH2)2-
+Compound (1E) is prepared by hydrogenating compound (1D) in the presence of a catalyst such as palladium on carbon.
+(6) Formation of -(CH2)4-
+A compound having -(CH2)2-CH═CH- is obtained by using phosphonium salt (29) in place of phosphonium salt (27) according to a method in method (4). Compound (1F) is prepared by performing catalytic hydrogenation of the compound obtained.
+(7) Formation of -CH2CH═CHCH2-
+Compound (1G) is prepared by using phosphonium salt (30) in place of phosphonium salt (27) and aldehyde (31) in place of aldehyde (28) according to the method of the method (4). A trans isomer may be generated depending on reaction conditions, and therefore the trans isomer is isomerized to a cis isomer according to a publicly known method when necessary.
+(8) Formation of -C≡C-
+Compound (32) is obtained by allowing halide (23) to react with 2-methyl-3-butyn-2-ol in the presence of a catalyst of dichloropalladium and copper halide, and then performing deprotection under basic conditions. Compound (1H) is prepared by allowing compound (32) to react with halide (22) in the presence of the catalyst of dichloropalladium and copper halide.
+(9) Formation of -CF═CF-
+Compound (33) is obtained by treating halide (23) with n-butyllithium and then allowing the treated halide to react with tetrafluoroethylene. Compound (1I) is prepared by treating halide (22) with n-butyllithium and then allowing the treated halide to react with compound (33).
+(10) Formation of -OCH2-
+Compound (34) is obtained by reducing aldehyde (28) with a reducing agent such as sodium borohydride. Bromide (35) is obtained by brominating compound (34) with hydrobromic acid or the like. Compound (1J) is prepared by allowing bromide (35) to react with compound (36) in the presence of a base such as potassium carbonate.
+(11) Formation of -(CF2)2-
+A compound having -(CF2)2- is obtained by fluorinating diketone (-COCO-) with sulfur tetrafluoride, in the presence of a hydrogen fluoride catalyst, according to a method described in J. Am. Chem. Soc., 2001, 123, 5414.
+2-2. Formation of Rings A1 to A4
+Next, a formation method with regard to rings A1 to A4 and ring N1 will be described. A starting material is commercially available or the formation method is well known with regard to a ring such as 1,4-cyclohexylene, 1,3-dioxane-2,5-diyl, 1,4-phenylene, 2-fluoro-1,4-phenylene, 2,3-difluoro-1,4-phenylene, pyridine-2,5-diyl and pyrimidine-2,5-diyl. Then, compounds (64), (67) and (71) described below will be described.
+Decahydronaphthalene-2,6-dione (64) is a starting material of a compound having decahydronaphthalene-2,6-diyl. The compound (64) is obtained by performing catalytic hydrogenation with diol (63) in the presence of ruthenium oxide according to a method described in JP 2000-239564 A, and further oxidizing the resulting material with chromium oxide. The compound is converted into compound (1) according to an ordinary method.
+A structural unit of 2,3-(bistrifluoromethyl)phenylene is prepared according to a method described in Org. Lett., 2000, 2(21), 3345. Aniline (66) is prepared by allowing furan (65) to perform Diels Alder reaction with 1,1,1,4,4,4-hexafluoro-2-butyne at high temperature. Iodide (67) is obtained by performing a Sandmeyer reaction to the compound obtained according to a method described in Org. Synth. Coll., Vol. 2, 1943, 355. The compound obtained is converted into compound (1) according to an ordinary method.
+A structural unit of 2-difluoromethyl-3-fluorophenylene is prepared according to a method as described below. Compound (69) is obtained by protecting a hydroxyl group of compound (68) with a suitable protective group. P means the protective group. Aldehyde (70) is obtained by allowing s-butyllithium to act on compound (69), and subsequently allowing the obtained material to react with N,N-dimethylformamide (DMF). Phenol (71) is obtained by fluorinating the compound obtained with diethylaminosulfur trifluoride (DAST), and subsequently deprotecting the resulting material. The compound obtained is converted into compound (1) according to an ordinary method.
+2-3. Synthesis Example
+An example of a method for preparing compound (1) is as described below. In the compounds, R1, R2, A1, A2, A3, A4, Z1, Z2, Z3, Z4, Y1, Y2, Y3, a, b, c and d are defined in a manner identical with the definitions in item 1.
+An example of a method for preparing compound (1) is as described below. Compound (43) is obtained by allowing lithium diisopropylamide (LDA) to act on compound (41) and compound (42) prepared according to a publicly known method, and then sequentially adding copper(II) chloride and nitrobenzene thereto. Next, compound (1) can be prepared by allowing n-butyllithium to act on compound (43), and then sequentially adding zinc (II) chloride and copper(II) chloride thereto.
+3. Liquid Crystal Composition
+3-1. Component Compound
+A liquid crystal composition of the invention will be described. The composition contains at least one compound (1) as component (a). The composition may contain two, three or more compounds (1). A component in the composition may be only compound (1). The composition preferably contains at least one of compounds (1) in the range of about 1% by weight to about 99% by weight in order to develop good physical properties. In a composition having negative dielectric anisotropy, a preferred content of compound (1) is in the range of about 5% by weight to about 60% by weight. In a composition having positive dielectric anisotropy, a preferred content of compound (1) is about 30% by weight or less.
+<table>
+<header>
+TABLE 1
+</header>
+Component compound of composition
+ &  & Dielectric
+Component & Component compound & anisotropy
+Component (a) & Compound (1) & Negatively large
+Component (b) & Compound (2) to compound (4) & Small
+Component (c) & Compound (5) to compound (11) & Negatively large
+Component (d) & Compound (12) to compound (14) & Positively large
+Component (e) & Compound (15) & Positively large
+</table>
+The composition contains compound (1) as component (a). The composition further preferably contains a liquid crystal compound selected from components (b) to (e) described in Table 1. When the composition is prepared, components (b) to (e) are preferably selected by taking into account the positive or negative dielectric anisotropy and magnitude of the dielectric anisotropy. The composition may contain a liquid crystal compound different from compounds (1) to (15). The composition may not contain such a liquid crystal compound.
+Component (b) includes a compound in which two terminal groups are alkyl or the like. Specific examples of preferred component (b) include compounds (2-1) to (2-11), compounds (3-1) to (3-19) and compounds (4-1) to (4-7). In the compounds, R11 and R12 are independently alkyl having 1 to 10 carbons or alkenyl having 2 to 10 carbons, and in the alkyl and the alkenyl, at least one piece of -CH2- may be replaced by -O-, and in the groups, at least one hydrogen may be replaced by fluorine.
+Component (b) has small dielectric anisotropy. Component (b) is close to neutrality. Compound (2) is effective in decreasing the viscosity or adjusting the optical anisotropy. Compounds (3) and (4) are effective in extending a temperature range of a nematic phase by increasing maximum temperature, or adjusting the optical anisotropy.
+As a content of component (b) is increased, the viscosity of the composition is decreased, but the dielectric anisotropy is decreased. Thus, as long as a desired value of threshold voltage of a device is met, the content is preferably as large as possible. When a composition for the IPS mode, the VA mode or the like is prepared, the content of component (b) is preferably about 30% by weight or more, and further preferably about 40% by weight or more, based on the weight of the liquid crystal composition.
+Component (c) includes compounds (5) to (11). The compounds have phenylene in which hydrogen in lateral positions are replaced by two halogens, such as 2,3-difluoro-1,4-phenylene. Specific examples of preferred component (c) include compounds (5-1) to (5-8), compounds (6-1) to (6-18), compound (7-1), compounds (8-1) to (8-3), compounds (9-1) to (9-11), compounds (10-1) to (10-3) and compounds (11-1) to (11-3). In the compounds, R13, R14 and R15 are independently alkyl having 1 to 10 carbons or alkenyl having 2 to 10 carbons, and in the alkyl and the alkenyl, at least one piece of -CH2- may be replaced by -O-, and in the groups, at least one hydrogen may be replaced by fluorine, and R15 may be hydrogen or fluorine.
+Component (c) has large negative dielectric anisotropy. Component (c) is used when a composition for the IPS mode, the VA mode, the PSA mode or the like is prepared. As a content of component (c) is increased, the dielectric anisotropy of the composition is negatively increased, but the viscosity is increased. Thus, as long as a desired value of threshold voltage of the device is met, the content is preferably as small as possible. When the dielectric anisotropy at a degree of −5 is taken into account, the content is preferably about 40% by weight or more in order to allow a sufficient voltage driving.
+Among types of component (c), compound (5) is a bicyclic compound, and therefore is effective in decreasing the viscosity, adjusting the optical anisotropy or increasing the dielectric anisotropy. Compounds (5) and (6) are a tricyclic compound, and therefore are effective in increasing the maximum temperature, the optical anisotropy or the dielectric anisotropy. Compounds (8) to (11) are effective in increasing the dielectric anisotropy.
+When a composition for the IPS mode, the VA mode, the PSA mode or the like is prepared, the content of component (c) is preferably about 40% by weight or more, and further preferably in the range of about 50% by weight to about 95% by weight, based on the weight of the liquid crystal composition. When component (c) is added to the composition having positive dielectric anisotropy, the content of component (c) is preferably about 30% by weight or less. Addition of component (c) allows adjustment of the elastic constant of the composition and adjustment of a voltage-transmittance curve of the device.
+Component (d) is a compound having a halogen-containing group or a fluorine-containing group at a right terminal. Specific examples of preferred component (d) include compounds (12-1) to (12-16), compounds (13-1) to (13-113) and compounds (14-1) to (14-58). In the compounds, R16 is alkyl having 1 to 10 carbons or alkenyl having 2 to 10 carbons, and in the alkyl and the alkenyl, at least one piece of -CH2- may be replaced by -O-, and in the groups, at least one hydrogen may be replaced by fluorine. X11 is fluorine, chlorine, -OCF3, -OCHF2, -CF3, -CHF2, -CH2F, -OCF2CHF2 or -OCF2CHFCF3.
+Component (d) has positive dielectric anisotropy, and very good stability to heat or light, and therefore is used when a composition for the IPS mode, the FFS mode, the OCB mode or the like is prepared. A content of component (d) is suitably in the range of about 1% by weight to about 99% by weight, preferably in the range of about 10% by weight to about 97% by weight, and further preferably in the range of about 40% by weight to about 95% by weight, based on the weight of the liquid crystal composition. When component (d) is added to the composition having negative dielectric anisotropy, the content of component (d) is preferably about 30% by weight or less. Addition of component (d) allows adjustment of the elastic constant of the composition and adjustment of the voltage-transmittance curve of the device.
+Component (e) is compound (15) in which a right-terminal group is -C≡N or -C≡C-C≡N. Specific examples of preferred component (e) include compounds (15-1) to (15-64). In the compounds, R17 is alkyl having 1 to 10 carbons or alkenyl having 2 to 10 carbons, and in the alkyl and the alkenyl, at least one piece of -CH2- may be replaced by -O-, and in the groups, at least one hydrogen may be replaced by fluorine. X12 is -C≡N or -C≡C-C≡N.
+Component (e) has positive dielectric anisotropy and a value thereof is large, and therefore component (e) is used when a composition for the TN mode or the like is prepared. Addition of component (e) can increase the dielectric anisotropy of the composition. Component (e) is effective in extending the temperature range of the liquid crystal phase, adjusting the viscosity or adjusting the optical anisotropy. Component (e) is also useful for adjustment of the voltage-transmittance curve of the device.
+When the composition for the TN mode or the like is prepared, a content of component (e) is suitably in the range of about 1% by weight to about 99% by weight, preferably in the range of about 10% by weight to about 97% by weight, and further preferably in the range of about 40% by weight to about 95% by weight, based on the weight of the liquid crystal composition. When component (e) is added to a composition having negative dielectric anisotropy, the content of component (e) is preferably about 30% by weight or less. Addition of component (e) allows adjustment of the elastic constant of the composition and adjustment of the voltage-transmittance curve of the device.
+A liquid crystal composition satisfying at least one of physical properties such as high stability to heat or light, high maximum temperature, low minimum temperature, small viscosity, suitable optical anisotropy (more specifically, large optical anisotropy or small optical anisotropy), large positive or negative dielectric anisotropy, large specific resistance and a suitable elastic constant (more specifically, a large elastic constant or a small elastic constant) can be prepared by combining a compound suitably selected from components (b) to (e) described above with compound (1). A device including such a composition has a wide temperature range in which the device can be used, a short response time, a large voltage holding ratio, low threshold voltage, a large contrast ratio, a small flicker rate and a long service life.
+If the device is used for a long period of time, a flicker may be occasionally generated on a display screen. The flicker rate (%) can be represented by a formula (|luminance when applying positive voltage−luminance when applying negative voltage|)/(average luminance)×100. In a device having the flicker rate in the range of about 0% to about 1%, a flicker is hardly generated on the display screen even if the device is used for a long period of time. The flicker is associated with image persistence, and is presumed to be generated according to a difference in electric potential between a positive frame and a negative frame in driving at alternating current. The composition containing compound (1) is also useful for a decrease in generation of the flicker.
+3-2. Additive
+A liquid crystal composition is prepared according to a publicly known method. For example, the component compounds are mixed and dissolved in each other by heating. According to an application, an additive may be added to the composition. Specific examples of the additives include the polymerizable compound, the polymerization initiator, the polymerization inhibitor, the optically active compound, the antioxidant, the ultraviolet light absorber, the light stabilizer, the heat stabilizer, the dye and the antifoaming agent. Such additives are well known to those skilled in the art, and described in literature.
+In a liquid crystal display device having the polymer sustained alignment (PSA) mode, the composition contains a polymer. The polymerizable compound is added for the purpose of forming the polymer in the composition. The polymerizable compound is polymerized by irradiation with ultraviolet light while voltage is applied between electrodes, and thus the polymer is formed in the composition. A suitable pretilt is achieved by the method, and therefore the device in which a response time is shortened and the image persistence is improved is prepared.
+Preferred examples of the polymerizable compound include acrylate, methacrylate, a vinyl compound, a vinyloxy compound, propenyl ether, an epoxy compound (oxirane, oxetane) and vinyl ketone. Further preferred examples include a compound having at least one acryloyloxy, and a compound having at least one methacryloyloxy. Still further preferred examples also include a compound having both acryloyloxy and methacryloyloxy.
+Still further preferred examples include compounds (M-1) to (M-18). In the compounds, R25 to R31 are independently hydrogen or methyl; R32, R33 and R34 are independently hydrogen or alkyl having 1 to 5 carbons, and at least one of R32, R33 and R34 is alkyl having 1 to 5 carbons; v, w and x are independently 0 or 1; and u and y are independently an integer from 1 to 10. L21 to L26 are independently hydrogen or fluorine; and L27 and L28 are independently hydrogen, fluorine or methyl.
+The polymerizable compound can be rapidly polymerized by adding the polymerization initiator. An amount of a remaining polymerizable compound can be reduced by optimizing reaction conditions. Specific examples of a photoradical polymerization initiator include TPO, 1173 and 4265 from Darocur series of BASF SE, and 184, 369, 500, 651, 784, 819, 907, 1300, 1700, 1800, 1850 and 2959 from Irgacure series thereof.
+Additional examples of the photoradical polymerization initiator include 4-methoxyphenyl-2,4-bis(trichloromethyl)triazine, 2-(4-butoxystyryl)-5-trichloromethyl-1,3,4-oxadiazole, 9-phenylacridine, 9,10-benzphenazine, a benzophenone-Michler's ketone mixture, a hexaarylbiimidazole-mercaptobenzimidazole mixture, 1-(4-isopropylphenyl)-2-hydroxy-2-methylpropane-1-one, benzyl dimethyl ketal, 2-methyl-1-[4-(methylthio)phenyl]-2-morpholinopropane-1-one, a mixture of 2,4-diethylxanthone and methyl p-dimethylaminobenzoate, and a mixture of benzophenone and methyltriethanolamine.
+After the photoradical polymerization initiator is added to the liquid crystal composition, polymerization can be performed by irradiation with ultraviolet light while an electric field is applied. However, an unreacted polymerization initiator or a decomposition product of the polymerization initiator may cause poor display such as the image persistence in the device. In order to prevent such an event, photopolymerization may be performed with no addition of the polymerization initiator. A preferred wavelength of irradiation light is in the range of about 150 nanometers to about 500 nanometers. A further preferred wavelength is in the range of about 250 nanometers to about 450 nanometers, and a most preferred wavelength is in the range of about 300 nanometers to about 400 nanometers.
+Upon storing the polymerizable compound, the polymerization inhibitor may be added thereto for preventing polymerization. The polymerizable compound is ordinarily added to the composition without removing the polymerization inhibitor. Specific examples of the polymerization inhibitor include hydroquinone, a hydroquinone derivative such as methylhydroquinone, 4-t-butylcatechol, 4-methoxyphenol and phenothiazine.
+The optically active compound is effective in inducing helical structure in liquid crystal molecules to give a required twist angle, and thereby preventing a reverse twist. A helical pitch can be adjusted by adding the optically active compound thereto. Two or more optically active compounds may be added for the purpose of adjusting temperature dependence of the helical pitch. Specific examples of a preferred optically active compound include compounds (Op-1) to (Op-18) described below. In compound (Op-18), ring J is 1,4-cyclohexylene or 1,4-phenylene, and R28 is alkyl having 1 to 10 carbons. Asterisk mark (*) represents asymmetrical carbon.
+The antioxidant is effective for maintaining the large voltage holding ratio. Specific examples of a preferred antioxidant include compounds (AO-1) and (AO-2) described below; and Irganox 415, Irganox 565, Irganox 1010, Irganox 1035, Irganox 3114 and Irganox 1098 (trade names; BASF SE). The ultraviolet light absorber is effective for preventing a decrease of the maximum temperature. Preferred examples of the ultraviolet light absorbers include a benzophenone derivative, a benzoate derivative and a triazole derivative, and specific examples include compounds (AO-3) and (AO-4) described below; Tinuvin 329, Tinuvin P, Tinuvin 326, Tinuvin 234, Tinuvin 213, Tinuvin 400, Tinuvin 328 and Tinuvin 99-2 (trade names; BASF SE); and 1,4-diazabicyclo[2.2.2]octane (DABCO).
+The light stabilizer such as an amine having steric hindrance is preferred for maintaining the large voltage holding ratio. Specific examples of a preferred light stabilizer include compounds (AO-5), (AO-6) and (AO-7) described below; Tinuvin 144, Tinuvin 765 and Tinuvin 770DF (trade names; BASF SE); and LA-77Y and LA-77G (trade names; ADEKA Corporation). The heat stabilizer is also effective for maintaining the large voltage holding ratio, and specific preferred examples include Irgafos 168 (trade name; BASF SE). A dichroic dye such as an azo dye or an anthraquinone dye is added to the composition to be adapted for a device having a guest host (GH) mode. The antifoaming agent is effective for preventing foam formation. Specific examples of a preferred antifoaming agent include dimethyl silicone oil and methylphenyl silicone oil.
+In compound (AO-1), R40 is alkyl having 1 to 20 carbons, alkoxy having 1 to 20 carbons, -COOR41 or -CH2CH2COOR41, in which R41 is alkyl having 1 to 20 carbons. In compounds (AO-2) and (AO-5), R42 is alkyl having 1 to 20 carbons. In compound (AO-5), R43 is hydrogen, methyl or O. (oxygen radical); and ring G1 is 1,4-cyclohexylene or 1,4-phenylene; in compound (AO-7), ring G2 is 1,4-cyclohexylene, 1,4-phenylene or 1,4-phenylene in which at least one hydrogen is replaced by fluorine; and in compounds (AO-5) and (AO-7), z is 1, 2 or 3.
+4. Liquid Crystal Display Device
+The liquid crystal composition can be used in a liquid crystal display device having an operating mode such as the PC mode, the TN mode, the STN mode, the OCB mode and the PSA mode, and driven by an active matrix mode. The composition can also be used in a liquid crystal display device having the operating mode such as the PC mode, the TN mode, the STN mode, the OCB mode, the VA mode and the IPS mode, and driven by a passive matrix mode. The devices can be applied to any of a reflective type, a transmissive type and a transflective type.
+The composition is also suitable for a nematic curvilinear aligned phase (NCAP) device, and the composition is microencapsulated herein. The composition can also be used in a polymer dispersed liquid crystal display device (PDLCD) or a polymer network liquid crystal display device (PNLCD). In the compositions, a lot of polymerizable compounds are added. On the other hand, when a proportion of the polymerizable compound is about 10% by weight or less based on the weight of the liquid crystal composition, the liquid crystal display device having the PSA mode can be prepared. A preferred proportion is in the range of about 0.1% by weight to about 2% by weight. A further preferred proportion is in the range of about 0.2% by weight to about 1.0% by weight. The device having the PSA mode can be driven by the driving mode such as the active matrix mode and the passive matrix mode. Such devices can be applied to any of the reflective type, the transmissive type and the transflective type.
+EXAMPLES
+1. Example of Compound (1)
+The invention will be described in greater detail byway of Examples. The Examples include a typical example, and therefore the invention is not limited by the Examples. Compound (1) was prepared according to procedures described below. The thus prepared compound was identified by methods such as an NMR analysis. Physical properties of the compound and a composition and characteristics of a device were measured by methods described below.
+NMR analysis: For measurement, DRX-500 made by Bruker BioSpin Corporation was used. In 1H-NMR measurement, a sample was dissolved in a deuterated solvent such as CDCl3, and measurement was carried out under conditions of room temperature, 500 MHz and 16 times of accumulation. Tetramethylsilane was used as an internal standard. In 19F-NMR measurement, CFCl3 was used as an internal standard, and measurement was carried out under conditions of 24 times of accumulation. In explaining nuclear magnetic resonance spectra obtained, s, d, t, q, quin, sex and m stand for a singlet, a doublet, a triplet, a quartet, a quintet, a sextet and a multiplet, and br being broad, respectively.
+Gas chromatographic analysis: For measurement, GC-2010 Gas Chromatograph made by Shimadzu Corporation was used. As a column, a capillary column DB-1 (length 60 m, bore 0.25 mm, film thickness 0.25 μm) made by Agilent Technologies, Inc. was used. As a carrier gas, helium (1 mL/minute) was used. A temperature of a sample vaporizing chamber and a temperature of a detector (FID) were set to 300° C. and 300° C., respectively. A sample was dissolved in acetone and prepared to be a 1 weight % solution, and then 1 microliter of the solution obtained was injected into the sample vaporizing chamber. As a recorder, GC Solution System made by Shimadzu Corporation or the like was used.
+Gas chromatographic mass analysis: For measurement, QP-2010 Ultra Gas Chromatograph Mass Spectrometer made by Shimadzu Corporation was used. As a column, a capillary column DB-1 (length 60 m, bore 0.25 mm, film thickness 0.25 μm) made by Agilent Technologies, Inc. was used. As a carrier gas, helium (1 mL/minute) was used. A temperature of a sample vaporizing chamber, a temperature of an ion source, ionizing voltage and emission current were set to 300° C., 200° C., 70 eV and 150 uA, respectively. A sample was dissolved in acetone and prepared to be a 1 weight % solution, and then 1 microliter of the solution obtained was injected into the sample vaporizing chamber. As a recorder, GCMS solution system made by Shimadzu Corporation was used.
+HPLC Analysis: For measurement, Prominence (LC-20AD; SPD-20A) made by Shimadzu Corporation was used. As a column, YMC-Pack ODS-A (length 150 mm, bore 4.6 mm, particle diameter 5 μm) made by YMC Co., Ltd. was used. As an eluate, acetonitrile and water were appropriately mixed and used. As a detector, a UV detector, an RI detector, a CORONA detector or the like was appropriately used. When the UV detector was used, a detection wavelength was set at 254 nanometers. A sample was dissolved in acetonitrile and prepared to be a 0.1 weight % solution, and then 1 microliter of the solution was injected into a sample chamber. As a recorder, C-R7Aplus made by Shimadzu Corporation was used.
+Ultraviolet-Visible Spectrophotometry: For measurement, PharmaSpec UV-1700 made by Shimadzu Corporation was used. A detection wavelength was adjusted in the range of 190 nanometers to 700 nanometers. A sample was dissolved in acetonitrile and prepared to be a 0.01 mmol/L solution, and measurement was carried out by putting the solution in a quartz cell (optical path length: 1 cm).
+Sample for measurement: Upon measuring phase structure and a transition temperature (a clearing point, a melting point, a polymerization starting temperature or the like), the compound itself was used as a sample. Upon measuring physical properties such as maximum temperature of a nematic phase, viscosity, optical anisotropy and dielectric anisotropy, a mixture of a compound and a base liquid crystal was used as a sample.
+When the sample prepared by mixing the compound with the base liquid crystal was used, measurement was carried out as described below. The sample was prepared by mixing 15% by weight of the compound and 85% by weight of the base liquid crystal. From a measured value of the sample, an extrapolated value was calculated according to the following equation, and the calculated value was described: [extrapolated value]=(100×[measured value of a sample]−[% by weight of a base liquid crystal]×[measured value of the base liquid crystal])/[% by weight of a compound].
+When crystals (or a smectic phase) precipitated at 25° C. at the ratio, a ratio of the compound to the base liquid crystal was changed in the order of (10% by weight:90% by weight), (5% by weight:95% by weight) and (1% by weight:99% by weight), and the physical properties of the sample were measured at a ratio at which no crystal (or no smectic phase) precipitated at 25° C. In addition, unless otherwise noted, the ratio of the compound to the base liquid crystal was (15% by weight:85% by weight).
+When the dielectric anisotropy of the compound was zero or positive, base liquid crystal (A) described below was used. A proportion of each component was expressed in terms of weight percent (% by weight).
+When the dielectric anisotropy of the compound was zero or negative, base liquid crystal (B) described below was used. A proportion of each component was expressed in terms of weight percent (% by weight).
+Measuring method: Physical properties were measured according to methods described below. Most of the methods are described in the Standard of Japan Electronics and Information Technology Industries Association (JEITA) discussed and established in JEITA (JEITA ED-2521B). A modified method was also applied. No thin film transistor (TFT) was attached to a TN device used for measurement.
+(1) Phase structure: A sample was placed on a hot plate in a melting point apparatus (FP-52 Hot Stage made by Mettler-Toledo International Inc.) equipped with a polarizing microscope. A state of phase and a change thereof were observed with the polarizing microscope while the sample was heated at a rate of 3° C. per minute, and a kind of the phase was specified.
+(2) Transition temperature (° C.): For measurement, a differential scanning calorimeter, Diamond DSC System, made by PerkinElmer, Inc., or a high sensitivity differential scanning calorimeter, X-DSC7000, made by SII NanoTechnology Inc. was used. A sample was heated and then cooled at a rate of 3° C. per minute, and a starting point of an endothermic peak or an exothermic peak caused by a phase change of the sample was determined by extrapolation, and thus a transition temperature was determined. A melting point and a polymerization starting temperature of a compound were also measured using the apparatus. Temperature at which a compound undergoes transition from a solid to a liquid crystal phase such as the smectic phase and the nematic phase may be occasionally abbreviated as “minimum temperature of the liquid crystal phase.” Temperature at which the compound undergoes transition from the liquid crystal phase to liquid may be occasionally abbreviated as “clearing point.”
+A crystal was expressed as C. When the crystals were distinguishable into two kinds, each of the crystals was expressed as C1 or C2. The smectic phase or the nematic phase was expressed as S or N. When a phase was distinguishable such as smectic A phase, smectic B phase, smectic C phase and smectic F, the phase was expressed as SA, SB, SC and SF, respectively. A liquid (isotropic) was expressed as I. A transition temperature was expressed as “C 50.0 N 100.0 I,” for example. The expression indicates that a transition temperature from the crystals to the nematic phase is 50.0° C., and a transition temperature from the nematic phase to the liquid is 100.0° C.
+(3) Compatibility of compound: Samples in which the base liquid crystal and the compound were mixed for proportions of the compounds to be 20% by weight, 15% by weight, 10% by weight, 5% by weight, 3% by weight or 1% by weight were prepared. The samples were put in a glass vials, and kept in freezers at −10° C. or −20° C. for a predetermined period of time. Whether a nematic phase of the samples was maintained or crystals (or a smectic phase) precipitated was observed. Conditions on which the nematic phase was maintained were used as a measure of the compatibility. Proportions of the compounds and each temperature in the freezers may be occasionally changed when necessary.
+(4) Maximum temperature of nematic phase (TNI or NI; ° C.): A sample was placed on a hot plate in a melting point apparatus equipped with a polarizing microscope, and heated at a rate of 1° C. per minute. Temperature when part of the sample began to change from a nematic phase to an isotropic liquid was measured. When the sample was a mixture of compound (1) and the base liquid crystal, the maximum temperature was expressed in terms of a symbol TNI. When the sample was a mixture of compound (1) and a compound selected from compounds (2) to (15), the maximum temperature was expressed in terms of a symbol NI. A maximum temperature of the nematic phase may be occasionally abbreviated as “maximum temperature.”
+(5) Minimum temperature of nematic phase (TC; ° C.): Samples each having a nematic phase were put in glass vials and kept in freezers at temperatures of 0° C., −10° C., −20° C., −30° C. and −40° C. for 10 days, and then liquid crystal phases were observed. For example, when the sample was maintained in the nematic phase at −20° C. and changed to crystals or a smectic phase at −30° C., TC was expressed as TC<−20° C. A minimum temperature of the nematic phase may be occasionally abbreviated as “minimum temperature.”
+(6) Viscosity (bulk viscosity; η; measured at 20° C.; mPa·s): For measurement, a cone-plate (E type) rotational viscometer made by Tokyo Keiki Inc. was used.
+(7) Optical anisotropy (refractive index anisotropy; measured at 25° C.; Δn): Measurement was carried out by an Abbe refractometer with a polarizing plate mounted on an ocular, using light at a wavelength of 589 nanometers . A surface of a main prism was rubbed in one direction, and then a sample was added dropwise onto the main prism. A refractive index (n∥) was measured when a direction of polarized light was parallel to a direction of rubbing. A refractive index (n⊥) was measured when the direction of polarized light was perpendicular to the direction of rubbing. A value of optical anisotropy (Δn) was calculated from an equation: Δn=n∥−n⊥.
+(8) Specific resistance (ρ; measured at 25° C.; Ω cm): Into a vessel equipped with electrodes, 1.0 milliliter of sample was injected. A direct current voltage (10 V) was applied to the vessel, and a direct current after 10 seconds was measured. Specific resistance was calculated from the following equation: (specific resistance)={(voltage)×(electric capacity of a vessel)}/{(direct current)×(dielectric constant of vacuum)}.
+(9) Voltage holding ratio (VHR-1; measured at 25° C.; %): A TN device used for measurement had a polyimide alignment film, and a distance (cell gap) between two glass substrates was 5 micrometers. A sample was put in the device, and then the device was sealed with an ultraviolet-curable adhesive. A pulse voltage (60 microseconds at 5 V) was applied to the device, and the device was charged. A decaying voltage was measured for 16.7 milliseconds with a high-speed voltmeter, and area A between a voltage curve and a horizontal axis in a unit cycle was determined. Area B is an area without decay. A voltage holding ratio is expressed in terms of a percentage of area A to area B.
+(10) Voltage holding ratio (VHR-2; measured at 80° C.; %): A voltage holding ratio was measured according to a method described above except that the voltage holding ratio was measured at 80° C. in place of 25° C. The results were expressed in terms of a symbol VHR-2.
+(11) Flicker rate (measured at 25° C.; %): For measurement, 3298F Multimedia Display Tester made by Yokogawa Electric Corporation was used. A light source was an LED. A sample was put in a normally black mode FFS device in which a distance (cell gap) between two glass substrates was 3.5 micrometers and a rubbing direction was anti-parallel. The device was sealed with an ultraviolet-curable adhesive. Voltage was applied to the device, and a voltage having a maximum amount of light transmitted through the device was measured. A flicker rate displayed thereon was read by bringing a sensor unit close to the device while voltage was applied to the device.
+The measuring method of the physical properties may be different between a sample having positive dielectric anisotropy and a sample having negative dielectric anisotropy. When the dielectric anisotropy was positive, the measuring method was described in measurement (12a) to measurement (16a). When the dielectric anisotropy was negative, the measuring method was described in measurement (12b) to measurement (16b).
+(12a) Viscosity (rotational viscosity; γ1; measured at 25° C.; mPa·s; for a sample having positive dielectric anisotropy): Measurement was carried out according to a method described in M. Imai et al., Molecular Crystals and Liquid Crystals, Vol. 259, p. 37 (1995). A sample was put in a TN device in which a twist angle was 0 degrees and a distance (cell gap) between two glass substrates was 5 micrometers . Voltage was applied stepwise to the device from 16 V to 19.5 V at an increment of 0.5 V. After a period of 0.2 second with no voltage application, voltage was repeatedly applied under conditions of only one rectangular wave (rectangular pulse; 0.2 second) and no voltage application (2 seconds). A peak current and a peak time of transient current generated by the applied voltage were measured. A value of rotational viscosity was obtained from the measured values and equation (8) on page 40 of the paper presented by M. Imai et al. A value of dielectric anisotropy required for the calculation was determined using the device by which the rotational viscosity was measured and by a method described below.
+(12b) Viscosity (rotational viscosity; γ1; measured at 25° C.; mPa·s; for a sample having negative dielectric anisotropy): Measurement was carried out according to a method described in M. Imai et al., Molecular Crystals and Liquid Crystals, Vol. 259, p. 37 (1995). A sample was put in a VA device in which a distance (cell gap) between two glass substrates was 20 micrometers. Voltage was applied stepwise to the device from 39 V to 50 V at an increment of 1 V. After a period of 0.2 second with no voltage application, voltage was repeatedly applied under conditions of only one rectangular wave (rectangular pulse; 0.2 second) and no voltage application (2 seconds). A peak current and a peak time of transient current generated by the applied voltage were measured. A value of rotational viscosity was obtained from the measured values and equation (8) on page 40 of the paper presented by M. Imai et al. Dielectric anisotropy required for the calculation was measured in a section of dielectric anisotropy described below.
+(13a) Dielectric anisotropy (Δε; measured at 25° C.; for a sample having positive dielectric anisotropy): A sample was put in a TN device in which a distance (cell gap) between two glass substrates was 9 micrometers and a twist angle was 80 degrees. Sine waves (10 V, 1 kHz) were applied to the device, and after 2 seconds, a dielectric constant (ε∥) of liquid crystal molecules in a major axis direction was measured. Sine waves (0.5 V, 1 kHz) were applied to the device, and after 2 seconds, a dielectric constant (ε⊥) of liquid crystal molecules in a minor axis direction was measured. A value of dielectric anisotropy was calculated from an equation: Δε=ε∥−ε⊥.
+(13b) Dielectric anisotropy (Δε; measured at 25° C.; for a sample having negative dielectric anisotropy): A value of dielectric anisotropy was calculated from an equation: Δε=ε∥−ε⊥. A dielectric constant (ε∥ and ε⊥) was measured as described below.
+(1) Measurement of dielectric constant (ε∥): An ethanol (20 mL) solution of octadecyltriethoxysilane (0.16 mL) was applied to a well-cleaned glass substrate. After rotating the glass substrate with a spinner, the glass substrate was heated at 150° C. for 1 hour. A sample was put in a VA device in which a distance (cell gap) between two glass substrates was 4 micrometers, and the device was sealed with an ultraviolet-curable adhesive. Sine waves (0.5 V, 1 kHz) were applied to the device, and after 2 seconds, a dielectric constant (ε∥) of liquid crystal molecules in a major axis direction was measured.
+(2) Measurement of dielectric constant (Δ⊥): A polyimide solution was applied to a well-cleaned glass substrate. After calcining the glass substrate, rubbing treatment was applied to the alignment film obtained. A sample was put in a TN device in which a distance (cell gap) between two glass substrates was 9 micrometers and a twist angle was 80 degrees. Sine waves (0.5 V, 1 kHz) were applied to the device, and after 2 seconds, a dielectric constant (ε⊥) of liquid crystal molecules in a minor axis direction was measured.
+(14a) Elastic constant (K; measured at 25° C.; pN; for a sample having positive dielectric anisotropy): For measurement, HP4284A LCR Meter made by Yokogawa-Hewlett-Packard Co. was used. A sample was put in a horizontal alignment device in which a distance (cell gap) between two glass substrates was 20 micrometers. An electric charge from 0 V to 20 V was applied to the device, and electrostatic capacity (C) and applied voltage (V) were measured. The measured values were fitted to equation (2.98) and equation (2.101) on page 75 of “Liquid Crystal Device Handbook (Ekisho Debaisu Handobukku, in Japanese; Nikkan Kogyo Shimbun, Ltd.),” and values of K11 and K33 were obtained from equation (2.99). Next, K22 was calculated using the previously determined values of K11 and K33 in equation (3.18) on page 171. Elastic constant K was expressed in terms of a mean value of the thus determined K11, K22 and K33.
+(14b) Elastic constant (K11 and K33; measured at 25° C.; pN; for a sample having negative dielectric anisotropy): For measurement, Elastic Constant Measurement System Model EC-1 made by TOYO Corporation was used. A sample was put in a vertical alignment device in which a distance (cell gap) between two glass substrates was 20 micrometers. An electric charge from 20 V to 0 V was applied to the device, and electrostatic capacity (C) and applied voltage (V) were measured. The measured values were fitted to equation (2.98) and equation (2.101) on page 75 of “Liquid Crystal Device Handbook (Ekisho Debaisu Handobukku, in Japanese; Nikkan Kogyo Shimbun, Ltd.),” and values of elastic constants were obtained from equation (2.100).
+(15a) Threshold voltage (Vth; measured at 25° C.; V; for a sample having positive dielectric anisotropy): For measurement, an LCD-5100 luminance meter made by Otsuka Electronics Co., Ltd. was used. A light source was a halogen lamp. A sample was put in a normally white mode TN device in which a distance (cell gap) between two glass substrates was 0.45/Δn (μm) and a twist angle was 80 degrees. A voltage (32 Hz, rectangular waves) to be applied to the device was stepwise increased from 0 V to 10 V at an increment of 0.02 V. On the occasion, the device was irradiated with light from a direction perpendicular to the device, and an amount of light transmitted through the device was measured. A voltage-transmittance curve was prepared, in which the maximum amount of light corresponds to 100% transmittance and the minimum amount of light corresponds to 0% transmittance. A threshold voltage is expressed in terms of voltage at 90% transmittance.
+(15b) Threshold voltage (Vth; measured at 25° C.; V; for a sample having negative dielectric anisotropy): For measurement, an LCD-5100 luminance meter made by Otsuka Electronics Co., Ltd. was used. A light source was a halogen lamp. A sample was put in a normally black mode VA device in which a distance (cell gap) between two glass substrates was 4 micrometers and a rubbing direction was anti-parallel, and the device was sealed with an ultraviolet-curable adhesive. A voltage (60 Hz, rectangular waves) to be applied to the device was stepwise increased from 0 V to 20 V at an increment of 0.02 V. On the occasion, the device was irradiated with light from a direction perpendicular to the device, and an amount of light transmitted through the device was measured. A voltage-transmittance curve was prepared, in which the maximum amount of light corresponds to 100% transmittance and the minimum amount of light corresponds to 0% transmittance. A threshold voltage is expressed in terms of voltage at 10% transmittance.
+(16a) Response time (τ; measured at 25° C.; ms; for a sample having positive dielectric anisotropy): For measurement, an LCD-5100 luminance meter made by Otsuka Electronics Co., Ltd. was used. A light source was a halogen lamp. A low-pass filter was set to 5 kHz. A sample was put in a normally white mode TN device in which a distance (cell gap) between two glass substrates was 5.0 micrometers and a twist angle was 80 degrees. A voltage (rectangular waves; 60 Hz, 5 V, 0.5 second) was applied to the device. On the occasion, the device was irradiated with light from a direction perpendicular to the device, and an amount of light transmitted through the device was measured. The maximum amount of light corresponds to 100% transmittance, and the minimum amount of light corresponds to 0% transmittance. A rise time (τr; millisecond) was expressed in terms of time required for a change from 90% transmittance to 10% transmittance. A fall time (τf; millisecond) was expressed in terms of time required for a change from 10% transmittance to 90% transmittance. A response time was expressed by a sum of the rise time and the fall time thus determined.
+(16b) Response time (τ; measured at 25° C.; ms; for a sample having negative dielectric anisotropy): For measurement, an LCD-5100 luminance meter made by Otsuka Electronics Co., Ltd. was used. A light source was a halogen lamp. A low-pass filter was set to 5 kHz. A sample was put in a normally black mode PVA device in which a distance (cell gap) between two glass substrates was 3.2 micrometers and a rubbing direction was anti-parallel. The device was sealed with an ultraviolet-curable adhesive. The device was applied with a voltage of a little exceeding a threshold voltage for 1 minute, and then was irradiated with ultraviolet light of 23.5 mW/cm2 for 8 minutes, while applying a voltage of 5.6 V. A voltage (rectangular waves; 60 Hz, 10 V, 0.5 second) was applied to the device. On the occasion, the device was irradiated with light from a direction perpendicular to the device, and an amount of light transmitted through the device was measured. The maximum amount of light corresponds to 100% transmittance, and the minimum amount of light corresponds to 0% transmittance. A response time was expressed in terms of time required for a change from 90% transmittance to 10% transmittance (fall time; millisecond).
+Synthesis Example 1
+Synthesis of Compound (1-1-11)
+First Step: Synthesis of Compound (T-2)
+Under a nitrogen atmosphere, compound (T-1) (50.0 g), potassium carbonate (66.1 g) and DMF (350 mL) were put in a reaction vessel, and the resulting mixture was stirred at 80° C. for 30 minutes. Thereto, iodoethane (29.2 mL) was added dropwise, and the resulting mixture was further stirred at 80° C. for 2 hours. The resulting reaction mixture was poured into ice water, and an aqueous layer was subjected to extraction with toluene. Combined organic layers were washed with water, and dried over anhydrous magnesium sulfate. The solution was concentrated under reduced pressure, and the residue was purified by silica gel chromatography (heptane) to obtain compound (T-2) (54.3 g, yield: 96%).
+Second Step: Synthesis of Compound (T-4)
+Under a nitrogen atmosphere, compound (T-3) (50.0 g), potassium carbonate (72.4 g) and DMF (350 mL) were put in a reaction vessel, and the resulting mixture was stirred at 80° C. for 30 minutes. Thereto, 1-bromopentane (39.0 mL) was added dropwise, and the resulting mixture was further stirred at 80° C. for 2 hours. The resulting reaction mixture was poured into ice water, and an aqueous layer was subjected to extraction with toluene. Combined organic layers were washed with water, and dried over anhydrous magnesium sulfate. The solution was concentrated under reduced pressure, and the residue was purified by silica gel chromatography (heptane) to obtain compound (T-4) (68.3 g, yield: 99%).
+Third Step: Synthesis of Compound (T-5)
+Under a nitrogen atmosphere, compound (T-2) (16.0 g), compound (T-4) (52.9g) and THF (tetrahydrofuran) (640 mL) were put in a reaction vessel, and the resulting mixture was cooled down to −70° C. Thereto, lithium diisopropylamide (LDA; 1.01 M; THF solution; 258 mL) was slowly added, and stirred for 1 hour while maintaining at −70° C. Next, copper(II) chloride (39.0 g) was slowly added, and stirred for 45 minutes while maintaining at −70° C. Next, nitrobenzene (29.8 mL) was slowly added, and stirred for 12 hours while returning to room temperature. The resulting reaction mixture was poured into a saturated aqueous solution of ammonium chloride, and an aqueous layer was subjected to extraction with ethyl acetate. Combined organic layers were washed with water, and dried over anhydrous magnesium sulfate. The solution was concentrated under reduced pressure, and the residue was purified by silica gel column chromatography (heptane/ethyl acetate=10/1 in a volume ratio) to obtain compound (T-5) (13.1 g, yield: 39%).
+Fourth Step: Synthesis of Compound (1-1-11)
+Under a nitrogen atmosphere, compound (T-5) (13.1 g) and THF (655 mL) were put in a reaction vessel, and the resulting mixture was cooled down to −70° C. Thereto, n-butyllithium (1.64 M; hexane solution; 35.4 mL) was slowly added, and stirred for 2 hours while maintaining at −70° C. Next, zinc(II) chloride (1.90 M; 2-methyltetrahydrofuran solution; 15.3 mL) was slowly added, and stirred for 2 hours while maintaining at −70° C. Next, copper(II) chloride (10.6 g) was slowly added, and stirred for 12 hours while returning to room temperature. The resulting reaction mixture was poured into a saturated aqueous solution of ammonium chloride, and an aqueous layer was subjected to extraction with ethyl acetate. Combined organic layers were washed with water, and dried over anhydrous magnesium sulfate. The solution was concentrated under reduced pressure, and the residue was purified by silica gel column chromatography (heptane/toluene=2/1 in a volume ratio). The residue was further purified by recrystallization from (ethyl acetate/2-propanol=1/1 in a volume ratio) to obtain compound (1-1-11) (1.95 g, yield: 22%).
+1H-NMR (CDCl3; δ ppm): 6.29-6.24 (m, 2H), 6.18-6.13 (m, 1H), 4.06 (q, J=7.0 Hz, 2H), 3.89 (d, J=6.6 Hz, 2H), 1.83-1.75 (m, 2H), 1.48-1.32 (m, 7H), 0.93 (t, J=7.0 Hz, 3H).
+Phase transition temperature: C 84.9 I.
+Maximum temperature (NI)=−3.70° C.; optical anisotropy (Δn)=0.167; dielectric anisotropy (Δε)=−12.6; viscosity (η)=73.6 mPa·s.
+Synthesis Example 2
+Synthesis of Compound (1-2-43)
+First Step: Synthesis of Compound (T-7)
+Compound (T-7) (67.7 g, yield: 86%) was obtained by using compound (T-6) (62.3 g) prepared according to a publicly known method in place of iodoethane in a manner similar to the technique in the first step in Synthesis Example 1.
+Second Step: Synthesis of Compound (T-8)
+Compound (T-8) (56.1 g, yield: 98%) was obtained by using Iodoethane in place of 1-bromopentane in a manner similar to the technique in the second step in Synthesis Example 1.
+Third Step: Synthesis of Compound (T-9)
+Compound (T-9) (21.9 g, yield: 54%) was obtained by using compound (T-7) (25.0 g) and compound (T-8) (47.3 g) as a raw material in a manner similar to the technique in the third step in Synthesis Example 1.
+Fourth Step: Synthesis of Compound (1-2-43)
+Compound (1-2-43) (1.12 g, yield: 7.1%) was obtained by using compound (T-9) (21.9 g) as a raw material in a manner similar to the technique in the fourth step in Synthesis Example 1.
+1H-NMR (CDCl3; δ ppm): 6.28-6.24 (m, 2H), 6.18-6.13 (m, 1H), 3.97 (q, J=7.1 Hz, 2H), 3.77 (d, J=6.4 Hz, 2H), 1.90-1.83 (m, 2H), 1.83-1.67 (m, 3H), 1.42 (t, J=7.0 Hz, 3H), 1.37-1.27 (m, 2H), 1.27-1.14 (m, 3H), 1.07-0.86 (m, 7H).
+Phase transition temperature: C 131 (N 101) I.
+Maximum temperature (NI)=91.3° C.; optical anisotropy (Δn)=0.187; dielectric anisotropy (Δε)=−12.1; viscosity (β)=89.6 mPa·s.
+Comparative Example 1
+As a comparative example, dielectric anisotropy (Δε) of compounds (1-1-11) and (1-2-43) obtained in Synthesis Examples 1 and 2 is compared with Δε of compounds (S-1) and (S-2) described in JP H10-236993 A, and the results are summarized in Table 2. In addition, values of the physical properties thereof are an extrapolated value when dissolved in a similar base liquid crystal.
+<table>
+<header>
+TABLE 2
+</header>
+<header>
+
+</header>
+<header>
+Comparison of physical properties of compounds (1-1-11) and (1-2-43) with comparative compounds (S-1) and (S-2)
+</header>
+<header>
+
+</header>
+ &  & 
+Dielectric & −12.6 & −12.1
+anisotropy & 
+(Δϵ) & 
+ &  & 
+Dielectric & −4.4 & −3.8
+anisotropy & 
+(Δϵ)
+</table>
+Dielectric anisotropy (Δε) of compounds (1-1-11) and (1-2-43) was found to be larger by negatively about three times in comparison with Δε of comparative compounds (S-1) and (S-2). Both are a similar compound having the same biphenylene skeleton, and in a compound in the invention, extremely large As was developed only by having one fluorinated substituent more than the conventional compound. Accordingly, the compound in the invention was found to be a superb liquid crystal compound in which driving voltage of the device can be decreased.
+Compounds described below can be prepared with reference to the method described in Synthesis Examples and the section “2. Synthesis of compound (1).”
+<table>
+<header>
+
+</header>
+<header>
+No. & 
+</header>
+<header>
+
+</header>
+1-1-1 & 
+1-1-2 & 
+1-1-3 & 
+1-1-4 & 
+1-1-5 & 
+1-1-6 & 
+1-1-7 & 
+1-1-8 & 
+1-1-9 & 
+1-1-10 & 
+1-1-11 & 
+ & C 84.9 I
+ & TNI = −3.70° C., Δn = 0.167, Δϵ = −12.6, η = 73.6 mPas
+1-1-12 & 
+1-1-13 & 
+1-1-14 & 
+1-1-15 & 
+1-1-16 & 
+1-1-17 & 
+1-1-18 & 
+1-1-19 & 
+1-1-20 & 
+1-2-1 & 
+1-2-2 & 
+1-2-3 & 
+1-2-4 & 
+1-2-5 & 
+1-2-6 & 
+1-2-7 & 
+1-2-8 & 
+1-2-9 & 
+1-2-10 & 
+1-2-11 & 
+1-2-12 & 
+1-2-13 & 
+1-2-14 & 
+1-2-15 & 
+1-2-16 & 
+1-2-17 & 
+1-2-18 & 
+1-2-19 & 
+1-2-20 & 
+1-2-21 & 
+1-2-22 & 
+1-2-23 & 
+1-2-24 & 
+1-2-25 & 
+1-2-26 & 
+1-2-27 & 
+1-2-28 & 
+1-2-29 & 
+1-2-30 & 
+1-2-31 & 
+1-2-32 & 
+1-2-33 & 
+1-2-34 & 
+1-2-35 & 
+1-2-36 & 
+1-2-37 & 
+1-2-38 & 
+1-2-39 & 
+1-2-40 & 
+1-2-41 & 
+1-2-42 & 
+1-2-43 & 
+ & C 131 (N 101) I
+ & TNI = 91.3° C., Δn = 0.187, Δϵ = −12.1, η = 89.6 mPas
+1-2-44 & 
+1-2-45 & 
+1-2-46 & 
+1-2-47 & 
+1-2-48 & 
+1-2-49 & 
+1-2-50 & 
+1-2-51 & 
+1-2-52 & 
+1-2-53 & 
+1-2-54 & 
+1-2-55 & 
+1-2-56 & 
+1-2-57 & 
+1-2-58 & 
+1-2-59 & 
+1-2-60 & 
+1-3-1 & 
+1-3-2 & 
+1-3-3 & 
+1-3-4 & 
+1-3-5 & 
+1-3-6 & 
+1-3-7 & 
+1-3-8 & 
+1-3-9 & 
+1-3-10 & 
+1-3-11 & 
+1-3-12 & 
+1-3-13 & 
+1-3-14 & 
+1-3-15 & 
+1-3-16 & 
+1-3-17 & 
+1-3-18 & 
+1-3-19 & 
+1-3-20 & 
+1-3-21 & 
+1-3-22 & 
+1-3-23 & 
+1-3-24 & 
+1-3-25 & 
+1-3-26 & 
+1-3-27 & 
+1-3-28 & 
+1-3-29 & 
+1-3-30 & 
+1-3-31 & 
+1-3-32 & 
+1-3-33 & 
+1-3-34 & 
+1-3-35 & 
+1-3-36 & 
+1-3-37 & 
+1-3-38 & 
+1-3-39 & 
+1-3-40 & 
+1-3-41 & 
+1-3-42 & 
+1-3-43 & 
+1-3-44 & 
+1-3-45 & 
+1-3-46 & 
+1-3-47 & 
+1-3-48 & 
+1-3-49 & 
+1-3-50 & 
+1-3-51 & 
+1-3-52 & 
+1-3-53 & 
+1-3-54 & 
+1-3-55 & 
+1-3-56 & 
+1-3-57 & 
+1-3-58 & 
+1-3-59 & 
+1-3-60 & 
+1-4-1 & 
+1-4-2 & 
+1-4-3 & 
+1-4-4 & 
+1-4-5 & 
+1-4-6 & 
+1-4-7 & 
+1-4-8 & 
+1-4-9 & 
+1-4-10 & 
+1-4-11 & 
+1-4-12 & 
+1-4-13 & 
+1-4-14 & 
+1-4-15 & 
+1-4-16 & 
+1-4-17 & 
+1-4-18 & 
+1-4-19 & 
+1-4-20 & 
+1-5-1 & 
+1-5-2 & 
+1-5-3 & 
+1-5-4 & 
+1-5-5 & 
+1-5-6 & 
+1-5-7 & 
+1-5-8 & 
+1-5-9 & 
+1-5-10 & 
+1-5-11 & 
+1-5-12 & 
+1-5-13 & 
+1-5-14 & 
+1-5-15 & 
+1-5-16 & 
+1-5-17 & 
+1-5-18 & 
+1-5-19 & 
+1-5-20 & 
+1-6-1 & 
+1-6-2 & 
+1-6-3 & 
+1-6-4 & 
+1-6-5 & 
+1-6-6 & 
+1-6-7 & 
+1-6-8 & 
+1-6-9 & 
+1-6-10 & 
+1-6-11 & 
+1-6-12 & 
+1-6-13 & 
+1-6-14 & 
+1-6-15 & 
+1-6-16 & 
+1-6-17 & 
+1-6-18 & 
+1-6-19 & 
+1-6-20 & 
+1-7-1 & 
+1-7-2 & 
+1-7-3 & 
+1-7-4 & 
+1-7-5 & 
+1-7-6 & 
+1-7-7 & 
+1-7-8 & 
+1-7-9 & 
+1-7-10 & 
+1-8-1 & 
+1-8-2 & 
+1-8-3 & 
+1-8-4 & 
+1-8-5 & 
+1-8-6 & 
+1-8-7 & 
+1-8-8 & 
+1-8-9 & 
+1-8-10 & 
+</table>
+2. Examples of Composition
+The invention will be described in greater detail by way of Examples. The Examples include a typical example, and therefore the invention is not limited by the Examples. For example, in addition to compositions in Use Examples, the invention includes a mixture of a composition in Use Example 1 and a composition in Use Example 2. The invention also includes a mixture prepared by mixing at least two of the compositions in the Use Examples. Compounds in the Use Examples were represented using symbols according to definitions in Table 2 described below. In Table 2, a configuration of 1,4-cyclohexylene is trans. A parenthesized number next to a symbolized compound in the Use Examples represents a chemical formula to which the compound belongs. A symbol (−) means a liquid crystal compound different from compounds (1) to (15). A proportion (percentage) of the liquid crystal compound is expressed in terms of weight percent (% by weight) based on the weight of the liquid crystal composition containing no additive. Values of the physical properties of the composition are summarized in a last part. The physical properties were measured according to the methods described above, and measured values are directly described (without extrapolation).
+<table>
+<header>
+TABLE 3
+</header>
+<header>
+
+</header>
+<header>
+Method for description of compounds using symbols
+</header>
+<header>
+R-(A1)-Z1- . . . -Zn-(An)-R'
+</header>
+<header>
+
+</header>
+1) Left-terminal group R- & Symbol
+CnH2n+1- & n-
+CnH2n+1O- & nO-
+CmH2m+1OCnH2n- & mOn-
+CH2═CH- & V-
+CnH2n+1-CH═CH- & nV-
+CH2═CH-CnH2n- & Vn-
+CmH2m+1-CH═CH-CnH2n- & mVn-
+CF2═CH- & VFF-
+CF2═CH-CnH2n- & VFFn-
+2) Right-terminal group -R' & Symbol
+-CnH2n+1 & -n
+-OCnH2n+1 & -On
+-COOCH3 & -EMe
+-CH═CH2 & -V
+-CH═CH-CnH2n+1 & -Vn
+-CnH2n-CH═CH2 & -nV
+-CmH2m-CH═CH-CnH2n+1 & -mVn
+-CH═CF2 & -VFF
+-F & -F
+-Cl & -CL
+-OCF3 & -OCF3
+-OCF2H & -OCF2H
+-CF3 & -CF3
+-OCH═CH-CF3 & -OVCF3
+-C≡N & -C
+3) Bonding group -Zn- & Symbol
+-CnH2n- & n
+-COO- & E
+-CH═CH- & V
+-CH2O- & 1O
+-OCH2- & O1
+-CF2O- & X
+-C≡C- & T
+4) Ring structure -An- & Symbol
+ & H
+ & B
+ & B(F)
+ & B(2F)
+ & B(F,F)
+ & B(2F,5F)
+ & B(2F,3F)
+ & Py
+ & G
+ & ch
+ & Dh
+ & dh
+ & Cro(7F,8F)
+ & Bip(F3)
+5) Examples of description
+Example 1 3-H1OBip(F3)-O2
+Example 2 3-BB(F,F)XB(F,F)-F
+Example 3 3-HB-O2
+Example 4 3-HBB(2F,3F)-O2
+</table>
+Use Example 1
+<table>
+<header>
+ & 
+</header>
+ & 3-H1OBip(F3)-O2 & (1-2-43) & 2% & 
+ & 2-HB-C & (15-1) & 8%
+ & 3-HB-C & (15-1) & 11%
+ & 3-HB-O2 & (2-5) & 14%
+ & 2-BTB-1 & (2-10) & 3%
+ & 3-HHB-F & (13-1) & 3%
+ & 3-HHB-1 & (3-1) & 8%
+ & 3-HHB-O1 & (3-1) & 5%
+ & 3-HHB-3 & (3-1) & 12%
+ & 3-HHEB-F & (13-10) & 5%
+ & 5-HHEB-F & (13-10) & 3%
+ & 2-HHB(F)-F & (13-2) & 5%
+ & 3-HHB(F)-F & (13-2) & 8%
+ & 5-HHB(F)-F & (13-2) & 7%
+ & 3-HHB(F,F)-F & (13-3) & 6%
+ & 
+</table>
+Use Example 2
+<table>
+<header>
+ & 
+</header>
+ & 2O-Bip(F3)-O5 & (1-1-11) & 3% & 
+ & 3-HB-CL & (12-2) & 10%
+ & 3-HH-4 & (2-1) & 11%
+ & 3-HB-O2 & (2-5) & 7%
+ & 3-HHB(F,F)-F & (13-3) & 5%
+ & 3-HBB(F,F)-F & (13-24) & 28%
+ & 5-HBB(F,F)-F & (13-24) & 26%
+ & 5-HBB(F)B-2 & (4-5) & 4%
+ & 5-HBB(F)B-3 & (4-5) & 6%
+ & 
+</table>
+Use Example 3
+<table>
+<header>
+ & 
+</header>
+ & 5-HBip(F3)-O2 & (1-2-5) & 4% & 
+ & 7-HB(F,F)-F & (12-4) & 4%
+ & 3-HB-O2 & (2-5) & 5%
+ & 2-HHB(F)-F & (13-2) & 8%
+ & 3-HHB(F)-F & (13-2) & 10%
+ & 5-HHB(F)-F & (13-2) & 10%
+ & 2-HBB(F)-F & (13-23) & 9%
+ & 3-HBB(F)-F & (13-23) & 10%
+ & 5-HBB(F)-F & (13-23) & 13%
+ & 2-HBB-F & (13-22) & 5%
+ & 3-HBB-F & (13-22) & 5%
+ & 5-HBB-F & (13-22) & 5%
+ & 3-HBB(F,F)-F & (13-24) & 4%
+ & 5-HBB(F,F)-F & (13-24) & 8%
+ & 
+</table>
+Use Example 4
+<table>
+<header>
+ & 
+</header>
+ & 5-HBip(F3)-3 & (1-2-3) & 5% & 
+ & 5-HB-CL & (12-2) & 10%
+ & 3-HH-4 & (2-1) & 12%
+ & 3-HH-5 & (2-1) & 5%
+ & 3-HHB-F & (13-1) & 5%
+ & 3-HHB-CL & (13-1) & 4%
+ & 4-HHB-CL & (13-1) & 4%
+ & 3-HHB(F)-F & (13-2) & 10%
+ & 4-HHB(F)-F & (13-2) & 8%
+ & 5-HHB(F)-F & (13-2) & 7%
+ & 7-HHB(F)-F & (13-2) & 6%
+ & 5-HBB(F)-F & (13-23) & 6%
+ & 1O1-HBBH-5 & (4-1) & 3%
+ & 3-HHBB(F,F)-F & (14-6) & 3%
+ & 4-HHBB(F,F)-F & (14-6) & 3%
+ & 5-HHBB(F,F)-F & (14-6) & 3%
+ & 3-HH2BB(F,F)-F & (14-15) & 3%
+ & 4-HH2BB(F,F)-F & (14-15) & 3%
+ & 
+</table>
+Use Example 5
+<table>
+<header>
+ & 
+</header>
+ & V-HBip(F3)-O2 & (1-2-6) & 3% & 
+ & 3-HHB(F,F)-F & (13-3) & 8%
+ & 3-H2HB(F,F)-F & (13-15) & 7%
+ & 4-H2HB(F,F)-F & (13-15) & 7%
+ & 5-H2HB(F,F)-F & (13-15) & 7%
+ & 3-HBB(F,F)-F & (13-24) & 20%
+ & 5-HBB(F,F)-F & (13-24) & 21%
+ & 3-H2BB(F,F)-F & (13-27) & 11%
+ & 5-HHBB(F,F)-F & (14-6) & 4%
+ & 5-HHEBB-F & (14-17) & 2%
+ & 3-HH2BB(F,F)-F & (14-15) & 4%
+ & 1O1-HBBH-4 & (4-1) & 3%
+ & 1O1-HBBH-5 & (4-1) & 3%
+ & 
+</table>
+Use Example 6
+<table>
+<header>
+ & 
+</header>
+ & 5-BBip(F3)-O2 & (1-2-22) & 4% & 
+ & 5-HB-F & (12-2) & 10%
+ & 6-HB-F & (12-2) & 10%
+ & 7-HB-F & (12-2) & 6%
+ & 2-HHB-OCF3 & (13-1) & 5%
+ & 3-HHB-OCF3 & (13-1) & 6%
+ & 4-HHB-OCF3 & (13-1) & 5%
+ & 5-HHB-OCF3 & (13-1) & 4%
+ & 3-HH2B-OCF3 & (13-4) & 5%
+ & 5-HH2B-OCF3 & (13-4) & 4%
+ & 3-HHB(F,F)-OCF2H & (13-3) & 5%
+ & 3-HHB(F,F)-OCF3 & (13-3) & 5%
+ & 3-HH2B(F)-F & (13-5) & 4%
+ & 3-HBB(F)-F & (13-23) & 10%
+ & 5-HBB(F)-F & (13-23) & 10%
+ & 5-HBBH-3 & (4-1) & 4%
+ & 3-HB(F)BH-3 & (4-2) & 3%
+ & 
+</table>
+Use Example 7
+<table>
+<header>
+ & 
+</header>
+ & 3-DhBip(F3)-O2 & (1-2-29) & 5% & 
+ & 5-HB-CL & (12-2) & 8%
+ & 3-HH-4 & (2-1) & 7%
+ & 3-HHB-1 & (3-1) & 6%
+ & 3-HHB(F,F)-F & (13-3) & 9%
+ & 3-HBB(F,F)-F & (13-24) & 18%
+ & 5-HBB(F,F)-F & (13-24) & 12%
+ & 3-HHEB(F,F)-F & (13-12) & 11%
+ & 4-HHEB(F,F)-F & (13-12) & 5%
+ & 5-HHEB(F,F)-F & (13-12) & 4%
+ & 2-HBEB(F,F)-F & (13-39) & 3%
+ & 3-HBEB(F,F)-F & (13-39) & 4%
+ & 5-HBEB(F,F)-F & (13-39) & 3%
+ & 3-HHBB(F,F)-F & (14-6) & 5%
+ & 
+</table>
+Use Example 8
+<table>
+<header>
+ & 
+</header>
+ & 5-HBip(F3)-O2 & (1-2-5) & 3% & 
+ & 3-HB-CL & (12-2) & 5%
+ & 5-HB-CL & (12-2) & 6%
+ & 3-HHB-OCF3 & (13-1) & 5%
+ & 3-H2HB-OCF3 & (13-13) & 4%
+ & 5-H4HB-OCF3 & (13-19) & 13%
+ & V-HHB(F)-F & (13-2) & 4%
+ & 3-HHB(F)-F & (13-2) & 6%
+ & 5-HHB(F)-F & (13-2) & 7%
+ & 3-H4HB(F,F)-CF3 & (13-21) & 6%
+ & 5-H4HB(F,F)-CF3 & (13-21) & 8%
+ & 5-H2HB(F,F)-F & (13-15) & 5%
+ & 5-H4HB(F,F)-F & (13-21) & 6%
+ & 2-H2BB(F)-F & (13-26) & 6%
+ & 3-H2BB(F)-F & (13-26) & 10%
+ & 3-HBEB(F,F)-F & (13-39) & 6%
+ & 
+</table>
+Use Example 9
+<table>
+<header>
+ & 
+</header>
+ & 5-HBip(F3)-3 & (1-2-3) & 3% & 
+ & 5-HB-CL & (12-2) & 15%
+ & 7-HB(F,F)-F & (12-4) & 3%
+ & 3-HH-4 & (2-1) & 8%
+ & 3-HH-5 & (2-1) & 6%
+ & 3-HB-O2 & (2-5) & 14%
+ & 3-HHB-1 & (3-1) & 5%
+ & 3-HHB-O1 & (3-1) & 8%
+ & 2-HHB(F)-F & (13-2) & 8%
+ & 3-HHB(F)-F & (13-2) & 6%
+ & 5-HHB(F)-F & (13-2) & 5%
+ & 3-HHB(F,F)-F & (13-3) & 7%
+ & 3-H2HB(F,F)-F & (13-15) & 6%
+ & 4-H2HB(F,F)-F & (13-15) & 6%
+ & 
+</table>
+Use Example 10
+<table>
+<header>
+ & 
+</header>
+ & 3-Bip(F3)O1H-5 & (1-3-42) & 4% & 
+ & 5-HB-CL & (12-2) & 5%
+ & 7-HB(F)-F & (12-3) & 5%
+ & 3-HH-4 & (2-1) & 10%
+ & 3-HH-5 & (2-1) & 9%
+ & 3-HB-O2 & (2-5) & 11%
+ & 3-HHEB-F & (13-10) & 10%
+ & 5-HHEB-F & (13-10) & 7%
+ & 3-HHEB(F,F)-F & (13-12) & 8%
+ & 4-HHEB(F,F)-F & (13-12) & 4%
+ & 3-GHB(F,F)-F & (13-109) & 5%
+ & 4-GHB(F,F)-F & (13-109) & 6%
+ & 5-GHB(F,F)-F & (13-109) & 7%
+ & 2-HHB(F,F)-F & (13-3) & 4%
+ & 3-HHB(F,F)-F & (13-3) & 5%
+ & 
+</table>
+Use Example 11
+<table>
+<header>
+ & 
+</header>
+ & 3-H1OBip(F3)-O2 & (1-2-43) & 2% & 
+ & 3-HB-O1 & (2-5) & 15%
+ & 3-HH-4 & (2-1) & 8%
+ & 3-HH-V & (2-1) & 5%
+ & 3-HB-O2 & (2-5) & 5%
+ & 3-HB(2F,3F)-O2 & (5-1) & 10%
+ & 5-HB(2F,3F)-O2 & (5-1) & 10%
+ & 2-HHB(2F,3F)-1 & (6-1) & 10%
+ & 3-HHB(2F,3F)-1 & (6-1) & 10%
+ & 3-HHB(2F,3F)-O2 & (6-1) & 8%
+ & 5-HHB(2F,3F)-O2 & (6-1) & 9%
+ & 3-HHB-1 & (3-1) & 8%
+ & 
+ & NI = 77.0° C.; η = 30.8 mPa · s; Δn = 0.081; Δ∈ = −2.8.
+</table>
+Use Example 12
+<table>
+<header>
+ & 
+</header>
+ & 2O-Bip(F3)-O5 & (1-1-11) & 3% & 
+ & 2-HH-5 & (2-1) & 3%
+ & 3-HH-4 & (2-1) & 14%
+ & 3-HH-5 & (2-1) & 4%
+ & 3-HB-O2 & (2-5) & 11%
+ & 3-H2B(2F,3F)-O2 & (5-4) & 14%
+ & 5-H2B(2F,3F)-O2 & (5-4) & 14%
+ & 3-HHB(2F,3CL)-O2 & (6-12) & 5%
+ & 2-HBB(2F,3F)-O2 & (6-7) & 3%
+ & 3-HBB(2F,3F)-O2 & (6-7) & 8%
+ & 5-HBB(2F,3F)-O2 & (6-7) & 9%
+ & 3-HHB-1 & (3-1) & 4%
+ & 3-HHB-3 & (3-1) & 4%
+ & 3-HHB-O1 & (3-1) & 4%
+ & 
+ & NI = 76.3° C.; η = 20.9 mPa · s; Δn = 0.096; Δ∈ = −4.3.
+</table>
+Use Example 13
+<table>
+<header>
+ & 
+</header>
+ & V-HBip(F3)-O2 & (1-2-6) & 5% & 
+ & 2-HH-3 & (2-1) & 17%
+ & 2-HH-5 & (2-1) & 3%
+ & 3-HH-4 & (2-1) & 7%
+ & 1-BB-3 & (2-8) & 6%
+ & 3-HB-O2 & (2-5) & 3%
+ & 3-BB(2F,3F)-O2 & (5-3) & 8%
+ & 5-BB(2F,3F)-O2 & (5-3) & 6%
+ & 2-HH1OB(2F,3F)-O2 & (6-5) & 13%
+ & 3-HH1OB(2F,3F)-O2 & (6-5) & 18%
+ & 3-HBB(2F,3CL)-O2 & (6-13) & 3%
+ & 4-HBB(2F,3CL)-O2 & (6-13) & 3%
+ & 3-HHB-1 & (3-1) & 3%
+ & 3-HHB-O1 & (3-1) & 3%
+ & 5-B(F)BB-2 & (3-8) & 2%
+ & 
+</table>
+Use Example 14
+<table>
+<header>
+ & 
+</header>
+ & 5-BBip(F3)-O2 & (1-2-22) & 3% & 
+ & 2-HH-3 & (2-1) & 15%
+ & 7-HB-1 & (2-5) & 9%
+ & 5-HB-O2 & (2-5) & 7%
+ & 3-HB(2F,3F)-O2 & (5-1) & 16%
+ & V-HB(2F,3F)-O2 & (5-1) & 15%
+ & 3-HHB(2F,3CL)-O2 & (6-12) & 4%
+ & 4-HHB(2F,3CL)-O2 & (6-12) & 3%
+ & 5-HHB(2F,3CL)-O2 & (6-12) & 3%
+ & 5-HBB(2F,3F)-O2 & (6-7) & 5%
+ & 3-HH1OCro(7F,8F)-5 & (9-6) & 4%
+ & 5-HBB(F)B-2 & (4-5) & 8%
+ & 5-HBB(F)B-3 & (4-5) & 8%
+ & 
+</table>
+Use Example 15
+<table>
+<header>
+ & 
+</header>
+ & 3-DhBip(F3)-O2 & (1-2-29) & 3% & 
+ & 2-HH-5 & (2-1) & 5%
+ & 1-BB-3 & (2-8) & 8%
+ & 3-HH-V & (2-1) & 25%
+ & 2-BB(2F,3F)-O2 & (5-3) & 12%
+ & 2-HH1OB(2F,3F)-O2 & (6-5) & 18%
+ & 3-HH1OB(2F,3F)-O2 & (6-5) & 15%
+ & 3-HHB-1 & (3-1) & 8%
+ & 5-B(F)BB-2 & (3-8) & 6%
+ & 
+</table>
+Use Example 16
+<table>
+<header>
+ & 
+</header>
+ & 3-H1OBip(F3)-O2 & (1-2-43) & 2% & 
+ & 2-HH-3 & (2-1) & 6%
+ & 3-HH-V1 & (2-1) & 8%
+ & 1V2-HH-1 & (2-1) & 8%
+ & 1V2-HH-3 & (2-1) & 8%
+ & 3-BB(2F,3F)-O2 & (5-3) & 6%
+ & 5-BB(2F,3F)-O2 & (5-3) & 3%
+ & 3-H1OB(2F,3F)-O2 & (5-5) & 5%
+ & 2-HH1OB(2F,3F)-O2 & (6-5) & 10%
+ & 3-HH1OB(2F,3F)-O2 & (6-5) & 19%
+ & 3-HDhB(2F,3F)-O2 & (6-3) & 7%
+ & 3-HHB-1 & (3-1) & 4%
+ & 3-HHB-3 & (3-1) & 3%
+ & 2-BB(2F,3F)B-3 & (7-1) & 11%
+ & 
+ & NI = 91.3° C.; η = 23.3 mPa · s; Δn = 0.109; Δ∈ = −4.4.
+</table>
+Use Example 17
+<table>
+<header>
+ & 
+</header>
+ & 5-HBip(F3)-3 & (1-2-3) & 3% & 
+ & 1V2-BEB(F,F)-C & (15-15) & 7%
+ & 3-HB-C & (15-1) & 16%
+ & 2-BTB-1 & (2-10) & 11%
+ & 5-HH-VFF & (2-1) & 28%
+ & 3-HHB-1 & (3-1) & 3%
+ & VFF-HHB-1 & (3-1) & 10%
+ & VFF2-HHB-1 & (3-1) & 10%
+ & 3-H2BTB-2 & (3-17) & 4%
+ & 3-H2BTB-3 & (3-17) & 4%
+ & 3-H2BTB-4 & (3-17) & 4%
+ & 
+</table>
+Use Example 18
+<table>
+<header>
+ & 
+</header>
+ & 3-Bip(F3)O1H-5 & (1-3-42) & 5% & 
+ & 5-HB(F)B(F,F)XB(F,F)-F & (14-41) & 4%
+ & 3-BB(F)B(F,F)XB(F,F)-F & (14-47) & 4%
+ & 4-BB(F)B(F,F)XB(F,F)-F & (14-47) & 5%
+ & 5-BB(F)B(F,F)XB(F,F)-F & (14-47) & 4%
+ & 3-HH-V & (2-1) & 38%
+ & 3-HH-V1 & (2-1) & 5%
+ & 3-HHEH-5 & (3-13) & 5%
+ & 3-HHB-1 & (3-1) & 3%
+ & V-HHB-1 & (3-1) & 5%
+ & V2-BB(F)B-1 & (3-6) & 5%
+ & 1V2-BB-F & (12-1) & 3%
+ & 3-BB(F,F)XB(F,F)-F & (13-97) & 11%
+ & 3-HHBB(F,F)-F & (14-6) & 3%
+ & 
+</table>
+Use Example 19
+<table>
+<header>
+ & 
+</header>
+ & 5-HBip(F3)-O2 & (1-2-5) & 3% & 
+ & 3-GB(F)B(F,F)XB(F,F)-F & (14-57) & 4%
+ & 5-HB(F)B(F,F)XB(F,F)-F & (14-41) & 3%
+ & 3-BB(F)B(F,F)XB(F,F)-F & (14-47) & 3%
+ & 4-BB(F)B(F,F)XB(F,F)-F & (14-47) & 4%
+ & 5-BB(F)B(F,F)XB(F,F)-F & (14-47) & 3%
+ & 3-HH-V & (2-1) & 38%
+ & 3-HH-V1 & (2-1) & 6%
+ & 3-HHEH-5 & (3-13) & 3%
+ & 3-HHB-1 & (3-1) & 4%
+ & V-HHB-1 & (3-1) & 5%
+ & V2-BB(F)B-1 & (3-6) & 5%
+ & 1V2-BB-F & (12-1) & 4%
+ & 3-BB(F,F)XB(F,F)-F & (13-97) & 6%
+ & 3-GB(F,F)XB(F,F)-F & (13-113) & 5%
+ & 3-HHBB(F,F)-F & (14-6) & 4%
+ & 
+</table>
+Use Example 20
+<table>
+<header>
+ & 
+</header>
+ & 2O-Bip(F3)-O5 & (1-1-11) & 3% & 
+ & 3-HB-O1 & (2-5) & 12%
+ & 3-HH-4 & (2-1) & 5%
+ & 3-HH-VFF & (2-1) & 5%
+ & 3-HB(2F,3F)-O2 & (5-1) & 11%
+ & 5-HB(2F,3F)-O2 & (5-1) & 10%
+ & 2-HHB(2F,3F)-1 & (6-1) & 10%
+ & 3-HHB(2F,3F)-1 & (6-1) & 10%
+ & 3-HHB(2F,3F)-O2 & (6-1) & 10%
+ & 5-HHB(2F,3F)-O2 & (6-1) & 10%
+ & 3-HHB-1 & (3-1) & 8%
+ & 1-BB-5 & (2-8) & 6%
+ & 
+ & NI = 76.5° C.; η = 31.9 mPa · s; Δn = 0.094; Δ∈ = −3.1.
+</table>
+Use Example 21
+<table>
+<header>
+ & 
+</header>
+ & 5-BBip(F3)-O2 & (1-2-22) & 3% & 
+ & 2-HH-3 & (2-1) & 10%
+ & 3-HH-4 & (2-1) & 3%
+ & 7-HB-1 & (2-5) & 9%
+ & 5-HB-O2 & (2-5) & 7%
+ & 3-HB(2F,3F)-O2 & (5-1) & 15%
+ & 5-HB(2F,3F)-O2 & (5-1) & 14%
+ & V-HHB(2F,3F)-O2 & (6-1) & 3%
+ & V2-HHB(2F,3F)-O2 & (6-1) & 3%
+ & 5-HHB(2F,3CL)-O2 & (6-12) & 4%
+ & 2-H1OB(2F,3F)-O2 & (5-5) & 4%
+ & 3-H1OB(2F,3F)-O2 & (5-5) & 4%
+ & 3-HH1OCro(7F,8F)-5 & (9-6) & 5%
+ & 5-HBB(F)B-2 & (4-5) & 8%
+ & 5-HBB(F)B-3 & (4-5) & 8%
+ & 
+</table>
+Use Example 22
+<table>
+<header>
+ & 
+</header>
+ & 3-Bip(F3)O1H-5 & (1-3-42) & 4% & 
+ & 2-HH-5 & (2-1) & 3%
+ & 3-HH-4 & (2-1) & 15%
+ & 3-HH-5 & (2-1) & 4%
+ & 3-HB-O2 & (2-5) & 12%
+ & 3-H2B(2F,3F)-O2 & (5-4) & 9%
+ & 5-H2B(2F,3F)-O2 & (5-4) & 9%
+ & 3-HHB(2F,3CL)-O2 & (6-12) & 5%
+ & V-HBB(2F,3F)-O2 & (6-7) & 3%
+ & 3-HBB(2F,3F)-O2 & (6-7) & 9%
+ & 5-HBB(2F,3F)-O2 & (6-7) & 9%
+ & 3-HHB-1 & (3-1) & 3%
+ & 3-HHB-3 & (3-1) & 4%
+ & 3-HHB-O1 & (3-1) & 3%
+ & 3-HH2B(2F,3F)-O2 & (6-4) & 5%
+ & 3-DhB(2F,3F)-O2 & (5-2) & 3%
+ & 
+</table>
+Use Example 23
+<table>
+<header>
+ & 
+</header>
+ & V-HBip(F3)-O2 & (1-2-6) & 3% & 
+ & 2-HH-3 & (2-1) & 6%
+ & 3-HH-V1 & (2-1) & 10%
+ & 1V2-HH-1 & (2-1) & 8%
+ & 1V2-HH-3 & (2-1) & 7%
+ & V2-BB(2F,3F)-O2 & (5-3) & 8%
+ & 5-BB(2F,3F)-O2 & (5-3) & 5%
+ & 3-H1OB(2F,3F)-O2 & (5-5) & 7%
+ & 3-HchB(2F,3F)-O2 & (6-18) & 5%
+ & 3-HH1OB(2F,3F)-O2 & (6-5) & 10%
+ & 3-HDhB(2F,3F)-O2 & (6-3) & 4%
+ & 3-dhBB(2F,3F)-O2 & (6-9) & 3%
+ & V-HHB-1 & (3-1) & 5%
+ & V2-HHB-1 & (3-1) & 4%
+ & 3-HHB-1 & (3-1) & 3%
+ & 3-HHB-3 & (3-1) & 4%
+ & 2-BB(2F,3F)B-3 & (7-1) & 8%
+ & 
+</table>
+Use Example 24
+<table>
+<header>
+ & 
+</header>
+ & 3-H1OBip(F3)-O2 & (1-2-43) & 2% & 
+ & 2-HH-3 & (2-1) & 13%
+ & 3-HH-4 & (2-1) & 11%
+ & 1-BB-3 & (2-8) & 9%
+ & 3-HH-V & (2-1) & 10%
+ & 3-HB-O2 & (2-5) & 2%
+ & 3-BB(2F,3F)-O2 & (5-3) & 8%
+ & 5-BB(2F,3F)-O2 & (5-3) & 5%
+ & 2-HH1OB(2F,3F)-O2 & (6-5) & 12%
+ & 3-HH1OB(2F,3F)-O2 & (6-5) & 16%
+ & 3-HHB-1 & (3-1) & 4%
+ & 3-HHB-O1 & (3-1) & 3%
+ & 5-B(F)BB-2 & (3-8) & 2%
+ & V-HBB-2 & (3-4) & 3%
+ & 
+ & NI = 73.0° C.; η = 12.8 mPa · s; Δn = 0.098; Δ∈ = −2.8.
+</table>
+Use Example 25
+<table>
+<header>
+ & 
+</header>
+ & 3-DhBip(F3)-O2 & (1-2-29) & 3% & 
+ & 3-GB(F)B(F,F)XB(F,F)-F & (14-57) & 3%
+ & 4-GB(F)B(F,F)XB(F,F)-F & (14-57) & 5%
+ & 5-GB(F)B(F,F)XB(F,F)-F & (14-57) & 3%
+ & 3-GB(F)B(F,F)XB(F,F)-F & (14-57) & 3%
+ & 3-BB(F)B(F,F)XB(F,F)-F & (14-47) & 3%
+ & 4-BB(F)B(F,F)XB(F,F)-F & (14-47) & 3%
+ & 5-BB(F)B(F,F)XB(F,F)-F & (14-47) & 3%
+ & 3-HH-V & (2-1) & 35%
+ & 3-HH-V1 & (2-1) & 5%
+ & 3-HHEH-5 & (3-13) & 3%
+ & 3-HHB-1 & (3-1) & 5%
+ & V-HHB-1 & (3-1) & 4%
+ & V2-BB(F)B-1 & (3-6) & 3%
+ & 1V2-BB-F & (12-1) & 5%
+ & 3-BB(F,F)XB(F,F)-F & (13-97) & 5%
+ & 3-GB(F,F)XB(F,F)-F & (13-113) & 6%
+ & 3-HHBB(F,F)-F & (14-6) & 3%
+ & 
+</table>
+Use Example 26
+<table>
+<header>
+ & 
+</header>
+ & 2O-Bip(F3)-O5 & (1-1-11) & 4% & 
+ & 2-dhBB(F,F)XB(F,F)-F & (14-50) & 5%
+ & 3-dhBB(F,F)XB(F,F)-F & (14-50) & 5%
+ & 5-HB(F)B(F,F)XB(F,F)-F & (14-41) & 5%
+ & 3-HH-V & (2-1) & 36%
+ & 3-HH-V1 & (2-1) & 7%
+ & 3-HHEH-5 & (3-13) & 4%
+ & 3-HHB-1 & (3-1) & 5%
+ & V-HHB-1 & (3-1) & 5%
+ & V2-BB(F)B-1 & (3-6) & 5%
+ & 1V2-BB-F & (12-1) & 4%
+ & 3-BB(F,F)XB(F,F)-F & (13-97) & 11%
+ & 3-HHBB(F,F)-F & (14-6) & 4%
+ & 
+</table>
+Use Example 27
+<table>
+<header>
+ & 
+</header>
+ & 5-HBip(F3)-O2 & (1-2-5) & 3% & 
+ & 3-GBB(F,F)XB(F,F)-F & (14-58) & 4%
+ & 4-GBB(F,F)XB(F,F)-F & (14-58) & 4%
+ & 5-GBB(F,F)XB(F,F)-F & (14-58) & 3%
+ & 3-GB(F)B(F,F)XB(F,F)-F & (14-57) & 5%
+ & 3-BB(F)B(F,F)XB(F,F)-F & (14-47) & 3%
+ & 4-BB(F)B(F,F)XB(F,F)-F & (14-47) & 3%
+ & 5-BB(F)B(F,F)XB(F,F)-F & (14-47) & 3%
+ & 3-HH-V & (2-1) & 40%
+ & 3-HH-V1 & (2-1) & 5%
+ & 3-HHEH-5 & (3-13) & 3%
+ & 3-HHB-1 & (3-1) & 3%
+ & V-HHB-1 & (3-1) & 5%
+ & V2-BB(F)B-1 & (3-6) & 3%
+ & 1V2-BB-F & (12-1) & 3%
+ & 3-BB(F,F)XB(F,F)-F & (13-97) & 3%
+ & 3-GB(F,F)XB(F,F)-F & (13-113) & 4%
+ & 3-HHBB(F,F)-F & (14-6) & 3%
+ & 
+</table>
+INDUSTRIAL APPLICABILITY
+A liquid crystal compound of the invention has good physical properties. A liquid crystal composition containing the compound can be widely applied to a liquid crystal display device used in a personal computer, a television and so forth.

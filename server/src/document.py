@@ -38,6 +38,8 @@ from projectconfig import (ARC_DRAWING_ATTRIBUTES, ATTR_DRAWING_ATTRIBUTES,
                            options_get_ssplitter, options_get_tokenization,
                            options_get_validation,
                            visual_options_get_arc_bundle,
+                           visual_options_get_multiline_entity,
+                           visual_options_get_entity_label,
                            visual_options_get_text_direction)
 from stats import get_statistics
 
@@ -543,6 +545,8 @@ def _inject_annotation_type_conf(dir_path, json_dic=None):
     # inject general visual options (currently just arc bundling) (#949)
     visual_options = {}
     visual_options['arc_bundle'] = visual_options_get_arc_bundle(dir_path)
+    visual_options['multiline_entity'] = visual_options_get_multiline_entity(dir_path)
+    visual_options['entity_label'] = visual_options_get_entity_label(dir_path)
     visual_options['text_direction'] = visual_options_get_text_direction(
         dir_path)
     json_dic['visual_options'] = visual_options
