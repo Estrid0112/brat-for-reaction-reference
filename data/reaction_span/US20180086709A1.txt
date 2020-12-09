@@ -15,6 +15,7 @@ Technical Solution
 The present inventors have discovered novel tetrahydropyridine derivatives, which have UDP-3-O-(R-3-hydroxymyristoyl)-N-acetylglucosamine deacetylase (LpxC) inhibitory activity, and have found that these compounds can be used for treating Gram-negative bacterial infections, thereby completing the present invention.
 Tetrahydropyridine Derivative Compounds
 To achieve the above objects, the present disclosure provides a tetrahydropyridine derivative compound represented by the following formula I, a stereoisomer thereof, or a pharmaceutically acceptable salt thereof:
+<img> id-US20180086709A1-20180329-C00001.TIF </img>
 n is 1, 2 or 3;
 R1 is C1-C6 alkyl or C1-C6 haloalkyl;
 R2 is hydrogen or C1-C6 alkyl;
@@ -78,8 +79,11 @@ The compounds of the present disclosure can be prepared in accordance with one o
 These methods can be used either directly or with obvious variations to trained chemists to prepare key intermediates and certain compounds of this invention
 Suitable synthetic sequence are readily selected per specific structures of this invention, but within the art known to individuals practicing organic synthesis, such as method summarized in available chemistry data bases, as in CAS Scifinder and Elesvier Reaxys. Based on these general methods, the enablement for making the compounds of the present disclosure is straightforward and can be practiced within a common professional knowledge.
 Some general synthetic methods to prepare the compounds of the present disclosure are illustrated below.
+<img> id-US20180086709A1-20180329-C00002.TIF </img>
+<img> id-US20180086709A1-20180329-C00003.TIF </img>
 Use of the Tetrahydropyidine Derivative Compounds
 The present invention provides a pharmaceutical composition for preventing or treating bacterial infections, which contains a pharmaceutically acceptable carrier and, as an active ingredient, a compound represented by the following formula I, a stereoisomer thereof or a pharmaceutically acceptable salt thereof:
+<img> id-US20180086709A1-20180329-C00004.TIF </img>
 wherein formula I is as defined above.
 The compounds of formula I according to the present disclosure, the stereoisomers thereof, or the pharmaceutically acceptable salts thereof, exhibit antibacterial activity, especially against Gram-negative organisms and are therefore suitable to treat bacterial infections in mammals, especially humans. They may therefore be used for the prevention or treatment of bacterial infection caused by Gram-negative bacteria, especially those caused by susceptible and multi-drug resistant Gram-negative bacteria. Examples of such Gram-negative bacteria include Acinetobacter baumannii, Acinetobacter spp., Achromobacter spp., Aeromonas spp., Bacteroides spp., Bordetella spp., Borrelia spp., Brucella spp., Campylobacter spp., Chlamydia spp., Citrobacter spp., Enterobacter aerogenes, Enterobacter cloacae, Escherichia coli, Francisella tularensis, Fusobacterium spp., Haemophilus influenza (beta-lactamase positive and negative), Helicobacter pylori, Klebsiella oxytoca, Klebsiella pneumonia (including those encoding extended-spectrum beta-lactamases (hereinafter “ESBLs”)), Legionella pneumophila, Moraxella catarrhalis (beta-lactamase positive and negative), Morganella morganii, Neisseria gonorrhoeae, Neisseria meningitides, Proteus vulgaris, Porphyromonas spp., Prevotella spp., members of the Enterobacteriaceae that express ESBLs KPCs, CTX-M, metallo-beta-lactamase, and AmpC-type beta-lactamases that confer resistance to currently available cephalosporins, cephamycins, carbapenems, and beta-lactam/beta-lactamase inhibitor combination, Mannheimia haemolyticus, Pasteurella spp., Proteus mirabilis, Providencia spp., Pseudomonas aeruginosa (including ceftazidime-, cefpirome- and cefeprime-resistant P. aeruginosa, carbapenem-resistant P. aeruginosa or quinolone-resistant P. aeruginosa), Pseudomonas spp., Salmonella spp., Shigella spp., Serratia marcescenes, Treponema spp., Burkholderia cepacia, Vibrio spp., Yersinia spp., and Stenotrophomonas malophilia.
 In a more specific embodiment, examples of such Gram-negative bacteria include Acinetobacter baumannii, Acinetobacter spp., Enterobacter aerogenes, Enterobacter cloacae, Escherichia coli, Klebsiella oxytoca, Klebsiella pneumonia, Serratia marcescens, Pseudomonas aeruginosa and members of the Enterobacteriaceae and Pseudomonas that express ESBLs, KPSs, CTX-M, metallo-beta-lactamases, and AmpC-type beta-lactamases that confer resistance to currently available cephalosporins, cephamycins, carbapenems, and beta-lactam/beta-lactamase inhibitor combinations.
@@ -97,6 +101,7 @@ Examples
 Embodiments of the present disclosure are described in the following examples, which are meant to illustrate and not limit the scope of this invention. Common abbreviations well known to those with ordinary skills in the synthetic used throughout.
 All chemical reagents were commercially available. Flash column chromatography means silica gel chromatography unless specified otherwise, which was performed on Teledyne Combiflash-RF-200 system. 1H NMR spectra (δ,ppm) are recorded on 400 MHz or 600 MHz instrument. Mass spectroscopy data for a positive ionization method are provided.
 Preparation 1: Synthesis of Intermediate 1 {methyl 4-bromo-2-methyl-2-(methylsulfonyl)butanoate}
+<img> id-US20180086709A1-20180329-C00005.TIF </img>
 Step 1: Synthesis of methyl 2-(methylsulfonyl)propanoate
 To a solution of methyl 2-chloropropionate (150 g, 1 eq) in MeOH (500 ml) was added with sodium methanesulfinate (162 g, 1.3 eq) and stirred for 20 hr at 77° C. The mixture was cooled down to room temperature and precipitated solid was filtered off through celite. The filtrate was concentrated in vacuo and the residue was suspended in ethyl acetate (100 ml)/hexane (500 ml). After then, the precipitated solid was filtered off and the filtrate was concentrated in vacuo to prepare the title compound (162 g, 80%).
 1H NMR (600 MHz, CDCl3-d1); δ3.90 (q, J=7.2 Hz, 1H), 3.82 (s, 3H), 3.03 (s, 3H), 1.66 (d, J=6.6 Hz, 3H).
@@ -104,24 +109,31 @@ Step 2: Synthesis of methyl 4-bromo-2-methyl-2-(methylsulfonyl)butanoate
 To a suspended solution of sodium hydride (60%, 33.7 g, 2 eq) in DMF (300 ml) was dropwised with methyl 2-(methylsulfonyl)propanoate (70 g, 1 eq) in DMF (100 ml) at 0° C. and stirred for 30 min. After then, the mixture was added with 1,2-dibromoethane (158 g, 2 eq) and stirred for 6 hr at room temperature. The mixture was quenched with sat. aq. NH4Cl, extracted with ethyl acetate and water. The organic layer was washed with brine, dried over anhydrous MgSO4 and concentrated in vacuo. The residue was purified with column chromatography to prepare the title compound (225 mg, 43%).
 1H NMR (600 MHz, CDCl3-d1); δ3.81 (s, 3H), 3.49-3.45 (m, 1H), 3.35-3.31 (m, 1H), 3.01 (s, 3H). 2.78-2.73 (m, 1H), 2.53-2.48 (m, 1H), 1.62 (s, 3H)
 Preparation 2: Synthesis of Intermediate 2 {methyl 4-(4-(4-iodophenyl)-3,6-dihydropyridin-1(2H)-yl)-2-methyl-2-(methylsulfonyl)butanoate}
+<img> id-US20180086709A1-20180329-C00006.TIF </img>
 To a solution of 4-(4-iodophenyl)-1,2,3,6-tetrahydropyridine hydrochloride (10 g, 1 eq) in a mixture of DMF (100 ml)/MeOH (50 ml) was added with methyl 4-bromo-2-methyl-2-(methylsulfonyl)butanoate (12.74 g, 1.5 eq), N,N-diisopropylethylamine (16.3 ml, 3 eq) and stirred for 24 hr at 60° C. The mixture was cooled down to room temperature, extracted with ethyl acetate and water. The organic layer was washed with brine, dried over anhydrous MgSO4 and concentrated in vacuo. The residue was purified with column chromatography to prepare the title compound (11 g, 74%).
 1H NMR (600 MHz, CDCl3-d1); δ7.68 (d, J=7.8 Hz, 2H), 7.10 (d, J=8.4 Hz, 2H), 5.98 (s, 1H), 4.20-4.14 (m, 1H), 3.88 (d, J=6.0 Hz, 3H), 3.72-3.66 (m, 1H), 3.62-3.48 (m, 2H), 3.46-3.36 (m, 1H), 3.30-3.14 (m, 2H), 3.13 (d, J=6.6 Hz, 3H), 2.94-2.84 (m, 1H), 2.80-2.65 (m, 2H), 1.76 (d, J=6.6 Hz, 3H).
 Preparation 3: Synthesis of Intermediate 3 {4-(4-(4-iodophenyl)-3,6-dihydropyridin-1(2H)-yl)-2-methyl-2-(methylsulfonyl)-N-((tetrahydro-2H-pyran-2-yl)oxy)butanamide}
+<img> id-US20180086709A1-20180329-C00007.TIF </img>
 Step 2: Synthesis of 4-(4-(4-iodophenyl)-3,6-dihydropyridin-1(2H)-yl)-2-methyl-2-(methylsulfonyl)-N-((tetrahydro-2H-pyran-2-yl)oxy)butanamide
 To a solution of 4-(4-(4-iodophenyl)-3,6-dihydropyridin-1(2H)-yl)-2-methyl-2-(methylsulfonyl)butanoic acid (1.76 g, 1 eq) in DMF (10 ml) was added with HATU (1-[Bis(dimethylamino)methylene]-1H-1,2,3-triazolo[4,5-b]pyridinium 3-oxid hexafluorophosphate) (2.02 g, 1.4 eq), HOBT (Hydroxybenzotriazole) (0.81 g, 1.4 eq), Et3N (1.6 ml, 3 eq), O-(tetrahydro-2H-pyran-2-yl)hydroxylamine hydrochloride (1.17 g, 2 eq) and stirred for 1 hr at room temperature. The mixture was extracted with ethyl acetate and water. The organic layer was washed with brine, dried over anhydrous MgSO4 and concentrated in vacuo. The residue was purified with column chromatography to prepare the title compound (0.6 g, 28%).
 1H NMR (600 MHz, DMSO-d6); δ11.58 (bs, 1H), 7.66-7.64 (m, 2H), 7.22-7.20 (m, 2H), 6.17 (s, 1H), 4.85-4.81 (m, 1H), 3.31-3.04 (m, 5H), 2.60-2.59 (m, 2H), 2.47-2.39 (m, 6H), 1.85-1.62 (m, 2H), 1.47-1.41 (s, 7H).
 Example 1: Synthesis of 4-(4-(4-((4-(dimethylamino)phenyl) ethynyl)phenyl)-3,6-dihydropyridin-1(2H)-yl)-N-hydroxy-2-methyl-2-(methylsulfonyl)butanamide
+<img> id-US20180086709A1-20180329-C00008.TIF </img>
 Step 1: Synthesis of methyl 4-(4-(4-((4-(dimethylamino)phenyl)ethynyl)phenyl)-3,6-dihydropyridin-1(2H)-yl)-2-methyl-2-(methylsulfonyl)butanoate
+<img> id-US20180086709A1-20180329-C00009.TIF </img>
 To a solution of methyl 4-(4-(4-iodophenyl)-3,6-dihydropyridin-1(2H)-yl)-2-methyl-2-(methylsulfonyl)butanoate (Intermediate 2) (500 mg, 1 eq) in a mixture of THF (10 ml)/toluene (10 ml) was added with CuI (20 mg, 0.1 eq), Pd(PPh3)2Cl2(74 mg, 0.1 eq), Et3N (0.442 ml, 3 eq) and 4-ethynyl-N,N-dimethylaniline (228 mg, 1.5 eq) and stirred for 12 hr at room temperature. The mixture was extracted with ethyl acetate and water. The organic layer was washed with brine, dried over anhydrous MgSO4 and concentrated in vacuo. The residue was purified with column chromatography to prepare the title compound (225 mg, 43%).
 1H NMR (600 MHz, CDCl3-d1); δ7.43 (d, J=8.4 Hz, 2H), 7.39 (d, J=9 Hz, 2H), 7.32 (d, J=9 Hz, 2H), 6.65 (d, J=8.4 Hz, 2H), 6.08 (s, 1H), 3.87 (s, 3H), 3.24-3.22 (m, 1H), 3.07-3.05 (m, 1H), 3.04 (s, 3H), 2.98 (s, 6H), 2.82-2.76 (m, 1H), 2.67-2.56 (m, 4H), 2.62-2.58 (m, 2H), 2.03-2.00 (m, 1H), 1.63 (s, 3H).
 MS (ESI, m/z): 495.3 [M+H]+.
 Step 2: Synthesis of 4-(4-(4-((4-(dimethylamino)phenyl)ethynyl)phenyl)-3,6-dihydropyridin-1(2H)-yl)-2-methyl-2-(methylsulfonyl)butanoic acid
+<img> id-US20180086709A1-20180329-C00010.TIF </img>
 To a solution of methyl 4-(4-(4-((4-(dimethylamino)phenyl)ethynyl)phenyl)-3,6-dihydropyridin-1(2H)-yl)-2-methyl-2-(methylsulfonyl)butanoate (225 mg, 1 eq) in a mixture of THF (8 ml)/MeOH (2 ml) was added with 2N-LiOH (0.68 mL, 3 eq) solution and stirred for 2 hr at room temperature. The solvent was removed under reduced pressure and the residue was diluted with water (6 ml), adjusted the pH to 4.0. The precipitated solid was filtered off to prepare the title compound (190 mg, 87%), which was used for next step without further purification.
 MS (ESI, m/z): 481.2 [M+H]+.
 Step 3: Synthesis of 4-(4-(4-((4-(dimethylamino)phenyl)ethynyl)phenyl)-3,6-dihydropyridin-1(2H)-yl)-2-methyl-2-(methylsulfonyl)-N-((tetrahydro-2H-pyran-2-yl)oxy)butanamide
+<img> id-US20180086709A1-20180329-C00011.TIF </img>
 To a solution of 4-(4-(4-((4-(dimethylamino)phenyl)ethynyl)phenyl)-3,6-dihydropyridin-1(2H)-yl)-2-methyl-2-(methylsulfonyl)butanoic acid (190 mg, 1 eq) in DMF (10 ml) was added with HATU (210 mg, 1.4 eq), HOBT (85 mg, 1.4 eq), Et3N (0.17 ml, 3 eq), O-(tetrahydro-2H-pyran-2-yl)hydroxylamine hydrochloride (121 mg, 2 eq) and stirred for 1 hr at room temperature. The mixture was extracted with ethyl acetate and water. The organic layer was washed with brine, dried over anhydrous MgSO4 and concentrated in vacuo. The residue was purified with column chromatography to prepare the title compound (200 mg, 87%).
 MS (ESI, m/z): 580.3 [M+H]+.
 Step 4: Synthesis of 4-(4-(4-((4-(dimethylamino)phenyl)ethynyl)phenyl)-3,6-dihydropyridin-1(2H)-yl)-N-hydroxy-2-methyl-2-(methylsulfonyl)butanamide
+<img> id-US20180086709A1-20180329-C00012.TIF </img>
 To a solution of 4-(4-(4-((4-(dimethylamino)phenyl)ethynyl)phenyl)-3,6-dihydropyridin-1(2H)-yl)-2-methyl-2-(methylsulfonyl)-N-((tetrahydro-2H-pyran-2-yl)oxy)butanamide (200 mg, 1 eq) in MeOH (6 ml) was added with HCl solution in MeOH (1.25N, 0.83 ml, 3 eq) and stirred for 2 hr at room temperature. The solvent was removed under reduced pressure and the residue was diluted with water (6 ml), adjusted the pH to 7.0. The water was concentrated in vacuo and the resulting residue was purified with column chromatography to prepare the title compound (40 mg, 24%).
 1H NMR (600 MHz, DMSO-d6); δ11.02 (bs, 1H), 9.08 (bs, 1H), 7.42-7.39 (m, 4H), 7.32 (d, J=8.4 Hz, 2H), 6.68 (d, J=9 Hz, 2H), 6.21 (s, 1H), 3.12-3.08 (m, 2H), 3.04 (s, 3H), 2.92 (s, 6H), 2.67-2.56 (m, 2H), 2.47-2.39 (m, 4H), 2.36-2.28 (m, 1H), 1.85-1.80 (m, 1H), 1.44 (s, 3H).
 MS (ESI, m/z): 496.2 [M+H]+.
@@ -140,7 +152,7 @@ Example & (Name) & acetylene
 <header>
 
 </header>
- &  & 
+ & <img> id-US20180086709A1-20180329-C00013.TIF </img> & 
  & (N-hydroxy-2-methyl-2-(methylsulfonyl)-4-(4-(4- & 
  & (phenylethynyl)phenyl)-3,6-dihydropyridin-1(2H)- & 
  & yl)butanamide) & 
@@ -149,7 +161,7 @@ Example & (Name) & acetylene
  & 3.28 (m, 6H), 3.09-3.03 (m, 2H), 3.03 (s, 3H), & 
  & 2.63-2.57 (m, 2H), 1.44 (s, 3H). & 
  & MS (ESI, m/z): 453.2 [M + H]+. & 
- &  & 
+ & <img> id-US20180086709A1-20180329-C00014.TIF </img> & 
  & (N-hydroxy-4-(4-(4-((4- & 
  & methoxyphenyl)ethynyl)phenyl)-3,6- & 
  & dihydropyridin-1(2H)-yl)-2-methyl-2- & 
@@ -161,7 +173,7 @@ Example & (Name) & acetylene
  & 4H) 2.36-2.28 (m, 1H), 1.85-1.81 (m, 1H), 1.44 & 
  & (s, 3H). & 
  & MS (ESI, m/z): 483.2 [M + H]+. & 
-4 &  & 
+4 & <img> id-US20180086709A1-20180329-C00015.TIF </img> & <img> id-US20180086709A1-20180329-C00016.TIF </img>
  & (4-(4-(4-(cyclopropylethynyl)phenyl)-3,6- & 
  & dihydropyridin-1(2H)-yl)-N-hydroxy-2-methyl-2- & 
  & (methylsulfonyl)butanamide) & 
@@ -173,7 +185,7 @@ Example & (Name) & acetylene
  & 1.44 (s, 3H), 0.86-0.82 (m, 2H), 0.70-0.65 (m, & 
  & 2H). & 
  & MS (ESI, m/z): 417.1 [M + H]+. & 
- &  & 
+ & <img> id-US20180086709A1-20180329-C00017.TIF </img> & 
  & (N-hydroxy-4-(4-(4-(4-hydroxybut-1-yn-1- & 
  & yl)phenyl)-3,6-dihydropyridin-1(2H)-yl)-2- & 
  & methyl-2-(methylsulfonyl)butanamide) & 
@@ -184,7 +196,7 @@ Example & (Name) & acetylene
  & 4H), 2.56-2.54 (m, 2H), 2.48-2.42 (m, 2H), 2.38- & 
  & 2.33 (m, 1H), 1.86-1.83 (m, 1H), 1.47 (s, 3H). & 
  & MS (ESI, m/z): 421.2 [M + H]+. & 
-6 &  & 
+6 & <img> id-US20180086709A1-20180329-C00018.TIF </img> & <img> id-US20180086709A1-20180329-C00019.TIF </img>
  & (4-(4-(4-(hex-1-yn-1-yl)phenyl)-3,6- & 
  & dihydropyridin-1(2H)-yl)-N-hydroxy-2-methyl-2- & 
  & (methylsulfonyl)butanamide) & 
@@ -194,7 +206,7 @@ Example & (Name) & acetylene
  & 5H), 2.60-2.35 (m, 2H), 2.48-2.06 (m, 6H), 1.48- & 
  & 1.29 (m, 7H), 0.97-0.88 (m, 3H). & 
  & MS (ESI, m/z): 433.2 [M + H]+. & 
- &  & 
+ & <img> id-US20180086709A1-20180329-C00020.TIF </img> & 
  & (4-(4-(4-(3-(dimethylamino)prop-1-yn-1- & 
  & yl)phenyl)-3,6-dihydropyridin-1(2H)-yl)-N- & 
  & hydroxy-2-methyl-2-(methylsulfonyl)butanamide) & 
@@ -205,7 +217,7 @@ Example & (Name) & acetylene
  & (m, 4H), 2.34-2.26 (m, 2H), 2.23 (s, 6H), 1.46 & 
  & (s, 3H). & 
  & MS (ESI, m/z): 434.2 [M + H]+. & 
- &  & 
+ & <img> id-US20180086709A1-20180329-C00021.TIF </img> & 
  & (N-hydroxy-4-(4-(4-(3-hydroxybut-1-yn-1- & 
  & yl)phenyl)-3,6-dihydropyridin-1(2H)-yl)-2- & 
  & methyl-2-(methylsulfonyl)butanamide) & 
@@ -217,7 +229,7 @@ Example & (Name) & acetylene
  & 4H), 2.36-2.32 (m, 1H), 1.84-1.80 (m, 1H), 1.46 & 
  & (s, 3H), 1.37 (d, J = 6.0 Hz, 3H). & 
  & MS (ESI, m/z): 421.10 [M + H]+. & 
- &  & 
+ & <img> id-US20180086709A1-20180329-C00022.TIF </img> & 
  & (4-(4-(4-(cyclopentylethynyl)phenyl)-3,6- & 
  & dihydropyridin-1(2H)-yl)-N-hydroxy-2-methyl-2- & 
  & (methylsulfonyl)butanamide) & 
@@ -229,7 +241,7 @@ Example & (Name) & acetylene
  & (m, 2H), 1.76-1.74 (m, 2H), 1.62-1.52 (m, 4H), & 
  & 1.46 (s, 3H). & 
  & MS (ESI, m/z): 445.1 [M + H]+. & 
- &  & 
+ & <img> id-US20180086709A1-20180329-C00023.TIF </img> & 
  & (4-(4-(4-(cyclohexylethynyl)phenyl)-3,6- & 
  & dihydropyridin-1(2H)-yl)-N-hydroxy-2-methyl-2- & 
  & (methylsulfonyl)butanamide) & 
@@ -240,7 +252,7 @@ Example & (Name) & acetylene
  & (m, 1H), 1.81-1.78 (m, 3H), 1.67-1.64 (m, 2H), & 
  & 1.48-1.41 (m, 5H), 1.33-1.28 (m, 3H). & 
  & MS (ESI, m/z): 459.2 [M + H]+. & 
- &  & 
+ & <img> id-US20180086709A1-20180329-C00024.TIF </img> & 
  & (N-hydroxy-2-methyl-2-(methylsulfonyl)-4-(4-(4- & 
  & (pent-1-yn-1-yl)phenyl)-3,6-dihydropyridin- & 
  & 1(2H)-yl)butanamide) & 
@@ -252,7 +264,7 @@ Example & (Name) & acetylene
  & 1H), 1.83-1.78 (m, 1H), 1.53-1.49 (m, 2H), 1.43 & 
  & (s, 3H), 0.96 (t, J = 7.8 Hz, 3H). & 
  & MS (ESI, m/z): 419.1 [M + H]+. & 
- &  & 
+ & <img> id-US20180086709A1-20180329-C00025.TIF </img> & 
  & (4-(4-(4-(3-cyclohexylprop-1-yn-1-yl)phenyl)- & 
  & 3,6-dihydropyridin-1(2H)-yl)-N-hydroxy-2-methyl- & 
  & 2-(methylsulfonyl)butanamide) & 
@@ -263,7 +275,7 @@ Example & (Name) & acetylene
  & 1.61 (m, 6H), 1.59-1.40 (m, 4H), 1.24-1.18 (m, & 
  & 2H), 1.13-1.06 (m, 2H), 1.04-0.98 (m, 2H). & 
  & MS (ESI, m/z): 473.2 [M + H]+. & 
-13 &  & 
+13 & <img> id-US20180086709A1-20180329-C00026.TIF </img> & <img> id-US20180086709A1-20180329-C00027.TIF </img>
  & (N-hydroxy-2-methyl-4-(4-(4-(4-methylpent-1-yn- & 
  & 1-yl)phenyl)-3,6-dihydropyridin-1(2H)-yl)-2- & 
  & (methylsulfonyl)butanamide) & 
@@ -274,7 +286,7 @@ Example & (Name) & acetylene
  & 1.81 (m, 2H), 1.44 (s, 3H), 1.23-1.21 (m, 2 H), & 
  & 0.99-0.96 (m, 6H). & 
  & MS (ESI, m/z): 433.2 [M + H]+. & 
- &  & 
+ & <img> id-US20180086709A1-20180329-C00028.TIF </img> & 
  & (4-(4-(4-(5-chloropent-1-yn-1-yl)phenyl)-3,6- & 
  & dihydropyridin-1(2H)-yl)-N-hydroxy-2-methyl-2- & 
  & (methylsulfonyl)butanamide) & 
@@ -287,7 +299,9 @@ Example & (Name) & acetylene
  & MS (ESI, m/z): 453.2 [M + H]+.
 </table>
 Example 15: Synthesis of N-hydroxy-2-methyl-2-(methylsulfonyl)-4-(4-(4-(3-(pyrrolidin-1-yl)prop-1-yn-1-yl)phenyl)-3,6-dihydropyridin-1(2H)-yl)butanamide
+<img> id-US20180086709A1-20180329-C00029.TIF </img>
 Step 1: Synthesis of 1-(prop-2-yn-1-yl)pyrrolidine
+<img> id-US20180086709A1-20180329-C00030.TIF </img>
 To a solution of pyrrolidine (1.5 ml, 1 eq) in toluene (30 ml) was added with K2CO3(4.97 g, 2 eq) and 3-bromoprop-1-yne (2.4 ml, 1.5 eq). The mixture was stirred for 15 hr at room temperature and filtered off, and the filtrate was concentrated in vacuo. The resulting residue was purified with column chromatography to prepare the title compound (0.32 g, 16%).
 MS (ESI, m/z): 110.1 [M+H]+.
 Step 2: Synthesis of N-hydroxy-2-methyl-2-(methylsulfonyl)-4-(4-(4-(3-(pyrrolidin-1-yl)prop-1-yn-1-yl)phenyl)-3,6-dihydropyridin-1(2H)-yl)butanamide
@@ -295,7 +309,9 @@ The title compound was prepared the procedures described for the synthesis of Ex
 1H NMR (600 MHz, DMSO-d6); δ11.03 (bs, 1H), 9.14 (bs, 1H), 7.45-7.36 (m, 4H), 6.22 (s, 1H), 3.63 (s, 2H), 3.18-3.04 (m, 5H), 2.70-2.56 (m, 6H), 2.48-2.41 (m, 4H), 2.37-2.31 (m, 1H), 1.87-1.80 (m, 1H), 1.77-1.68 (m, 4H), 1.46 (s, 3H).
 MS (ESI, m/z): 460.2 [M+H]+.
 Example 16: Synthesis of 4-(4-(4-(3-(diethylamino)prop-1-yn-1-yl)phenyl)-3,6-dihydropyridin-1(2H)-yl)-N-hydroxy-2-methyl-2-(methylsulfonyl)butanamide
+<img> id-US20180086709A1-20180329-C00031.TIF </img>
 Step 1: Synthesis of N,N-diethylprop-2-yn-1-amine
+<img> id-US20180086709A1-20180329-C00032.TIF </img>
 To a solution of diethylamine (0.46 ml, 1 eq) in toluene (10 ml) was added with K2CO3(1.23 g, 2 eq) and 3-bromoprop-1-yne (0.56 ml, 1.5 eq). The mixture was stirred for 15 hr at room temperature and filtered off, and the filtrate was concentrated in vacuo. The resulting residue was purified with column chromatography to prepare the title compound (0.46 g, 94%).
 MS (ESI, m/z): 112.1 [M+H]+.
 Step 2: Synthesis of 4-(4-(4-(3-(diethylamino)prop-1-yn-1-yl)phenyl)-3,6-dihydropyridin-1(2H)-yl)-N-hydroxy-2-methyl-2-(methylsulfonyl)butanamide
@@ -303,7 +319,9 @@ The title compound was prepared the procedures described for the synthesis of Ex
 1H NMR (600 MHz, DMSO-d6); δ11.02 (bs, 1H), 9.15 (bs, 1H), 7.43-7.37 (m, 4H), 6.22 (s, 1H), 3.70-3.62 (m, 2H), 3.32-3.08 (m, 2H), 3.05 (s, 3H), 2.84-2.78 (m, 6H), 2.74-2.58 (m, 5H), 1.89-1.85 (m, 1H), 1.45 (s, 3H), 1.11-0.96 (m, 6H).
 MS (ESI, m/z): 462.2 [M+H]+.
 Example 17: Synthesis of N-hydroxy-4-(4-(4-(3-((S)-2-(hydroxymethyl)pyrrolidin-1-yl)prop-1-yn-1-yl)phenyl)-3,6-dihydropyridin-1(2H)-yl)-2-methyl-2-(methylsulfonyl)butanamide
+<img> id-US20180086709A1-20180329-C00033.TIF </img>
 Step 1: Synthesis of (R)-(1-(prop-2-yn-1-yl)pyrrolidin-2-yl)methanol
+<img> id-US20180086709A1-20180329-C00034.TIF </img>
 To a solution of 3-bromoprop-1-yne (3 g, 1 eq) in toluene (30 ml) was added with (R)-pyrrolidin-2-ylmethanol (3.73 ml, 1.5 eq) and K2CO3(6.97 g, 2 eq). The mixture was stirred for 15 hr at room temperature and extracted with ethyl acetate and water. The organic layer was dried over anhydrous MgSO4 and concentrated in vacuo. The residue was purified with column chromatography to prepare the title compound (2 g, 57%).
 1H NMR (600 MHz, CDCl3-d1); δ 3.65-3.51 (m, 2H), 3.45-3.41 (m, 2H), 3.04-3.01 (m, 1H), 2.87-2.84 (m, 1H), 2.71-2.67 (m, 1H), 2.20-2.19 (m, 1H), 1.93-1.72 (m, 4H).
 Step 2: Synthesis of N-hydroxy-4-(4-(4-(3-((S)-2-(hydroxymethyl)pyrrolidin-1-yl)prop-1-yn-1-yl)phenyl)-3,6-dihydropyridin-1(2H)-yl)-2-methyl-2-(methylsulfonyl)butanamide
@@ -312,41 +330,54 @@ The title compound was prepared the procedures described for the synthesis of Ex
 MS (ESI, m/z): 490.2[M+H]+.
 Example 18: Synthesis of N-hydroxy-4-(4-(4-(5-hydroxypent-1-yn-1-yl)phenyl)-3,6-dihydropyridin-1(2H)-yl)-2-methyl-2-(methylsulfonyl)butanamide
 Step 1: Synthesis of methyl 4-(4-(4-(5-hydroxypent-1-yn-1-yl)phenyl)-3,6-dihydropyridin-1(2H)-yl)-2-methyl-2-(methylsulfonyl)butanoate
+<img> id-US20180086709A1-20180329-C00035.TIF </img>
 To a solution of methyl 4-(4-(4-iodophenyl)-3,6-dihydropyridin-1(2H)-yl)-2-methyl-2-(methylsulfonyl)butanoate (Intermediate 2) (2 g, 1 eq) in a mixture of THF (20 ml)/toluene (20 ml) was added with CuI (79.8 mg, 0.1 eq), Pd(PPh3)2Cl2(295 mg, 0.1 eq), Et3N (1.75 ml, 3 eq) and pent-4-yn-1-ol (705 mg, 2 eq). The mixture was stirred for 12 hr at room temperature and extracted with ethyl acetate and water. The organic layer was washed with brine, dried over anhydrous MgSO4 and concentrated in vacuo. The residue was purified with column chromatography to prepare the title compound (1.5 g, 83%).
 1H NMR (600 MHz, CDCl3-d1); δ7.33-7.32 (m, 2H), 7.28-7.27 (m, 2H), 6.05 (s, 1H), 3.82-3.79 (m, 2H), 3.75-3.72 (m, 3H), 3.69 (s, 3H), 3.05 (s, 3H), 2.70-2.62 (m, 1H), 2.53 (t, J=7.2 Hz, 3H), 2.38 (t, J=6.0 Hz, 3H), 1.78-1.64 (m, 4H), 1.64 (s, 3H).
 Step 2-4: Synthesis of N-hydroxy-4-(4-(4-(5-hydroxypent-1-yn-1-yl)phenyl)-3,6-dihydropyridin-1(2H)-yl)-2-methyl-2-(methylsulfonyl)butanamide
+<img> id-US20180086709A1-20180329-C00036.TIF </img>
 The title compound was prepared the procedures described for the synthesis of Example 1, step 2-4 (Synthesis of Hydroxamate) from methyl 4-(4-(4-(5-hydroxypent-1-yn-1-yl)phenyl)-3,6-dihydropyridin-1(2H)-yl)-2-methyl-2-(methylsulfonyl)butanoate.
 1H NMR (600 MHz, CD3OD-d4); δ11.04 (bs, 1H), 9.13 (bs, 1H), 7.43-7.38 (m, 2H), 7.33-7.28 (m, 2H), 6.19 (s, 1H), 4.52 (bs, 1H), 3.54-3.50 (m, 2H), 3.17-3.15 (m, 2H), 3.06 (s, 3H), 2.64-2.54 (m, 2H), 2.48-2.38 (m, 4H), 1.90-1.84 (m, 2H), 1.69-1.57 (m, 4H), 1.46 (s, 3H).
 MS (ESI, m/z): 435.0 [M+H]+.
 Example 19: Synthesis of 5-(4-(1-(4-(hydroxyamino)-3-methyl-3-(methylsulfonyl)-4-oxobutyl)-1,2,3,6-tetrahydropyridin-4-yl)phenyl)pent-4-yn-1-yl methanesulfonate
+<img> id-US20180086709A1-20180329-C00037.TIF </img>
 Step 1: Synthesis of methyl 2-methyl-2-(methylsulfonyl)-4-(4-(4-(5-((methylsulfonyl)oxy)pent-1-yn-1-yl)phenyl)-3,6-dihydropyridin-1(2H)-yl)butanoate
+<img> id-US20180086709A1-20180329-C00038.TIF </img>
 To a solution of methyl 4-(4-(4-(5-hydroxypent-1-yn-1-yl)phenyl)-3,6-dihydropyridin-1(2H)-yl)-2-methyl-2-(methylsulfonyl)butanoate (1.5 g, 1 eq) in dichloromethane (17.3 ml) was added with Et3N (0.964 ml, 2 eq) and methanesulfonyl chloride (0.793 ml, 2 eq). The mixture was stirred for 2 hr at room temperature and extracted with dichloromethane and water. The organic layer was washed with brine, dried over anhydrous MgSO4 and concentrated in vacuo. The residue was purified with column chromatography to prepare the title compound (0.9 g, 51%).
 1H NMR (600 MHz, CDCl3); δ7.34-7.32 (m, 2H), 7.29-7.27 (m, 2H), 6.04 (s, 1H), 4.40 (t, J=6.0 Hz, 2H), 3.72-3.70 (m, 3H), 3.13 (s, 6H), 3.06 (s, 3H), 3.03 (s, 3H), 2.70-2.62 (m, 1H), 2.59-2.56 (m, 3H), 2.05-2.01 (m, 3H), 1.71-1.62 (m, 4H).
 MS (ESI, m/z): 512.2 [M+H]+.
 Step 2: Synthesis of 2-methyl-2-(methylsulfonyl)-4-(4-(4-(5-((methylsulfonyl)oxy)pent-1-yn-1-yl)phenyl)-3,6-dihydropyridin-1(2H)-yl)butanoic acid
+<img> id-US20180086709A1-20180329-C00039.TIF </img>
 The title compound was prepared the procedures described for the synthesis of Example 1, step 2 from methyl 2-methyl-2-(methylsulfonyl)-4-(4-(4-(5-((methylsulfonyl)oxy)pent-1-yn-1-yl)phenyl)-3,6-dihydropyridin-1(2H)-yl)butanoate.
 MS (ESI, m/z): 498.2 [M+H]+.
 Step 3: Synthesis of 5-(4-(1-(3-methyl-3-(methylsulfonyl)-4-oxo-4-(((tetrahydro-2H-pyran-2-yl)oxy)amino)butyl)-1,2,3,6-tetrahydropyridin-4-yl)phenyl)pent-4-yn-1-yl methanesulfonate
+<img> id-US20180086709A1-20180329-C00040.TIF </img>
 The title compound was prepared the procedures described for the synthesis of Example 1, step 3 from 2-methyl-2-(methylsulfonyl)-4-(4-(4-(5-((methylsulfonyl)oxy)pent-1-yn-1-yl)phenyl)-3,6-dihydropyridin-1(2H)-yl)butanoic acid.
 MS (ESI, m/z): 597.2 [M+H]+.
 Step 4: Synthesis of 5-(4-(1-(4-(hydroxyamino)-3-methyl-3-(methylsulfonyl)-4-oxobutyl)-1,2,3,6-tetrahydropyridin-4-yl)phenyl)pent-4-yn-1-yl methanesulfonate
+<img> id-US20180086709A1-20180329-C00041.TIF </img>
 The title compound was prepared the procedures described for the synthesis of Example 1, step 4 from 5-(4-(1-(3-methyl-3-(methylsulfonyl)-4-oxo-4-(((tetrahydro-2H-pyran-2-yl)oxy)amino)butyl)-1,2,3,6-tetrahydropyridin-4-yl)phenyl)pent-4-yn-1-yl methanesulfonate.
 1H NMR (600 MHz, DMSO-d6); δ11.01 (bs, 1H), 9.10 (bs, 1H), 7.47-7.32 (m, 4H), 6.25 (s, 1H), 4.38-4.31 (m, 2H), 3.19 (s, 3H), 3.10-3.09 (m, 2H), 3.06 (s, 3H), 2.66-2.56 (m, 2H), 2.54-2.94 (m, 8H), 1.98-1.85 (m, 2H), 1.46 (s, 3H).
 MS (ESI, m/z): 513.1 [M+H]+.
 Example 20: Synthesis of 4-(4-(4-(5-(dimethylamino)pent-1-yn-1-yl)phenyl)-3,6-dihydropyridin-1(2H)-yl)-N-hydroxy-2-methyl-2-(methylsulfonyl)butanamide
+<img> id-US20180086709A1-20180329-C00042.TIF </img>
 To a solution of 5-(4-(1-(4-(hydroxyamino)-3-methyl-3-(methylsulfonyl)-4-oxobutyl)-1,2,3,6-tetrahydropyridin-4-yl)phenyl)pent-4-yn-1-yl methanesulfonate (Example 19) (120 mg, 1 eq) in THF (3 ml) was added with dimethylamine (1M in THF, 7 ml, 30 eq). The mixture was refluxed for 4 hr and cooled room temperature, and the solvent was concentrated in vacuo. The residue was purified with column chromatography to prepare the title compound (38 mg, 35%).
 1H NMR (600 MHz, DMSO-d6); δ10.6 (bs, 1H), 9.2 (bs, 1H), 7.38-7.37 (m, 2H), 7.31-7.30 (m, 2H), 6.18 (s, 1H), 3.12-3.06 (m, 2H), 3.04 (s, 3H), 2.63-2.56 (m, 2H), 2.46-2.40 (m, 6H), 2.32-2.26 (m, 3H), 2.11 (s, 6H), 1.82-1.79 (m, 1H), 1.66-1.61 (m, 2H), 1.44 (s, 3H).
 MS (ESI, m/z): 462.2 [M+H]+.
 Example 21: Synthesis of 4-(4-(4-(5-aminopent-1-yn-1-yl)phenyl)-3,6-dihydropyridin-1(2H)-yl)-N-hydroxy-2-methyl-2-(methylsulfonyl)butanamide
+<img> id-US20180086709A1-20180329-C00043.TIF </img>
 Step 1: Synthesis of 4-(4-(4-(5-aminopent-1-yn-1-yl)phenyl)-3,6-dihydropyridin-1(2H)-yl)-2-methyl-2-(methylsulfonyl)-N-((tetrahydro-2H-pyran-2-yl)oxy)butanamide
+<img> id-US20180086709A1-20180329-C00044.TIF </img>
 To a solution of 5-(4-(1-(3-methyl-3-(methylsulfonyl)-4-oxo-4-(((tetrahydro-2H-pyran-2-yl)oxy)amino)butyl)-1,2,3,6-tetrahydropyridin-4-yl)phenyl)pent-4-yn-1-yl methanesulfonate (Example 19, step 3) (200 mg, 1 eq) in 1,4-dioxane (0.67 ml) was added with ammonia (0.5M in 1,4-dioxane, 6.7 ml, 10 eq). The mixture was refluxed for 12 hr and cooled room temperature, and the solvent was concentrated in vacuo. The residue was purified with column chromatography to prepare the title compound (80 mg, 46%).
 MS (ESI, m/z): 518.3 [M+H]+.
 Step 2: Synthesis of 4-(4-(4-(5-aminopent-1-yn-1-yl)phenyl)-3,6-dihydropyridin-1(2H)-yl)-N-hydroxy-2-methyl-2-(methylsulfonyl)butanamide
+<img> id-US20180086709A1-20180329-C00045.TIF </img>
 The title compound was prepared the procedures described for the synthesis of Example 1, step 4 from 4-(4-(4-(5-aminopent-1-yn-1-yl)phenyl)-3,6-dihydropyridin-1(2H)-yl)-2-methyl-2-(methylsulfonyl)-N-((tetrahydro-2H-pyran-2-yl)oxy)butanamide.
 1H NMR (600 MHz, DMSO-d6); δ7.38-7.36 (m, 2H), 7.32-7.31 (m, 2H), 6.18 (s, 1H), 3.09-3.06 (m, 2H), 3.04 (s, 3H), 2.82 (t, J=7.2 Hz, 2H), 2.62-2.56 (m, 3H), 2.45-2.42 (m, 6H), 2.38-2.32 (m, 1H), 1.98-1.95 (m, 1H), 1.74-1.71 (m, 3H), 1.44 (s, 3H).
 MS (ESI, m/z): 434.2 [M+H]+.
 Examples 22-25
+<img> id-US20180086709A1-20180329-C00046.TIF </img>
 Example 22: Synthesis of N-hydroxy-4-(4-(4-(3-hydroxyprop-1-yn-1-yl)phenyl)-3,6-dihydropyridin-1(2H)-yl)-2-methyl-2-(methylsulfonyl)butanamide
+<img> id-US20180086709A1-20180329-C00047.TIF </img>
 Step 1: Synthesis of methyl 4-(4-(4-(3-hydroxyprop-1-yn-1-yl)phenyl)-3,6-dihydropyridin-1(2H)-yl)-2-methyl-2-(methylsulfonyl)butanoate
 The title compound was prepared the procedures described for the synthesis of Example 1, step 1 using prop-2-yn-1-ol.
 1H NMR (600 MHz, CDCl3-d1) δ; 7.38-7.36 (m, 2H), 7.31-7.29 (m, 2H), 6.05 (s, 1H), 4.49 (s, 2H), 3.80-3.70 (m, 4H), 3.48-3.30 (m, 2H), 3.07-3.02 (m, 5H), 2.68-2.56 (m, 4H), 1.70-1.64 (m, 4H).
@@ -356,6 +387,7 @@ The title compound was prepared the procedures described for the synthesis of Ex
 1H NMR (600 MHz, DMSO-d6); δ11.00 (bs, 1H), 9.12 (bs, 1H), 7.40-7.35 (m, 4H), 6.16 (s, 1H), 5.31 (s, 1H), 4.37 (s, 2H), 3.40-3.34 (m, 2H), 3.07 (s, 3H), 2.95-2.92 (m, 2H), 2.86-2.85 (m, 2H), 2.64-2.56 (m, 4H), 2.14-2.10 (m, 2H), 1.59 (s, 3H).
 MS (ESI, m/z): 407.0 [M+H]+.
 Example 23: Synthesis of N-hydroxy-4-(4-(4-(3-methoxyprop-1-yn-1-yl)phenyl)-3,6-dihydropyridin-1(2H)-yl)-2-methyl-2-(methylsulfonyl)butanamide
+<img> id-US20180086709A1-20180329-C00048.TIF </img>
 Step 1: Synthesis of methyl 4-(4-(4-(3-methoxyprop-1-yn-1-yl)phenyl)-3,6-dihydropyridin-1(2H)-yl)-2-methyl-2-(methylsulfonyl)butanoate
 To a solution of methyl 4-(4-(4-(3-hydroxyprop-1-yn-1-yl)phenyl)-3,6-dihydropyridin-1(2H)-yl)-2-methyl-2-(methylsulfonyl)butanoate (Example 22, Step 1) (500 mg, 1 eq) in dichloromethane (10 ml) was added with Et3N (0.34 ml, 2 eq) and methanesulfonyl chloride (0.19 ml, 2 eq). The mixture was and stirred for 2 hr at room temperature. Sodium methoxide (25% solution in MeOH, 1.06 g, 4 eq) was added and stirred for 3 hr at 60° C. The mixture was cooled down to room temperature, extracted with dichloromethane and water. The organic layer was washed with brine, dried over anhydrous MgSO4 and concentrated in vacuo. The residue was purified with column chromatography to prepare the title compound (250 mg, 48%).
 1H NMR (600 MHz, CDCl3-d1); δ7.42-7.41 (m, 2H), 7.32-7.30 (m, 2H), 6.02 (s, 1H), 4.31 (s, 2H), 3.90-3.79 (m, 3H), 3.48-3.42 (m, 4H), 3.14-3.08 (m, 5H), 2.70-2.62 (m, 3H), 1.78-1.68 (m, 3H), 1.64-1.52 (m, 4H).
@@ -365,6 +397,7 @@ The title compound was prepared the procedures described for the synthesis of Ex
 1H NMR (600 MHz, DMSO-d6); δ10.99 (bs, 1H), 9.10 (bs, 1H), 7.42-7.38 (m, 4H), 6.21 (s, 1H), 4.29 (s, 2H), 3.28-3.24 (m, 3H), 3.10-3.04 (m, 5H), 2.62-2.54 (m, 2H), 2.45-2.29 (m, 4H), 1.41 (s, 3H), 1.22-1.20 (m, 2H).
 MS (ESI, m/z): 421.1 [M+H]+.
 Example 24: Synthesis of N-hydroxy-4-(4-(4-(3-(3-hydroxypropoxy)prop-1-yn-1-yl)phenyl)-3,6-dihydropyridin-1(2H)-yl)-2-methyl-2-(methylsulfonyl)butanamide
+<img> id-US20180086709A1-20180329-C00049.TIF </img>
 Step 1: Synthesis of methyl 4-(4-(4-(3-(3-hydroxypropoxy)prop-1-yn-1-yl)phenyl)-3,6-dihydropyridin-1(2H)-yl)-2-methyl-2-(methylsulfonyl)butanoate
 To a solution of methyl 4-(4-(4-(3-hydroxyprop-1-yn-1-yl)phenyl)-3,6-dihydropyridin-1(2H)-yl)-2-methyl-2-(methylsulfonyl)butanoate (Example 22, Step 1) (280 mg, 1 eq) in DMF (15 ml) was added with NaH (47 mg, 1.7 eq, 60 wt %) and 3-bromopropan-1-ol (125 mg, 1.3 eq). The mixture was stirred for 4 hr at room temperature and extracted with ethyl acetate and water. The organic layer was dried over anhydrous MgSO4 and concentrated in vacuo. The residue was purified with column chromatography to prepare the title compound (130 g, 51%).
 MS (ESI, m/z): 464.1 [M+H]+.
@@ -373,6 +406,7 @@ The title compound was prepared the procedures described for the synthesis of Ex
 1H NMR (600 MHz, DMSO-d6); δ11.03 (bs, 1H), 9.13 (bs, 1H), 7.45-7.39 (m, 4H), 6.23 (s, 1H), 3.59-3.57 (m, 2H), 3.44-3.41 (m, 2H), 3.18-3.09 (m, 2H), 3.06 (s, 3H), 2.65-2.57 (m, 2H), 2.47-2.38 (m, 4H), 1.70-1.62 (m, 2H), 1.44 (s, 3H), 1.42-1.35 (m, 2H).
 MS (ESI, m/z): 465.1 [M+H]+.
 Example 25: Synthesis of N-hydroxy-2-methyl-2-(methylsulfonyl)-4-(4-(4-(3-morpholinoprop-1-yn-1-yl)phenyl)-3,6-dihydropyridin-1(2H)-yl)butanamide
+<img> id-US20180086709A1-20180329-C00050.TIF </img>
 Step 1: Synthesis of methyl 2-methyl-2-(methylsulfonyl)-4-(4-(4-(3-morpholinoprop-1-yn-1-yl)phenyl)-3,6-dihydropyridin-1(2H)-yl)butanoate
 To a solution of methyl 4-(4-(4-(3-hydroxyprop-1-yn-1-yl)phenyl)-3,6-dihydropyridin-1(2H)-yl)-2-methyl-2-(methylsulfonyl)butanoate (Example 22, Step 1) (500 mg, 1 eq) in dichloromethane (10 ml) was added with Et3N (0.34 ml, 2 eq) and methanesulfonyl chloride (0.19 ml, 2 eq), and the mixture was stirred for 2 hr at room temperature. Morpholine (0.22 ml, 2 eq) was added and stirred for 3 hr at 60° C. The mixture was cooled room temperature and extracted with dichloromethane and water. The organic layer was washed with brine, dried over anhydrous MgSO4 and concentrated in vacuo. The residue was purified with column chromatography to prepare the title compound (450 mg, 77%).
 1H NMR (600 MHz, CDCl3-d1); δ7.38-7.36 (m, 2H), 7.31-7.29 (m, 2H), 6.06 (s, 1H), 4.49 (s, 2H), 3.78-3.74 (m, 6H), 3.70-3.64 (m, 2H), 3.54-3.44 (m, 2H), 3.22-3.18 (m, 2H), 3.05 (s, 3H), 2.78 (s, 3H), 2.72-2.62 (m, 6H), 2.58-2.48 (m, 2H), 1.72-1.62 (m, 4H).
@@ -382,25 +416,34 @@ The title compound was prepared the procedures described for the synthesis of Ex
 1H NMR (600 MHz, DMSO-d6); δ11.00 (bs, 1H), 9.10 (bs, 1H), 7.41-7.39 (m, 2H), 7.37-7.35 (m, 2H), 6.19 (s, 1H), 3.62-3.56 (m, 4H), 3.48 (s, 2H), 3.14-3.07 (m, 2H), 3.06 (s, 3H), 2.64-2.52 (m, 4H), 2.46-2.38 (m, 5H), 2.32-2.26 (m, 1H), 2.00-1.96 (m, 1H), 1.82-1.76 (m, 1H), 1.44 (s, 3H).
 MS (ESI, m/z): 476.2 [M+H]+.
 Example 26: Synthesis of 3-(4-(1-(4-(hydroxyamino)-3-methyl-3-(methylsulfonyl)-4-oxobutyl)-1,2,3,6-tetrahydropyridin-4-yl)phenyl)prop-2-yn-1-yl carbamate
+<img> id-US20180086709A1-20180329-C00051.TIF </img>
 Step 1: Synthesis of 3-(4-(1-(3-methyl-3-(methylsulfonyl)-4-oxo-4-(((tetrahydro-2H-pyran-2-yl)oxy)amino)butyl)-1,2,3,6-tetrahydropyridin-4-yl)phenyl)prop-2-yn-1-yl carbamate
+<img> id-US20180086709A1-20180329-C00052.TIF </img>
 To a solution of 4-(4-(4-(3-hydroxyprop-1-yn-1-yl)phenyl)-3,6-dihydropyridin-1(2H)-yl)-2-methyl-2-(methylsulfonyl)-N-((tetrahydro-2H-pyran-2-yl)oxy)butanamide (200 mg, 1 eq) in THF (10 ml) was added with CDI (500 mg, 8 eq) and Et3N (0.16 ml, 3 eq), and the mixture was stirred for 4 hr at room temperature. NH4OH (0.15 ml, 10 eq) was added and stirred for 2 hr at 0° C. The mixture was extracted with ethyl acetate and water. The organic layer was dried over anhydrous MgSO4 and concentrated in vacuo. The residue was purified with column chromatography to prepare the title compound (50 mg, 23%).
 Step 2: Synthesis of 3-(4-(1-(4-(hydroxyamino)-3-methyl-3-(methylsulfonyl)-4-oxobutyl)-1,2,3,6-tetrahydropyridin-4-yl)phenyl)prop-2-yn-1-yl carbamate
+<img> id-US20180086709A1-20180329-C00053.TIF </img>
 The title compound was prepared the procedures described for the synthesis of Example 1, step 4 using 3-(4-(1-(3-methyl-3-(methylsulfonyl)-4-oxo-4-(((tetrahydro-2H-pyran-2-yl)oxy)amino)butyl)-1,2,3,6-tetrahydropyridin-4-yl)phenyl)prop-2-yn-1-yl carbamate.
 1H NMR (600 MHz, DMSO-d6); δ11.01 (bs, 1H), 9.09 (bs, 1H), 7.44-7.37 (m, 4H), 6.22 (s, 1H), 4.80 (s, 2H), 3.10-3.88 (m, 2H), 3.04 (s, 3H), 2.65-2.53 (m, 2H), 2.47-2.43 (m, 2H), 1.97-1.80 (m, 2H), 1.44 (s, 3H).
 MS (ESI, m/z): 450.1 [M+H]+.
 Example 27: Synthesis of 5-(4-(1-(4-(hydroxyamino)-3-methyl-3-(methylsulfonyl)-4-oxobutyl)-1,2,3,6-tetrahydropyridin-4-yl)phenyl)pent-4-yn-1-yl carbamate
+<img> id-US20180086709A1-20180329-C00054.TIF </img>
 Step 1: Synthesis of 5-(4-(1-(3-methyl-3-(methylsulfonyl)-4-oxo-4-(((tetrahydro-2H-pyran-2-yl)oxy)amino)butyl)-1,2,3,6-tetrahydropyridin-4-yl)phenyl)pent-4-yn-1-yl carbamate
+<img> id-US20180086709A1-20180329-C00055.TIF </img>
 The title compound was prepared the procedures described for the synthesis of Example 26, step 1 using 4-(4-(4-(5-hydroxypent-1-yn-1-yl)phenyl)-3,6-dihydropyridin-1(2H)-yl)-2-methyl-2-(methylsulfonyl)-N-((tetrahydro-2H-pyran-2-yl)oxy)butanamide.
 Step 2: Synthesis of 5-(4-(1-(4-(hydroxyamino)-3-methyl-3-(methylsulfonyl)-4-oxobutyl)-1,2,3,6-tetrahydropyridin-4-yl)phenyl)pent-4-yn-1-yl carbamate
+<img> id-US20180086709A1-20180329-C00056.TIF </img>
 The title compound was prepared the procedures described for the synthesis of Example 1, step 4 using of 5-(4-(1-(3-methyl-3-(methylsulfonyl)-4-oxo-4-(((tetrahydro-2H-pyran-2-yl)oxy)amino)butyl)-1,2,3,6-tetrahydropyridin-4-yl)phenyl)pent-4-yn-1-yl carbamate
 1H NMR (600 MHz, DMSO-d6); δ11.01 (bs, 1H), 9.11 (bs, 1H), 7.38-7.37 (m, 2H), 7.32-7.31 (m, 2H), 6.18 (s, 1H), 3.98-3.97 (m, 2H), 3.09-3.04 (m, 5H), 2.62-2.57 (m, 2H), 2.48-2.46 (m, 2H), 2.30-2.28 (m, 2H), 1.81-1.78 (m, 4H), 1.44 (s, 3H), 1.23-1.21 (m, 2H).
 MS (ESI, m/z): 478.2 [M+H]+.
 Example 28: Synthesis of N-hydroxy-4-(4-(4-(5-methoxypent-1-yn-1-yl)phenyl)-3,6-dihydropyridin-1(2H)-yl)-2-methyl-2-(methylsulfonyl)butanamide
+<img> id-US20180086709A1-20180329-C00057.TIF </img>
 The title compound was prepared the procedures described for the synthesis of Example 23 from methyl 4-(4-(4-(5-hydroxypent-1-yn-1-yl)phenyl)-3,6-dihydropyridin-1(2H)-yl)-2-methyl-2-(methylsulfonyl)butanoate (Example 18, Step 1).
 1H NMR (600 MHz, DMSO-d6); δ11.02 (bs, 1H), 9.12 (bs, 1H), 7.41-7.38 (m, 2H), 7.34-7.32 (m, 2H), 6.19 (s, 1H), 3.75-3.41 (m, 2H), 3.25 (s, 2H), 3.17-3.10 (m, 2H), 3.06 (s, 3H), 2.67-2.54 (m, 2H), 2.45-2.28 (m, 6H), 1.78-1.72 (m, 2H), 1.46 (s, 3H).
 MS (ESI, m/z): 449.2 [M+H]+.
 Examples 29-30
+<img> id-US20180086709A1-20180329-C00058.TIF </img>
 Example 29: Synthesis of N-hydroxy-4-(4-(4-(6-hydroxyhex-1-yn-1-yl)phenyl)-3,6-dihydropyridin-1(2H)-yl)-2-methyl-2-(methylsulfonyl)butanamide
+<img> id-US20180086709A1-20180329-C00059.TIF </img>
 Step 1: Synthesis of methyl 4-(4-(4-(6-hydroxyhex-1-yn-1-yl)phenyl)-3,6-dihydropyridin-1(2H)-yl)-2-methyl-2-(methylsulfonyl)butanoate
 The title compound was prepared the procedures described for the synthesis of Example 1, step 1 using hex-5-yn-1-ol.
 1H NMR (600 MHz, CDCl3-d1); δ7.33-7.31 (m, 2H), 7.28-7.26 (m, 2H), 6.05 (s, 1H), 3.72-3.62 (m, 5H), 3.18-3.10 (m, 2H), 3.04 (s, 3H), 2.72-2.58 (m, 3H), 2.52-2.40 (m, 5H), 1.78-1.65 (m, 6H), 1.63 (s, 3H).
@@ -409,41 +452,53 @@ The title compound was prepared the procedures described for the synthesis of Ex
 1H NMR (600 MHz, DMSO-d6); δ11.04 (bs, 1H), 9.10 (bs, 1H), 7.37-7.36 (m, 2H), 7.30-7.28 (m, 2H), 6.17 (s, 1H), 4.43-4.28 (m, 2H), 3.40-3.5 (m, 4H), 3.09-3.05 (m, 2H), 3.04 (s, 3H), 2.6-2.58 (m, 2H), 2.43-2.39 (m, 4H), 1.47 (s, 3H), 1.41-1.38 (m, 4H).
 MS (ESI, m/z): 449.1 [M+H]+.
 Example 30: Synthesis of N-hydroxy-2-methyl-2-(methylsulfonyl)-4-(4-(4-(6-morpholinohex-1-yn-1-yl)phenyl)-3,6-dihydropyridin-1(2H)-yl)butanamide
+<img> id-US20180086709A1-20180329-C00060.TIF </img>
 The title compound was prepared the procedures described for the synthesis of Example 25 using methyl 4-(4-(4-(6-hydroxyhex-1-yn-1-yl)phenyl)-3,6-dihydropyridin-1(2H)-yl)-2-methyl-2-(methylsulfonyl)butanoate (Example 29, Step 1).
 1H NMR (600 MHz, DMSO-d6); δ11.06 (bs, 1H), 9.15 (bs, 1H), 7.43-7.41 (m, 2H), 7.35-7.33 (m, 2H), 6.22 (s, 1H), 3.62-3.56 (m, 4H), 3.18-3.10 (m, 2H), 3.08 (s, 3H), 2.72-2.58 (m, 3H), 2.48-2.40 (m, 5H), 2.40-2.28 (m, 6H), 2.05-1.98 (m, 1H), 1.82-1.70 (m, 1H), 1.62-1.56 (m, 4H), 1.48 (s, 3H).
 MS (ESI, m/z): 518.3 [M+H]+.
 Example 31: Synthesis of 4-(4-(4-(3-(dimethylamino)prop-1-yn-1-yl)-3-fluorophenyl)-3,6-dihydropyridin-1(2H)-yl)-N-hydroxy-2-methyl-2-(methylsulfonyl)butanamide
+<img> id-US20180086709A1-20180329-C00061.TIF </img>
 Step 1: Synthesis of 3-(4-bromo-2-fluorophenyl)-N,N-dimethylprop-2-yn-1-amine
+<img> id-US20180086709A1-20180329-C00062.TIF </img>
 To a solution of 4-bromo-2-fluoro-1-iodobenzene (3 g, 1 eq) in a mixture of THF (10 ml)/toluene (10 ml) was added with CuI (0.19 g, 0.1 eq), Pd(PPh3)2Cl2(0.7 g, 0.1 eq), Et3N (4.2 ml, 3 eq) and N,N-dimethylprop-2-yn-1-amine (1.61 ml, 1.5 eq). The mixture was stirred for 12 hr at room temperature and extracted with ethyl acetate and water. The organic layer was washed with brine, dried over anhydrous MgSO4 and concentrated in vacuo. The residue was purified with column chromatography to prepare the title compound (1.87 g, 73%).
 1H NMR (600 MHz, CDCl3-d1); δ7.29-7.22 (m, 3H), 3.49 (s, 2H), 2.36 (s, 6H).
 Step 2: Synthesis of tert-butyl 4-(4-(3-(dimethylamino)prop-1-yn-1-yl)-3-fluorophenyl)-3,6-dihydropyridine-1(2H)-carboxylate
+<img> id-US20180086709A1-20180329-C00063.TIF </img>
 To a solution of 3-(4-bromo-2-fluorophenyl)-N,N-dimethylprop-2-yn-1-amine (1.87 g, 1 eq) in a mixture of 1,4-dioxane (16 ml)/water (4 ml) was added with Pd(PPh3)2Cl2(0.51 g, 0.1 eq), K2CO3(3.03 g, 3 eq), tert-butyl 4-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)-3,6-dihydropyridine-1(2H)-carboxylate (2.71 g, 1.2 eq). The mixture was stirred for 2 hr at 110° C. and cooled down to room temperature, and extracted with ethyl acetate and water. The organic layer was washed with brine, dried over anhydrous MgSO4 and concentrated in vacuo. The residue was purified with column chromatography to prepare the title compound (2 g, 76%).
 1H NMR (600 MHz, CDCl3-d1); δ7.36 (t, J=7.2 Hz, 1H), 7.25-7.07 (m, 2H), 6.07 (s, 1H), 4.11-4.07 (m, 2H), 3.64-3.59 (m, 2H), 3.47 (s, 2H), 2.49-2.45 (m, 2H), 2.36 (s, 6H), 1.58 (s, 9H).
 MS (ESI, m/z): 359.2 [M+H]+.
 Step 3: Synthesis of 3-(2-fluoro-4-(1,2,3,6-tetrahydropyridin-4-yl)phenyl)-N,N-dimethylprop-2-yn-1-amine hydrochloride
+<img> id-US20180086709A1-20180329-C00064.TIF </img>
 To a solution of tert-butyl 4-(4-(3-(dimethylamino)prop-1-yn-1-yl)-3-fluorophenyl)-3,6-dihydropyridine-1(2H)-carboxylate (2 g, 1 eq) in MeOH (16 ml) was added with acetyl chloride (3.97 ml, 10 eq). The mixture was stirred for 3 hr at 60° C. and cooled down to room temperature, and the solvent was concentrated in vacuo to prepare the title compound (1.6 g, 97%).
 1H NMR (600 MHz, DMSO-d6); δ11.52 (bs, 1H), 9.56 (bs, 2H), 7.61 (t, J=8.4 Hz, 1H), 7.48, (dd, J=11.4 Hz, 1.8 Hz, 1H), 7.38 (dd, J=8.4 Hz, 1.8 Hz, 1H), 6.39 (bs, 1H), 4.36 (s, 2H), 3.72-3.70 (m, 2H), 3.27-3.23 (m, 2H), 2.78 (s, 6H), 2.68-2.64 (m, 2H).
 MS (ESI, m/z): 259.2 [M+H]+.
 Step 4: Synthesis of methyl 4-(4-(4-(3-(dimethylamino)prop-1-yn-1-yl)-3-fluorophenyl)-3,6-dihydropyridin-1(2H)-yl)-2-methyl-2-(methylsulfonyl)butanoate
+<img> id-US20180086709A1-20180329-C00065.TIF </img>
 To a solution of 3-(2-fluoro-4-(1,2,3,6-tetrahydropyridin-4-yl)phenyl)-N,N-dimethylprop-2-yn-1-amine hydrochloride (600 mg, 1 eq) in DMF (10 ml) was added with N,N-diisopropylethylamine (1.42 ml, 4 eq) and methyl 4-bromo-2-methyl-2-(methylsulfonyl)butanoate (Intermediate 1) (778 mg, 1.4 eq). The mixture was stirred for 12 hr at 60° C., cooled down to room temperature, and extracted with ethyl acetate and water. The organic layer was washed with brine, dried over anhydrous MgSO4 and concentrated in vacuo. The residue was purified with column chromatography to prepare the title compound (280 mg, 28%).
 1H NMR (600 MHz, CDCl3-d1); δ 7.35 (t, J=8.4 Hz, 1H), 7.10-7.05 (m, 2H), 6.11 (bs, 1H), 3.66 (s, 3H), 3.54 (s, 2H), 3.23-3.18 (m, 1H), 3.04 (s, 3H), 3.03-3.00 (m, 1H), 2.79-2.75 (1H), 2.67-2.60 (m, 2H), 2.58-2.54 (m, 2H), 2.46-2.42 (m, 2H), 2.36 (s, 6H), 2.00-1.97 (m, 1H), 1.62 (s, 3H).
 MS (ESI, m/z): 451.2 [M+H]+.
 Step 5: Synthesis of 4-(4-(4-(3-(dimethylamino)prop-1-yn-1-yl)-3-fluorophenyl)-3,6-dihydropyridin-1(2H)-yl)-2-methyl-2-(methylsulfonyl)butanoic acid
+<img> id-US20180086709A1-20180329-C00066.TIF </img>
 To a solution of methyl 4-(4-(4-(3-(dimethylamino)prop-1-yn-1-yl)-3-fluorophenyl)-3,6-dihydropyridin-1(2H)-yl)-2-methyl-2-(methylsulfonyl)butanoate (230 mg, 1 eq) in a mixture of THF (8 ml)/MeOH (2 ml) was added with 2N-LiOH (0.77 ml, 3 eq) solution, and the mixture was stirred for 2 hr at room temperature. The solvent was removed under reduced pressure. The residue was diluted with water (10 ml) and adjusted the pH to 4.0. The precipitated solid was filtered off to prepare the title compound (200 mg, 90%), which was used for next step without further purification.
 Step 6: Synthesis of 4-(4-(4-(3-(dimethylamino)prop-1-yn-1-yl)-3-fluorophenyl)-3,6-dihydropyridin-1(2H)-yl)-2-methyl-2-(methylsulfonyl)-N-((tetrahydro-2H-pyran-2-yl)oxy)butanamide
+<img> id-US20180086709A1-20180329-C00067.TIF </img>
 To a solution of 4-(4-(4-(3-(dimethylamino)prop-1-yn-1-yl)-3-fluorophenyl)-3,6-dihydropyridin-1(2H)-yl)-2-methyl-2-(methylsulfonyl)butanoic acid (200 mg, 1 eq) in DMF (10 ml) was added with HATU (244 mg, 1.4 eq), HOBT (98 mg, 1.4 eq), Et3N (0.19 ml, 3 eq) and O-(tetrahydro-2H-pyran-2-yl)hydroxylamine hydrochloride (141 mg, 2 eq). The mixture was stirred for 1 hr at room temperature and extracted with ethyl acetate and water. The organic layer was washed with brine, dried over anhydrous MgSO4 and concentrated in vacuo. The residue was purified with column chromatography to prepare the title compound (166 mg, 68%).
 MS (ESI, m/z): 536.2 [M+H]+.
 Step 7: 4-(4-(4-(3-(dimethylamino)prop-1-yn-1-yl)-3-fluorophenyl)-3,6-dihydropyridin-1(2H)-yl)-N-hydroxy-2-methyl-2-(methylsulfonyl)butanamide
+<img> id-US20180086709A1-20180329-C00068.TIF </img>
 To a solution of 4-(4-(4-(3-(dimethylamino)prop-1-yn-1-yl)-3-fluorophenyl)-3,6-dihydropyridin-1(2H)-yl)-2-methyl-2-(methylsulfonyl)-N-((tetrahydro-2H-pyran-2-yl)oxy)butanamide (160 mg, 1 eq) in MeOH (6 ml) was added with HCl solution in MeOH (1.25N, 0.72 ml, 3 eq), and the mixture was stirred for 2 hr at room temperature. The solvent was removed under reduced pressure. The residue was diluted with water (6 ml) and adjusted the pH to 7.0. The water was concentrated and the resulting residue was purified with column chromatography to prepare the title compound (89 mg, 57%).
 1H NMR (600 MHz, DMSO-d6); δ 10.98 (bs, 1H), 9.11 (bs, 1H), 7.44-7.41 (m, 1H), 7.33-7.71 (m, 1H), 7.26-7.25 (m, 1H), 6.30 (s, 1H), 3.48 (s, 2H), 3.13-3.06 (m, 2H), 3.04 (s, 3H), 2.64-2.61 (m, 1H), 2.59-2.55 (m, 1H), 2.47-2.38 (m, 4H), 2.33-2.29 (m, 1H), 2.22 (s, 6H), 1.84-1.79 (m, 1H), 1.44 (s, 3H).
 MS (ESI, m/z): 452.2 [M+H]+.
 Example 32: Synthesis of 4-(4-(4-(3-(dimethylamino)prop-1-yn-1-yl)-3,5-difluorophenyl)-3,6-dihydropyridin-1(2H)-yl)-N-hydroxy-2-methyl-2-(methylsulfonyl)butanamide
+<img> id-US20180086709A1-20180329-C00069.TIF </img>
 The title compound was prepared the procedures described for the synthesis of Example 31 using 5-bromo-1,3-difluoro-2-iodobenzene as a starting material.
 MS (ESI, m/z): 470.2 [M+H]+.
 Example 33: Synthesis of 4-(4-(4-(3-(dimethylamino)prop-1-yn-1-yl)-2-fluorophenyl)-3,6-dihydropyridin-1(2H)-yl)-N-hydroxy-2-methyl-2-(methylsulfonyl)butanamide
+<img> id-US20180086709A1-20180329-C00070.TIF </img>
 The title compound was prepared the procedures described for the synthesis of Example 31 using 1-bromo-2-fluoro-4-iodobenzene as a starting material.
 MS (ESI, m/z): 452.2 [M+H]+.
 Example 34: Synthesis of N-hydroxy-2-methyl-2-(methylsulfonyl)-4-(4-(4-(thiophen-2-ylethynyl)phenyl)-3,6-dihydropyridin-1(2H)-yl)butanamide
+<img> id-US20180086709A1-20180329-C00071.TIF </img>
 Step 1: Synthesis of 2-methyl-2-(methylsulfonyl)-N-(tetrahydro-2H-pyran-2-yl)oxy)-4-(4-(4-(thiophen-2-ylethynyl)phenyl)-3,6-dihydropyridin-1(2H)-yl)butanamide
 To a solution of 4-(4-(4-iodophenyl)-3,6-dihydropyridin-1(2H)-yl)-2-methyl-2-(methylsulfonyl)-N-((tetrahydro-2H-pyran-2-yl)oxy)butanamide (Intermediate 3) (220 mg, 1 eq) in THF (4 ml)/toluene (4 ml) was added with CuI (7.5 mg, 0.1 eq), Pd(PPh3)2Cl2(27.4 mg, 0.1 eq), Et3N (0.165 ml, 3 eq) and 2-ethynylthiophene (64 mg, 1.5 eq). The mixture was stirred for 12 hr at room temperature, and extracted with ethyl acetate and water. The organic layer was washed with brine, dried over anhydrous MgSO4 and concentrated in vacuo. The residue was purified with column chromatography to prepare the title compound (60 mg, 28%)
 1H NMR (600 MHz, CDCl3-d1); δ 7.67-7.64 (m, 1H), 7.45-7.43 (m, 2H), 7.35-7.34 (m, 2H), 7.28-7.26 (m, 1H), 7.01-6.99 (m, 1H), 6.12 (s, 1H), 4.92-4.90 (m, 1H), 3.43-3.29 (m, 4H), 3.11 (s, 3H), 2.90-2.83 (m, 4H), 2.72-2.65 (m, 4H), 1.80-1.57 (m, 7H), 1.52-1.45 (s, 2H).).
@@ -467,7 +522,7 @@ Example & (Name) & acetylene
 <header>
 
 </header>
- &  & 
+ & <img> id-US20180086709A1-20180329-C00072.TIF </img> & 
  & (N-hydroxy-2-methyl-2-(methylsulfonyl)-4-(4-(4- & 
  & ((4-nitrophenyl)ethynyl)phenyl)-3,6- & 
  & dihydropyridin-1(2H)-yl)butanamide) & 
@@ -477,7 +532,7 @@ Example & (Name) & acetylene
  & 1H), 3.11-3.98 (m, 2H), 3.04 (s, 3H), 2.63-2.58 & 
  & (m, 4H), 2.44-2.32 (m, 4H), 1.45 (s, 3H). & 
  & MS (ESI, m/z): 498.2 [M + H]+. & 
- &  & 
+ & <img> id-US20180086709A1-20180329-C00073.TIF </img> & 
  & (N-hydroxy-2-methyl-2-(methylsulfonyl)-4-(4-(4- & 
  & (pyridin-3-ylethynyl)phenyl)-3,6- & 
  & dihydropyridin-1(2H)-yl)butanamide) & 
@@ -488,7 +543,7 @@ Example & (Name) & acetylene
  & 2.59 (m, 2H), 2.42-2.31 (m, 2H), 1.85-1.83 (m, & 
  & 2H), 1.45 (s, 3H), 1.21-1.17 (m, 2H). & 
  & MS (ESI, m/z): 454.2 [M + H]+. & 
- &  & 
+ & <img> id-US20180086709A1-20180329-C00074.TIF </img> & 
  & (N-hydroxy-4-(4-(4-((4- & 
  & hydroxyphenyl)ethynyl)phenyl)-3,6- & 
  & dihydropyridin-1(2H)-yl)-2-methyl-2- & 
@@ -502,7 +557,9 @@ Example & (Name) & acetylene
  & MS (ESI, m/z): 469.2 [M + H]+.
 </table>
 Example 38: Synthesis of N-hydroxy-2-methyl-4-(4-(4-((1-methyl-1H-imidazol-4-yl)ethynyl)phenyl)-3,6-dihydropyridin-1(2H)-yl)-2-(methylsulfonyl)butanamide
+<img> id-US20180086709A1-20180329-C00075.TIF </img>
 Step 1: Synthesis of 4-ethynyl-1-methyl-1H-imidazole
+<img> id-US20180086709A1-20180329-C00076.TIF </img>
 A solution of l-methyl-1H-imidazole-4-carbaldehyde (2 g, 1 eq) in MeOH (180 ml) was cooled at 0° C. K2CO3(5.02 g, 2 eq) and dimethyl (1-diazo-2-oxopropyl)phosphonate (7.7 g, 2.2 eq) was added. The mixture was stirred for 4 hr at 0° C., and extracted with dichloromethane and water. The organic layer was washed with sat. aq. NH4Cl, dried over anhydrous MgSO4 and concentrated in vacuo. The residue was purified with column chromatography to prepare the title compound (1.2 g, 62%).
 1H NMR (600 MHz, CDCl3-d1); δ7.60 (s, 1H), 7.32 (m, 1H), 3.37 (s, 3H), 3.48 (s, 1H).
 MS (ESI, m/z): 107.1 [M+H]+.
@@ -511,7 +568,9 @@ The title compound was prepared the procedures described for the synthesis of Ex
 1H NMR (600 MHz, DMSO-d6); δ11.02 (bs, 1H), 9.14 (bs, 1H), 7.76 (s, 1H), 7.52-7.48 (m, 4H), 7.29 (s, 1H), 6.26 (s, 1H), 3.69 (s, 3H), 3.16-3.04 (m, 5H), 2.66-2.56 (m, 3H), 2.46-2.38 (m, 4H), 1.86-1.76 (m, 1H), 1.44 (s, 3H).
 MS (ESI, m/z): 457.2 [M+H]+.
 Examples 39-41
+<img> id-US20180086709A1-20180329-C00077.TIF </img>
 Preparation 4: Synthesis of Intermediate 4 {methyl 4-(4-(4-(azetidin-3-ylethynyl)phenyl)-3,6-dihydropyridin-1(2H)-yl)-2-methyl-2-(methylsulfonyl)butanoate dihydrochloride}
+<img> id-US20180086709A1-20180329-C00078.TIF </img>
 Step 1: Synthesis of tert-butyl 3-ethynylazetidine-1-carboxylate
 A solution of tert-butyl 3-formylazetidine-1-carboxylate (7 g, 1 eq) in MeOH (378 ml) was cooled at 0° C. K2CO3(10.5 g, 2 eq), dimethyl (1-diazo-2-oxopropyl)phosphonate (15.8 g, 2.2 eq) was added. The mixture was stirred for 4 hr at 0° C., and extracted with dichloromethane and water. The organic layer was washed with sat. aq. NH4Cl, dried over anhydrous MgSO4 and concentrated in vacuo. The residue was purified with column chromatography to prepare the title compound (5.95 g, 87%).
 1H NMR (600 MHz, CDCl3-d1); δ4.10-4.07 (m, 2H), 3.90-3.87 (m, 2H), 3.27-3.24 (m, 1H), 2.26-2.25 (m, 1H), 1.39 (s, 9H).
@@ -524,6 +583,7 @@ To a solution of tert-butyl 3-((4-(1-(4-methoxy-3-methyl-3-(methylsulfonyl)-4-ox
 1H NMR (600 MHz, CD3OD-d4); δ7.50-7.45 (m, 4H), 6.21 (s, 1H), 4.36-4.34 (m, 2H), 4.19-4.15 (m, 2H), 4.10-4.06 (m, 2H), 3.88-3.87 (m, 5H), 3.62-3.59 (m, 1H), 3.41-3.39 (m, 2H), 3.17 (s, 3H), 2.98-2.84 (m, 2H), 2.71-2.49 (m, 2H), 1.70 (s, 3H).
 MS (ESI, m/z): 431.2 [M+H]+.
 Example 39: Synthesis of N-hydroxy-2-methyl-4-(4-(4-((1-methylazetidin-3-yl)ethynyl)phenyl)-3,6-dihydropyridin-1(2H)-yl)-2-(methylsulfonyl)butanamidedihydrocloride
+<img> id-US20180086709A1-20180329-C00079.TIF </img>
 Step 1: Synthesis of methyl 2-methyl-4-(4-(4-((1-methylazetidin-3-yl)ethynyl)phenyl)-3,6-dihydropyridin-1(2H)-yl)-2-(methylsulfonyl)butanoate
 To a solution of methyl 4-(4-(4-(azetidin-3-ylethynyl)phenyl)-3,6-dihydropyridin-1(2H)-yl)-2-methyl-2-(methylsulfonyl)butanoate dihydrochloride (Intermediate 4) (1.5 g, 1 eq) in dichloromethane (30 ml) was added with formaldehyde (37 wt %, 0.89 ml, 4 eq) and sodium triacetoxyborohydride (2.53 g, 4 eq). The mixture was stirred for 5 hr at room temperature, and extracted with ethyl acetate and water. The organic layer was washed with sat. aq. NaHCO3, dried over anhydrous MgSO4 and concentrated in vacuo. The residue was purified with column chromatography to prepare the title compound (0.9 g, 68%).
 1H NMR (600 MHz, CDCl3-d1); δ7.34-7.32 (m, 2H), 7.29-7.28 (m, 2H), 6.07 (s, 1H), 3.76-3.74 (m, 2H), 3.66 (s, 3H), 3.46-3.45 (m, 1H), 3.22-3.19 (m, 3H), 3.02-2.99 (m, 4H), 2.78-2.76 (m, 1H), 2.65-2.53 (m, 4H), 2.47-2.46 (m, 2H), 2.38 (s, 3H), 1.97-1.96 (m, 1H), 1.62 (s, 3H).
@@ -533,6 +593,7 @@ The title compound was prepared the procedures described for the synthesis of Ex
 1H NMR (600 MHz, DMSO-d6); δ11.22-11.04 (m, 3H), 9.35 (bs, 1H), 7.52-7.50 (m, 2H), 7.47-7.44 (m, 2H), 6.28 (s, 1H), 4.38-4.00 (m, 4H), 3.83-3.77 (m, 2H), 3.36-3.34 (m, 2H), 3.11 (s, 3H), 3.08-2.82 (m, 5H), 2.73-2.69 (m, 2H), 2.23-2.21 (m, 1H), 1.51 (s, 3H).
 MS (ESI, m/z): 446.2 [M+H]+.
 Example 40: Synthesis of 4-(4-(4-((1-acetylazetidin-3-yl)ethynyl)phenyl)-3,6-dihydropyridin-1(2H)-yl)-N-hydroxy-2-methyl-2-(methylsulfonyl)butanamide
+<img> id-US20180086709A1-20180329-C00080.TIF </img>
 Step 1: Synthesis of methyl 4-(4-(4-((1-acetylazetidin-3-yl)ethynyl)phenyl)-3,6-dihydropyridin-1(2H)-yl)-2-methyl-2-(methylsulfonyl)butanoate
 To a solution of methyl 4-(4-(4-(azetidin-3-ylethynyl)phenyl)-3,6-dihydropyridin-1(2H)-yl)-2-methyl-2-(methylsulfonyl)butanoate dihydrochloride (Intermediate 4) (800 mg, 1 eq) in dichloromethane (15 ml) was added with Et3N (0.89 ml, 4 eq) and acetyl chloride (0.17 ml, 1.5 eq). The mixture was stirred for 2 hr at 0° C., and extracted with dichloromethane and water. The organic layer was washed with brine, dried over anhydrous MgSO4 and concentrated in vacuo. The residue was purified with column chromatography to prepare the title compound (560 mg, 75%).
 1H NMR (600 MHz, CDCl3-d1); δ7.35-7.32 (m, 4H), 6.06 (s, 1H), 4.41-4.29 (m, 2H), 4.20-4.07 (m, 2H), 3.87-3.61 (m, 7H), 3.14-3.07 (m, 5H), 2.77-2.59 (m, 4H), 2.04-2.03 (m, 1H), 1.88 (s, 3H), 1.67 (s, 3H).
@@ -542,6 +603,7 @@ The title compound was prepared the procedures described for the synthesis of Ex
 1H NMR (600 MHz, DMSO-d6); δ11.0 (bs, 1H), 9.11 (bs, 1H), 7.42-7.40 (m, 2H), 7.38-7.36 (m, 2H), 6.20 (s, 1H), 4.41-4.38 (m, 2H), 4.13-4.10 (m, 2H), 3.78-3.67 (m, 2H), 3.15-3.14 (m, 2H), 3.04 (s, 3H), 2.62-2.56 (m, 2H), 2.49-2.43 (m, 4H), 2.32-2.30 (m, 1H), 1.74 (s, 3H), 1.44 (s, 3H).
 MS (ESI, m/z): 474.1 [M+H]+.
 Example 41: Synthesis of N-hydroxy-2-methyl-2-(methylsulfonyl)-4-(4-(4-((1-(methylsulfonyl) azetidin-3-yl)ethynyl)phenyl)-3,6-dihydropyridin-1(2H)-yl)butanamide
+<img> id-US20180086709A1-20180329-C00081.TIF </img>
 Step 1: Synthesis of methyl 2-methyl-2-(methylsulfonyl)-4-(4-(4-((1-(methylsulfonyl)azetidin-3-yl)ethynyl)phenyl)-3,6-dihydropyridin-1(2H)-yl)butanoate
 To a solution of methyl 4-(4-(4-(azetidin-3-ylethynyl)phenyl)-3,6-dihydropyridin-1(2H)-yl)-2-methyl-2-(methylsulfonyl)butanoate dihydrochloride (Intermediate 4) (600 mg, 1 eq) in DMF (15 ml) was added with N,N-diisopropylethylamine (0.83 ml, 4 eq) and methanesulfonyl chloride (0.14 ml, 1.5 eq). The mixture was stirred for 2 hr at 0° C., and extracted with ethyl acetate and water. The organic layer was washed with brine, dried over anhydrous MgSO4 and concentrated in vacuo. The residue was purified with column chromatography to prepare the title compound (220 mg, 36%).
 1H NMR (600 MHz, CDCl3-d1); δ7.37-7.36 (m, 2H), 7.31-7.30 (m, 2H), 6.03 (s, 1H), 4.19-4.02 (m, 6H), 3.63-3.60 (m, 2H), 3.13-3.02 (m, 5H), 2.94-2.87 (m, 2H), 2.75-2.69 (m, 1H), 2.26-2.20 (m, 2H), 2.03 (s, 3H), 1.23 (s, 3H).
@@ -551,29 +613,39 @@ The title compound was prepared the procedures described for the synthesis of Ex
 1H NMR (600 MHz, CD3OD-d4); δ7.41-7.36 (m, 4H), 6.17 (s, 1H), 4.19-4.16 (m, 2H), 3.98-3.95 (m, 2H), 3.13 (s, 3H), 2.97 (s, 3H), 2.88-2.84 (m, 2H), 2.61-2.54 (m, 4H), 2.23-2.21 (m, 1H), 1.59 (s, 3H).
 MS (ESI, m/z): 510.2 [M+H]+.
 Preparation 5: Synthesis of Intermediate 5 {tert-butyl 4-(4-(2,2-dibromovinyl)-3-fluorophenyl)-3,6-dihydropyridine-1(2H)-carboxylate}
+<img> id-US20180086709A1-20180329-C00082.TIF </img>
 Step 1: Synthesis of tert-butyl 4-(3-fluoro-4-formylphenyl)-3,6-dihydropyridine-1(2H)-carboxylate
+<img> id-US20180086709A1-20180329-C00083.TIF </img>
 To a solution of 4-bromo-2-fluorobenzaldehyde (6 g, 1 eq) in a mixture of 1,4-dioxane (100 ml)/water (20 ml) was added with Pd(PPh3)2Cl2(2.07 g, 0.1 eq), K2CO3(12.25 g, 3 eq) and tert-butyl 4-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)-3,6-dihydropyridine-1(2H)-carboxylate (10.97 g, 1.2 eq). The mixture was stirred for 4 hr at 110° C., cooled down to room temperature and extracted with ethyl acetate and water. The organic layer was washed with brine, dried over anhydrous MgSO4 and concentrated in vacuo. The residue was purified with column chromatography to prepare the title compound (7.8 g, 86%).
 1H NMR (600 MHz, CDCl3-d1); δ10.32 (s, 1H), 7.84-7.82 (m, 1H), 7.29-7.26 (m, 1H), 7.16-7.14 (m, 1H), 6.24 (bs, 1H), 4.14-4.10 (m, 2H), 3.66-3.64 (m, 2H), 2.54-2.50 (m, 2H), 1.49 (s, 9H).
 Step 2: Synthesis of tert-butyl 4-(4-(2,2-dibromovinyl)-3-fluorophenyl)-3,6-dihydropyridine-1(2H)-carboxylate
+<img> id-US20180086709A1-20180329-C00084.TIF </img>
 To a solution of tert-butyl 4-(3-fluoro-4-formylphenyl)-3,6-dihydropyridine-1(2H)-carboxylate (3 g, 1 eq) in dichloromethane (50 ml) was added with carbon tetrabromide (4.89 g, 1.5 eq) and triphenylphosphine (7.73 g, 3 eq). The mixture was stirred for 1 hr at 0° C., and extracted with dichloromethane and water. The organic layer was washed with brine, dried over anhydrous MgSO4 and concentrated in vacuo. The residue was purified with column chromatography to prepare the title compound (4.13 g, 91%).
 1H NMR (600 MHz, CDCl3-d1); δ7.78-7.76 (m, 1H), 7.54 (s, 1H), 7.18-7.16 (m, 1H), 7.08-7.06 (m, 1H), 6.11 (bs, 1H), 4.11-4.09 (m, 2H), 3.65-3.60 (m, 2H), 2.51-2.47 (m, 2H), 1.49 (s, 9H).
 Example 42: Synthesis of 4-(4-(3-fluoro-4-(7-hydroxyhepta-1,3-diyn-1-yl)phenyl)-3,6-dihydropyridin-1(2H)-yl)-N-hydroxy-2-methyl-2-(methylsulfonyl)butanamide
+<img> id-US20180086709A1-20180329-C00085.TIF </img>
 Step 1: Synthesis of tert-butyl 4-(3-fluoro-4-(7-hydroxyhepta-1,3-diyn-1-yl)phenyl)-3,6-dihydropyridine-1(2H)-carboxylate
+<img> id-US20180086709A1-20180329-C00086.TIF </img>
 To a solution of tert-butyl 4-(4-(2,2-dibromovinyl)-3-fluorophenyl)-3,6-dihydropyridine-1(2H)-carboxylate (Intermediate 5) (2.29 g, 1 eq) in DMF was added with Pd(PPh3)2Cl2(0.35 g, 0.1 eq), triphenylphosphine (0.13 g, 0.1 eq), Et3N (2.1 ml, 3 eq) and pent-4-yn-1-ol (0.93 ml, 2 eq) The mixture was stirred for 2 hr at 80° C., cooled down to room temperature, and extracted with ethyl acetate and water. The organic layer was washed with brine, dried over anhydrous MgSO4 and concentrated in vacuo. The residue was purified with column chromatography to prepare the title compound (790 mg, 42%).
 1H NMR (600 MHz, CDCl3-d1); δ7.41-7.38 (m, 1H), 7.11-7.09 (m, 1H), 7.07-7.06 (m, 1H), 6.10 (bs, 1H), 4.10-4.06 (m, 2H), 3.78 (t, J=6 Hz, 2H), 3.64-3.60 (m, 2H), 2.52 (t, J=6.6 Hz, 2H), 2.49-2.45 (m, 2H), 1.86-1.81 (m, 2H), 1.48 (s, 9H).
 Step 2: Synthesis of 7-(2-fluoro-4-(1,2,3,6-tetrahydropyridin-4-yl)phenyl)hepta-4,6-diyn-1-ol hydrochloride
+<img> id-US20180086709A1-20180329-C00087.TIF </img>
 To a solution of tert-butyl 4-(3-fluoro-4-(7-hydroxyhepta-1,3-diyn-1-yl)phenyl)-3,6-dihydropyridine-1(2H)-carboxylate (790 mg, 1 eq) in MeOH was added with conc-HCl (1.7 ml, 10 eq). The mixture was stirred for 1 hr at 110° C., cooled down to room temperature, and concentrated in vacuo. The residue was diluted in MeOH (2 ml) and poured into diethyl ether (50 ml). The precipitated solid was filtered off to prepare the title compound (576 mg, 87%).
 1H NMR (600 MHz, DMSO-d6); δ9.34 (bs, 2H), 7.63-7.60 (m, 1H), 7.49-7.47 (m, 1H), 7.37-7.36 (m, 1H), 6.41 (s, 1H), 3.78-3.74 (m, 2H), 3.47 (t, J=5.4 Hz, 2H), 3.30-3.26 (m, 2H), 2.69-2.65 (m, 2H), 2.50-2.47 (m, 2H), 1.68-1.63 (m, 2H).
 Step 3: Synthesis of methyl 4-(4-(3-fluoro-4-(7-hydroxyhepta-1,3-diyn-1-yl)phenyl)-3,6-dihydropyridin-1(2H)-yl)-2-methyl-2-(methylsulfonyl)butanoate
+<img> id-US20180086709A1-20180329-C00088.TIF </img>
 To a solution of 7-(2-fluoro-4-(1,2,3,6-tetrahydropyridin-4-yl)phenyl)hepta-4,6-diyn-1-ol hydrochloride (570 mg, 1 eq) in DMF (12 ml) was added with N,N-diisopropylethylamine (0.93 ml, 3 eq) and methyl 4-bromo-2-methyl-2-(methylsulfonyl)butanoate (Intermediate 1) (584 mg, 1.2 eq). The mixture was stirred for 12 hr at 60° C., cooled down to room temperature, and extracted with ethyl acetate and water. The organic layer was washed with brine, dried over anhydrous MgSO4 and concentrated in vacuo. The residue was purified with column chromatography to prepare the title compound (230 mg, 27%).
 1H NMR (600 MHz, CDCl3-d1); δ7.39-7.37 (m, 1H), 7.11-7.09 (m, 1H), 7.07-7.05 (m, 1H), 6.13 (s, 1H), 3.78 (t, J=6 Hz, 2H), 3.67 (s, 3H), 3.24-3.21 (m, 1H), 3.05 (s, 3H), 3.04-3.01 (1H), 2.79-2.76 (m, 1H), 2.67-2.53 (m, 4H), 2.51 (t, J=6.6 Hz, 2H), 2.45-2.42 (m, 2H), 2.00-1.98 (m, 1H), 1.85-1.81 (m, 2H), 1.63 (s, 3H).
 Step 4: Synthesis of 4-(4-(3-fluoro-4-(7-hydroxyhepta-1,3-diyn-1-yl)phenyl)-3,6-dihydropyridin-1(2H)-yl)-2-methyl-2-(methylsulfonyl)butanoic acid
+<img> id-US20180086709A1-20180329-C00089.TIF </img>
 To a solution of methyl 4-(4-(3-fluoro-4-(7-hydroxyhepta-1,3-diyn-1-yl)phenyl)-3,6-dihydropyridin-1(2H)-yl)-2-methyl-2-(methylsulfonyl)butanoate (230 mg, 1 eq) in a mixture of THF (8 ml)/MeOH (2 ml) was added with 2N-LiOH (0.73 mL, 3 eq) solution. The mixture was stirred for 2 hr at room temperature. The solvent was removed under reduced pressure. The residue was diluted with water (10 ml) and adjusted the pH to 4.0. The precipitated solid was filtered off to prepare the title compound (119 mg, 53%), which was used for next step without further purification.
 MS (ESI, m/z): 462.1 [M+H]+.
 Step 5: Synthesis of 4-(4-(3-fluoro-4-(7-hydroxyhepta-1,3-diyn-1-yl)phenyl)-3,6-dihydropyridin-1(2H)-yl)-2-methyl-2-(methylsulfonyl)-N-((tetrahydro-2H-pyran-2-yl)oxy)butanamide
+<img> id-US20180086709A1-20180329-C00090.TIF </img>
 To a solution of of 4-(4-(3-fluoro-4-(7-hydroxyhepta-1,3-diyn-1-yl)phenyl)-3,6-dihydropyridin-1(2H)-yl)-2-methyl-2-(methylsulfonyl)butanoic acid (119 mg, 1 eq) in DMF (10 ml) was added with HATU (137 mg, 1.4 eq), HOBT (55 mg, 1.4 eq), Et3N (0.11 ml, 3 eq) and O-(tetrahydro-2H-pyran-2-yl)hydroxylamine hydrochloride (60 mg, 2 eq). The mixture was stirred for 1 hr at room temperature, and extracted with ethyl acetate and water. The organic layer was washed with brine, dried over anhydrous MgSO4 and concentrated in vacuo. The residue was purified with column chromatography to prepare the title compound (127 mg, 88%).
 MS (ESI, m/z): 561.2 [M+H]+.
 Step 6: Synthesis of 4-(4-(3-fluoro-4-(7-hydroxyhepta-1,3-diyn-1-yl)phenyl)-3,6-dihydropyridin-1(2H)-yl)-N-hydroxy-2-methyl-2-(methylsulfonyl)butanamide
+<img> id-US20180086709A1-20180329-C00091.TIF </img>
 To a solution of 4-(4-(3-fluoro-4-(7-hydroxyhepta-1,3-diyn-1-yl)phenyl)-3,6-dihydropyridin-1(2H)-yl)-2-methyl-2-(methylsulfonyl)-N-((tetrahydro-2H-pyran-2-yl)oxy)butanamide (127 mg, 1 eq) in MeOH (6 ml) was added with HCl solution in MeOH (1.25N, 0.54 ml, 3 eq). The mixture was stirred for 2 hr at room temperature. The solvent was removed under reduced pressure. The residue was diluted with water (6 ml) and adjusted the pH to 7.0. The water was concentrated in vacuo and the resulting residue was purified with column chromatography to prepare the title compound (40 mg, 37%).
 1H NMR (600 MHz, DMSO-d6); δ 10.99 (bs, 1H), 9.12 (bs, 1H), 7.56-7.54 (m, 1H), 7.39-7.36 (m, 1H), 7.31-7.28 (m, 1H), 6.37 (s, 1H), 4.60-4.58 (m, 1H), 3.48-3.45 (m, 2H), 3.35-3.33 (m, 2H), 3.13-3.08 (m, 2H), 3.06 (s, 3H), 2.64-2.58 (m, 2H), 2.51-2.43 (m, 4H), 2.37-2.29 (m, 1H), 1.85-1.78 (m, 1H), 1.66-1.62 (m, 2H), 1.46 (s, 3H).
 MS (ESI, m/z): 477.2 [M+H]+.
@@ -592,7 +664,7 @@ Example & (Name) & acetylene
 <header>
 
 </header>
- &  & 
+ & <img> id-US20180086709A1-20180329-C00092.TIF </img> & 
  & (4-(4-(3-fluoro-4-(6-hydroxyhexa-1,3-diyn-1- & 
  & yl)phenyl)-3,6-dihydropyridin-1(2H)-yl)-N- & 
  & hydroxy-2-methyl-2-(methylsulfonyl)butanamide) & 
@@ -602,7 +674,7 @@ Example & (Name) & acetylene
  & 2H), 3.17-3.10 (m, 2H), 3.06 (s, 3H), 2.65-2.29 & 
  & (m, 10H), 1.45 (s, 3H). & 
  & MS (ESI, m/z): 463.2 [M + H]+. & 
-44 &  & 
+44 & <img> id-US20180086709A1-20180329-C00093.TIF </img> & <img> id-US20180086709A1-20180329-C00094.TIF </img>
  & (4-(4-(4-(cyclopropylbuta-1,3-diyn-1-yl)-3- & 
  & fluorophenyl)-3,6-dihydropyridin-1(2H)-yl)-N- & 
  & hydroxy-2-methyl-2-(methylsulfonyl)butanamide) & 
@@ -613,7 +685,7 @@ Example & (Name) & acetylene
  & (m, 6H), 1.61-1.59 (m, 1H), 1.46 (s, 3H), 0.95- & 
  & 0.91 (m, 2H), 0.82-0.79 (m, 2H). & 
  & MS (ESI, m/z): 463.2 [M + H]+. & 
- &  & 
+ & <img> id-US20180086709A1-20180329-C00095.TIF </img> & 
  & (4-(4-(4-(5-(dimethylamino)penta-1,3-diyn-1- & 
  & yl)-3-fluorophenyl)-3,6-dihydropyridin-1(2H)- & 
  & yl)-N-hydroxy-2-methyl-2- & 
@@ -627,6 +699,7 @@ Example & (Name) & acetylene
  & MS (ESI, m/z): 476.2 [M + H]+.
 </table>
 Preparation 6: Synthesis of Intermediate 6 {tert-butyl 4-(4-(2,2-dibromovinyl)phenyl)-3,6-dihydropyridine-1(2H)-carboxylate}
+<img> id-US20180086709A1-20180329-C00096.TIF </img>
 The title compound was prepared the procedures described for the Preparation 5 using 4-bromobenzaldehyde.
 1H NMR (600 MHz, CDCl3-d1); δ7.52 (d, J=9 Hz, 2H), 7.46 (s, 1H), 7.37 (d, J=8.4 Hz, 2H), 6.09 (bs, 1H), 4.09-4.06 (m, 2H), 3.66-3.61 (m, 2H), 2.55-2.49 (m, 2H), 1.49 (s, 9H).
 Examples 46-51
@@ -644,7 +717,7 @@ Example & (Name) & acetylene
 <header>
 
 </header>
- &  & 
+ & <img> id-US20180086709A1-20180329-C00097.TIF </img> & 
  & (N-hydroxy-4-(4-(4-(7-hydroxyhepta-1,3-diyn-1- & 
  & yl)phenyl)-3,6-dihydropyridin-1(2H)-yl)-2- & 
  & methyl-2-(methylsulfonyl)butanamide) & 
@@ -654,7 +727,7 @@ Example & (Name) & acetylene
  & (m, 5H), 2.66-2.56 (m, 2H), 2.47-2.30 (m, 6H), & 
  & 1.67-1.61 (m, 2H), 1.46 (s, 3H). & 
  & MS (ESI, m/z): 431.0 [M + H]+. & 
- &  & 
+ & <img> id-US20180086709A1-20180329-C00098.TIF </img> & 
  & (N-hydroxy-4-(4-(4-(6-hydroxyhexa-1,3-diyn-1- & 
  & yl)phenyl)-3,6-dihydropyridin-1(2H)-yl)-2- & 
  & methyl-2-(methylsulfonyl)butanamide) & 
@@ -666,7 +739,7 @@ Example & (Name) & acetylene
  & (m, 4H), 2.34-2.26 (m, 1H), 1.84-1.76 (m, 1H), & 
  & 1.44 (s, 3H). & 
  & MS (ESI, m/z): 445.2 [M + H]+. & 
- &  & 
+ & <img> id-US20180086709A1-20180329-C00099.TIF </img> & 
  & (N-hydroxy-4-(4-(4-(5-hydroxypenta-1,3-diyn-1- & 
  & yl)phenyl)-3,6-dihydropyridin-1(2H)-yl)-2- & 
  & methyl-2-(methylsulfonyl)butanamide) & 
@@ -677,7 +750,7 @@ Example & (Name) & acetylene
  & 2.66-2.56 (m, 2H), 2.48-2.38 (m, 4H), 2.42-2.38 & 
  & (m, 1H), 1.86-1.76 (m, 1H), 1.44 (s, 3H). & 
  & MS (ESI, m/z): 431.0 [M + H]+. & 
-49 &  & 
+49 & <img> id-US20180086709A1-20180329-C00100.TIF </img> & <img> id-US20180086709A1-20180329-C00101.TIF </img>
  & (4-(4-(4-(5-(dimethylamino)penta-1,3-diyn-1- & 
  & yl)phenyl)-3,6-dihydropyridin-1(2H)-yl)-N- & 
  & hydroxy-2-methyl-2-(methylsulfonyl)butanamide) & 
@@ -687,7 +760,7 @@ Example & (Name) & acetylene
  & 3H), 2.61-2.60 (m, 2H), 2.47-2.34 (m, 6H), 2.22 & 
  & (s, 6H), 1.46 (s, 3H). & 
  & MS (ESI, m/z): 458.2 [M + H]+. & 
- &  & 
+ & <img> id-US20180086709A1-20180329-C00102.TIF </img> & 
  & (N-hydroxy-4-(4-(4-(5-methoxypenta-1,3-diyn-1- & 
  & yl)phenyl)-3,6-dihydropyridin-1(2H)-yl)-2- & 
  & methyl-2-(methylsulfonyl)butanamide) & 
@@ -698,7 +771,7 @@ Example & (Name) & acetylene
  & (m, 4H), 2.36-2.30 (m, 1H), 1.88-1.80 (m, 1H), & 
  & 1.45 (s, 3H). & 
  & MS (ESI, m/z): 445.2 [M + H]+. & 
- &  & 
+ & <img> id-US20180086709A1-20180329-C00103.TIF </img> & 
  & (N-hydroxy-2-methyl-2-(methylsulfonyl)-4-(4-(4- & 
  & (phenylbuta-1,3-diyn-1-yl)phenyl)-3,6- & 
  & dihydropyridin-1(2H)-yl)butanamide) & 
@@ -711,16 +784,21 @@ Example & (Name) & acetylene
  & MS (ESI, m/z): 477.2 [M + H]+.
 </table>
 Preparation 7: Synthesis of Intermediate 7 {tert-butyl 4-ethynyl-3,6-dihydropyridine-1(2H)-carboxylate}
+<img> id-US20180086709A1-20180329-C00104.TIF </img>
 Step 1: Synthesis of tert-butyl 4-hydroxy-4-((trimethylsilyl)ethynyl)piperidine-1-carboxylate
+<img> id-US20180086709A1-20180329-C00105.TIF </img>
 To a solution of tert-butyl 4-oxopiperidine-1-carboxylate (20 g, 1 eq) in THF (335 ml) was added with n-BuLi (2.5M, 64 ml, 1.6 eq) at −78° C. The mixture was stirred for 1 hr. A solution of ethynyltrimethylsilane (14.8 g, 1.5 eq) in THF (335 ml) was slowly added at −78° C. and stirred for 12 hr at room temperature. The mixture was quenched with water and extracted with ethyl acetate. The organic layer was washed with brine, dried over anhydrous MgSO4 and concentrated in vacuo. The residue was purified with column chromatography to prepare the title compound (9 g, 30%).
 1H NMR (600 MHz, CDCl3-d1); δ 3.82-3.76 (m, 2H), 3.22-3.18 (m, 2H), 2.08 (bs, 1H), 1.88-1.80 (m, 2H), 1.68-1.62 (m, 2H), 1.44 (s, 9H), 0.16 (s, 9H).
 Step 2: Synthesis of tert-butyl 4-((trimethylsilyl)ethynyl)-3,6-dihydropyridine-1(2H)-carboxylate
+<img> id-US20180086709A1-20180329-C00106.TIF </img>
 To a solution of tert-butyl 4-hydroxy-4-((trimethylsilyl)ethynyl)piperidine-1-carboxylate (5.8 g, 1 eq) in dichloromethane (195 ml) was added with Et3N (5.44 ml, 2 eq) and methanesulfonyl chloride (3.04 ml, 2 eq) at −10° C. The mixture was stirred for 12 hr at room temperature and then extracted with dichloromethane and water. The organic layer was washed with brine, dried over anhydrous MgSO4 and concentrated in vacuo. The residue was purified with column chromatography to prepare the title compound (3.3 g, 61%).
 1H NMR (600 MHz, CDCl3-d1); δ 6.04 (s, 1H), 3.96-3.90 (m, 2H), 3.50-3.42 (m, 2H), 2.28-2.18 (m, 2H), 1.45 (s, 9H), 0.17 (s, 9H).
 Step 3: Synthesis of tert-butyl 4-ethynyl-3,6-dihydropyridine-1(2H)-carboxylate
+<img> id-US20180086709A1-20180329-C00107.TIF </img>
 To a solution of tert-butyl 4-((trimethylsilyl)ethynyl)-3,6-dihydropyridine-1(2H)-carboxylate (3.3 g, 1 eq) in MeOH (100 ml) was added with K2CO3 (2.45 g, 1.5 eq). The mixture was stirred for 4 hr at room temperature, and extracted with ethyl acetate and water. The organic layer was dried over anhydrous MgSO4 and concentrated in vacuo. The residue was purified with column chromatography to prepare the title compound (2.38 g, 97%).
 1H NMR (600 MHz, CDCl3-d1); δ 6.08 (s, 1H), 3.96-3.90 (m, 2H), 3.50-3.42 (m, 2H), 2.88 (s, 1H), 2.28-2.18 (m, 2H), 1.45 (s, 9H).
 Example 52: Synthesis of N-hydroxy-2-methyl-2-(methylsulfonyl)-4-(4-(pyridin-4-ylethynyl)-3,6-dihydropyridin-1(2H)-yl)butanamide
+<img> id-US20180086709A1-20180329-C00108.TIF </img>
 Step 1: Synthesis of tert-butyl 4-(pyridin-4-ylethynyl)-3,6-dihydropyridine-1(2H)-carboxylate
 To a solution of tert-butyl 4-ethynyl-3,6-dihydropyridine-1(2H)-carboxylate (Intermediate 7) (900 mg, 1 eq) in THF (10 ml) was added with CuI (83 mg, 0.1 eq), Pd(PPh3)2Cl2(152 mg, 0.05 eq), Et3N (2.4 ml, 4 eq) and 4-iodopyridine (890 mg, 1 eq). The mixture was stirred for 2 days at room temperature, and extracted with ethyl acetate and water. The organic layer was dried over anhydrous MgSO4 and concentrated in vacuo. The residue was purified with column chromatography to prepare the title compound (500 mg, 41%).
 1H NMR (600 MHz, CDCl3-d1); δ 8.90-8.56 (m, 2H), 7.58-7.34 (m, 2H), 6.20 (s, 1H), 4.08-4.00 (m, 2H), 3.56-3.50 (m, 2H), 2.48-2.40 (m, 2H), 1.47 (s, 9H).
@@ -736,10 +814,12 @@ The title compound was prepared the procedures described for the synthesis of Ex
 1H NMR (600 MHz, DMSO-d6); δ10.93 (bs, 1H), 9.10 (bs, 1H), 8.55-8.53 (m, 2H), 7.37-7.36 (m, 2H), 6.23 (s, 1H), 3.10-3.04 (m, 2H), 3.03 (s, 3H), 2.60-2.54 (m, 2H), 2.48-2.42 (m, 2H), 2.36-2.18 (m, 3H), 1.82-1.76 (m, 1H), 1.43 (s, 3H).
 MS (ESI, m/z): 378.1 [M+H]+.
 Example 53: Synthesis of 4-(4-((4-bromophenyl)ethynyl)-3,6-dihydropyridin-1(2H)-yl)-N-hydroxy-2-methyl-2-(methylsulfonyl)butanamide
+<img> id-US20180086709A1-20180329-C00109.TIF </img>
 The title compound was prepared the procedures described for the synthesis of Example 52 using 1-bromo-4-iodobenzene.
 1H NMR (600 MHz, DMSO-d6); δ10.94 (bs, 1H), 9.10 (bs, 1H), 7.55-7.54 (m, 2H), 7.35-7.34 (m, 2H), 6.14 (s, 1H), 3.06-2.98 (m, 5H), 2.58-2.43 (m, 4H), 2.32-2.16 (m, 3H), 1.80-1.72 (m, 1H), 1.48 (s, 3H).
 MS (ESI, m/z): 454.9 [M+H]+.
 Example 54: Synthesis of N-hydroxy-4-(4-(7-hydroxyhepta-1,3-diyn-1-yl)-3,6-dihydropyridin-1(2H)-yl)-2-methyl-2-(methylsulfonyl)butanamide
+<img> id-US20180086709A1-20180329-C00110.TIF </img>
 Step 1: Synthesis of tert-butyl 4-(7-hydroxyhepta-1,3-diyn-1-yl)-3,6-dihydropyridine-1(2H)-carboxylate
 To a solution of tert-butyl 4-ethynyl-3,6-dihydropyridine-1(2H)-carboxylate (5 g, 1 eq) in a mixture of MeOH (60 ml)/pyridine (60 ml) was added with Copper (II) acetate (8.76 g, 2 eq) and pent-4-yn-1-ol (8.12 g, 4 eq). The mixture was stirred for 24 hr at room temperature, and extracted with ethyl acetate and water. The organic layer was dried over anhydrous MgSO4 and concentrated in vacuo. The residue was purified with column chromatography to prepare the title compound (1.8 g, 26%).
 1H NMR (600 MHz, CDCl3-d1); δ 6.12 (s, 1H), 3.96-3.94 (m, 2H), 3.76-3.73 (m, 2H), 3.48-3.44 (m, 2H), 2.47-2.44 (m, 2H), 2.22-2.20 (m, 2H), 1.82-1.76 (m, 2H), 1.45 (s, 9H).
@@ -754,6 +834,7 @@ The title compound was prepared the procedures described for the synthesis of Ex
 1H NMR (600 MHz, DMSO-d6); δ10.90 (bs, 1H), 9.09 (bs, 1H), 6.19 (s, 1H), 4.53 (t, J=5.4 Hz, 1H), 3.43-3.40 (m, 2H), 3.02 (s, 3H), 2.93-2.99 (m, 2H), 2.52-2.50 (m, 1H), 2.44-2.36 (m, 5H), 2.27-2.24 (m, 1H), 2.16-2.07 (m, 2H), 1.77-1.73 (m, 1H), 1.61-1.56 (m, 2H), 1.41 (s, 3H).
 MS (ESI, m/z): 383.1 [M+H]+.
 Example 55: Synthesis of N-hydroxy-2-methyl-2-(methylsulfonyl)-4-(4-(4-(pyridin-4-yl)phenyl)-3,6-dihydropyridin-1(2H)-yl)butanamide
+<img> id-US20180086709A1-20180329-C00111.TIF </img>
 Step 1: Synthesis of methyl 2-methyl-2-(methylsulfonyl)-4-(4-(4-(pyridin-4-yl)phenyl)-3,6-dihydropyridin-1(2H)-yl)butanoate
 To a solution of methyl 4-(4-(4-iodophenyl)-3,6-dihydropyridin-1(2H)-yl)-2-methyl-2-(methylsulfonyl)butanoate (Intermediate 2) (1.27 g. 1 eq) in a mixture of 1,4-dioxane (12 ml)/water (3 ml) was added with Pd(PPh3)2Cl2(0.21 g, 0.1 eq), K2CO3(1.27 g, 3 eq) and pyridin-4-ylboronic acid (0.75 g, 2 eq). The mixture was stirred for 2 hr at 110° C., cooled down to room temperature, and extracted with ethyl acetate and water. The organic layer was washed with brine, dried over anhydrous MgSO4 and concentrated in vacuo. The residue was purified with column chromatography to prepare the title compound (536 mg, 41%).
 1H NMR (600 MHz, CDCl3-d1); δ8.65 (d, J=6 Hz, 2H), 7.61 (d, J=8.4 Hz, 2H), 7.51-7.49 (m, 4H), 6.16 (s, 1H), 3.70 (s, 3H), 3.28-3.25 (m, 1H), 3.09-3.07 (m, 1H), 3.06 (s, 3H), 2.84-2.82 (m, 1H), 2.70-2.55 (m, 6H), 2.04-2.02 (m, 1H), 2.65 (s, 3H).
@@ -783,7 +864,7 @@ Example & (Name) & acid
 <header>
 
 </header>
- &  & 
+ & <img> id-US20180086709A1-20180329-C00112.TIF </img> & 
  & (4-(4-([1,1'-biphenyl]-4-yl)-3,6-dihydropyridin- & 
  & 1(2H)-yl)-N-hydroxy-2-methyl-2- & 
  & (methylsulfonyl)butanamide) & 
@@ -793,7 +874,7 @@ Example & (Name) & acid
  & 1H), 3.34-3.28 (m, 6H), 3.15-3.07 (m, 2H), 3.04 & 
  & (s, 3H), 2.64-2.58 (m, 2H), 1.45 (s, 3H). & 
  & MS (ESI, m/z): 429.2 [M + H]+. & 
-57 &  & 
+57 & <img> id-US20180086709A1-20180329-C00113.TIF </img> & <img> id-US20180086709A1-20180329-C00114.TIF </img>
  & (4-(4-(4'-chloro-[1,1'-biphenyl]-4-yl)-3,6- & 
  & dihydropyridin-1(2H)-yl)-N-hydroxy-2-methyl-2- & 
  & (methylsulfonyl)butanamide) & 
@@ -804,7 +885,7 @@ Example & (Name) & acid
  & (m, 3H), 2.32-2.28 (m, 1H), 1.85-1.81 (m, 1H), & 
  & 1.44 (s, 3H). & 
  & MS (ESI, m/z): 463.1 [M + H]+. & 
- &  & 
+ & <img> id-US20180086709A1-20180329-C00115.TIF </img> & 
  & (4-(4-(4'-fluoro-[1,1'-biphenyl]-4-yl)-3,6- & 
  & dihydropyridin-1(2H)-yl)-N-hydroxy-2-methyl-2- & 
  & (methylsulfonyl)butanamide) & 
@@ -815,7 +896,7 @@ Example & (Name) & acid
  & (m, 2H), 2.53-2.42 (m, 4H), 2.35-2.28 (m, 2H), & 
  & 1.45 (s, 3H). & 
  & MS (ESI, m/z): 447.0 [M + H]+. & 
- &  & 
+ & <img> id-US20180086709A1-20180329-C00116.TIF </img> & 
  & (N-hydroxy-4-(4-(4'-hydroxy-[1,1'-biphenyl]-4- & 
  & yl)-3,6-dihydropyridin-1(2H)-yl)-2-methyl-2- & 
  & (methylsulfonyl)butanamide) & 
@@ -825,7 +906,7 @@ Example & (Name) & acid
  & 2H), 3.10 (s, 3H), 2.66-2.64 (m, 4H), 2.29-2.21 & 
  & (m, 2H), 1.53 (s, 3H). & 
  & MS (ESI, m/z): 445.1 [M + H]+. & 
- &  & 
+ & <img> id-US20180086709A1-20180329-C00117.TIF </img> & 
  & (4-(4-(3'-fluoro-4'-methoxy-[1,1'-biphenyl]-4- & 
  & yl)-3,6-dihydropyridin-1(2H)-yl)-N-hydroxy-2- & 
  & methyl-2-(methylsulfonyl)butanamide) & 
@@ -836,7 +917,7 @@ Example & (Name) & acid
  & 4H), 2.34-2.30 (m, 1H), 1.84-1.80 (m, 1H), 1.45 & 
  & (s, 3H). & 
  & MS (ESI, m/z): 477.2 [M + H]+. & 
- &  & 
+ & <img> id-US20180086709A1-20180329-C00118.TIF </img> & 
  & (N-hydroxy-2-methyl-2-(methylsulfonyl)-4-(4-(4- & 
  & (pyridin-3-yl)phenyl)-3,6-dihydropyridin-1(2H)- & 
  & yl)butanamide) & 
@@ -847,7 +928,7 @@ Example & (Name) & acid
  & (m, 4H), 3.05 (s, 3H), 2.72-2.69 (m, 2H), 2.58- & 
  & 2.35 (m, 4H), 1.45 (s, 3H). & 
  & MS (ESI, m/z): 430.1 [M + H]+. & 
-62 &  & 
+62 & <img> id-US20180086709A1-20180329-C00119.TIF </img> & <img> id-US20180086709A1-20180329-C00120.TIF </img>
  & (4-(4-(4-(6-fluoropyridin-3-yl)phenyl)-3,6- & 
  & dihydropyridin-1(2H)-yl)-N-hydroxy-2-methyl-2- & 
  & (methylsulfonyl)butanamide) & 
@@ -858,7 +939,7 @@ Example & (Name) & acid
  & (m, 2H), 3.05 (s, 3H), 2.67-2.57 (m, 2H), 2.35- & 
  & 2.30 (m, 2H), 1.45 (s, 3H). & 
  & MS (ESI, m/z): 448.0 [M + H]+. & 
- &  & 
+ & <img> id-US20180086709A1-20180329-C00121.TIF </img> & 
  & 4-(4-(4-(furan-3-yl)phenyl)-3,6-dihydropyridin- & 
  & 1(2H)-yl)-N-hydroxy-2-methyl-2- & 
  & (methylsulfonyl)butanamide) & 
@@ -869,7 +950,7 @@ Example & (Name) & acid
  & 2.68-2.54 (m, 3H), 2.44-2.30 (m, 4H), 1.86-1.80 & 
  & (m, 1H), 1.45 (s, 3H). & 
  & MS (ESI, m/z): 419.2 [M + H]+. & 
- &  & 
+ & <img> id-US20180086709A1-20180329-C00122.TIF </img> & 
  & (N-hydroxy-2-methyl-2-(methylsulfonyl)-4-(4-(4'- & 
  & (methylsulfonyl)-[1,1'-biphenyl]-4-yl)-3,6- & 
  & dihydropyridin-1(2H)-yl)butanamide) & 
@@ -879,7 +960,7 @@ Example & (Name) & acid
  & 3.07-3.06 (m, 4H), 3.04 (s, 3H), 2.66-2.59 (m, & 
  & 4H), 2.35-2.31 (m, 2H), 1.45 (s, 3H). & 
  & MS (ESI, m/z): 506.9 [M + H]+. & 
- &  & 
+ & <img> id-US20180086709A1-20180329-C00123.TIF </img> & 
  & (N-hydroxy-4-(4-(4'-(hydroxymethyl)-[1,1'- & 
  & biphenyl]-4-yl)-3,6-dihydropyridin-1(2H)-yl)-2- & 
  & methyl-2-(methylsulfonyl)butanamide) & 
@@ -890,7 +971,7 @@ Example & (Name) & acid
  & (s, 3H), 2.74-2.52 (m, 3H), 2.48-2.38 (m, 4H), & 
  & 1.86-1.80 (m, 1H), 1.46 (s, 3H). & 
  & MS (ESI, m/z): 459.2 [M + H]+. & 
- &  & 
+ & <img> id-US20180086709A1-20180329-C00124.TIF </img> & 
  & (4-(4-(4'-cyano-[1,1'-biphenyl]-4-yl)-3,6- & 
  & dihydropyridin-1(2H)-yl)-N-hydroxy-2-methyl-2- & 
  & (methylsulfonyl)butanamide) & 
@@ -901,7 +982,7 @@ Example & (Name) & acid
  & 2.54-2.46 (m, 4H), 2.36-2.33 (m, 1H), 1.87-1.83 & 
  & (m, 1H), 1.45 (s, 3H). & 
  & MS (ESI, m/z): 454.1 [M + H]+. & 
-67 &  & 
+67 & <img> id-US20180086709A1-20180329-C00125.TIF </img> & <img> id-US20180086709A1-20180329-C00126.TIF </img>
  & (N-hydroxy-2-methyl-2-(methylsulfonyl)-4-(4-(4'- & 
  & pentyl-[1,1'-biphenyl]-4-yl)-3,6-dihydropyridin- & 
  & 1(2H)-yl)butanamide) & 
@@ -914,7 +995,7 @@ Example & (Name) & acid
  & 1.53 (m, 3H), 1.44 (s, 3H), 1.31-1.18 (m, 5H), & 
  & 0.85-0.81 (m, 3H). & 
  & MS (ESI, m/z): 499.2 [M + H]+. & 
- &  & 
+ & <img> id-US20180086709A1-20180329-C00127.TIF </img> & 
  & (4-(4-(4'-(azetidin-1-ylsulfonyl)-[1,1'- & 
  & biphenyl]-4-yl)-3,6-dihydropyridin-1(2H)-yl)-N- & 
  & hydroxy-2-methyl-2-(methylsulfonyl)butanamide) & 
@@ -926,7 +1007,7 @@ Example & (Name) & acid
  & 2.36-2.32 (m, 2H), 2.01-1.96 (m, 2H), 1.84-1.82 & 
  & (m, 2H), 1.45 (s, 3H). & 
  & MS (ESI, m/z): 548.2 [M + H]+. & 
- &  & 
+ & <img> id-US20180086709A1-20180329-C00128.TIF </img> & 
  & (4'-(1-(4-(hydroxyamino)-3-methyl-3- & 
  & (methylsulfonyl)-4-oxobutyl)-1,2,3,6- & 
  & tetrahydropyridin-4-yl)-[1,1'-biphenyl]-4-yl & 
@@ -938,7 +1019,7 @@ Example & (Name) & acid
  & 2H), 2.45-2.31 (m, 2H), 1.85-1.82 (m, 2H), 1.45 & 
  & (s, 3H). & 
  & MS (ESI, m/z): 506.9 [M + H]+. & 
- &  & 
+ & <img> id-US20180086709A1-20180329-C00129.TIF </img> & 
  & (N-hydroxy-2-methyl-2-(methylsulfonyl)-4-(4-(4- & 
  & (thiophen-3-yl)phenyl)-3,6-dihydropyridin-1(2H)- & 
  & yl)butanamide) & 
@@ -949,7 +1030,7 @@ Example & (Name) & acid
  & 3H), 2.64-2.60 (m, 2H), 2.49-2.32 (m, 5H), 1.85- & 
  & 1.83 (m, 1H), 1.47 (s, 3H). & 
  & MS (ESI, m/z): 435.2 [M + H]+. & 
- &  & 
+ & <img> id-US20180086709A1-20180329-C00130.TIF </img> & 
  & (N-hydroxy-4-(4-(4-(3-methoxythiophen-2- & 
  & yl)phenyl)-3,6-dihydropyridin-1(2H)-yl)-2- & 
  & methyl-2-(methylsulfonyl)butanamide & 
@@ -962,7 +1043,7 @@ Example & (Name) & acid
  & 2.85 (m, 2H), 2.74-2.69 (m, 2H), 1.53-1.52 (m, & 
  & 3H). & 
  & MS (ESI, m/z): 465.1 [M + H]+. & 
- &  & 
+ & <img> id-US20180086709A1-20180329-C00131.TIF </img> & 
  & (N-hydroxy-2-methyl-2-(methylsulfonyl)-4-(4-(4- & 
  & (4-methylthiophen-2-yl)phenyl)-3,6- & 
  & dihydropyridin-1(2H)-yl)butanamide & 
@@ -974,7 +1055,7 @@ Example & (Name) & acid
  & 5H), 3.11 (s, 3H), 3.01-2.69 (m, 3H), 2.23 (s, & 
  & 3H), 1.53-1.52 (m, 3H) & 
  & MS (ESI, m/z): 449.1 [M + H]+. & 
- &  & 
+ & <img> id-US20180086709A1-20180329-C00132.TIF </img> & 
  & (4-(4-(4'-(ethylsulfonyl)-[1,1'-biphenyl]-4-yl)- & 
  & 3,6-dihydropyridin-1(2H)-yl)-N-hydroxy-2-methyl- & 
  & 2-(methylsulfonyl)butanamide hydrochloride) & 
@@ -989,6 +1070,7 @@ Example & (Name) & acid
  & MS (ESI, m/z): 521.1 [M + H]+.
 </table>
 Example 74: Synthesis of N-hydroxy-2-methyl-2-(methylsulfonyl)-4-(4-(4'-(morpholinomethyl)-[1,1'-biphenyl]-4-yl)-3,6-dihydropyridin-1(2H)-yl)butanamide
+<img> id-US20180086709A1-20180329-C00133.TIF </img>
 Step 1: Synthesis of methyl 4-(4-(4'-formyl-[1,1'-biphenyl]-4-yl)-3,6-dihydropyridin-1(2H)-yl)-2-methyl-2-(methylsulfonyl)butanoate
 To a solution of methyl 4-(4-(4-iodophenyl)-3,6-dihydropyridin-1(2H)-yl)-2-methyl-2-(methylsulfonyl)butanoate (Intermediate 2) (1.5 g. 1 eq) in a mixture of 1,4-dioxane (12 ml)/water (3 ml) was added with Pd(PPh3)2Cl2(0.37 g, 0.1 eq), K2CO3(1.34 g, 3 eq) and (4-formylphenyl)boronic acid (0.97 g, 2 eq). The mixture was stirred for 2 hr at 110° C., cooled down to room temperature, and extracted with ethyl acetate and water. The organic layer was washed with brine, dried over anhydrous MgSO4 and concentrated in vacuo. The residue was purified with column chromatography to prepare the title compound (1 g, 68%).
 1H NMR (600 MHz, CDCl3-d1); δ10.04 (S, 1H), 7.94-7.92 (m, 2H), 7.74-7.71 (m, 2H), 7.63-7.60 (m, 2H), 7.49-7.45 (m, 2H), 6.08 (s, 1H), 3.87 (s, 3H), 3.79-76 (m, 2H), 3.66-3.56 (m, 2H), 3.42-3.26 (m, 2H), 3.13 (s, 3H), 2.92-2.72 (m, 4H), 1.74 (s, 3H).
@@ -1001,6 +1083,7 @@ The title compound was prepared the procedures described for the synthesis of Ex
 1H NMR (600 MHz, DMSO-d6); δ11.01 (s, 1H), 9.12 (s, 1H), 7.61-7.60 (m, 4H), 7.50-7.48 (m, 2H), 7.37-7.35 (m, 2H), 6.20 (s, 1H), 3.56-3.55 (m, 4H), 3.10-3.08 (m, 2H), 3.05 (s, 3H), 2.66-2.59 (m, 2H), 2.51-2.43 (m, 4H), 2.37-2.30 (m, 5H), 1.84-1.80 (m, 1H), 1.45 (s, 3H).
 MS (ESI, m/z): 528.25 [M+H]+.
 Example 75: Synthesis of N-hydroxy-4-(6-(3-methoxyprop-1-yn-1-yl)-3',6'-dihydro-[3,4'-bipyridin]-1'(2'H)-yl)-2-methyl-2-(methylsulfonyl)butanamide
+<img> id-US20180086709A1-20180329-C00134.TIF </img>
 Step 1: Synthesis of 5-bromo-2-(3-methoxyprop-1-yn-1-yl)pyridine
 To a solution of 2,5-dibromopyridine (5 g, 1 eq) in toluene (60 ml) was added with CuI (80 mg, 0.02 eq), Pd(PPh3)2Cl2(150 mg, 0.01 eq), Et3N (5.96 ml, 2 eq) and 3-methoxyprop-1-yne (1.6 g, 1.05 eq). The mixture was stirred for 24 hr at room temperature, and extracted with ethyl acetate and water. The organic layer was washed with brine, dried over anhydrous MgSO4 and concentrated in vacuo. The residue was purified with column chromatography to prepare the title compound (4.3 g, 90%).
 1H NMR (600 MHz, CDCl3-d1) δ; 8.62 (s, 1H), 7.78 (m, 1H), 7.73 (d, 1H), 4.32 (s, 2H), 3.45 (s, 3H). MS (ESI, m/z): 228.0 [M+H]+.
@@ -1020,32 +1103,41 @@ The title compound was prepared the procedures described for the synthesis of Ex
 1H NMR (600 MHz, DMSO-d6); δ11.01 (bs, 1H), 8.72 (bs, 1H), 7.93 (dd, 1H), 7.57 (d, 1H), 6.41 (s, 2H), 4.35, (s, 2H), 4.13 (m, 1H), 4.01 (m, 1H), 3.84 (m, 1H), 3.76 (m, 1H), 3.27 (m, 1H), 3.19 (m, 1H), 3.14 (s, 3H), 2.98 (m, 1H,) 2.87 (m, 1H) 2.68 (m, 1H), 2.25 (m, 1H), 1.50 (s, 3H).
 MS (ESI, m/z): 415.1 [M+H]+.
 Example 76: Synthesis of 3-(4-([1,1'-biphenyl]-4-yl)-3,6-dihydropyridin-1(2H)-yl)-N-hydroxy-2-methyl-2-(methylsulfonyl)propanamide
+<img> id-US20180086709A1-20180329-C00135.TIF </img>
 Step 1: Synthesis of tert-butyl 4-([1,1'-biphenyl]-4-yl)-3,6-dihydropyridine-1(2H)-carboxylate
+<img> id-US20180086709A1-20180329-C00136.TIF </img>
 To a solution of 4-bromo-1,1'-biphenyl (2 g, 1 eq) in a mixture of 1,4-dioxane (24 ml)/water (6 ml) was added with Pd(PPh3)2Cl2(0.6 g, 0.1 eq), K2CO3(2.37 g, 2 eq) and tert-butyl 4-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)-3,6-dihydropyridine-1(2H)-carboxylate (3.45 g, 1.3 eq). The mixture was stirred for 2 hr at 110° C., cooled down to room temperature, and extracted with ethyl acetate and water. The organic layer was washed with brine, dried over anhydrous MgSO4 and concentrated in vacuo. The residue was purified with column chromatography to prepare the title compound (1.65 g, 57%).
 1H NMR (600 MHz, DMSO-d6); δ 7.40-7.37 (m, 4H), 7.26-7.16 (m, 4H), 7.08-7.05 (m, 1H), 6.15 (s, 1H), 4.11 (s, 2H), 3.62 (s, 2H), 2.50 (s, 2H), 1.49 (s, 9H).
 MS (ESI, m/z): 336.3 [M+H]+.
 Step 2: Synthesis of 4-([1,1'-biphenyl]-4-yl)-1,2,3,6-tetrahydropyridine 2,2,2-trifluoroacetate
+<img> id-US20180086709A1-20180329-C00137.TIF </img>
 To a solution of tert-butyl 4-([1,1'-biphenyl]-4-yl)-3,6-dihydropyridine-1(2H)-carboxylate (1.1 g, 1 eq) in dichloromethane (10 ml) was added with trifluoroacetic acid (2 ml, 8 eq). The mixture was stirred for 1 hr at room temperature and concentrated in vacuo. The residue was diluted with dichloromethane and poured into excess diethyl ether. The precipitated solid was filtered off to prepare the title compound (1.08 g, 94%).
 1H NMR (600 MHz, DMSO-d6); δ8.68 (brs, 2H), 7.52-7.48 (m, 4H), 7.43-7.39 (m, 4H), 7.08-7.05 (m, 1H), 6.15 (s, 1H), 3.76 (s, 2H), 3.25 (s, 2H), 2.65 (s, 2H) MS (ESI, m/z): 236.1 [M+H]+.
 Step 3: Synthesis of methyl 3-(4-([1,1'-biphenyl]-4-yl)-3,6-dihydropyridin-1(2H)-yl)-2-methyl-2-(methylsulfonyl)propanoate
+<img> id-US20180086709A1-20180329-C00138.TIF </img>
 To a solution of 4-([1,1'-biphenyl]-4-yl)-1,2,3,6-tetrahydropyridine 2,2,2-trifluoroacetate (1 g, 1 eq) in a mixture of MeOH (30 ml)/THF (10 ml) was added with Et3N (2 ml, 5 eq), formaldehyde (37% in water, 0.5 ml, 2.2 eq) and methyl 2-(methylsulfonyl)propanoate (0.95 g, 2 eq). The mixture was stirred for 24 hr at room temperature and concentrated in vacuo. The residue was extracted with ethyl acetate and water. The organic layer was washed with brine, dried over anhydrous MgSO4 and concentrated in vacuo. The residue was purified with column chromatography to prepare the title compound (0.25 g, 21%).
 1H NMR (600 MHz, CDCl3-d1); δ7.70-7.65 (m, 4H), 7.61-7.58 (m, 2H), 7.48-7.42 (m, 2H), 7.40-7.35 (m, 1H) 6.03 (s, 1H), 3.85 (s, 3H), 3.31 (d, 1H, J=14.4 Hz), 3.26 (s, 2H), 3.18 (s, 3H), 3.05 (d, 1H, J=13.8 Hz), 2.81 (t, 2H, J=6.0 Hz), 2.58-2.46 (m, 2H), 1.69 (s, 3H).
 MS (ESI, m/z): 413.2 [M+H]+.
 Step 4: Synthesis of 3-(4-([1,1'-biphenyl]-4-yl)-3,6-dihydropyridin-1(2H)-yl)-2-methyl-2-(methylsulfonyl)propanoic acid
+<img> id-US20180086709A1-20180329-C00139.TIF </img>
 To a solution of methyl 3-(4-([1,1'-biphenyl]-4-yl)-3,6-dihydropyridin-1(2H)-yl)-2-methyl-2-(methylsulfonyl)propanoate (200 mg, 1 eq) in THF (10 ml) was added with 1N-LiOH in MeOH (5 ml, 8.3 eq). The mixture was stirred for 3 hr at room temperature. The solvent was removed under reduced pressure. The residue was acidified with 2N-HCl and extracted ethyl acetate. The organic layer was washed with brine, dried over anhydrous MgSO4 and concentrated in vacuo to prepare the title compound (200 mg, 83%).
 MS (ESI, m/z): 400.10 [M+H]+.
 Step 5: Synthesis of 3-(4-([1,1'-biphenyl]-4-yl)-3,6-dihydropyridin-1(2H)-yl)-2-methyl-2-(methylsulfonyl)-N-((tetrahydro-2H-pyran-2-yl)oxy)propanamide
+<img> id-US20180086709A1-20180329-C00140.TIF </img>
 To a solution of methyl 3-(4-([1,1'-biphenyl]-4-yl)-3,6-dihydropyridin-1(2H)-yl)-2-methyl-2-(methylsulfonyl)propanoate (50 mg, 1 eq) in DMF (2 ml) was added with HATU (67 mg, 1.4 eq), HOBT (24 mg, 1.4 eq), Et3N (0.053 ml, 3 eq) and O-(tetrahydro-2H-pyran-2-yl)hydroxylamine hydrochloride (29 mg, 2 eq). The mixture was stirred for 1 hr at room temperature and extracted with ethyl acetate and water. The organic layer was washed with brine, dried over anhydrous MgSO4 and concentrated in vacuo. The residue was purified with column chromatography to prepare the title compound (50 mg, 80%).
 MS (ESI, m/z): 499.2 [M+H]+.
 Step 6: Synthesis of 3-(4-([1,1'-biphenyl]-4-yl)-3,6-dihydropyridin-1(2H)-yl)-N-hydroxy-2-methyl-2-(methylsulfonyl)propanamide
+<img> id-US20180086709A1-20180329-C00141.TIF </img>
 To a solution of 3-(4-([1,1'-biphenyl]-4-yl)-3,6-dihydropyridin-1(2H)-yl)-2-methyl-2-(methylsulfonyl)-N-((tetrahydro-2H-pyran-2-yl)oxy)propanamide (30 mg, 1 eq) in MeOH (1.5 ml) was added with HCl solution in MeOH (1.25N, 0.1 ml, 2 eq). The mixture was stirred for 2 hr at room temperature. The solvent was removed under reduced pressure. The residue was diluted with water (6 ml) and adjusted the pH to 7.0. The water was concentrated and the resulting residue was purified with column chromatography to prepare the title compound (10 mg, 40%).
 1H NMR (600 MHz, DMSO-d6); δ 11.3 (bs, 1H), 9.51 (bs, 1H), 7.70-7.65 (m, 4H), 7.61-7.58 (m, 2H), 7.48-7.42 (m, 2H), 7.40-7.35 (m, 1H) 6.25 (s, 1H), 4.18-3.91 (m, 2H), 3.61-3.49 (m, 4H), 3.15 (s, 3H), 2.47-2.40 (m, 2H), 1.48 (s, 3H).
 MS (ESI, m/z): 415.1 [M+H]+.
 Example 77: Synthesis of 4-(4-(4-(3-(dimethylamino)prop-1-yn-1-yl)-3-methylphenyl)-3,6-dihydropyridin-1(2H)-yl)-N-hydroxy-2-methyl-2-(methylsulfonyl)butanamide
+<img> id-US20180086709A1-20180329-C00142.TIF </img>
 The title compound was prepared the procedures described for the synthesis of Example 31 using 4-bromo-1-iodo-2-methylbenzene as a starting material.
 1H NMR (600 MHz, DMSO-d6); δ 11.03 (bs, 1H), 9.13 (bs, 1H), 7.34-7.33 (m, 2H), 7.24-7.23 (m, 1H), 6.20 (s, 1H), 3.50 (s, 2H), 3.12-3.10 (m, 2H), 3.07 (s, 3H), 2.66-2.63 (m, 2H), 2.48-2.44 (m, 4H), 2.39 (s, 3H), 2.25 (s, 6H), 1.84-1.82 (m, 2H), 1.43 (s, 3H).
 MS (ESI, m/z): 448.2 [M+H]+.
 Example 78: Synthesis of 4-(4-(4-(3-(dimethylamino)prop-1-yn-1-yl)-3-(trifluoromethyl)phenyl)-3,6-dihydropyridin-1(2H)-yl)-N-hydroxy-2-methyl-2-(methylsulfonyl)butanamide
+<img> id-US20180086709A1-20180329-C00143.TIF </img>
 The title compound was prepared the procedures described for the synthesis of Example 31 using 4-bromo-1-iodo-2-(trifluoromethyl)benzene as a starting material.
 1H NMR (600 MHz, DMSO-d6); δ 11.03 (bs, 1H), 9.11 (bs, 1H), 7.71-7.69 (m, 2H), 7.63-7.62 (m, 1H), 6.36 (s, 1H), 3.50 (s, 2H), 3.32 (s, 3H), 3.17-3.16 (m, 2H), 2.66-2.57 (m, 2H), 2.46-2.32 (m, 4H), 2.23 (s, 6H), 1.83-1.80 (m, 2H), 1.45 (s, 3H).
 MS (ESI, m/z): 502.2 [M+H]+.

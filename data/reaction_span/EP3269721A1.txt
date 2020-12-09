@@ -6,7 +6,7 @@ Arginine-vasopressin (hereinafter, abbreviated as AVP) is an antidiuretic hormon
 Stimulation of the V2 receptor is expected to improve nocturia. Desmopressin (hereinafter, abbreviated as dDAVP) is a selective V2 receptor agonist used for treating patients with nocturia, and is reported to decrease nocturnal urine volume and the number of nocturnal voids, resulting in an increased duration of initial undisturbed sleep (J Urol 2013; 190: 958-964, and J Urol 2013; 190: 965-972). Unfortunately, V2 receptor agonists theoretically induce fluid retention and increase risks of hyponatremia. It is reported that V2 receptor agonists should be administered with caution and monitoring of serum sodium level to older adults who are the majority of patients with nocturia (Neurourol Urodyn 2004; 23: 302-305).
 Placental leucine aminopeptidase (hereinafter, abbreviated as P-LAP) is an enzyme that degrades L-leucine-β-naphthylamide, oxytocin and AVP (Arch Biochem Biophys 1992; 292: 388-392), and was cloned as an aminopeptidase by Rogi et al. in year 1996 (J Biol Chem 1996; 271: 56-61). The insulin-regulated aminopeptidase (hereinafter, abbreviated as IRAP) cloned by Keller et al. from rat epididymal fat pads has homology of 87% to human P-LAP. The IRAP is subsequently suggested to be an aminopeptidase that cleaves AVP and reported to be a rat homolog of human P-LAP (J Biol Chem 1995; 270: 23612-23618, Am J Physiol Endocrinol Metab 2007; 293: E1092-E1102). Angiotensin IV (AT4) receptor isolated from bovine adrenal is also suggested to be an IRAP as a result of biochemical and pharmacological studies (J Biol Chem 2001; 276: 48623-48626).
 Experiments using P-LAP knockout mice indicate that administration of AVP in wild type mice and P-LAP knockout mice results in much reduction of 24-h urine volume in P-LAP knockout mice, although no significant difference is observed in the 24-h urine volume between the wild type and P-LAP knockout mice. It suggests the possible involvement of P-LAP in regulation of the urine volume through degradation of AVP (NPL 1).
-Compounds represented by Formula (A) below are reported to be IRAP inhibitors useful as a therapeutic agent for dementia and diabetes, and the like (PTLs 1 and 2).wherein X is O, NR' or S, and other symbols are defined as in PTLs 1 and 2.
+Compounds represented by Formula (A) below are reported to be IRAP inhibitors useful as a therapeutic agent for dementia and diabetes, and the like (PTLs 1 and 2).<img> id-imgb0001.tif </img>wherein X is O, NR' or S, and other symbols are defined as in PTLs 1 and 2.
 Tripeptide analogs of AT4 with 13- to 14-membered ring structure exhibits excellent IRAP inhibitory activity (NPL 2).
 However, no antidiuretic agent or therapeutic agents for nocturia based on a mechanism mediated by P-LAP (or IRAP) has been reported.
 Under such circumstances, there exists need for a safe antidiuretic agent that is suitable for treating nocturia.
@@ -21,7 +21,7 @@ The present invention provides a compound useful as an active ingredient of a ph
 [Means for Solving Problem]
 The inventors have assumed that inhibition of nocturnal activity of P-LAP, i.e. aminopeptidase that cleaves AVP, would maintain and/or increase an endogenous AVP level to enhance the antidiuretic effect, which would contribute to a decreased number of nocturnal voids, and have extensively studied compounds which inhibit P-LAP (including rat IRAP, a homolog of human P-LAP).
 As a result, the inventors have found that a compound represented by Formula (I) below has excellent P-LAP inhibitory activity. The inventors have evaluated antidiuretic effects in water-loaded rats and have found that the compound represented by Formula (I) increases endogenous AVP levels by inhibiting P-LAP and consequently reduces urine production. Based on such findings, the inventors have accomplished the present invention.
-The present invention relates to a compound represented by Formula (I) or a salt thereof, and a pharmaceutical composition comprising the compound represented by Formula (I) or a salt thereof and an excipient:wherein, X is O or S;a dotted line is a single bond or a double bond;R1 is lower alkyl which optionally has one to four substituents selected from the Group G1, cycloalkyl which optionally has one to five substituents selected from the Group G2, or -lower alkylene-(cycloalkyl which optionally has one to five substituents selected from the Group G2);R2 and R5 are the same or different from each other, and are H, lower alkyl or cycloalkyl;R3 is -lower alkylene-X3-lower alkyl, -lower alkylene-X3-lower alkylene-(cycloalkyl which optionally has one to five substituents selected from the Group G2), -lower alkylene-(cycloalkyl which optionally has one to five substituents selected from the Group G2), or -lower alkylene-X3-(cycloalkyl which optionally has one to five substituents selected from the Group G2);X3 is O or S(O)n, wherein n is 0, 1, or 2;R4 is OH, NH2, or -O-lower alkyl and R6 is H; or R4 and R6 are linked to each other to form, together with -C(=O)-C-O- to which they are attached, 2,2-di(lower alkyl)-4-oxo-1,3-dioxolane-5,5-diyl;the Group G1 consists of halogen, OH, -O-lower alkyl, -S-lower alkyl, and-O-(lower halogenoalkyl); andthe Group G2 consists of lower alkyl, halogen, lower halogenoalkyl, OH, -O-lower alkyl, -S-lower alkyl, and -O-lower halogenoalkyl.
+The present invention relates to a compound represented by Formula (I) or a salt thereof, and a pharmaceutical composition comprising the compound represented by Formula (I) or a salt thereof and an excipient:<img> id-imgb0002.tif </img>wherein, X is O or S;a dotted line is a single bond or a double bond;R1 is lower alkyl which optionally has one to four substituents selected from the Group G1, cycloalkyl which optionally has one to five substituents selected from the Group G2, or -lower alkylene-(cycloalkyl which optionally has one to five substituents selected from the Group G2);R2 and R5 are the same or different from each other, and are H, lower alkyl or cycloalkyl;R3 is -lower alkylene-X3-lower alkyl, -lower alkylene-X3-lower alkylene-(cycloalkyl which optionally has one to five substituents selected from the Group G2), -lower alkylene-(cycloalkyl which optionally has one to five substituents selected from the Group G2), or -lower alkylene-X3-(cycloalkyl which optionally has one to five substituents selected from the Group G2);X3 is O or S(O)n, wherein n is 0, 1, or 2;R4 is OH, NH2, or -O-lower alkyl and R6 is H; or R4 and R6 are linked to each other to form, together with -C(=O)-C-O- to which they are attached, 2,2-di(lower alkyl)-4-oxo-1,3-dioxolane-5,5-diyl;the Group G1 consists of halogen, OH, -O-lower alkyl, -S-lower alkyl, and-O-(lower halogenoalkyl); andthe Group G2 consists of lower alkyl, halogen, lower halogenoalkyl, OH, -O-lower alkyl, -S-lower alkyl, and -O-lower halogenoalkyl.
 As used herein, if a symbol used in a chemical formula is also used in other chemical formula, identical symbols have the same definition, unless otherwise specified.
 The present invention also relates to a pharmaceutical composition comprising the compound represented by Formula (I) or a salt thereof. The pharmaceutical composition encompasses an agent for treating nocturia. The present invention also relates to a pharmaceutical composition for treating nocturia comprising the compound represented by Formula (I) or a salt thereof and an excipient.
 The present invention also relates to use of the compound represented by Formula (I) or a salt thereof for production of a pharmaceutical composition for treating nocturia, use of the compound represented by Formula (I) or a salt thereof for treating nocturia, the compound represented by Formula (I) or a salt thereof for treating nocturia, and a method of treating nocturia comprising administering to a subject an effective amount of the compound represented by Formula (I) or a salt thereof. As used herein, "subject" is a human or non-human animal in need of a therapeutic treatment, and in one embodiment, a human in need of the therapeutic treatment.
@@ -36,10 +36,10 @@ The "lower alkylene" is a C1-10 straight or branched alkylene; specifically, met
 The "halogen" is F, Cl, Br or I; and in one embodiment, Cl.
 The "lower halogenoalkyl" is a straight or branched C1-10 alkyl substituted by one or more halogens. The "lower halogenoalkyl" is, in one embodiment, a C1-6 alkyl substituted by one to five halogens; in one embodiment, trifluoromethyl, trifluoroethyl, trifluoropropyl, 2-fluoro-2-methylpropyl, difluoromethyl, fluoromethyl or chloromethyl; and in one embodiment, trifluoromethyl.
 The "cycloalkyl" is a C3-12 saturated hydrocarbon ring group which is optionally cross-linked and optionally forms a spiro ring. The "C3-12 cycloalkyl" is, specifically, cyclopropyl, cyclobutyl, cyclopentyl, cyclohexyl, cycloheptyl, cyclooctyl, bicyclo[2,2,1]heptyl, bicyclo[3,1,0]hexyl, bicyclo[3,1,1]heptyl, adamantyl, spiro[2,5]octyl, spiro[3,5]nonyl or spiro[4,5]decyl. In one embodiment, a "C3-10 cycloalkyl"; in one embodiment, a "C3-8 cycloalkyl"; in one embodiment, a "C3-6 cycloalkyl." The "cycloalkyl" is, in one embodiment, cyclopropyl, cyclobutyl, cyclopentyl, cyclohexyl or cycloheptyl; in one embodiment, cyclopropyl, cyclobutyl or cyclopentyl; in one embodiment, cyclopropyl. In one embodiment, cyclopropyl or cyclobutyl.
-The compound represented by Formula (I) includes the compounds having any one of 4 kinds of ring represented by the following formulae. Formula (1-1) is a compound having a furo[3,2-c]pyridine ring wherein X is O, a dotted line is a double bond; Formula (1-2) is a compound having a dihydrofuro[3,2-c]pyridine ring wherein X is O, a dotted line is a single bond; Formula (1-3) is a compound having a thieno[3,2-c]pyridine ring wherein X is S, a dotted line is a double bond; and Formula (I-4) is a compound having a dihydrothieno[3,2-c]pyridine ring wherein X is S, a dotted line is a single bond. In one embodiment, the compound represented by Formula (I) or a salt thereof is the compound of Formula (1-1), Formula (I-2) or Formula (1-3), or a salt thereof; in one embodiment, the compound of Formula (1-1) or a salt thereof.
-The phrase " R4 and R6 are linked to each other to form, together with-C(=O)-C-O- to which they are attached, 2,2-di(lower alkyl)-4-oxo-1,3-dioxolane-5,5-diyl" means that the compound represented by Formula (I) includes compounds represented by the following Formula (I-A).wherein, RP1 and RP2 are the same or different from each other, and are a lower alkyl, in one embodiment, both RP1 and RP2 represent methyl.
+The compound represented by Formula (I) includes the compounds having any one of 4 kinds of ring represented by the following formulae. Formula (1-1) is a compound having a furo[3,2-c]pyridine ring wherein X is O, a dotted line is a double bond; Formula (1-2) is a compound having a dihydrofuro[3,2-c]pyridine ring wherein X is O, a dotted line is a single bond; Formula (1-3) is a compound having a thieno[3,2-c]pyridine ring wherein X is S, a dotted line is a double bond; and Formula (I-4) is a compound having a dihydrothieno[3,2-c]pyridine ring wherein X is S, a dotted line is a single bond. In one embodiment, the compound represented by Formula (I) or a salt thereof is the compound of Formula (1-1), Formula (I-2) or Formula (1-3), or a salt thereof; in one embodiment, the compound of Formula (1-1) or a salt thereof.<img> id-imgb0003.tif </img>
+The phrase " R4 and R6 are linked to each other to form, together with-C(=O)-C-O- to which they are attached, 2,2-di(lower alkyl)-4-oxo-1,3-dioxolane-5,5-diyl" means that the compound represented by Formula (I) includes compounds represented by the following Formula (I-A).<img> id-imgb0004.tif </img>wherein, RP1 and RP2 are the same or different from each other, and are a lower alkyl, in one embodiment, both RP1 and RP2 represent methyl.
 In the present specification, the "optionally has substituents" means that the specified group is unsubstituted or has substituents; specifically, the "optionally has one to five substituents" means that the specified group is unsubstituted or has one to five substituents. If the specified group has a plurality of substituents, the substituents may be the same or different from each other.
-The compound represented by Formula (I) has at least two asymmetric carbon atoms. One asymmetric carbon atom attached to -C(O)R4 (position 2) has (R) configuration, and neighboring carbon atom attached to -NH2 (position 3) may have either (R) or (S) configuration, and the compound represented by Formula (I) includes (R) or (S) isomer on position 3, and a mixture thereof. In one embodiment, the compound represented by Formula (I) is a compound represented by Formula (I') or a salt thereof:wherein, (2R) indicates that the carbon atom at position 2 has (R) configuration.
+The compound represented by Formula (I) has at least two asymmetric carbon atoms. One asymmetric carbon atom attached to -C(O)R4 (position 2) has (R) configuration, and neighboring carbon atom attached to -NH2 (position 3) may have either (R) or (S) configuration, and the compound represented by Formula (I) includes (R) or (S) isomer on position 3, and a mixture thereof. In one embodiment, the compound represented by Formula (I) is a compound represented by Formula (I') or a salt thereof:<img> id-imgb0005.tif </img>wherein, (2R) indicates that the carbon atom at position 2 has (R) configuration.
 The compound represented by Formula (I) may have tautomers and geometric isomers, depending on the type of substituent groups. The compound represented by Formula (I) also includes separate tautomers and geometric isomers, and mixtures thereof.
 The compound represented by Formula (I) may also have stereoisomers based on other asymmetric carbon atom than those described above or the sulfoxide moiety, depending on the type of substituent groups. The compound represented by Formula (I) also includes separate stereoisomers and mixtures thereof.
 The present invention also encompasses a pharmaceutically acceptable prodrug of the compound represented by Formula (I). A pharmaceutically acceptable prodrug is a compound having a group which can be converted into an amino group, a hydroxyl group, or a carboxyl group as a result of solvolysis or under physiological conditions. Examples of a group forming a prodrug are described in Prog. Med., 5, 2157-2161 (1985), "Iyakuhin no Kaihatsu (Pharmaceutical Research and Development)" (Hirokawa-Shoten Ltd.), 1990, Vol. 7, "Bunshi Sekkei (Drug Molecular Design)", pp. 163-198, or "Prodrugs and targeted delivery" (Wiley-VCH 2011) Methods and principles in medicinal chemistry, volume 47.
@@ -52,11 +52,13 @@ The compound represented by Formula (I) or a salt thereof is, in one embodiment,
 The compound represented by the formula (I) or a salt thereof can be prepared using the characteristics based on the basic structure or the type of substituents and by applying various known synthesis methods. During the preparation, replacement of the functional group with a suitable protective group (a group that can be easily converted into the functional group) at the stage from starting material to an intermediate may be effective depending on the type of functional groups in the production technology in some cases. Such a protective group may include, for example, the protective groups described in "Greene's Protective Groups in Organic Synthesis (4th edition, 2006)", P. G. M. Wuts and T. W. Greene, and one of these may be selected and used as necessary depending on the reaction conditions. In this kind of method, a desired compound can be obtained by introducing the protective group, by carrying out the reaction and by eliminating the protective group as necessary.
 Hereinbelow, the representative preparation methods for the compound represented by the formula (I) will be described. Each of the production processes may also be carried out with reference to the References appended in the present description. Further, the preparation methods of the present invention are not limited to the examples as shown below.
 (Production Process 1)
+<img> id-imgb0006.tif </img>
 In the formula, PO represents a protective group for a hydroxyl group, and PN represents a protective group for an amino group.
 The compound (I-B) in which R4 is OH in Formula (I) can be prepared by ring-opening and deprotection of the compound (II).
 In this reaction, the compound (II) and a hydrolytic reagent in equivalent amounts, or either thereof in an excess amount, are used, and the mixture is stirred for usually 0.1 hour to five days in a solvent which is inert to the reaction under from cooling to heating with reflux. Examples of the solvent used herein are not particularly limited, but include alcohols such as methanol, ethanol and n-propanol; halogenated hydrocarbons such as dichloromethane, 1,2-dichloroethane and chloroform; 1,4-dioxane; N,N-dimethylformamide; tetrahydrofuran and the like. In some cases, a mixed solvent of such solvent(s) and water is preferably used for the reaction. Examples of the hydrolytic reagent used herein are not particularly limited, but include bases such as aqueous sodium hydroxide solution and aqueous potassium hydroxide solution; and acids such as hydrogen chloride and trifluoroacetic acid. In some cases, it is preferred to treat the compound (II) with a base and then with an acid, or to treat it with an acid and then with a base.
 Examples of PO, the protective group for a hydroxyl group, include methoxymethyl, benzyloxymethyl and the like. Examples of PN, the protective group for an amino group, include methoxymethyl, benzyloxymethyl and the like.
 (Production Process 2)
+<img> id-imgb0007.tif </img><img> id-imgb0008.tif </img>
 The compound (I-C) can be prepared by deprotection of the compound (III).
 In this reaction, the compound (III) and a deprotecting reagent in equivalent amounts, or either thereof in an excess amount, are used, and the mixture is stirred for usually 0.1 hour to five days in a solvent which is inert to the reaction or in the absence of a solvent, under from cooling to heating with reflux. Examples of the solvent used herein are not particularly limited, but include alcohols such as methanol, ethanol and n-propanol; halogenated hydrocarbons such as dichloromethane, 1,2-dichloroethane and chloroform; 1,4-dioxane; N,N-dimethylformamide; tetrahydrofuran and the like. In some cases, a mixed solvent of such solvent(s) and water is preferably used for the reaction. Examples of the deprotecting reagent are not particularly limited, but include bases such as aqueous sodium hydroxide solution and aqueous potassium hydroxide solution; and acids such as hydrogen chloride and trifluoroacetic acid. In some cases, it is preferred to treat the compound (III) with a base and then with an acid, or to treat it with an acid and then with a base.
 Examples of PN, the protective group for an amino group, include tert-butoxycarbonyl, benzyloxycarbonyl, methoxymethyl, benzyloxymethyl and the like.
@@ -64,6 +66,7 @@ The compound (I-A) can also be prepared from the compound (III) under selected r
 (Other Production Process)
 A compound of Formula (I) prepared by the respective production processes can be used as a starting material and is subjected to a chemical modification reaction generally used by those skilled in the art, such as esterification and amidation, to produce other compounds represented by Formula (I).
 (Synthesis of Starting Material 1)
+<img> id-imgb0009.tif </img>
 The compound (2) can be prepared through halogenation of a hydroxy group of the compound (1) using thionyl chloride and the like, and the compound (3) can be prepared through iodination of the compound (2) by Finkelstein reaction.
 [Reference]
 Chirality, 2011, 23(1), 24-33
@@ -75,12 +78,13 @@ Alternatively, the compound (II) can be prepared by reacting the compound (4), w
 [Reference]
 Molecules, 2004, 9(5), 365-372Tetrahedron Asymmetry, 1991, 2(7), 705-720
 (Synthesis of Starting Material 2)
+<img> id-imgb0010.tif </img>
 The compound (8) can be prepared by reacting the compound (6) with the compound (7) in the presence of pyridinium p-toluenesulfonate or p-toluenesulfonic acid. In this reaction, a mixture of the compounds (6) and (7) is stirred for one hour to five days in a solvent which is inert to the reaction in the presence of pyridinium p-toluenesulfonate or p-toluenesulfonic acid under from cooling to heating, preferably at a temperature of from 40 to 120°C. Examples of the solvent include aromatic hydrocarbons such as benzene, toluene and xylene; ethers such as diethylether, tetrahydrofuran, 1,4-dioxane and 1,2-dimethoxyethane; and halogenated hydrocarbons such as dichloromethane, 1,2-dichloroethane and chloroform.
 Examples of PN, the protective group for an amino group, include tert-butoxycarbonyl, benzyloxycarbonyl, methoxymethyl, benzyloxymethyl and the like.
 The compound (III) can be prepared by reacting the compound (8) with the compound (1). The reaction can be carried out by the same method as in the synthesis of the compound (II) from the compound (1) using the compound (5) described in Synthesis of Starting Material 1.
 A compound (III) having a desired configuration can be prepared from a starting compound (6) in which the asymmetric carbon attached to -NHPN has a specific configuration. In some cases, it is preferred to add trimethylchlorosilane at the time of reaction of the compounds (8) and (1), depending on the configuration of the asymmetric carbon attached to -NHPN. When a mixture in which the configurations of the asymmetric carbons attached to -NHPN are R and S is used as a starting compound, it is preferred to combine a general optical resolution technique.
 (Synthesis of Other Starting Materials)
-A desired starting compound can be prepared using any other method known to those skilled in the art. For example, the methods shown in the reaction scheme below can be used.wherein Re and Rf are each a group forming a part of R3.
+A desired starting compound can be prepared using any other method known to those skilled in the art. For example, the methods shown in the reaction scheme below can be used.<img> id-imgb0011.tif </img>wherein Re and Rf are each a group forming a part of R3.
 The compounds represented by Formula (I) are isolated and purified as free bases, or salts, hydrates, solvates or crystalline polymorphs thereof. Salts of the compound represented by Formula (I) can also be prepared by a conventional salt forming reaction.
 Isolation and purification is carried out by a general chemical procedure such as extraction, fractional crystallization, and various types of fractional chromatography.
 Various isomers can be prepared by selection of appropriate starting compounds, or can be separated based on differences in physicochemical properties among the isomers. For example, optical isomers can be prepared by a general optical resolution technique of racemic products (for example, fractional crystallization that converts the compound into diastereomer salts with optically active bases or acids, or chromatography using a chiral column), or can also be prepared from appropriate optically active starting compounds.
@@ -111,7 +115,7 @@ Ex & IRAP IC50(nM) & hP-LAP IC50(nM) & Ex & IRAP IC50(nM) & hP-LAP IC50(nM)
 13 & 1.6 & 4.3 & 27 & 3.7 & 4.2
 </table>
 (3) Antidiuresis test in water-loaded rats (oral administration)
-Individual test compounds were dissolved in a vehicle (containing 10% N,N-dimethylformamide, 10% propylene glycol, and 80% distilled water), and the resulting solution was orally administered to the rats. When a test compound is a free base, one molar equivalent hydrochloric acid was added to dissolve the compound in the solvent. Rats in a vehicle control group were administered only with the vehicle. One hour after the administration, 30 ml/kg of distilled water was orally administered to the rats. One hour after the water loading, the urine volume was measured (urine volumes less than 0.3 ml were considered as 0 ml) to calculate the ratio of the urine volume (urinary excretion rate) to the amount of water load. The inhibition of urination (%) in the compound-administered group in comparison with the vehicle control group was calculated in accordance with the following expression (each group consisted of four to five rats): Inhibition of urination%={[(urinary excretion rate in the vehicle controlgroup)−(urinary excretion rate in the compound-administered group]/(urinaryexcretion rate in the vehicle control group)}×100
+Individual test compounds were dissolved in a vehicle (containing 10% N,N-dimethylformamide, 10% propylene glycol, and 80% distilled water), and the resulting solution was orally administered to the rats. When a test compound is a free base, one molar equivalent hydrochloric acid was added to dissolve the compound in the solvent. Rats in a vehicle control group were administered only with the vehicle. One hour after the administration, 30 ml/kg of distilled water was orally administered to the rats. One hour after the water loading, the urine volume was measured (urine volumes less than 0.3 ml were considered as 0 ml) to calculate the ratio of the urine volume (urinary excretion rate) to the amount of water load. The inhibition of urination (%) in the compound-administered group in comparison with the vehicle control group was calculated in accordance with the following expression (each group consisted of four to five rats):<img> id-imgb0012.tif </img>Inhibition of urination%={[(urinary excretion rate in the vehicle controlgroup)−(urinary excretion rate in the compound-administered group]/(urinaryexcretion rate in the vehicle control group)}×100
 Table 2 shows inhibition of urination (%) observed when some example compounds included in compounds of Formula (I) were respectively administered in the amount of 3 mg/kg. The results indicate that the example compounds have an excellent antidiuretic effect.
 <table>
 <header>
@@ -271,35 +275,35 @@ Production Example compounds shown in Tables to be described later were produced
 <header>
 Ex & Str & Ex & Str
 </header>
-1 &  & 5 & 
-2 &  & 6 & 
-3 &  & 7(1) & 
-4 &  & 7(2) & 
+1 & <img> id-imgb0013.tif </img> & 5 & <img> id-imgb0014.tif </img>
+2 & <img> id-imgb0015.tif </img> & 6 & <img> id-imgb0016.tif </img>
+3 & <img> id-imgb0017.tif </img> & 7(1) & <img> id-imgb0018.tif </img>
+4 & <img> id-imgb0019.tif </img> & 7(2) & <img> id-imgb0020.tif </img>
 </table>
 <table>
 <header>
 Ex & Str & Ex & Str
 </header>
-8 &  & 12 & 
-9 &  & 13 & 
-10 &  & 14 & 
-11 &  & 15 & 
+8 & <img> id-imgb0021.tif </img> & 12 & <img> id-imgb0022.tif </img>
+9 & <img> id-imgb0023.tif </img> & 13 & <img> id-imgb0024.tif </img>
+10 & <img> id-imgb0025.tif </img> & 14 & <img> id-imgb0026.tif </img>
+11 & <img> id-imgb0027.tif </img> & 15 & <img> id-imgb0028.tif </img>
 </table>
 <table>
 <header>
 Ex & Str & Ex & Str
 </header>
-16 &  & 20 & 
-17 &  & 21 & 
-18 &  & 22 & 
-19 &  & 23 & 
+16 & <img> id-imgb0029.tif </img> & 20 & <img> id-imgb0030.tif </img>
+17 & <img> id-imgb0031.tif </img> & 21 & <img> id-imgb0032.tif </img>
+18 & <img> id-imgb0033.tif </img> & 22 & <img> id-imgb0034.tif </img>
+19 & <img> id-imgb0035.tif </img> & 23 & <img> id-imgb0036.tif </img>
 </table>
 <table>
 <header>
 Ex & Str & Ex & Str
 </header>
-24 &  & 26 & 
-25 &  & 27 & 
+24 & <img> id-imgb0037.tif </img> & 26 & <img> id-imgb0038.tif </img>
+25 & <img> id-imgb0039.tif </img> & 27 & <img> id-imgb0040.tif </img>
 </table>
 <table>
 <header>
@@ -347,98 +351,99 @@ Ex & Syn & DATA
 <header>
 PEx & Str & PEx & Str
 </header>
-1 &  & 5 & 
-2 &  & 6 & 
-3 &  & 7 & 
-4 &  & 8 & 
+1 & <img> id-imgb0041.tif </img> & 5 & <img> id-imgb0042.tif </img>
+2 & <img> id-imgb0043.tif </img> & 6 & <img> id-imgb0044.tif </img>
+3 & <img> id-imgb0045.tif </img> & 7 & <img> id-imgb0046.tif </img>
+4 & <img> id-imgb0047.tif </img> & 8 & <img> id-imgb0048.tif </img>
 </table>
 <table>
 <header>
 PEx & Str & PEx & Str
 </header>
-9 &  & 15 & 
-10 &  & 16 & 
-11 &  & 17 & 
-12 &  & 18 & 
-13 &  & 19 & 
-14 &  & 20 & 
+9 & <img> id-imgb0049.tif </img> & 15 & <img> id-imgb0050.tif </img>
+10 & <img> id-imgb0051.tif </img> & 16 & <img> id-imgb0052.tif </img>
+11 & <img> id-imgb0053.tif </img> & 17 & <img> id-imgb0054.tif </img>
+12 & <img> id-imgb0055.tif </img> & 18 & <img> id-imgb0056.tif </img>
+13 & <img> id-imgb0057.tif </img> & 19 & <img> id-imgb0058.tif </img>
+14 & <img> id-imgb0059.tif </img> & 20 & <img> id-imgb0060.tif </img>
 </table>
 <table>
 <header>
 PEx & Str & PEx & Str
 </header>
-21 &  & 25 & 
-22 &  & 26 & 
-23 &  & 27 & 
-24 &  & 28 & 
+21 & <img> id-imgb0061.tif </img> & 25 & <img> id-imgb0062.tif </img>
+22 & <img> id-imgb0063.tif </img> & 26 & <img> id-imgb0064.tif </img>
+23 & <img> id-imgb0065.tif </img> & 27 & <img> id-imgb0066.tif </img>
+24 & <img> id-imgb0067.tif </img> & 28 & <img> id-imgb0068.tif </img>
 </table>
 <table>
 <header>
 PEx & Str & PEx & Str
 </header>
-29 &  & 34 & 
-30 &  & 35 & 
-31 &  & 36 & 
-32 &  & 37 & 
-33 &  & 38 & 
+29 & <img> id-imgb0069.tif </img> & 34 & <img> id-imgb0070.tif </img>
+30 & <img> id-imgb0071.tif </img> & 35 & <img> id-imgb0072.tif </img>
+31 & <img> id-imgb0073.tif </img> & 36 & <img> id-imgb0074.tif </img>
+32 & <img> id-imgb0075.tif </img> & 37 & <img> id-imgb0076.tif </img>
+33 & <img> id-imgb0077.tif </img> & 38 & <img> id-imgb0078.tif </img>
 </table>
 <table>
 <header>
 PEx & Str & PEx & Str
 </header>
-39 &  & 44 & 
-40 &  & 45 & 
-41 &  & 46 & 
-42 &  & 47 & 
-43 &  & 48 & 
+39 & <img> id-imgb0079.tif </img> & 44 & <img> id-imgb0080.tif </img>
+40 & <img> id-imgb0081.tif </img> & 45 & <img> id-imgb0082.tif </img>
+41 & <img> id-imgb0083.tif </img> & 46 & <img> id-imgb0084.tif </img>
+42 & <img> id-imgb0085.tif </img> & 47 & <img> id-imgb0086.tif </img>
+43 & <img> id-imgb0087.tif </img> & 48 & <img> id-imgb0088.tif </img>
 </table>
 <table>
 <header>
 PEx & Str & PEx & Str
 </header>
-49 &  & 54 & 
-50 &  & 55 & 
-51 &  & 56 & 
-52 &  & 57 & 
-53 &  & 58 & 
+49 & <img> id-imgb0089.tif </img> & 54 & <img> id-imgb0090.tif </img>
+50 & <img> id-imgb0091.tif </img> & 55 & <img> id-imgb0092.tif </img>
+51 & <img> id-imgb0093.tif </img> & 56 & <img> id-imgb0094.tif </img>
+52 & <img> id-imgb0095.tif </img> & 57 & <img> id-imgb0096.tif </img>
+53 & <img> id-imgb0097.tif </img> & 58 & <img> id-imgb0098.tif </img>
 </table>
 <table>
 <header>
 PEx & Str & PEx & Str
 </header>
-59 &  & 63 & 
-60 &  & 64 & 
-61 &  & 65 & 
-62 &  & 66 & 
+59 & <img> id-imgb0099.tif </img> & 63 & <img> id-imgb0100.tif </img>
+60 & <img> id-imgb0101.tif </img> & 64 & <img> id-imgb0102.tif </img>
+61 & <img> id-imgb0103.tif </img> & 65 & <img> id-imgb0104.tif </img>
+62 & <img> id-imgb0105.tif </img> & 66 & <img> id-imgb0106.tif </img>
 </table>
 <table>
 <header>
 PEx & Str & PEx & Str
 </header>
-67 &  & 72 & 
-68 &  & 73 & 
-69 &  & 74 & 
-70 &  & 75 & 
-71 &  & 76 & 
+67 & <img> id-imgb0107.tif </img> & 72 & <img> id-imgb0108.tif </img>
+68 & <img> id-imgb0109.tif </img> & 73 & <img> id-imgb0110.tif </img>
+69 & <img> id-imgb0111.tif </img> & 74 & <img> id-imgb0112.tif </img>
+70 & <img> id-imgb0113.tif </img> & 75 & <img> id-imgb0114.tif </img>
+71 & <img> id-imgb0115.tif </img> & 76 & <img> id-imgb0116.tif </img>
 </table>
 <table>
 <header>
 PEx & Str & PEx & Str
 </header>
-77 &  & 82 & 
-78 &  & 83 & 
-79 &  & 84 & 
-80 &  & 85 & 
-81 &  & 86 & 
+77 & <img> id-imgb0117.tif </img> & 82 & <img> id-imgb0118.tif </img>
+78 & <img> id-imgb0119.tif </img> & 83 & <img> id-imgb0120.tif </img>
+79 & <img> id-imgb0121.tif </img> & 84 & <img> id-imgb0122.tif </img>
+80 & <img> id-imgb0123.tif </img> & 85 & <img> id-imgb0124.tif </img>
+81 & <img> id-imgb0125.tif </img> & 86 & <img> id-imgb0126.tif </img>
 </table>
 <table>
 <header>
 PEx & Str & PEx & Str
 </header>
-87 &  & 91 & 
-88 &  & 92 & 
-89 &  & 93 & 
-90 & i & 94 & 
+87 & <img> id-imgb0127.tif </img> & 91 & <img> id-imgb0128.tif </img>
+88 & <img> id-imgb0129.tif </img> & 92 & <img> id-imgb0130.tif </img>
+89 & <img> id-imgb0131.tif </img> & 93 & <img> id-imgb0132.tif </img>
+90 & <img> id-imgb0133.tif </img>
+i & 94 & <img> id-imgb0134.tif </img>
 </table>
 <table>
 <header>

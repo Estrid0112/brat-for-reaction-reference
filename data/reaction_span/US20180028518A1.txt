@@ -6,14 +6,18 @@ Recent studies have also presented a link between upregulation of lipid synthesi
 SREBP-2, a regulator of androgen synthesis, is also itself regulated by androgens, demonstrating a direct feedback circuit for regulation of androgen production. SREBP-2 expression increases during disease progression and is significantly higher after castration. This transcription factor also lacks its feedback inhibition in prostate cancer cells, implicating a role for cholesterol and androgen synthesis in prostate cancer [Eberle, et al. Biochimie (2004) 86:11, pp 839-848; Ettinger, et al. Cancer Res. (2004), 64:6, pp 2212-2221; Chen, et al. Int. J. Cancer (2001), 91:1, pp 41-45].
 Blocking SREBP functions linked to disease states therefore represents an important therapeutic approach for limiting lipid/cholesterol synthesis in membrane production which occurs in metabolic diseases and in cancer progression, as well as in viral pathogenesis [Naar, et al. Clin. Lipidol. (2012) 7:1, pp 27-36]. Small molecule therapeutics affecting metabolic regulators such as mTOR, AMPK or SIRT1, including Rapamycin, Metformin, or Resveratrol, respectively, may impinge on the transcriptional activity of SREBPs. Recently, two non-sterol small molecules, fatostatin and betulin have been found to inhibit SREBP processing [Kamisuki, et al. Chem. Biol. (2009) 16:8, pp 882-892; Tang, et al. Cell. Metab. (2011) 13:1, pp 44-56]. Methods for the treatment of cancers having a p53 mutation, such as breast cancer cells, using SREBP inhibitors have been presented [Freed-Pastor, et al. PCT. Publication WO2013-110007A1].
 Fatostatin analogs have recently been described as potential therapeutics for the treatment of metabolic disorders [Uesugi, et al. U.S. Pat. No. 8,207,196]. Key compounds presented therein are based around Formula X:
+<img> id-US20180028518A1-20180201-C00001.TIF </img>
 wherein R is H, F, Cl, Br, OBz, OH, OCH3, OCH2CO2Me, OCH2CO2H, NH2, NHiPr, NHCOCH3, NHSO2Me, NH[benzyl], NH[cyclopropyl], NH[tertbutyloxycarbonyl], NH[cyclohexyl], NH[tosyl], NH[quinolin-8-yl], and NH[thiophen-2-yl]. In particular, one compound (FGH10019), the methanesulfonamide derivative of fatostatin above wherein R is NHSO2Me, has been described as a lead candidate [Kamisuki, et al. J. Med. Chem. (2011) 54:13, pp 4923-4927].
 BRIEF SUMMARY
 This disclosure provides compounds and methods of using those compounds to treat liver fibrosis, elevated cholesterol levels, and insulin resistance.
 In some embodiments, compounds disclosed herein fall within formulae (Ia) or (Ib):
+<img> id-US20180028518A1-20180201-C00002.TIF </img>
 or a pharmaceutically acceptable salt thereof, wherein:
 A is either:i. an aryl or heteroaryl, each having only one ring, substituted with 1, 2, or 3 substituents selected from the group consisting of halogen, CN, CF3, OH, C1-C6 linear or branched alkyl, C3-C6 cycloalkyl, C3-C6 cycloalkenyl, C1-C6 linear or branched hydroxyalkyl, C1-C3 linear or branched alkoxy, C3-C6 cycloalkylmethyl, -(CH2)mCF3, ═O, -CH2OCH3, -OBn, -CO2H, -CO2-Alkyl, -NR10R11, and -CONR10R11; orii. an aryl or heteroaryl, each having more than one ring, optionally substituted with 1, 2, or 3 substituents selected from the group consisting of halogen, CN, CF3, OH, C1-C6 linear or branched alkyl, C3-C6 cycloalkyl, C3-C6 cycloalkenyl, C1-C6 linear or branched hydroxyalkyl, C1-C3 linear or branched alkoxy, C3-C6 cycloalkylmethyl, -(CH2)mCF3, ═O, -CH2OCH3, -CH2OH, -OBn, -CO2H, -CO2-Alkyl, -NR10R11, and -CONR10R11;
 Each RC4, RC5, and RC6, is independently hydrogen, halogen, CN, CF3, OH, C1-C3 linear or branched alkyl, C2-C3 alkenyl, C2-C3 alkynyl, C3-C6 cycloalkyl,C3-C6 cycloalkenyl, C1-C3 linear or branched alkoxy, -CO2H, -CONR10R11,or -NHCONH2; or is taken with RC7 to form the moiety
+<img> id-US20180028518A1-20180201-C00003.TIF </img>
 RC7 is hydrogen, C1-C6 linear or branched alkyl, C1-C6 linear or branched hydroxyalkyl, -(CR9aR9b)mNR10R11, -CO2-Alkyl, -(CR9aR9b)mO-Alkyl, -(CR9aR9b)mOPO3Na2, -(CR9aR9b)mO(CR9aR9b)nO-Alkyl, -(CR9aR9b)mO(C═O)-Alkyl, -(CR9aR9b)mO(CR9aR9b)nO(C═O)-Alkyl, -(C═O)CH═CH2, -SO2RC8';or is taken with one of RC4, RC5 or RC6 to form the moiety
+<img> id-US20180028518A1-20180201-C00004.TIF </img>
 RC8 is a linear or branched C1-C6 perhaloalkyl, a linear or branched C2-C6 perhaloalkenyl, a linear or branched C2-C6 perhaloalkynyl, a linear or branched C1-C6 alkyl having at least one halogen atom, a linear or branched C2-C6 alkenyl having at least one halogen atom, or a linear or branched C2-C6 alkynyl having at least one halogen atom;
 RC8' is a linear or branched C1-C6 alkyl, a linear or branched C1-C6 perhaloalkyl, a linear or branched C2-C6 perhaloalkenyl, a linear or branched C2-C6 perhaloalkynyl, a linear or branched C1-C6 alkyl having at least one halogen atom, a linear or branched C2-C6 alkenyl having at least one halogen atom, or a linear or branched C2-C6 alkynyl having at least one halogen atom;
 Each R9a and R9b, where present, is independently hydrogen or C1-C6 linear or branched alkyl;
@@ -21,11 +25,15 @@ R10 and R11 are independently hydrogen, -SO2RC8', C1-C6 linear or branched alkyl
 X is a heteroatom selected from S, O; or NRB wherein RB is hydrogen, a C1-C6 linear or branched alkyl, or a C3-C6 cycloalkyl; and
 Each m and n is 1, 2 or 3.
 In some embodiments, compounds disclosed herein fall within formulae (IIa) or (IIb):
+<img> id-US20180028518A1-20180201-C00005.TIF </img>
 or a pharmaceutically acceptable salt thereof, wherein:
 A is a moiety selected from the group consisting of:
+<img> id-US20180028518A1-20180201-C00006.TIF </img><img> id-US20180028518A1-20180201-C00007.TIF </img><img> id-US20180028518A1-20180201-C00008.TIF </img><img> id-US20180028518A1-20180201-C00009.TIF </img><img> id-US20180028518A1-20180201-C00010.TIF </img>
 wherein the ring containing X is linked to ring A at any available position on ring A;
 Each RC4, RC5, and RC6, is independently hydrogen, halogen, CN, CF3, OH, C1-C3 linear or branched alkyl, C2-C3 alkenyl, C2-C3 alkynyl, C3-C6 cycloalkyl, C3-C6 cycloalkenyl, C1-C3 linear or branched alkoxy, -CO2H, -CONR10R11, or -NHCONH2; or is taken with RC7 to form the moiety
+<img> id-US20180028518A1-20180201-C00011.TIF </img>
 RC7 is hydrogen, C1-C6 linear or branched alkyl, C1-C6 linear or branched hydroxyalkyl, -(CR9aR9b)mNR10R11, -CO2-Alkyl, -(CR9aR9b)mO-Alkyl, -(CR9aR9b)mOPO3Na2, -(CR9aR9b)mO(CR9aR9b)nO-Alkyl, -(CR9aR9b)mO(C═O)-Alkyl, -(CR9aR9b)mO(CR9aR9b)nO(C═O)-Alkyl, -(C═O)CH═CH2, -SO2RC8'; or is taken with one of RC4, RC5 or RC6 to form the moiety
+<img> id-US20180028518A1-20180201-C00012.TIF </img>
 RC8 is a linear or branched C1-C6 perhaloalkyl, a linear or branched C2-C6 perhaloalkenyl, a linear or branched C2-C6 perhaloalkynyl, a linear or branched C1-C6 alkyl having at least one halogen atom, a linear or branched C2-C6 alkenyl having at least one halogen atom, or a linear or branched C2-C6 alkynyl having at least one halogen atom;
 RC8' is a linear or branched C1-C6 alkyl, a linear or branched C1-C6 perhaloalkyl, a linear or branched C2-C6 perhaloalkenyl, a linear or branched C2-C6 perhaloalkynyl, a linear or branched C1-C6 alkyl having at least one halogen atom, a linear or branched C2-C6 alkenyl having at least one halogen atom, or a linear or branched C2-C6 alkynyl having at least one halogen atom;
 Each R9a and R9b, where present, is independently hydrogen or C1-C6 linear or branched alkyl;
@@ -33,10 +41,14 @@ R10 and R11 are independently hydrogen, -SO2RC8', C1-C6 linear or branched alkyl
 X is a heteroatom selected from S, O; or NRB wherein RB is hydrogen, a C1-C6 linear or branched alkyl, or a C3-C6 cycloalkyl; and
 Each m and n is 1, 2 or 3.
 In some embodiments, compounds disclosed herein fall within formulae (IIa) or (IIb):
+<img> id-US20180028518A1-20180201-C00013.TIF </img>
 or a pharmaceutically acceptable salt thereof, wherein:
 A is a moiety selected from the group consisting of:
+<img> id-US20180028518A1-20180201-C00014.TIF </img><img> id-US20180028518A1-20180201-C00015.TIF </img><img> id-US20180028518A1-20180201-C00016.TIF </img><img> id-US20180028518A1-20180201-C00017.TIF </img><img> id-US20180028518A1-20180201-C00018.TIF </img><img> id-US20180028518A1-20180201-C00019.TIF </img>
 Each RC4, RC5, and RC6, is independently hydrogen, halogen, CN, CF3, OH, C1-C3 linear or branched alkyl, C2-C3 alkenyl, C2-C3 alkynyl, C3-C6 cycloalkyl, C3-C6 cycloalkenyl, C1-C3 linear or branched alkoxy, -CO2H, -CONR10R11, or -NHCONH2; or is taken with RC7 to form the moiety
+<img> id-US20180028518A1-20180201-C00020.TIF </img>
 RC7 is hydrogen, C1-C6 linear or branched alkyl, C1-C6 linear or branched hydroxyalkyl, -(CR9aR9b)mNR10R11, -CO2-Alkyl, -(CR9aR9b)mO-Alkyl, -(CR9aR9b)mOPO3Na2, -(CR9aR9b)mO(CR9aR9b)nO-Alkyl, -(CR9aR9b)mO(C═O)-Alkyl, -(CR9aR9b)mO(CR9aR9b)nO(C═O)-Alkyl, -(C═O)CH═CH2, -SO2RC8'; or is taken with one of RC4, RC5 or RC6 to form the moiety
+<img> id-US20180028518A1-20180201-C00021.TIF </img>
 RC8 is a linear or branched C1-C6 perhaloalkyl, a linear or branched C2-C6 perhaloalkenyl, a linear or branched C2-C6 perhaloalkynyl, a linear or branched C1-C6 alkyl having at least one halogen atom, a linear or branched C2-C6 alkenyl having at least one halogen atom, or a linear or branched C2-C6 alkynyl having at least one halogen atom;
 RC8' is a linear or branched C1-C6 alkyl, a linear or branched C1-C6 perhaloalkyl, a linear or branched C2-C6 perhaloalkenyl, a linear or branched C2-C6 perhaloalkynyl, a linear or branched C1-C6 alkyl having at least one halogen atom, a linear or branched C2-C6 alkenyl having at least one halogen atom, or a linear or branched C2-C6 alkynyl having at least one halogen atom;
 Each R9a and R9b, where present, is independently hydrogen or C1-C6 linear or branched alkyl;
@@ -65,10 +77,13 @@ As used herein, reference to “about” a value or parameter herein includes (a
 Any and all stereoisomers, including geometric isomers (cis/trans or E/Z isomers), tautomers, salts, N-oxides, and solvates of the compounds described herein can be used in the disclosed methods. This disclosure also provides methods of making such compounds.
 Compounds
 In some embodiments, compounds disclosed herein fall within formulae (Ia) or (Ib):
+<img> id-US20180028518A1-20180201-C00022.TIF </img>
 or a pharmaceutically acceptable salt thereof, wherein:
 A is either:i. an aryl or heteroaryl, each having only one ring, substituted with 1, 2, or 3 substituents selected from the group consisting of halogen, CN, CF3, OH, C1-C6 linear or branched alkyl, C3-C6 cycloalkyl, C3-C6 cycloalkenyl, C1-C6 linear or branched hydroxyalkyl, C1-C3 linear or branched alkoxy, C3-C6 cycloalkylmethyl, -(CH2)mCF3, ═O, -CH2OCH3, -OBn, -CO2H, -CO2-Alkyl, -NR10R11, and -CONR10R11; orii. an aryl or heteroaryl, each having more than one ring, optionally substituted with 1, 2, or 3 substituents selected from the group consisting of halogen, CN, CF3, OH, C1-C6 linear or branched alkyl, C3-C6 cycloalkyl, C3-C6 cycloalkenyl, C1-C6 linear or branched hydroxyalkyl, C1-C3 linear or branched alkoxy, C3-C6 cycloalkylmethyl, -(CH2)mCF3, ═O, -CH2OCH3, -CH2OH, -OBn, -CO2H, -CO2-Alkyl, -NR10R11, and -CONR10R11;
 Each RC4, RC5, and RC6, is independently hydrogen, halogen, CN, CF3, OH, C1-C3 linear or branched alkyl, C2-C3 alkenyl, C2-C3 alkynyl, C3-C6 cycloalkyl, C3-C6 cycloalkenyl, C1-C3 linear or branched alkoxy, -CO2H, -CONR10R11, or -NHCONH2; or is taken with RC7 to form the moiety
+<img> id-US20180028518A1-20180201-C00023.TIF </img>
 RC7 is hydrogen, C1-C6 linear or branched alkyl, C1-C6 linear or branched hydroxyalkyl, -(CR9aR9b)mNR10R11, -CO2-Alkyl, -(CR9aR9b)mO-Alkyl, -(CR9aR9b)mOPO3Na2, -(CR9aR9b)mO(CR9aR9b)nO-Alkyl, -(CR9aR9b)mO(C═O)-Alkyl, -(CR9aR9b)mO(CR9aR9b)nO(C═O)-Alkyl, -(C═O)CH═CH2, -SO2RC8'; or is taken with one of RC4, RC5 or RC6 to form the moiety
+<img> id-US20180028518A1-20180201-C00024.TIF </img>
 RC8 is a linear or branched C1-C6 perhaloalkyl, a linear or branched C2-C6 perhaloalkenyl, a linear or branched C2-C6 perhaloalkynyl, a linear or branched C1-C6 alkyl having at least one halogen atom, a linear or branched C2-C6 alkenyl having at least one halogen atom, or a linear or branched C2-C6 alkynyl having at least one halogen atom;
 RC8' is a linear or branched C1-C6 alkyl, a linear or branched C1-C6 perhaloalkyl, a linear or branched C2-C6 perhaloalkenyl, a linear or branched C2-C6 perhaloalkynyl, a linear or branched C1-C6 alkyl having at least one halogen atom, a linear or branched C2-C6 alkenyl having at least one halogen atom, or a linear or branched C2-C6 alkynyl having at least one halogen atom;
 Each R9a and R9b, where present, is independently hydrogen or C1-C6 linear or branched alkyl;
@@ -76,11 +91,15 @@ R10 and R11 are independently hydrogen, -SO2RC8', C1-C6 linear or branched alkyl
 X is a heteroatom selected from S, O; or NRB wherein RB is hydrogen, a C1-C6 linear or branched alkyl, or a C3-C6 cycloalkyl; and
 Each m and n is 1, 2 or 3.
 In some embodiments, compounds disclosed herein fall within formulae (IIa) or (IIb):
+<img> id-US20180028518A1-20180201-C00025.TIF </img>
 or a pharmaceutically acceptable salt thereof, wherein:
 A is a moiety selected from the group consisting of:
+<img> id-US20180028518A1-20180201-C00026.TIF </img><img> id-US20180028518A1-20180201-C00027.TIF </img><img> id-US20180028518A1-20180201-C00028.TIF </img><img> id-US20180028518A1-20180201-C00029.TIF </img><img> id-US20180028518A1-20180201-C00030.TIF </img>
 wherein the ring containing X is linked to ring A at any available position on ring A;
 Each RC4, RC5, and RC6, is independently hydrogen, halogen, CN, CF3, OH, C1-C3 linear or branched alkyl, C2-C3 alkenyl, C2-C3 alkynyl, C3-C6 cycloalkyl, C3-C6 cycloalkenyl, C1-C3 linear or branched alkoxy, -CO2H, -CONR10R11, or -NHCONH2; or is taken with RC7 to form the moiety
+<img> id-US20180028518A1-20180201-C00031.TIF </img>
 RC7 is hydrogen, C1-C6 linear or branched alkyl, C1-C6 linear or branched hydroxyalkyl, -(CR9aR9b)mNR10R11, -CO2-Alkyl, -(CR9aR9b)mO-Alkyl, -(CR9aR9b)mOPO3Na2, -(CR9aR9b)mO(CR9aR9b)nO-Alkyl, -(CR9aR9b)mO(C═O)-Alkyl, -(CR9aR9b)mO(CR9aR9b)nO(C═O)-Alkyl, -(C═O)CH═CH2, -SO2RC8'; or is taken with one of RC4, RC5 or RC6 to form the moiety
+<img> id-US20180028518A1-20180201-C00032.TIF </img>
 RC8 is a linear or branched C1-C6 perhaloalkyl, a linear or branched C2-C6 perhaloalkenyl, a linear or branched C2-C6 perhaloalkynyl, a linear or branched C1-C6 alkyl having at least one halogen atom, a linear or branched C2-C6 alkenyl having at least one halogen atom, or a linear or branched C2-C6 alkynyl having at least one halogen atom;
 RC8' is a linear or branched C1-C6 alkyl, a linear or branched C1-C6 perhaloalkyl, a linear or branched C2-C6 perhaloalkenyl, a linear or branched C2-C6 perhaloalkynyl, a linear or branched C1-C6 alkyl having at least one halogen atom, a linear or branched C2-C6 alkenyl having at least one halogen atom, or a linear or branched C2-C6 alkynyl having at least one halogen atom;
 Each R9a and R9b, where present, is independently hydrogen or C1-C6 linear or branched alkyl;
@@ -88,10 +107,14 @@ R10 and R11 are independently hydrogen, -SO2RC8', C1-C6 linear or branched alkyl
 X is a heteroatom selected from S, O; or NRB wherein RB is hydrogen, a C1-C6 linear or branched alkyl, or a C3-C6 cycloalkyl; and
 Each m and n is 1, 2 or 3.
 In some embodiments, compounds disclosed herein fall within formulae (IIa) or (IIb):
+<img> id-US20180028518A1-20180201-C00033.TIF </img>
 or a pharmaceutically acceptable salt thereof, wherein:
 A is a moiety selected from the group consisting of:
+<img> id-US20180028518A1-20180201-C00034.TIF </img><img> id-US20180028518A1-20180201-C00035.TIF </img><img> id-US20180028518A1-20180201-C00036.TIF </img><img> id-US20180028518A1-20180201-C00037.TIF </img><img> id-US20180028518A1-20180201-C00038.TIF </img><img> id-US20180028518A1-20180201-C00039.TIF </img>
 Each RC4, RC5, and RC6, is independently hydrogen, halogen, CN, CF3, OH, C1-C3 linear or branched alkyl, C2-C3 alkenyl, C2-C3 alkynyl, C3-C6 cycloalkyl, C3-C6 cycloalkenyl, C1-C3 linear or branched alkoxy, -CO2H, -CONR10R11, or -NHCONH2; or is taken with RC7 to form the moiety
+<img> id-US20180028518A1-20180201-C00040.TIF </img>
 RC7 is hydrogen, C1-C6 linear or branched alkyl, C1-C6 linear or branched hydroxyalkyl, -(CR9aR9b)mNR10R11, -CO2-Alkyl, -(CR9aR9b)mO-Alkyl, -(CR9aR9b)mOPO3Na2, -(CR9aR9b)mO(CR9aR9b)nO-Alkyl, -(CR9aR9b)mO(C═O)-Alkyl, -(CR9aR9b)mO(CR9aR9b)nO(C═O)-Alkyl, -(C═O)CH═CH2, -SO2RC8'; or is taken with one of RC4, RC5 or RC6 to form the moiety
+<img> id-US20180028518A1-20180201-C00041.TIF </img>
 RC8 is a linear or branched C1-C6 perhaloalkyl, a linear or branched C2-C6 perhaloalkenyl, a linear or branched C2-C6 perhaloalkynyl, a linear or branched C1-C6 alkyl having at least one halogen atom, a linear or branched C2-C6 alkenyl having at least one halogen atom, or a linear or branched C2-C6 alkynyl having at least one halogen atom;
 RC8' is a linear or branched C1-C6 alkyl, a linear or branched C1-C6 perhaloalkyl, a linear or branched C2-C6 perhaloalkenyl, a linear or branched C2-C6 perhaloalkynyl, a linear or branched C1-C6 alkyl having at least one halogen atom, a linear or branched C2-C6 alkenyl having at least one halogen atom, or a linear or branched C2-C6 alkynyl having at least one halogen atom;
 Each R9a and R9b, where present, is independently hydrogen or C1-C6 linear or branched alkyl;
@@ -99,19 +122,29 @@ R10 and R11 are independently hydrogen, -SO2RC8', C1-C6 linear or branched alkyl
 X is a heteroatom selected from S, O; or NRB wherein RB is hydrogen, a C1-C6 linear or branched alkyl, or a C3-C6 cycloalkyl; and
 Each m and n is 1, 2 or 3.
 In some variations of Formulae (IIa) or (IIb), A is a moiety selected from the group consisting of:
+<img> id-US20180028518A1-20180201-C00042.TIF </img>
 In some variations of Formulae (IIa) or (IIb), A is a moiety selected from the group consisting of:
+<img> id-US20180028518A1-20180201-C00043.TIF </img>
 In some variations of Formulae (Ia), (Ib), (IIa) or (IIb), X is S. In some variations, X is O. In some variations, X is NRB, wherein RB is hydrogen. In some variations, X is NRB, wherein RB is a linear or branched C1-C6 alkyl. In these variations, RB is a linear C1-C6 alkyl selected from methyl, ethyl, n-propyl, n-butyl, n-pentyl or n-hexyl. In particular variations, RB is methyl. In some variations, RB is a branched C1-C6 alkyl selected from iso-propyl, iso-pentyl, and tert-butyl.
 In some variations of Formulae (Ia), (Ib), (IIa) or (IIb), the phenyl ring containing the groups RC4, RC5, RC6, and -NRC7SO2RC8, is a moiety selected from:
+<img> id-US20180028518A1-20180201-C00044.TIF </img>
 In particular variations of Formulae (Ia), (Ib), (IIa) or (IIb), the phenyl ring containing the groups RC4, RC5, RC6, and -NRC7SO2RC8, is a moiety selected from:
+<img> id-US20180028518A1-20180201-C00045.TIF </img>
 In some variations of Formulae (Ia), (Ib), (IIa) or (IIb), one or more of RC4, RC5 and RC6, is hydrogen. In some variations, one or more of RC4, RC5 and RC6, is halogen. In some variations, one or more of RC4, RC5 and RC6, is CN. In some variations, one or more of RC4, RC5 and RC6, is CF3. In some variations, one or more of RC4, RC5 and RC6, is OH. In some variations, one or more of RC4, RC5 and RC6, is C1-C3 linear or branched alkyl. In some variations, one or more of RC4, RC5 and RC6, is C2-C3 alkenyl. In some variations, one or more of RC4, RC5 and RC6, is C2-C3 alkynyl. In some variations, one or more of RC4, RC5 and RC6, is C3-C6 cycloalkyl. In some variations, one or more of RC4, RC5 and RC6, is C3-C6 cycloalkenyl. In some variations, one or more of RC4, RC5 and RC6, is C1-C3 linear or branched alkoxy. In some variations, one or more of RC4, RC5 and RC6, is -CON(CH3)2. In some variations, one or more of RC4, RC5 and RC6, is -CO2H. In some variations, one or more of RC4, RC5 and RC6, is -CONH2. In some variations, one or more of RC4, RC5 and RC6, is -NHCONH2. In some variations, one or more of RC4, RC5 and RC6, is -CONHCH3. In some variations, one or more of RC4, RC5 and RC6, is taken with RC7 to form the moiety
+<img> id-US20180028518A1-20180201-C00046.TIF </img>
 In some variations of Formulae (Ia), (Ib), (IIa) or (IIb), one of RC4, RC5 and RC6 is hydrogen. In some variations, two of RC4, RC5 and RC6 are hydrogen. In some variations, each RC4, RC5 and RC6 is hydrogen. In some variations, one or more of RC4, RC5 and RC6 is methoxy. In some variations, one or more of RC4, RC5 and RC6 is OH.
 In some variations of Formulae (Ia), (Ib), (IIa) or (IIb), one of RC4, RC5 and RC6 is halogen. In some variations, two of RC4, RC5 and RC6 are halogen. In some variations each RC4, RC5 and RC6 is halogen. In some variations, one of RC4, RC5 and RC6 is hydrogen, and the remaining two of RC4, RC5 and RC6 are halogen. In some variations, two of RC4, RC5 and RC6 are hydrogen, and the remaining one of RC4, RC5 and RC6 is halogen. In some variations, RC4, RC5 and RC6 are each halogen. In some embodiments, one of RC4, RC5 and RC6 is fluoro, chloro or bromo. In some embodiments, two of RC4, RC5 and RC6 are fluoro, chloro or bromo. In some embodiments, one of RC4, RC5 and RC6 is chloro. In some embodiments, one of RC4, RC5 and RC6 is chloro and one of RC4, RC5 and RC6 is bromo. In some embodiments, RC4 is chloro. In some embodiments, RC5 is chloro. In some embodiments, RC4 is bromo. In some embodiments, RC5 is bromo.
 In some variations of Formulae (Ia), (Ib), (IIa) or (IIb), RC7 is hydrogen. In some variations, RC7 is C1-C6 linear or branched alkyl. In some variations, RC7 is C1-C6 linear or branched hydroxyalkyl. In some variations, RC7 is -(CR9aR9b)mNR10R11. In some variations, RC7 is -CO2-Alkyl. In some variations, RC7 is -(CR9aR9b)mO-Alkyl. In some variations, RC7 is -(CR9aR9b)mOPO3Na2. In some variations, RC7 is -(CR9aR9b)mO(CR9aR9b)nO-Alkyl. In some variations, RC7 is -(CR9aR9b)mO(C═O)-Alkyl. In some variations, RC7 is -(CR9aR9b)mO(CR9aR9b)nO(C═O)-Alkyl. In some variations, RC7 is -(C═O)CH═CH2. In some variations, RC7 is -SO2RC8'. In some variations, RC7 is taken with one of RC4, RC5 or RC6 to form the moiety
+<img> id-US20180028518A1-20180201-C00047.TIF </img>
 In all embodiments, RC8 is a linear or branched C1-C6 perhaloalkyl, a linear or branched C2-C6 perhaloalkenyl, a linear or branched C2-C6 perhaloalkynyl, a linear or branched C1-C6 alkyl having at least one halogen atom, a linear or branched C2-C6 alkenyl having at least one halogen atom, or a linear or branched C2-C6 alkynyl having at least one halogen atom. In some embodiments, RC8 is a linear or branched C1-C6 perhaloalkyl. In some embodiments, the C1-C6 perhaloalkyl is a C1-C6 perfluoroalkyl. In some embodiments, the C1-C6 perfluoroalkyl is selected from
+<img> id-US20180028518A1-20180201-C00048.TIF </img>
 In preferred embodiments, the C1-C6 perfluoroalkyl is -CF3. In some embodiments, RC8 is a linear or branched C1-C6 alkyl having at least two halogen atoms. In some embodiments, RC8 is selected from:
+<img> id-US20180028518A1-20180201-C00049.TIF </img>
 In some embodiments, RC8 is a linear or branched C2-C6 perhaloalkenyl. In some embodiments, RC8 is a linear or branched C2-C6 perhaloalkynyl. In some embodiments, RC8 is a linear or branched C1-C6 alkyl having at least one halogen atom. In some embodiments, RC8 is a linear or branched C2-C6 alkenyl having at least one halogen atom. In some embodiments, RC8 is or a linear or branched C2-C6 alkynyl having at least one halogen atom.
 In some embodiments, RC8' is a linear or branched C1-C6 alkyl, a linear or branched C1-C6 perhaloalkyl, a linear or branched C2-C6 perhaloalkenyl, a linear or branched C2-C6 perhaloalkynyl, a linear or branched C1-C6 alkyl having at least one halogen atom, a linear or branched C2-C6 alkenyl having at least one halogen atom, or a linear or branched C2-C6 alkynyl having at least one halogen atom. In some embodiments, RC8' is a linear or branched C1-C6 perhaloalkyl. In some embodiments, the C1-C6 perhaloalkyl is a C1-C6 perfluoroalkyl. In some embodiments, the C1-C6 perfluoroalkyl is selected from
+<img> id-US20180028518A1-20180201-C00050.TIF </img>
 In preferred embodiments, the C1-C6 perfluoroalkyl is -CF3. In some embodiments, RC8' is a linear or branched C1-C6 alkyl having at least two halogen atoms. In some embodiments, RC8' is selected from:
+<img> id-US20180028518A1-20180201-C00051.TIF </img>
 In some embodiments, RC8' is a linear or branched C2-C6 perhaloalkenyl. In some embodiments, RC8' is a linear or branched C2-C6 perhaloalkynyl. In some embodiments, RC8' is a linear or branched C1-C6 alkyl having at least one halogen atom. In some embodiments, RC8' is a linear or branched C2-C6 alkenyl having at least one halogen atom. In some embodiments, RC8' is or a linear or branched C2-C6 alkynyl having at least one halogen atom.
 In some variations of Formulae (Ia), (Ib), (IIa) or (IIb), both R9a and R9b are hydrogen. In some embodiments, R9a is hydrogen, and R9b is C1-C6 linear or branched alkyl. In some embodiments, both R9a and R9b are C1-C6 linear or branched alkyl. In some embodiments, R9a is hydrogen, and R9b is methyl.
 In some variations of Formulae (Ia), (Ib), (IIa) or (IIb), one or both of R10 and R11 are hydrogen. In some variations, one or both of R10 and R11 are -SO2RC8'. In some variations, one or both of R10 and R11 are C1-C6 linear or branched alkyl. In some variations, one or both of R10 and R11 are C2-C6 linear or branched alkenyl. In some variations, one or both of R10 and R11 are C3-C6 cycloalkyl. In some variations, one or both of R10 and R11 are C3-C6 cycloalkenyl.
@@ -120,16 +153,26 @@ In some variations, the compound is of formula (Ia) or (IIa), wherein X is a het
 In some variations, the compound is of formula (Ib) or (IIb), wherein X is a heteroatom selected from S, O; or NRB wherein RB is hydrogen, a C1-C6 linear or branched alkyl, or a C3-C6 cycloalkyl. In some variations, X is S. In some variations, X is O. In some variations, X is NRB wherein RB is hydrogen, a C1-C6 linear or branched alkyl, or a C3-C6 cycloalkyl. In some variations, X is NRB wherein RB is a C1-C6 linear or branched alkyl. In some variations, X is NRB wherein RB is C3-C6 cycloalkyl.
 In some variations of Formulae (Ia), (Ib), (IIa) or (IIb), both m and n are 1. In some variations, m is 1 and n is 2. In some variations, m is 1 and n is 3. In some variations, m is 2 and n is 1. In some variations, both m and n are 2. In some variations, m is 2 and n is 3. In some variations, m is 3 and n is 1. In some variations, m is 3 and n is 2. In some variations, both m and n are 3.
 In some variations of Formulae (Ia), (Ib), (IIa) or (IIb), A is a moiety selected from
+<img> id-US20180028518A1-20180201-C00052.TIF </img>
 X is S, and the phenyl ring containing the groups RC4, RC5, RC6, and -NRC7SO2RC8, is a moiety selected from:
+<img> id-US20180028518A1-20180201-C00053.TIF </img>
 In some variations of Formulae (Ia), (Ib), (IIa) or (IIb), A is a moiety selected from
+<img> id-US20180028518A1-20180201-C00054.TIF </img>
 X is S, and the phenyl ring containing the groups RC4, RC5, RC6, and -NRC7SO2RC8, is a moiety selected from
+<img> id-US20180028518A1-20180201-C00055.TIF </img>
 In some variations of Formulae (Ia), (Ib), (IIa) or (IIb), A is
+<img> id-US20180028518A1-20180201-C00056.TIF </img>
 X is S; the phenyl ring containing the groups RC4, RC5, RC6, and -NRC7SO2RC8, is selected from
+<img> id-US20180028518A1-20180201-C00057.TIF </img>
 wherein RC4, RC5, and RC6 are hydrogen or halogen; RC7 is hydrogen; and RC8 is perfluoroalkyl. In some variations RC8 is -CF3.
 In some variations, the compound is of Formula (Ia), wherein A is a moiety selected from
+<img> id-US20180028518A1-20180201-C00058.TIF </img>
 X is S, and the phenyl ring containing the groups RC4, RC5, RC6, and -NRC7SO2RC8, is a moiety selected from
+<img> id-US20180028518A1-20180201-C00059.TIF </img>
 In particular variations, the compound is of Formula (Ia), wherein A is
+<img> id-US20180028518A1-20180201-C00060.TIF </img>
 X is S; the phenyl ring containing the groups RC4, RC5, RC6, and -NRC7SO2RC8, is selected from
+<img> id-US20180028518A1-20180201-C00061.TIF </img>
 wherein RC4, RC5, and RC6 are hydrogen or halogen; RC7 is hydrogen and RC8 is perfluoroalkyl. In some variations, RC8 is -CF3.
 It is intended and understood that each and every variation of A, RC4, RC5, RC6, RC7, RC8, RC8', R9a, R9b, R10, R11, X, m, and n, where present, described for formulae (Ia) and (Ib), may be combined with each and every variation of A, RC4, RC5, RC6, RC7, RC8, RC8', R9a, R9b, R10, R11, X, m, and n, as if each and every combination is individually described.
 In some embodiments, the compound is selected from the group consisting of:1,1,1-trifluoro-N-(4-(2-(2-propylpyridin-4-yl)thiazol-4-yl) phenyl)methanesulfonamide;1,1,1-trifluoro-N-(3-(2-(2-propylpyridin-4-yl)thiazol-4-yl) phenyl)methanesulfonamide;N-(3-chloro-4-(2-(1-isobutyl-1H-pyrazol-5-yl)thiazol-4-yl)phenyl)-1,1,1-trifluoromethanesulfonamide;N-(3-chloro-4-(2-(2-propylpyridin-4-yl)thiazol-4-yl)phenyl)-1,1,1-trifluoromethanesulfonamide;N-(4-(2-(2-tert-butylpyridin-4-yl)thiazol-4-yl)-3-chlorophenyl)-1,1,1-trifluoromethanesulfonamide;N-(3-chloro-4-(2-(1,2-dimethyl-1H-pyrrolo[2,3-b]pyridin-4-yl)thiazol-4-yl)phenyl)-1,1,1-trifluoromethanesulfonamide;N-(3-chloro-4-(2-(1-propyl-1H-pyrrolo[2,3-b]pyridin-4-yl)thiazol-4-yl)phenyl)-1,1,1-trifluoromethanesulfonamide;N-(3-chloro-4-(2-(2,3-dimethyl-3H-imidazo[4,5-b]pyridin-7-yl)thiazol-4-yl)phenyl)-1,1,1-trifluoromethanesulfonamide;N-(3-chloro-4-(2-(3-propyl-3H-imidazo[4,5-b]pyridin-7-yl)thiazol-4-yl)phenyl)-1,1,1-trifluoromethanesulfonamide;N-(4-(2-(3H-imidazo[4,5-b]pyridin-7-yl)thiazol-4-yl)-3-chlorophenyl)-1,1,1-trifluoromethanesulfonamide;N-(3-chloro-4-(2-(1,2-dipropyl-1H-pyrrolo[2,3-b]pyridin-4-yl)thiazol-4-yl)phenyl)-1,1,1-trifluoromethanesulfonamide;N-(4-(2-(6-(butylamino)-2-isobutylpyrimidin-4-yl)thiazol-4-yl)-3-chlorophenyl)-1,1,1-trifluoromethanesulfonamide;N-(3-chloro-4-(2-(6-(dibutylamino)-2-isobutylpyrimidin-4-yl)thiazol-4-yl)phenyl)-1,1,1-trifluoromethanesulfonamide;N-(4-(2-(6-amino-2-isobutylpyrimidin-4-yl)thiazol-4-yl)-3-chlorophenyl)-1,1,1-trifluoromethanesulfonamide;N-(4-(2-(2-aminopyrimidin-4-yl)thiazol-4-yl)-3-chlorophenyl)-1,1,1-trifluoromethanesulfonamide;N-(3-chloro-4-(2-(2-(propylamino)pyrimidin-4-yl)thiazol-4-yl)phenyl)-1,1,1-trifluoromethanesulfonamide;N-(3-chloro-4-(2-(2-(dibutylamino)pyrimidin-4-yl)thiazol-4-yl)phenyl)-1,1,1-trifluoromethanesulfonamide;N-(3-chloro-4-(2'-propyl-2,4'-bithiazol-4-yl)phenyl)-1,1,1-trifluoromethanesulfonamide;N-(3-chloro-4-(2-(5-propyl-1,2,4-thiadiazol-3-yl)thiazol-4-yl)phenyl)-1,1,1-trifluoromethanesulfonamide;N-(3-chloro-4-(2-(5-propyl-1,2,4-oxadiazol-3-yl)thiazol-4-yl)phenyl)-1,1,1-trifluoromethanesulfonamide;N-(3-chloro-4-(2'-propyl-2,5'-bithiazol-4-yl)phenyl)-1,1,1-trifluoromethanesulfonamide;N-(3-chloro-4-(2-(5-propyl-1,3,4-thiadiazol-2-yl)thiazol-4-yl)phenyl)-1,1,1-trifluoromethanesulfonamide;N-(3-chloro-4-(2-(5-propyl-1,3,4-oxadiazol-2-yl)thiazol-4-yl)phenyl)-1,1,1-trifluoromethanesulfonamide;N-(3-chloro-4-(2-(1-isobutyl-6-oxo-1,6-dihydropyridin-3-yl)thiazol-4-yl)phenyl)-1,1,1-trifluoromethanesulfonamide;N-(3-chloro-4-(2-(4-fluoro-3-isobutylphenyl)thiazol-4-yl)phenyl)-1,1,1-trifluoromethanesulfonamide;N-(2-bromo-3-chloro-4-(2-(2-isobutylpyridin-4-yl)thiazol-4-yl)phenyl)-1,1,1-trifluoromethanesulfonamide;N-(3,5-dichloro-4-(2-(2-isobutylpyridin-4-yl)thiazol-4-yl)phenyl)-1,1,1-trifluoromethanesulfonamide;1,1,1-trifluoro-N-(4-(2-(2-isobutylpyridin-4-yl)thiazol-4-yl)-2-(trifluoromethyl) phenyl)methanesulfonamide;N-(2-cyclopropyl-4-(2-(2-isobutylpyridin-4-yl)thiazol-4-yl)phenyl)-1,1,1-trifluoromethanesulfonamide;1,1,1-trifluoro-N-(4-(2-(2-isobutylpyridin-4-yl)thiazol-4-yl)-2-methylphenyl) methanesulfonamide;1,1,1-trifluoro-N-(4-(2-(2-isobutylpyridin-4-yl)thiazol-4-yl)-2-isopropylphenyl) methanesulfonamide;N-(2-ethynyl-4-(2-(2-isobutylpyridin-4-yl)thiazol-4-yl)phenyl)-1,1,1-trifluoromethanesulfonamide;N-(2-bromo-3-ethynyl-4-(2-(2-isobutylpyridin-4-yl)thiazol-4-yl)phenyl)-1,1,1-trifluoromethanesulfonamide;N-(2-bromo-6-chloro-4-(2-(2-isobutylpyridin-4-yl)thiazol-4-yl)phenyl)-1,1,1-trifluoromethanesulfonamide;N-(2-chloro-4-(2-(2-isobutylpyridin-4-yl)thiazol-4-yl)-6-methylphenyl)-1,1,1-trifluoromethanesulfonamide;N-(4-(4-(2-tert-butylpyridin-4-yl)-1-methyl-1H-imidazol-2-yl)-3-chlorophenyl)-1,1,1-trifluoromethanesulfonamide;N-(3-chloro-4-(2-(2-isobutylpyridin-4-yl)thiazol-4-yl)phenyl)-1,1,1-trifluoromethanesulfonamide;N-(2-bromo-4-(1-methyl-2-(2-propylpyridin-4-yl)-1H-imidazol-4-yl)phenyl)-1,1,1-trifluoromethanesulfonamide;N-(2-bromo-3-chloro-4-(2-(2-propylpyridin-4-yl)-1H-imidazol-4-yl)phenyl)-1,1,1-trifluoromethanesulfonamide;N-(2-bromo-5-chloro-4-(1-methyl-2-(2-propylpyridin-4-yl)-1H-imidazol-4-yl) phenyl)-1,1,1-trifluoromethanesulfonamide;N-(4-(4-(2-tert-butylpyridin-4-yl)oxazol-2-yl)-3-chlorophenyl)-1,1,1-trifluoromethanesulfonamide;N-(4-(2-(2-tert-butylpyridin-4-yl)oxazol-4-yl)-3-chlorophenyl)-1,1,1-trifluoromethanesulfonamide;N-(3-chloro-4-(2-(2-(dimethylamino)pyridin-4-yl)thiazol-4-yl)phenyl)-1,1,1-trifluoromethanesulfonamide;N-(3-chloro-4-(2-(2-propylpyridin-4-yl)thiazol-4-yl)phenyl)-N-(trifluoromethylsulfonyl) acrylamide;N-(3-chloro-4-(2-(2-(methylsulfonamido)pyridin-4-yl)thiazol-4-yl)phenyl)-1,1,1-trifluoromethanesulfonamide;N-(3-chloro-4-(2-(2-(3,3,3-trifluoropropyl)pyridin-4-yl)thiazol-4-yl)phenyl)-1,1,1-trifluoromethanesulfonamide;1,1,1-trifluoro-N-(2-hydroxy-4-(2-(2-isobutylpyridin-4-yl)thiazol-4-yl) phenyl)methanesulfonamide;1,1,1-trifluoro-N-(2-hydroxy-4-(2-(2-propylpyridin-4-yl)thiazol-4-yl) phenyl)methanesulfonamide;N-(4-(2-(2-tert-butylpyridin-4-yl)thiazol-4-yl)-2-hydroxyphenyl)-1,1,1-trifluoromethanesulfonamide;1,1,1-trifluoro-N-(2-methoxy-4-(2-(2-propylpyridin-4-yl)thiazol-4-yl) phenyl)methanesulfonamide;1,1,1-trifluoro-N-(4-(2-(2-isobutylpyridin-4-yl)thiazol-4-yl)-2-methoxyphenyl) methanesulfonamide;N-(4-(2-(2-tert-butylpyridin-4-yl)thiazol-4-yl)-2-methoxyphenyl)-1,1,1-trifluoromethanesulfonamide;1,1,1-trifluoro-N-(4-(2-(2-isobutylpyridin-4-yl)thiazol-4-yl)-3-(trifluoromethyl) phenyl)methanesulfonamide;N-(3-chloro-4-(2-(2-neopentylpyridin-4-yl)thiazol-4-yl)phenyl)-1,1,1-trifluoromethanesulfonamide;6-(2-(2-isobutylpyridin-4-yl)thiazol-4-yl)-3-(trifluoromethylsulfonyl)benzo[d]oxazol-2(3H)-one;N-(3-chloro-4-(2-(2-isobutylpyridin-4-yl)thiazol-4-yl)phenyl)-1,1,2,2,2-pentafluoroethanesulfonamide;1,1,1-trifluoro-N-(2-methoxy-4-{2-[2-(2-methylpropyl)pyridin-4-yl]-1,3-thiazol-4-yl}phenyl) methanesulfonamide;1,1,1-trifluoro-N-{2-methoxy-4-[2-(2-propylpyridin-4-yl)-1,3-thiazol-4-yl]phenyl}methanesulfonamide;N-{4-[2-(2-tert-butylpyridin-4-yl)-1,3-thiazol-4-yl]-2-methoxyphenyl}-1,1,1-trifluoromethanesulfonamide;N-{4-[2-(2-benzylpyridin-4-yl)-1,3-thiazol-4-yl]-3-chlorophenyl}-1,1,1-trifluoromethanesulfonamide;N-{4-[2-(2-aminopyridin-4-yl)-1,3-thiazol-4-yl]-3-chlorophenyl}-1,1,1,-trifluoromethanesulfonamide;N-{3-chloro-4-[2-(2-methanesulfonamidopyridin-4-yl)-1,3-thiazol-4-yl]phenyl}-1,1,1-trifluoromethanesulfonamide;1,1,1-trifluoro-N-{2-hydroxy-4-[2-(2-propylpyridin-4-yl)-1,3-thiazol-4-yl]phenyl}methanesulfonamide;N-(3-chloro-4-{2-[2-(3,3,3-trifluoropropyl)pyridin-4-yl]-1,3-thiazol-4-yl}phenyl)-1,1,1-trifluoromethanesulfonamide;N-(4-{2-[2-(2,2-dimethylpropyl)pyridin-4-yl]-1,3-thiazol-4-yl}-2-methoxyphenyl)-1,1,1-trifluoromethanesulfonamide;N-{3-chloro-4-[2-(2-trifluoromethanesulfonamidopyridin-4-yl)-1,3-thiazol-4-yl]phenyl}-1,1,1-trifluoromethanesulfonamide;N-(3-chloro-4-(2-(4-(piperidine-1-carbonyl)phenyl)thiazol-4-yl)phenyl)-1,1,1-trifluoromethanesulfonamide;N-(3-chloro-4-{2-[1-(3-methylbutyl)-1H-pyrazol-5-yl]-1,3-thiazol-4-yl}phenyl)-1,1,1-trifluoromethanesulfonamide;N-{4-[5-(2-tert-butylpyridin-4-yl)thiophen-3-yl]-3-chlorophenyl}methanesulfonamide;N-(3-chloro-4-{2-[2-(cyclohexylmethyl)pyridin-4-yl]-1,3-thiazol-4-yl}phenyl)-1,1,1-trifluoromethanesulfonamide;N-{3-chloro-4-[2-(naphthalen-1-yl)-1,3-thiazol-4-yl]phenyl}-1,1,1-trifluoromethanesulfonamide;N-{3-chloro-4-[2-(1H-indol-6-yl)-1,3-thiazol-4-yl]phenyl}-1,1,1,-trifluoromethanesulfonamide;N-(4-{2-[3-(benzyloxy)-4-(trifluoromethyl)phenyl]-1,3-thiazol-4-yl}-3-chlorophenyl)-1,1,1-trifluoromethanesulfonamide;N-{3-chloro-4-[2-(2-phenylphenyl)-1,3-thiazol-4-yl]phenyl}-1,1,1-trifluoromethanesulfonamide;N-{3-chloro-4-[2-(isoquinolin-4-yl)-1,3-thiazol-4-yl]phenyl}-1,1,1-trifluoromethanesulfonamide;N-(3-chloro-4-{2-[2-(4-methylpiperazin-1-yl)pyridin-4-yl]-1,3-thiazol-4-yl}phenyl)-1,1,1-trifluoromethanesulfonamide;N-{3-chloro-4-[2-(dimethyl-1,2-oxazol-4-yl)-1,3-thiazol-4-yl]phenyl}-1,1,1,-trifluoromethanesulfonamide;N-{3-[4-(2-chloro-4-trifluoromethanesulfonamidophenyl)-1,3-thiazol-2-yl]phenyl}-4-methylbenzene-1-sulfonamide;N-{3-chloro-4-[2-(3,4-dimethoxyphenyl)-1,3-thiazol-4-yl]phenyl}-1,1,1-trifluoromethanesulfonamide;N-{3-chloro-4-[2-(1H-indol-4-yl)-1,3-thiazol-4-yl]phenyl}-1,1,1-trifluoromethanesulfonamide;N-(3-chloro-4-{2-[4-fluoro-2-(trifluoromethyl)phenyl]-1,3-thiazol-4-yl}phenyl)-1,1,1-trifluoromethanesulfonamide;N-{3-chloro-4-[2-(2,3-dihydro-1-benzofuran-5-yl)-1,3-thiazol-4-yl]phenyl}-1,1,1,-trifluoromethanesulfonamide;N-(3-chloro-4-{2-[3-(hydroxymethyl)phenyl]-1,3-thiazol-4-yl}phenyl)-1,1,1-trifluoromethanesulfonamide;N-(3-chloro-4-{2-[2-(hydroxymethyl)phenyl]-1,3-thiazol-4-yl}phenyl)-1,1,1-trifluoromethanesulfonamide;N-(3-chloro-4-{2-[2-(piperidin-1-yl)pyridin-4-yl]-1,3-thiazol-4-yl}phenyl)-1,1,1-trifluoromethanesulfonamide;N-{3-chloro-4-[2-(3-methylpyridin-4-yl)-1,3-thiazol-4-yl]phenyl}-1,1,1-trifluoromethanesulfonamide;N-[3-chloro-4-(2-{1H-pyrrolo[2,3-b]pyridin-4-yl}-1,3-thiazol-4-yl)phenyl]-1,1,1-trifluoromethanesulfonamide;N-(3-chloro-4-{2-[3-(piperidin-1-yl)phenyl]-1,3-thiazol-4-yl}phenyl)-1,1,1-trifluoromethanesulfonamide;N-[3-chloro-4-(2-{5-fluoro-1H-pyrrolo[2,3-b]pyridin-4-yl}-1,3-thiazol-4-yl)phenyl]-1,1,1-trifluoromethanesulfonamide;N-{4-[2-(1-benzothiophen-3-yl)-1,3-thiazol-4-yl]-3-chlorophenyl}-1,1,1-trifluoromethanesulfonamide;N-(3-chloro-4-{2-[4-fluoro-2-(pyrrolidin-1-ylmethyl)phenyl]-1,3-thiazol-4-yl}phenyl)-1,1,1-trifluoromethanesulfonamide;N-(3-chloro-4-{2-[2-(cyclopentylamino)pyridin-4-yl]-1,3-thiazol-4-yl}phenyl)-1,1,1-trifluoromethanesulfonamide;N-{3-chloro-4-[2-(1H-indol-3-yl)-1,3-thiazol-4-yl]phenyl}-1,1,1-trifluoromethanesulfonamide;N-(3-chloro-4-(2-(quinolin-4-yl)thiazol-4-yl)phenyl)-1,1,1-trifluoromethanesulfonamide;N-(3-chloro-4-(2-(2-chloropyridin-4-yl)thiazol-4-yl)phenyl)-1,1,1-trifluoromethanesulfonamide;N-(2-bromo-4-(2-(2-tert-butylpyridin-4-yl)thiazol-4-yl)-3-chlorophenyl)-1,1,1-trifluoromethanesulfonamide;N-(2-bromo-4-(2-(2-propylpyridin-4-yl)-1H-imidazol-4-yl)phenyl)-1,1,1-trifluoromethanesulfonamide;N-(2-bromo-4-(2-(2-tert-butylpyridin-4-yl)thiazol-4-yl)-3-chlorophenyl)-1,1,1-trifluoro-N-(2-hydroxyethyl)methanesulfonamide;N-(4-(2-(2-tert-butylpyridin-4-yl)thiazol-4-yl)-3-chlorophenyl)-1,1,1-trifluoro-N-(2-(2-oxopyrrolidin-1-yl)ethyl)methanesulfonamide;N-(4-(2-(2-tert-butylpyridin-4-yl)thiazol-4-yl)-3-chlorophenyl)-1,1,1-trifluoro-N-(2-(2-oxooxazolidin-3-yl)ethyl)methanesulfonamide;N-(4-(2-(2-tert-butylpyridin-4-yl)thiazol-4-yl)-3-chlorophenyl)-1,1,1-trifluoro-N-(2-(2-oxoimidazolidin-1-yl)ethyl)methanesulfonamide;N-(2-bromo-4-(2-(2-(piperidin-1-yl)pyridin-4-yl)-1H-imidazol-4-yl)phenyl)-1,1,1-trifluoromethanesulfonamide;2-(N-(4-(2-(2-tert-butylpyridin-4-yl)thiazol-4-yl)-3-chlorophenyl)-1,1,1-trifluoromethylsulfonamido) ethyl acetate;(2-(N-(4-(2-(2-tert-butylpyridin-4-yl)thiazol-4-yl)-3-chlorophenyl)-1,1,1-trifluoromethylsulfonamido) ethoxy)methyl acetate;N-{4-[2-(2-tert-butylpyridin-4-yl)-1,3-thiazol-4-yl]-3-chlorophenyl}-N-(2-{[4-(3-chlorophenyl)-2-oxo-1,3,2λ5-dioxaphosphinan-2-yl]oxy}ethyl)-1,1,1-trifluoromethanesulfonamide;(N-(4-(2-(2-tert-butylpyridin-4-yl)thiazol-4-yl)-3-chlorophenyl)-1,1,1-trifluoromethylsulfonamido) methyl acetate;N-(4-(2-(2-tert-butylpyridin-4-yl)thiazol-4-yl)-3-chlorophenyl)-1,1,1-trifluoro-N-(methoxymethyl) methanesulfonamide;N-{4-[2-(2-tert-butylpyridin-4-yl)-1,3-thiazol-4-yl]-3-chlorophenyl}-N-({[4-(3-chloro phenyl)-2-oxo-1,3,2λ5-dioxaphosphinan-2-yl]oxy}methyl)-1,1,1-trifluoromethanesulfonamide;methyl 4-(2-(2-tert-butylpyridin-4-yl)thiazol-4-yl)-3-chlorophenyl (trifluoromethylsulfonyl)carbamate;sodium (N-(4-(2-(2-tert-butylpyridin-4-yl)thiazol-4-yl)-3-chlorophenyl)-1,1,1-trifluoromethylsulfonamido) methyl phosphate;1-(N-(3-chloro-4-(2-(2-isobutylpyridin-4-yl)thiazol-4-yl)phenyl)-1,1,1-trifluoromethylsulfonamido) ethyl isobutyrate;N-(3-chloro-4-(2-(2-isobutylpyridin-4-yl)thiazol-4-yl)phenyl)-1,1,1-trifluoro-N-(2-(2-oxooxazolidin-3-yl)ethyl)methanesulfonamide;N-(4-(2-(2-tert-butylpyridin-4-yl)thiazol-4-yl)-3-chlorophenyl)-1,1,1-trifluoro-N-(2-hydroxyethyl) methanesulfonamide;N-(3-chloro-4-(2-(2-isobutylpyridin-4-yl)thiazol-4-yl)phenyl)-1,1,1-trifluoro-N-(2-(pyrrolidin-1-yl)ethyl)methanesulfonamide;N-(3-chloro-4-(2-(2-isobutylpyridin-4-yl)thiazol-4-yl)phenyl)-N-(2-(diethylamino) ethyl)-1,1,1-trifluoromethanesulfonamide;N-(3-chloro-4-(2-(2-isobutylpyridin-4-yl)thiazol-4-yl)phenyl)-N-(2-(dimethylamino) ethyl)-1,1,1-trifluoromethanesulfonamide;1,1,1-trifluoro-N-(3-fluoro-4-(2-(2-propylpyridin-4-yl)thiazol-4-yl) phenyl)methanesulfonamide;N-(3-chloro-4-(2-(2-isobutylpyridin-4-yl)-1H-imidazol-4-yl)phenyl)-1,1,1-trifluoromethanesulfonamide;N-(3-chloro-4-(2-(2-isobutylpyridin-4-yl)thiazol-4-yl)phenyl)-1,1,1-trifluoro-N-(2-hydroxyethyl) methanesulfonamide;N-(3-chloro-4-(2-(2-propylpyridin-4-yl)thiazol-4-yl)phenyl)-1,1,1-trifluoro-N-methylmethanesulfonamide;1,1,1-trifluoro-N-(3-(2-(2-isobutylpyridin-4-yl)thiazol-4-yl) phenyl)methanesulfonamide;N-(2-bromo-4-(2-(2-isobutylpyridin-4-yl)thiazol-4-yl)phenyl)-1,1,1-trifluoromethanesulfonamide;1,1,1-trifluoro-N-methyl-N-(4-(2-(2-propylpyridin-4-yl)thiazol-4-yl) phenyl)methanesulfonamide;N-(4-(2-(2-butylpyridin-4-yl)thiazol-4-yl)phenyl)-1,1,1-trifluoromethanesulfonamide 1,1,1-trifluoro-N-(4-(2-(2-(methoxymethyl)pyridin-4-yl)thiazol-4-yl) phenyl)methanesulfonamide;N-(4-(2-(4,6-dipropylpyridin-2-yl)thiazol-4-yl)phenyl)-1,1,1-trifluoromethanesulfonamide;1,1,1-trifluoro-N-(4-(2-(4-propylpyridin-2-yl)thiazol-4-yl) phenyl)methanesulfonamide;N-(4-(2-(2,6-dipropylpyridin-3-yl)thiazol-4-yl)phenyl)-1,1,1-trifluoromethanesulfonamide;N-(4-(2-(2-(cyclohexylmethyl)pyridin-4-yl)thiazol-4-yl)phenyl)-1,1,1-trifluoromethanesulfonamide;1,1,1-trifluoro-N-(4-(2-(2-isobutylpyridin-4-yl)thiazol-4-yl)-3-methoxyphenyl) methanesulfonamide;N-(3-chloro-4-(2-(2-((trifluoromethylsulfonyl)methyl)pyridin-4-yl)thiazol-4-yl) phenyl)-1,1,1-trifluoromethanesulfonamide;N-(4-(2-(1H-pyrrolo[2,3-b]pyridin-4-yl)thiazol-4-yl)-3-chlorophenyl)-1,1,1-trifluoromethanesulfonamide;N-(3-chloro-4-(2-(2-propyl-3H-imidazo[4,5-b]pyridin-7-yl)thiazol-4-yl)phenyl)-1,1,1-trifluoromethanesulfonamide;5-(4-(2-chloro-4-(trifluoromethylsulfonamido)phenyl)thiazol-2-yl)-N-cyclopropyl-2-fluorobenzamide;5-(4-(2-chloro-4-(trifluoromethylsulfonamido)phenyl)thiazol-2-yl)-N-cyclohexyl-2-fluorobenzamide;N-(4-(2-(1H-indol-4-yl)thiazol-4-yl)-3-chlorophenyl)-1,1,1-trifluoromethanesulfonamide;N-(3-chloro-4-(2-(3-(piperidin-1-yl)phenyl)thiazol-4-yl)phenyl)-1,1,1-trifluoromethanesulfonamide;N-(3-chloro-4-(2-(2-(piperidin-1-yl)pyridin-4-yl)thiazol-4-yl)phenyl)-1,1,1-trifluoromethanesulfonamide;N-(2-bromo-4-(2-(2-tert-butylpyridin-4-yl)-1H-imidazol-4-yl)phenyl)-1,1,1-trifluoromethanesulfonamide;N-(2-chloro-4-(2-(2-propylpyridin-4-yl)-1H-imidazol-4-yl)phenyl)-1,1,1-trifluoromethanesulfonamide;N-(2-bromo-5-chloro-4-(2-(2-propylpyridin-4-yl)-1H-imidazol-4-yl)phenyl)-1,1,1-trifluoromethanesulfonamide; andN-(2-bromo-4-(2-(2-propylpyridin-4-yl)thiazol-4-yl)phenyl)-1,1,1-trifluoromethanesulfonamide.
@@ -145,158 +188,158 @@ TABLE 1
 <header>
 
 </header>
- & 1
- & 2
- & 3
- & 4
- & 5
- & 6
- & 7
- & 8
- & 9
- & 10
- & 11
- & 12
- & 13
- & 14
- & 15
- & 16
- & 17
- & 18
- & 19
- & 20
- & 21
- & 22
- & 23
- & 24
- & 25
- & 26
- & 27
- & 28
- & 29
- & 30
- & 31
- & 32
- & 33
- & 34
- & 35
- & 36
- & 37
- & 38
- & 39
- & 40
- & 41
- & 42
- & 43
- & 44
- & 45
- & 46
- & 47
- & 48
- & 49
- & 50
- & 51
- & 52
- & 53
- & 54
- & 55
- & 56
- & 57
- & 58
- & 59
- & 60
- & 61
- & 62
- & 63
- & 64
- & 65
- & 66
- & 67
- & 68
- & 69
- & 70
- & 71
- & 72
- & 73
- & 74
- & 75
- & 76
- & 77
- & 78
- & 79
- & 80
- & 81
- & 82
- & 83
- & 84
- & 85
- & 86
- & 87
- & 88
- & 89
- & 90
- & 91
- & 92
- & 93
- & 94
- & 95
- & 96
- & 97
- & 98
- & 99
- & 100
- & 101
- & 102
- & 103
- & 104
- & 105
- & 106
- & 107
- & 108
- & 109
- & 110
- & 111
- & 112
- & 113
- & 114
- & 115
- & 116
- & 117
- & 118
- & 119
- & 120
- & 121
- & 122
- & 123
- & 124
- & 125
- & 126
- & 127
- & 128
- & 129
- & 130
- & 131
- & 132
- & 133
- & 134
- & 135
- & 136
- & 137
- & 138
- & 139
- & 140
- & 141
- & 142
- & 143
- & 144
- & 145
- & 146
- & 147
- & 148
- & 149
- & 150
- & 151
- & 152
+<img> id-US20180028518A1-20180201-C00062.TIF </img> & 1
+<img> id-US20180028518A1-20180201-C00063.TIF </img> & 2
+<img> id-US20180028518A1-20180201-C00064.TIF </img> & 3
+<img> id-US20180028518A1-20180201-C00065.TIF </img> & 4
+<img> id-US20180028518A1-20180201-C00066.TIF </img> & 5
+<img> id-US20180028518A1-20180201-C00067.TIF </img> & 6
+<img> id-US20180028518A1-20180201-C00068.TIF </img> & 7
+<img> id-US20180028518A1-20180201-C00069.TIF </img> & 8
+<img> id-US20180028518A1-20180201-C00070.TIF </img> & 9
+<img> id-US20180028518A1-20180201-C00071.TIF </img> & 10
+<img> id-US20180028518A1-20180201-C00072.TIF </img> & 11
+<img> id-US20180028518A1-20180201-C00073.TIF </img> & 12
+<img> id-US20180028518A1-20180201-C00074.TIF </img> & 13
+<img> id-US20180028518A1-20180201-C00075.TIF </img> & 14
+<img> id-US20180028518A1-20180201-C00076.TIF </img> & 15
+<img> id-US20180028518A1-20180201-C00077.TIF </img> & 16
+<img> id-US20180028518A1-20180201-C00078.TIF </img> & 17
+<img> id-US20180028518A1-20180201-C00079.TIF </img> & 18
+<img> id-US20180028518A1-20180201-C00080.TIF </img> & 19
+<img> id-US20180028518A1-20180201-C00081.TIF </img> & 20
+<img> id-US20180028518A1-20180201-C00082.TIF </img> & 21
+<img> id-US20180028518A1-20180201-C00083.TIF </img> & 22
+<img> id-US20180028518A1-20180201-C00084.TIF </img> & 23
+<img> id-US20180028518A1-20180201-C00085.TIF </img> & 24
+<img> id-US20180028518A1-20180201-C00086.TIF </img> & 25
+<img> id-US20180028518A1-20180201-C00087.TIF </img> & 26
+<img> id-US20180028518A1-20180201-C00088.TIF </img> & 27
+<img> id-US20180028518A1-20180201-C00089.TIF </img> & 28
+<img> id-US20180028518A1-20180201-C00090.TIF </img> & 29
+<img> id-US20180028518A1-20180201-C00091.TIF </img> & 30
+<img> id-US20180028518A1-20180201-C00092.TIF </img> & 31
+<img> id-US20180028518A1-20180201-C00093.TIF </img> & 32
+<img> id-US20180028518A1-20180201-C00094.TIF </img> & 33
+<img> id-US20180028518A1-20180201-C00095.TIF </img> & 34
+<img> id-US20180028518A1-20180201-C00096.TIF </img> & 35
+<img> id-US20180028518A1-20180201-C00097.TIF </img> & 36
+<img> id-US20180028518A1-20180201-C00098.TIF </img> & 37
+<img> id-US20180028518A1-20180201-C00099.TIF </img> & 38
+<img> id-US20180028518A1-20180201-C00100.TIF </img> & 39
+<img> id-US20180028518A1-20180201-C00101.TIF </img> & 40
+<img> id-US20180028518A1-20180201-C00102.TIF </img> & 41
+<img> id-US20180028518A1-20180201-C00103.TIF </img> & 42
+<img> id-US20180028518A1-20180201-C00104.TIF </img> & 43
+<img> id-US20180028518A1-20180201-C00105.TIF </img> & 44
+<img> id-US20180028518A1-20180201-C00106.TIF </img> & 45
+<img> id-US20180028518A1-20180201-C00107.TIF </img> & 46
+<img> id-US20180028518A1-20180201-C00108.TIF </img> & 47
+<img> id-US20180028518A1-20180201-C00109.TIF </img> & 48
+<img> id-US20180028518A1-20180201-C00110.TIF </img> & 49
+<img> id-US20180028518A1-20180201-C00111.TIF </img> & 50
+<img> id-US20180028518A1-20180201-C00112.TIF </img> & 51
+<img> id-US20180028518A1-20180201-C00113.TIF </img> & 52
+<img> id-US20180028518A1-20180201-C00114.TIF </img> & 53
+<img> id-US20180028518A1-20180201-C00115.TIF </img> & 54
+<img> id-US20180028518A1-20180201-C00116.TIF </img> & 55
+<img> id-US20180028518A1-20180201-C00117.TIF </img> & 56
+<img> id-US20180028518A1-20180201-C00118.TIF </img> & 57
+<img> id-US20180028518A1-20180201-C00119.TIF </img> & 58
+<img> id-US20180028518A1-20180201-C00120.TIF </img> & 59
+<img> id-US20180028518A1-20180201-C00121.TIF </img> & 60
+<img> id-US20180028518A1-20180201-C00122.TIF </img> & 61
+<img> id-US20180028518A1-20180201-C00123.TIF </img> & 62
+<img> id-US20180028518A1-20180201-C00124.TIF </img> & 63
+<img> id-US20180028518A1-20180201-C00125.TIF </img> & 64
+<img> id-US20180028518A1-20180201-C00126.TIF </img> & 65
+<img> id-US20180028518A1-20180201-C00127.TIF </img> & 66
+<img> id-US20180028518A1-20180201-C00128.TIF </img> & 67
+<img> id-US20180028518A1-20180201-C00129.TIF </img> & 68
+<img> id-US20180028518A1-20180201-C00130.TIF </img> & 69
+<img> id-US20180028518A1-20180201-C00131.TIF </img> & 70
+<img> id-US20180028518A1-20180201-C00132.TIF </img> & 71
+<img> id-US20180028518A1-20180201-C00133.TIF </img> & 72
+<img> id-US20180028518A1-20180201-C00134.TIF </img> & 73
+<img> id-US20180028518A1-20180201-C00135.TIF </img> & 74
+<img> id-US20180028518A1-20180201-C00136.TIF </img> & 75
+<img> id-US20180028518A1-20180201-C00137.TIF </img> & 76
+<img> id-US20180028518A1-20180201-C00138.TIF </img> & 77
+<img> id-US20180028518A1-20180201-C00139.TIF </img> & 78
+<img> id-US20180028518A1-20180201-C00140.TIF </img> & 79
+<img> id-US20180028518A1-20180201-C00141.TIF </img> & 80
+<img> id-US20180028518A1-20180201-C00142.TIF </img> & 81
+<img> id-US20180028518A1-20180201-C00143.TIF </img> & 82
+<img> id-US20180028518A1-20180201-C00144.TIF </img> & 83
+<img> id-US20180028518A1-20180201-C00145.TIF </img> & 84
+<img> id-US20180028518A1-20180201-C00146.TIF </img> & 85
+<img> id-US20180028518A1-20180201-C00147.TIF </img> & 86
+<img> id-US20180028518A1-20180201-C00148.TIF </img> & 87
+<img> id-US20180028518A1-20180201-C00149.TIF </img> & 88
+<img> id-US20180028518A1-20180201-C00150.TIF </img> & 89
+<img> id-US20180028518A1-20180201-C00151.TIF </img> & 90
+<img> id-US20180028518A1-20180201-C00152.TIF </img> & 91
+<img> id-US20180028518A1-20180201-C00153.TIF </img> & 92
+<img> id-US20180028518A1-20180201-C00154.TIF </img> & 93
+<img> id-US20180028518A1-20180201-C00155.TIF </img> & 94
+<img> id-US20180028518A1-20180201-C00156.TIF </img> & 95
+<img> id-US20180028518A1-20180201-C00157.TIF </img> & 96
+<img> id-US20180028518A1-20180201-C00158.TIF </img> & 97
+<img> id-US20180028518A1-20180201-C00159.TIF </img> & 98
+<img> id-US20180028518A1-20180201-C00160.TIF </img> & 99
+<img> id-US20180028518A1-20180201-C00161.TIF </img> & 100
+<img> id-US20180028518A1-20180201-C00162.TIF </img> & 101
+<img> id-US20180028518A1-20180201-C00163.TIF </img> & 102
+<img> id-US20180028518A1-20180201-C00164.TIF </img> & 103
+<img> id-US20180028518A1-20180201-C00165.TIF </img> & 104
+<img> id-US20180028518A1-20180201-C00166.TIF </img> & 105
+<img> id-US20180028518A1-20180201-C00167.TIF </img> & 106
+<img> id-US20180028518A1-20180201-C00168.TIF </img> & 107
+<img> id-US20180028518A1-20180201-C00169.TIF </img> & 108
+<img> id-US20180028518A1-20180201-C00170.TIF </img> & 109
+<img> id-US20180028518A1-20180201-C00171.TIF </img> & 110
+<img> id-US20180028518A1-20180201-C00172.TIF </img> & 111
+<img> id-US20180028518A1-20180201-C00173.TIF </img> & 112
+<img> id-US20180028518A1-20180201-C00174.TIF </img> & 113
+<img> id-US20180028518A1-20180201-C00175.TIF </img> & 114
+<img> id-US20180028518A1-20180201-C00176.TIF </img> & 115
+<img> id-US20180028518A1-20180201-C00177.TIF </img> & 116
+<img> id-US20180028518A1-20180201-C00178.TIF </img> & 117
+<img> id-US20180028518A1-20180201-C00179.TIF </img> & 118
+<img> id-US20180028518A1-20180201-C00180.TIF </img> & 119
+<img> id-US20180028518A1-20180201-C00181.TIF </img> & 120
+<img> id-US20180028518A1-20180201-C00182.TIF </img> & 121
+<img> id-US20180028518A1-20180201-C00183.TIF </img> & 122
+<img> id-US20180028518A1-20180201-C00184.TIF </img> & 123
+<img> id-US20180028518A1-20180201-C00185.TIF </img> & 124
+<img> id-US20180028518A1-20180201-C00186.TIF </img> & 125
+<img> id-US20180028518A1-20180201-C00187.TIF </img> & 126
+<img> id-US20180028518A1-20180201-C00188.TIF </img> & 127
+<img> id-US20180028518A1-20180201-C00189.TIF </img> & 128
+<img> id-US20180028518A1-20180201-C00190.TIF </img> & 129
+<img> id-US20180028518A1-20180201-C00191.TIF </img> & 130
+<img> id-US20180028518A1-20180201-C00192.TIF </img> & 131
+<img> id-US20180028518A1-20180201-C00193.TIF </img> & 132
+<img> id-US20180028518A1-20180201-C00194.TIF </img> & 133
+<img> id-US20180028518A1-20180201-C00195.TIF </img> & 134
+<img> id-US20180028518A1-20180201-C00196.TIF </img> & 135
+<img> id-US20180028518A1-20180201-C00197.TIF </img> & 136
+<img> id-US20180028518A1-20180201-C00198.TIF </img> & 137
+<img> id-US20180028518A1-20180201-C00199.TIF </img> & 138
+<img> id-US20180028518A1-20180201-C00200.TIF </img> & 139
+<img> id-US20180028518A1-20180201-C00201.TIF </img> & 140
+<img> id-US20180028518A1-20180201-C00202.TIF </img> & 141
+<img> id-US20180028518A1-20180201-C00203.TIF </img> & 142
+<img> id-US20180028518A1-20180201-C00204.TIF </img> & 143
+<img> id-US20180028518A1-20180201-C00205.TIF </img> & 144
+<img> id-US20180028518A1-20180201-C00206.TIF </img> & 145
+<img> id-US20180028518A1-20180201-C00207.TIF </img> & 146
+<img> id-US20180028518A1-20180201-C00208.TIF </img> & 147
+<img> id-US20180028518A1-20180201-C00209.TIF </img> & 148
+<img> id-US20180028518A1-20180201-C00210.TIF </img> & 149
+<img> id-US20180028518A1-20180201-C00211.TIF </img> & 150
+<img> id-US20180028518A1-20180201-C00212.TIF </img> & 151
+<img> id-US20180028518A1-20180201-C00213.TIF </img> & 152
 </table>
 In some embodiments, the compound is 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, or 152.
 In some embodiments, the compound is 1, 2, 3, 4, 5, 37, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, or 94.
@@ -306,8 +349,10 @@ In one embodiment, the compound is a pharmaceutically acceptable salt of a compo
 In some embodiments, certain compounds presented herein are considered to be “prodrug” forms of other compounds herein. Prodrugs are precursor derivatives that, upon administration to a patient, undergo metabolism in-vivo such as, for example, hydrolysis to release the active form of the compound-the ‘parent’ compound. The prodrug form itself is either inactive or less active than the parent. Prodrugs are designed to improve bioavailability or to improve selective administration to particular organs, such as the liver [see, for example, Erion, et al. PNAS (2007) 104:39, pp 15490-15495; Erion, et al. J. Pharmacol. Exp. Ther. (2005) 312:2, pp 554-560; Meyer, et al. Patent Publication US 2006-0281695A1]. Compounds provided herein such as, for example, compound nos. 106-111 can be considered prodrug forms of the ‘parent’ compound no. 5. In some embodiments, prodrug forms of compounds presented herein are provided. Conventional procedures for the selection and preparation of suitable prodrug derivatives are described, for example, in “Design of Prodrugs”, ” ed. H. Bundgaard, Elsevier, 1985; Beaumont; K. et al. Curr. Drug Metab. (2003) 4, pp 461-485; Mizen, L, et al. Pharm. Biotechnol. (1998) 11, pp 345-365. In addition to prodrugs, this disclosure provides the salts, esters, amides, and other protected or derivatized forms of the described compounds.
 As has been described above, the inherent pKa(s) of molecules can be assessed by potentiometric methods known to the skilled artisan, typically UV spectrophotometry [see, for example, Julémont, et al. J. Med. Chem. (2002), 45, pp 5182-5185]. In-silico methods can be used as a predictive tool, and software is commercially available from, for example, ACD/Labs, Molecular Discovery, ChemAxon, and other vendors. Without being bound by theory, it is presented that compounds provided herein possess unexpected physicochemical properties presumed to arise from the presence of the trifluoromethylsulfonamide moiety and its effect on the acidity of the remaining structure of the provided compounds as a whole. The compounds provided herein contain several ionizable centers including, for example, the trifluoromethylsulfonamide nitrogen atom; the thiazole ring nitrogen atom; the “ring A” pyridine nitrogen atom, etc.
 As one example to describe the theory, compound #37 could exist in the following forms:
+<img> id-US20180028518A1-20180201-C00214.TIF </img>
 Other ionized forms are conceivable, but those presented here are a protonated form; a neutral or internal zwitterionic form; and an anionic form. Which form would exist is dependent upon the pH of the aqueous or physiological solution in which the compound is placed. Calculated pKa values of compound #37 [provided by I-Lab 2.0 (ACD/Labs, Inc.)] give two values of 3.4 and 5.4. These values are similar to those experimentally obtained under potentiometric and spectrophotometric methods [courtesy of Pion, Inc.], found to be 3.09 and 5.27. When the CF3 group is replaced by a CH3 group, the calculated pKa values become 5.1 and 7.5-both notably higher. It is postulated that the more electronegative nature of the CF3 group results in a more highly acidic nature of the compound. Based on the calculated/measured pKa values of the trifluoromethylsulfonamide containing compounds claimed herein, it is likely that at a pH of 6-8, these compounds will predominantly exist in the anionic form, with the above equilibrium lying to the right at higher pH values. The anionic form renders the compound more aqueous soluble and therefore better absorbed. A solubility study [courtesy of Pion, Inc.] showed average solubilities of 13 μg/mL @ pH 6.0, 104 μg/mL @ pH 7.0, and >130 μg/mL @ pH 8.0. When a compound is dosed orally, most of the absorption occurs in the intestines where the pH ranges from 6-8. Therefore it is likely that the trifluoromethylsulfonamide containing compounds claimed herein will have significantly better solubility and absorption when dose orally relative to the methylsulfonamides which the anionic form would be present to a significantly lower extent at pH 6-8, compared to its neutral/zwitterionic form).
 Examples of perhaloalkylsulfonamide groups are presented hereinabove. In some embodiments, also provided are compounds bearing perhaloalkenylsulfonamide groups, perhaloalkynylsulfonamide groups, or alkylsulfonamide groups bearing 1 or more halogen atoms. Such compounds can include, for example, the following:
+<img> id-US20180028518A1-20180201-C00215.TIF </img>
 Without being bound by theory, it is expected that each of these particular groups, and variations therein, has varying degrees of electronegativity, affording subtle changes in pKa, and allowing a tuning of the acidity of the disclosed compounds, where required by the skilled artisan.
 Pharmaceutically Acceptable Salts
 “Pharmaceutically acceptable salts” are those salts which retain at least some of the biological activity of the free (non-salt) compound and which can be administered as drugs or pharmaceuticals to an individual. Such salts, for example, include: (1) acid addition salts, formed with inorganic acids such as hydrochloric acid, hydrobromic acid, sulfuric acid, nitric acid, phosphoric acid, and the like; or formed with organic acids such as acetic acid, oxalic acid, propionic acid, succinic acid, maleic acid, tartaric acid and the like; (2) salts formed when an acidic proton present in the parent compound either is replaced by a metal ion, e.g., an alkali metal ion, an alkaline earth metal ion, or an aluminum ion; or coordinates with an organic base. Acceptable organic bases include ethanolamine, diethanolamine, triethanolamine and the like. Acceptable inorganic bases include aluminum hydroxide, calcium hydroxide, potassium hydroxide, sodium carbonate, sodium hydroxide, and the like. Further examples of pharmaceutically acceptable salts include those listed in Berge et al., Pharmaceutical Salts, J. Pharm. Sci. 1977 Jan; 66(1):1-19. Pharmaceutically acceptable salts can be prepared in situ in the manufacturing process, or by separately reacting a purified compound disclosed herein in its free acid or base form with a suitable organic or inorganic base or acid, respectively, and isolating the salt thus formed during subsequent purification. In one embodiment, a pharmaceutically acceptable salt includes the solvent addition forms or crystal forms thereof, particularly solvates or polymorphs. Solvates contain either stoichiometric or non-stoichiometric amounts of a solvent, and are often formed during the process of crystallization. Hydrates are formed when the solvent is water, or alcoholates are formed when the solvent is alcohol. Polymorphs include the different crystal packing arrangements of the same elemental composition of a compound. Polymorphs usually have different X-ray diffraction patterns, infrared spectra, melting points, density, hardness, crystal shape, optical and electrical properties, stability, and solubility. Various factors such as the recrystallization solvent, rate of crystallization, and storage temperature may cause a single crystal form to dominate.
@@ -369,6 +414,7 @@ The following abbreviations are used herein: thin layer chromatography (TLC); ho
 The following General Synthetic Schemes and Examples are provided to illustrate and not to be limiting. Those skilled in the art will be familiar with many of the reaction steps described. Particular publications are presented to assist with certain steps of the synthetic route.
 General Synthetic Scheme 1
 General Synthetic Scheme 1 provides methods to prepare compounds with a thiazole or imidazole B-ring as presented herein. Substituents R1-R6 are as exemplified in the Examples below. Syntheses of tricyclic substituted thiazoles, oxazoles and imidazoles, such as those presented herein, will be familiar to those skilled in the art. An example to illustrate a synthesis of a substituted thiazole is presented below. Complete details for syntheses of the compounds presented herein are provided in the Examples.
+<img> id-US20180028518A1-20180201-C00216.TIF </img>
 General procedure: The corresponding substituted pyridine-4-carbothioamide or isonicotinamide and the corresponding substituted 2-bromoacetylbenzene are dissolved in EtOH. The resultant reaction mixture is stirred at between RT and 70° C. for between 30 min and 2 h. The progress of the reaction is monitored by TLC and LCMS. The reaction mixture is cooled to RT, basified with aq. sodium bicarbonate solution and the mixture extracted with EtOAc. The organic layer is dried over sodium sulfate and concentrated to obtain the crude product, which is purified by silica gel (100-200 mesh) column chromatography/by HPLC to obtain the desired product.
 EXAMPLES
 Example 1
@@ -530,6 +576,7 @@ Example 36
 Preparation of Compound No. 37
 N-(4-(2-Bromoacetyl)-3-chlorophenyl)-1,1,1-trifluoromethanesulfonamide (50 mg, 0.132 mmol) and 2-isobutylpyridine-4-carbothioamide (25.34 mg, 0.132 mmol) were charged in EtOH (10 mL) and the reaction mixture was heated at 80° C. for 1 h. The reaction mixture was concentrated and purified through reverse phase HPLC. (Yield: 17 mg TFA salt). 1H NMR (TFA salt, CD3OD) δ (ppm): 8.73 (d, J=5.9 Hz, 1H), 8.38 (d, J=2.9 Hz, 1H), 8.31 (d, J=6.2 Hz, 1H), 8.07 (d, J=8.5 Hz, 1H), 7.49 (s, 1H), 7.39 (d, J=8.2 Hz, 1H), 2.94 (d, J=7.3 Hz, 2H), 2.19 (m, 2H), 1.07 (d, J=6.6 Hz, 6H).
 Complete Synthesis of Compound No. 37
+<img> id-US20180028518A1-20180201-C00217.TIF </img>
 Step 1: Synthesis of 2-isobutylpyridine-4-carbonitrile (2)
 To a suspension of 4-cyano pyridine (1) (30 g, 0.288 mol, 1 equiv.) in water (210 mL), concentrated sulfuric acid (15.3 mL, 0.288 mol, 1 equiv.) was added dropwise maintaining the temperature at 20-25° C. After formation of a clear solution, AgNO3 (4.9 g, 0.028 mmol, 0.0001 equiv.) followed by isovaleric acid (160 mL, 1.47 mol, 5 equiv.) were added in to the reaction mixture. A white hazy solution formed. Ammonium peroxydisulfate (66 g, 0.288 mol, 1 equiv.) dissolved in water (90 mL) was then added. A black clear solution formed. The reaction mixture was then heated to reflux at 100° C. for 3 h. The reaction was monitored by TLC. After completion, the reaction mixture was basified (pH=7-8) using a saturated solution of sodium bicarbonate, and extracted with EtOAc (3×750 mL). The extracts were combined and were washed with brine (3×300 mL) and dried over anhydrous sodium sulfate. The solution was concentrated under reduced pressure and the crude product was purified by column chromatography (silica gel: #100-200) using 0-6% EtOAc in hexane as eluant to afford 2-isobutylpyridine-4-carbonitrile (2) (15 g (32.5% yield)) as a pale yellow liquid. 1H NMR (400 MHz, Chloroform-d): δ (ppm): 8.78-8.63 (m, 1H), 7.41-7.27 (m, 2H), 2.72 (d, J=7.2 Hz, 2H), 1.35-1.23 (m, 1H), 0.94 (d, J=6.6 Hz, 6H).
 Step 2: Synthesis of 2-isobutylpyridine-4-carboxamide (3)

@@ -7,6 +7,7 @@ Bioluminescent assays are used extensively in the investigation of cellular phys
 SUMMARY OF THE INVENTION
 Many known coelenterazine analogues have deficiencies, which limit their effectiveness as luciferase substrates and usefulness in luciferase-based assays. These deficiencies include cell toxicity, light sensitivity, thermodynamic instability, low aqueous solubility, and low cell permeability. For example, the signal to background ratio in assays based on pro-coelenterazines or pro-furimazines (a coelenterazine analogue) are often limited by background luminescence. With even the faintest cage group hydrolysis, the background can increase over time causing a temporary decrease in signal-to-background. Low signal-to-background windows often limit practical applications such as live-dead cell assays, cell apoptosis, bacteria, fungi or mold detections, or detection of activity of any target enzyme of interest in vitro or in cells. Accordingly, there exists a need for coelenterazine analogues with improved properties and methods for synthesizing the analogues.
 In one aspect, disclosed are compounds of formula (I),
+<img> id-US20180072781A1-20180315-C00001.TIF </img>
 or a tautomer, or a salt thereof, wherein Ar1, Ar2, and Ar3 are each independently selected from the group consisting of aryl and heteroaryl, wherein Ar1, Ar2, and Ar3 are each optionally substituted, provided that one of Ar1, Ar2, or Ar3 is substituted by -X-L2-R6; is O, S, or NRx, wherein Rx is hydrogen or C1-C6-alkyl; L1 and L2 are each independently selected from the group consisting of a bond and a linker of 1 to 50 atoms, wherein L1 and L2 are each optionally substituted; and R3 and R6 are each independently selected from an enzyme substrate group.
 Also disclosed are methods of making the compounds, kits comprising the compounds, and methods of using the compounds as luciferase substrates in luciferase-based assays.
 DETAILED DESCRIPTION
@@ -46,6 +47,7 @@ For compounds described herein, groups and substituents thereof may be selected 
 For the recitation of numeric ranges herein, each intervening number there between with the same degree of precision is explicitly contemplated. For example, for the range of 6-9, the numbers 7 and 8 are contemplated in addition to 6 and 9, and for the range 6.0-7.0, the number 6.0, 6.1, 6.2, 6.3, 6.4, 6.5, 6.6, 6.7, 6.8, 6.9, and 7.0 are explicitly contemplated.
 2. COMPOUNDS
 Disclosed are compounds of formula (I):
+<img> id-US20180072781A1-20180315-C00002.TIF </img>
 or a tautomer, or a salt thereof, wherein
 Ar1, Ar2, and Ar3 are each independently selected from the group consisting of aryl and heteroaryl, wherein Ar1, Ar2, and Ar3 are each optionally substituted, provided that one of Ar1, Ar2, or Ar3 is substituted by -X-L2-R6;X is O, S, or NRx, wherein Rx is hydrogen or C1-C6-alkyl;
 L1 and L2 are each independently selected from the group consisting of a bond and a linker of 1 to 50 atoms, wherein L1 and L2 are each optionally substituted; and
@@ -60,20 +62,28 @@ In certain embodiments, X is O. In certain embodiments, X is S. In certain embod
 In certain embodiments, L1 and L2 are each independently a bond, alkylene, or arylenealkylene; wherein one or more of the -CH2- moieties in the alkylene chain portion of alkylene or arylenealkylene are optionally replaced by C═O, C═S, NRx1, O, S, NO, SO and SO2, wherein Rx1 at each occurrence is independently selected from the group consisting of hydrogen and C1-C6-alkyl; wherein alkylene and arylenealkylene are each independently substituted by 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, or 10 substituents independently selected from the group consisting of halogen, cyano, nitro, fluoroalkyl, alkoxyfluoroalkyl, fluoroalkoxy, alkyl, alkenyl, alkynyl, haloalkyl, haloalkoxy, heteroalkyl, cycloalkyl, cycloalkenyl, aryl, heteroaryl, heterocycle, cycloalkylalkyl, heteroarylalkyl, arylalkyl, hydroxy, hydroxyalkyl, alkoxy, alkoxyalkyl, alkylene, aryloxy, phenoxy, benzyloxy, amino, alkylamino, dialkylamino, acylamino, aminoalkyl, arylamino, sulfonylamino, sulfinylamino, sulfonyl, alkylsulfonyl, arylsulfonyl, aminosulfonyl, sulfinyl, -COOH, ketone, amide, carbamate, silyl, substituted silyl, t-butyldimethylsilyl, alkylsulfanyl, sulfanyl, and acyl.
 In certain embodiments, L1 and L2 are each independently selected from the group consisting of:
 a bond;
+<img> id-US20180072781A1-20180315-C00003.TIF </img>
 wherein Rx1 at each occurrence is independently selected from the group consisting of hydrogen and C1-C6-alkyl; Ry is selected from the group consisting of hydrogen, halogen, and nitro; Rz at each occurrence is independently selected from the group consisting of hydrogen and C1-C6-alkyl; and X1 is selected from the group consisting of NRx2, O, and S, wherein Rx2 is hydrogen or C1-C6-alkyl.
 In certain embodiments, L1 and L2 are each independently selected from the group consisting of:
 a bond;
+<img> id-US20180072781A1-20180315-C00004.TIF </img>
 In certain embodiments, L1 and L2 are each a bond.
 In certain embodiments, R3 and R6 are each independently a moiety derived from a group selected from the group consisting of a peptide, an amino acid, a saccharide, and a phosphate. In certain embodiments, R3 and R6 are each independently a moiety derived from a peptide. In certain embodiments, R3 and R6 are each independently a moiety derived from an amino acid. In certain embodiments, R3 and R6 are each independently a moiety derived from a saccharide. In certain embodiments, R3 and R6 are each independently a moiety derived from a galactose, glucose, glucoronic acid, neurominic acid, or a derivative or analogue thereof. In certain embodiments, R3 and R6 are each independently a moiety derived from a phosphate group.
 In certain embodiments, R3 and R6 are each independently selected from the group consisting of:
+<img> id-US20180072781A1-20180315-C00005.TIF </img>
 wherein R20a and R20b are each independently selected from the group consisting of hydrogen, halogen, and C1-C6-alkyl optionally substituted with 1, 2, 3, or 4 -OR30 groups and optionally 1 oxo group, wherein R30 at each occurrence is independently selected from the group consisting of hydrogen, C1-C6-alkyl, and C(═O)R31, wherein R31 is C1-C6-alkyl; R21a, R21b, R22a, R22b, R23a, and R23b at each occurrence are each independently selected from the group consisting of hydrogen, halogen, OR32 and NR33R34, wherein R32-R34 at each occurrence are each independently selected from the group consisting of hydrogen, C1-C6-alkyl, and C(═O)R35, wherein R35 is hydrogen or C1-C6-alkyl; R24 at each occurrence is independently selected from the group consisting of hydrogen and C(═O)R36, wherein R36 is selected from the group consisting of hydrogen, C1-C6-alkyl, -OH, and -O-C1-C6-alkyl; R25 and R26 are each independently selected from the group consisting of hydrogen, and C1-C6-alkyl; R27 and R28 are each independently selected from the group consisting of:
+<img> id-US20180072781A1-20180315-C00006.TIF </img>
 and R29a and R29b are each independently hydrogen, or R29a and R27 together with the atoms to which they are attached can form a five-membered ring.
 In certain embodiments, R3 and R6 are each independently selected from the group consisting of:
+<img> id-US20180072781A1-20180315-C00007.TIF </img>
 In certain embodiments, the compound of formula (I) has formula:
+<img> id-US20180072781A1-20180315-C00008.TIF </img><img> id-US20180072781A1-20180315-C00009.TIF </img><img> id-US20180072781A1-20180315-C00010.TIF </img><img> id-US20180072781A1-20180315-C00011.TIF </img>
 wherein Ar1, Ar2, Ar3, X, L1, L2, R3, and R6 are as defined above.
 In certain embodiments, the compound of formula (I) has formula:
+<img> id-US20180072781A1-20180315-C00012.TIF </img><img> id-US20180072781A1-20180315-C00013.TIF </img><img> id-US20180072781A1-20180315-C00014.TIF </img><img> id-US20180072781A1-20180315-C00015.TIF </img><img> id-US20180072781A1-20180315-C00016.TIF </img><img> id-US20180072781A1-20180315-C00017.TIF </img><img> id-US20180072781A1-20180315-C00018.TIF </img><img> id-US20180072781A1-20180315-C00019.TIF </img>
 wherein Ar1, Ar2, Ar3, X, L1, L2, R3, and R6 are as defined above.
 In certain embodiments, the compound of formula (I) has formula:
+<img> id-US20180072781A1-20180315-C00020.TIF </img><img> id-US20180072781A1-20180315-C00021.TIF </img><img> id-US20180072781A1-20180315-C00022.TIF </img><img> id-US20180072781A1-20180315-C00023.TIF </img><img> id-US20180072781A1-20180315-C00024.TIF </img>
 wherein Ar1, Ar2, Ar3, X, L1, L2, R3, and R6 are as defined above.
 Representative compounds of formula (I) include, but are not limited to:(2S,3R,4S,5S,6R)-2-(4-(8-benzyl-2-(furan-2-ylmethyl)-3-((4-(((2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)tetrahydro-2H-pyran-2-yl)oxy)benzyl)oxy)imidazo[1,2-a]pyrazin-6-yl)phenoxy)-6-(hydroxymethyl)tetrahydro-2H-pyran-3,4,5-triol;4-(((8-benzyl-2-(furan-2-ylmethyl)-6-(3-(phosphonooxy)phenyl)imidazo[1,2-a]pyrazin-3-yl)oxy)methyl)phenyl dihydrogen phosphate;2-(2-aminoacetamido)-N-(3-(3-((4-(2-(2-aminoacetamido)-3-phenylpropanamido)benzyl)oxy)-8-benzyl-2-(furan-2-ylmethyl)imidazo[1,2-a]pyrazin-6-yl)phenyl)-3-phenylpropanamide;(2S,3R,4S,5S,6R)-2-(4-(8-benzyl-2-(furan-2-ylmethyl)-3-(((2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)tetrahydro-2H-pyran-2-yl)oxy)imidazo[1,2-a]pyrazin-6-yl)phenoxy)-6-(hydroxymethyl;((8-benzyl-2-(furan-2-ylmethyl)-6-(3-(phosphonooxy)phenyl)imidazo[1,2-a]pyrazin-3-yl)oxy)methyl phosphate; and
 the salts thereof, and tautomers thereof.
@@ -96,11 +106,17 @@ Basic addition salts may be prepared during the final isolation and purification
 B. Synthesis Methods
 Compounds of formula (I) can be synthesized as shown in Schemes 1-6.
 Abbreviations which have been used in the descriptions of the Schemes that follow are: Ag2O for silver oxide; ACN for acetonitrile; NaBH4 for sodium borohydride; MeOH for methanol; CBr4 for carbon tetrabromide; Ph3P for triphenylphosphine; NaOMe for sodium methoxide; DCM for dichloromethane; K2CO3 for potassium carbonate; Pd(Ph3)4 for tetrakis(triphenylphosphine)palladium(0); DMF for dimethylformamide; and DBU for 1,8-diazabicyclo[5.4.0]undec-7-ene.
+<img> id-US20180072781A1-20180315-C00025.TIF </img>
 As shown in Scheme 1, p-phenol benzaldehyde was coupled with acetobromo-α-D-glucose in the presence of Ag2O to generate p-aceto-β-D-glucose benzaldehyde in a yield of 85%. p-Aceto-β-D-glucose benzaldehyde was reduced by NaBH4 to generate the corresponding p-aceto-β-D-glucose benzyl alcohol in a yield of 88%. The benzyl alcohol was converted to aceto-(3-D-glucose benzyl bromide by reacting with CBr4 and PPh3. Furimazine (Promega Corporation) was then alkylated with aceto-β-D-glucose benzyl bromide under nitrogen and basic conditions to generate the desired O-alkylated product aceto-β-D-glucose benzyl furimazine in a yield of 57%. Aceto-β-D-glucose benzyl furimazine was further deprotected with NaOMe in DCM and MeOH to give the final mono-β-D-glucose benzyl furimazine (WZ-0246).
+<img> id-US20180072781A1-20180315-C00026.TIF </img><img> id-US20180072781A1-20180315-C00027.TIF </img>
 Scheme 2 illustrates the synthesis of bis-β-D-glucose) benzyl furimazine (WZ-0262). 4-hydroxyl benzene pinacolborate benzaldehyde was coupled with acetobromo-α-D-glucose in the presence of Ag2O to generate p-aceto-β-D-glucose benzene pinacol borate in a yield of 40%. Bromo-furimazine was alkylated with aceto-β-D-glucose benzyl bromide under nitrogen and basic conditions to generate the desired O-alkylated product aceto-β-D-glucose benzyl bromo-furimazine in a yield of 75%. Aceto-β-D-glucose benzyl bromo-furimazine was coupled with p-aceto-β-D-glucose benzene pinacol borate by Suzuki reaction to generate bis (aceto-β-D-glucose) furimazine in a yield of 55%. Bis-(aceto-β-D-glucose)-furimazine was deprotected with NaOMe in DCM and MeOH to give the final bis-β-D-glucose) benzyl furimazine (WZ-0262).
+<img> id-US20180072781A1-20180315-C00028.TIF </img><img> id-US20180072781A1-20180315-C00029.TIF </img>
 Scheme 3 illustrates the synthesis of furimazine benzyl phosphate (WZ-0263). 4-hydroxybenzaldehyde was reacted with diallyl N, N-diisopropyl phosphoramidite in DCM in the presence of 5-ethyl thiol tetrazole and further oxidized by t-BuOOH to generate p-formylbenzene diallyl phosphate in a yield of 86%. p-Formyl benzene diallyl phosphate was reduced by NaBH4 and followed by a reaction with CBr4 and PPh3 to generate p-bromomethylbenzene diallyl phosphate. Furimazine was then alkylated with bromomethyl benzene diallyl phosphate under nitrogen and basic conditions to generate the desired O-alkylated product furimazine benzyl diallyl phosphate in a yield of 75%. Furimazine benzyl diallyl phosphate was further deprotected with Pd(PPh3)4 in DCM in the presence of morpholine to give the final mono-furimazine benzyl phosphate (WZ-0263).
+<img> id-US20180072781A1-20180315-C00030.TIF </img>
 Scheme 4 illustrates the synthesis of furimazine bis-phosphate (WZ-0291). 3-Hydroxyl furimazine was alkylated with bromomethyl benzene diallyl phosphate under nitrogen and basic conditions to generate the desired O-alkylated product 3-hydroxyl furimazine benzyl diallyl phosphate in a yield of 44%. 3-hydroxyl furimazine benzyl diallyl phosphate was reacted with diallyl N, N-diisopropyl phosphoramidite in DCM in the presence of 5-ethyl thiol tetrazole and further oxidized by t-BuOOH to generate furimazine bis-diallyl phosphate. Furimazine bis-diallyl phosphate was further deprotected with Pd(PPh3)4 in DCM in the presence of morpholine under nitrogen to give the final furimazine bis-phosphate (WZ-0291).
+<img> id-US20180072781A1-20180315-C00031.TIF </img>
 Scheme 5 illustrates the synthesis of Gly-Phe-aminobenzyl furimazine (WZ-0294). Fmoc-Gly-Phe-COOH was activated with isobutyl chloroformate in the presence of N-methyl morpholine in dry THF and then reacted with 4-aminobenzyl alcohol to generate Fmoc-Gly-Phe-aminobenzyl alcohol in a yield of 59%. Fmoc-Gly-Phe-aminobenzyl alcohol was converted to Gly-Phe-aminobenzyl chloride with triphosgene. Furimazine was alkylated with Gly-Phe-aminobenzyl chloride under nitrogen and basic conditions to generate the desired O-alkylated product Fmoc-Gly-Phe-aminobenzyl furimazine. Fmoc was removed under standard DBU conditions to give the final Gly-Phe-aminobenzyl furimazine (WZ-0294).
+<img> id-US20180072781A1-20180315-C00032.TIF </img>
 Scheme 6 illustrates the synthesis of bis-Gly-Phe-aminobenzyl furimazine (WZ-0299). Bromo-furimazine was alkylated with Gly-Phe-aminobenzyl chloride under nitrogen and basic conditions to generate the desired O-alkylated product Fmoc-Gly-Phe-aminobenzyl bromo-furimazine. Fmoc-Gly-Phe-aminobenzyl bromo-furimazine was then coupled to 3-aminobenzene pinacol borate by Suzuki reaction to generate bis-Fmoc-Gly-Phe-aminobenzyl furimazine. Fmoc was removed under standard DBU conditions to give the final bis-Gly-Phe-aminobenzyl furimazine (WZ-0299).
 Optimum reaction conditions and reaction times for each individual step can vary depending on the particular reactants employed and substituents present in the reactants used. Specific procedures are provided in the Examples section. Reactions can be worked up in the conventional manner, e.g., by eliminating the solvent from the residue and further purified according to methodologies generally known in the art such as, but not limited to, crystallization, distillation, extraction, trituration, and chromatography. Unless otherwise described, the starting materials and reagents are either commercially available or can be prepared by one skilled in the art from commercially available materials using methods described in the chemical literature. Starting materials, if not commercially available, can be prepared by procedures selected from standard organic chemical techniques, techniques that are analogous to the synthesis of known, structurally similar compounds, or techniques that are analogous to the above described schemes or the procedures described in the synthetic examples section.
 Routine experimentations, including appropriate manipulation of the reaction conditions, reagents and sequence of the synthetic route, protection of any chemical functionality that cannot be compatible with the reaction conditions, and deprotection at a suitable point in the reaction sequence of the method are included in the scope of the invention. Suitable protecting groups and the methods for protecting and deprotecting different substituents using such suitable protecting groups are well known to those skilled in the art; examples of which can be found in PGM Wuts and TW Greene, in Greene's book titled Protective Groups in Organic Synthesis (4th ed.), John Wiley & Sons, NY (2006), which is incorporated herein by reference in its entirety. Synthesis of the compounds of the invention can be accomplished by methods analogous to those described in the synthetic schemes described hereinabove and in specific examples.
@@ -114,6 +130,7 @@ In certain embodiments, the compounds of formula (I) can be used for detecting l
 In certain embodiments, the compounds of formula (I) disclosed herein may be provided as part of a kit. In some embodiments, the kit may include one or more luciferases (in the form of a polypeptide, a polynucleotide, or both) and a coelenterazine analogue of formula (I), along with suitable reagents and instructions to enable a user to perform assays such as those disclosed herein. The kit may also include one or more buffers such as those disclosed herein.
 4. EXAMPLES
 Example 1. Synthesis of β-D-glucose Benzyl Furimazine (WZ-0246)
+<img> id-US20180072781A1-20180315-C00033.TIF </img>
 Synthesis of aceto-β-D-glucose Benzaldehyde.
 Hydroxybenzaldehyde (2.0 g, 16.38 mmol), acetobromo-α-D-glucose (6.73 g, 16.38 mmol), and Ag2O (7.59 g, 32.75 mmol) were suspended in 50 ml dry acetonitrile under N2. The mixture was stirred overnight at RT. After filtration, the solid was washed with THF. The solvent of filtrate was removed, and the compound was purified by silica flash chromatography using heptane/ethyl acetate as solvent to yield 6.3 g of desired product. (MS (m/e) [M+H] (C36H42N5O9S) calculated 720.8, observed 720.5. 1H NMR (300 MHz, CD2Cl2): 9.97 (s, 1H, CHO), 7.88 δ (d, 2H), 7.16 (d, 2H), 5.1-5.5 (m, 5H), 4.1-4.4 (m, 2H), 3.75-3.90 (m, 1H), 1.99-2.05 (m, 12H).
 Synthesis of aceto-β-D-glucose Benzyl Alcohol.
@@ -125,11 +142,13 @@ Synthesis of aceto-β-D-glucose Benzyl Furimazine.
 Synthesis of β-D-glucose Benzyl Furimazine (WZ-0246).
 To the solution of aceto-β-D-glucose benzyl furimazine (114 mg, 0.14 mmol) in 2 ml DCM, NaOMe (25%, 199 ul) in 10 ml MeONa was added. The mixture was stirred for 30 minutes. When LC-MS indicated the reaction was completed, 200 μl of acetic acid was added to neutralize the pH. After removing most DCM, the compound in residual solution was purified by HPLC using methanol and 10 mM NH4Ac as eluent to give the desired product in a yield of 91% (83 mg). MS (m/e) [M+H] (C37H35N3O8) calculated 649.24, observed 650.44.
 Example 2. Synthesis of β-D-glucose Furimazine (WZ-0261)
+<img> id-US20180072781A1-20180315-C00034.TIF </img>
 Synthesis of aceto-β-D-glucose Furimazine.
 5 ml of dry DMF was purged with nitrogen for 30 minutes. To this solution, furimazine (0.15 g, 0.39 mmol), aceto-α-D-glucose bromide (0.194 g, 0.47 mmol) and K2CO3 (0.65 g, 0.47 mmol) were added. The resultant mixture was stirred under nitrogen for 30 minutes at RT. The solution was diluted with 20 ml of DCM and washed with water and brine. The organic layer was dried over Na2SO4. The compound was purified by silica flash chromatography using DCM/ethyl acetate as solvent to yield 0.12 mg (43%) of desired product. MS (m/e) [M+H] (C38H37N3O11) calculated 711.24, observed 712.33.
 Synthesis of β-D-glucose Furimazine (WZ-0261).
 To the solution of aceto-β-D-glucose furimazine (100 mg, 0.14 mmol) in 2 ml DCM, NaOMe (25%, 99 ul) in 10 ml MeONa was added. The mixture was stirred for 30 minutes. When LC-MS indicated the reaction was completed, 100 μl of acetic acid was added to neutralize the pH. After removing most DCM, the compound in residual solution was purified by HPLC using methanol and 10 mM NH4Ac as eluent to give the desired product in a yield of 85% (65 mg). MS (m/e) [M+H] (C30H29N3O7) calculated 544.20, observed 545.18.
 Example 3. Synthesis of bis-(β-D-glucose) Benzyl Furimazine (WZ-0262)
+<img> id-US20180072781A1-20180315-C00035.TIF </img>
 Synthesis of p-aceto-β-D-glucose Benzene Pinacol Borate.
 4-Hydroxyl pinacolborate (2.0 g, 9.09 mmol), acetobromo-α-D-glucose (2.53 g, 10.91 mmol), and Ag2O (4.48 g, 32.75 mmol) were suspended in 50 ml of dry acetonitrile under N2. The mixture was stirred overnight at RT. After filtration, the solid was washed with THF. The solvent of filtrate was removed, and the compound was purified by silica flash chromatography using heptane/ethyl acetate as solvent to give a yield of 40.0% (2.0 g) desired product. 1H NMR (300 MHz, CDCl3): 7.76 δ (d, 2H), 6.98 (d, 2H), 5.22-5.38 (m, 2H), 5.05-5.20 (m, 2H), 4.1-4.3 (m, 2H), 3.81-3.97 (m, 1H), 1.99-2.05 (m, 12H), 1.33 (s, 12H).
 Synthesis of aceto-β-D-glucose Benzyl Bromo-Furimazine.
@@ -139,6 +158,7 @@ Aceto-β-D-glucose bromo-furimazine (70 mg) was dissolved in dioxane 5 ml and st
 Synthesis of Bis (β-D-glucose) Benzyl Furimazine (WZ-0262).
 Bis (aceto-β-D-glucose) benzyl furimazine (100 mg, 0.085 mmol) was dissolved in 2 ml DCM and NaOMe (25%, 100 ul) in 10 ml MeOH was added. The mixture was stirred for 30 minutes. When LC-MS indicated the reaction was completed, 100 μl of acetic acid was added to neutralize the pH. After removing most DCM, the compound in residual solution was purified by HPLC using methanol and 10 mM NH4Ac as eluent to give the desired product in a yield of 84% (60 mg). MS (m/e) [M+H] (C43H45N3O14) calculated 827.29, observed 828.28.
 Example 4. Synthesis of bis-(β-D-glucose) Furimazine (WZ-0307)
+<img> id-US20180072781A1-20180315-C00036.TIF </img>
 Synthesis of aceto-β-D-glucose Bromo-Furimazine.
 5 ml of dry DMF was purged with nitrogen for 30 minutes. To this solution were added bromo-furimazine (100 mg, 0.26 mmol), aceto-β-D-glucose bromide (118 mg, 0.29 mmol) and K2CO3 (0.54 g, 0.39 mmol). The resultant mixture was stirred under nitrogen for 30 minutes at RT. The solution was diluted with 20 ml of DCM and washed with water and brine. The organic layer was dried over Na2SO4. The compound was purified by silica flash chromatography using DCM/ethyl acetate as solvent to yield 81 mg (75%) of desired product. MS (m/e) [M+H] (C32H32BrN3O11) calculated 713.12, observed 714.18, 716.13 (1:1).
 Synthesis of Bis (aceto-β-D-glucose) Furimazine.
@@ -146,11 +166,13 @@ Aceto-β-D-glucose bromo-furimazine (50 mg) was dissolved in 5 ml of dioxane and
 Synthesis of Bis (β-D-glucose) Furimazine (WZ-0307).
 Bis (aceto-β-D-glucose) furimazine (100.0 mg, 0.085 mmol) was dissolved in 2 ml DCM, and NaOMe (25%, 100 μl) in 10 ml MeOH was added. The mixture was stirred for 30 minutes. When LC-MS indicated the reaction was completed, 100 μl of acetic acid was added to neutralize the pH. After removing DCM, the compound in residual solution was purified by HPLC using methanol and 10 mM NH4Ac as eluent to give the desired product in a yield of 80% (25 mg). MS (m/e) [M+H] (C36H39N3O13) calculated 721.25, observed 722.35.
 Example 5. Synthesis of Furimazine Phosphate (WZ-0265)
+<img> id-US20180072781A1-20180315-C00037.TIF </img>
 Synthesis of Furimazine Diallyl Phosphate.
 To the solution of furimazine (150 mg, 0.393 mmol) and diallyl N,N-diisopropyl phosphoramidite (106.1 mg, 0.432 mmom) in 10 ml DCM, 5-ethyl thiol tetrazole (51.2 mg, 0.393 mmol) was added. The mixture was stirred for 30 minutes. TLC indicated the reaction was completed. t-BuOOH was added, and the resultant mixture was stirred for another 10 minutes. The mixture was diluted with 30 ml of DCM and washed with Na2S2O3 once and water twice. The organic layer was dried over Na2SO4. The compound was purified by silica flash chromatography using heptane/ethyl acetate as solvent to yield 75% (160 mg) of desired product.
 Synthesis of Furimazine Phosphate (WZ-0265).
 The mixture of furimazine diallyl phosphate (160 mg, 0.295 mmol), Pd(PPh3)4 (34.14 mg, 0.0295 mmol) and morpholine (128 mg, 1.48 mmol) in 10 ml of CH2Cl2 was stirred for 30 minutes. After removing the solvent, the compound was purified by HPLC using methanol and 10 mM NH4Ac as eluent to give the desired product in a yield of 73% (100 mg). MS (m/e) [M+H] (C24H20N3O5P) calculated 461.12, observed 462.02.
 Example 6. Synthesis of Furimazine Benzyl Phosphate (WZ-0263)
+<img> id-US20180072781A1-20180315-C00038.TIF </img><img> id-US20180072781A1-20180315-C00039.TIF </img>
 Synthesis of p-formylbenzene Diallyl Phosphate.
 To the solution of 4-hydroxybenzaldehyde (500 mg, 4.09 mmol) and diallyl N,N-diisopropyl phosphoramidite (1.0 g, 4.09 mmol) in 30 ml DCM, 5-ethyl thiol tetrazole (0.27 mg, 2.05 mmol) was added. The mixture was stirred for 30 minutes. TLC indicated the reaction was completed. t-BuOOH (5.0 M, 2.46 ml) was added, and the resultant mixture was stirred for another 10 minutes. The mixture was diluted with 100 ml of DCM and washed with Na2S2O3 once and water twice. The organic layer was dried over Na2SO4. The compound was purified by silica flash chromatography using heptane/ethyl acetate as solvent to yield 86% (994 mg) of desired product. 1H NMR (300 MHz, CD2Cl2): 9.99 (s, 1H), 7.82 δ (d, 2H), 7.40 (d, 2H), 5.8-6.1 (m, 2H), 5.2-5.4 (m, 4H), 4.6-4.8 (m, 4H).
 Synthesis of p-hydroxylmethylbenzene Diallyl Phosphate.
@@ -162,6 +184,7 @@ Synthesis of Furimazine Benzyl Diallyl Phosphate.
 Synthesis of Furimazine Phosphate (WZ-0263).
 The mixture of furimazine benzyl diallyl phosphate (120 mg, 0.185 mmol), Pd(PPh3)4 (43 mg, 0.037 mmol), and morpholine (161 mg, 1.85 mmol) in 10 ml of CH2Cl2 was stirred for 30 minutes. After removing the solvent, the compound was purified by HPLC using methanol, and 10 mM NH4Ac as eluent to give the desired product in a yield of 78% (82 mg). MS (m/e) [M+H] (C31H26N3O6P) calculated 567.16, observed 568.1.
 Example 7. Synthesis of Furimazine Methyl Phosphate (WZ-0314)
+<img> id-US20180072781A1-20180315-C00040.TIF </img>
 Synthesis of Diallyl Phosphate.
 The solution of triallyl phosphate (10.0 g, 45.83 mmol) in 50 ml of 30% NaOH was heated to reflux for 30 minutes. The mixture was cooled to RT and neutralized with 30 ml of conc. HCl. The mixture was extracted three times with ether (3×50 ml). The organic layer was dried over Na2SO4. After removing the solvent, the compound was dried under vacuum to give a yield of 15% (1.20 g), and the compound was directly used in next step without further purification.
 Synthesis of Chloromethylene Diallyl Phosphate.
@@ -171,6 +194,7 @@ Chloromethylene diallyl phosphate (114 mg, 1.05 mmol) and KI (0.13 g, 0.79 mmol)
 Synthesis of Furimazine Phosphate (WZ-0314).
 The mixture of furimazine methylene diallyl phosphate (30 mg, 0.053 mmol), Pd(PPh3)4 (12.1 mg, 0.011 mmol), and morpholine (45 mg, 0.525 mmol) in 10 ml of CH2Cl2 was stirred for 30 minutes. After removing the solvent, the compound was purified by HPLC using methanol and 10 mM NH4Ac as eluent to give the desired product in a yield of 39% (10 mg). MS (m/e) [M+H] (C25H22N3O6P) calculated 491.12, observed 492.0.
 Example 8. Synthesis of Furimazine Bis-Phosphate (WZ-0291)
+<img> id-US20180072781A1-20180315-C00041.TIF </img>
 Synthesis of 3-Hydroxyl Furimazine Benzyl Diallyl Phosphate.
 5 ml of dry DMF was purged with nitrogen for 30 minutes. To this solution, furimazine (100 mg, 0.30 mmol), p-bromobenzyl diallyl phosphate (96 mg, 0.28 mmol), and K2CO3 (0.42 g, 0.39 mmol) were added. The resultant mixture was stirred under nitrogen for 30 minutes at RT. The solution was diluted with 20 ml of DCM and washed with water and brine. The organic layer was dried over Na2SO4. The compound was purified by silica flash chromatography using heptane/ethyl acetate as solvent to yield 73 mg (44%) of desired product. MS (m/e) [M+H] (C37H34N3O7P) calculated 663.21, observed 664.3.
 Synthesis of Furimazine Benzyl Bis-Diallyl Phosphate.
@@ -178,6 +202,7 @@ To the solution of 3-hydroxyl furimazine benzyl diallyl phosphate (65 mg, 0.098 
 Synthesis of Furimazine Bis-Phosphate (WZ-0291).
 The mixture of furimazine methylene diallyl phosphate (54 mg, 0.066 mmol), Pd(PPh3)4 (18.9 mg, 0.016 mmol), and morpholine (57 mg, 0.655 mmol) in 10 ml of CH2Cl2 was stirred for 30 minutes. After removing the solvent, the compound was purified by HPLC using methanol and 10 mM NH4Ac as eluent to give the desired product in a yield of 57% (25 mg). MS (m/e) [M+H] (C31H27N3O10P2) calculated 663.12, observed 664.1.
 Example 9. Synthesis of Gly-Phe-Aminobenzyl Furimazine (WZ-0294)
+<img> id-US20180072781A1-20180315-C00042.TIF </img>
 Synthesis of Fmoc-Gly-Phe-Aminobenzyl Alcohol.
 To the solution of Fmoc-Gly-Phe-COOH (2.0 g, 4.50 mmol) and isobutyl chloroformate (0.614 g, 4.50 mmol) in anhydrous THF, N-methyl morpholine at 0° C. was added. The mixture was stirred for 1 hour at 0° C. and then aminobenzyl alcohol was added. The resultant mixture was then stirred at RT for 1 hour. The solid was removed by filtration. After removing the solvent from filtrate, the compound was purified with a flash column using heptane/ethyl acetate as solvent to give a yield of 59% (1.45 g).
 Synthesis of Fmoc-Gly-Phe-Aminobenzyl Choloride.
@@ -187,6 +212,7 @@ Synthesis of Fmoc-Gly-Phe-Aminobenzyl Furimazine.
 Synthesis of Gly-Phe-Aminobenzyl Furimazine (WZ-0294).
 To the solution of Fmoc-Gly-Phe-aminobenzyl furimazine (10 mg, 0.011 mmol) in 5 ml of DCM, DBU (2.50 mg, 0.016 mmol) was added. The mixture was stirred for 15 minutes. The reaction was quenched by adding a drop of acetic acid. After removing the solvent, the compound was purified by HPLC using 10 mM ammonium acetate and ACN as solvent to give a yield of 79% (6 mg) of desired product. MS (m/e) [M−H] (C42H38N6O4) calculated 690.30, observed 689.19.
 Example 10. Synthesis of Bis-Gly-Phe-Aminobenzyl Furimazine (WZ-0299)
+<img> id-US20180072781A1-20180315-C00043.TIF </img>
 Synthesis of Fmoc-Gly-Phe-Aminobenzyl Bromofurimazine.
 Fmoc-Gly-Phe-aminobenzyl chloride (177 mg, 0.31 mmol) and KI (43 mg, 0.26 mmol) in 5 ml of dry DMF were stirred under nitrogen for 30 minutes. To this mixture, bromo-furimazine (100 mg, 0.26 mmol) and K2CO3 (53 mg, 0.39 mmol) were added. The resultant mixture was stirred under nitrogen for 30 minutes at RT. The solution was diluted with 20 ml of DCM and washed with water and brine. The organic layer was dried over Na2SO4. The compound was purified by silica flash chromatography using heptane/ethyl acetate as solvent to yield 27% (65 mg) of desired product. MS (m/e) [M+H] (C51H43BrN6O6) calculated 914.24, observed 915.40, 917.58 (1:1).
 Synthesis of Fmoc-Gly-Phe-Aminobenzyl 3-aminofurimazine.
@@ -209,9 +235,9 @@ compound & Structure & (%) & [M + H]
 <header>
 
 </header>
-WZ-0262 &  & 84 & 828.28
-WZ-0291 &  & 57 & 664.1
-WZ-0299 &  & 59% & 908.23 (M − H)
+WZ-0262 & <img> id-US20180072781A1-20180315-C00044.TIF </img> & 84 & 828.28
+WZ-0291 & <img> id-US20180072781A1-20180315-C00045.TIF </img> & 57 & 664.1
+WZ-0299 & <img> id-US20180072781A1-20180315-C00046.TIF </img> & 59% & 908.23 (M − H)
 </table>
 The following compounds were prepared using the above procedures.
 <table>
@@ -227,12 +253,12 @@ compound & Structure & (%) & [M + H]
 <header>
 
 </header>
-WZ-0246 &  & 91 & 650.44
-WZ-0261 &  & 85 & 545.18
-WZ-0263 &  & 78 & 568.1
-WZ-0265 &  & 72 & 462.02
-WZ-0314 &  & 39 & 492.0
-WZ-0294 &  & 79 & 689.19 (M − H)
+WZ-0246 & <img> id-US20180072781A1-20180315-C00047.TIF </img> & 91 & 650.44
+WZ-0261 & <img> id-US20180072781A1-20180315-C00048.TIF </img> & 85 & 545.18
+WZ-0263 & <img> id-US20180072781A1-20180315-C00049.TIF </img> & 78 & 568.1
+WZ-0265 & <img> id-US20180072781A1-20180315-C00050.TIF </img> & 72 & 462.02
+WZ-0314 & <img> id-US20180072781A1-20180315-C00051.TIF </img> & 39 & 492.0
+WZ-0294 & <img> id-US20180072781A1-20180315-C00052.TIF </img> & 79 & 689.19 (M − H)
 </table>
 The following prophetic compounds can be prepared using procedures similar to the ones used to synthesize compounds WZ-0246 and WZ-0291, respectively.
 <table>
@@ -248,8 +274,8 @@ compound & Structure & (%) & [M + H]
 <header>
 
 </header>
- &  &  & 
- & 
+ & <img> id-US20180072781A1-20180315-C00053.TIF </img> &  & 
+ & <img> id-US20180072781A1-20180315-C00054.TIF </img>
 </table>
 Example 11. Luminescent Properties
 Glucosidase Assays

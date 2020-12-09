@@ -48,7 +48,9 @@ In one example, said aldehyde group is suitable for covalent attachment to a pri
 In one example, wherein said aldehyde group is connected to the PEG linker moiety through a triazole unit.
 In one example, said primary amine group is a primary amine group on an amino acid.
 In one example, the water soluble heterobifunctional linker (L1) is a compound of formula IIIa:
+<img> id-US20180086724A1-20180329-C00001.TIF </img>
 In one example, the water soluble heterobifunctional linker (L1) is a compound of formula IIIb:
+<img> id-US20180086724A1-20180329-C00002.TIF </img>
 Other aspects and features of the present disclosure will become apparent to those ordinarily skilled in the art upon review of the following description of specific embodiments in conjunction with the accompanying figures.
 DETAILED DESCRIPTION
 In one example, described herein is an approach that allows the facile preparation of metabolite conjugates that can be used for the selection of compound-specific antibodies or binding proteins and for the detection of metabolite-protein binding events using a wide range of detection technologies. We describe the synthesis of a water-soluble, heterobifunctional linker with a thiol group at one end and an aldehyde group on the other end. The thiol group can be used to covalently couple to a gold nanoparticle (AuNP) or a fluorophore, while the aldehyde group can be used to link to a primary amine group (e.g. amino acids). We demonstrate preparing conjugates of carnosine, histidine, glutamate and leucine, with the linker. We further show how these conjugated amino acids can be used to select for specific antibodies against metabolites, using phage display methods. By appropriately modifying the surface of gold nanoparticles and conjugating the modified amino acids to the AuNPs, stable, water-soluble gold colloids were prepared, decorated with specific amino acids. We also show how these amino acid-AuNPs can be used to detect metabolites using a competitive lateral flow assay.
@@ -77,7 +79,9 @@ wherein, A is a thiol group; B is a PEG linker moiety; C is an aldehyde group.
 The term “polyethylene glycol” (PEG) refers to linear or branched oligomeric and polymeric polyether polyols.
 In some examples PEG refers to native PEG as well as derivatives thereof.
 In some examples PEG refers to ethylene glycol, diethylene glycol, triethylene glycol, tetraethylene glycol, pentaethylene glycol, hexaethylene glycol, and oligoethylene glycol and derivatives of these compounds. In some examples PEG refers to polymers and oligomers from ethylene oxide. In some examples PEG is represented by the structure X-(CH2CH2O)n-Y. In some examples X includes but is not limited to OH and Y includes but is not limited to H, and n is larger than 0, preferably larger than 1, more preferably larger than 2. In a specific example, L1 is a compound of the following formula (IIIa)
+<img> id-US20180086724A1-20180329-C00003.TIF </img>
 In a specific example, L1 is a compound of the following formula (IIIb)
+<img> id-US20180086724A1-20180329-C00004.TIF </img>
 In some examples, the term “label,” as used herein refers to a substance which is incorporated into a compound, such as L1, and is readily detected.
 In some example, the label is a detectable label.
 The term “detectable label,” as used herein, refers to a label which is observable using analytical techniques including, but not limited to, fluorescence, chemiluminescence, electron-spin resonance, ultraviolet/visible absorbance spectroscopy, mass spectrometry, nuclear magnetic resonance, magnetic resonance, electrochemical and electrical methods, including but not limited to impedance measurements.

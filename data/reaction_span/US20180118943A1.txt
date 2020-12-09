@@ -22,6 +22,7 @@ Means Used to Solve the Above-Mentioned Problems
 When the present inventors conducted in-depth studies to solve the above problems, they discovered that, when they conducted various studies in the belief that the problems posed by existing pH probes cannot be solved by developing a ratio type pH probe using an Si-based rhodamine skeleton having high fluorescence quantum yield and high photobleaching resistance as had been developed by the present inventors in recent years, the pKa of the pH probe can be adjusted easily by introducing a piperazine ring into an asymmetric Si-based rhodamine skeleton and also introducing an electron-withdrawing group onto a piperazine ring amino group, and completed the present invention.
 Specifically, the present invention provides:
 [1] A compound represented by the following general formula (I):
+<img> id-US20180118943A1-20180503-C00002.TIF </img>
 wherein,
 R1 is a hydrogen atom or from one to three of the same or different monovalent substituents present on the benzene ring;
 R2a and R2b are, each independently, a hydrogen or a monovalent substituent, but R2a and R2b are not both hydrogen;
@@ -45,6 +46,7 @@ or a salt thereof.
 [8] The compound according to [7] wherein one of R2a and R2b is hydrogen and the other is a C1-6 alkyl group, C1-6 alkoxy group, or halogen atom, or a salt thereof.
 [9] The compound according to [7] wherein both of R2a and R2b are C1-6 alkyl groups, or a salt thereof.
 [10] The compound according to [1] represented by the following general formula (II):
+<img> id-US20180118943A1-20180503-C00003.TIF </img>
 wherein,
 R1-R2b, R4R8, R10, X, Y, and m are as defined in general formula (I), and R11-R14 are, each independently, a hydrogen atom, C1-6 alkyl group, or halogen atom.), or a salt thereof.
 [11] The compound according to [10] wherein Y is a substituted or unsubstituted phenyl group, or a salt thereof.
@@ -56,6 +58,7 @@ R1-R2b, R4R8, R10, X, Y, and m are as defined in general formula (I), and R11-R1
 [17] The compound according to [16] wherein one of R2a and R2b is hydrogen and the other is a C1-6 alkyl group, C1-6 alkoxy group, or halogen atom, or a salt thereof.
 [18] The compound according to [16] wherein both R2a and R2b are C1-6 alkyl groups, or a salt thereof.
 [19] A compound represented by the following general formula (Ia):
+<img> id-US20180118943A1-20180503-C00004.TIF </img>
 wherein,
 R3 and R4 are, each independently, a hydrogen atom, C1-6 alkyl group, or halogen atom;
 R5 and R6 are, when present, each independently, a C1-6 alkyl group or aryl group,
@@ -73,12 +76,15 @@ R1' are hydrogen or the same or different monovalent substituents;(i) R2a and R2
 n is an integer of 0-2, p is an integer of 1-3, n+p=3; here, when n is 0, one of R2a and R2b is X'-T and the other is a monovalent substituent;
 or a salt thereof.
 [20] The compound according to [19] represented by the following general formula (IIa):
+<img> id-US20180118943A1-20180503-C00005.TIF </img>
 wherein,
 R4-R8, R10, X, Y, and m are as defined in general formula (Ia);
 R11-R14 are, each independently, a hydrogen atom, C1-6 alkyl group, or halogen atom;
 X', T, R1', R2a-R2b, n, and p are as defined in general formula (Ia)), or a salt thereof.
 [21] The compound according to [19] or [20] wherein -X'-T is selected from the following, or a salt thereof.
+<img> id-US20180118943A1-20180503-C00006.TIF </img>
 [22] A compound represented by the following general formula (Ib):
+<img> id-US20180118943A1-20180503-C00007.TIF </img>
 wherein,
 R3 and R4 are, each independently, a hydrogen atom, C1-6 alkyl group, or halogen atom;
 R5 and R6 are, when present, each independently, a C1-6 alkyl group or aryl group,
@@ -97,11 +103,13 @@ R1' are hydrogen or the same or different monovalent substituents;
 R2a and R2b(i) are, each independently, hydrogen or a monovalent substituent, but, R2a and R2b are not both hydrogen, or(ii) one of R2a and R2b is -X'-(T')-S and the other of R2a and R2b is a monovalent substituent;
 n is an integer of 0-2, p is an integer of 1-3, n+p=3; here, when n is 0, one of R2a and R2b is -X'-(T')-S and the other is a monovalent substituent.), or a salt thereof.
 [23] The compound according to [23] represented by the following general formula (IIb):
+<img> id-US20180118943A1-20180503-C00008.TIF </img>
 wherein,
 R4-R8, R10, X, Y, and m are as defined in general formula (Ib);
 R11-R14 are, each independently, a hydrogen atom, C1-6 alkyl group, or halogen atom;
 X', T', R1', S, R2a-R2b, n, and p are as defined in general formula (Ib).), or a salt thereof.
 [24] The compound according to [22] or [23] wherein -S is selected from the following, or a salt thereof.
+<img> id-US20180118943A1-20180503-C00009.TIF </img><img> id-US20180118943A1-20180503-C00010.TIF </img>
 [25] A fluorescent probe including a compound according to any one of [1]-[24], or a salt thereof.
 [26] A method for measuring an acidic region within a cell, said method comprising;
 (a) a step for introducing a compound according to any one of [1]-[24] or a salt thereof into a cell and
@@ -113,6 +121,7 @@ BEST MODE FOR CARRYING OUT THE INVENTION
 In the present specification, an “alkyl group” or alkyl moiety of a substituent including an alkyl moiety (such as an alkoxy group), when not mentioned in particular, means a C1-6, preferably C1-4, more preferably C1-3, linear, branched, cyclic, or combination thereof alkyl group. More specific examples include a methyl group, ethyl group, n-propyl group, isopropyl group, cyclopropyl group, n-butyl group, sec-butyl group, isobutyl group, tert-butyl group, cyclopropylmethyl group, n-pentyl group, n-hexyl group, and the like as alkyl groups.
 When “halogen atom” is stated in the present specification, it may be any of a fluorine atom, chlorine atom, bromine atom, or iodine atom, preferably a fluorine atom, chlorine atom, or bromine atom.
 One embodiment of the present invention is a compound represented by the following general formula (I) or a salt thereof (also referred to hereinafter as “embodiment 1”).
+<img> id-US20180118943A1-20180503-C00011.TIF </img>
 In general formula (I), R1 represents a hydrogen atom or from one to three of the same or different monovalent substituents present on the benzene ring. Here, R1 are introduced at three positions on the benzene ring other than positions substituted by R2a and R2b. When R1 represents monovalent substituents present on the benzene ring, one or two of the same or different substituents are preferably present on the benzene ring. When R1 represents one or more monovalent substituents, the substituents can be substituted at any positions on the benzene ring. Preferably, R1 represents hydrogen atoms (i.e., all R1 are hydrogen atoms) or when one substituent is present (i.e., one R1 is a monovalent substituent and the others are hydrogen atoms).
 The type of monovalent substituent represented by R1 is not particularly restricted, but monovalent substituents are preferably selected from the group consisting of a C1-6 alkyl group, C1-6 alkenyl group, C1-6 alkynyl group, C1-6 alkoxy group, hydroxyl group, carboxyl group, sulfonyl group, alkoxycarbonyl group, halogen atom, or amino group. These monovalent substituents may also have one or more arbitrary substituents. For example, one or more halogen atoms, carboxy groups, sulfonyl groups, hydroxyl groups, amino groups, alkoxy groups, and the like may be present in alkyl groups represented by R1, and alkyl groups represented by R1 may be alkyl halide groups, hydroxyalkyl groups, carboxyalkyl groups, aminoalkyl groups, or the like. One or more alkyl groups may also be present in amino groups represented by R1, and amino groups represented by R1 may be monoalkylamino groups or dialkylamino groups. In addition, carboxy-substituted alkoxy groups, alkoxycarbonyl-substituted alkoxy groups, and the like can be given as examples of when alkoxy groups represented by R1 have substituents; more specific examples include a 4-carboxybutoxy group, 4-acetoxymethyloxycarbonylbutoxy group, and the like.
 In one preferred aspect, R1 is monovalent substituents such as C1-6 alkyl groups, and the substituents are present at from position 3 to position 5 on the benzene ring.
@@ -145,12 +154,14 @@ A preferred aspect of the present invention is a compound in which Y in general 
 A preferred aspect of the present invention is a compound in which Y in general formula (I) is a phenyl group substituted by two sulfonyl groups and m is 1, or a salt thereof.
 In general formula (I), X represents a silicon atom, oxygen atom, carbon atom, phosphorus atom, or germanium atom. However, a silicon atom or germanium atom is preferred, and a silicon atom is especially preferred.
 One aspect of embodiment 1 of the present invention is a compound represented by the following general formula (II):
+<img> id-US20180118943A1-20180503-C00012.TIF </img>
 or a salt thereof.
 In general formula (II), R1-R2b, R4-R8, X, Y, and m are as described above in general formula (I).
 In general formula (II) , R11-R14 each independently represent a hydrogen atom, C1-6 alkyl group, or halogen atom.
 In one preferred embodiment of the present invention, R11-R14 each independently are a hydrogen atom or C1-6 alkyl group (preferably a methyl group or ethyl group).
 In one preferred embodiment of the present invention, R11-R14 are all hydrogen atoms.
 The following compounds can be given as non-limiting examples of compounds of general formula (I) or (II) of the present invention.
+<img> id-US20180118943A1-20180503-C00013.TIF </img>
 Compounds of the present invention represented by general formulas (I) and (II) can exist as acid addition salts or base addition salts. Examples of acid addition salts can include mineral acid salts such as a hydrochloride, sulfate, nitrate, and the like or organic acid salts such as a methanesulfonate, p-toluenesulfonate, oxalate, citrate, tartrate, and the like. Examples of base addition salts can include metal salts such as a sodium salt, potassium salt, calcium salt, magnesium salt, and the like, an ammonium salt, or an organic amine salt such as a triethylamine salt, and the like. In addition to these, there are also cases in which a salt is formed with an amino acid such as glycine. Compounds of the present invention or salts thereof can also sometimes exist as hydrates or solvates. These substances are also within the scope of the present invention.
 Compounds of the present invention represented by general formulas (I) and (II) sometimes have one or more asymmetrical carbons, depending on the types of substituents. Stereoisomers such as optically active compounds based on one or more asymmetrical carbons and diastereomers based on two or more asymmetrical carbons as well as any mixtures of stereoisomers, racemates, and the like are all encompassed within the scope of the present invention.
 Typical compound production methods for compounds represented by general formulas (I) and (II) of the present invention are shown concretely in the examples in this specification. Therefore, one skilled in the art can produce compounds of the present invention represented by general formulas (I) and (II) by appropriately selecting the reaction raw materials, reaction conditions, reaction reagents, and the like and by modifying or changing these methods as needed based on these explanations.
@@ -158,6 +169,7 @@ Another embodiment of the present invention is a compound in which at least one 
 Here, a carbonyl group, alkylcarbonyl group, ester group, alkyl ester group, amino group, alkylamino group, amide group, isothiocyanate group, sulfonyl chloride group, haloalkyl group, haloacetamide group, azide group, alkynyl group, and the like are preferred as the functional group capable of introducing a label site or target accumulation site; a carbonyl group or alkylcarbonyl group is especially preferred.
 In addition, the crosslinking group may be any crosslinking group as long as it acts as a spacer to couple a functional group capable of introducing a label site or target accumulation site and a label site or target accumulation site. Examples include, but are not limited to, a substituted or unsubstituted hydrocarbon group (an alkane, alkene, alkyne, cycloalkane, aromatic hydrocarbon, and the like), ethylene glycol group, diethylene glycol group, triethylene glycol group, polyethylene glycol group, and the like, alkyl cysteinate, and heterocyclic group (for example, a piperidinyl group and the like), and the like. The crosslinking group may have a functional group capable of introducing a label site or target accumulation site or a functional group capable of bonding with a label site or target accumulation site at one or both ends. Examples of such functional groups include an amino group, carbonyl group, carboxyl group, amide group, propargyl group, and the like.
 One aspect of embodiment 2 is a compound represented by the following general formula (Ia) or a salt thereof.
+<img> id-US20180118943A1-20180503-C00014.TIF </img>
 In general formula (Ia), R3-R10, X, Y, and m are as defined in general formula (I).
 In general formula (Ia), X' is a structure after the functional group capable of introducing a label site or target accumulation site has bonded with T; T is the above crosslinking group.
 The crosslinking group may have a functional group capable of introducing a label site or target accumulation site or a functional group capable of bonding with a label site or target accumulation site at one or both ends. Examples of such functional groups include an amino group, carbonyl group, carboxyl group, amide group, propargyl group, and the like.
@@ -170,9 +182,11 @@ Here, when n is 0, one of R2a and R2b is -X'-T and the other is a monovalent sub
 As above, -(X'-T) in general formula (Ia) can be introduced at any of positions 2-6 of the benzene ring.
 In a preferred aspect represented by general formula (Ia), n is 1 and p is 2. In this case, R1' may be the same or different. In this case, one of R2a and R2b may be -X'-T. In this case, the other of R2a and R2b is a monovalent substituent (preferably a C1-6 alkyl group, C1-6 alkoxy group, or halogen atom).
 Another aspect of embodiment 2 is a compound represented by the following general formula (IIa) or a salt thereof.
+<img> id-US20180118943A1-20180503-C00015.TIF </img>
 In general formula (IIa), R4-R8, R10, X, Y, and m are as defined in general formula (I). R11-R14 each independently represent a hydrogen atom, C1-6 alkyl group, or halogen atom. X', T, R1', R2a-R2b, n, and p are as defined in general formula (Ia).
 In a preferred aspect represented by general formula (IIa), n is 1 and p is 2. In this case, R1' may be the same or different. In this case, one of R2a and R2b may be -X'-T. In this case, the other of R2a and R2b is a monovalent substituent (preferably a C1-6 alkyl group, C1-6 alkoxy group, or halogen atom).
 In one preferred aspect of embodiment 2, -X'-T in general formula (Ia) or (IIa) is selected from the following.
+<img> id-US20180118943A1-20180503-C00016.TIF </img>
 Another embodiment of the present invention is a compound in which at least one of R1 in general formula (I) or (II) is a functional group capable of introducing a label site or target accumulation site, the functional group bonds with a crosslinking group, and the crosslinking group bonds with a label site or target accumulation site, or a salt thereof.
 Another embodiment of the present invention is a compound in which at least one of R1 in general formula (I) or (II) is a functional group capable of introducing a label site or target accumulation site, and the functional group bonds with a label site or target accumulation site without the intervention of a crosslinking group.
 The above two embodiments are also collectively termed “embodiment 3.”
@@ -180,6 +194,7 @@ The functional group capable of introducing a label site or target accumulation 
 Examples of a label site or target accumulation site include an N-hydroxysuccinimide ester, Halo tag ligand (for example, a 2-(2-((6-chlorohexyl)oxy)ethoxy)ethaneamino group), weakly basic amine, maleimide, isothiocyanate group, sulfonyl chloride group, haloalkyl group, haloacetamide group, amide group, azide group, alkynyl group, benzylguanine derivative or benzylcytosine derivative, and the like. The label site or target accumulation site also includes a polyethylene glycol group which may have a modifying group at one or both ends. Examples of the modifying group include an amino group, carbonyl group, carboxyl group, and the like. Non-limiting examples of polyethylene glycol groups having a modifying group include 3-(2-(2-(2-aminoethoxy)ethoxy)ethoxy)propanoic acid.
 Compounds or salts thereof included in embodiment 3 make it possible to visualize various phenomena involving intracellular acidic vesicles in real time because they have strong fluorescence in acidic environments, can label specific proteins and the like, and can be localized within acidic organelle cells. Furthermore, compounds in which a label site or target accumulation site has been introduced into part of a functional group capable of introducing a label site or target accumulation site, that is, compounds having both a functional group capable of introducing a label site or target accumulation site and a substituent having a label site or target accumulation site introduced, are also included in embodiment 3.
 One aspect of embodiment 3 is a compound represented by the following general formula (Ib) or a salt thereof.
+<img> id-US20180118943A1-20180503-C00017.TIF </img>
 In general formula (Ib), R3-R10, X, Y, and m are as defined in general formula (I).
 In formula (Ib), X' is a structure after the functional group capable of introducing a label site or target accumulation site has bonded with T, T', when present, is a structure after the crosslinking group has bonded with S, and S is a label site or target accumulation site.
 In addition, R1' are hydrogens or the same or different monovalent substituents defined as R1 of general formula (I). The details are as explained for compounds of general formula (I).
@@ -193,9 +208,11 @@ In a preferred aspect represented by general formula (Ib), n is 1 and p is 2. In
 In general formula (Ib), T' may be present or absent (when absent, S bonds directly to X'). Here, it is usually preferred that T' be present since synthesis is simple when there is no crosslinking group, but the characteristics of the dye molecule can be changed by interaction with a protein surface.
 In addition, the crosslinking group may have a functional group capable of introducing a label site or target accumulation site or a functional group capable of bonding with a label site or target accumulation site at one or both ends. Examples of such functional groups include an amino group, carbonyl group, carboxyl group, amide group, propargyl group, and the like.
 Another aspect of embodiment 3 is a compound represented by the following general formula (IIb) or a salt thereof.
+<img> id-US20180118943A1-20180503-C00018.TIF </img>
 In general formula (IIb), R4-R8, R10, X, Y, and m are as defined in general formula (I), R11-R14 each independently represent a hydrogen atom, C1-6 alkyl group or halogen atom, and X', T', R1', S, n, and p are as defined in general formula (Ib).
 In a preferred aspect of compounds represented by general formula (IIb), n is 1 and p is 2. In this case, R1' may be the same or different. In this case, one of R2a and R2b may be -X'-(T')-S. In this case, the other of R2a and R2b is a monovalent substituent (preferably a C1-6 alkyl group, C1-6 alkoxy group, or halogen atom).
 In one preferred aspect of embodiment 3, -S in general formula (Ib) or (IIb) is selected from the following.
+<img> id-US20180118943A1-20180503-C00019.TIF </img><img> id-US20180118943A1-20180503-C00020.TIF </img>
 Compounds of embodiment 3, compounds of general formulas (Ib) and (IIb), make it possible to visualize various phenomena involving intracellular acidic vesicles in real time because they can label specific proteins and the like, and can be localized within acidic organelle cells. As a non-limiting example, when an N-hydroxysuccinimide ester as a label site or polyethylene glycol modified at the end by a carboxyl group or the like is introduced into the molecule, the fluorescent probe of the present invention can be localized in intracellular acidic vesicles by labeling by dextran, which is a sugar polymer. When a weakly basic amine is introduced into the molecule as a target accumulation site, the fluorescent probe of the present invention can be accumulated in acidic vesicles. In addition, when a Halo tag ligand is introduced as a label site, a label specific to the Halo tag becomes possible. Specifically, by expressing a protein (VAMP2-Halo tag) in which a Halo tag was fused to VAMP2, which is a synaptic vesicle marker, in nerve cells and adding a fluorescent probe of the present invention having a Halo tag ligand introduced thereto, it becomes possible for the fluorescent probe to specifically label the synaptic vesicles.
 The compounds of embodiments 2 and 3 of the present invention can exist as acid addition salts or base addition salts. Examples of acid addition salts can include mineral acid salts such as a hydrochloride, sulfate, nitrate, and the like or organic acid salts such as a methanesulfonate, p-toluenesulfonate, oxalate, citrate, tartrate, and the like. Examples of base addition salts can include metal salts such as a sodium salt, potassium salt, calcium salt, magnesium salt, and the like, an ammonium salt, or an organic amine salt such as a triethylamine salt, and the like. In addition to these, there are also cases in which a salt is formed with an amino acid such as glycine. Compounds of the present invention or salts thereof can also sometimes exist as hydrates or solvates. These substances are also within the scope of the present invention.
 Compounds of embodiments 2 and 3 of the present invention sometimes have one or more asymmetrical carbons, depending on the types of substituents. Stereoisomers such as optically active compounds based on one or more asymmetrical carbons and diastereomers based on two or more asymmetrical carbons as well as any mixtures of stereoisomers, racemates, and the like are all encompassed within the scope of the present invention.
@@ -216,6 +233,7 @@ The present invention is explained below through examples. The present invention
 Example 1
 (1) Synthesis of Synthesis Intermediate 1
 A synthesis intermediate 1 (tert-butyl 4-(1,10,10-trimethyl-5-oxo-2,3,5,10-tetrahydro-1H-benzo[5,6]silino[3,2-f]indol-8-yl)piperazine-1-carboxylate (BocPiperaIndoSiXanthone)) was synthesized by scheme 1 below.
+<img> id-US20180118943A1-20180503-C00021.TIF </img>
 Synthesis intermediate 1(a) (i) N-Boc-piperazine, K2CO3, DMF 100° C. (ii) NaBH4, MeOH, r.t.(b) BF3OEt2, 6-bromo-1-methylindoline, CH2Cl2, r.t.(c) (i) sec-BuLi/THF, -78° C. (ii) SiMe2Cl2, −78° C.→r.t. (iii) KMnO4, acetone, r.t.
 (1) Step (a)
 N-Boc-piperazine (2.41 g, 12.9 mmol) and 2-bromo-4-fluorobenzaldehyde (2.19 g, 10.8 mmol) were dissolved in DMF (30 mL). K2CO3 (2.24 g, 16.2 mmol) was added, and stirred for 18 hours at 100° C. After distilling off the solvent under reduced pressure, water was added to the residue. The mixture was extracted by dichloromethane and washed by brine. The organic layer was dried by Na2SO4, and the solvent was distilled off under reduced pressure. Methanol (30 mL) and sodium borohydride (494 mg, 13.0 mmol) were added, and stirred for three hours at room temperature. After distilling off the solvent under reduced pressure, water was added to the residue, and the mixture was extracted by dichloromethane. The organic layer was dried by Na2SO4, and the solvent was distilled off under reduced pressure. 2-Bromo-4-(1-Boc piperazyl)-benzyl alcohol (3.46 g, 9.33 mmol, yield 86%) was then obtained by purification by column chromatography (silica gel, ethyl acetate/n-hexane).
@@ -228,6 +246,7 @@ N-Boc-piperazine (2.41 g, 12.9 mmol) and 2-bromo-4-fluorobenzaldehyde (2.19 g, 1
 1H NMR (400 MHz, CDCl3): δ 0.45 (s, 6H), 1.49 (s, 9H), 2.91 (s, 3H), 3.06 (t, J=9.0 Hz, 2H), 3.35 (t, J=5.0 Hz, 4H), 3.49 (t, J=9.0 Hz, 2H), 3.62 (t, J=5.0 Hz, 4H), 6.49 (s, 1H), 7.01-7.04 (m, 2H), 8.20 (s, 1H), 8.39 (d, J=8.0 Hz, 1H); 13C NMR (75 MHz, CDCl3) δ −1.19, 27.88, 28.33, 34.36, 47.56, 54.63, 79.97, 107.74, 116.22, 117.61, 126.02, 130.95, 131.37, 132.20, 132.56, 140.21, 140.29, 151.98, 154.48, 154.91, 184.99; HRMS (ESI+) Calcd for [M+H]+, 478.2526, Found, 478.2483 (−4.3 mmu).
 (2) Synthesis of Compound 1 From Synthesis Intermediate 1
 Compound 1 (2,6-diMe BnPiperaIndoSiR) of the present invention was obtained from the synthesis intermediate 1 obtained as described above by scheme 2 below.
+<img> id-US20180118943A1-20180503-C00022.TIF </img>
 (a) (i) 2,6-dimethylphenylmagnesium bromide, THF, reflux, (ii) 2N HCl aq., r.t. (iii) TFA, r.t. (b) (i) Benzaldehyde, NaCNBH3, AcOH, MeOH (ii) p-Chloranil, CH2Cl2, r.t.
 (1) Step (a)
 Tert-butyl 4-(1,10,10-trimethyl-5-oxo-2,3,5,10-tetrahydro-1H-benzo[5,6]silino[3,2-f]indol-8-yl)piperazine-1-carboxylate (42 mg, 0.0879 mmol), dehydrated tetrahydrofuran (10 mL), and 2,6-dimethylphenyl magnesium bromide (2.64 mL, 2.64 mmol) were added to a dried, argon-purged flask, and heated under reflux for 3.5 hours. After the reaction solution had returned to room temperature, the reaction was stopped by 2N hydrochloric acid aqueous solution. After neutralizing by adding saturated sodium bicarbonate aqueous solution, the mixture was extracted by dichloromethane, the organic layer was dried by Na2SO4, and the solvent was distilled off under reduced pressure. Trifluoroacetic acid (5 mL) and dichloromethane (5 mL) were added to the residue, and stirred for three hours at room temperature. The residue was washed by hexane, then purified by HPLC (eluent, from 27% acetonitrile/0.1% trifluoroacetic acid/water (0 min) to 72% acetonitrile/0.1% TFA/water (20 min); flow rate=25.0 mL/min), and 2,6-diMe PiperaIndoSiR (3 mg, 5.17 μmol, yield 6%) was obtained.
@@ -237,6 +256,7 @@ HRMS (ESI+) Calcd for [M]+, 466.2679, Found, 466.2653 (−2.6 mmu).
 Example 2
 (1) Synthesis of Compound 2
 Compound 2 (SiRpH3) was synthesized by scheme 3 below.
+<img> id-US20180118943A1-20180503-C00023.TIF </img>
 (a) (i) 3-fluorobenzaldehyde, NaCNBH3, AcOH, MeOH, r.t.,(ii) p-chloranil, CH2Cl2, r.t.
 Step (a)
 2,6-diMe PiperaIndoSiR (3.5 mg, 6.03 μmol) was dissolved in methanol (2 mL), and 3-fluorobenzaldehyde (1.3 μL, 12.06 μmol) and acetic acid (20 μL) were added, and stirred for 10 minutes at room temperature. Sodium cyanoborohydride (1.5 mg, 24 μmol) was added to the reaction solution, and stirred for 16 hours at room temperature. Water was added to the mixture, and the mixture was extracted by dichloromethane. The organic layer was dried by Na2SO4, and the solvent was distilled off under reduced pressure. Dichloromethane (5 mL) and p-chloranil (3 mg, 12.2 μmol) were added to the residue, and the solvent was distilled off under reduced pressure after stirring for three hours at room temperature. The residue was purified by HPLC (eluent, from 27% acetonitrile/0.1% trifluoroacetic acid/water (0 min) to 64% acetonitrile/0.1% TFA/water (20 min); flow rate=25.0 mL/min), and SiRpH3 (1.5 mg, 1.87 μmol, yield 31%) was obtained.
@@ -244,12 +264,14 @@ Step (a)
 Example 3
 (1) Synthesis of Compound 3
 Compound 3 (SiRpH4) was synthesized by scheme 4 below.
+<img> id-US20180118943A1-20180503-C00024.TIF </img>
 (a) (i) Benzaldehyde-2-sulfonic acid sodium salt, NaCNBH3, AcOH, MeOH, r.t. (ii) p-chloranil, CH2Cl2, r.t.
 2,6-diMe PiperaIndoSiR (2.4 mg, 4.16 μmol) was dissolved in methanol (2 mL), and sodium 2-formylbenzene-1-sulfonate (1.7 mg, 8.32 μmol) and acetic acid (2.4 μL, 41.6 μmol) were added, and stirred for 10 minutes at room temperature. Sodium cyanoborohydride (0.5 mg, 8.32 μmol) was added to the reaction solution, and stirred for 13 hours at room temperature. Water was added to the mixture, and the mixture was extracted by dichloromethane. The organic layer was dried by Na2SO4, and the solvent was distilled off under reduced pressure. Dichloromethane (2 mL) and p-chloranil (2 mg, 8.13 μmol) were added to the residue, and the solvent was distilled off under reduced pressure after stirring for three hours at room temperature. The residue was purified by HPLC (eluent, from 40% acetonitrile/0.1% trifluoroacetic acid/water (0 min) to 64% acetonitrile/0.1% TFA/water (20 min); flow rate=25.0 mL/min), and SiRpH4 (1.5 mg, 1.87 μmol, yield 31%) was obtained.
 HRMS (ESI+) Calcd for [M]+, 636.2714, Found, 636.2675 (−3.9 mmu); The HPLC chromatogram after purification was as follows. The elution was done with a 20 min linear gradient from 48% CH3CN/0.1% TFA az. To 80% CH3CN/0.1% TFA aq. (flow rate=1.0 mL/min.); Absorbance at 600 nm was detected.
 Example 4
 (1) Synthesis of Compound 4
 Compound 4 (SiRpH5) was synthesized by scheme 5 below.
+<img> id-US20180118943A1-20180503-C00025.TIF </img>
 (a) (i) sec-BuLi, −78° C., (ii) BocPiperaIndoSiXanthone, THF, reflux, (iii) 2N HCl aq., r.t. (iv) TFA, r.t. (b) (i) Benzaldehyde-2,4-disulfonic acid disodium salt, 2.picoline borane, AcOH, MeOH.
 (1) Step (a)
 Dehydrated tetrahydrofuran (10 mL) was added to tert-butyl 4-bromo-3,5-dimethylbenzoate (182 mg, 0.638 mmol) in a dried, argon-purged flask, and the reaction solution was cooled to −78° C. 1 M sec-BuLi (0.64 mL, 0.64 mL [sic]) was added to the reaction solution, and stirred for 30 minutes at −78° C. BocPiperaIndoSiXanthone (61 mg, 0.128 mmol) was added to the reaction solution, and heated under reflux for 2.5 hours. After the reaction solution had returned to room temperature, the reaction was stopped by 2N hydrochloric acid aqueous solution, and the mixture was extracted by dichloromethane. The organic layer was dried by Na2SO4, and the solvent was distilled off under reduced pressure. Trifluoroacetic acid (5 mL) was added to the residue, and stirred for 30 minutes at room temperature. After washing with hexane, the residue was purified by HPLC (eluent, from 24% acetonitrile/0.1% trifluoroacetic acid/water (0 min) to 64% acetonitrile/0.1% TFA/water (20 min); flow rate=25.0 mL/min), and 4-COOH-2,6-diMe PiperaIndoSiR (50 mg, 80.2 μmol, yield 63%) was obtained.
@@ -340,13 +362,16 @@ FIG. 6 shows a ratio value of each compound vs. pH plot. As above, the drawing s
 Synthesis of SiRpH5 with a Biopolymer Label Site Introduced
 Example 9
 SiRpH5-PEG6-SE (compound 6) having an N-hydroxysuccinylimidiyl [sic] ester via a PEG linker and capable of forming a covalent bond with an amino group of a biopolymer was synthesized by scheme 6 below.
+<img> id-US20180118943A1-20180503-C00026.TIF </img>
 (a) (i) EDC.HCl, DIPEA, NHS, DMF, r.t., (ii) NH2-PEG6-OH, DIPEA, DMF, r.t., (b) EDC.HCl, DIPEA, NHS, DMF, r.t.
 Steps (a) and (b)
 SiRpH5 (15 mg, 17.2 μmol), N-hydroxysuccinimide (2.2 mg, 18.9 μmol), EDC hydrochloride (3.6 mg, 18.9 mmol), and DMF (2 mL) were added to a flask; DIPEA (6.6 μL, 37.8 μmol) was then added, and stirred for 20 hours at room temperature. The reaction solution was purified by HPLC (eluent, from 28% acetonitrile/0.1% trifluoroacetic acid/water (0 min) to 60% acetonitrile/0.1% TFA/water (20 min); flow rate=25.0 mL/min), and the solvent was distilled off under reduced pressure. NH2-PEG6-OH (4.9 mg, 13.7 μmol), DIPEA (25 μL, 0.14 mmol), and water (50 μL) were added to the residue, and stirred for 15 hours at room temperature. The reaction solution was purified by HPLC (eluent, from 28% acetonitrile/0.1% trifluoroacetic acid/water (0 min) to 60% acetonitrile/0.1% TFA/water (20 min); flow rate=25.0 mL/min), and the solvent was distilled off under reduced pressure (SiRpH5-PEG6-OH). N-hydroxysuccinimide (4 mg, 35 μmol), EDC hydrochloride (6.7 mg, 0.11 mmol), and DMF (3 mL) were added to the residue; DIPEA (20 μL, 37.8 μmol) was then added, and stirred for 17 hours at room temperature. The reaction solution was purified by HPLC (eluent, from 24% acetonitrile/0.1% trifluoroacetic acid/water (0 min) to 44% acetonitrile/0.1% TFA/water (20 min); flow rate=25.0 mL/min), and SiRpH5-PEG6-SE (4.1 mg, 3.44 μmol, yield 27%) was obtained.
 1BNR (400 MHz, D2O: CH3CN=3:1): δ 0.61 (s, 6H) , 2.05 (s, 6H), 2.60 (t, J=6.2 Hz 2H), 2.98 (t, J=6.2 Hz, 2H), 3.34 (brs, 4H), 3.42 (s, 3H), 3.61-3.76 (m, 30H), 4.05 (t, J=6.2 Hz, 2H), 4.77 (s, 2H) , 6.80 (s, 1H) , 6.87 (dd, J=9.0, 2.4 Hz, 1H) , 6.95 (d, J=9.0 Hz, 1H), 7.41 (s, 1H), 7.46 (d, J=2.4 Hz, 1H), 7.71-7.73 (m, 3H), 8.02 (dd, (J=8.0, 1.8 Hz, 1H), 8.34 (d, J=1.8 Hz, 1H); HRMS (ESI+) Calcd for [M]+, 1095.4127, Found, 1095.4156 (+2.9 mmu); The HPLC chromatogram after purification was as follows. The elution was done with a 20 min linear gradient from 16% CH3CN/0.1% TFA aq. To 48% CH3CN/0.1% TFA aq. (flow rate=1.0mL/min); Absorbance at 600 nm was detected.
+<img> id-US20180118943A1-20180503-C00027.TIF </img>
 HRMS (ESI+) Calcd for [M]+, 1192.4290, Found 1192.4270 (−2.0 mmu)
 Example 10
 SiRpH5-PEG6-BG (compound 7) having a benzylguanine structure via a PEG linker and capable of forming a covalent bond with a SNAP-Tag protein was synthesized by scheme 7 below.
+<img> id-US20180118943A1-20180503-C00028.TIF </img>
 (a) DIPEA, DMF, r.t.
 Step (a)
 SiRpH5-PEG6-SE (1.8 mg, 1.38 μmol), BG-NH2 (1.1 mg, 4.14 μmol), and DMF (1 mL) were added to a flask; DIPEA (1.4 μL, 8.28 μmol) was then added, and stirred for four hours at room temperature. The reaction solution was purified by HPLC (eluent, from 16% acetonitrile/0.1% trifluoroacetic acid/water (0 min) to 48% acetonitrile/0.1% TFA/water (20 min); flow rate=25.0 mL/min), and SiRpH5-PEG6-BG (1.7 mg, 1.16 μmol, yield 84%) was obtained.

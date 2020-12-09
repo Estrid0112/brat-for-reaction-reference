@@ -601,10 +601,43 @@ var Visualizer = (function($, window, undefined) {
 
         // prepare span boundaries for token containment testing
         var sortedFragments = [];
+        var startToken;
+        var endToken;
+
         $.each(data.spans, function(spanNo, span) {
+          var fineFragments = [];
+          var fineUnsegmentedOffsets = [];
+          var fineSegmentedOffsetsMap = {};
           $.each(span.fragments, function(fragmentNo, fragment) {
-            sortedFragments.push(fragment);
+            if (wrapEntity) {
+              startToken = sourceData.token_offsets.findIndex(function (array) {
+                return array[1] > fragment['from'];
+              });
+              endToken = sourceData.token_offsets.findIndex(function (array) {
+                return array[1] >= fragment['to'] && array[0] < fragment['to'];
+              });
+              var idx;
+              var start_off;
+              var end_off;
+              var fineFrag;
+              for (idx = startToken; idx <= endToken; idx ++) {
+                start_off = Math.max(sourceData.token_offsets[idx][0], fragment['from'])
+                end_off = Math.min(sourceData.token_offsets[idx][1], fragment['to'])
+                fineFrag = new Fragment(fineFragments.length, span, start_off, end_off)
+                fineFragments.push(fineFrag);
+                fineUnsegmentedOffsets.push([start_off, end_off]);
+                fineSegmentedOffsetsMap[fineFragments.length] = fineFragments.length;
+                sortedFragments.push(fineFrag)
+              }
+            }else {
+              sortedFragments.push(fragment);
+            }
           });
+          if (wrapEntity){
+            span.fragments = fineFragments;
+            // span.offsets = fineUnsegmentedOffsets;
+            span.segmentedOffsetsMap = fineSegmentedOffsetsMap;
+          }
         });
         // sort fragments by beginning, then by end
         sortedFragments.sort(function(a, b) {
@@ -624,70 +657,35 @@ var Visualizer = (function($, window, undefined) {
         var chunkNo = 0;
         var space;
         var chunk = null;
-        var fine_grained_sorted_fragments = [];
-        var fragID = 0;
         // token containment testing (chunk recognition)
-        if (startFragmentId && to > sortedFragments[startFragmentId - 1].to) {
+        $.each(sourceData.token_offsets, function() {
+          var from = this[0];
+          var to = this[1];
+          if (firstFrom === null) firstFrom = from;
+
+          // Replaced for speedup; TODO check correctness
+          // inSpan = false;
+          // $.each(data.spans, function(spanNo, span) {
+          //   if (span.from < to && to < span.to) {
+          //     // it does; no word break
+          //     inSpan = true;
+          //     return false;
+          //   }
+          // });
+
+          // Is the token end inside a span?
+          if (startFragmentId && to > sortedFragments[startFragmentId - 1].to) {
             while (startFragmentId < numFragments && to > sortedFragments[startFragmentId].from) {
               startFragmentId++;
             }
           }
           currentFragmentId = startFragmentId;
-        var tokenID;
-        var newFragment;
-        var prevSpan = "";
-        for (tokenID = 0; tokenID < sourceData.token_offsets.length; tokenID++){
-        // $.each(sourceData.token_offsets, function() {
-        //   var from = this[0];
-        //   var to = this[1];
-          var from = sourceData.token_offsets[tokenID][0];
-          var to = sourceData.token_offsets[tokenID][1];
-          if (firstFrom === null) firstFrom = from;
-
-          // if the end of the current chunk is after the end of the current fragment
           while (currentFragmentId < numFragments && to >= sortedFragments[currentFragmentId].to) {
-            if (sortedFragments[currentFragmentId].span.id !== prevSpan){
-                sortedFragments[currentFragmentId].span.offsets = [];
-                sortedFragments[currentFragmentId].span.fragments = [];
-                sortedFragments[currentFragmentId].span.unsegmentedOffsets = [];
-                prevSpan = sortedFragments[currentFragmentId].span.id;
-              }
-            // if we wrap entity and the last chunk is partially overlapped with the current fragment
-            if (wrapEntity && lastTo > sortedFragments[currentFragmentId].from && fragID > 0){
-              sortedFragments[currentFragmentId].span.offsets.push([from, sortedFragments[currentFragmentId].to]);
-              sortedFragments[currentFragmentId].span.unsegmentedOffsets.push([from, sortedFragments[currentFragmentId].to]);
-              sortedFragments[currentFragmentId].span.segmentedOffsetsMap[fragID] = fragID;
-              newFragment = new Fragment(fragID, sortedFragments[currentFragmentId].span, from, sortedFragments[currentFragmentId].to);
-              sortedFragments[currentFragmentId].span.fragments.push(newFragment);
-              fine_grained_sorted_fragments.push(newFragment);
-              fragID = 0;
-            }else if (lastTo <= sortedFragments[currentFragmentId].from){
-              // if the last chunk is not overlapped with the current fragment
-              sortedFragments[currentFragmentId].span.fragments.push(sortedFragments[currentFragmentId]);
-              fine_grained_sorted_fragments.push(sortedFragments[currentFragmentId]);
-            }
             currentFragmentId++;
-            fragID = 0;
           }
           // if yes, the next token is in the same chunk
           if (currentFragmentId < numFragments && to > sortedFragments[currentFragmentId].from) {
-            if (!wrapEntity) {
-              return;
-            }else{
-              if (sortedFragments[currentFragmentId].span.id !== prevSpan){
-                sortedFragments[currentFragmentId].span.offsets = [];
-                sortedFragments[currentFragmentId].span.fragments = [];
-                sortedFragments[currentFragmentId].span.unsegmentedOffsets = [];
-                prevSpan = sortedFragments[currentFragmentId].span.id;
-              }
-              sortedFragments[currentFragmentId].span.offsets.push([from, to]);
-              sortedFragments[currentFragmentId].span.unsegmentedOffsets.push([from, to]);
-              sortedFragments[currentFragmentId].span.segmentedOffsetsMap[fragID] = fragID;
-              newFragment = new Fragment(fragID, sortedFragments[currentFragmentId].span, from, to);
-              sortedFragments[currentFragmentId].span.fragments.push(newFragment);
-              fine_grained_sorted_fragments.push(newFragment);
-              fragID ++;
-            }
+            return;
           }
 
           // otherwise, create the chunk found so far
@@ -700,11 +698,95 @@ var Visualizer = (function($, window, undefined) {
           data.chunks.push(chunk);
           lastTo = to;
           firstFrom = null;
-        }
-
-        if (wrapEntity){
-          sortedFragments = fine_grained_sorted_fragments;
-        }
+        });
+        // var currentFragmentId = 0;
+        // var startFragmentId = 0;
+        // var numFragments = sortedFragments.length;
+        // var lastTo = 0;
+        // var firstFrom = null;
+        // var chunkNo = 0;
+        // var space;
+        // var chunk = null;
+        // var fine_grained_sorted_fragments = [];
+        // var fragID = 0;
+        // // token containment testing (chunk recognition)
+        // if (startFragmentId && to > sortedFragments[startFragmentId - 1].to) {
+        //     while (startFragmentId < numFragments && to > sortedFragments[startFragmentId].from) {
+        //       startFragmentId++;
+        //     }
+        //   }
+        //   currentFragmentId = startFragmentId;
+        // var tokenID;
+        // var newFragment;
+        // var prevSpan = "";
+        // for (tokenID = 0; tokenID < sourceData.token_offsets.length; tokenID++){
+        // // $.each(sourceData.token_offsets, function() {
+        // //   var from = this[0];
+        // //   var to = this[1];
+        //   var from = sourceData.token_offsets[tokenID][0];
+        //   var to = sourceData.token_offsets[tokenID][1];
+        //   if (firstFrom === null) firstFrom = from;
+        //   // if the end of the current chunk is after the end of the current fragment
+        //   while (currentFragmentId < numFragments && to >= sortedFragments[currentFragmentId].to) {
+        //     if (sortedFragments[currentFragmentId].span.id !== prevSpan){
+        //         sortedFragments[currentFragmentId].span.offsets = [];
+        //         sortedFragments[currentFragmentId].span.fragments = [];
+        //         sortedFragments[currentFragmentId].span.unsegmentedOffsets = [];
+        //         prevSpan = sortedFragments[currentFragmentId].span.id;
+        //       }
+        //     // if we wrap entity and the last chunk is partially overlapped with the current fragment
+        //     if (wrapEntity && lastTo > sortedFragments[currentFragmentId].from && fragID > 0){
+        //       sortedFragments[currentFragmentId].span.offsets.push([from, sortedFragments[currentFragmentId].to]);
+        //       sortedFragments[currentFragmentId].span.unsegmentedOffsets.push([from, sortedFragments[currentFragmentId].to]);
+        //       sortedFragments[currentFragmentId].span.segmentedOffsetsMap[fragID] = fragID;
+        //       newFragment = new Fragment(fragID, sortedFragments[currentFragmentId].span, from, sortedFragments[currentFragmentId].to);
+        //       sortedFragments[currentFragmentId].span.fragments.push(newFragment);
+        //       fine_grained_sorted_fragments.push(newFragment);
+        //       fragID = 0;
+        //     }else if (lastTo <= sortedFragments[currentFragmentId].from){
+        //       // if the last chunk is not overlapped with the current fragment
+        //       sortedFragments[currentFragmentId].span.fragments.push(sortedFragments[currentFragmentId]);
+        //       fine_grained_sorted_fragments.push(sortedFragments[currentFragmentId]);
+        //     }
+        //     currentFragmentId++;
+        //     fragID = 0;
+        //   }
+        //   // if yes, the next token is in the same chunk
+        //   if (currentFragmentId < numFragments && to > sortedFragments[currentFragmentId].from) {
+        //     if (!wrapEntity) {
+        //       return;
+        //     }else{
+        //       if (sortedFragments[currentFragmentId].span.id !== prevSpan){
+        //         sortedFragments[currentFragmentId].span.offsets = [];
+        //         sortedFragments[currentFragmentId].span.fragments = [];
+        //         sortedFragments[currentFragmentId].span.unsegmentedOffsets = [];
+        //         prevSpan = sortedFragments[currentFragmentId].span.id;
+        //       }
+        //       sortedFragments[currentFragmentId].span.offsets.push([from, to]);
+        //       sortedFragments[currentFragmentId].span.unsegmentedOffsets.push([from, to]);
+        //       sortedFragments[currentFragmentId].span.segmentedOffsetsMap[fragID] = fragID;
+        //       newFragment = new Fragment(fragID, sortedFragments[currentFragmentId].span, from, to);
+        //       sortedFragments[currentFragmentId].span.fragments.push(newFragment);
+        //       fine_grained_sorted_fragments.push(newFragment);
+        //       fragID ++;
+        //     }
+        //   }
+        //
+        //   // otherwise, create the chunk found so far
+        //   space = data.text.substring(lastTo, firstFrom);
+        //   var text = data.text.substring(firstFrom, to);
+        //   if (chunk) chunk.nextSpace = space;
+        //   //               (index,     text, from,      to, space) {
+        //   chunk = new Chunk(chunkNo++, text, firstFrom, to, space);
+        //   chunk.lastSpace = space;
+        //   data.chunks.push(chunk);
+        //   lastTo = to;
+        //   firstFrom = null;
+        // }
+        //
+        // if (wrapEntity){
+        //   sortedFragments = fine_grained_sorted_fragments;
+        // }
         var numChunks = chunkNo;
 
         // find sentence boundaries in relation to chunks

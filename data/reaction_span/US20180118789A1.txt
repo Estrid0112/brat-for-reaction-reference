@@ -2,6 +2,7 @@ BACKGROUND OF THE INVENTION
 The melanocortin system consists of five receptors, discovered to date, that are members of the family of G protein-coupled receptors (GPCRs) (Chhajlani, V., et al. Biochem. Biophys. Res. Commun. 1993, 195, 866-873; Chhajlani, V., et al. FEBS Lett. 1992, 309, 417-420; Gantz, I., et al. J. Biol. Chem. 1993, 268, 8246-8250; Gantz, I., et al. J. Biol. Chem. 1993, 268, 15174-15179; Gantz, I., et al. Biochem. Biophys. Res. Commun. 1994, 200, 1214-1220; Griffon, N., et al. Biochem. Biophys. Res. Commun. 1994, 200, 1007-1014; Mountjoy, K. G., et al. Science 1992, 257, 1248-1251; and Roselli-Rehfuss, L., et al. Proc. Natl. Acad. Sci. U.S.A. 1993, 90, 8856-8860), endogenous agonists including the α-melanocyte stimulating hormone (MSH), β-MSH, γ-MSH, and adrenocorticotropic hormone (ACTH) derived from the proopiomelanocortin (POMC) gene transcript (Nakanishi, S., et al. Nature 1979, 278, 423-427), and the naturally occurring antagonists agouti and agouti-related protein (AGRP) (Lu, D., et al. Nature 1994, 371, 799-802; 011mann, M. M., et al. Science 1997, 278, 135-138; and Yang, Y. K., et al. Mol. Endocrinol. 1999, 13, 148-155). These receptors and ligands are purported to be important in numerous biological pathways, including pigmentation (Allen, B. M. Science 1916, 44, 755-758; and Smith, P. E. Science 1916, 44, 280-282), steroidogenesis (Haynes, R. C., Jr., et al. J. Biol. Chem. 1957, 225, 115-124), and energy homeostasis (Huszar, D., et al. Cell 1997, 88, 131-141). In particular, knock-out of the melanocortin 3- and 4-receptors (MC3R, MC4R) in mice alters metabolic phenotypes, with MC3R deficient mice possessing normal body weight accompanied by an increase in fat mass, while disrupting the MC4R results in hyperphagia and obesity in mice (Huszar, D., et al. Cell 1997, 88, 131-141; Butler, A. A., et al. Endocrinol. 2000, 141, 3518-3521; and Chen, A. S., et al. Nat. Genet. 2000, 26, 97-102). Mutations in the MC4R in humans have also been shown to result in obesity; in one study, 5.8% of individuals with severe childhood obesity were found to have mutations in the MC4R (Farooqi, I. S., et al. N. Engl. J. Med. 2003, 348, 1085-1095). Mice may therefore serve as a translation model for MC4R-related obesity in humans due to the similar hyperphagic, overweight phenotype observed. Central administration of the nonselective melanocortin agonists α-MSH (Poggioli, R., et al. Peptides 1986, 7, 843-848), NDP-MSH (Brown, K. S., et al. Regul. Peptides 1998, 78, 89-94), and MT-II (Fan, W., et al. Nature 1997, 385, 165-168; and Irani, B. G., et al. Eur. J. Pharmacol. 2011, 660, 80-87) through an intracerebroventricular (i.c.v.) injection decrease food intake in rodents, while injection of the synthetic SHU9119 (Fan, W., et al. Nature 1997, 385, 165-168) and endogenous AGRP (Irani, B. G., et al. Eur. J. Pharmacol. 2011, 660, 80-87; and Ebihara, K., et al. Diabetes 1999, 48, 2028-2033) MC3R/MC4R antagonists increase food consumption. With estimated global obesity rates more than doubling from 1980 to 2014 (World Health Organization (2016) Obesity and overweight fact sheet), the development of novel probes to investigate the etiology of obesity and serve as potential therapeutic leads may be important in efforts to decrease this trend. While MC4R-selective agonists based upon the endogenous melanocortin agonists have previously been investigated, off-target effects including increased blood pressure and increased erectile activity have limited their clinical utility (Greenfield, J. R., et al. New Engl. J. Med. 2009, 360, 44-52). Therefore, there is a need for new melanocortin ligands. Specifically, there is a need for MC4-R ligands (e.g., selective MC4-R ligands) with less undesired side effects.
 SUMMARY OF THE INVENTION
 This invention provides new melanocortin ligands. Accordingly, certain embodiments of the invention provide a cyclic compound of formula I:
+<img> id-US20180118789A1-20180503-C00002.TIF </img>
 wherein:
 Pro is a residue of L-proline, wherein the pyrrolidinyl ring is optionally substituted with one or more halo groups, (C1-C4)alkyl, -O(C1-C4)alkyl, (C1-C4)haloalkyl, or -O(C1-C4)haloalkyl;
 DPhe is a residue of D-phenylalanine, wherein the phenyl ring is optionally substituted with one or more halo groups, (C1-C4)alkyl, -O(C1-C4)alkyl, (C1-C4)haloalkyl, or -O(C1-C4)haloalkyl;
@@ -23,6 +24,7 @@ The invention also provides the use of a compound of formula I or a pharmaceutic
 The invention also provides processes and intermediates disclosed herein that are useful for preparing a compound of formula I or a salt thereof.
 DETAILED DESCRIPTION
 Certain embodiments of the invention provide a cyclic compound of formula I:
+<img> id-US20180118789A1-20180503-C00003.TIF </img>
 wherein:
 Pro is a residue of L-proline, wherein the pyrrolidinyl ring is optionally substituted with one or more halo groups, (C1-C4)alkyl, -O(C1-C4)alkyl, (C1-C4)haloalkyl, or -O(C1-C4)haloalkyl;
 DPhe is a residue of D-phenylalanine, wherein the phenyl ring is optionally substituted with one or more halo groups, (C1-C4)alkyl, -O(C1-C4)alkyl, (C1-C4)haloalkyl, or -O(C1-C4)haloalkyl;
@@ -36,6 +38,7 @@ X4 is a direct bond or a residue of an amino acid, dipeptide or tripeptide;
 wherein when X1, X2, X3 or X4 is a residue of a lysine or comprises a residue of a lysine, the side-chain amine of the lysine is optionally linked through an amide bond to the carboxy terminus of an amino acid or the carboxy terminus of a peptide that is 2, 3, or 4 amino acids in length, and wherein the amino acid or peptide linked to the lysine is optionally acylated;
 or a salt thereof.
 Certain embodiments of the invention provide a cyclic compound of formula I:
+<img> id-US20180118789A1-20180503-C00004.TIF </img>
 wherein:
 Pro is a residue of L-proline, wherein the pyrrolidinyl ring is optionally substituted with one or more halo groups, (C1-C4)alkyl, -O(C1-C4)alkyl, (C1-C4)haloalkyl, or -O(C1-C4)haloalkyl;
 DPhe is a residue of D-phenylalanine, wherein the phenyl ring is optionally substituted with one or more halo groups, (C1-C4)alkyl, -O(C1-C4)alkyl, (C1-C4)haloalkyl, or -O(C1-C4)haloalkyl;
@@ -222,10 +225,13 @@ DPro];
 </table>
 and salts thereof.
 In one embodiment, a compound of the invention is selected from the group consisting of:
+<img> id-US20180118789A1-20180503-C00005.TIF </img>
 and salts thereof.
 In one embodiment, a compound of the invention is selected from the group consisting of:
+<img> id-US20180118789A1-20180503-C00006.TIF </img><img> id-US20180118789A1-20180503-C00007.TIF </img>
 and salts thereof.
 In one embodiment, a compound of the invention is selected from the group consisting of:
+<img> id-US20180118789A1-20180503-C00008.TIF </img><img> id-US20180118789A1-20180503-C00009.TIF </img>
 and salts thereof.
 In one embodiment, the compound of invention is a cyclic peptide, comprising an amino acid sequence having at least 80% sequence identity to:
 <table>

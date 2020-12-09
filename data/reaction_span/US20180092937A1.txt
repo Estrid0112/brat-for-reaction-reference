@@ -16,6 +16,7 @@ U.S. Pat. No. 7,592,326 describes immunostimulatory cyclic dinucleotide compound
 WO 2016/096174 and WO 2016/145102 describe cyclic dinucleotide compounds that feature two purine nucleobases and two canonical 3',5' phosphodiester or phosphorothioate moieties and induce STING-dependent cytokine production. Bioorg. Med. Chem. Lett. 18 (2008) 5631-5634 describes immunostimulatory mono- and bisphosphorothioate analogues of symmetrical bacterial CDN c-di-GMP.
 SUMMARY OF THE INVENTION
 In a first aspect the invention provides cyclic dinucleotide compounds of formula I
+<img> id-US20180092937A1-20180405-C00002.TIF </img>
 whereinR1 is selected from the group consisting of H, F, -O-C1-3-alkyl and OH, and
 R2 is H, or
 R2 is -CH2- and R1 is -O-, forming together a -CH2-O- bridge (“Locked Nucleic Acid”; “LNA”), and
@@ -113,10 +114,13 @@ I-16 & R1 is -O- and R2 is & hypoxanthine
  & bridge
 </table>
 A preferred substructure of compounds according to the invention is shown in formula Ia,
+<img> id-US20180092937A1-20180405-C00003.TIF </img>
 wherein R1 and R2 as well as embodiments thereof are defined as described hereinbefore.
 A preferred substructure of compounds according to the invention is shown in formula Ib,
+<img> id-US20180092937A1-20180405-C00004.TIF </img>
 wherein R1 and R2 as well as embodiments thereof are defined as described hereinbefore.
 The following compounds according to the invention are particularly preferred:
+<img> id-US20180092937A1-20180405-C00005.TIF </img>
 their tautomers and stereoisomers, the salts thereof, particularly the physiologically acceptable salts thereof with inorganic or organic bases, their solvates or hydrates.
 The compounds of the present invention possess chiral phosphor atoms with either Rp or Sp configuration. All stereoisomers of the compounds of general formula I, Ia, Ib, Ia.1, Ia.2, Ia.3 and Ib.1, either in substantially pure form or as the mixtures thereof, are covered by the subject invention. The compounds of general formula I, Ia, Ib, Ia.1, Ia.2, Ia.3 and Ib.1 as substantially pure (Rp,Rp), (Rp,Sp), (Sp,Rp) or (Sp,Sp) stereosiomers are preferred, particularly the substantially pure (Rp,Rp) stereoisomer, i.e. both phosphor atoms have the Rp configuration.
 The compounds according to the invention and their intermediates may be obtained using methods of synthesis which are known to the one skilled in the art and described in the literature of organic synthesis. Preferably the compounds are obtained analogously to the methods of preparation explained more fully hereinafter, in particular as described in the experimental section. In some cases the sequence adopted in carrying out the reaction schemes may be varied. Variants of these reactions that are known to the skilled person but are not described in detail here may also be used. The general processes for preparing the compounds according to the invention will become apparent to the skilled person on studying the schemes that follow. Starting compounds are commercially available or may be prepared by methods that are described in the literature or herein, or may be prepared in an analogous or similar manner. Before the reaction is carried out, any corresponding functional groups in the compounds may be protected using conventional protecting groups. These protecting groups may be cleaved again at a suitable stage within the reaction sequence using methods familiar to the one skilled in the art.
@@ -126,22 +130,31 @@ The compounds of formula (I) and salts thereof may be prepared by the methodolog
 Those who are skilled in the art will recognize that the phosphorothioate moieties in formula (I) may each exist in the R configuration (Rp) or S configuration (Sp). The methodology described hereinafter may yield up to four diastereomers with respect to the phosphor atoms which may be separated by chromatographic methods known to the person who is skilled in the art, for example high pressure liquid chromatography with suitable solvent systems and columns at different stages of the synthesis. In some cases, for example when one sulfurization step proceeds in a diastereoselective fashion, the methodology described hereinafter may preferentially yield only two diastereomers which may be separated by chromatographic methods known to the person who is skilled in the art at different stages of the synthesis.
 Substituents not explicitly specified within the following methods of preparation are understood to cover the definitions mentioned hereinbefore under the Summary of the Invention.
 A compound of formula
+<img> id-US20180092937A1-20180405-C00006.TIF </img>
 wherein R4 and optionally R1 are OH, may be prepared by deprotection of a compound of formula (II),
+<img> id-US20180092937A1-20180405-C00007.TIF </img>
 wherein R4.1 and optionally R1.1 is oxygen bearing a suitable protecting group, such as tert-butyldimethylsilyl (TBS). For example, R1.1 is H, F, O-alkyl or OTBS or, together with R2, forms a -CH2-O- bridge, and R4.1 is OTBS. For example, a compound of formula (II) is dissolved in a suitable solvent, for example pyridine, treated with a mixture of triethylamine trihydrofluoride and triethylamine and stirred at a suitable temperature, for example 20-60° C., for a suitable period of time, for example 1-6 hours.
 A compound of formula (II) may be prepared by deprotection of a compound of formula (III),
+<img> id-US20180092937A1-20180405-C00008.TIF </img>
 wherein either R3.1 denotes NH bearing a suitable protecting group, such as benzoyl, and R3.2 denotes H (“protected adenine”) orR3.1 denotes OH and R3.2.denotes NH bearing a suitable protecting group, such as iso-butyryl (“protected guanine”) orR3.1 denotes OH and R3.2.denotes H (“hypoxanthin”) orR3.1 and R3.2 both denote H (“purine”).
 For example, a compound of formula (III) is dissolved in a suitable mixture, for example methylamine or aqueous ammonia in methanol or ethanol, and stirred at a suitable temperature, for example 20-60° C., for a suitable period of time, for example 1-24 hours.
 A compound of formula (III) may be prepared by cyclization and subsequent sulfurization of a compound of formula (IV), wherein R2, R3.1, R3.2., R1.1 and R4.1 are defined as mentioned hereinbefore:
+<img> id-US20180092937A1-20180405-C00009.TIF </img>
 For example, a compound of formula (IV) is dissolved in a suitable solvent, for example pyridine, and treated with a suitable coupling reagent, for example 2-chloro-5,5-dimethyl-1,3,2-dioxaphosphorinane 2-oxide (DMOCP) or pivaloyl chloride or adamantoyl chloride, and stirred at a suitable temperature, for example 20° C., for a suitable period of time, for example 0.1-2 hours. The cyclization reaction is quenched by treatment with a suitable sulfurization reagent, for example, 3H-1,2-benzodithiol-3-one or elemental sulfur, and stirred at a suitable temperature, for example 20° C., for a suitable period of time, for example 0.1-2 hours.
 A compound of formula (IV) may be prepared by coupling of a compound of formula (V) with a compound of formula (VI), wherein R2, R3.1, R3.2., R1.1 and R4.1 are defined as mentioned hereinbefore:
+<img> id-US20180092937A1-20180405-C00010.TIF </img>
 For example, a compound of formula (VI) is dissolved in a suitable solvent, for example acetonitrile, and is treated with a solution of a compound of formula (V) dissolved in a suitable solvent, for example acetonitrile, optionally in the presence of a suitable coupling reagent, for example tetrazole, Activator 42® (activator solution, containing 5-(3,5-bis(trifluoromethyl)phenyl)-1H-tetrazole in acetonitrile), pyridinium dichloroacetate or pyridinium trifluoroacetate (or mixtures of coupling reagents), and stirred at a suitable temperature, for example 20° C., for a suitable period of time, for example 0.1-2 hours. The coupling reaction is quenched by treatment with a suitable sulfurization reagent, for example, 3-((N,N-dimethylaminomethylidene)amino)-3H-1,2,4-dithiazole-3-thione (DDTT) or phenylacetyl disulfide (PADS) or 3H-1,2-benzodithiol-3-one 1,1-dioxide (Beaucage's reagent), and stirred at a suitable temperature, for example 20° C., for a suitable period of time, for example 0.1-2 hours. After evaporation of the solvent, the residue is dissolved in a suitable solvent, for example a mixture of dichloromethane and water, and treated with a suitable reagent, for example dichloroacetic acid, and stirred at a suitable temperature, for example 20° C., for a suitable period of time, for example 0.1-2 hours. A solution containing the product (IV) is obtained by the addition of a suitable solvent, for example pyridine, and concentration by evaporation.
 A compound of formula (V) may be prepared by reaction of a compound of formula (VII), wherein R2, R3.1, R3.2., R1.1 and R4.1 are defined as mentioned hereinbefore:
+<img> id-US20180092937A1-20180405-C00011.TIF </img>
 For example, a compound of formula (VII) is dissolved in a suitable mixture, for example acetonitrile containing water, and treated with pyridinium trifluoroacetate, and stirred at a suitable temperature, for example 20° C., for a suitable period of time, for example 1-30 minutes. Then tert-butylamine is added and the mixture stirred at a suitable temperature, for example 20° C., for a suitable period of time, for example 0.1-1 hour. The product is isolated by evaporation of the solvent then dissolved in a suitable solvent, for example dichloromethane containing water, and treated with dichloroacetic acid and stirred at a suitable temperature, for example 20° C., for a suitable period of time, for example 0.1-1 hour. A concentrated solution of the product (V) in acetonitrile is obtained, for example, by the addition of pyridine followed by azeotroping the mixture with acetonitrile.
 A compound of formula (VI) may be prepared by reaction of a compound of formula (VIII), wherein R4.1 is defined as mentioned hereinbefore:
+<img> id-US20180092937A1-20180405-C00012.TIF </img>
 For example, after azeotroping with a suitable solvent, for example acetontrile, a compound of formula (VIII) is dissolved in a suitable solvent, for example dichloromethane, and reacted with a phosphitylating reagent, for example 2-cyanoethyl N,N,N',N'-tetraisopropylphosphorodiamidite, in the presence of an activator, for example 1H-tetrazole, and stirred at a suitable temperature, for example 20° C., for a suitable period of time, for example 1-48 hours.
 A compound of formula (VIII) may be prepared by reaction of a compound of formula (IX):
+<img> id-US20180092937A1-20180405-C00013.TIF </img>
 For example, a compound of formula (IX) is dissolved in a suitable solvent, for example, pyridine, and reacted with a suitable silylating reagent, for example tert-butyldimethylsilyl chloride, in the presence of a suitable base, for example imidazole, and stirred at a suitable temperature, for example 20° C., for a suitable period of time, for example 1-48 hours. The regioisomeric 2' and 3'-silylated products are isolated after an aqueous work-up and can be separated, for instance by silica gel chromatography with suitable solvent systems.
 A compound of formula (IX) may be prepared by reaction of a compound of formula (X):
+<img> id-US20180092937A1-20180405-C00014.TIF </img>
 For example a compound of formula (X) is dissolved in a suitable solvent, for example pyridine, and reacted with 4,4'-dimethoxytrityl chloride, and stirred at a suitable temperature, for example 20° C., for a suitable period of time, for example 1-48 hours.
 The compounds of general formula I, or synthetic intermediates thereof, may be resolved into their diastereomers as mentioned below. Diastereomeric mixtures of compounds of general formula I may be resolved into their diastereomers by taking advantage of their different physico-chemical properties using methods known per se, e.g. chromatography and/or fractional crystallization.
 As mentioned above, the compounds of formula I may be converted into salts, particularly for pharmaceutical use into the pharmaceutically acceptable salts.
@@ -458,26 +471,31 @@ Time [min] & % Sol DCM & % Sol MeOH & [ml/min] & Temp [° C.]
 SYNTHESES OF INTERMEDIATES
 Intermediate 1.1
 Imidazopyridazinon-β-D-ribofuranoside (1-(β-D-ribofuranosyl)imidazo[4,5-d]pyridazin-4(5H)-one)
+<img> id-US20180092937A1-20180405-C00015.TIF </img>
 The title compound was prepared as described in J. Chem. Soc. Perkin Trans. 1 1989, 1769-1774.
 Intermediate 1.2
 5'-DMT-imidazopyridazinon-β-D-ribofuranoside
+<img> id-US20180092937A1-20180405-C00016.TIF </img>
 Imidazopyridazinon-β-D-ribofuranoside (INTERMEDIATE 1.1, 4.00 g, 14.9 mmol) was azeotroped with anhydrous pyridine (3×20 mL), dried in vacuo and dissolved in anhydrous pyridine (25 mL). To this solution was added a solution of 4,4'-dimethoxytrityl chloride (5.05 g, 14.9 mmol) in anhydrous pyridine (15 mL) and the reaction mixture was stirred for 1 h at room temperature. The reaction mixture was evaporated under reduced pressure and the resulting residue was purified by preparative reversed phase HPLC (X-Bridge C18, acetonitrile/water/NH3)
 LC-MS (system D):
 tRet=0.82 min; ESI-MS: 571 [M+H]+
 Intermediate 1.3-a and Intermediate 1.3-b
 5'-DMT-2'-TBS-imidazopyridazinon-β-D-ribofuranoside (Intermediate 1.3-a) and 5'-DMT-3'-TBS-imidazopyridazinon-β-D-ribofuranoside (Intermediate 1.3-b)
+<img> id-US20180092937A1-20180405-C00017.TIF </img>
 5'-DMT-imidazopyridazinon-β-D-ribofuranoside (INTERMEDIATE 1.2, 5.30 g, 9.29 mmol) was azeotroped with anhydrous pyridine (3×30 mL), dried in vacuo and dissolved in anhydrous pyridine (20 mL). To this solution was added imidazole (1.90 g, 27.9 mmol) and tert-butylchlorodimethylsilane (1.54 g, 10.2 mmol) and the reaction mixture was stirred for 6 h at room temperature. The reaction mixture was partitioned between dichloromethane and water. The organic layer was separated and the aqueous layer extracted with dichloromethane. The combined organic extracts were washed with brine, dried using a hydrophobic frit and evaporated under reduced pressure. The resulting residue was purified by mid-pressure column chromatography (silica gel, gradient of 5-20% acetone in dichloromethane).
 LC-MS (system F):
 INTERMEDIATE 1.3-a: tRet=1.57 min; ESI-MS: 685 [M+H]+
 INTERMEDIATE 1.3-b: tRet=1.67 min; ESI-MS: 685 [M+H]+
 Intermediate 1.4
 5'-DMT-3'-TBS-2'-CEP-imidazopyridazinon-β-D-ribofuranoside
+<img> id-US20180092937A1-20180405-C00018.TIF </img>
 5'-DMT-3'-TBS-imidazopyridazinon-β-D-ribofuranoside (INTERMEDIATE 1.3-b, 1.75 g, 2.56 mmol) was azeotroped with anhydrous acetonitrile (3×25 mL), dried in vacuo and dissolved in anhydrous dichloromethane (45 mL). To this solution was added 2-cyanoethyl N,N,N',N'-tetraisopropylphosphorodiamidite (1.62 mL, 5.12 mmol) and tetrazole (5.69 mL of a 0.5 M solution in acetonitrile, 2.85 mmol) and the reaction mixture was stirred at room temperature for 4 h. The reaction mixture was diluted with dichloromethane and washed with aqueous sodium hydrogen carbonate solution. The organic layer was separated and the aqueous layer was extracted with dichloromethane. The combined organic extracts were dried using a hydrophobic frit and evaporated under reduced pressure. The resulting residue was purified by mid-pressure column chromatography (silica gel (deactivated with triethylamine in dichloromethane), gradient of 20-100% ethyl acetate (3% triethylamine) in cyclohexane). The product was obtained as a mixture of diastereoismers.
 LC-MS (system D):
 tRet=1.33 min; ESI-MS: 885 [M+H]+
 31P NMR (162 MHz, 303 K, CDCl3) δ 150.9 and 149.7 ppm.
 Intermediate 1.5
 5'-OH-2'-TBS-3'-H-phosphonate-N6-Bz-adenosine
+<img> id-US20180092937A1-20180405-C00019.TIF </img>
 N6-Bz-5'-DMT-2'-TBS-3'-CEP-adenosine (obtained from ChemGenes, 0.890 g, 0.90 mmol) was dissolved in acetonitrile (15 mL) and water (0.033 mL, 1.83 mmol, 2 eq.) at room temperature. Pyridinium trifluoroacetate (0.210 g, 1.09 mmol, 1.2 eq.) was added and the reaction mixture was stirred at room temperature for 10 minutes. tert-Butylamine (10 mL, 95.7 mmol) was added and the reaction mixture was stirred at room temperature for 30 minutes. The reaction mixture was evaporated under reduced pressure, re-dissolved in anhydrous acetonitrile (25 mL) and evaporated under reduced pressure to yield a white to colorless foam. The residue was dissolved in dichloromethane (25 mL) and water (0.162 mL, 9 mmol, 10 eq.). Dichloroacetic acid (0.670 mL, 8.12 mmol, 9 eq.) in dichloromethane (25 mL) was added and the resulting orange solution was stirred at room temperature for 10 minutes. Pyridine (1.31 mL, 16.23 mmol, 18 eq.) was added and the reaction mixture was stirred at room temperature for 5 minutes.
 LC-MS analytics of the raw material confirmed the presence of INTERMEDIATE 1.5.
 LC-MS (system A):
@@ -485,6 +503,7 @@ tRet=3.10 min; ESI-MS: 550 [M+H]+
 The flask was stoppered, carefully sealed and stored at +2° C. for 16 hours. The solvents were evaporated under reduced pressure and the residue was azeotroped with anhydrous acetonitrile (4×15 mL). During the last evaporation procedure the solution was concentrated to approximately 5 mL of final azeotrope. The resulting anhydrous solution of intermediate 1.5 was immediately used in the next sequence of reactions.
 Intermediate 1.6
 Linear Dimer 5'-OH-3'-TBS-imidazopyridazinon-β-D-ribofuranoside-(2'→5')-cyanoethyl-phosphorothioate-2'-TBS-3'-H-phosphonate-N6-Bz-adenosine
+<img> id-US20180092937A1-20180405-C00020.TIF </img>
 5'-DMT-3'-TBS-2'-CEP-imidazopyridazinon-β-D-ribofuranoside (INTERMEDIATE 1.4, 1.340 g, 1.51 mmol, 1.7 eq.) was azeotroped with anhydrous acetonitrile (4×10 mL). During the last evaporation procedure the solution was concentrated to approximately 3 mL of the final azeotrope. The resulting solution was added to 5'-OH-2'-TBS-3'-H-phosphonate-N6-Bz-adenosine (INTERMEDIATE 1.5) dissolved in approximately 5 mL anhydrous acetonitrile (theoretical amount of desired material: 0.495 g, 0.90 mmol) at room temperature. The reaction mixture was stirred at room temperature for 30 minutes. ((N,N-dimethylamino-methylidene)amino)-3H-1,2,4-dithiazoline-3-thione (DDTT) (0.203 g, 0.99 mmol, 1.1 eq.) was added and the reaction mixture was stirred at room temperature for 30 minutes. The volatiles were evaporated under reduced pressure and the residue was dissolved in dichloromethane (25 mL) and water (0.162 mL, 9 mmol, 10 eq.). Dichloroacetic acid (1.340 mL, 16.24 mmol, 18 eq.) in dichloromethane (25 mL), was added and the orange solution was stirred at room temperature for 20 minutes. Pyridine (10 mL) was added and the reaction mixture was stirred at room temperature for 5 minutes. LC-MS analytics of the raw material confirmed the presence of INTERMEDIATE 1.6 as a mixture of diastereoisomers.
 LC-MS (system A):
 INTERMEDIATE 1.6-a: tRet=7.36 min; INTERMEDIATE 1.6-b: tRet=7.57 min;
@@ -492,6 +511,7 @@ ESI-MS: 1063 [M+H]+ for each diastereoisomer.
 The flask was stoppered, carefully sealed and stored at +2° C. for 16 hours. The mixture was evaporated under reduced pressure and the residue was co-evaporated with anhydrous pyridine (2×20 mL) under reduced pressure. A further portion of 40 mL anhydrous pyridine was added and the residue was concentrated under reduced pressure to approximately 20 mL total volume. The resulting anhydrous solution of INTERMEDIATE 1.6 was immediately used in the next sequence of reactions.
 Intermediate 1.7
 Cyclic Dimer 3'-TBS-imidazopyridazinon-β-D-ribofuranoside-(2'→5')-cyanoethyl-phosphorothioate-2'-TBS-N6-Bz-adenosine-(3'→5')-phosphorothioate
+<img> id-US20180092937A1-20180405-C00021.TIF </img>
 2-Chloro-5,5-dimethyl-1,3,2-dioxaphosphorinane 2-oxide (DMOCP) (0.581 g, 3.15 mmol, 3.5 eq.) was added to crude 5'-OH-3'-TBS-imidazopyridazinon-β-D-ribofuranoside-(2'→5')-CE-PS-2'-TBS-3'-H-phosphonate-N6-Bz-adenosine (INTERMEDIATE 1.6) (theoretical amount of desired material in crude preparation: 0.957 g, 0.90 mmol) in anhydrous pyridine in a total volume of approximately 20 mL. The resulting mixture was stirred at room temperature for 20 minutes. Water (0.570 mL, 31.6 mmol, 35.1 eq.) and 3H-1,2-benzodithiol-3-one (0.230 g, 1.37 mmol, 1.5 eq.) were added and stirring was continued at room temperature. After 20 minutes, the reaction mixture was poured into a solution of sodium hydrogen carbonate (4.500 g, 53.6 mmol) in 150 mL water and was shaken at room temperature for 5 minutes, followed by the addition of a mixture of ethyl acetate/methyl-tert-butylether (150 mL, 1:1). The organic phase was separated and the aqueous phase was further extracted two times with ethyl acetate/methyl-tert-butylether (2×75 mL, 1:1). The combined organic phases were dried with anhydrous magnesium sulfate, followed by evaporation of solvents under reduced pressure and a final co-evaporation with 100 mL anhydrous toluene. The raw material was purified by preparative flash chromatography (160 g silica gel, gradient of 0-12.5% MeOH in dichloromethane) to yield 0.78 g of purity enriched INTERMEDIATE 1.7 (mixture of diastereomers).
 LC-MS (system A):
 INTERMEDIATE 1.7-a: tRet=7.56 min; INTERMEDIATE 1.7-b: tRet=8.18 min;
@@ -499,6 +519,7 @@ INTERMEDIATE 1.7-c: tRet=9.02 min; INTERMEDIATE 1.7-d: tRet=10.17 min;
 ESI-MS: 1077 [M+H]+ for each diastereoisomer.
 Intermediate 1.8
 Cyclic Dimer 3'-TBS-imidazopyridazinon-β-D-ribofuranoside-(2'→5')-phosphorothioate-2'-TBS-adenosine-(3'→5')-phosphorothioate
+<img> id-US20180092937A1-20180405-C00022.TIF </img>
 125 mL 33% methylamine in absolute ethanol was added to purity enriched 3'-TBS-imidazopyridazinon-β-D-ribofuranoside-(2'→5')-cyanoethyl-phosphorothioate-2'-TBS-N6-Bz-adenosine-(3'→5')-phosphorothioate (INTERMEDIATE 1.7; 0.780 g) and the resulting solution was stirred at room temperature for 4 hours. All volatiles were evaporated under reduced pressure and further dried in vacuo yielding 0.758 g crude INTERMEDIATE 1.8 (mixture of diastereomers), which was directly used in the next reaction.
 LC-MS (system A):
 INTERMEDIATE 1.8-a: tRet=1.47 min; INTERMEDIATE 1.8-b: tRet=3.60 min;
@@ -506,15 +527,18 @@ INTERMEDIATE 1.8-c: tRet=3.90 min; INTERMEDIATE 1.8-d: tRet=5.53 min;
 ESI-MS: 920 [M+H]+ for each diastereoisomer.
 Intermediate 2.1
 5'-OH-2'-F-3'-H-phosphonate-N6-Bz-2'-deoxyadenosine
+<img> id-US20180092937A1-20180405-C00023.TIF </img>
 N6-Benzoyl-5'-DMT-2'-F-2'-deoxyadenosine-3'-CEP (obtained from Alfa Aesar) (1.05 g, 1.20 mmol) was dissolved in acetonitrile (6 mL) and water (0.043 mL, 2.40 mmol, 2 eq.) at room temperature. Pyridinium trifluoroacetate (278 mg, 1.44 mmol, 1.2 eq.) was added and the reaction mixture was stirred at room temperature for 5 minutes. Afterwards, tert-butylamine (6.0 mL, 57.1 mmol) was added and the reaction mixture was stirred at room temperature for 15 minutes. The reaction mixture was evaporated in vacuo, re-dissolved (2×) in anhydrous acetonitrile (12 mL) and again evaporated in vacuo to yield a white to colorless foam. The residue was dissolved in dichloromethane (14.4 mL) and water (0.22 mL, 12.0 mmol, 10 eq.). Dichloroacetic acid in dichloromethane (6%, 14.4 mL) was added and the resulting orange solution was stirred at room temperature for 10 minutes. Pyridine (1.64 mL, 20.3 mmol, 17 eq.) was added and the reaction mixture was evaporated in vacuo and azeotroped with anhydrous acetonitrile (3×11 mL). Finally the remaining crude product was dried in high vacuo for additional 30 min and used without further purification.
 LC-MS analytics of the raw material confirmed the presence of INTERMEDIATE 2.1.
 LC-MS (system E):
 tRet=0.64 min ESI-MS: 438 [M+H]+.
 Intermediate 2.2
 Linear Dimer 5'-OH-3'-TBS-imidazopyridazinon-β-D-ribofuranoside-(2'→5')-cyanoethyl-phosphorothioate-2'-F-3'-H-phosphonate-N6-Bz-2'-deoxyadenosine
+<img> id-US20180092937A1-20180405-C00024.TIF </img>
 5'-DMT-3'-TBS-2'-CEP-imidazopyridazinon-β-D-ribofuranoside (INTERMEDIATE 1.4, 1.38 g, 1.56 mmol, 1.0 eq.) was dissolved in anhydrous acetonitrile (10 mL) and was azeotropically evaporated in vacuo. This operation was repeated another three times leaving about 5 mL of azeotrope in the flask at the last evaporation. 10 pieces of molecular sieve (3 Å) were added and the resulting mixture was added to 5'-OH-2'-F-3'-H-phosphonate-N6-Bz-2'-deoxyadenosine (INTERMEDIATE 2.1) dissolved in approximately 3 mL anhydrous acetonitrile (theoretical amount of desired material: 523 mg, 1.20 mmol) at room temperature. The reaction mixture was stirred at room temperature for 5 minutes. ((N,N-dimethylamino-methylidene)amino)-3H-1,2,4-dithiazoline-3-thione (DDTT) (275 mg, 1.34 mmol, 0.9 eq.) was added and the reaction mixture was stirred at room temperature for 30 minutes. The volatiles were evaporated in vacuo and the residue was dissolved in dichloromethane (20 mL) and water (0.216 mL, 12 mmol, 7.7 eq.). Dichloroacetic acid in dichloromethane (6%, 19.2 mL) was added and the resulting orange solution was stirred at room temperature for 10 minutes. After this period, pyridine (12 mL) was added and the reaction mixture was evaporated in vacuo. Finally the remaining crude product was dried in high vacuo for additional 30 min and used without further purification and characterization.
 Intermediate 2.3
 Cyclic Dimer 3'-TBS-imidazopyridazinon-β-D-ribofuranoside-(2'→5')-cyanoethyl-phosphorothioate-2'-F-N6-Bz-2'-deoxyadenosine-(3'→5')-phosphorothioate
+<img> id-US20180092937A1-20180405-C00025.TIF </img>
 Crude intermediate 2.2 (maximum theoretical amount of desired material: 1.48 g, 1.56 mmol) was dissolved in 36 mL anhydrous pyridine and reduced to approximately 20 mL in vacuo. 2-Chloro-5,5-dimethyl-1,3,2-dioxaphosphorinane 2-oxide (DMOCP) (775 mg, 4.20 mmol, 2.7 eq.) was added and the resulting mixture was stirred at room temperature for 5 minutes. Water (0.75 mL, 41.3 mmol, 26.5 eq.) and 3H-1,2-Benzodithiol-3-one (0.302 g, 1.80 mmol, 1.15 eq.) were added and stirring was continued at room temperature. After 5 minutes, the reaction mixture was poured into a solution of sodium hydrogen carbonate (4.00 g, 47.6 mmol) in 140 mL water and was stirred at room temperature for 5 minutes, followed by the addition of a mixture of ethyl acetate/methyl-tert-butylether (140 mL, 1:1). The organic phase was separated and the aqueous phase was further extracted with ethyl acetate/methyl-tert-butylether (1:1). The organic phases were combined and the solvent was removed in vacuo.
 The remaining residue was dissolved in a minimum volume of dichloromethane and purified by preparative flash chromatography (silica gel, DCM/MeOH: 100/0→80/20). Fractions were analyzed by HPLC-MS. Product-containing fractions were combined and the solvent removed in vacuo to yield 900 mg of a mixture of diastereoisomers. LC-MS analytics of the material confirmed the presence of INTERMEDIATEs 2.3-a/b/c/d.
 LC-MS (system E):
@@ -523,6 +547,7 @@ INTERMEDIATE 2.3-c: tRet=1.00 min; INTERMEDIATE 2.3-d: tRet=1.03 min;
 ESI-MS: 965 [M+H]+ for each diastereoisomer.
 Intermediate 2.4
 Cyclic Dimer 3'-TBS-imidazopyridazinon-β-D-ribofuranoside-(2'→5')-phosphorothioate-2'-F-2'-deoxyadenosine-(3'→5')-phosphorothioate
+<img> id-US20180092937A1-20180405-C00026.TIF </img>
 To 10 mL methanol and 10 mL aq. ammonia (30-33%) were added 300 mg (max. theoretical amount of desired material: 0.31 mmol) of INTERMEDIATE 2.3. The resulting mixture was stirred at 50° C. for 15 h. The reaction mixture was cooled to room temperature and nitrogen was bubbled through the mixture for 30 min. The solvent was removed in vacuo, the mixture re-dissolved in anhydrous acetonitrile (30 mL) and again evaporated in vacuo. The residue was triturated with anhydrous acetonitrile, filtered, washed with 5 ml ACN and dried over night at room temperature. The crude product was dissolved in DMF and purified by preparative HPLC (X-Bridge C-18; acetonitrile/H2O/NH3). Product-containing fractions were collected and the solvent was removed by lyophilization. By this method, all four diastereoisomers could be separated.
 LC-MS analytics of the material confirmed the presence of INTERMEDIATEs 2.4-a/b/c/d.
 LC-MS (system C):
@@ -531,15 +556,18 @@ INTERMEDIATE 2.4-c: tRet=1.13 min; INTERMEDIATE 2.4-d: tRet=1.15 min;
 ESI-MS: 808 [M+H]+ for each diastereoisomer.
 Intermediate 3.1
 5'-OH-3'-H-phosphonate-N6-Bz-LNA-adenine
+<img> id-US20180092937A1-20180405-C00027.TIF </img>
 INTERMEDIATE 3.1 was prepared analogously to INTERMEDIATE 2.1 by using “LNA-A amidite” (EQ-0063-1000, obtained from Exiqon) as starting material.
 LC-MS analytics of the raw material confirmed the presence of INTERMEDIATE 3.1.
 LC-MS (system E):
 tRet=0.63 min; ESI-MS: 448 [M+H]+
 Intermediate 3.2
 Linear Dimer 5'-OH-3'-TBS-imidazopyridazinon-β-D-ribofuranoside-(2'→5')-cyanoethyl-phosphorothioate-3'-H-phosphonate-N6-Bz-LNA-adenine
+<img> id-US20180092937A1-20180405-C00028.TIF </img>
 INTERMEDIATE 3.2 was prepared analogously to INTERMEDIATE 2.2 by using INTERMEDIATE 3.1 and INTERMEDIATE 1.4 as starting materials.
 Intermediate 3.3
 Cyclic Dimer 3'-TBS-imidazopyridazinon-β-D-ribofuranoside-(2'→5')-cyanoethyl-phosphoro-thioate-N6-Bz-LNA-adenine-(3'→5')-phosphorothioate
+<img> id-US20180092937A1-20180405-C00029.TIF </img>
 INTERMEDIATE 3.3 was prepared analogously to INTERMEDIATE 2.3 by using INTERMEDIATE 3.2 as starting material.
 LC-MS analytics of the material confirmed the presence of INTERMEDIATEs 3.3-a/b/c/d.
 LC-MS (system E):
@@ -548,6 +576,7 @@ INTERMEDIATE 3.3-c: tRet=0.99 min; INTERMEDIATE 3.3-d: tRet=1.03 min;
 ESI-MS: 975 [M+H]+ for each diastereoisomer.
 Intermediate 3.4
 Cyclic Dimer 3'-TBS-imidazopyridazinon-β-D-ribofuranoside-(2'→5')-phosphorothioate-LNA-adenine-(3'→5')-phosphorothioate
+<img> id-US20180092937A1-20180405-C00030.TIF </img>
 INTERMEDIATE 3.4 was prepared analogously to INTERMEDIATE 2.4 by using INTERMEDIATE 3.3 as starting material.
 LC-MS analytics of the material confirmed the presence of INTERMEDIATEs 3.4-a/b/c/d.
 LC-MS (system C):
@@ -556,12 +585,14 @@ INTERMEDIATE 3.4-c: tRet=0.91 min; INTERMEDIATE 3.4-d: tRet=0.99 min;
 ESI-MS: 818 [M+H]+ for each diastereoisomer.
 Intermediate 4.1
 5'-OH-2'-TBS-3'-H-phosphonate-purine-β-D-ribofuranoside
+<img> id-US20180092937A1-20180405-C00031.TIF </img>
 INTERMEDIATE 4.1 was prepared analogously to INTERMEDIATE 1.5 by using 5'-DMT-2'-TBS-3'-CEP-purine-β-D-ribofuranoside_as starting material which can be prepared as described in Fu et al. Biochemistry 1993, 32, 10629-10637. In contrast to INTERMEDIATE 1.5 this intermediate was not stored overnight but used immediately in the next sequence of reactions.
 LC-MS analytics of the raw material confirmed the presence of INTERMEDIATE 4.1.
 LC-MS (system B):
 tRet=8.56 min; ESI-MS: 431 [M+H]+
 Intermediate 4.2
 Linear Dimer 5'-OH-3'-TBS-imidazopyridazinon-β-D-ribofuranoside-(2'→5')-cyanoethyl-phosphorothioate-2'-TBS-3'-H-phosphonate-purine-β-D-ribofuranoside
+<img> id-US20180092937A1-20180405-C00032.TIF </img>
 INTERMEDIATE 4.2 was prepared analogously to INTERMEDIATE 1.6 by using INTERMEDIATE 1.4 and the above described INTERMEDIATE 4.1 as starting materials.
 LC-MS analytics of the raw material confirmed the presence of INTERMEDIATE 4.2 as a mixture of diastereoisomers.
 LC-MS (system B):
@@ -569,6 +600,7 @@ INTERMEDIATE 4.2-a: tRet=14.86 min; INTERMEDIATE 4.2-b: tRet=15.01 min;
 ESI-MS: 944 [M+H]+ for each diastereoisomer.
 Intermediate 4.3
 Cyclic Dimer 3'-TBS-imidazopyridazinon-β-D-ribofuranoside-(2'→5')-cyanoethyl-phosphoro-thioate-2'-TBS-purine-β-D-ribofuranoside-(3'→5')-phosphorothioate
+<img> id-US20180092937A1-20180405-C00033.TIF </img>
 INTERMEDIATE 4.3 (as mixture of diastereomers) was prepared analogously to INTERMEDIATE 1.7 by using INTERMEDIATE 4.2 as starting material.
 LC-MS (system B):
 INTERMEDIATE 4.3-a: tRet=15.76 min; INTERMEDIATE 4.3-b: tRet=16.61 min;
@@ -576,6 +608,7 @@ INTERMEDIATE 4.3-c: tRet=17.68 min; INTERMEDIATE 4.3-d: tRet=19.26 min;
 ESI-MS: 958 [M+H]+ for each diastereoisomer.
 Intermediate 4.4
 Cyclic Dimer 3'-TBS-imidazopyridazinon-β-D-ribofuranoside-(2'→5')-phosphorothioate-2'-TBS-purine-β-D-ribofuranoside-(3'→5')-phosphorothioate
+<img> id-US20180092937A1-20180405-C00034.TIF </img>
 INTERMEDIATE 4.4 (as mixture of diastereomers) was prepared analogously to INTERMEDIATE 1.8 by using INTERMEDIATE 4.3 as starting material.
 LC-MS (system B):
 INTERMEDIATE 4.4-a: tRet=10.31 min; INTERMEDIATE 4.4-b: tRet=11.82 min;
@@ -589,6 +622,7 @@ EXAMPLE 3.1 and EXAMPLE 3.2;
 EXAMPLE 4.1 and EXAMPLE 4.2.
 Example 1.1 and Example 1.2
 Cyclic (imidazopyridazinon-β-D-ribofuranoside-(2'→5')-phosphorothioate-adenosine-(3'→5')-phosphorothioate)
+<img> id-US20180092937A1-20180405-C00035.TIF </img>
 30 mL anhydrous pyridine and 15 mL anhydrous triethylamine were added to crude 3'-TBS-imidazopyridazinon-3-D-ribofuranoside-(2'→5')-phosphorothioate-2'-TBS-adenosine-(3'→5')-phosphorothioate (INTERMEDIATE 1.8; 0.76 g). The resulting solution was concentrated under reduced pressure to approximately 5 mL total volume, followed by simultaneous addition of triethylamine trihydrofluoride (3.590 mL, 21.7 mmol) and 11 mL anhydrous triethylamine. This solution was stirred at 50° C. for 3.5 hours. After cooling to room temperature, the reaction was quenched with methoxytrimethylsilane (10 mL, 72.4 mmol) and further stirred at room temperature to consume any excess of HF. After 30 minutes, all volatile components were evaporated under reduced pressure, followed by a final co-evaporation with 50 mL anhydrous toluene under reduced pressure. The residue was further dried in vacuo to yield the raw mixture containing Example 1.1 and Example 1.2.
 65 mL water was added and the resulting suspension was placed in an ultrasonic bath at room temperature. After 15 minutes, this suspension was poured into 60 mL chloroform and the organic phase was separated. This extraction was repeated another two times with chloroform. The combined organic phases were extracted with 50 mL water and the combined product-containing aqueous phase was filtered with a 0.45 μm Rotilabo®-CME-syringe filter (outer diameter: 33 mm) to remove particulate components. The product solution was diluted with water to 500 mL and applied to a Q Sepharose™ Fast Flow anion exchange column (40-165 μm; 125×35 mm; 120 mL) Cl−-form, previously regenerated with 2 M sodium chloride and washed with water. The column was washed with water (2 column volumes), followed by a gradient of 0-1 M triethylammonium bicarbonate buffer (TEAB, pH 7) in water over column volumes (detection wavelength 254 nm). EXAMPLE 1.1 and EXAMPLE 1.2 eluted as mixture of isomers with ˜0.6 M TEAB. Product-containing fractions were carefully concentrated to a final volume of approximately 10 mL under reduced pressure.
 Separation of EXAMPLE 1.1 (fourth eluting) and EXAMPLE 1.2 (third eluting) was accomplished by repeated semi-preparative reversed phase HPLC purifications. The product solution was applied to a YMC*GEL ODS-A 12 nm column (10 μm; 250×16 mm; ˜50 mL), previously equilibrated with 4% acetonitrile, 20 mM triethyammonium formate (TEAF, pH 6.8) in water. Elution was performed with a step-gradient of 4%, 6% and 20% acetonitrile, 20 mM TEAF (pH 6.8) in water
@@ -606,6 +640,7 @@ ESI-MS: 692 [M+H]+
 31P NMR (162 MHz, D2O): δ 55.8 (s, 1P), 57.0 (s, 1P) ppm.
 Example 2.1 and Example 2.2
 Cyclic (imidazopyridazinon-β-D-ribofuranoside-(2'→5')-phosphorothioate-2'-F-2'-deoxyadenosine-(3'→5')-phosphorothioate
+<img> id-US20180092937A1-20180405-C00036.TIF </img>
 16 mg (19 μmol) of INTERMEDIATE 2.4-d were added to 1 mL anhydrous pyridine and 4 mL anhydrous acetonitrile and the solvent was azeotropically evaporated in vacuo. The residue was twice re-suspended in 10 mL anhydrous acetonitrile and again azeotropically evaporated in vacuo. 80.7 μL (1.0 mmol) anhydrous pyridine and 168 μL (1.2 μmol) TEA were added to the residue before 103 μL (0.63 mmol) TEA*3HF were cautiously added via a syringe. The resulting mixture was stirred at 50° C. for 90 min. After cooling to room temperature, the reaction was quenched by the addition of 20 mL of an aq. solution of triethylammonium carbonate (conc.=1 mol/L). The resulting mixture was stirred for further 15 min at room temperature. The mixture was carefully loaded on a Water Sep Pak C18© cartridge (5 g C18-material, preconditioned with first 25 mL acetonitrile and afterwards with 25 mL water) and washed with 60 mL of water. Afterwards the product was eluted from the cartridge by using 100 mL of a acetonitrile/triethylammonium acetat/water mixture (prepared by adding 1 mL of an aq. triethylammonium acetat solution (conc=1 mol/L) to 100 mL water and 25 mL acetonitrile). Fractions containing product were combined and the solvent was removed by lyophilization. The resulting product was further purified by prep. HPLC (Atlantis C18; 20 mM aq. NH4OAc/acetonitrile=98/2→80/20.). After the solvent were removed by freeze drying the product was dissolved in 2 mL water and poured on a Bio-Rad Spin column (filled with 250 mg BT AG 50W-2 resin 100-200 Mesh hydrogen Form, conditioned with 3 mL 1M aq. NaOH and afterwards washed with 6 mL water resulting in pH˜7)) and eluted with 12 mL water. Fractions containing the final product were combined and the solvent was removed by freeze drying.
 Example 2.1
 LC-MS (system C):
@@ -620,6 +655,7 @@ tRet=0.30 min; ESI-MS: 694 [M+H]+
 31P NMR (162 MHz, D2O): δ 55.5 (s, 1P), 55.9 (s, 1P) ppm.
 Example 3.1 and Example 3.2
 Cyclic (imidazopyridazinon-β-D-ribofuranoside-(2'→5')-phosphorothioate-LNA-adenine-(3'→5')-phosphorothioate), Sodium Salt
+<img> id-US20180092937A1-20180405-C00037.TIF </img>
 EXAMPLES 3.1 and 3.2 were prepared analogously to EXAMPLE 2.1 and 2.2 by using INTERMEDIATE 3.4-d (for EXAMPLE 3-1) and 3.4-c (for EXAMPLE 3-2) as starting material, respectively.
 Example 3.1
 LC-MS (system E):
@@ -631,6 +667,7 @@ tRet=0.29 min; ESI-MS: 704 [M+H]+ 1H NMR (400 MHz, 303 K, D2O) 5 ppm 8.85 (s, 1H
 31P NMR (162 MHz, D2O): δ 57.3 (s, 1P), 55.8 (s, 1P) ppm.
 Example 4.1 and Example 4.2
 Cyclic (imidazopyridazinon-β-D-ribofuranoside-(2'→5')-phosphorothioate-purine-β-D ribofuranoside-(3'→5')-phosphorothioate), Sodium Salt
+<img> id-US20180092937A1-20180405-C00038.TIF </img>
 EXAMPLES 4.1 and 4.2 were prepared analogously to EXAMPLE 1.1 and 1.2 by using INTERMEDIATE 4.4-d and INTERMEDIATE 4.4-c as starting material. In addition to the procedure described for EXAMPLES 1.1 and 1.2, before starting the reaction the starting material was once azeotroped by using a 2:1 mixture of anhydrous pyridine and anhydrous triethylamine.
 Example 4.1
 HPLC (configuration B): tRet=10.22 min;

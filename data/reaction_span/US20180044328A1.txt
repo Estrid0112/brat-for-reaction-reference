@@ -10,10 +10,12 @@ OBJECT OF THE INVENTION
 It is an object of the invention to provide novel compounds being inhibitors of dipeptidyl peptidase I, suitable for treatment of inflammatory diseases, cancers and infections.
 SUMMARY OF THE INVENTION
 The present invention relates to a compound of the formula (I):
+<img> id-US20180044328A1-20180215-C00002.TIF </img>
 wherein
 n is 0, 1 or 2 and m is 0, 1 or 2; such that the sum of m and n is 1, 2, 3 or 4;
 F is fluoro;
 X1 represents
+<img> id-US20180044328A1-20180215-C00003.TIF </img>
 wherein y represents 0, 1, 2, 3, 4, 5, 6, 7 or 8
 wherein Z represents O (oxygen);
 when y is 1 or 2, then R1 independently represents deuterium; halogen; hydroxyl; cyano; oxo (═O); mercapto; or C1-3-alkyl; which C1-3-alkyl is optionally substituted with at least one substituent selected from halogen, hydroxyl, cyano and mercapto;
@@ -22,10 +24,13 @@ wherein R2 represents -C3-6-cycloalkyl, -C1-3-alkyl-C3-6-cycloalkyl or -C1-6-alk
 R2 may be -C1-6-alkyl, which -C1-6-alkyl is optionally substituted with at least one substituent selected from hydroxyl, cyano or amino. Suitably, R2 is -C1-6-alkyl, preferably -C1-3-alkyl, more preferably methyl-, ethyl- or propyl-. Suitably, y=0 or 1, preferably 0.
 In one aspect of the compounds of Formula (I), m+n=1. In particular, m may be 1. In another aspect, m and n in Formula (I) are both 1. In another aspect, m is 2. Suitably, F is located at the 2-position and 2'-positions of the biphenyl moiety.
 The following compounds are of particular interest:
+<img> id-US20180044328A1-20180215-C00004.TIF </img>
 The following compounds are also of particular interest:
+<img> id-US20180044328A1-20180215-C00005.TIF </img>
 The term “DPPI” as used herein is intended to mean dipeptidyl peptidase I (EC 3.4.14.1) also known as cathepsin C, cathepsin J, dipeptidyl aminopeptidase I and dipeptidyl transferase. DPPI cleaves a dipeptide Xaa-Xbb from the N terminus of a polypeptide chain Xaa-Xbb-Xcc-[Xxx]n, except when Xaa is Arg or Lys, or when Xbb or Xcc is Pro.
 In the formulas, the group -CN is a nitrile group (-C≡N).
 The wavy line in depicted substituents as e.g.
+<img> id-US20180044328A1-20180215-C00006.TIF </img>
 is used to indicate the bond, which is connected to the core molecule (formula I) as defined.
 In the context of the present specification, unless otherwise stated, an alkyl substituent group or an alkyl moiety in a substituent group may be linear or branched.
 The term “treatment” is defined as the management and care of a patient for the purpose of combating the disease, condition, or disorder and includes the administration of the compound of the present invention to prevent the onset of the symptoms or the complications, or alleviating the symptoms or the complications, or eliminating the disease, condition, or disorder.
@@ -35,6 +40,7 @@ The compounds according to Formula (I) contain one or more asymmetric centers (a
 Individual stereoisomers of a compound according to Formula (I) which contain one or more asymmetric center may be resolved by methods known to those skilled in the art. For example, such resolution may be carried out (1) by formation of diastereoisomeric salts, complexes or other derivatives; (2) by selective reaction with a stereoisomer-specific reagent, for example by enzymatic oxidation or reduction; or (3) by gas-liquid or liquid chromatography in a chiral environment, for example, on a chiral support such as silica with a bound chiral ligand or in the presence of a chiral solvent. The skilled artisan will appreciate that where the desired stereoisomer is converted into another chemical entity by one of the separation procedures described above, a further step is required to liberate the desired form. Alternatively, specific stereoisomers may be synthesized by asymmetric synthesis using optically active reagents, substrates, catalysts or solvents, or by converting one enantiomer to the other by asymmetric transformation. If there is a cycloalkyl group present, some substituent patterns may result in and axial or an equatorial configuration. Both forms are included, unless specified otherwise.
 All tautomeric forms are also included in Formula (I), whether such tautomers exist in equilibrium or predominately in one form.
 Preferred are the above compounds of formula (I), in their enantiomerically pure form of formula (II):
+<img> id-US20180044328A1-20180215-C00007.TIF </img>
 wherein X1, R2, m, n and F are as defined above.
 The skilled artisan will appreciate that pharmaceutically-acceptable salts of the compounds according to Formula (I) may be prepared. Indeed, in certain embodiments of the invention, pharmaceutically-acceptable salts of the compounds according to Formula (I) may be preferred over the non-salt form because such salts impart greater stability or solubility to the molecule thereby facilitating formulation into a dosage form. Accordingly, the invention is further directed to pharmaceutically-acceptable salts of the compounds according to Formula (I). All details regarding the compounds of formula (I) are also relevant for the pharmaceutical composition.
 As used herein, the term “pharmaceutically-acceptable salts” refers to salts that retain the desired biological activity of the subject compound and exhibit minimal undesired toxicological effects. These pharmaceutically-acceptable salts may be prepared in situ during the final isolation and purification of the compound, or by separately reacting the purified compound in its free acid or free base form with a suitable base or acid, respectively.
@@ -52,9 +58,13 @@ The amino acid or a di- or oligo-peptide moiety can consist of proteinogenic ami
 In one aspect, the compound disclosed herein is linked via a free (primary or secondary) amino group to an amino acid or a di- (or oligo)peptide moiety. These prodrugs may be converted to the desired active compound by a peptidase catalyzed reaction.
 Starting materials and reagents are either commercially-available or may be prepared by one skilled in the art using methods described in the literature.
 Compounds of the invention according to Formula (I), e.g.
+<img> id-US20180044328A1-20180215-C00008.TIF </img>
 can be made essentially as described in the following synthetic scheme
+<img> id-US20180044328A1-20180215-C00009.TIF </img>
 Compounds of the invention according to Formula (I) in which m=2, e.g.
+<img> id-US20180044328A1-20180215-C00010.TIF </img>
 can for example be synthesized essentially as described for synthesis of PZ1101 in Example 1, using
+<img> id-US20180044328A1-20180215-C00011.TIF </img>
 as starting material.
 The compounds of general formula I may be used on their own or combined with other active substances of formula I according to the invention. The compounds of general formula I may optionally also be combined with other pharmacologically active substances. These include, B2-adrenoceptor-agonists (short and long-acting), anti-cholinergics (short and long-acting), anti-inflammatory steroids (oral and topical corticosteroids), cromoglycate, methylxanthine, dissociated-glucocorticoidmimetics, PDE3 inhibitors, PDE4-inhibitors, PDE7-inhibitors, LTD4 antagonists, EGFR-inhibitors, Dopamine agonists, PAF antagonists, Lipoxin A4 derivatives, FPRLI modulators, LTB4-receptor (BLTI, BLT2) antagonists, Histamine HI receptor antagonists, Histamine H4 receptor antagonists, dual Histamine H1/H3-receptor antagonists, PI3-kinase inhibitors, inhibitors of non-receptor tyrosine kinases as for example LYN, LCK, SYK, ZAP-70, FYN, BTK or ITK, inhibitors of MAP kinases as for example p38, ERK1, ERK2, J K1, J K2, J K3 or SAP, inhibitors of the NF-κB signalling pathway as for example IKK2 kinase inhibitors, iNOS inhibitors, MRP4 inhibitors or leukotriene biosynthese inhibitors.
 The compounds disclosed herein will normally, but not necessarily, be formulated into a pharmaceutical composition prior to administration to a patient. Accordingly, in another aspect a pharmaceutical composition comprising, as an active substance, the compound as disclosed herein or a pharmaceutically acceptable salt thereof together with a pharmaceutically acceptable adjuvant, carrier or diluent, is provided.
@@ -97,9 +107,11 @@ In one aspect, a combination of the compound or a pharmaceutically acceptable sa
 In another aspect, a method for treatment of a medical condition selected from the group selected from asthma, chronic obstructive pulmonary disease, bronchiectasis, cystic fibrosis, alpha-1 antitrypsin deficiency, idiopathic pulmonary fibrosis, acute lung injury, acute respiratory distress syndrome, congestive heart failure, atherosclerosis, myocardial infarction, reperfusion injury, abdominal aortic aneurysms, diabetic cardiomyopathy, gout, pseudogout, respiratory syncytial virus infection, inflammatory bowel diseases, psoriasis, rheumatoid arthritis, multiple sclerosis, malaria, Alzheimer's disease or sepsis, is provided, said method comprising administration of a pharmaceutically effective amount of a compound of formula (I) or the composition according to the invention. Suitably, in this method, the medical condition is selected from the group selected from asthma, chronic obstructive pulmonary disease, bronchiectasis, cystic fibrosis, alpha-1 antitrypsin deficiency, idiopathic pulmonary fibrosis, congestive heart failure, myocardial infarction, reperfusion injury, abdominal aortic aneurysms, diabetic cardiomyopathy, gout, pseudogout, respiratory syncytial virus infection, psoriasis, rheumatoid arthritis or sepsis.
 The invention relates to the following numbered aspects:
 Aspect 1: A compound of the formula (I)
+<img> id-US20180044328A1-20180215-C00012.TIF </img>
 wherein n is 0, 1 or 2 and m is 0, 1 or 2; such that the sum of m and n is 1, 2, 3 or 4;
 F is fluoro;
 X1 represents
+<img> id-US20180044328A1-20180215-C00013.TIF </img>
 wherein y represents 0, 1, 2, 3, 4, 5, 6, 7 or 8;
 wherein Z represents O (oxygen);
 when y is 1 or 2, then R1 independently represents deuterium; halogen; hydroxyl; cyano; oxo (═O); mercapto; or C1-3-alkyl; which C1-3-alkyl is optionally substituted with at least one substituent selected from halogen, hydroxyl, cyano and mercapto;
@@ -109,7 +121,9 @@ Aspect 2: The compound according to aspect 1, wherein R2 is -C1-6-alkyl, which -
 Aspect 3: The compound according to any one of the preceding aspects, wherein R2 is -C1-6-alkyl, preferably -C1-3-alkyl, more preferably methyl-, ethyl- or propyl-.
 Aspect 4: The compound according to any one of the preceding aspects, wherein y represents 0, 1, 2, 3 or 4, such as e.g. 0 or 1, preferably 0.
 Aspect 5: The compound according to any one of the preceding aspects, being:
+<img> id-US20180044328A1-20180215-C00014.TIF </img>
 Aspect 6: The compound according to any one of the preceding aspects, in the enantiomerically pure form of formula (II):
+<img> id-US20180044328A1-20180215-C00015.TIF </img>
 wherein X1 and R2 are as defined in any one of the preceding aspects.
 Aspect 7. The compound according to any one of the preceding aspects, wherein m+n=1, preferably m=1; or m is 2; or m is 2 and n is preferably 0.
 Aspect 8: A pharmaceutical composition comprising a compound of the formula (I) according to any one of aspects 1-7, or a pharmaceutically acceptable salt thereof, together with at least one pharmaceutically-acceptable adjuvant, carrier or diluent.
@@ -165,32 +179,42 @@ Boc: t-Butyloxycarbonyl
 r.t: Room temperature
 EXAMPLE 1
 (S)-4-amino-N-(1-cyano-2-(3-fluoro-4'-((4-methylpiperazin-1-yl)methyl)-[1,1'-biphenyl]-4-yl)ethyl)tetrahydro-2H-pyran-4-carboxamide (PZ1101)
+<img> id-US20180044328A1-20180215-C00016.TIF </img>
 Synthetic Scheme
+<img> id-US20180044328A1-20180215-C00017.TIF </img><img> id-US20180044328A1-20180215-C00018.TIF </img>
 Procedure Description
 Step-1
+<img> id-US20180044328A1-20180215-C00019.TIF </img>
 (S)-3-(4-bromo-2-fluorophenyl)-2-(tert-butoxycarbonylamino)propanoic acid (2)
 To a solution of compound 1 (30 g, 114.5 mmol, 1.0 eq) in THF/water (200 mL/200 mL) were added K2CO3 (47.4 g, 343.5 mmol, 3.0 eq) and Boc2O (30 g, 137.4 mmol, 1.2 eq). The reaction was stirred at r.t. for 2 hr. After completion, the pH was adjusted to 2 to 3 and the solution was extracted with EA twice. The combined organics were washed with brine, dried over anhydrous Na2SO4 and concentrated to afford compound 2 (45 g, 50% in 3 steps) as a white solid. The crude solid was used for the next step without purification. 1H-NMR (400 MHz, CDCl3): δ 9.81 (br, 2H), 7.24-7.22 (d, J=7.6 Hz, 4H), 7.05-7.10 (m, 2H), 6.97-6.98 (m, 1H), 5.03-5.05 (d, J=8.0 Hz, 1H), 4.44-4.61 (m, 2H), 3.23-3.32 (m, 2H), 2.84-3.06 (m, 2H), 1.40 (s, 9H), 1.27 (s, 9H); MS (ESI): m/z 360.22 [M−H]−.
 Step-2
+<img> id-US20180044328A1-20180215-C00020.TIF </img>
 (S)-methyl 3-(4-bromo-2-fluorophenyl)-2-(tert-butoxycarbonylamino)propanoate (3)
 To a solution of crude compound 2 (45 g, 124.3 mmol, 1.0 eq) in DMF (400 mL) were added K2CO3 (51.5 g, 372.9 mmol, 3.0 eq) and methyl iodide (MeI) (15.5 mL, 248.6 mmol, 2.0 eq). The reaction was stirred at r.t. for 30 min. After completion, the reaction was diluted with EA. The solution was washed with water and brine, dried over anhydrous Na2SO4 and concentrated to give compound 3 (48.5 g, 100%) as a light yellow oil. The crude oil was used for the next step without purification.
 Step-3
+<img> id-US20180044328A1-20180215-C00021.TIF </img>
 (S)-tert-butyl 1-amino-3-(4-bromo-2-fluorophenyl)-1-oxopropan-2-ylcarbamate (4)
 A solution of compound 3 (48.5 g) in MeOH (400 mL) was bubbled with NH3 (g) at −50° C. for 20 min. Then the reaction was stirred at r.t. overnight. After completion, the reaction was concentrated to give a white solid. The crude product was suspended in PE/EA (10:1) and filtered to afford compound 4 (25g, 53.7%) as a white solid.
 Step-4
+<img> id-US20180044328A1-20180215-C00022.TIF </img>
 (S)-tert-butyl 2-(4-bromo-2-fluorophenyl)-1-cyanoethylcarbamate (5)
 To a suspension of compound 4 (25 g, 69.3 mmol, 1.0 eq) in DCM (600 mL) were added TEA (40.3 mL, 290.9 mmol, 4.2 eq) and TFAA (21.5 mL, 152.4 mmol, 2.2 eq) at 0° C. The reaction was stirred at r.t. for 2 hr. After completion, the reaction was washed with water twice, dried over anhydrous Na2SO4 and concentrated to give a light yellow solid. The crude solid was recrystallized in PE/EA (500 mL/50 mL) and filtered. The filtrate was dried at reduced pressure to afford compound 5 (17 g, 71.6%) as a white solid.
 Step-5
+<img> id-US20180044328A1-20180215-C00023.TIF </img>
 1-(4-bromobenzyl)-4-methylpiperazine (9)
 A solution of 1-bromo-4-(bromomethyl)benzene (20 g, 0.08 mol, 1.0 eq) in DCM (80 mL) was added dropwise slowly to a solution of 1-methylpiperazine (16 g, 0.16 mol, 2.0 eq) in DCM (160 mL) and the reaction was stirred at r.t. for 2 hr. After completion, the reaction was quenched with water and filtered. The filtrate was separated and the aqueous layer was extracted with DCM once more. The combined organics were dried over anhydrous Na2SO4 and concentrated to afford compound 9 (16.5 g, 76.7%) as a light yellow liquid. 1H-NMR (400 MHz, CDCl3): δ 7.72-7.74 (d, J=8.4 Hz, 1H), 7.54-7.56 (d, J=8.4 Hz, 1H), 7.49-7.51 (d, J=8.4 Hz, 1H), 7.26-7.28 (d, J=8.4 Hz, 1H), 4.61 (s, 1H), 3.59 (s, 1H), 3.29-3.50 (m, 2H), 2.94-2.97 (m, 2H), 2.63-2.85 (m, 2H).
 Step-6
+<img> id-US20180044328A1-20180215-C00024.TIF </img>
 1-methyl-4-(4-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)benzyl)piperazine (10)
 The mixture of compound 9 (16.5 g, 61.3 mmol, 1.0 eq), pinacolatodiboron (17.1 g, 67.5 mmol, 1.1 eq), KOAc (18.0 g, 184 mmol, 3.0 eq) and Pd(dppf)Cl2 (1.35 g, 1.84 mmol, 0.03 eq) in 1,4-dioxone (240 mL) was stirred at 110° C. for 3 hr under nitrogen atmosphere. After completion, the reaction was cooled to r.t., diluted with EA and filtered. The filtrate was washed with brine twice, dried over anhydrous Na2SO4 and concentrated. The residue was purified by flash silica-gel column chromatography to give compound 10 (14.6 g, 75.3%) as an earth yellow solid. 1H-NMR (400 MHz, CDCl3): δ 7.75-7.77 (d, J=8.0 Hz, 2H), 7.31-7.33 (d, J=8.0 Hz, 2H), 3.58 (s, 2H), 2.69-2.80 (m, 8H), 2.52 (s, 3H), 1.34 (s, 12H).
 Step-7 and 8
+<img> id-US20180044328A1-20180215-C00025.TIF </img>
 (S)-tert-butyl 1-cyano-2-(3-fluoro-4'-((4-methylpiperazin-1-yl)methyl)biphenyl-4-yl)ethylcarbamate (6)
 The mixture of compound 5 (8.36 g, 24.4 mmol, 1.1 eq) and 10 (7 g, 22.2 mmol, 1.0 eq), Pd(dppf)Cl2 (1.62 g, 2.2 mmol, 0.1 eq), KOAc (6.51 g, 66.5 mmol, 3.0 eq) in 1,4-dioxone (150 mL) was stirred at 100° C. for 4 hr under nitrogen atmosphere. After completion, the reaction was cooled to r.t., diluted with EA and filtered. The filtrate was washed with 1N NaOH (a.q.) twice, extracted with 0.5N HCl (a.q.) twice. The combined acidic aqueous phases were adjusted to pH=8 to 9 and extracted with EA twice. The combined organics was washed with brine, dried over anhydrous Na2SO4 and concentrated to give compound 6 (7.8 g, 77.9%) as a black oil. 1H-NMR (400 MHz, CDCl3): δ 7.49-7.51 (d, J=8.4 Hz, 2H), 7.38-7.41 (d, J=8.4 Hz, 2H), 7.29-7.38 (m, 3H), 4.86-5.09 (m, 2H), 3.55 (s, 2H), 3.13-3.22 (m, 2H), 2.50 (br, 7H),2.31 (s, 3H), 1.42 (s, 9H); MS (ESI): m/z 453.57 [M+H]+.
 (S)-2-amino-3-(3-fluoro-4'-((4-methylpiperazin-1-yl)methyl)biphenyl-4-yl)propanenitrile (7)
 The solution of compound 6 (7.8 g, 17.3 mmol) in formic acid (98%, 40 mL) was stirred at r.t. overnight. After completion, the reaction was poured into ice cold saturated aqueous NaHCO3. The solution was adjusted to pH=9 to 10, extracted with EA three times. The combined organics were washed with brine, dried over anhydrous Na2SO4 and concentrated. The residue was purified by flash silica gel column chromatography to give crude compound 7 (4.5g, 74.1%) as a yellow oil. 1H-NMR (400 MHz, CDCl3): δ 7.49-7.51 (d, J=8.4 Hz, 2H), 7.38-7.41 (d, J=8.4 Hz, 2H), 7.29-7.38 (m, 3H), 4.00-4.04 (m, 1H), 3.55 (s, 2H), 3.11-3.13 (m, 1H), 2.50 (br, 6H), 2.31 (s, 3H), 1.98 (br, 2H), 1.69-1.71 (m, 1H); MS (ESI): m/z 353.22 [M+H]+.
 Step-9 and 10
+<img> id-US20180044328A1-20180215-C00026.TIF </img>
 (S)-tert-butyl 4-(1-cyano-2-(3-fluoro-4'-((4-methylpiperazin-1-yl)methyl)biphenyl-4-yl)ethylcarbamoyl)tetrahydro-2H-pyran-4-ylcarbamate (8)
 The solution of compound 7 (500 mg, 1.42 mmol, 1.0 eq) and 4-(tert-butoxycarbonylamino)tetrahydro-2H-pyran-4-carboxylic acid (418 mg, 1.7 mmol, 1.2 eq) in THF (10 mL) was stirred at 0° C. for 30 min. Then TBTU (684 mg, 2.13 mmol, 1.5 eq) and DIEA (0.5 mL, 2.84 mmol, 2.0 eq) were added. The reaction was stirred at 0° C. for 1 hr, warmed to r.t. and stirred for another 4 hr. After completion, the reaction was diluted with EA and water, and separated. The organic layer was washed with saturated aqueous NaHCO3 twice, brine once, dried over anhydrous Na2SO4 and concentrated. The residue was purified by preparative HPLC to give compound 8 (445 mg, 45%) as a white solid. 1H-NMR (400 MHz, CDCl3): δ 7.81 (br, 1H), 7.50-7.52 (d, J=8.4 Hz, 2H), 7.38-7.40 (d, J=8.0 Hz, 2H), 7.29-7.36 (m, 3H), 5.11-5.15 (m, 1H), 4.74 (m, 1H), 3.77-3.79 (m, 1H), 3.61-3.67 (m, 2H), 3.59 (s, 3H), 3.17-3.22 (m, 2H), 2.67 (br, 6H), 2.46 (s, 3H), 1.79-2.24 (m, 4H), 1.43 (s, 9H); MS (ESI): m/z 580.53 [M+H]+.
 (S)-4-amino-N-(1-cyano-2-(3-fluoro-4'-((4-methylpiperazin-1-yl)methyl)-[1,1'-biphenyl]-4-yl)ethyl)tetrahydro-2H-pyran-4-carboxamide (PZ1101)

@@ -10,6 +10,7 @@ Herein, we describe detailed studies aimed at understanding features in modular 
 In various embodiments, the invention provides a dimeric r(CUG)exp binding compound of formula (I)
 <in-line-formulae>H-Y-H  (I)</in-line-formulae>
 wherein H is a group of formula
+<img> id-US20180089049A1-20180329-C00001.TIF </img>
 wherein a wavy line indicates a position of bonding, and wherein Y is a bifunctional linker comprising at least two primary or secondary amino groups, and optional further comprising additional amino, carboxamido, or peptidyl groups; or a pharmaceutically suitable salt thereof. More specifically, linker Y can be a 1,ω-diaminoalkane, optional further comprising additional amino, carboxamido, or peptidyl groups; for example Y can further comprise one or more α-peptidyl segment, β-peptidyl segment, polyamino segment, peptidyl tertiary amide segments, or any combination thereof.
 The invention also can provide a method of disrupting the r(CUG)12-MBNL1 complex, comprising administering an effective amount of a compound of the invention to a living mammalian cell. The living mammalian cell is in the body tissue of a human patient.
 The invention also can provide a method of treatment of myotonic dystrophy type 1 in a human patient, comprising administering an effective amount of a compound of the invention to the patient.
@@ -17,11 +18,14 @@ DETAILED DESCRIPTION
 The invention provides, in various embodiments, a dimeric r(CUG)exp binding compound of formula (I)
 <in-line-formulae>H-Y-H  (I)</in-line-formulae>
 wherein H is a group of formula
+<img> id-US20180089049A1-20180329-C00002.TIF </img>
 wherein a wavy line indicates a position of bonding, andwherein Y is a bifunctional linker comprising at least two primary or secondary amino groups, and optional further comprising additional amino, carboxamido, or peptidyl groups;or a pharmaceutically suitable salt thereof. The bifunctional linker comprising the two reactive amino groups forms amide bonds with the respective carbonyl groups of the 2 H units of formula 1.
 More specifically, linker Y can be a 1,ω-diaminoalkane, optional further comprising additional amino, carboxamido, or peptidyl groups; for example Y can further comprise one or more α-peptidyl segment, β-peptidyl segment, polyamino segment, peptidyl tertiary amide segments, or any combination thereof.
 By a 1,ω-diaminoalkane is meant an alkane bearing primary or secondary amino groups at both termini of a linear or branched alkane segment. When one or more additional amino group is present in the alkane, the linker Y is a polyamine. One or more carboxamido group, i.e., a group of formula C(═O)NR, wherein R is H or alkyl, e.g., (C1-C6)alkyl, can be present in the alkane segment. The term α-peptidyl segment as used herein refers to a residue or an oligomer of α-aminoacid residues, and the term β-peptidyl segment as used herein refers to a residue or an oligomer of β-aminoacid residues. A peptidyl tertiary amide segment refers to a residue or an oligomer of peptides bearing non-hydrogen substituents on their peptidyl amino groups.
 More specifically, Y is selected from the group consisting of
+<img> id-US20180089049A1-20180329-C00003.TIF </img>
 wherein wavy lines each indicate a point of bonding to a respective group H, and n is a whole number ranging from 1 to about 20.For instance, the compound can be of formula
+<img> id-US20180089049A1-20180329-C00004.TIF </img>
 In various embodiments, the invention provides a method of disrupting the r(CUG)12-MBNL1 complex, comprising administering an effective amount of a compound of the invention to a living mammalian cell. For example, the living mammalian cell can be in the body tissue of a human patient.
 In various embodiments, the invention provides a method of treatment of myotonic dystrophy type 1 in a human patient, comprising administering an effective amount of a compound of the invention to the patient.
 Design of Modularly Assembled Compounds.
@@ -130,7 +134,7 @@ Contents:
 Detailed experimental descriptions for compound synthesis and characterization, RT-PCR analysis, flow cytometry, SPR experiments, target pull down and Northern blotting can be found below.
 Time-Resolved Fluorescence Resonance Energy Transfer (TR-FRET) Assay.
 Initial in vitro activity of modularly assembled compounds was assessed by disruption of the r(CUG)exp-MBNL1 complex using a previously reported TR-FRET assay.15, 47 The ratio of fluorescence intensity of 545 and 665 nm in the presence and absence of compound were used to calculate percent inhibition. The resulting curves were fit to the following equation to determine IC50 values:
-y=B+A-B1+(IC50x)hillslope
+<img> id-US20180089049A1-20180329-M00001.TIF </img>y=B+A-B1+(IC50x)hillslope
 where y is the ratio of fluorescence intensities at 545 nm and 665 nm (F545/F665), x is the concentration of small molecule, B is the F545/F665 ratio reflective of the maximum amount of FRET observed (absence of small molecule); A is the F545/F665 ratio reflective of the minimum amount of FRET observed (absence of RNA, protein, and small molecule; only antibodies are present); and the IC50 is the concentration of small molecule where half of the protein is displaced by small molecule.
 Improvement of DM1-Associated Splicing Defects in a DM1 Cell Culture Model Using RT-PCR.
 DM1-associated alternative pre-mRNA splicing defects were assessed using a previously reported model system.45 Briefly, HeLa cells were grown as monolayers in 96-well plates in growth medium (1×DMEM, 10% FBS, and 1× Glutamax (Invitrogen)). Cells were transfected at 90-95% confluency with 200 ng of total plasmid using Lipofectamine 2000 (Invitrogen) according to the manufacturer's standard protocol. Equal amounts of plasmid expressing a DM1 mini-gene with 960 interrupted CTG repeats51 and a mini-gene of interest (cTNT61 or PLEKHH245) were used. After 5 h, the transfection cocktail was removed and replaced with growth medium containing the compound of interest. After 20-24 h, the cells were lysed, and total RNA was harvested using a Sigma-Aldrich GeneElute total mammalian RNA miniprep kit. An on-column DNA digestion was completed per the manufacturer's recommended protocol. A sample of RNA was subjected to RT-PCR as previously described.15
@@ -143,6 +147,12 @@ Fmoc-Rink amide resin (0.59 mmol/g) was purchased from Advanced ChemTech. Wang r
 Compound Purification and Analysis.
 Preparative HPLC was performed using a Waters 1525 Binary HPLC pump equipped with a Waters 2487 dual absorbance detector system and a Waters Sunfire C18 OBD 5 μm 19×150 mm column. Absorbance was monitored at 345 and 220 nm. A gradient of 20-100% methanol (MeOH) in H2O with 0.1% (v/v) TFA over 60 min was used for compound purification. Analytical HPLC was performed using a Waters Symmetry C18 5 μm 4.6×150 mm column. Polyamines, PTAs and peptoids were analyzed using a gradient of 0-100% MeOH in H2O with 0.1% (v/v) TFA over 60 min. Peptides were analyzed using a gradient of 0-100% acetonitrile in H2O with 0.1% (v/v) TFA over 60 min. All compounds evaluated had ≧95% purity by analytical HPLC. Mass spectrometry was performed with an Applied Biosystems MALDI ToF/ToF Analyzer 4800 Plus using an α-hydroxycinnamic acid matrix.
 Synthetic Schemes for Modularly Assembled Scaffolds
+<img> id-US20180089049A1-20180329-C00005.TIF </img>
+<img> id-US20180089049A1-20180329-C00006.TIF </img>
+<img> id-US20180089049A1-20180329-C00007.TIF </img>
+<img> id-US20180089049A1-20180329-C00008.TIF </img><img> id-US20180089049A1-20180329-C00009.TIF </img>
+<img> id-US20180089049A1-20180329-C00010.TIF </img><img> id-US20180089049A1-20180329-C00011.TIF </img>
+<img> id-US20180089049A1-20180329-C00012.TIF </img>
 Synthesis of Modularly Assembled Small Molecules
 Synthesis of Polyamines.
 A solution of diamine (0.02 mmol) in DMF (200 μL) was treated with a solution of H carboxylate (20 mg, 0.04 mmol), EDC (12 mg, 0.06 mmol) and DIEA (10 μL, 0.06 mmol) in DMF (200 μL). The reaction was stirred at room temperature overnight and then the solvent was removed in vacuo. The reaction mixture was purified using reverse phase HPLC. 2H-ED (C60H64N14O4): MS calculated: 1045.5; MS found: 1045.6; tR=31 min; yield=5%; 2H-BD (C62H68N14O4): MS calculated: 1073.6; MS found: 1073.8; tR=31 min; yield=2%; 2H-HD (C64H72N14O4): MS calculated: 1101.6; MS found: 1101.9; tR=32 min; yield=1%; 2H-SPD (C65H75N15O4): MS calculated: 1131.4; MS found: 1131.0; tR=44 min (CH3CN/H2O); yield=0.2%; 2H-SPM (C68H82N16O4): MS calculated: 1188.5; MS found: 1188.1; tR=31 min; yield=3%.

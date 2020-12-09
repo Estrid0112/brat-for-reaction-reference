@@ -3,6 +3,7 @@ The present invention relates generally to the field of pharmaceuticals and to m
 BACKGROUND
 The late sodium current (INaL) is a component of the fast Na+ current of cardiac myocytes and neurons. Late sodium current in cardiac cells is small compared with the fast component, but it may make a large contribution to sodium loading during each cardiac cycle. Impaired sodium channel function contributes to pathologic increase of the late sodium current, sodium overload, and sodium-induced calcium overload by way of the sodium-calcium exchanger. Calcium overload causes impaired diastolic relaxation, which increases diastolic wall tension, increases myocardial oxygen demand, reduces myocardial blood flow and oxygen supply, microvascular perfusion, and worsens ischemia and angina. Many common neurological and cardiac conditions are associated with abnormal (INaL) augmentation, which contributes to the pathogenesis of both electrical and contractile dysfunction in mammals. Inhibiting the late sodium current can lead to reductions in elevated intracellular calcium levels, which, in turn, may lead to reduced tension in the heart wall and reduced oxygen requirements for the heart muscle. Inhibition of cardiac late sodium current is a strategy used to suppress arrhythmias and sodium-dependent calcium overload associated with myocardial ischemia and heart failures. Thus, compounds that selectively inhibit the late sodium current (INaL) in mammals may be useful in treating such disease states.
 Eleclazine (4-(pyrimidin-2-ylmethyl)-7-(4-(trifluoromethoxy)phenyl)-3,4-dihydrobenzo[b]oxepin-5(2H)-one]; CAS #1443211-72-0) is an inhibitor of the late sodium current. Eleclazine is being investigated for the treatment of cardiomyopathy, specifically hypertrophic cardiomyopathy, as well as additional cardiovascular indications, including angina, heart failure, atrial fibrillation (AF), ischaemic heart disorders, atrial premature beats (APBs), myocardial ischemia, and arrhythmias.
+<img> id-US20180064726A1-20180308-C00002.TIF </img>
 Eleclazine shows a shortening of the QTc interval (the time interval between the start of the Q-wave and the end of T-wave in the electrical cycle of the heart) in patients with QT-3 (LQT3) syndrome. LQTS is a genetic disorder that prolongs the heart's QTc interval and can cause life-threatening cardiac arrhythmias. Therefore, eleclazine is also being investigated for treatment of long QT syndrome.
 Eleclazine may be metabolized in the liver and may be subject to extensive cytochrome P450-mediated oxidative metabolism. Eleclazine is metabolized predominantly by N-dealkylation, and elimination is principally in the bile and gastrointestinal tract. The primary metabolite of eleclazine is GS-623134
 Adverse effects associated with eleclazine may include dizziness, dry mouth, nausea, weakness, ringing in ears, tremors, and the like. Additionally, some metabolites of eleclazine, particularly the metabolite GS 623134, may have undesirable side effects.
@@ -24,6 +25,7 @@ Eleclazine is a late sodium current inhibitor. The carbon-hydrogen bonds of elec
 Based on discoveries made in our laboratory, as well as considering the literature, eleclazine is likely metabolized in humans by oxidation of hydrocarbons and N-dealkylations. The approach described herein has the potential to prevent metabolism at these sites. Other sites on the molecule may also undergo transformations leading to metabolites with as-yet-unknown pharmacology/toxicology. Limiting the production of these metabolites has the potential to decrease the danger of the administration of such drugs and may even allow increased dosage and/or increased efficacy. All of these transformations can occur through polymorphically-expressed enzymes, exacerbating interpatient variability. Further, some disorders are best treated when the subject is medicated around the clock or for an extended period of time. For all of the foregoing reasons, a pharmaceutical with a longer half-life may result in greater efficacy and cost savings. Various deuteration patterns can be used to (a) reduce or eliminate unwanted metabolites, (b) increase the half-life of the parent drug, (c) decrease the number of doses needed to achieve a desired effect, (d) decrease the amount of a dose needed to achieve a desired effect, (e) increase the formation of active metabolites, if any are formed, (f) decrease the production of deleterious metabolites in specific tissues, and/or (g) create a more effective drug and/or a safer drug for polypharmacy, whether the polypharmacy be intentional or not. The deuteration approach has the strong potential to slow the metabolism of eleclazine and attenuate interpatient variability.
 Deuterium-substituted oxazepin compounds and pharmaceutical compositions employing such compounds, certain of which have been found to inhibit late sodium current activity have been discovered, together with methods of synthesizing and using the compounds, including methods for the treatment or prevention of late sodium current-mediated disorders in a mammal by administering the compounds as disclosed herein.
 In certain embodiments of the present invention, the deuterium-substituted oxazepin compounds have a structure corresponding to Formula I:
+<img> id-US20180064726A1-20180308-C00003.TIF </img>
 or a pharmaceutically acceptable salt, ester, prodrug, or solvate thereof, wherein:
 R1-R16 are independently selected from hydrogen and deuterium, and at least one of R1-R16 is deuterium, with the proviso that when all of R6, R7, R8, and R9 are deuterium, at least one of R1-R5 or R10-R16 are also deuterium.
 In further embodiments, said pharmaceutically acceptable salt is selected from a hydrochloride, a hydrobromide, a sulfate, a formate, an acetate, a fumarate, a citrate, a tartrate, a mesylate, a tosylate, a besylate, and the like.
@@ -57,6 +59,7 @@ Also provided herein are embodiments according to each of the embodiments above,
 Also provided herein are embodiments according to each of the embodiments above, wherein every other substituent among R1-R16 not specified as deuterium is hydrogen.
 In certain embodiments are provided compounds as disclosed herein, wherein at least one of R1-R16 independently has deuterium enrichment of no less than about 1%. In certain embodiments are provided compounds as disclosed herein, wherein at least one of R1-R16 independently has deuterium enrichment of no less than about 10%. In certain embodiments are provided compounds as disclosed herein, wherein at least one of R1-R16 independently has deuterium enrichment of no less than about 50%, including about 55%, about 60%, about 65%, about 70%, about 75%, about 80%, about 85%, about 90%, about 95%, and about 100%. In certain embodiments are provided compounds as disclosed herein, wherein at least one of R1-R16 independently has deuterium enrichment of no less than about 90%, including about 92%, about 94%, about 96%, about 98%, and about 100%. In certain embodiments are provided compounds as disclosed herein, wherein at least one of R1-R16 independently has deuterium enrichment of no less than about 95%, including about 96%, about 97%, about 98%, about 99%, and about 100%. In certain embodiments are provided compounds as disclosed herein, wherein at least one of R1-R16 independently has deuterium enrichment of no less than about 98%, including about 99%, and about 100%.
 In further embodiments, the deuterium-substituted deuterium-substituted oxazepin compounds have a structure corresponding to Formula Ia
+<img> id-US20180064726A1-20180308-C00004.TIF </img>
 or a pharmaceutically acceptable salt, ester, prodrug, or solvate thereof, wherein:
 R1-R9 are independently selected from hydrogen and deuterium, at least one of R1-R5 is deuterium, and with the proviso that when any of R6, R7, R8, and R9 are deuterium, at least one of R1-R5 are also deuterium.
 In further embodiments, said pharmaceutically acceptable salt is selected from a hydrochloride, a hydrobromide, a sulfate, a formate, an acetate, a fumarate, a citrate, a tartrate, a mesylate, a tosylate, a besylate, and the like.
@@ -80,8 +83,10 @@ Also provided herein are embodiments according to each of the embodiments above,
 Also provided herein are embodiments according to each of the embodiments above, wherein every other substituent among R1-R9 not specified as deuterium is hydrogen.
 In certain embodiments are provided compounds as disclosed herein, wherein at least one of R1-R9 independently has deuterium enrichment of no less than about 1%. In certain embodiments are provided compounds as disclosed herein, wherein at least one of R1-R9 independently has deuterium enrichment of no less than about 10%. In certain embodiments are provided compounds as disclosed herein, wherein at least one of R1-R9 independently has deuterium enrichment of no less than about 50%, including about 55%, about 60%, about 65%, about 70%, about 75%, about 80%, about 85%, about 90%, about 95%, and about 100%. In certain embodiments are provided compounds as disclosed herein, wherein at least one of R1-R9 independently has deuterium enrichment of no less than about 90%, including about 92%, about 94%, about 96%, about 98%, and about 100%. In certain embodiments are provided compounds as disclosed herein, wherein at least one of R1-R9 independently has deuterium enrichment of no less than about 95%, including about 96%, about 97%, about 98%, about 99%, and about 100%. In certain embodiments are provided compounds as disclosed herein, wherein at least one of R1-R9 independently has deuterium enrichment of no less than about 98%, including about 99%, and about 100%.
 Thus, as described herein, the compound of Formula I and/or the compound of Formula Ia does not encompass the compound of Formula II
+<img> id-US20180064726A1-20180308-C00005.TIF </img>
 or a pharmaceutically acceptable salt, ester, prodrug, or solvate thereof.
 In other embodiments, provided is a compound or intermediate of Formula III or IV:
+<img> id-US20180064726A1-20180308-C00006.TIF </img>
 or a pharmaceutically acceptable salt, ester, prodrug, or solvate thereof, wherein:
 R1-R5 are independently selected from hydrogen and deuterium; and at least one of R1-R5 is deuterium.
 In certain embodiments, both R4 and R5 are deuterium.
@@ -93,12 +98,15 @@ The compounds as disclosed herein may also contain less prevalent isotopes for o
 In certain embodiments, the compound disclosed herein may expose a patient to a maximum of about 0.000005% D2O or about 0.00001% DHO, assuming that all of the C-D bonds in the compound as disclosed herein are metabolized and released as D2O or DHO. In certain embodiments, the levels of D2O shown to cause toxicity in animals is much greater than even the maximum limit of exposure caused by administration of the deuterium enriched compound as disclosed herein. Thus, in certain embodiments, the deuterium-enriched compound disclosed herein should not cause any additional toxicity due to the formation of D2O or DHO upon drug metabolism.
 In certain embodiments are provided compounds as disclosed herein, wherein each position represented as D has deuterium enrichment of no less than about 1%. In certain embodiments are provided compounds as disclosed herein, wherein each position represented as D has deuterium enrichment of no less than about 10%. In certain embodiments are provided compounds as disclosed herein, wherein each position represented as D has deuterium enrichment of no less than about 50%. In certain embodiments are provided compounds as disclosed herein, wherein each position represented as D has deuterium enrichment of no less than about 90%. In certain embodiments are provided compounds as disclosed herein, wherein each position represented as D has deuterium enrichment of no less than about 95%. In certain embodiments are provided compounds as disclosed herein, wherein each position represented as D has deuterium enrichment of no less than about 98%.
 In certain embodiments, said compound of Formula I is selected from the group consisting of:
+<img> id-US20180064726A1-20180308-C00007.TIF </img>
 It is noted that in any of the above enumerated compounds of Formula I, the aromatic rings (i.e. the pyrimidyl ring, the phenyl ring, and/or the fused phenyl ring) may also contain one or more deuterium.
 In other embodiments, said compound of Formula I is selected from:
+<img> id-US20180064726A1-20180308-C00008.TIF </img><img> id-US20180064726A1-20180308-C00009.TIF </img><img> id-US20180064726A1-20180308-C00010.TIF </img><img> id-US20180064726A1-20180308-C00011.TIF </img><img> id-US20180064726A1-20180308-C00012.TIF </img><img> id-US20180064726A1-20180308-C00013.TIF </img><img> id-US20180064726A1-20180308-C00014.TIF </img><img> id-US20180064726A1-20180308-C00015.TIF </img><img> id-US20180064726A1-20180308-C00016.TIF </img><img> id-US20180064726A1-20180308-C00017.TIF </img>
 It is noted that in any of the above enumerated compounds of Formula I, the aromatic rings (i.e. the pyrimidyl ring, the phenyl ring, and/or the fused phenyl ring) may also contain one or more deuterium.
 In certain embodiments, the deuterated compounds disclosed herein maintain the beneficial aspects of the corresponding non-isotopically enriched molecules while substantially increasing the maximum tolerated dose, decreasing toxicity, increasing the half-life (T1/2), lowering the maximum plasma concentration (Cmax) of the minimum efficacious dose (MED), lowering the efficacious dose and thus decreasing the non-mechanism-related toxicity, and/or lowering the probability of drug-drug interactions.
 Also provided is a pharmaceutical composition comprising a compound as disclosed herein together with a pharmaceutically acceptable carrier.
 Also provided is a pharmaceutical composition comprising a pharmaceutically acceptable carrier together with a compound of Formula I:
+<img> id-US20180064726A1-20180308-C00018.TIF </img>
 or a pharmaceutically acceptable salt, ester, prodrug, or solvate thereof, wherein:
 R1-R16 are independently selected from the consisting of hydrogen and deuterium, and at least one of R1-R16 is deuterium, with the proviso that when all of R6, R7, R8, and R9 are deuterium, at least one of R1-R5 or R10-R16 are also deuterium, and the pharmaceutical composition has deuterium enrichment of at least 10% is at least one of the positions of R1-R16.
 In certain embodiments, R1 is deuterium.
@@ -119,6 +127,7 @@ In certain embodiments, R15 is deuterium.
 In certain embodiments, R16 is deuterium.
 In specific embodiments, at least one of R4-R5 has deuterium enrichment of at least 10%.
 In other embodiments, also provided is a pharmaceutical composition comprising a pharmaceutically acceptable carrier together with a compound of Formula Ia:
+<img> id-US20180064726A1-20180308-C00019.TIF </img>
 or a pharmaceutically acceptable salt, ester, prodrug, or solvate thereof, wherein:
 R1-R9 are independently selected from hydrogen and deuterium, at least one of R1-R5 is deuterium, and with the proviso that when any of R6, R7, R8, and R9 are deuterium, at least one of R1-R5 are also deuterium.
 In further embodiments, said pharmaceutically acceptable salt of Formula I and/or Formula Ia is selected from a mesylate, a tosylate, a besylate, a hydrochloride, a hydrobromide, a sulfate, a formate, an acetate, a fumarate, a citrate, a tartrate, and the like.
@@ -251,10 +260,13 @@ General Synthetic Methods for Preparing Compounds
 Isotopic hydrogen can be introduced into a compound as disclosed herein by synthetic techniques that employ deuterated reagents, whereby incorporation rates are pre-determined; and/or by exchange techniques, wherein incorporation rates are determined by equilibrium conditions, and may be highly variable depending on the reaction conditions. Synthetic techniques, where tritium or deuterium is directly and specifically inserted by tritiated or deuterated reagents of known isotopic content, may yield high tritium or deuterium abundance, but can be limited by the chemistry required. Exchange techniques, on the other hand, may yield lower tritium or deuterium incorporation, often with the isotope being distributed over many sites on the molecule.
 The compounds disclosed herein can be prepared by methods known to one of skill in the art and routine modifications thereof, and/or following procedures similar to those described in the Example section herein and routine modifications thereof, and/or procedures found in U.S. Pat. No. 8,586,732, U.S. Pat. No. 8,697,863, U.S. Pat. No. 8,962,610, U.S. Pat. No. 9,193,694, U.S. 2015/239904, and U.S. 2016/096846.
 Compounds of Formula I (and, similarly, the compounds of Formula Ia) may be prepared as shown in the following reaction schemes and the description thereof, as well as relevant literature procedures that may be used by one skilled in the art. Exemplary reagents and procedures for these reactions appear hereinafter and in the working Examples. Any position shown as hydrogen may optionally be replaced with deuterium.
+<img> id-US20180064726A1-20180308-C00020.TIF </img><img> id-US20180064726A1-20180308-C00021.TIF </img>
 Deuterium can be incorporated into different positions synthetically, according to the synthetic procedures as shown in Scheme I, by using appropriate deuterated intermediates. For example, to introduce deuterium at one or more positions of R10-R12, compound 1 with the corresponding deuterium substitutions can be used. To introduce deuterium at R1-R5, compound 5 with the corresponding deuterium substitutions can be used. To introduce deuterium at one or more positions of R13-R16, compound 7 with the corresponding deuterium substitutions can be used. To introduce deuterium at R6-R9, compound 2 with the corresponding deuterium substitutions and deuterated DMA can be used.
+<img> id-US20180064726A1-20180308-C00022.TIF </img>
 Deuterium can be incorporated into different positions synthetically, according to the synthetic procedures as shown in Scheme II, by using appropriate deuterated intermediates. For example, to introduce deuterium at one or more positions of R1-R3, compound 8 with the corresponding deuterium substitutions can be used. To introduce deuterium at R4-R5, deuterated sodium borohydride and deuterated methanol can be used. To introduce deuterium at one or more positions of R6-R12, compound 4 with the corresponding deuterium substitutions can be used. To introduce deuterium at R13-R16, compound 7 with the corresponding deuterium substitutions can be used.
 Deuterium can be incorporated into various positions via proton-deuterium exchange reactions catalyzed by transition metals such palladium, rhodium, platinum. For example, to introduce deuterium at R1-R3 and/or at R10-R16, these protons may be replaced with deuterium selectively or non-selectively through a proton-deuterium exchange method known in the art.
 One or more embodiments provide a compound or intermediate of Formula III and/or a compound of intermediate of Formula IV:
+<img> id-US20180064726A1-20180308-C00023.TIF </img>
 or a pharmaceutically acceptable salt, ester, prodrug, or solvate thereof, wherein:
 R1-R5 are independently selected from hydrogen and deuterium; and at least one of R1-R5 is deuterium.
 In certain embodiments, both R4 and R5 are deuterium.
@@ -262,9 +274,11 @@ In certain embodiments at least one of R1-R3 is deuterium.
 In certain embodiments, at least two of R1-R3 are deuterium.
 In certain embodiments, all of R1-R3 are deuterium.
 One or more embodiments provide a compound or intermediate of Formula V:
+<img> id-US20180064726A1-20180308-C00024.TIF </img>
 or a pharmaceutically acceptable salt, ester, prodrug, or solvate thereof, wherein:
 R1-R12 are independently selected from hydrogen and deuterium; and at least one R1-R12 is deuterium, with the proviso that when all of R6, R7, R8, and R9 are deuterium, at least one of R1-R5 or R10-R16 are also deuterium.
 Compounds of Formula III may be prepared as shown in the following reaction schemes and the description thereof, as well as relevant literature procedures that may be used by one skilled in the art. Exemplary reagents and procedures for these reactions appear hereinafter and in the working Examples. Any position shown as hydrogen may optionally be replaced with deuterium.
+<img> id-US20180064726A1-20180308-C00025.TIF </img>
 Deuterium can be incorporated into different positions synthetically, according to the synthetic procedures as shown in Scheme III, by using appropriate deuterated intermediates. For example, to introduce deuterium at one or more positions of R6-R12, compound 1 can be reacted with compound 2 in deuterated DMA (D2O) to give compound 3, having one or more deuterium atoms at R6-R12.
 The invention is now described with reference to the following examples. Before describing several exemplary embodiments of the invention, it is to be understood that the invention is not limited to the details of construction or process steps set forth in the following description. The invention is capable of other embodiments and of being practiced or being carried out in various ways.
 The following abbreviations may be employed in the Examples and elsewhere herein:
@@ -299,90 +313,133 @@ All IUPAC names were generated using PerkinElmer®'s ChemDraw.
 EXAMPLES
 Example 1-Comparative
 4-(pyrimidin-2-ylmethyl)-7-[4-(trifluoromethoxy)phenyl]-2,3,4,5-tetrahydro-1,4-benzoxazepin-5-one [Eleclazine]
+<img> id-US20180064726A1-20180308-C00026.TIF </img>
 Step 1: Methyl 5-bromo-2-(cyanomethoxy)benzoate
+<img> id-US20180064726A1-20180308-C00027.TIF </img>
 To a solution of 5-bromo-2-hydroxybenzoate (10 g, 43.28 mmol, 1.00 equiv) in DMA (100 mL) was added potassium carbonate (9 g, 65.12 mmol, 1.50 equiv) and 2-chloroacetonitrile (3.4 mL, 1.25 equiv). The resulting suspension was stirred overnight. The solids were filtered out. The filtrate was washed with water. The resulting solution was extracted with ethyl acetate (3×50 mL). The organic layers were dried over anhydrous sodium sulfate and concentrated under vacuum to afford 11 g (94%) of methyl 5-bromo-2-(cyanomethoxy)benzoate as a white solid. LC-MS: m/z=270 [M+H]+.
 Step 2: 7-bromo-2,3,4,5-tetrahydro-1,4-benzoxazepin-5-one
+<img> id-US20180064726A1-20180308-C00028.TIF </img>
 To a solution of 5-bromo-2-(cyanomethoxy)benzoate [Example 1, Step 1] (4 g, 14.81 mmol, 1.00 equiv) in methanol (50 mL) was added saturated aq. NH3 (4 mL) and Raney-Ni (2 mL) under a H2 atmosphere. The resulting solution was stirred overnight at room temperature. The catalyst was filtered out. The filtrate was concentrated under vacuum. The residue was purified by SiO2 chromatography eluted with ethyl acetate/petroleum ether (1:1) to afford 530 mg (15%) of 7-bromo-2,3,4,5-tetrahydro-1,4-benzoxazepin-5-one as a yellow solid. LC-MS: m/z=242 [M+H]+.
 Step 3: 7-bromo-4-(pyrimidin-2-ylmethyl)-2,3,4,5-tetrahydro-1,4-benzoxazepin-5-one
+<img> id-US20180064726A1-20180308-C00029.TIF </img>
 To a solution of 7-bromo-2,3,4,5-tetrahydro-1,4-benzoxazepin-5-one [Example 1, Step 2] (530 mg, 2.19 mmol, 1.00 equiv) and 2-(chloromethyl)pyrimidine hydrochloride (650 mg, 3.96 mmol, 1.80 equiv) in DMF (10 mL), was slowly added a NaOH solution (0.55 mL, 10 M, 2.50 equiv), which was stirred at room temperature for 10 min. Then the mixture was stirred at 95° C. for 2 h. After cooling the reaction mixture, ethyl acetate (30 mL) was added and the organic layer was separated. The organic layers were washed with water, brine, dried over anhydrous sodium sulfate, and concentrated under vacuum to afford 600 mg (82%) of 7-bromo-4-(pyrimidin-2-ylmethyl)-2,3,4,5-tetrahydro-1,4-benzoxazepin-5-one as light yellow oil. LC-MS: m/z=334 [M+H]+.
 Step 4: 4-(pyrimidin-2-ylmethyl)-7-[4-(trifluoromethoxy)phenyl]-2,3,4,5-tetrahydro-1,4-benzoxazepin-5-one
+<img> id-US20180064726A1-20180308-C00030.TIF </img>
 To a solution of 7-bromo-4-(pyrimidin-2-ylmethyl)-2,3,4,5-tetrahydro-1,4-benzoxaze-pin-5-one [Example 1, Step 3] (277 mg, 0.83 mmol, 1.00 equiv) in Toluene/iPrOH/H2O (2:1:1, 4 mL) was added potassium carbonate (459 mg, 3.32 mmol, 4.00 equiv) and [4-(trifluoromethoxy)phenyl]boronic acid (257 mg, 1.25 mmol, 1.50 equiv). The mixture was stirred for 10 min at room temperature. Then Pd(dppf)Cl2 (12 mg, 0.02 equiv) was added to the solution. The mixture was stirred at 85° C. for 2 h. After cooling the reaction mixture, ethyl acetate (30 mL) was added, and the organic layer was separated. The organic layer was washed with water, brine, dried over anhydrous sodium sulfate, and concentrated under vacuum. The crude product was purified by Prep-HPLC with the following conditions: Column,)(Bridge Prep C18 OBD Column, 5 um, 19*150 mm; mobile phase, Water (10 mmol/L NH4HCO3) and CH3CN (50.0% CH3CN up to 52.0% in 7 min); Detector, UV 254, 220 nm to afford 190 mg (55%) of 4-(pyrimidin-2-ylmethyl)-7-[4-(trifluoromethoxy)phenyl]-2,3,4,5-tetrahydro-1,4-benzoxazepin-5-one as a white solid. LC-MS: m/z=416 [M+H]+
 1H NMR (400 MHz, Chloroform-d) δ 8.75-8.74 (m, 2H), 8.20-8.19 (m, 1H), 7.66-7.61 (m, 3H), 7.29-7.28 (m, 1H), 7.27-7.26 (m, 1H), 7.24-7.23 (m, 1H), 7.13-7.11 (m, 1H), 5.12 (s, 2H), 4.60-4.57 (m, 2H), 3.81-3.78 (m, 2H).
 Example 2: 4-(pyrimidin-2-ylmethyl-d2)-7-(4-(trifluoromethoxy)phenyl)-3,4-dihydrobenzo[f][1,4]oxazepin-5(2H)-one
+<img> id-US20180064726A1-20180308-C00031.TIF </img>
 Step 1: pyrimidin-2-ylmethan-d2-ol
+<img> id-US20180064726A1-20180308-C00032.TIF </img>
 To a stirred solution of methyl pyrimidine-2-carboxylate (5 g, 36.20 mmol, 1.00 equiv) in CD3OD (50 mL), cooled to 0° C., was added NaBD4 (1.52 g, 1.00 equiv). The solution was stirred for 2 h. After consumption of the starting material, the reaction was quenched with cold water and concentrated under vacuum to give the crude material which was purified by silica gel column chromatography to afford 3 g (74%) of pyrimidin-2-ylmethan-d2-ol as white oil. LC-MS: m/z=113 [M+H]+.
 Step 2: 2-(chloromethyl-d2)pyrimidine
+<img> id-US20180064726A1-20180308-C00033.TIF </img>
 To a stirred solution of pyrimidin-2-ylmethan-d2-ol [Example 2, Step 1] (3 g, 26.76 mmol, 1.00 equiv) in DCM (40 mL) was added SOCl2 (9.48 g, 3.00 equiv) at 0° C. under inert atmosphere. The reaction mixture was heated up to 50° C. and stirred for 2 h. The mixture was evaporated under reduced pressure. The residue was quenched with ice cold water followed by saturated NaHCO3 and extracted with DCM. The organic layers were dried over anhydrous sodium sulfate and concentrated under vacuum to afford 2 g (57%) of 2-(chloromethyl-d2)pyrimidine as brown oil. LC-MS: m/z=131 [M+H]+.
 Step 3: 7-bromo-4-[pyrimidin-2-yl(d2)methyl]-2,3,4,5-tetrahydro-1,4-benzoxazepin-5-one
+<img> id-US20180064726A1-20180308-C00034.TIF </img>
 To a solution of 7-bromo-2,3,4,5-tetrahydro-1,4-benzoxazepin-5-one (560 mg, 2.31 mmol, 1.00 equiv) and 2-(chloromethyl-d2)pyrimidine [Example 2, Step 2] (544 mg, 4.17 mmol, 1.80 equiv) in DMF-d7 (10 mL), NaOD solution (1.9 mL, 2.50 equiv) was slowly added and stirred at room temperature for 10 min. Then the mixture was stirred at 95° C. for 2 h. After cooling the reaction mixture, ethyl acetate (30 mL) was added, and the organic layer was separated. The organic layers were washed with water, brine, dried over anhydrous sodium sulfate and concentrated under vacuum to afford 500 mg (64%) of 7-bromo-4-[pyrimidin-2-yl(d2)methyl]-2,3,4,5-tetrahydro-1,4-benzoxazepin-5-one as yellow oil. LC-MS: m/z=336 [M+H]+.
 Step 4: 4-[pyrimidin-2-yl(d2)methyl]-7-[4-(trifluoromethoxy)phenyl]-2,3,4,5-tetrahydro-1,4-benzoxazepin-5-one
+<img> id-US20180064726A1-20180308-C00035.TIF </img>
 To a solution of 7-bromo-4-[pyrimidin-2-yl(d2)methyl]-2,3,4,5-tetrahydro-1,4-benzoxazepin-5-one [Example 2, Step 3] (300 mg, 0.89 mmol, 1.00 equiv) in Toluene/iPrOH/H2O (2:1:1, 4 mL) was added potassium carbonate (494 mg, 3.57 mmol, 4.00 equiv) and [4-(trifluoromethoxy)phenyl]boronic acid (277 mg, 1.35 mmol, 1.50 equiv). The mixture was stirred for 10 min at room temperature. Then Pd(dppf)Cl2 (13 mg, 0.02 mmol, 0.02 equiv) was added to the solution. The mixture was stirred at 85° C. for 2 h. After cooling the reaction mixture, ethyl acetate (30 mL) was added, and the organic layer was separated. The organic layer was washed with water, brine, dried over anhydrous sodium sulfate, and concentrated under vacuum. The crude product was purified by Prep-HPLC with the following conditions: Column,)(Bridge Prep C18 OBD Column, 5 um, 19*150 mm; mobile phase, Water (10 mmol/L NH4HCO3) and ACN (50.0% ACN up to 52.0% in 7 min); Detector, UV 254, 220 nm. This resulted in 200 mg (54%) of 4-[pyrimidin-2-yl(d2)methyl]-7-[4-(trifluoromethoxy)phenyl]-2,3,4,5-tetrahydro-1,4-benzoxazepin-5-one as a white solid. LC-MS: m/z=418 [M+H]+
 1H NMR (400 MHz, Chloroform-d) δ 8.74-8.73 (m, 2H), 8.20-8.19 (m, 1H), 7.66-7.61 (m, 3H), 7.29-7.28 (m, 1H), 7.27-7.26 (m, 1H), 7.25-7.23 (m, 1H), 7.13-7.11 (m, 1H), 4.59-4.57 (m, 2H), 3.80-3.78 (m, 2H).
 Example 3: 4-(pyrimidin-2-ylmethyl)-7-[4-(trifluoromethoxy)phenyl]-2,3,4,5-tetrahydro(2,2-d2)-1,4-benzoxazepin-5-one
+<img> id-US20180064726A1-20180308-C00036.TIF </img>
 Step 1: [(benzylamino)methyl](d2)methanol
+<img> id-US20180064726A1-20180308-C00037.TIF </img>
 To a solution of ethyl 2-(benzylamino)acetate (10 g, 51.75 mmol, 1.00 equiv) in CD3OD (50 mL) was slowly added NaBD4 (6.53 g, 3.00 equiv). Then the mixture was stirred at room temperature overnight. The reaction was quenched by the addition of D2O (20 mL). The resulting solution was extracted with DCM (3×50 mL). The organic layers were dried over anhydrous sodium sulfate and concentrated under vacuum. The crude product was purified by SiO2 chromatography eluted with DCM/MeOH (5:1) to afford 6 g (76%) of [(benzylamino)methyl](d2)methanol as light yellow oil. LC-MS: m/z=154 [M+H]+.
 Step 2: N-benzyl-5-bromo-2-fluoro-N-[2-hydroxy(2,2-d2)ethyl]benzamide
+<img> id-US20180064726A1-20180308-C00038.TIF </img>
 To a solution of 5-bromo-2-fluorobenzoic acid (6.3 g, 28.77 mmol, 1.00 equiv), [(benzylamino)methyl](d2)methanol [Example 3, Step 1] (4 g, 26.11 mmol, 0.90 equiv), and DIEA (11.2 g, 86.66 mmol, 3.00 equiv) in dry DMF (100 mL) was added HATU (16.5 g, 43.39 mmol, 1.50 equiv). The mixture was stirred at room temperature overnight. Then to this reaction mixture was added ethyl acetate (50 mL). The solution was washed with brine, dried over anhydrous sodium sulfate, and concentrated under vacuum. The crude product was purified by SiO2 chromatography eluted with petroleum ether/ethyl acetate (2:3) to afford 6 g (59%) of N-benzyl-5-bromo-2-fluoro-N-[2-hydroxy(2,2-d2)ethyl] benzamide as light yellow oil. LC-MS: m/z=354 [M+H]+.
 Step 3: 4-benzyl-7-bromo-2,3,4,5-tetrahydro(2,2-d2)-1,4-benzoxazepin-5-one
+<img> id-US20180064726A1-20180308-C00039.TIF </img>
 To a solution of N-benzyl-5-bromo-2-fluoro-N-[2-hydroxy(2,2-d2)ethyl]benzamide [Example 3, Step 2] (7.8 g, 22.02 mmol, 1.00 equiv) in DMF (50 mL) was added sodium hydride (1.15 g, 1.30 equiv). The mixture was stirred at room temperature for 2 h. The reaction was quenched by the addition of H2O (10 mL). The resulting solution was extracted with ethyl acetate (3×50 mL). The organic layers were dried over anhydrous sodium sulfate and concentrated under vacuum. The crude product was purified by SiO2 chromatography eluted with petroleum ether/ethyl acetate (9:1) to afford 4 g (54%) of 4-benzyl-7-bromo-2,3,4,5-tetrahydro(2,2-d2)-1,4-benzoxazepin-5-one as light yellow oil. LC-MS: m/z=334 [M+H]+.
 Step 4: 4-benzyl-7-[4-(trifluoromethoxy)phenyl]-2,3,4,5-tetrahydro(2,2-d2)-1,4-benzoxazepin-5-one
+<img> id-US20180064726A1-20180308-C00040.TIF </img>
 To a solution of 4-benzyl-7-bromo-2,3,4,5-tetrahydro(2,2-d2)-1,4-benzoxazepin-5-one [Example 3, Step 3] (1.5 g, 4.49 mmol, 1.00 equiv) and [4-(trifluoromethoxy)phenyl]boronic acid (1.4 g, 6.80 mmol, 1.50 equiv) in Toluene/iPrOH/H2O (2:1:1, 24 mL) was added potassium carbonate (2.5 g, 18.09 mmol, 4.00 equiv). The mixture was stirred at room temperature for 10 min. Then Pd(dppf)Cl2 (66 mg, 0.02 equiv) was added. The resulting solution was stirred for 2 h at 85° C. The reaction was diluted with ethyl acetate (50 mL). The organic layers were dried over anhydrous sodium sulfate and concentrated under vacuum. The crude product was purified by SiO2 chromatography eluted with petroleum ether/ethyl acetate (9:1) to afford 1.2 g (64%) of 4-benzyl-7-[4-(trifluoromethoxy)phenyl]-2,3,4,5-tetrahydro(2,2-d2)-1,4-benzoxazepin-5-one as a light yellow solid. LC-MS: m/z=416 [M+H]+.
 Step 5: 7-[4-(trifluoromethoxy)phenyl]-2,3,4,5-tetrahydro(2,2-d2)-1,4-benzoxazepin-5-one
+<img> id-US20180064726A1-20180308-C00041.TIF </img>
 To a solution of 4-benzyl-7-[4-(trifluoromethoxy)phenyl]-2,3,4,5-tetrahydro(2,2-d2)-1,4-benzoxazepin-5-one [Example 3, Step 4] (400 mg, 0.96 mmol, 1.00 equiv) in DCM (8 mL) was added NBS (429 mg, 2.41 mmol, 2.50 equiv) and NMA (14 mg, 0.20 equiv). The resulting solution was stirred for 48 h at 50° C. The mixture was washed with H2O (3×20 mL). The organic layers were dried over anhydrous sodium sulfate and concentrated under vacuum. The crude product was purified by SiO2 chromatography eluted with petroleum ether/ethyl acetate (3:1) to afford 80 mg (26%) of 7-[4-(trifluoromethoxy)phenyl]-2,3,4,5-tetrahydro(2,2-d2)-1,4-benzoxazepin-5-one as a light yellow solid. LC-MS: m/z=326 [M+H]+.
 Step 6: 4-(pyrimidin-2-ylmethyl)-7-[4-(trifluoromethoxy)phenyl]-2,3,4,5-tetrahydro(2,2-d2)-1,4-benzoxazepin-5-one
+<img> id-US20180064726A1-20180308-C00042.TIF </img>
 To a solution of 7-[4-(trifluoromethoxy)phenyl]-2,3,4,5-tetrahydro(2,2-d2)-1,4-benzoxazepin-5-one [Example 3, Step 5] (320 mg, 0.98 mmol, 1.00 equiv) and 2-(chloromethyl) pyrimidine hydrochloride (323 mg, 1.96 mmol, 2.00 equiv) in DMF (8 mL), was slowly added a NaOH solution (0.24 mL, 10 M, 2.50 equiv). The solution was stirred at room temperature for 10 min. Then the mixture was stirred at 95° C. for 4 h. After cooling the reaction mixture, ethyl acetate (30 mL) was added, and the organic layer was separated. The organic layers were washed with water, dried over anhydrous sodium sulfate, and concentrated under vacuum. The crude product was purified by Prep-HPLC with the following conditions: Column,)(Bridge Prep OBD C18 Column, 30*150 mm 5 um; mobile phase, Water (0.05% NH3H2O) and CH3CN (50.0% CH3CN up to 55.0% in 7 min); Detector, UV 254, 220 nm. This resulted in 150 mg (37%) of 4-(pyrimidin-2-ylmethyl)-7-[4-(trifluoromethoxy)phenyl]-2,3,4,5-tetrahydro(2,2-d2)-1,4-benzoxazepin-5-one as a white solid. LC-MS: m/z=418 [M+H]+
 1H NMR (400 MHz, Chloroform-d) δ 8.76-8.74 (m, 2H), 8.21-8.20 (m, 1H), 7.66-7.61 (m, 3H), 7.30-7.29 (m, 1H), 7.28-7.26 (m, 1H), 7.25-7.24 (m, 1H), 7.14-7.11 (m, 1H), 5.13 (s, 2H), 3.79 (s, 2H).
 Example 4: 4-(pyrimidin-2-ylmethyl)-7-(4-(trifluoromethoxy)phenyl)-3,4-dihydrobenzo[f][1,4]oxazepin-5(2H)-one-3,3-d2
+<img> id-US20180064726A1-20180308-C00043.TIF </img>
 Step 1: methyl 2-amino(d2)acetate
+<img> id-US20180064726A1-20180308-C00044.TIF </img>
 To a solution of 2-[(d2)amino](d2)ethan(d)oic acid (10 g, 124.85 mmol, 1.00 equiv) in methanol (100 mL) was added thionyl chloride (36.9 g, 2.50 equiv) dropwise at 0° C. The reaction was stirred at 65° C. for 4 h. Then the mixture was concentrated in vacuo to afford 11 g (97%) of methyl 2-amino(d2)acetate as a white solid.
 1H NMR (400 MHz, Deuterium Oxide) δ 3.77 (s, 3H).
 Step 2: methyl 2-(benzylamino)(d2)acetate
+<img> id-US20180064726A1-20180308-C00045.TIF </img>
 To a solution of methyl 2-amino(d2)acetate [Example 4, Step 1] (11 g, 120.74 mmol, 1.00 equiv) in ethanol (150 mL) was added Na(CN)BH3 (11.4 g, 1.50 equiv). Benzaldehyde (8.97 g, 84.53 mmol, 0.70 equiv) was added to this mixture dropwise. The reaction was stirred at room temperature overnight. Then the solution was concentrated to remove EtOH. The resulting solution was extracted with DCM (3×50 mL). The organic layers were dried over anhydrous sodium sulfate and concentrated under vacuum. The crude product was purified by SiO2 chromatography eluted with petroleum ether/ethyl acetate (5:1) to afford 7.5 g (34%) of methyl 2-(benzylamino)(d2)acetate as colorless oil.
 Step 3: 2-(benzylamino)(2,2-d2)ethan-1-ol
+<img> id-US20180064726A1-20180308-C00046.TIF </img>
 To a solution of methyl 2-(benzylamino)(d2)acetate [Example 4, Step 2] (7.5 g, 41.38 mmol, 1.00 equiv) in methanol (100 mL) was slowly added NaBH4 (4.72 g, 124.77 mmol, 3.00 equiv). Then the mixture was stirred at room temperature overnight. The reaction was quenched by the addition of H2O (10 mL). The resulting solution was extracted with DCM (3×50 mL). The organic layers were dried over anhydrous sodium sulfate and concentrated under vacuum. This resulted in 5 g (79%) of 2-(benzylamino)(2,2-d2)ethan-1-ol as colorless oil.
 Step 4: N-benzyl-5-bromo-2-fluoro-N-[2-hydroxy(1,1-d2)ethyl]benzamide
+<img> id-US20180064726A1-20180308-C00047.TIF </img>
 To a solution of 5-bromo-2-fluorobenzoic acid (6.59 g, 30.09 mmol, 1.00 equiv), 2-(benzylamino)(2,2-d2)ethan-1-ol [Example 4, Step 3] (4.18 g, 27.28 mmol, 0.90 equiv), and DIEA (11.7 g, 90.53 mmol, 3.00 equiv) in dry DMF (80 mL) was added HATU (17.23 g, 45.31 mmol, 1.50 equiv). The mixture was stirred at room temperature overnight. Then, to this reaction mixture, was added ethyl acetate (80 mL). The solution was washed with brine, dried over anhydrous sodium sulfate, and concentrated under vacuum. The crude product was purified by SiO2 chromatography eluted with petroleum ether/ethyl acetate (2:3) to afford 7 g (66%) of N-benzyl-5-bromo-2-fluoro-N-[2-hydroxy(1,1-d2)ethyl]benzamide as light yellow oil.
 Step 5: 4-benzyl-7-bromo-2,3,4,5-tetrahydro(3,3-d2)-1,4-benzoxazepin-5-one
+<img> id-US20180064726A1-20180308-C00048.TIF </img>
 To a solution of N-benzyl-5-bromo-2-fluoro-N-[2-hydroxy(1,1-d2)ethyl]benzamide [Example 4, Step 4] (7 g, 19.76 mmol, 1.00 equiv) in DMF (100 mL) was added sodium hydride (1.03 g, 1.30 equiv). The mixture was stirred at room temperature for 4 h. Then the reaction was quenched by the addition of H2O (10 mL). The resulting solution was extracted with ethyl acetate (3×50 mL). The organic layers were dried over anhydrous sodium sulfate and concentrated under vacuum. The crude product was purified by SiO2 chromatography eluted with petroleum ether/ethyl acetate (9:1) to afford 4 g (61%) of 4-benzyl-7-bromo-2,3,4,5-tetrahydro(3,3-d2)-1,4-benzoxazepin-5-one as colorless oil.
 Step 6: 4-benzyl-7-[4-(trifluoromethoxy)phenyl]-2,3,4,5-tetrahydro(3,3-d2)-1,4-benzoxazepin-5-one
+<img> id-US20180064726A1-20180308-C00049.TIF </img>
 To a solution of 4-benzyl-7-bromo-2,3,4,5-tetrahydro(3,3-d2)-1,4-benzoxazepin-5-one [Example 4, Step 5] (3 g, 8.98 mmol, 1.00 equiv) and [4-(trifluoromethoxy)phenyl]boronic acid (2.78 g, 13.50 mmol, 1.50 equiv) in Toluene/iPrOH/H2O (2:1:1, 28 mL) was added potassium carbonate (4.97 g, 35.96 mmol, 4.00 equiv). The mixture was stirred at room temperature for 10 min. Then Pd(dppf)Cl2 (132 mg, 0.18 mmol, 0.02 equiv) was added. The resulting solution was stirred for 2 h at 85° C. The reaction was diluted with ethyl acetate (50 mL). The organic layers were dried over anhydrous sodium sulfate and concentrated under vacuum. The crude product was purified by SiO2 chromatography eluted with petroleum ether/ethyl acetate (9:1) to afford 3 g (80%) of 4-benzyl-7-[4-(trifluoromethoxy)phenyl]-2,3,4,5-tetrahydro(3,3-d2)-1,4-benzoxazepin-5-one as a light yellow solid.
 Step 7: 7-[4-(trifluoromethoxy)phenyl]-2,3,4,5-tetrahydro(3,3-d2)-1,4-benzoxazepin-5-one
+<img> id-US20180064726A1-20180308-C00050.TIF </img>
 To a solution of 4-benzyl-7-[4-(trifluoromethoxy)phenyl]-2,3,4,5-tetrahydro(3,3-d2)-1,4-benzoxazepin-5-one [Example 4, Step 6] (2 g, 4.81 mmol, 1.00 equiv) in DCM (30 mL) was added NBS (2.14 g, 12.02 mmol, 2.50 equiv) and NMA (70 mg, 0.20 equiv). The resulting solution was stirred for 48 h at 50° C. The mixture was washed with H2O (3×20 mL). The organic layers were dried over anhydrous sodium sulfate and concentrated under vacuum. The crude product was purified by SiO2 chromatography eluted with petroleum ether/ethyl acetate (3:1) to afford 220 mg (14%) of 7-[4-(trifluoromethoxy)phenyl]-2,3,4,5-tetrahydro(3,3-d2)-1,4-benzoxazepin-5-one as a light yellow solid.
 Step 8: 4-(pyrimidin-2-ylmethyl)-7-[4-(trifluoromethoxy)phenyl]-2,3,4,5-tetrahydro(3,3-d2)-1,4-benzoxazepin-5-one
+<img> id-US20180064726A1-20180308-C00051.TIF </img>
 To a solution of 7-[4-(trifluoromethoxy)phenyl]-2,3,4,5-tetrahydro(3,3-d2)-1,4-benzoxazepin-5-one [Example 4, Step 7] (300 mg, 0.92 mmol, 1.00 equiv) and 2-(chloromethyl) pyrimidine hydrochloride (303 mg, 1.84 mmol, 2.00 equiv) in DMF (8 mL), was slowly added a NaOH solution (0.23 mL, 10 M, 2.50 equiv). The reaction mixture was stirred at room temperature for 10 min. Then the mixture was stirred at 95° C. for 4 h. After cooling the reaction mixture, ethyl acetate (20 mL) was added, and the organic layer was separated. The organic layers were washed with water, dried over anhydrous sodium sulfate, and concentrated under vacuum. The crude product was purified by Prep-HPLC with the following conditions: Column) (Bridge Prep OBD C18 Column, 19*250 mm, 5 um; mobile phase, Water (10 mmol/L NH4HCO3) and CH3CN (62.0% CH3CN up to 66.0% in 7 min); Detector, UV 220, 254 nm to afford 180 mg (47%) of 4-(pyrimidin-2-ylmethyl)-7-[4-(trifluoromethoxy)phenyl]-2,3,4,5-tetrahydro(3,3-d2)-1,4-benzoxazepin-5-one as a white solid. LC-MS: m/z=418 [M+H]+
 1H NMR (400 MHz, Chloroform-d) δ 8.74-8.73 (m, 2H), 8.20-8.19 (m, 1H), 7.65-7.61 (m, 3H), 7.29-7.27 (m, 1H), 7.24-7.23 (m, 1H), 7.23-7.22 (m, 1H), 7.13-7.11 (m, 1H), 5.12 (s, 2H), 4.57 (s, 2H).
 Example 5: 4-(pyrimidin-2-ylmethyl)-7-[4-(trifluoromethoxy)phenyl]-2,3,4,5-tetrahydro(2,2,3,3-d4)-1,4-benzoxazepin-5-one
+<img> id-US20180064726A1-20180308-C00052.TIF </img>
 Step 1: 5-bromo-2-hydroxybenzamide
+<img> id-US20180064726A1-20180308-C00053.TIF </img>
 A solution of 5-bromo-2-hydroxybenzoic acid (20 g, 92.16 mmol, 1.00 equiv) in thionyl chloride (50 mL) was stirred at 80° C. for 4 h. The mixture was concentrated under vacuum. Then the residue was added to a solution of ammonia (50 mL) in tetrahydrofuran (50 mL) and stirred at room temperature for 2 h. Ethyl acetate (50 mL) was added to the reaction. The solid was filtered out. The filtrate was concentrated under vacuum and purified by SiO2 chromatography eluted with ethyl acetate/petroleum ether (1:5) to afford 4.5 g (23%) of 5-bromo-2-hydroxybenzamide as a yellow solid. LC-MS: m/z=216 [M+H]+.
 Step 2: 5-bromo-2-[2-bromo(d4)ethoxy]benzamide
+<img> id-US20180064726A1-20180308-C00054.TIF </img>
 To a solution of 5-bromo-2-hydroxybenzamide [Example 5, Step 1] (3.2 g, 14.81 mmol, 1.00 equiv) in DMA (25 mL) was added potassium carbonate (6.16 g, 44.57 mmol, 3.00 equiv) and dibromo(d4)ethane (5.72 g, 29.81 mmol, 2.00 equiv). The resulting solution was stirred for 5 h at room temperature. The reaction mixture was filtered. The filtrate was washed with water (50 mL). The organic layer was concentrated under vacuum to afford 2 g (41%) of 5-bromo-2-[2-bromo(d4)ethoxy]benzamide as a yellow solid. LC-MS: m/z=326 [M+H]+.
 Step 3: 7-bromo-2,3,4,5-tetrahydro(2,2,3,3-d4)-1,4-benzoxazepin-5-one
+<img> id-US20180064726A1-20180308-C00055.TIF </img>
 To a suspension of sodium hydride (350 mg, 1.30 equiv) in DMA (20 mL) was slowly added a solution of 5-bromo-2-[2-bromo(d4)ethoxy]benzamide [Example 5, Step 2] (2.2 g, 6.73 mmol, 1.00 equiv) in DMA (5 mL). The resulting solution was stirred for 3 h at room temperature. The reaction was quenched by the addition of D2O (5 mL). The resulting solution was extracted with ethyl acetate (3×50 mL). The organic layers were dried over anhydrous sodium sulfate and concentrated under vacuum. The crude product was purified by SiO2 chromatography eluted with ethyl acetate/petroleum ether (3:2) to afford 400 mg (24%) of 7-bromo-2,3,4,5-tetrahydro(2,2,3,3-d4)-1,4-benzoxazepin-5-one as a yellow solid. LC-MS: m/z=246 [M+H]+.
 Step 4: 7-bromo-4-(pyrimidin-2-ylmethyl)-2,3,4,5-tetrahydro(2,2,3,3-d4)-1,4-benzoxazepin-5-one
+<img> id-US20180064726A1-20180308-C00056.TIF </img>
 To a solution of 7-bromo-2,3,4,5-tetrahydro(2,2,3,3-d4)-1,4-benzoxazepin-5-one [Example 5, Step 3] (200 mg, 0.81 mmol, 1.00 equiv) and 2-(chloromethyl)pyrimidine hydrochloride (241 mg, 1.46 mmol, 1.80 equiv) in DMF (5 mL), was slowly added a NaOH solution (0.2 mL, 10M, 2.50 equiv). The reaction mixture was stirred at room temperature for 10 min. Then the mixture was stirred at 95° C. for 2 h. After cooling the reaction mixture, ethyl acetate (20 mL) was added, and the organic layer was separated. The organic layers were washed with water, dried over anhydrous sodium sulfate, and concentrated under vacuum to afford 200 mg (73%) of 7-bromo-4-(pyrimidin-2-ylmethyl)-2,3,4,5-tetrahydro(2,2,3,3-d4)-1,4-benzoxazepin-5-one as light yellow oil. LC-MS: m/z=338 [M+H]+.
 Step 5: 4-(pyrimidin-2-ylmethyl)-7-[4-(trifluoromethoxy)phenyl]-2,3,4,5-tetrahydro(2,2,3,3-d4)-1,4-benzoxazepin-5-one
+<img> id-US20180064726A1-20180308-C00057.TIF </img>
 To a solution of 7-bromo-4-(pyrimidin-2-ylmethyl)-2,3,4,5-tetrahydro(2,2,3,3-d4)-1,4-benzoxazepin-5-one [Example 5, Step 4] (250 mg, 0.74 mmol, 1.00 equiv) in Toluene/iPrOH/H2O (2:1:1, 8 mL) was added K2CO3 (409 mg, 2.96 mmol, 4.00 equiv) and [4-(trifluoromethoxy)phenyl]boronic acid (229 mg, 1.11 mmol, 1.50 equiv). The mixture was stirred for 10 min at room temperature. Then Pd(dppf)Cl2 (11 mg, 0.02 equiv) was added to the solution. The mixture was stirred at 85° C. for 2 h. After cooling the reaction mixture, ethyl acetate (30 mL) was added, and the organic layer was separated. The organic layer was washed with water, dried over anhydrous sodium sulfate, and concentrated under vacuum. The crude product was purified by Prep-HPLC with the following conditions: Column,)(Bridge Prep C18 OBD Column, 5 um, 19*150 mm; mobile phase, Water (10 mmol/L NH4HCO3) and CH3CN (43.0% CH3CN up to 53.0% in 8 min); Detector, UV 254, 220 nm to afford 180 mg (58%) of 4-(pyrimidin-2-ylmethyl)-7-[4-(trifluoromethoxy)phenyl]-2,3,4,5-tetrahydro(2,2,3,3-d4)-1,4-benzoxazepin-5-one as a white solid. LC-MS: m/z=420 [M+H]+
 1H NMR (400 MHz, Chloroform-d) δ 8.73-8.71 (m, 2H), 8.18-8.17 (m, 1H), 7.63-7.59 (m, 3H), 7.27-7.25 (m, 1H), 7.22-7.21 (m, 1H), 7.20-7.11 (m, 1H), 7.10-7.09 (m, 1H), 5.10 (s, 2H).
 Example 6: 4-[pyrimidin-2-yl(d2)methyl]-7-[4-(trifluoromethoxy)phenyl]-2,3,4,5-tetrahydro(2,2,3,3-d4)-1,4-benzoxazepin-5-one
+<img> id-US20180064726A1-20180308-C00058.TIF </img>
 Step 1: 7-bromo-4-[pyrimidin-2-yl(d2)methyl]-2,3,4,5-tetrahydro(2,2,3,3-d4)-1,4-benzoxazepin-5-one
+<img> id-US20180064726A1-20180308-C00059.TIF </img>
 To a solution of 7-bromo-2,3,4,5-tetrahydro(2,2,3,3-d4)-1,4-benzoxazepin-5-one [Example 5, Step 3] (500 mg, 2.03 mmol, 1.00 equiv) and 2-[chloro(d2)methyl]pyrimidine (478 mg, 3.66 mmol, 1.80 equiv) in DMF-d7 (7 mL), was slowly added a NaOD solution (0.5 mL, 10 M, 2.50 equiv). The reaction mixture was stirred at room temperature for 10 min. Then the mixture was stirred at 95° C. for 2 h. After cooling the reaction mixture, ethyl acetate (20 mL) was added, and the organic layer was separated. The organic layers were washed with water, dried over anhydrous sodium sulfate and concentrated under vacuum to afford 500 mg (72%) of 7-bromo-4-[pyrimidin-2-yl(d2)methyl]-2,3,4,5-tetrahydro (2,2,3,3-d4)-1,4-benzoxazepin-5-one as light yellow oil.
 Step 2: 4-[pyrimidin-2-yl(d2)methyl]-7-[4-(trifluoromethoxy)phenyl]-2,3,4,5-tetrahydro(2,2,3,3-d4)-1,4-benzoxazepin-5-one
+<img> id-US20180064726A1-20180308-C00060.TIF </img>
 To a solution of 7-bromo-4-[pyrimidin-2-yl(d2)methyl]-2,3,4,5-tetrahydro(2,2,3,3-d4)-1,4-benzoxazepin-5-one [Example 6, Step 1] (380 mg, 1.12 mmol, 1.00 equiv) in Toluene/iPrOH/H2O (2:1:1, 8 mL) was added K2CO3 (619 mg, 4.48 mmol, 4.00 equiv) and [4-(trifluoromethoxy)phenyl]boronic acid (346 mg, 1.68 mmol, 1.50 equiv). The mixture was stirred for 10 min at room temperature. Then Pd(dppf)Cl2 (16 mg, 0.02 equiv) was added to the solution. The mixture was stirred at 85° C. for 2 h. After cooling the reaction mixture, ethyl acetate (30 mL) was added, and the organic layer was separated. The organic layer was washed with water, dried over anhydrous sodium sulfate, and concentrated under vacuum. The crude product was purified by Prep-HPLC with the following conditions: Column,)(Bridge Prep C18 OBD Column, 5 um, 19*150 mm; mobile phase, Water (10 mmol/L NH4HCO3) and CH3CN (40.0% CH3CN up to 62.0% in 7 min); Detector, UV 254, 220 nm to afford 200 mg (42%) of 4-[pyrimidin-2-yl(d2)methyl]-7-[4-(trifluoromethoxy)phenyl]-2,3,4,5-tetrahydro(2,2,3,3-d4)-1,4-benzoxazepin-5-one as a white solid. LC-MS: m/z=422 [M+H]+
 1H NMR (400 MHz, Chloroform-d) δ 8.74-8.73 (m, 2H), 8.20-8.19 (m, 1H), 7.65-7.61 (m, 3H), 7.29-7.27 (m, 1H), 7.25-7.23 (m, 1H), 7.23-7.22 (m, 1H), 7.13-7.11 (m, 1H).
 Example 7: 4-(pyrimidin-2-ylmethyl)-7-[4-(trifluoromethoxy)phenyl]-2,3,4,5-tetrahydro(8,9-d2)-1,4-benzoxazepin-5-one
+<img> id-US20180064726A1-20180308-C00061.TIF </img>
 Step 1: 2-hydroxy(3,4,5-d3)benzoic acid
+<img> id-US20180064726A1-20180308-C00062.TIF </img>
 To a solution of 2-hydroxybenzoic acid (8 g, 57.92 mmol, 1.00 equiv) in D2O (30 mL) was added NaOD (10 M, 4 mL) and NiAl alloy (800 mg). The resulting solution was stirred for 15 h at 120° C. The pH of the solution was adjusted to 2-3 with HCl (12 M). Then the resulting solution was extracted with ethyl acetate (3×50 mL). The organic layers were dried over anhydrous sodium sulfate and concentrated under vacuum. The progress was repeated three times to afford 6 g (73%) of 2-hydroxy(3,4,5-d3)benzoic acid as a white solid.
 Step 2: 2-hydroxy(3,4,5-d3)benzoate
+<img> id-US20180064726A1-20180308-C00063.TIF </img>
 To a solution of 2-hydroxy(3,4,5-d3)benzoic acid [Example 7, Step 1] (6 g, 42.51 mmol, 1.00 equiv) in methanol (100 mL) was added thionyl chloride (15.06 g, 3.00 equiv). The resulting solution was stirred for 3 h at 65° C. The resulting solution was concentrated under vacuum to afford 5 g (76%) of methyl 2-hydroxy(3,4,5-d3)benzoate as colorless oil.
 Step 3: methyl 5-bromo-2-hydroxy(3,4-d2)benzoate
+<img> id-US20180064726A1-20180308-C00064.TIF </img>
 To a solution of methyl 2-hydroxy(3,4,5-d3)benzoate [Example 7, Step 2] (5 g, 32.22 mmol, 1.00 equiv) in dichloromethane (80 mL) was added Bra (5.57 g, 34.85 mmol, 1.08 equiv) dropwise. The resulting solution was stirred for 5 h at room temperature. Then the resulting solution was washed with the solution of NaHCO3. The organic layers were dried over anhydrous sodium sulfate and concentrated under vacuum to afford 4 g (53%) of methyl 5-bromo-2-hydroxy(3,4-d2)benzoate as a white solid.
 Step 4: methyl 5-bromo-2-(cyanomethoxy)(3,4-d2)benzoate
+<img> id-US20180064726A1-20180308-C00065.TIF </img>
 To a solution of methyl 5-bromo-2-hydroxy(3,4-d2)benzoate [Example 7, Step 3] (4 g, 17.16 mmol, 1.00 equiv) in DMA (50 mL) was added 2-chloroacetonitrile (1.62 g, 21.46 mmol, 1.25 equiv) and potassium carbonate (3.57 g, 25.83 mmol, 1.50 equiv). The resulting suspension was stirred at room temperature overnight. Then the resulting solution was extracted with ethyl acetate (3×50 mL). The organic layers were dried over anhydrous sodium sulfate and concentrated under vacuum to afford 3.7 g (79%) of methyl 5-bromo-2-(cyanomethoxy)(3,4-d2)benzoate as a white solid.
 Step 5: 7-bromo-2,3,4,5-tetrahydro(8,9-d2)-1,4-benzoxazepin-5-one
+<img> id-US20180064726A1-20180308-C00066.TIF </img>
 To a solution of methyl 5-bromo-2-(cyanomethoxy)(3,4-d2)benzoate [Example 7, Step 4] (3 g, 11.03 mmol, 1.00 equiv) in methanol (50 mL) was added Raney-Ni (500 mg) and NH3H2O (3 mL) under a H2 atmosphere. The resulting solution was stirred overnight at room temperature. The catalyst was filtered out. The filtrate was concentrated under vacuum. The residue was purified by SiO2 chromatography eluted with ethyl acetate/petroleum acetate (1:1) to afford 300 mg (11%) of 7-bromo-2,3,4,5-tetrahydro(8,9-d2)-1,4-benzoxazepin-5-one as a white solid.
 Step 6: 7-bromo-4-(pyrimidin-2-ylmethyl)-2,3,4,5-tetrahydro(8,9-d2)-1,4-benzoxazepin-5-one
+<img> id-US20180064726A1-20180308-C00067.TIF </img>
 To a solution of 7-bromo-2,3,4,5-tetrahydro(8,9-d2)-1,4-benzoxazepin-5-one [Example 7, Step 5] (300 mg, 1.23 mmol, 1.00 equiv) and 2-(chloromethyl)pyrimidine hydrochloride (506 mg, 3.07 mmol, 2.50 equiv) in DMF (8 mL), was slowly added a NaOH solution (0.3 mL, 10 M, 2.50 equiv). The reaction mixture was stirred at room temperature for 10 min. Then the mixture was stirred at 95° C. for 2 h. After cooling the reaction mixture, ethyl acetate (30 mL) was added, and the organic layer was separated. The organic layers were washed with water, brine, dried over anhydrous sodium sulfate, and concentrated under vacuum to afford 300 mg (73%) of 7-bromo-4-(pyrimidin-2-ylmethyl)-2,3,4,5-tetrahydro (8,9-d2)-1,4-benzoxa-zepin-5-one as a light yellow solid.
 Step 7: 4-(pyrimidin-2-ylmethyl)-7-[4-(trifluoromethoxy)phenyl]-2,3,4,5-tetrahydro(8,9-d2)-1,4-benzoxazepin-5-one
+<img> id-US20180064726A1-20180308-C00068.TIF </img>
 To a solution of 7-bromo-4-(pyrimidin-2-ylmethyl)-2,3,4,5-tetrahydro(8,9-d2)-1,4-benzoxazepin-5-one [Example 7, Step 6] (300 mg, 0.89 mmol, 1.00 equiv) in Toluene/iPrOH/H2O (2:1:1, 8 mL) was added K2CO3 (494 mg, 3.57 mmol, 4.00 equiv) and [4-(trifluoromethoxy)phenyl]boronic acid (277 mg, 1.35 mmol, 1.50 equiv). The mixture was stirred for 10 min at room temperature. Then Pd(dppf)Cl2 (16 mg, 0.02 equiv) was added to the solution. The mixture was stirred at 85° C. for 2 h. After cooling the reaction mixture, ethyl acetate (30 mL) was added, and the organic layer was separated. The organic layer was washed with water, dried over anhydrous sodium sulfate, and concentrated under vacuum. The crude product was purified by Prep-HPLC with the following conditions: Column,)(Bridge Prep C18 OBD Column, 5 um, 19*150 mm; mobile phase, Water (10 mmol/L NH4HCO3) and CH3CN (40.0% CH3CN up to 62.0% in 7 min); Detector, UV 254, 220 nm to afford 180 mg (48%) of 4-(pyrimidin-2-ylmethyl)-7-[4-(trifluoromethoxy)phenyl]-2,3,4,5-tetrahydro(8,9-d2)-1,4-benzoxazepin-5-one as a white solid. LC-MS: m/z=418 [M+H]+
 1H NMR (400 MHz, Chloroform-d) δ 8.73-8.71 (m, 2H), 8.18 (s, 0.6H), 7.62-7.59 (m, 2H), 7.27-7.25 (m, 1H), 7.23-7.21 (m, 1H), 7.20-7.10 (m, 1H), 5.10 (s, 2H), 4.58-4.55 (m, 2H), 3.79-3.76 (m, 2H).
 The following compounds in Table 1 can generally be made using the methods described above:
@@ -399,66 +456,66 @@ No. & Structure
 <header>
 
 </header>
-8 & 
-9 & 
-10 & 
-11 & 
-12 & 
-13 & 
-14 & 
-15 & 
-16 & 
-17 & 
-18 & 
-19 & 
-20 & 
-21 & 
-22 & 
-23 & 
-24 & 
-25 & 
-26 & 
-27 & 
-28 & 
-29 & 
-30 & 
-31 & 
-32 & 
-33 & 
-34 & 
-35 & 
-36 & 
-37 & 
-38 & 
-39 & 
-40 & 
-41 & 
-42 & 
-43 & 
-44 & 
-45 & 
-46 & 
-47 & 
-48 & 
-49 & 
-50 & 
-51 & 
-52 & 
-53 & 
-54 & 
-55 & 
-56 & 
-57 & 
-58 & 
-59 & 
-60 & 
-61 & 
-62 & 
-63 & 
-64 & 
-65 & 
-66 & 
-67 & 
+8 & <img> id-US20180064726A1-20180308-C00069.TIF </img>
+9 & <img> id-US20180064726A1-20180308-C00070.TIF </img>
+10 & <img> id-US20180064726A1-20180308-C00071.TIF </img>
+11 & <img> id-US20180064726A1-20180308-C00072.TIF </img>
+12 & <img> id-US20180064726A1-20180308-C00073.TIF </img>
+13 & <img> id-US20180064726A1-20180308-C00074.TIF </img>
+14 & <img> id-US20180064726A1-20180308-C00075.TIF </img>
+15 & <img> id-US20180064726A1-20180308-C00076.TIF </img>
+16 & <img> id-US20180064726A1-20180308-C00077.TIF </img>
+17 & <img> id-US20180064726A1-20180308-C00078.TIF </img>
+18 & <img> id-US20180064726A1-20180308-C00079.TIF </img>
+19 & <img> id-US20180064726A1-20180308-C00080.TIF </img>
+20 & <img> id-US20180064726A1-20180308-C00081.TIF </img>
+21 & <img> id-US20180064726A1-20180308-C00082.TIF </img>
+22 & <img> id-US20180064726A1-20180308-C00083.TIF </img>
+23 & <img> id-US20180064726A1-20180308-C00084.TIF </img>
+24 & <img> id-US20180064726A1-20180308-C00085.TIF </img>
+25 & <img> id-US20180064726A1-20180308-C00086.TIF </img>
+26 & <img> id-US20180064726A1-20180308-C00087.TIF </img>
+27 & <img> id-US20180064726A1-20180308-C00088.TIF </img>
+28 & <img> id-US20180064726A1-20180308-C00089.TIF </img>
+29 & <img> id-US20180064726A1-20180308-C00090.TIF </img>
+30 & <img> id-US20180064726A1-20180308-C00091.TIF </img>
+31 & <img> id-US20180064726A1-20180308-C00092.TIF </img>
+32 & <img> id-US20180064726A1-20180308-C00093.TIF </img>
+33 & <img> id-US20180064726A1-20180308-C00094.TIF </img>
+34 & <img> id-US20180064726A1-20180308-C00095.TIF </img>
+35 & <img> id-US20180064726A1-20180308-C00096.TIF </img>
+36 & <img> id-US20180064726A1-20180308-C00097.TIF </img>
+37 & <img> id-US20180064726A1-20180308-C00098.TIF </img>
+38 & <img> id-US20180064726A1-20180308-C00099.TIF </img>
+39 & <img> id-US20180064726A1-20180308-C00100.TIF </img>
+40 & <img> id-US20180064726A1-20180308-C00101.TIF </img>
+41 & <img> id-US20180064726A1-20180308-C00102.TIF </img>
+42 & <img> id-US20180064726A1-20180308-C00103.TIF </img>
+43 & <img> id-US20180064726A1-20180308-C00104.TIF </img>
+44 & <img> id-US20180064726A1-20180308-C00105.TIF </img>
+45 & <img> id-US20180064726A1-20180308-C00106.TIF </img>
+46 & <img> id-US20180064726A1-20180308-C00107.TIF </img>
+47 & <img> id-US20180064726A1-20180308-C00108.TIF </img>
+48 & <img> id-US20180064726A1-20180308-C00109.TIF </img>
+49 & <img> id-US20180064726A1-20180308-C00110.TIF </img>
+50 & <img> id-US20180064726A1-20180308-C00111.TIF </img>
+51 & <img> id-US20180064726A1-20180308-C00112.TIF </img>
+52 & <img> id-US20180064726A1-20180308-C00113.TIF </img>
+53 & <img> id-US20180064726A1-20180308-C00114.TIF </img>
+54 & <img> id-US20180064726A1-20180308-C00115.TIF </img>
+55 & <img> id-US20180064726A1-20180308-C00116.TIF </img>
+56 & <img> id-US20180064726A1-20180308-C00117.TIF </img>
+57 & <img> id-US20180064726A1-20180308-C00118.TIF </img>
+58 & <img> id-US20180064726A1-20180308-C00119.TIF </img>
+59 & <img> id-US20180064726A1-20180308-C00120.TIF </img>
+60 & <img> id-US20180064726A1-20180308-C00121.TIF </img>
+61 & <img> id-US20180064726A1-20180308-C00122.TIF </img>
+62 & <img> id-US20180064726A1-20180308-C00123.TIF </img>
+63 & <img> id-US20180064726A1-20180308-C00124.TIF </img>
+64 & <img> id-US20180064726A1-20180308-C00125.TIF </img>
+65 & <img> id-US20180064726A1-20180308-C00126.TIF </img>
+66 & <img> id-US20180064726A1-20180308-C00127.TIF </img>
+67 & <img> id-US20180064726A1-20180308-C00128.TIF </img>
 </table>
 Changes in the metabolic properties of the compounds disclosed herein as compared to their non-isotopically enriched analogs can be shown using the following assays. Compounds listed above which have not yet been made and/or tested are predicted to have changed metabolic properties as shown by one or more of these assays as well.
 Biological Activity Assays

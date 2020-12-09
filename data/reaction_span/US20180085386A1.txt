@@ -6,6 +6,7 @@ The P2Y6 receptor has been implicated in a number of disorders, including, for e
 Therefore, there is a need for new compounds, such as agonists, of P2Y6 receptor activity that are useful in therapeutic preparations for the treatment of disorders mediated by the receptor, including neurodegeneration, traumatic brain injury and pain.
 SUMMARY OF THE INVENTION
 The present disclosure addresses the aforementioned need by providing compounds of formulae I and II:
+<img> id-US20180085386A1-20180329-C00001.TIF </img>
 wherein the variables are as defined herein, along with pharmaceutically acceptable salts thereof. In certain embodiments, these compounds are capable of modulating P2Y6 receptor activity, either directly or indirectly, i.e., these compounds are P2Y6 receptor-modulating compounds. In certain embodiments, the compounds as described herein are agonists of the P2Y6 receptor, which, directly or indirectly, activate the P2Y6 receptor. In certain embodiments, the compounds described herein are metabolic precursors of the active moieties (nucleoside diphosphate analogs) that activate or otherwise agonize the P2Y6 receptor. Compounds of formulae I and II can be used to treat the conditions as described herein.
 The present disclosure also provides compositions that comprise the compounds described herein. The disclosure also includes the use of the compounds disclosed herein in the manufacture of a medicament for the treatment of one or more of the conditions described herein
 In another aspect of the disclosure, there is provided methods for studying P2Y6 receptor activity using the agonists of the disclosure, which include the compounds of all formulae disclosed herein, all of the individual compounds disclosed herein, and all of their salts. For example, cells in culture may be contacted with one or more of the compounds provided herein and their impact on P2Y6 receptor activity, as well as cellular function, can be evaluated. Such studies are useful for evaluating the use of agonists of the disclosure as in vitro research tools for evaluating P2Y6 receptor activity and its cellular and biochemical impact on different cell types.
@@ -47,8 +48,8 @@ Furthermore, certain compounds which contain alkenyl groups may exist as Z (zusa
 The disclosure further provides pharmaceutical compositions comprising one or more compounds of the disclosure together with a pharmaceutically acceptable carrier or excipient. Compounds or pharmaceutical compositions of the disclosure may be used in vitro or in vivo.
 B. Uridine Nucleoside Monophosphate and Triphosphate Derivatives and Compositions
 The present disclosure provides a compound of formula I:
-or a salt thereof, wherein:A is a 3- to 10-membered aromatic or non-aromatic ring optionally having up to 5 heteroatoms independently selected from N, O, S, SO, or SO2, wherein the aromatic or non-aromatic ring is independently and optionally substituted with one or more R7;X is
-wherein n is 1 and m is 0 or 1;Y is a bond or a (C1-C5)-aliphatic group independently and optionally substituted with one or more R4;Z and W are each independently selected from the group consisting of ═O, ═S, ═N(R5), and ═NOR5;R1 is selected from the group consisting of:-H, halogen, -OR5, -CN, -CF3, -OCF3 and a (C1-C6)-aliphatic group optionally substituted with one or more R7;R2 and R3 are each independently selected from the group consisting of -OR5, -SR5, -NR5R6, -OC(O)R5,-OC(O)NR5R6, and -OC(O)OR5; preferably, R2 and R3 are each independently selected from -OR5, -SR5, -NR5R6 or -OC(O)R5;each occurrence of R4 is independently selected from the group consisting of:halogen, -OR5, -NO2, -CN, -CF3, -OCF3, -R5, 1,2-methylenedioxy, 1,2-ethylenedioxy, -N(R5)2, -SR5, -SOR5, -SO2R5, -SO2N(R5)2, -SO3R5, -C(O)R5, -C(O)C(O)R5, -C(O)CH2C(O)R5, -C(S)R5, -C(S)OR5, -C(O)OR5, -C(O)C(O)OR5, -C(O)C(O)N(R5)2, -OC(O)R5, -C(O)N(R5)2, -OC(O)N(R5)2, -C(S)N(R5)2, -(CH2)0-2NHC(O)R5, -N(R5)N(R5)COR5, -N(R5)N(R5)C(O)OR5, -N(R5)N(R5)CON(R5)2, -N(R5)SO2R5, -N(R5)SO2N(R5)2, -N(R5)C(O)OR5, -N(R5)C(O)R5, -N(R5)C(S)R5, -N(R5)C(O)N(R5)2, -N(R5)C(S)N(R5)2, -N(COR5)COR5, -N(OR5)R5, -C(═NH)N(R5)2, -C(O)N(OR5)R5, -C(═NOR5)R5, -OP(O)(OR5)2, -P(O)(R5)2, -P(O)(OR5)2, and -P(O)(H)(OR5);each occurrence of R5 is independently selected from the group consisting of:H-,(C1-C12)-aliphatic-,(C3-C10)-cycloalkyl- or -cycloalkenyl-,[(C3-C10)-cycloalkyl or -cycloalkenyl]-(C1-C12)-aliphatic-,(C6-C10)-aryl-,(C6-C10)-aryl-(C1-C12)aliphatic-,(C3-C10)-heterocyclyl-,(C6-C10)-heterocyclyl-(C1-C12)aliphatic-,(C5-C10)-heteroaryl-, and(C5-C10)-heteroaryl-(C1-C12)-aliphatic-;wherein two R5 groups bound to the same atom optionally form a 3- to 10-membered aromatic or non-aromatic ring having up to 3 heteroatoms independently selected from N, O, S, SO, or SO2, wherein said ring is optionally fused to a (C6-C10)aryl, (C5-C10)heteroaryl, (C3-C10)cycloalkyl, or a (C3-C10)heterocyclyl; andwherein each R5 group is independently and optionally substituted with one or more R7;each occurrence of R6 is independently selected from the group consisting of:-R5, -C(O)R5, -C(O)OR5, -C(O)N(R5)2 and -S(O)2R5;each occurrence of R7 is independently selected from the group consisting of:halogen, -OR8, -NO2, -CN, -CF3, -OCF3, -R8, oxo, thioxo, 1,2-methylenedioxy, 1,2-ethylenedioxy, -N(R8)2, -SR8, -SOR8, -SO2R8, -SO2N(R8)2, -SO3R8, -C(O)R8, -C(O)C(O)R8, -C(O)CH2C(O)R8, -C(S)R8, -C(S)OR8, -C(O)OR8, -C(O)C(O)OR8, -C(O)C(O)N(R8)2, -OC(O)R8, -C(O)N(R8)2, -OC(O)N(R8)2, -C(S)N(R8)2, -(CH2)0-2NHC(O)R8, -N(R8)N(R8)COR8, -N(R8)N(R8)C(O)OR8, -N(R8)N(R8)CON(R8)2, -N(R8)SO2R8, -N(R8)SO2N(R8)2, -N(R8)C(O)OR8, -N(R8)C(O)R8, -N(R8)C(S)R8, -N(R8)C(O)N(R8)2, -N(R8)C(S)N(R8)2, -N(COR8)COR8, -N(OR8)R8, -C(═NH)N(R8)2, -C(O)N(OR8)R8, -C(═NOR8)R8, -OP(O)(OR8)2, -P(O)(R8)2, -P(O)(OR8)2, and -P(O)(H)(OR8);each occurrence of R8 is independently selected from:H- or (C1-C6)-aliphatic-.
+<img> id-US20180085386A1-20180329-C00002.TIF </img>or a salt thereof, wherein:A is a 3- to 10-membered aromatic or non-aromatic ring optionally having up to 5 heteroatoms independently selected from N, O, S, SO, or SO2, wherein the aromatic or non-aromatic ring is independently and optionally substituted with one or more R7;X is
+<img> id-US20180085386A1-20180329-C00003.TIF </img>wherein n is 1 and m is 0 or 1;Y is a bond or a (C1-C5)-aliphatic group independently and optionally substituted with one or more R4;Z and W are each independently selected from the group consisting of ═O, ═S, ═N(R5), and ═NOR5;R1 is selected from the group consisting of:-H, halogen, -OR5, -CN, -CF3, -OCF3 and a (C1-C6)-aliphatic group optionally substituted with one or more R7;R2 and R3 are each independently selected from the group consisting of -OR5, -SR5, -NR5R6, -OC(O)R5,-OC(O)NR5R6, and -OC(O)OR5; preferably, R2 and R3 are each independently selected from -OR5, -SR5, -NR5R6 or -OC(O)R5;each occurrence of R4 is independently selected from the group consisting of:halogen, -OR5, -NO2, -CN, -CF3, -OCF3, -R5, 1,2-methylenedioxy, 1,2-ethylenedioxy, -N(R5)2, -SR5, -SOR5, -SO2R5, -SO2N(R5)2, -SO3R5, -C(O)R5, -C(O)C(O)R5, -C(O)CH2C(O)R5, -C(S)R5, -C(S)OR5, -C(O)OR5, -C(O)C(O)OR5, -C(O)C(O)N(R5)2, -OC(O)R5, -C(O)N(R5)2, -OC(O)N(R5)2, -C(S)N(R5)2, -(CH2)0-2NHC(O)R5, -N(R5)N(R5)COR5, -N(R5)N(R5)C(O)OR5, -N(R5)N(R5)CON(R5)2, -N(R5)SO2R5, -N(R5)SO2N(R5)2, -N(R5)C(O)OR5, -N(R5)C(O)R5, -N(R5)C(S)R5, -N(R5)C(O)N(R5)2, -N(R5)C(S)N(R5)2, -N(COR5)COR5, -N(OR5)R5, -C(═NH)N(R5)2, -C(O)N(OR5)R5, -C(═NOR5)R5, -OP(O)(OR5)2, -P(O)(R5)2, -P(O)(OR5)2, and -P(O)(H)(OR5);each occurrence of R5 is independently selected from the group consisting of:H-,(C1-C12)-aliphatic-,(C3-C10)-cycloalkyl- or -cycloalkenyl-,[(C3-C10)-cycloalkyl or -cycloalkenyl]-(C1-C12)-aliphatic-,(C6-C10)-aryl-,(C6-C10)-aryl-(C1-C12)aliphatic-,(C3-C10)-heterocyclyl-,(C6-C10)-heterocyclyl-(C1-C12)aliphatic-,(C5-C10)-heteroaryl-, and(C5-C10)-heteroaryl-(C1-C12)-aliphatic-;wherein two R5 groups bound to the same atom optionally form a 3- to 10-membered aromatic or non-aromatic ring having up to 3 heteroatoms independently selected from N, O, S, SO, or SO2, wherein said ring is optionally fused to a (C6-C10)aryl, (C5-C10)heteroaryl, (C3-C10)cycloalkyl, or a (C3-C10)heterocyclyl; andwherein each R5 group is independently and optionally substituted with one or more R7;each occurrence of R6 is independently selected from the group consisting of:-R5, -C(O)R5, -C(O)OR5, -C(O)N(R5)2 and -S(O)2R5;each occurrence of R7 is independently selected from the group consisting of:halogen, -OR8, -NO2, -CN, -CF3, -OCF3, -R8, oxo, thioxo, 1,2-methylenedioxy, 1,2-ethylenedioxy, -N(R8)2, -SR8, -SOR8, -SO2R8, -SO2N(R8)2, -SO3R8, -C(O)R8, -C(O)C(O)R8, -C(O)CH2C(O)R8, -C(S)R8, -C(S)OR8, -C(O)OR8, -C(O)C(O)OR8, -C(O)C(O)N(R8)2, -OC(O)R8, -C(O)N(R8)2, -OC(O)N(R8)2, -C(S)N(R8)2, -(CH2)0-2NHC(O)R8, -N(R8)N(R8)COR8, -N(R8)N(R8)C(O)OR8, -N(R8)N(R8)CON(R8)2, -N(R8)SO2R8, -N(R8)SO2N(R8)2, -N(R8)C(O)OR8, -N(R8)C(O)R8, -N(R8)C(S)R8, -N(R8)C(O)N(R8)2, -N(R8)C(S)N(R8)2, -N(COR8)COR8, -N(OR8)R8, -C(═NH)N(R8)2, -C(O)N(OR8)R8, -C(═NOR8)R8, -OP(O)(OR8)2, -P(O)(R8)2, -P(O)(OR8)2, and -P(O)(H)(OR8);each occurrence of R8 is independently selected from:H- or (C1-C6)-aliphatic-.
 In some embodiments of compound of formula I, each occurrence of R4 is independently selected from the group consisting of:
 halogen, -OR5, -NO2, -CN, -CF3, -OCF3, -R5, -N(R5)2, -SR5, -SOR5, -SO2R5, -SO2N(R5)2, -SO3R5, -C(O)R5, -C(O)C(O)R5, -C(O)CH2C(O)R5, -C(S)R5, -C(S)OR5, -C(O)OR5, -C(O)C(O)OR5, -C(O)C(O)N(R5)2, -OC(O)R5, -C(O)N(R5)2, -OC(O)N(R5)2, -C(S)N(R5)2, -(CH2)0-2NHC(O)R5, -N(R5)N(R5)COR5, -N(R5)N(R5)C(O)OR5, -N(R5)N(R5)CON(R5)2, -N(R5)SO2R5, -N(R5)SO2N(R5)2, -N(R5)C(O)OR5, -N(R5)C(O)R5, -N(R5)C(S)R5, -N(R5)C(O)N(R5)2, -N(R5)C(S)N(R5)2, -N(COR5)COR5, -N(OR5)R5, -C(═NH)N(R5)2, -C(O)N(OR5)R5, -C(═NOR5)R5, -OP(O)(OR5)2, -P(O)(R5)2, -P(O)(OR5)2, and -P(O)(H)(OR5).
 In certain embodiments, each occurrence of R7 is independently selected from the group consisting of halogen, -OR8, -NO2, -CN, -CF3, -OCF3, -R8, thioxo, 1,2-methylenedioxy,
@@ -56,18 +57,25 @@ In certain embodiments, each occurrence of R7 is independently selected from the
 In some embodiments, each occurrence of R7 is independently selected from the group consisting of -OR8, -NO2, -CN, -CF3, -OCF3, -R8, thioxo, 1,2-methylenedioxy, 1,2-ethylenedioxy, -N(R8)2, -SR8, -SOR8, -SO2R, -SO2N(R8)2, -SO3R, -C(O)R8, -C(O)C(O)R8, -C(O)CH2C(O)R8, -C(S)R8, -C(S)OR8, -C(O)OR8, -C(O)C(O)OR8, -C(O)C(O)N(R8)2, -OC(O)R8, -C(O)N(R8)2, -OC(O)N(R8)2, -C(S)N(R8)2, -(CH2)0-2NHC(O)R, -N(R8)N(R8)COR8, -N(R8)N(R8)C(O)OR8, -N(R8)N(R8)CON(R8)2, -N(R8)SO2R8, -N(R8)SO2N(R8)2, -N(R8)C(O)OR8, -N(R8)C(O)R8, -N(R8)C(S)R8, -N(R8)C(O)N(R8)2, -N(R8)C(S)N(R8)2, -N(COR8)COR8, -N(OR8)R8, -C(═NH)N(R8)2, -C(O)N(OR8)R8, -C(═NOR8)R8, -OP(O)(OR8)2, -P(O)(R8)2, -P(O)(OR8)2, and -P(O)(H)(OR8);
 each occurrence of R8 is independently selected from H- or (C1-C6)-aliphatic-.
 In some embodiments, X is
+<img> id-US20180085386A1-20180329-C00004.TIF </img>
 In some embodiments, X is
+<img> id-US20180085386A1-20180329-C00005.TIF </img>
 According to certain embodiments, the present disclosure provides a compound of formula I, where Y is a C1-aliphatic group optionally substituted with one or more R4. For example, Y is -CH2-.
 In some embodiments, when Y is a C1-aliphatic group optionally substituted with lower alkyl (e.g., C1-C7 alkyl), A is not: (i) unsubstituted phenyl; or (ii) phenyl substituted with halo (e.g., F- and Cl-) or lower alkyl (e.g., C1-C7 alkyl).
 In some embodiments, when Y is a C1-aliphatic group optionally substituted with lower alkyl (e.g., C1-C7 alkyl), A is not:
 (i) unsubstituted phenyl;(ii) phenyl substituted with halo (e.g., F- and Cl-) or lower alkyl (e.g., C1-C7 alkyl); or
+<img> id-US20180085386A1-20180329-C00006.TIF </img>
 In some embodiments, when Y is a C1-aliphatic group optionally substituted with lower alkyl (e.g., C1-C7 alkyl), A is not:
 (i) unsubstituted phenyl;
 (ii) phenyl substituted with halo (e.g., F- and Cl-) or lower alkyl (e.g., C1-C7 alkyl);
+<img> id-US20180085386A1-20180329-C00007.TIF </img>
 In some embodiments, when Y is a C1-aliphatic group optionally substituted with lower alkyl (e.g., C1-C7 alkyl), A is not:
 (i) unsubstituted phenyl; (ii) phenyl substituted with halo (e.g., F- and Cl-) or lower alkyl (e.g., C1-C7 alkyl),
+<img> id-US20180085386A1-20180329-C00008.TIF </img>
 andwhen Y is
+<img> id-US20180085386A1-20180329-C00009.TIF </img>
 A is not
+<img> id-US20180085386A1-20180329-C00010.TIF </img>
 According to certain embodiments, the present disclosure provides a compound of formula I or I-A, as described hereinbelow, where Y is a C1-aliphatic or C1-alkylene group optionally substituted with one or more R4. For example, Y is -CH2-. In some embodiments, when Y is a C1-aliphatic or C1-alkylene group (e.g., -CH2-) optionally substituted with lower alkyl (e.g., C1-C7 alkyl), A is not:
 (i) unsubstituted phenyl;
 (ii) phenyl substituted with halo (e.g., F- and Cl-) or lower alkyl (e.g., C1-C7 alkyl).
@@ -78,88 +86,136 @@ In some embodiments, the salt is a pharmaceutically acceptable salt of a compoun
 In certain embodiments of compound of formula I, A is a (C5-C10)-aromatic ring optionally having up to 5 heteroatoms independently selected from N, O or S, wherein the aromatic ring is independently and optionally substituted with one or more R7. In some embodiments, A is an optionally substituted 5- or 6-membered aromatic ring having up to 2 heteroatoms selected from N, O or S. In some embodiments, A is an optionally substituted bi-cyclic aromatic ring having up to 4 heteroatoms selected from N, O or S.
 In some embodiments, A is a bi-cyclic heteroaryl, such as a bicyclic heteroaryl containing at least N (e.g., containing at least one heteroatom which is N, such as containing one to three heteroatoms or containing up to four heteroatoms, wherein at least one heteroatom is N). In some embodiments, A is an optionally substituted bi-cyclic aromatic ring (e.g., an aromatic ring system) containing at least one N. In some embodiments, A contains at least one N, and when A is substituted, R7 is not an oxo substituent. In some embodiments, A is an optionally substituted heteroaryl. In some embodiments, A is an optionally substituted monocylic heteroaryl. In some embodiments, A contains one to three heteroatoms selected from N, O or S. In some embodiments, A contains at least one N. In some embodiments, A is an optionally substituted bicyclic heteroaryl, such as a bi-cyclic heteroaryl containing at least one N (e.g., containing at least one heteroatom which is N, such as containing one to three heteroatoms or containing up to four heteroatoms, wherein at least one heteroatom is N).
 In some embodiments, A may be an optionally substituted 5- or 6-membered aromatic group selected from the group consisting of:
+<img> id-US20180085386A1-20180329-C00011.TIF </img>
 wherein A is optionally further substituted with one or more R7. In some of these embodiments, Y is a bond or a (C2-C5)-aliphatic group independently and optionally substituted with one or more R4. In some of these embodiments, Y is a C2-aliphatic group independently and optionally substituted with one or more R4. In certain embodiments, A is not phenyl.
 In some embodiments of formula I, A is an optionally substituted 9- or 10-membered bicyclic aromatic ring having up to 4 heteroatoms selected from N, O or S. In some embodiments, A is an optionally substituted bicyclic aromatic ring containing two fused 6-membered aromatic rings, wherein the optionally substituted bicyclic aromatic ring may contain up to 4 nitrogen atoms. In some embodiments, A is an optionally substituted bicyclic aromatic ring containing one 6-membered aromatic ring fused to one 5-membered aromatic ring, wherein the optionally substituted bicyclic aromatic ring may contain up to 4 heteroatoms selected from N, O or S. These are examples of ring systems. For example, A may be a bicyclic aromatic group (e.g., bicyclic heteroaryl) selected from the group consisting of:
+<img> id-US20180085386A1-20180329-C00012.TIF </img>
 wherein A is optionally further substituted with one or more R7. In some embodiments, A is an aromatic group selected from the group consisting of:
+<img> id-US20180085386A1-20180329-C00013.TIF </img>
 wherein A is optionally further substituted with one or more R7. In some of these embodiments, Y is a bond or a (C2-C5)-aliphatic group independently and optionally substituted with one or more independently selected R4. In some of these embodiments, Y is a C2-aliphatic group independently and optionally substituted with one or more independently selected R4.
 In certain embodiments, A is a bicyclic aromatic ring (e.g., bicyclic heteroaryl) selected from the group consisting of:
+<img> id-US20180085386A1-20180329-C00014.TIF </img>
 wherein A is optionally further substituted with one or more R7. In certain embodiment, A is a bicyclic aromatic group (e.g., a ring system) (e.g., bicyclic heteroaryl) selected from the group consisting of:
+<img> id-US20180085386A1-20180329-C00015.TIF </img>
 wherein A is optionally further substituted with one or more R7.
 In certain embodiments, A is selected from the group consisting of:
+<img> id-US20180085386A1-20180329-C00016.TIF </img>
 wherein A is optionally further substituted with one or more R7.
 In certain embodiments, A is selected from the group consisting of:
+<img> id-US20180085386A1-20180329-C00017.TIF </img>
 wherein A is optionally further substituted with one or more R7.
 In certain embodiments, A is selected from the group consisting of:
+<img> id-US20180085386A1-20180329-C00018.TIF </img>
 wherein A is optionally further substituted with one or more R7.
 In some embodiments, A is:
+<img> id-US20180085386A1-20180329-C00019.TIF </img>
 optionally further substituted with one or more R7.
 In some embodiments, A is
+<img> id-US20180085386A1-20180329-C00020.TIF </img>
 optionally further substituted with one or more R7.
 In certain embodiments, A is
+<img> id-US20180085386A1-20180329-C00021.TIF </img>
 optionally further substituted with one ormore R7. In certain embodiments, A is
+<img> id-US20180085386A1-20180329-C00022.TIF </img>
 optionally further substituted with one or more R7, wherein R8 is not methyl.
 In another embodiment, A is
+<img> id-US20180085386A1-20180329-C00023.TIF </img>
 optionally substituted with one or more R7. In some of the above embodiments of A, each occurrence of R7 is independently selected from the group consisting of halogen, -CF3, -OCF3, -C1-C4 aliphatic (e.g., -C1-C4 alkyl), and -O(C1-C4 aliphatic) (e.g., -O(C1-C4 alkyl)).
 In some embodiments, the present disclosure also provides compounds of formula I, where R1 is -H, bromine, iodine, methyl, ethyl or -CF3. In some embodiments, R1 is -H.
 According to certain embodiments, the present disclosure provides a compound of formula I, where Z is ═O or ═S. In some embodiments, Z is ═O.
 In some embodiments, the compound of the present disclosure has a W that is ═O or ═S. In some embodiments, W is ═O.
 In some embodiments, the present disclosure provides a compound of formula I, where R2 and R3 are each independently -OR5. In some embodiments, R2 is -OH. In another embodiment, R3 is -OH.
 The disclosure also includes various combinations of A, X, Y, Z, W, R1, R2 and R3 as described above. These combinations can in turn be combined with any or all of the values of the other variables described above. For example, in some embodiments, Y is a C1- or C2-aliphatic group optionally substituted with one or more R4 and X is -P(O)(OR5)2 or
+<img> id-US20180085386A1-20180329-C00024.TIF </img>
 In another embodiment, Y is a C1- or C2-aliphatic group optionally substituted with one or more R4; X is -P(O)(OR5)2 or
+<img> id-US20180085386A1-20180329-C00025.TIF </img>
 (e.g., -P(O)(OH)2 or
+<img> id-US20180085386A1-20180329-C00026.TIF </img>
 and Z is ═O.
 In another embodiment, Y is a C1- or C2-aliphatic group optionally substituted with one or more R4; X is -P(O)(OR5)2 or
+<img> id-US20180085386A1-20180329-C00027.TIF </img>
 (e.g., -P(O)(OH)2 or
+<img> id-US20180085386A1-20180329-C00028.TIF </img>
 Z is ═O; and W is ═O.
 In yet another embodiment, Y is a C1- or C2-aliphatic up optionally substituted with one or more R4; X is -P(O)(OR5)2 or
+<img> id-US20180085386A1-20180329-C00029.TIF </img>
 (e.g., -P(O)(OH)2 or
+<img> id-US20180085386A1-20180329-C00030.TIF </img>
 Z is ═O; W is ═O; and R1 is selected from -H, bromine, iodine, methyl, ethyl, and -CF3, for example, R1 is -H.
 In a further embodiment, Y is a C1- or C2-aliphatic group optionally substituted with one or more R4; X is -P(O)(OR5)2 or
+<img> id-US20180085386A1-20180329-C00031.TIF </img>
 (e.g., -P(O)(OH)2 or
+<img> id-US20180085386A1-20180329-C00032.TIF </img>
 Z is ═O; W is ═O; and R1 is selected from -H, bromine, iodine, methyl, ethyl, and -CF3; and A is selected from the following groups:
+<img> id-US20180085386A1-20180329-C00033.TIF </img>
 wherein A is optionally further substituted with one or more R7, for example, A is optionally substituted
+<img> id-US20180085386A1-20180329-C00034.TIF </img>
 In a further embodiment, Y is a C1- or C2-aliphatic group optionally substituted with one or more R4; X is -P(O)(OR5)2 or
+<img> id-US20180085386A1-20180329-C00035.TIF </img>
 (e.g., -P(O)(OH)2 or
+<img> id-US20180085386A1-20180329-C00036.TIF </img>
 Z is ═O; W is ═O; and R1 is selected from the group consisting of -H, bromine, iodine, methyl, ethyl, and -CF3; A is selected from the group consisting of:
+<img> id-US20180085386A1-20180329-C00037.TIF </img>
 wherein A is optionally further substituted with one or more R7; and R2 and R3 are each independently -OR5, for example, R2 and R3 are each independently -OH.
 In some of the above embodiments, A is
+<img> id-US20180085386A1-20180329-C00038.TIF </img>
 optionally further substituted with one or more R7. In some of the above embodiments, A is
+<img> id-US20180085386A1-20180329-C00039.TIF </img>
 optionally further substituted with one or more R7, wherein R8 is not methyl.
 In another embodiment, Y is a C1- or C2-aliphatic group optionally substituted with one or more R4; X is -P(O)(OR5)2 or
+<img> id-US20180085386A1-20180329-C00040.TIF </img>
 (e.g., -P(O)(OH)2 or
+<img> id-US20180085386A1-20180329-C00041.TIF </img>
 Z is =; W is ═O; and R1 is selected from the group consisting of -H, bromine, iodine, methyl, ethyl, and -CF3; and A is selected from the group consisting of:
+<img> id-US20180085386A1-20180329-C00042.TIF </img>
 wherein A is optionally further substituted with one or more R7, for example, A is optionally substituted
+<img> id-US20180085386A1-20180329-C00043.TIF </img>
 In a further embodiment, Y is a C1- or C2-aliphatic group optionally substituted with one or more R4; X is -P(O)(OR5)2 or
+<img> id-US20180085386A1-20180329-C00044.TIF </img>
 (e.g., -P(O)(OH)2 or
+<img> id-US20180085386A1-20180329-C00045.TIF </img>
 Z is ═O; W is ═O; and R1 is selected from the group consisting of -H, bromine, iodine, methyl, ethyl, and -CF3; A is selected from the group consisting of:
+<img> id-US20180085386A1-20180329-C00046.TIF </img>
 wherein A is optionally further substituted with one or more R7;and R2 and R3 are each independently -OR5, for example, R2 and R3 are each independently -OH.
 In some of the above embodiments, when Y is a C1-aliphatic group optionally substituted with lower alkyl (e.g., C1-C7 alkyl), A is not:
 (i) unsubstituted phenyl;
 (ii) phenyl substituted with halo (e.g., F- and Cl-) or lower alkyl (e.g., C1-C7 alkyl);
+<img> id-US20180085386A1-20180329-C00047.TIF </img>
 In some embodiments, when Y is a C1-aliphatic group optionally substituted with lower alkyl (e.g., C1-C7 alkyl), A is not:
 (i) unsubstituted phenyl; (ii) phenyl substituted with halo (e.g., F- and Cl-) or lower alkyl (e.g., C1-C7 alkyl),
+<img> id-US20180085386A1-20180329-C00048.TIF </img>
 andwhen Y is
+<img> id-US20180085386A1-20180329-C00049.TIF </img>
 A is not
+<img> id-US20180085386A1-20180329-C00050.TIF </img>
 In some of the above embodiments, Y is a C2-aliphatic group independently and optionally substituted with one or more independently selected R4. In some of the above embodiments, each occurrence of R7 is independently selected from the group consisting of halogen, -CF3, -OCF3, -C1-C4 aliphatic (e.g., -C1-C4 alkyl), and -O(C1-C4 aliphatic) (e.g., -O(C1-C4 alkyl)).
 The present disclosure also provides a compound of formula I-A:
-or a salt thereof, wherein:A is a 3- to 10-membered aromatic or non-aromatic ring optionally having up to 5 heteroatoms independently selected from N, O, S, SO, or SO2, wherein the aromatic or non-aromatic ring is independently and optionally substituted with one or more R7;X is
-wherein n is 1 and m is 0 or 1;Y is a bond or a (C1-C5)-aliphatic group independently and optionally substituted with one or more R4;Z and W are each independently selected from the group consisting of ═O, ═S, ═N(R5), and ═NOR5;R1 is selected from the group consisting of:-H, halogen, -OR5, -CN, -CF3, -OCF3 and a (C1-C6)-aliphatic group optionally substituted with one or more R7;R2 and R3 are each independently selected from the group consisting of -OR5, -SR5, -NR5R6, -OC(O)R5, -OC(O)NR5R6, and -OC(O)OR5; preferably, R2 and R3 are each independently selected from -OR5, -SR5, -NR5R6 or -OC(O)R5;each occurrence of R4 is independently selected from the group consisting of:halogen, -OR5, -NO2, -CN, -CF3, -OCF3, -R5, 1,2-methylenedioxy, 1,2-ethylenedioxy, -N(R5)2, -SR5, -SOR5, -SO2R5, -SO2N(R5)2, -SO3R5, -C(O)R5, -C(O)C(O)R5, -C(O)CH2C(O)R5, -C(S)R5, -C(S)OR5, -C(O)OR5, -C(O)C(O)OR5, -C(O)C(O)N(R5)2, -OC(O)R5, -C(O)N(R5)2, -OC(O)N(R5)2, -C(S)N(R5)2, -(CH2)0-2NHC(O)R5, -N(R5)N(R5)COR5, -N(R5)N(R5)C(O)OR5, -N(R5)N(R5)CON(R5)2, -N(R5)SO2R5, -N(R5)SO2N(R5)2, -N(R5)C(O)OR5, -N(R5)C(O)R5, -N(R5)C(S)R5, -N(R5)C(O)N(R5)2, -N(R5)C(S)N(R5)2, -N(COR5)COR5, -N(OR5)R5, -C(═NH)N(R5)2, -C(O)N(OR5)R5, -C(═NOR5)R5, -OP(O)(OR5)2, -P(O)(R5)2, -P(O)(OR5)2, and -P(O)(H)(OR5);each occurrence of R5 is independently selected from the group consisting of:H-,(C1-C12)-aliphatic-,(C3-C10)-cycloalkyl- or -cycloalkenyl-,[(C3-C10)-cycloalkyl or -cycloalkenyl]-(C1-C12)-aliphatic-,(C6-C10)-aryl-,(C6-C10)-aryl-(C1-C12)aliphatic-,(C3-C10)-heterocyclyl-,(C6-C10)-heterocyclyl-(C1-C12)aliphatic-,(C5-C10)-heteroaryl-, and(C5-C10)-heteroaryl-(C1-C12)-aliphatic-;wherein two R5 groups bound to the same atom optionally form a 3- to 10-membered aromatic or non-aromatic ring having up to 3 heteroatoms independently selected from N, O, S, SO, or SO2, wherein said ring is optionally fused to a (C6-C10)aryl, (C5-C10)heteroaryl, (C3-C10)cycloalkyl, or a (C3-C10)heterocyclyl; andwherein each R5 group is independently and optionally substituted with one or more R7;R6 is selected from the group consisting of:-R5, -C(O)R5, -C(O)OR5, -C(O)N(R5)2 and -S(O)2R5;each occurrence of R7 is independently selected from the group consisting of:halogen, -OR8, -NO2, -CN, -CF3, -OCF3, -R8, oxo, thioxo, 1,2-methylenedioxy, 1,2-ethylenedioxy, -N(R8)2, -SR8, -SOR8, -SO2R8, -SO2N(R8)2, -SO3R8, -C(O)R8, -C(O)C(O)R8, -C(O)CH2C(O)R8, -C(S)R8, -C(S)OR8, -C(O)OR8, -C(O)C(O)OR8, -C(O)C(O)N(R8)2, -OC(O)R8, -C(O)N(R8)2, -OC(O)N(R8)2, -C(S)N(R8)2, -(CH2)0-2NHC(O)R8, -N(R8)N(R8)COR8, -N(R8)N(R8)C(O)OR8, -N(R8)N(R8)CON(R8)2, -N(R8)SO2R8, -N(R8)SO2N(R8)2, -N(R8)C(O)OR8, -N(R8)C(O)R8, -N(R8)C(S)R8, -N(R8)C(O)N(R8)2, -N(R8)C(S)N(R8)2, -N(COR8)COR8, -N(OR8)R8, -C(═NH)N(R8)2, -C(O)N(OR8)R8, -C(═NOR8)R8, -OP(O)(OR8)2, -P(O)(R8)2, -P(O)(OR8)2, and -P(O)(H)(OR8);each occurrence of R8 is independently selected from:H- or (C1-C6)-aliphatic-.
+<img> id-US20180085386A1-20180329-C00051.TIF </img>or a salt thereof, wherein:A is a 3- to 10-membered aromatic or non-aromatic ring optionally having up to 5 heteroatoms independently selected from N, O, S, SO, or SO2, wherein the aromatic or non-aromatic ring is independently and optionally substituted with one or more R7;X is
+<img> id-US20180085386A1-20180329-C00052.TIF </img>wherein n is 1 and m is 0 or 1;Y is a bond or a (C1-C5)-aliphatic group independently and optionally substituted with one or more R4;Z and W are each independently selected from the group consisting of ═O, ═S, ═N(R5), and ═NOR5;R1 is selected from the group consisting of:-H, halogen, -OR5, -CN, -CF3, -OCF3 and a (C1-C6)-aliphatic group optionally substituted with one or more R7;R2 and R3 are each independently selected from the group consisting of -OR5, -SR5, -NR5R6, -OC(O)R5, -OC(O)NR5R6, and -OC(O)OR5; preferably, R2 and R3 are each independently selected from -OR5, -SR5, -NR5R6 or -OC(O)R5;each occurrence of R4 is independently selected from the group consisting of:halogen, -OR5, -NO2, -CN, -CF3, -OCF3, -R5, 1,2-methylenedioxy, 1,2-ethylenedioxy, -N(R5)2, -SR5, -SOR5, -SO2R5, -SO2N(R5)2, -SO3R5, -C(O)R5, -C(O)C(O)R5, -C(O)CH2C(O)R5, -C(S)R5, -C(S)OR5, -C(O)OR5, -C(O)C(O)OR5, -C(O)C(O)N(R5)2, -OC(O)R5, -C(O)N(R5)2, -OC(O)N(R5)2, -C(S)N(R5)2, -(CH2)0-2NHC(O)R5, -N(R5)N(R5)COR5, -N(R5)N(R5)C(O)OR5, -N(R5)N(R5)CON(R5)2, -N(R5)SO2R5, -N(R5)SO2N(R5)2, -N(R5)C(O)OR5, -N(R5)C(O)R5, -N(R5)C(S)R5, -N(R5)C(O)N(R5)2, -N(R5)C(S)N(R5)2, -N(COR5)COR5, -N(OR5)R5, -C(═NH)N(R5)2, -C(O)N(OR5)R5, -C(═NOR5)R5, -OP(O)(OR5)2, -P(O)(R5)2, -P(O)(OR5)2, and -P(O)(H)(OR5);each occurrence of R5 is independently selected from the group consisting of:H-,(C1-C12)-aliphatic-,(C3-C10)-cycloalkyl- or -cycloalkenyl-,[(C3-C10)-cycloalkyl or -cycloalkenyl]-(C1-C12)-aliphatic-,(C6-C10)-aryl-,(C6-C10)-aryl-(C1-C12)aliphatic-,(C3-C10)-heterocyclyl-,(C6-C10)-heterocyclyl-(C1-C12)aliphatic-,(C5-C10)-heteroaryl-, and(C5-C10)-heteroaryl-(C1-C12)-aliphatic-;wherein two R5 groups bound to the same atom optionally form a 3- to 10-membered aromatic or non-aromatic ring having up to 3 heteroatoms independently selected from N, O, S, SO, or SO2, wherein said ring is optionally fused to a (C6-C10)aryl, (C5-C10)heteroaryl, (C3-C10)cycloalkyl, or a (C3-C10)heterocyclyl; andwherein each R5 group is independently and optionally substituted with one or more R7;R6 is selected from the group consisting of:-R5, -C(O)R5, -C(O)OR5, -C(O)N(R5)2 and -S(O)2R5;each occurrence of R7 is independently selected from the group consisting of:halogen, -OR8, -NO2, -CN, -CF3, -OCF3, -R8, oxo, thioxo, 1,2-methylenedioxy, 1,2-ethylenedioxy, -N(R8)2, -SR8, -SOR8, -SO2R8, -SO2N(R8)2, -SO3R8, -C(O)R8, -C(O)C(O)R8, -C(O)CH2C(O)R8, -C(S)R8, -C(S)OR8, -C(O)OR8, -C(O)C(O)OR8, -C(O)C(O)N(R8)2, -OC(O)R8, -C(O)N(R8)2, -OC(O)N(R8)2, -C(S)N(R8)2, -(CH2)0-2NHC(O)R8, -N(R8)N(R8)COR8, -N(R8)N(R8)C(O)OR8, -N(R8)N(R8)CON(R8)2, -N(R8)SO2R8, -N(R8)SO2N(R8)2, -N(R8)C(O)OR8, -N(R8)C(O)R8, -N(R8)C(S)R8, -N(R8)C(O)N(R8)2, -N(R8)C(S)N(R8)2, -N(COR8)COR8, -N(OR8)R8, -C(═NH)N(R8)2, -C(O)N(OR8)R8, -C(═NOR8)R8, -OP(O)(OR8)2, -P(O)(R8)2, -P(O)(OR8)2, and -P(O)(H)(OR8);each occurrence of R8 is independently selected from:H- or (C1-C6)-aliphatic-.
 In certain embodiments, the present disclosure provides compounds of formula I-A where the definition of one or more of variables A, X, Y, Z, W, and R1-R8 is as defined by embodiments described above for Formula I, including any of the combinations thereof, as well as the provisos provided for Formula I.
 According to certain embodiments, the present disclosure provides a compound of formula I-A, where Y is a C1-aliphatic group optionally substituted with one or more R4. For example, Y is -CH2-. In some embodiments, when Y is a C1-aliphatic group optionally substituted with lower alkyl (e.g., C1-C7 alkyl), A is not:
 (i) unsubstituted phenyl; or
 (ii) phenyl substituted with halo (e.g., F- and Cl-) or lower alkyl (e.g., C1-C7 alkyl).
 In certain embodiments, A is a 5- to 10-membered heteroaryl group having up to 3 heteroatoms independently selected from N, O, or S. In certain other embodiments, A is not
+<img> id-US20180085386A1-20180329-C00053.TIF </img>
 In certain other embodiments, R1 is hydrogen or methyl.
 In some embodiments of formula I-A, A is an optionally substituted 9- or 10-membered bicyclic aromatic ring having up to 4 heteroatoms selected from N, O or S. In some embodiments, A is an optionally substituted bicyclic aromatic ring containing two fused 6-membered aromatic rings, wherein the optionally substituted bicyclic aromatic ring may contain up to 4 nitrogen atoms. In some embodiments, A is an optionally substituted bicyclic aromatic ring containing one 6-membered aromatic ring fused to one 5-membered aromatic ring, wherein the optionally substituted bicyclic aromatic ring may contain up to 4 heteroatoms selected from N, O or S. In certain embodiments, A is
+<img> id-US20180085386A1-20180329-C00054.TIF </img>
 optionally further substituted with one or more R7. In certain embodiments, A is
+<img> id-US20180085386A1-20180329-C00055.TIF </img>
 optionally further substituted with one or more R7. In certain other embodiments, A is
+<img> id-US20180085386A1-20180329-C00056.TIF </img>
 In certain other embodiments, A is not
+<img> id-US20180085386A1-20180329-C00057.TIF </img>
 In some embodiments, A contains at least one N, and when A is substituted, R7 is not an oxo substituent. In some embodiments, A is an optionally substituted heteroaryl. In some embodiments, A is an optionally substituted monocylic heteroaryl. In some embodiments, A contains one to three heteroatoms selected from N, O or S. In some embodiments, A contains at least one N. In some embodiments, A is an optionally substituted bicyclic heteroaryl. In some embodiments, A contains at least one N.
 According to certain embodiments, the present disclosure provides a compound of formula I-A, where X is -P(O)(OR5)2. In some embodiments, X is
+<img> id-US20180085386A1-20180329-C00058.TIF </img>
 In some embodiments, X is -P(O)(OH)2. In some embodiments, X is
+<img> id-US20180085386A1-20180329-C00059.TIF </img>
 The present disclosure also provides a compound of formula II:
+<img> id-US20180085386A1-20180329-C00060.TIF </img>
 or a salt thereof, wherein:A is selected from the group consisting of:a phenyl group;a naphthalene group;a 5- to 10-membered heteroaryl group optionally having up to 5 heteroatoms independently selected from N, O or S; anda 3- to 10-membered non-aromatic ring optionally having up to 5 heteroatoms independently selected from N, O, S, SO, or SO2;wherein A is optionally further substituted with one or more R7;X is
-wherein n is 1 and m is 0 or 1;Y1 is a (C1-C5)-aliphatic group substituted with at least one oxo and further independently and optionally substituted with one or more R4;Z and W are each independently selected from ═O, ═S, ═N(R5), or ═NOR5;R1 is selected from the group consisting of:-H, halogen, -OR5, -CN, -CF3, -OCF3 and a (C1-C6)-aliphatic- group optionally substituted with one or more R4;R2 and R3 are each independently selected from the group consisting of -OR5, -SR5, -NR5R6, -OC(O)R5, -OC(O)NR5R6, and -OC(O)OR5; preferably, R2 and R3 are each independently selected from -OR5, -SR5, -NR5R6 or -OC(O)R5;each occurrence of R4 is independently selected from the group consisting of:halogen, -OR5, -NO2, -CN, -CF3, -OCF3, -R5, oxo, thioxo, 1,2-methylenedioxy, 1,2-ethylenedioxy, -N(R5)2, -SR5, -SOR5, -SO2R5, -SO2N(R5)2, -SO3R5, -C(O)R5, -C(O)C(O)R5, -C(O)CH2C(O)R5, -C(S)R5, -C(S)OR5, -C(O)OR5, -C(O)C(O)OR5, -C(O)C(O)N(R5)2, -OC(O)R5, -C(O)N(R5)2, -OC(O)N(R5)2, -C(S)N(R5)2, -(CH2)0-2NHC(O)R5, -N(R5)N(R5)COR5, -N(R5)N(R5)C(O)OR5, -N(R5)N(R5)CON(R5)2, -N(R5)SO2R5, -N(R5)SO2N(R5)2, -N(R5)C(O)OR5, -N(R5)C(O)R5, -N(R5)C(S)R5, -N(R5)C(O)N(R5)2, -N(R5)C(S)N(R5)2, -N(COR5)COR5, -N(OR5)R5, -C(═NH)N(R5)2, -C(O)N(OR5)R5, -C(═NOR5)R5, -OP(O)(OR5)2, -P(O)(R5)2, -P(O)(OR5)2, and -P(O)(H)(OR5);each occurrence of R5 is independently selected from the group consisting of:H-,(C1-C12)-aliphatic-,(C3-C10)-cycloalkyl- or -cycloalkenyl-,[(C3-C10)-cycloalkyl or -cycloalkenyl]-(C1-C12)-aliphatic-,(C6-C10)-aryl-,(C6-C10)-aryl-(C1-C12)aliphatic-,(C3-C10)-heterocyclyl-,(C6-C10)-heterocyclyl-(C1-C12)aliphatic-,(C5-C10)-heteroaryl-, and(C5-C10)-heteroaryl-(C1-C12)-aliphatic-;wherein two R5 groups bound to the same atom optionally form a 3- to 10-membered aromatic or non-aromatic ring having up to 3 heteroatoms independently selected from N, O, S, SO, or SO2, wherein said ring is optionally fused to a (C6-C10)aryl, (C5-C10)heteroaryl, (C3-C10)cycloalkyl, or a (C3-C10)heterocyclyl; andwherein each R5 group is independently and optionally substituted with one or more R7;R6 is selected from the group consisting of:-R5, -C(O)R5, -C(O)OR5, -C(O)N(R5)2 and -S(O)2R5;each occurrence of R7 is independently selected from:halogen, -OR8, -NO2, -CN, -CF3, -OCF3, -R8, oxo, thioxo, 1,2-methylenedioxy, 1,2-ethylenedioxy, -N(R8)2, -SR, -SOR8, -SO2R, -SO2N(R8)2, -SO3R8, -C(O)R8, -C(O)C(O)R8, -C(O)CH2C(O)R8, -C(S)R8, -C(S)OR8, -C(O)OR8, -C(O)C(O)OR8, -C(O)C(O)N(R8)2, -OC(O)R8, -C(O)N(R8)2, -OC(O)N(R8)2, -C(S)N(R8)2, -(CH2)0-2NHC(O)R8, -N(R8)N(R8)COR8, -N(R8)N(R8)C(O)OR8, -N(R8)N(R8)CON(R8)2, -N(R8)SO2R, -N(R8)SO2N(R8)2, -N(R8)C(O)OR8, -N(R8)C(O)R8, -N(R8)C(S)R8, -N(R8)C(O)N(R8)2, -N(R8)C(S)N(R8)2, -N(COR8)COR8, -N(OR8)R8, -C(═NH)N(R8)2, -C(O)N(OR8)R8, -C(═NOR8)R8, -OP(O)(OR8)2, -P(O)(R8)2, -P(O)(OR8)2, or -P(O)(H)(OR8);each occurrence of R8 is independently selected from:H- or (C1-C6)-aliphatic-.
+<img> id-US20180085386A1-20180329-C00061.TIF </img>wherein n is 1 and m is 0 or 1;Y1 is a (C1-C5)-aliphatic group substituted with at least one oxo and further independently and optionally substituted with one or more R4;Z and W are each independently selected from ═O, ═S, ═N(R5), or ═NOR5;R1 is selected from the group consisting of:-H, halogen, -OR5, -CN, -CF3, -OCF3 and a (C1-C6)-aliphatic- group optionally substituted with one or more R4;R2 and R3 are each independently selected from the group consisting of -OR5, -SR5, -NR5R6, -OC(O)R5, -OC(O)NR5R6, and -OC(O)OR5; preferably, R2 and R3 are each independently selected from -OR5, -SR5, -NR5R6 or -OC(O)R5;each occurrence of R4 is independently selected from the group consisting of:halogen, -OR5, -NO2, -CN, -CF3, -OCF3, -R5, oxo, thioxo, 1,2-methylenedioxy, 1,2-ethylenedioxy, -N(R5)2, -SR5, -SOR5, -SO2R5, -SO2N(R5)2, -SO3R5, -C(O)R5, -C(O)C(O)R5, -C(O)CH2C(O)R5, -C(S)R5, -C(S)OR5, -C(O)OR5, -C(O)C(O)OR5, -C(O)C(O)N(R5)2, -OC(O)R5, -C(O)N(R5)2, -OC(O)N(R5)2, -C(S)N(R5)2, -(CH2)0-2NHC(O)R5, -N(R5)N(R5)COR5, -N(R5)N(R5)C(O)OR5, -N(R5)N(R5)CON(R5)2, -N(R5)SO2R5, -N(R5)SO2N(R5)2, -N(R5)C(O)OR5, -N(R5)C(O)R5, -N(R5)C(S)R5, -N(R5)C(O)N(R5)2, -N(R5)C(S)N(R5)2, -N(COR5)COR5, -N(OR5)R5, -C(═NH)N(R5)2, -C(O)N(OR5)R5, -C(═NOR5)R5, -OP(O)(OR5)2, -P(O)(R5)2, -P(O)(OR5)2, and -P(O)(H)(OR5);each occurrence of R5 is independently selected from the group consisting of:H-,(C1-C12)-aliphatic-,(C3-C10)-cycloalkyl- or -cycloalkenyl-,[(C3-C10)-cycloalkyl or -cycloalkenyl]-(C1-C12)-aliphatic-,(C6-C10)-aryl-,(C6-C10)-aryl-(C1-C12)aliphatic-,(C3-C10)-heterocyclyl-,(C6-C10)-heterocyclyl-(C1-C12)aliphatic-,(C5-C10)-heteroaryl-, and(C5-C10)-heteroaryl-(C1-C12)-aliphatic-;wherein two R5 groups bound to the same atom optionally form a 3- to 10-membered aromatic or non-aromatic ring having up to 3 heteroatoms independently selected from N, O, S, SO, or SO2, wherein said ring is optionally fused to a (C6-C10)aryl, (C5-C10)heteroaryl, (C3-C10)cycloalkyl, or a (C3-C10)heterocyclyl; andwherein each R5 group is independently and optionally substituted with one or more R7;R6 is selected from the group consisting of:-R5, -C(O)R5, -C(O)OR5, -C(O)N(R5)2 and -S(O)2R5;each occurrence of R7 is independently selected from:halogen, -OR8, -NO2, -CN, -CF3, -OCF3, -R8, oxo, thioxo, 1,2-methylenedioxy, 1,2-ethylenedioxy, -N(R8)2, -SR, -SOR8, -SO2R, -SO2N(R8)2, -SO3R8, -C(O)R8, -C(O)C(O)R8, -C(O)CH2C(O)R8, -C(S)R8, -C(S)OR8, -C(O)OR8, -C(O)C(O)OR8, -C(O)C(O)N(R8)2, -OC(O)R8, -C(O)N(R8)2, -OC(O)N(R8)2, -C(S)N(R8)2, -(CH2)0-2NHC(O)R8, -N(R8)N(R8)COR8, -N(R8)N(R8)C(O)OR8, -N(R8)N(R8)CON(R8)2, -N(R8)SO2R, -N(R8)SO2N(R8)2, -N(R8)C(O)OR8, -N(R8)C(O)R8, -N(R8)C(S)R8, -N(R8)C(O)N(R8)2, -N(R8)C(S)N(R8)2, -N(COR8)COR8, -N(OR8)R8, -C(═NH)N(R8)2, -C(O)N(OR8)R8, -C(═NOR8)R8, -OP(O)(OR8)2, -P(O)(R8)2, -P(O)(OR8)2, or -P(O)(H)(OR8);each occurrence of R8 is independently selected from:H- or (C1-C6)-aliphatic-.
 In some embodiments of compound of formula II, each occurrence of R4 is independently selected from the group consisting of:halogen, -OR5, -NO2, -CN, -CF3, -OCF3, -R5, oxo, thioxo, -N(R5)2, -SR5, -SOR5, -SO2R5, -SO2N(R5)2, -SO3R5, -C(O)R5, -C(O)C(O)R5, -C(O)CH2C(O)R5, -C(S)R5, -C(S)OR5, -C(O)OR5, -C(O)C(O)OR5, -C(O)C(O)N(R5)2, -OC(O)R5, -C(O)N(R5)2, -OC(O)N(R5)2, -C(S)N(R5)2, -(CH2)0-2NHC(O)R5, -N(R5)N(R5)COR5, -N(R5)N(R5)C(O)OR5, -N(R5)N(R5)CON(R5)2, -N(R5)SO2R5, -N(R5)SO2N(R5)2, -N(R5)C(O)OR5, -N(R5)C(O)R5, -N(R5)C(S)R5, -N(R5)C(O)N(R5)2, -N(R5)C(S)N(R5)2, -N(COR5)COR5, -N(OR5)R5, -C(═NH)N(R5)2, -C(O)N(OR5)R5, -C(═NOR5)R5, -OP(O)(OR5)2, -P(O)(R5)2, -P(O)(OR5)2, and -P(O)(H)(OR5).
 In some embodiments, R7 is independently selected from the group consisting of halogen, -OR8, -NO2, -CN, -CF3, -OCF3, -R8, thioxo, 1,2-methylenedioxy, 1,2-ethylenedioxy, -N(R8)2, -SR8, -SOR8, -SO2R, -SO2N(R8)2, -SO3R, -C(O)R8, -C(O)C(O)R8, -C(O)CH2C(O)R8, -C(S)R8, -C(S)OR8, -C(O)OR8, -C(O)C(O)OR8, -C(O)C(O)N(R8)2, -OC(O)R8, -C(O)N(R8)2, -OC(O)N(R8)2, -C(S)N(R8)2, -(CH2)0-2NHC(O)R8, -N(R8)N(R8)COR8, -N(R8)N(R8)C(O)OR8, -N(R8)N(R8)CON(R8)2, -N(R8)SO2R8, -N(R8)SO2N(R8)2, -N(R8)C(O)OR8, -N(R8)C(O)R8, -N(R8)C(S)R8, -N(R8)C(O)N(R8)2, -N(R8)C(S)N(R8)2, -N(COR8)COR8, -N(OR8)R8, -C(═NH)N(R8)2, -C(O)N(OR8)R8, -C(═NOR8)R8, -OP(O)(OR8)2, -P(O)(R8)2, -P(O)(OR8)2, and -P(O)(H)(OR8);each occurrence of R8 is independently selected from H- or (C1-C6)-aliphatic-.
 In some embodiments, R7 is independently selected from the group consisting of -OR8, -NO2, -CN, -CF3, -OCF3, -R8, thioxo, 1,2-methylenedioxy, 1,2-ethylenedioxy, -N(R8)2, -SR8, -SOR8, -SO2R8, -SO2N(R8)2, -SO3R8, -C(O)R8, -C(O)C(O)R8, -C(O)CH2C(O)R8, -C(S)R8, -C(S)OR8, -C(O)OR8, -C(O)C(O)OR8, -C(O)C(O)N(R8)2, -OC(O)R8, -C(O)N(R8)2, -OC(O)N(R8)2, -C(S)N(R8)2, -(CH2)0-2NHC(O)R8, -N(R8)N(R8)COR8, -N(R8)N(R8)C(O)OR8, -N(R8)N(R8)CON(R8)2, -N(R8)SO2R8, -N(R8)SO2N(R8)2, -N(R8)C(O)OR8, -N(R8)C(O)R8, -N(R8)C(S)R8, -N(R8)C(O)N(R8)2, -N(R8)C(S)N(R8)2, -N(COR8)COR8, -N(OR8)R8, -C(═NH)N(R8)2, -C(O)N(OR8)R8, -C(═NOR8)R8, -OP(O)(OR8)2, -P(O)(R8)2, -P(O)(OR8)2, and -P(O)(H)(OR8); each occurrence of R8 is independently selected from H- or (C1-C6)-aliphatic-.
@@ -168,93 +224,141 @@ According to certain embodiments, the present disclosure also provides a compoun
 (ii) phenyl substituted with halo (e.g., F- and Cl-) or lower alkyl (e.g., C1-C7 alkyl);
 In some embodiments, the salt is a pharmaceutically acceptable salt of a compound of formula II, such as a sodium salt.
 In certain embodiments of compound of formula II, A is a phenyl group; a naphthalene group; or a 5- to 10-membered heteroaryl group optionally having up to 5 heteroatoms independently selected from N, O or S, wherein A is optionally substituted with one or more R7. For example, A is selected from the group consisting of:
+<img> id-US20180085386A1-20180329-C00062.TIF </img><img> id-US20180085386A1-20180329-C00063.TIF </img><img> id-US20180085386A1-20180329-C00064.TIF </img>
 where A is optionally substituted with one or more R7. In certain embodiments, A is not a phenyl group.
 In certain embodiments of compound of formula II, A is a (C5-C10)-aromatic ring optionally having up to 5 heteroatoms independently selected from N, O or S, wherein the aromatic ring is independently and optionally substituted with one or more R4. In some embodiments, A is an optionally substituted 5- or 6-membered aromatic ring having up to 2 heteroatoms selected from N, O or S. For example, A is an aromatic group selected from the group consisting of:
+<img> id-US20180085386A1-20180329-C00065.TIF </img>
 wherein A is optionally further substituted with one or more R7. In some of these embodiments, Y1 is a C1-aliphatic or a C3-C5-aliphatic group substituted with at least one oxo and further independently and optionally substituted with one or more independently selected R4;
 In some embodiments of formula II, A is an optionally substituted 9- or 10-membered bicyclic aromatic ring having up to 4 heteroatoms selected from N, O or S. In some embodiments, A is an optionally substituted bicyclic aromatic ring containing two fused 6-membered aromatic rings, wherein the optionally substituted bicyclic aromatic ring may contain up to 4 nitrogen atoms. In some embodiments, A is an optionally substituted bicyclic aromatic ring containing one 6-membered aromatic ring fused to one 5-membered aromatic ring, wherein the optionally substituted bicyclic aromatic ring may contain up to 4 heteroatoms selected from N, O or S. For example, A may be a bicyclic aromatic group selected from the group consisting of:
+<img> id-US20180085386A1-20180329-C00066.TIF </img>
 wherein A is optionally further substituted with one or more R7.
 In some embodiments of compound of formula II, A is selected from the group consisting of:
+<img> id-US20180085386A1-20180329-C00067.TIF </img>
 where A is optionally substituted with one or more R7.
 In such embodiments, A is one of the following groups:
+<img> id-US20180085386A1-20180329-C00068.TIF </img>
 where A is optionally further substituted with one or more R7. In some of these embodiments, Y1 is a C1-aliphatic or a C3-C5-aliphatic group substituted with at least one oxo and further independently and optionally substituted with one or more independently selected R4;
 In some embodiments, A is a bicyclic aromatic group selected from the group consisting of:
+<img> id-US20180085386A1-20180329-C00069.TIF </img>
 wherein A is optionally further substituted with one or more R7.
 In some embodiments, A is selected from the group consisting of:
+<img> id-US20180085386A1-20180329-C00070.TIF </img>
 where A is optionally further substituted with one or more R7.
 In some embodiments, A is selected from the group consisting of:
+<img> id-US20180085386A1-20180329-C00071.TIF </img>
 where A is optionally further substituted with one or more R7.
 In some embodiments, A is
+<img> id-US20180085386A1-20180329-C00072.TIF </img>
 where A is optionally further substituted with one or more R7.
 In some embodiments, A is
+<img> id-US20180085386A1-20180329-C00073.TIF </img>
 where A is optionally further substituted with one or more R7.
 In some embodiments, A is
+<img> id-US20180085386A1-20180329-C00074.TIF </img>
 optionally further substituted with one or more R7. In some embodiments, A is
+<img> id-US20180085386A1-20180329-C00075.TIF </img>
 optionally further substituted with one or more R7, wherein R8 is not methyl.
 In a further embodiment, A is
+<img> id-US20180085386A1-20180329-C00076.TIF </img>
 optionally substituted with one or more R7. In some of the above embodiments of A, each occurrence of R4 is independently selected from the group consisting of halogen, -CF3, -OCF3, -C1-C4 aliphatic (e.g., -C1-C4 alkyl), and -O(C1-C4 aliphatic) (e.g., -O(C1-C4 alkyl)).
 In some embodiments, Y1 is a C2-aliphatic group substituted with at least one oxo and optionally further substituted with one or more R4, and A is selected from the group consisting of:
 a phenyl group;
 a naphthalene group; and
 a 6-membered monocyclic or a 9- to 10-membered bicyclic heteroaryl group optionally having up to 5 heteroatoms independently selected from N, O or S, wherein the bicyclic heteroaryl group has a 6-membered aryl or heteroaryl ring that is directly connected to Y1;
 wherein A is optionally further substituted with one or more R7. In some such embodiments, Y1 is a C2-aliphatic group substituted with one oxo, and A is selected from the group consisting of:
+<img> id-US20180085386A1-20180329-C00077.TIF </img><img> id-US20180085386A1-20180329-C00078.TIF </img><img> id-US20180085386A1-20180329-C00079.TIF </img>
 wherein A is optionally further substituted with one or more R7. In some of the above embodiments, when Y1 is a -CH2-C(O)-, wherein the carbonyl group of Y1 is connected directly to A, A is not:
 (i) unsubstituted phenyl; or
 (ii) phenyl substituted with halo (e.g., F- and Cl-) or lower alkyl (e.g., C1-C7 alkyl)
 According to certain embodiments, the present disclosure provides a compound of formula II, where X is -P(O)(OR5)2. In some embodiments, X is
+<img> id-US20180085386A1-20180329-C00080.TIF </img>
 In some embodiments, X is -P(O)(OH)2. In some embodiments, X is
+<img> id-US20180085386A1-20180329-C00081.TIF </img>
 In some embodiments of the compound of formula II, R1 is -H, bromine, iodine, methyl, ethyl or -CF3. In some embodiments, R1 is -H.
 According to certain embodiments, the present disclosure also provides a compound of formula II, where Z is ═O or ═S. In some embodiments, Z is ═O.
 In some embodiments of the compound of formula II, W is ═O or ═S. In some embodiments, W is ═O.
 In some embodiments of compound of formula II, R2 and R3 are each independently -OR5. In some embodiments, R2 is -OH. In another embodiment, R3 is -OH.
 The disclosure also includes various combinations of A, X, Y1, Z, W, R1, R2 and R3 as described above. These combinations can in turn be combined with any or all of the values of the other variables described above. For example, in some embodiments, Y1 is a C1-aliphatic group substituted with an oxo or a C2-aliphatic group substituted with at least one oxo and optionally further substituted with one or more R4 and X is -P(O)(OR5)2 or
+<img> id-US20180085386A1-20180329-C00082.TIF </img>
 (e.g., -P(O)(OH)2 or
+<img> id-US20180085386A1-20180329-C00083.TIF </img>
 In another embodiment, Y1 is a C1-aliphatic group substituted with an oxo or a C2-aliphatic group substituted with at least one oxo and optionally further substituted with one or more R4; X is -P(O)(OR5)2 or
+<img> id-US20180085386A1-20180329-C00084.TIF </img>
 (e.g., -P(O)(OH)2 or
+<img> id-US20180085386A1-20180329-C00085.TIF </img>
 and Z is ═O.
 In another embodiment, Y1 is a C1-aliphatic group substituted with an oxo or a C2-aliphatic group substituted with at least one oxo and optionally further substituted with one or more R4; X is -P(O)(OR5)2 or
+<img> id-US20180085386A1-20180329-C00086.TIF </img>
 (e.g., -P(O)(OH)2 or
+<img> id-US20180085386A1-20180329-C00087.TIF </img>
 Z is ═O; and W is ═O.
 In yet another embodiment, Y1 is a C1-aliphatic group substituted with an oxo or a C2-aliphatic group substituted with at least one oxo and optionally further substituted with one or more R4; X is -P(O)(OR5)2 or
+<img> id-US20180085386A1-20180329-C00088.TIF </img>
 (e.g., -P(O)(OH)2 or
+<img> id-US20180085386A1-20180329-C00089.TIF </img>
 Z is ═O; W is ═O; and R1 is selected from the group consisting of -H, bromine, iodine, methyl, ethyl, and -CF3, for example, R1 is -H.
 In a further embodiment, Y1 is a C1-aliphatic group substituted with an oxo or a C2-aliphatic group substituted with at least one oxo and optionally further substituted with one or more R4; X is -P(O)(OR5)2 or
+<img> id-US20180085386A1-20180329-C00090.TIF </img>
 (e.g., -P(O)(OH)2 or
+<img> id-US20180085386A1-20180329-C00091.TIF </img>
 Z is ═O; W is ═O; and R1 is selected from the group consisting of -H, bromine, iodine, methyl, ethyl, and -CF3; and A is selected from the group consisting of:
+<img> id-US20180085386A1-20180329-C00092.TIF </img>
 wherein A is optionally further substituted with one or more R7, for example, A is optionally further substituted
+<img> id-US20180085386A1-20180329-C00093.TIF </img>
 In yet a further embodiment, Y1 is a C1-aliphatic group substituted with an oxo or a C2-aliphatic group substituted with at least one oxo and optionally further substituted with one or more R4; X is -P(O)(OR5)2 or
+<img> id-US20180085386A1-20180329-C00094.TIF </img>
 (e.g., -P(O)(OH)2 or
+<img> id-US20180085386A1-20180329-C00095.TIF </img>
 Z is ═O; W is ═O; and R1 is selected from the group consisting of -H, bromine, iodine, methyl, ethyl, and -CF3; A is selected from the group consisting of:
+<img> id-US20180085386A1-20180329-C00096.TIF </img>
 wherein A is optionally further substituted with one or more R7;and R2 and R3 are each independently -OR5, for example, R2 and R3 are each independently -OH.
 In some of the above embodiments, A is
+<img> id-US20180085386A1-20180329-C00097.TIF </img>
 optionally further substituted with one or more R4. In some of the above embodiments, A is
+<img> id-US20180085386A1-20180329-C00098.TIF </img>
 optionally further substituted with one or more R4, wherein R8 is not methyl.
 In a further embodiment, Y1 is a C1-aliphatic group substituted with an oxo or a C2-aliphatic group substituted with at least one oxo and optionally further substituted with one or more R4; X is -P(O)(OR5)2 or
+<img> id-US20180085386A1-20180329-C00099.TIF </img>
 (e.g., -P(O)(OH)2 or
+<img> id-US20180085386A1-20180329-C00100.TIF </img>
 Z is ═O; W is ═O; and R1 is selected from the group consisting of -H, bromine, iodine, methyl, ethyl, and -CF3; and A is selected from the group consisting of:
+<img> id-US20180085386A1-20180329-C00101.TIF </img>
 wherein A is optionally further substituted with one or more R7, for example, A is optionally further substituted
+<img> id-US20180085386A1-20180329-C00102.TIF </img>
 In yet a further embodiment, Y1 is a C1-aliphatic group substituted with an oxo or a C2-aliphatic group substituted with at least one oxo and optionally further substituted with one or more R4; X is -P(O)(OR5)2 or
+<img> id-US20180085386A1-20180329-C00103.TIF </img>
 (e.g., -P(O)(OH)2 or
+<img> id-US20180085386A1-20180329-C00104.TIF </img>
 Z is ═O; W is ═O; and R1 is selected from the group consisting of -H, bromine, iodine, methyl, ethyl, and -CF3; A is selected from the group consisting of:
+<img> id-US20180085386A1-20180329-C00105.TIF </img>
 wherein A is optionally further substituted with one or more R7;and R2 and R3 are each independently -OR5, for example, R2 and R3 are each independently -OH. In some of the above embodiments, each occurrence of R7 is independently selected from the group consisting of halogen, -CF3, -OCF3, -C1-C4 aliphatic (e.g., -C1-C4 alkyl), and -O(C1-C4 aliphatic) (e.g., -O(C1-C4 alkyl)). In some of the above embodiments, when Y1 is a -CH2-C(O)-, wherein the carbonyl group of Y1 is connected directly to A, A is not:
 (i) unsubstituted phenyl; or
 (ii) phenyl substituted with halo (e.g., F- and Cl-) or lower alkyl (e.g., C1-C7 alkyl)
 Examples of particular compounds of the present disclosure include monophosphate or triphosphate derivatives of the following compounds:
-or pharmaceutically acceptable salts thereof. The nucleoside monophosphate and nucleoside analogs of the foregoing compounds may act as a metabolic precursor for the compounds (nucleoside diphosphate analogs) that directly or indirectly activate or otherwise agonize the activity of a P2Y6 receptor
+<img> id-US20180085386A1-20180329-C00106.TIF </img><img> id-US20180085386A1-20180329-C00107.TIF </img><img> id-US20180085386A1-20180329-C00108.TIF </img><img> id-US20180085386A1-20180329-C00109.TIF </img><img> id-US20180085386A1-20180329-C00110.TIF </img><img> id-US20180085386A1-20180329-C00111.TIF </img><img> id-US20180085386A1-20180329-C00112.TIF </img><img> id-US20180085386A1-20180329-C00113.TIF </img>or pharmaceutically acceptable salts thereof. The nucleoside monophosphate and nucleoside analogs of the foregoing compounds may act as a metabolic precursor for the compounds (nucleoside diphosphate analogs) that directly or indirectly activate or otherwise agonize the activity of a P2Y6 receptor
 Examples of particular compounds of the present disclosure include:
+<img> id-US20180085386A1-20180329-C00114.TIF </img><img> id-US20180085386A1-20180329-C00115.TIF </img><img> id-US20180085386A1-20180329-C00116.TIF </img><img> id-US20180085386A1-20180329-C00117.TIF </img><img> id-US20180085386A1-20180329-C00118.TIF </img><img> id-US20180085386A1-20180329-C00119.TIF </img><img> id-US20180085386A1-20180329-C00120.TIF </img><img> id-US20180085386A1-20180329-C00121.TIF </img>
 or pharmaceutically acceptable salts thereof. In certain embodiments, the pharmaceutically acceptable salt is a sodium salt.
 Examples of particular compounds of the present disclosure include:
+<img> id-US20180085386A1-20180329-C00122.TIF </img><img> id-US20180085386A1-20180329-C00123.TIF </img><img> id-US20180085386A1-20180329-C00124.TIF </img><img> id-US20180085386A1-20180329-C00125.TIF </img><img> id-US20180085386A1-20180329-C00126.TIF </img><img> id-US20180085386A1-20180329-C00127.TIF </img><img> id-US20180085386A1-20180329-C00128.TIF </img><img> id-US20180085386A1-20180329-C00129.TIF </img>
 and pharmaceutically acceptable salts thereof. In certain embodiments, the pharmaceutically acceptable salt is a sodium salt.
 In some embodiments, the present disclosure provides a compound:
+<img> id-US20180085386A1-20180329-C00130.TIF </img>
 or a pharmaceutically acceptable salt (e.g., a sodium salt) thereof.
 In some embodiments, the present disclosure provides a compound:
+<img> id-US20180085386A1-20180329-C00131.TIF </img>
 or a pharmaceutically acceptable salt (e.g., a sodium salt) thereof.
 In another embodiment, the present disclosure provides a pharmaceutical composition comprising a pharmaceutically acceptable carrier and a compound of formula I (including formula I-A) or formula II or pharmaceutically acceptable salt form thereof. In yet other embodiments, the present disclosure provides a pharmaceutical composition comprising a pharmaceutically acceptable carrier and any one of compounds m1-m45 (e.g., monophosphates), t1-t45 (e.g., triphosphates) or a pharmaceutically acceptable salt form thereof.
 In certain embodiments, the present disclosure provides a pharmaceutical composition comprising a pharmaceutically acceptable carrier and the following compound or a pharmaceutically acceptable salt form thereof:
+<img> id-US20180085386A1-20180329-C00132.TIF </img>
 In certain embodiments, the present disclosure provides a pharmaceutical composition comprising a pharmaceutically acceptable carrier and the following compound or a pharmaceutically acceptable salt form thereof:
+<img> id-US20180085386A1-20180329-C00133.TIF </img>
 In another embodiment, the present disclosure provides a compound described herein in isolated form, i.e., an isolated compound. Exemplary embodiments are an isolated compound of formula I (including formula I-A), an isolated compound of formula II, or any of compounds m1-m45 and t1-t45 in isolated form. The term “isolated” refers to material that is removed from its original environment (e.g., the natural environment if it is naturally occurring or a synthetic mixture if the material is synthesized in vitro or ex vivo). The isolated compound is desirably substantially pure, such as having a purity of at least about 80%, 85%, 90%, 95%, or 99% by weight.
 It is understood that the compounds of the invention (e.g., compounds m1-m45 and t1-t45) including pharmaceutically acceptable salts thereof and pharmaceutical compositions comprising at least one of the compounds of the invention (e.g., compounds m1-m45 and t1-t45), can be used in each of the methods described hereinbelow.
 C. General Synthetic Methodology
 The compounds of this disclosure may be prepared in general by methods known to those skilled in the art. Scheme 1 below illustrates a general synthetic route to produce the nucleoside monophosphate compounds of the present disclosure, and Scheme 2 below illustrates a general synthetic route to produce the nucleoside triphosphate compounds of the present disclosure. Other equivalent schemes, which will be readily apparent to the ordinary skilled organic chemist, may alternatively be used to synthesize various portions of the molecules as illustrated by the general schemes below.
+<img> id-US20180085386A1-20180329-C00134.TIF </img>
+<img> id-US20180085386A1-20180329-C00135.TIF </img>
 In another embodiment, the present disclosure provides a pharmaceutical composition comprising a pharmaceutically acceptable carrier and a compound described herein, such as a compound of formula I or II.
 The disclosure contemplates that any one or more of the foregoing aspects and embodiments (including compounds of all of the preceding formulae as well as their salts) can be combined with each other and/or with any of the embodiments or features provided below.
 D. Exemplary Uses
@@ -369,6 +473,7 @@ EXAMPLES
 Example 1
 Preparation of Compound 6
 Scheme 3 below provides a general synthetic route for the preparation of compound 6.
+<img> id-US20180085386A1-20180329-C00136.TIF </img>
 Step 1: Synthesis of Compound 47
 To a solution of compound 46 (3.0 g, 8.11 mmol) in DMF (90 mL) was added Y01 (3.0 g, 16.22 mmol) and K2CO3 (4.47 g, 16.22 mmol), the resulting mixture was stirred at 70° C. for 1 h. After cooling down, the mixture was diluted with 250 mL water, extracted with ethyl acetate (EA) (250 mL×3), the organic layer was dried over anhydrous Na2SO4, concentrated to give a crude product. The crude product was purified on column (eluted with PE/EA=3:1) to give 3.61 g 47 as a colorless oil, yield: 94%. 1H NMR (300 MHz, CDCl3) δ 7.36 (d, J=8.1 Hz, 1H), 7.32-7.27 (m, 4H), 7.25-7.18 (m, 1H), 5.98 (d, J=4.0 Hz, 1H), 5.81 (d, J=8.1 Hz, 1H), 5.34 (d, J=2.4 Hz, 2H), 4.35 (s, 3H), 4.13 (m, 2H), 3.01-2.84 (m, 2H), 2.14 (dd, J=12.1, 4.2 Hz, 9H), 1.26 (t, J=7.1 Hz, 1H).
 Step 2: Synthesis of Compound 6
@@ -376,6 +481,7 @@ Step 2: Synthesis of Compound 6
 Example 2
 Preparation of Compound 3
 Scheme 4 below provides a general synthetic route for the preparation of compound 3.
+<img> id-US20180085386A1-20180329-C00137.TIF </img>
 Step 1: Synthesis of Compound 49
 Compound 49 was prepared from compound 46 according to the same procedure as described in step 1 of Example 1. 2.98 g compound 49 was obtained from 3.0 g compound 46, yield: 79.7%. 1H NMR (300 MHz, CDCl3) δ 8.47 (d, J=4.7 Hz, 1H), 7.58 (m, 1H), 7.43 (d, J=8.2 Hz, 1H), 7.19-7.07 (m, 2H), 6.01 (d, J=4.8 Hz, 1H), 5.85 (d, J=8.2 Hz, 1H), 5.36-5.26 (m, 2H), 5.20 (s, 2H), 4.31 (s, 3H), 2.05 (t, J=10.5 Hz, 9H).
 Step 2: Synthesis of Compound 50
@@ -383,6 +489,7 @@ Compound 3 was prepared from compound 49 according to the same procedure as desc
 Example 3
 Preparation of Compound 4
 Scheme 5 below provides a general synthetic route for the preparation of compound 4.
+<img> id-US20180085386A1-20180329-C00138.TIF </img>
 Step 1: Synthesis of Compound 51
 To a solution of compound 46 (1.061 g, 1.87 mmol), Y03 (930 mg, 5.73 mmol) and PPh3 (1.501 g, 5.73 mmol) in 25 mL THF was added dropwise a solution of DIAD (1.159 g, 5.73 mmol) in 5 mL THF over 30 min, the resulting mixture was stirred at 50° C. for 3 h. After the reaction was finished, THF was removed to give the crude product. The crude product was purified on column (eluted with EA) to give 1.37 g compound 51 as an oil, yield: 88.8%.
 Step 2: Synthesis of Compound 4
@@ -390,6 +497,7 @@ Compound 4 was prepared from compound 51 according to the same procedure as desc
 Example 4
 Preparation of Compound 1
 Scheme 6 below provides a general synthetic route for the preparation of compound 1.
+<img> id-US20180085386A1-20180329-C00139.TIF </img>
 Step 1: Synthesis of Compound 53
 Compound 53 was prepared from compound 46 according to the same procedure as described in step 1 of Example 1. A crude product of compound 53 was obtained from 1.14 g compound 46. The crude product was used in the next step directly without further purification.
 Step 2: Synthesis of Compound 1
@@ -397,6 +505,7 @@ Compound 1 was prepared from compound 53 according to the same procedure as desc
 Example 5
 Preparation of Compound 5 and Derivatives Thereof
 Scheme 7 below provides a general synthetic route for the preparation of compound 5.
+<img> id-US20180085386A1-20180329-C00140.TIF </img>
 Step 1: Synthesis of Compound 55
 Compound 55 was prepared from compound 46 according to the same procedure as described in step 1 of Example 1. 4.2 g compound 55 was obtained from 3.0 g compound 46, yield: 100%. 1H NMR (300 MHz, CDCl3) δ 7.79 (d, J=8.0 Hz, 1H), 7.53 (dd, J=3.7, 1.6 Hz, 2H), 7.45 (d, J=8.2 Hz, 1H), 7.30 (m, 1H), 6.04 (d, J=4.7 Hz, 1H), 5.89 (d, J=8.2 Hz, 1H), 5.50 (d, J=1.7 Hz, 2H), 5.33 (m, 2H), 4.34 (d, J=4.3 Hz, 3H), 2.10 (d, J=6.6 Hz, 6H), 2.04 (s, 3H).
 Step 2: Synthesis of Compound 5
@@ -408,16 +517,17 @@ TABLE 1
 </header>
 Characterization of compounds 32-37:
 Compound & Characterization
- & Yield: 97% as a solid TLC information: (DCM/MeOH = 10/1) Material: Rf = 0.5 Product: Rf = 0.2 1H NMR (400 MHz, MeOD): δ 8.15 (1H, d, J = 8 Hz), 7.93-7.89 (1H, m), 7.43 (1H, d, J = 8.8 Hz), 7.30- 7.26 (1H, m), 7.23-7.18 (1H, m), 5.94 (1H, d, J = 4.0 Hz), 5.87 (1H, d, J = 8 Hz), 5.51 (2H, s), 4.19-4.17 (1H, m), 3.88 (1H, d, J = 8.8 Hz), 3.78-3.75 (1H, m), 3.33-3.15 1H, m).
- & Yield: 64% as a solid TLC information: (DCM/MeOH = 10/1) Material: Rf = 0.5 Product: Rf = 0.2 1H NMR (400 MHz, MeOD): δ 8.15 (1H, d, J = 8 Hz), 7.69 (1H, d, J = 8 Hz), 7.45-7.37 (2H, m), 5.94 (1H, d, J = 4.0 Hz), 5.86 (1H, d, J = 8 Hz), 5.54 (2H, s), 4.20-4.17 (1H, m), 4.03 (1H, d, J = 4 Hz), 3.86-3.77 (1H, m), 3.33-3.15 (1H, m).
- & Yield: 93% as solid TLC information: (DCM/MeOH = 10/1) Material: Rf = 0.5 Product: Rf = 0.2
- & Yield: 75% as a solid TLC information: (DCM/MeOH = 10/1) Material: Rf = 0.5 Product: Rf = 0.2 1H NMR (400 MHz, MeOD): δ 8.15 (1H, d, J = 8 Hz), 7.64 (1H, s), 7.52-7.46 (2H, m), 5.95 (1H, d, J = 4.0 Hz), 5.87 (1H, d, J = 8 Hz), 5.50 (2H, s), 4.20-4.17 (1H, m), 4.04 (1H, d, J = 4 Hz), 3.86-3.77 (1H, m), 3.33-3.15 (1H, m).
- & Yield: 83% as a solid TLC information: (DCM/MeOH = 10/1) Material: Rf = 0.5 Product: Rf = 0.2 1H NMR (400 MHz, MeOD): δ 8.15 (1H, d, J = 8 Hz), 7.72 (1H, d, J = 8 Hz), 7.43 (1H, s), 7.21 (1H, d, J = 8.0 Hz), 5.95 (1H, d, J = 4.0 Hz), 5.87 (1H, d, J = 8.0 Hz), 5.49 (2H, s), 4.19-4.17 (2H, m), 4.04 (1H, d, J = 4.0 Hz), 3.87-3.77 (1H, m), 3.36-3.33 (1H, m), 2.53 (3H, s).
- & Yield: 74% as a solid TLC information: (DCM/MeOH = 10/1) Material: Rf = 0.5 Product: Rf = 0.2 1H NMR (400 MHz, MeOD): δ 8.15 (1H, d, J = 8 Hz), 7.66 (1H, d, J = 8 Hz), 7.43 (1H, d, J = 7.2 Hz), 7.30-7.26 (1H, m), 5.94 (1H, d, J = 4.0 Hz), 5.87 (1H, d, J = 8.0 Hz), 5.52 (2H, s), 4.20-4.16 (2H, m), 4.04 (1H, s), 3.87-3.85 (1H, m), 3.78- 3.75 (1H, m), 2.55 (3H, s).
+<img> id-US20180085386A1-20180329-C00141.TIF </img> & Yield: 97% as a solid TLC information: (DCM/MeOH = 10/1) Material: Rf = 0.5 Product: Rf = 0.2 1H NMR (400 MHz, MeOD): δ 8.15 (1H, d, J = 8 Hz), 7.93-7.89 (1H, m), 7.43 (1H, d, J = 8.8 Hz), 7.30- 7.26 (1H, m), 7.23-7.18 (1H, m), 5.94 (1H, d, J = 4.0 Hz), 5.87 (1H, d, J = 8 Hz), 5.51 (2H, s), 4.19-4.17 (1H, m), 3.88 (1H, d, J = 8.8 Hz), 3.78-3.75 (1H, m), 3.33-3.15 1H, m).
+<img> id-US20180085386A1-20180329-C00142.TIF </img> & Yield: 64% as a solid TLC information: (DCM/MeOH = 10/1) Material: Rf = 0.5 Product: Rf = 0.2 1H NMR (400 MHz, MeOD): δ 8.15 (1H, d, J = 8 Hz), 7.69 (1H, d, J = 8 Hz), 7.45-7.37 (2H, m), 5.94 (1H, d, J = 4.0 Hz), 5.86 (1H, d, J = 8 Hz), 5.54 (2H, s), 4.20-4.17 (1H, m), 4.03 (1H, d, J = 4 Hz), 3.86-3.77 (1H, m), 3.33-3.15 (1H, m).
+<img> id-US20180085386A1-20180329-C00143.TIF </img> & Yield: 93% as solid TLC information: (DCM/MeOH = 10/1) Material: Rf = 0.5 Product: Rf = 0.2
+<img> id-US20180085386A1-20180329-C00144.TIF </img> & Yield: 75% as a solid TLC information: (DCM/MeOH = 10/1) Material: Rf = 0.5 Product: Rf = 0.2 1H NMR (400 MHz, MeOD): δ 8.15 (1H, d, J = 8 Hz), 7.64 (1H, s), 7.52-7.46 (2H, m), 5.95 (1H, d, J = 4.0 Hz), 5.87 (1H, d, J = 8 Hz), 5.50 (2H, s), 4.20-4.17 (1H, m), 4.04 (1H, d, J = 4 Hz), 3.86-3.77 (1H, m), 3.33-3.15 (1H, m).
+<img> id-US20180085386A1-20180329-C00145.TIF </img> & Yield: 83% as a solid TLC information: (DCM/MeOH = 10/1) Material: Rf = 0.5 Product: Rf = 0.2 1H NMR (400 MHz, MeOD): δ 8.15 (1H, d, J = 8 Hz), 7.72 (1H, d, J = 8 Hz), 7.43 (1H, s), 7.21 (1H, d, J = 8.0 Hz), 5.95 (1H, d, J = 4.0 Hz), 5.87 (1H, d, J = 8.0 Hz), 5.49 (2H, s), 4.19-4.17 (2H, m), 4.04 (1H, d, J = 4.0 Hz), 3.87-3.77 (1H, m), 3.36-3.33 (1H, m), 2.53 (3H, s).
+<img> id-US20180085386A1-20180329-C00146.TIF </img> & Yield: 74% as a solid TLC information: (DCM/MeOH = 10/1) Material: Rf = 0.5 Product: Rf = 0.2 1H NMR (400 MHz, MeOD): δ 8.15 (1H, d, J = 8 Hz), 7.66 (1H, d, J = 8 Hz), 7.43 (1H, d, J = 7.2 Hz), 7.30-7.26 (1H, m), 5.94 (1H, d, J = 4.0 Hz), 5.87 (1H, d, J = 8.0 Hz), 5.52 (2H, s), 4.20-4.16 (2H, m), 4.04 (1H, s), 3.87-3.85 (1H, m), 3.78- 3.75 (1H, m), 2.55 (3H, s).
 </table>
 Example 6
 Preparation of Triethylamine and Sodium Salts of the Diphosphate Derivative of Compound 6
 Scheme 8 below provides a general synthetic route for the preparation of the triethylamine (TEA) and sodium salts of the diphosphate derivative of compound 6.
+<img> id-US20180085386A1-20180329-C00147.TIF </img>
 Step 1: Synthesis of Compound 6-47
 To a solution of compound 6-42 (3.0 g, 8.11 mmol) in DMF (90 mL) was added Y01 (3.0 g, 16.22 mmol) and K2CO3 (4.47 g, 16.22 mmol), the resulting mixture was stirred at 70° C. for 1 h. After cooling down, the mixture was diluted with 250 mL water, extracted with ethyl acetate (EA) (250 mL×3), the organic layer was dried over anhydrous Na2SO4, concentrated to give a crude product. The crude product was purified on column (eluted with PE/EA=3:1) to give 3.61 g 6-47 as a colorless oil, yield: 94%. 1H NMR (300 MHz, CDCl3) δ 7.36 (d, J=8.1 Hz, 1H), 7.32-7.27 (m, 4H), 7.25-7.18 (m, 1H), 5.98 (d, J=4.0 Hz, 1H), 5.81 (d, J=8.1 Hz, 1H), 5.34 (d, J=2.4 Hz, 2H), 4.35 (s, 3H), 4.13 (m, 2H), 3.01-2.84 (m, 2H), 2.14 (dd, J=12.1, 4.2 Hz, 9H), 1.26 (t, J=7.1 Hz, 1H).
 Step 2: Synthesis of Compound 6-48
@@ -429,6 +539,7 @@ Step 4: Synthesis of the Sodium Salt of the Diphosphate Derivative of Compound 6
 Example 7
 Preparation of Triethylamine and Sodium Salts of the Diphosphate Derivative of Compound 3
 Scheme 9 below provides a general synthetic route for the preparation of the triethylamine (TEA) and sodium salts of the diphosphate derivative of compound 3.
+<img> id-US20180085386A1-20180329-C00148.TIF </img>
 Step 1: Synthesis of Compound 7-49
 Compound 7-49 was prepared from compound 7-42 according to the same procedure as described in step 1 of Example 1. 2.98 g compound 7-49 was obtained from 3.0 g compound 7-42, yield: 79.7%. 1H NMR (300 MHz, CDCl3) δ 8.47 (d, J=4.7 Hz, 1H), 7.58 (m, 1H), 7.43 (d, J=8.2 Hz, 1H), 7.19-7.07 (m, 2H), 6.01 (d, J=4.8 Hz, 1H), 5.85 (d, J=8.2 Hz, 1H), 5.36-5.26 (m, 2H), 5.20 (s, 2H), 4.31 (s, 3H), 2.05 (t, J=10.5 Hz, 9H).
 Step 2: Synthesis of Compound 7-50
@@ -440,6 +551,7 @@ The sodium salt of the diphosphate derivative of compound 3 was prepared from th
 Example 8
 Preparation of Triethylamine and Sodium Salts of the Diphosphate Derivative of Compound 4
 Scheme 10 below provides a general synthetic route for the preparation of the triethylamine (TEA) and sodium salts of the diphosphate derivative of compound 4.
+<img> id-US20180085386A1-20180329-C00149.TIF </img><img> id-US20180085386A1-20180329-C00150.TIF </img>
 Step 1: Synthesis of Compound 8-51
 To a solution of compound 8-42 (1.061 g, 1.87 mmol), Y03 (930 mg, 5.73 mmol) and PPh3 (1.501 g, 5.73 mmol) in 25 mL THF was added dropwise a solution of DIAD (1.159 g, 5.73 mmol) in 5 mL THF over 30 min, the resulting mixture was stirred at 50° C. for 3 h. After the reaction was finished, THF was removed to give the crude product. The crude product was purified on column (eluted with EA) to give 1.37 g compound 8-51 as an oil, yield: 88.8%.
 Step 2: Synthesis of Compound 8-52
@@ -451,6 +563,7 @@ The sodium salt of the diphosphate derivative of compound 4 was prepared from th
 Example 9
 Preparation of Triethylamine and Sodium Salts of the Diphosphate Derivative of Compound 1
 Scheme 11 below provides a general synthetic route for the preparation of the triethylamine (TEA) and sodium salts of the diphosphate derivative of compound 1.
+<img> id-US20180085386A1-20180329-C00151.TIF </img><img> id-US20180085386A1-20180329-C00152.TIF </img>
 Step 1: Synthesis of Compound 9-53
 Compound 53 was prepared from compound 9-42 according to the same procedure as described in step 1 of Example 1. A crude product of compound 9-53 was obtained from 1.14 g compound 9-42. The crude product was used in the next step directly without further purification.
 Step 2: Synthesis of Compound 9-54
@@ -462,6 +575,7 @@ The sodium salt of the diphosphate derivative of compound 1 was prepared from th
 Example 10
 Preparation of Triethylamine and Sodium Salts of the Diphosphate Derivative of Compound 5
 Scheme 12 below provides a general synthetic route for the preparation of the triethylamine (TEA) and sodium salts of the diphosphate derivative of compound 5.
+<img> id-US20180085386A1-20180329-C00153.TIF </img><img> id-US20180085386A1-20180329-C00154.TIF </img>
 Step 1: Synthesis of Compound 10-55
 Compound 10-55 was prepared from compound 10-42 according to the same procedure as described in step 1 of Example 1. 4.2 g compound 10-55 was obtained from 3.0 g compound 10-42, yield: 100%. 1H NMR (300 MHz, CDCl3) δ 7.79 (d, J=8.0 Hz, 1H), 7.53 (dd, J=3.7, 1.6 Hz, 2H), 7.45 (d, J=8.2 Hz, 1H), 7.30 (m, 1H), 6.04 (d, J=4.7 Hz, 1H), 5.89 (d, J=8.2 Hz, 1H), 5.50 (d, J=1.7 Hz, 2H), 5.33 (m, 2H), 4.34 (d, J=4.3 Hz, 3H), 2.10 (d, J=6.6 Hz, 6H), 2.04 (s, 3H).
 Step 2: Synthesis of Compound 10-56
@@ -478,12 +592,12 @@ TABLE 2
 Characterization of the sodium salts of the diphosphate derivatives of
 compounds 32-37:
 Compound & Characterization
- & White solid, yield: 3% 1H NMR (400 MHz, D2O): δ 7.92 (1H, d, J = 8 Hz), 7.51-7.52 (1H, m), 7.21-7.25 (1H, m), 7.01-7.06 (1H, m), 5.98 (1H, d, J = 8.4 Hz), 5.88 (1H, d, J = 4 Hz), 5.38 (2H, s), 4.25-4.24 (2H, m), 4.16-4.11 (3H, m). 31P NMR (400 MHz, D2O): δ −10.78 (1P, d, J = 15.4 Hz), −11.36 (1P, d, J = 15.5 Hz).
- & White solid, yield: 3% 1H NMR (400 MHz, D2O): δ 8.01 (1H, d, J = 8 Hz), 7.58-7.56 (1H, m), 7.40-7.31 (2H, m), 6.04 (1H, d, J = 8.4 Hz), 5.90 (1H, s), 5.48 (1H, s), 4.37-4.30 (2H, m), 4.18-4.17 (3H, m). 31P NMR (400 MHz, D2O): δ −6.87 (1P, d, J = 16.1 Hz), −10.91 (1P, d, J = 16.7 Hz).
- & White solid, yield: 4.6% 1H NMR (400 MHz, D2O): δ 8.02 (1H, d, J = 8 Hz), 7.48 (1H, d, J = 7.2 Hz), 7.38 (1H, d, J = 8.4 Hz), 7.14 (1H, d, J = 7.2 Hz), 6.05 (1H, d, J = 8.0 Hz), 5.90 (1H, s), 5.60 (1H, s), 4.34-4.31 (2H, m), 4.22-4.20 (3H, m). 31P NMR (400 MHz, D2O): δ −5.79 (1P, d, J = 14.2 Hz), −10.01 (1P, d, J = 13.7 Hz).
- & White solid, yield: 5.3% 1H NMR (400 MHz, D2O): δ 7.98 (1H, d, J = 8 Hz), 7.44 (1H, s), 7.39 (1H, s), 6.01 (1H, d, J = 8.0 Hz), 5.86 (1H, d, J = 4.0 Hz), 5.37 (2H, s), 4.35-4.33 (1H, m), 4.28-4.26 (1H, m), 4.16-4.15 (3H, m). 31P NMR (400 MHz, D2O): δ −6.57 (1P, d, J = 16.7 Hz), −10.87 (1P, d, J = 16.7 Hz).
- & White solid, yield: 5.3% 1H NMR (400 MHz, D2O): δ 7.96 (1H, d, J = 8 Hz), 7.57 (1H, d, J = 8 Hz), 7.35 (1H, s), 7.16 (1H, d, J = 8 Hz), 6.01 (1H, d, J = 8.0 Hz), 5.89 (1H, d, J = 4.0 Hz), 5.40 (2H, s), 4.30-4.26 (2H, m), 4.18-4.11 (3H, m), 2.40 (3H, s). 31P NMR (400 MHz, D2O): δ −10.35 (1P, d, J = 15.3 Hz), −11.32 (1P, d, J = 15.4 Hz).
- & White solid, yield: 3% 1H NMR (400 MHz, D2O): δ 7.97 (1H, d, J = 8 Hz), 7.51 (1H, d, J = 8 Hz), 7.35 (1H, d, J = 8 Hz), 7.21 (1H, d, J = 8 Hz), 6.03 (1H, d, J = 8.0 Hz), 5.91 (1H, d, J = 4.0 Hz), 5.41 (2H, s), 4.30-4.28 (2H, m), 4.21-4.12 (3H, m), 2.40 (3H, s). 31P NMR (400 MHz, D2O): δ −10.73 (1P, d, J = 15.3 Hz), −11.33 (1P, d, J = 15.1 Hz).
+<img> id-US20180085386A1-20180329-C00155.TIF </img> & White solid, yield: 3% 1H NMR (400 MHz, D2O): δ 7.92 (1H, d, J = 8 Hz), 7.51-7.52 (1H, m), 7.21-7.25 (1H, m), 7.01-7.06 (1H, m), 5.98 (1H, d, J = 8.4 Hz), 5.88 (1H, d, J = 4 Hz), 5.38 (2H, s), 4.25-4.24 (2H, m), 4.16-4.11 (3H, m). 31P NMR (400 MHz, D2O): δ −10.78 (1P, d, J = 15.4 Hz), −11.36 (1P, d, J = 15.5 Hz).
+<img> id-US20180085386A1-20180329-C00156.TIF </img> & White solid, yield: 3% 1H NMR (400 MHz, D2O): δ 8.01 (1H, d, J = 8 Hz), 7.58-7.56 (1H, m), 7.40-7.31 (2H, m), 6.04 (1H, d, J = 8.4 Hz), 5.90 (1H, s), 5.48 (1H, s), 4.37-4.30 (2H, m), 4.18-4.17 (3H, m). 31P NMR (400 MHz, D2O): δ −6.87 (1P, d, J = 16.1 Hz), −10.91 (1P, d, J = 16.7 Hz).
+<img> id-US20180085386A1-20180329-C00157.TIF </img> & White solid, yield: 4.6% 1H NMR (400 MHz, D2O): δ 8.02 (1H, d, J = 8 Hz), 7.48 (1H, d, J = 7.2 Hz), 7.38 (1H, d, J = 8.4 Hz), 7.14 (1H, d, J = 7.2 Hz), 6.05 (1H, d, J = 8.0 Hz), 5.90 (1H, s), 5.60 (1H, s), 4.34-4.31 (2H, m), 4.22-4.20 (3H, m). 31P NMR (400 MHz, D2O): δ −5.79 (1P, d, J = 14.2 Hz), −10.01 (1P, d, J = 13.7 Hz).
+<img> id-US20180085386A1-20180329-C00158.TIF </img> & White solid, yield: 5.3% 1H NMR (400 MHz, D2O): δ 7.98 (1H, d, J = 8 Hz), 7.44 (1H, s), 7.39 (1H, s), 6.01 (1H, d, J = 8.0 Hz), 5.86 (1H, d, J = 4.0 Hz), 5.37 (2H, s), 4.35-4.33 (1H, m), 4.28-4.26 (1H, m), 4.16-4.15 (3H, m). 31P NMR (400 MHz, D2O): δ −6.57 (1P, d, J = 16.7 Hz), −10.87 (1P, d, J = 16.7 Hz).
+<img> id-US20180085386A1-20180329-C00159.TIF </img> & White solid, yield: 5.3% 1H NMR (400 MHz, D2O): δ 7.96 (1H, d, J = 8 Hz), 7.57 (1H, d, J = 8 Hz), 7.35 (1H, s), 7.16 (1H, d, J = 8 Hz), 6.01 (1H, d, J = 8.0 Hz), 5.89 (1H, d, J = 4.0 Hz), 5.40 (2H, s), 4.30-4.26 (2H, m), 4.18-4.11 (3H, m), 2.40 (3H, s). 31P NMR (400 MHz, D2O): δ −10.35 (1P, d, J = 15.3 Hz), −11.32 (1P, d, J = 15.4 Hz).
+<img> id-US20180085386A1-20180329-C00160.TIF </img> & White solid, yield: 3% 1H NMR (400 MHz, D2O): δ 7.97 (1H, d, J = 8 Hz), 7.51 (1H, d, J = 8 Hz), 7.35 (1H, d, J = 8 Hz), 7.21 (1H, d, J = 8 Hz), 6.03 (1H, d, J = 8.0 Hz), 5.91 (1H, d, J = 4.0 Hz), 5.41 (2H, s), 4.30-4.28 (2H, m), 4.21-4.12 (3H, m), 2.40 (3H, s). 31P NMR (400 MHz, D2O): δ −10.73 (1P, d, J = 15.3 Hz), −11.33 (1P, d, J = 15.1 Hz).
 </table>
 Example 11
 Materials and Methods for In Vitro and In Vivo Studies

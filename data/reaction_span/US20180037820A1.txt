@@ -19,11 +19,13 @@ Since the operating voltage should generally be at a minimum in displays, i.e. i
 For many practical applications in liquid-crystal displays, however, the known liquid-crystalline media do not have sufficient stability. Particularly the stability thereof to irradiation by UV, but also even by the standard backlighting, leads to a deterioration in the electrical properties in particular. For example, there is a significant increase in conductivity.
 For stabilization of liquid-crystal mixtures, the use of sterically hindered amines, called “hindered amine light stabilizers”, HALS for short, has already been proposed.
 Nematic liquid-crystal mixtures having negative dielectric anisotropy that contain a small amount of TINUVIN® 770, a compound of the formula
+<img> id-US20180037820A1-20180208-C00001.TIF </img>
 as stabilizer are described, for example, in WO 2009/129911 A1. However, the corresponding liquid-crystal mixtures do not have adequate properties for some practical applications. Among other factors, they can sometimes not be stable enough to stress resulting from irradiation with typical CCFL (Cold Cathode Fluorescent Lamp) backlighting and/or have problems with regard to low-temperature stability.
 Similar liquid-crystal mixtures are also known, for example, from EP 2 182 046 A1, WO 2008/009417 A1, WO 2009/021671 A1 and WO 2009/115186 A1. These liquid-crystal mixtures, according to the description therein, may optionally also comprise stabilizers of various kinds, for example phenols and sterically hindered amines (HALS).
 These liquid-crystal mixtures may, in a different degree according to the application, in some cases show a deterioration in one or more parameters of relevance in the operation of a liquid-crystal display. More particularly, there can be a drop in the voltage holding ratio (VHR for short) thereof after stress. Moreover, a yellowish discolouration can occur in the event of extreme stress.
 Furthermore, the use of various stabilizers in liquid-crystalline media is described, for example, in JP (S)55-023169 (A), JP (H)05-117324 (A), WO 02/18515 A1 and JP (H) 09-291282 (A).
 TINUVIN® 123, a compound of the formula
+<img> id-US20180037820A1-20180208-C00002.TIF </img>
 has also been suggested for stabilization purposes.
 HALS with various substituents on the nitrogen atom are compared with regard to their pKB values in Ohkatsu, Y., J. of Japan Petroleum Institute, 51 (2008), p. 191-204. The following types of structural formulae are described here:
 <table>
@@ -36,14 +38,15 @@ HALS with various substituents on the nitrogen atom are compared with regard to 
 <header>
  & 
 </header>
- & “HALS” & 
+ & “HALS” & <img> id-US20180037820A1-20180208-C00003.TIF </img>
  & 
- & “R-HALS” or “NR-HALS” & 
+ & “R-HALS” or “NR-HALS” & <img> id-US20180037820A1-20180208-C00004.TIF </img>
  & 
- & “NOR-HALS” & 
+ & “NOR-HALS” & <img> id-US20180037820A1-20180208-C00005.TIF </img>
  & 
 </table>
 The compound TEMPOL, of the following formula
+<img> id-US20180037820A1-20180208-C00006.TIF </img>
 is known; it is mentioned, for example, in Miéville, P. et al., Angew. Chem., 122 (2010), p. 6318-6321. It is commercially available from various manufacturers and is used, for example, in formulations for precursors for polyolefins, polystyrenes, polyamides, coatings and PVC as polymerization inhibitor and, especially in combination with UV absorbers, as light or UV stabilizer.
 Prior art liquid-crystal media with appropriately low drive voltages have relatively low electrical resistances or an as yet inadequate, i.e. excessively low, voltage holding ratio (VHR) and, in the displays, often lead to unwanted flicker and/or adequate transmission. Moreover, they are not sufficiently stable to thermal and/or UV stress, at least when they have a correspondingly high polarity as necessary for low drive voltages.
 On the other hand, the drive voltage of the prior art displays having a high VHR is often too high, especially for displays that do not have direct connection or through-connection to the power supply grid, for example displays for mobile applications.
@@ -55,8 +58,9 @@ There is thus still a great need for MLC displays having very high specific resi
 The problem addressed by the invention is that of providing compounds which, in liquid-crystalline mixtures, contribute to advantageous properties in such a way that useful and improved MLC displays, especially those that are based on the ECB effect or on the IPS or FFS effect and also include mobile applications, become obtainable. A particular problem addressed is that of providing compounds and liquid-crystalline media and MLC displays comprising these media that have the above-specified disadvantages only to a lesser degree, if at all, and simultaneously have very high specific resistivities, and moreover also enable working, particularly for mobile systems, even at extremely high and extremely low temperatures.
 This object is achieved by the subject-matter of the independent claims. Preferred embodiments are specified in the corresponding dependent claims, and the items, preferred embodiments and special features of the present invention are described hereinafter.
 The present invention firstly provides a compound of the formula I
+<img> id-US20180037820A1-20180208-C00007.TIF </img>
 whereSp1 and Sp2 are each independently a spacer group,A and B are each independently a radical selected from the following groups:a) the group consisting of trans-1,4-cyclohexylene, 1,4-cyclohexenylene and 1,4'-bicyclohexylene, in which one or two nonadjacent CH2 groups may also be replaced by -O- and/or -S- and in which one or more hydrogen atoms may also be replaced by F,b) the group consisting of 1,4-phenylene and 1,3-phenylene, in which one or two nonadjacent CH groups may also be replaced by N and in which one or more hydrogen atoms may also be replaced by L, andc) the group consisting of
-in which one or more hydrogen atoms in these radicals may also be replaced by L, and/or one or more double bonds may be replaced by single bonds, and/or one or more CH groups may be replaced by N,i and j are each independently 0 or 1,Z0 is a single bond, -CH2-, -CF2-, -CO-, -O-, -NH-, -NH-(CO)-, -CH2CH2-, -CH═CH-, -CF2O-, -OCF2-, -CH2O-, -OCH2-, -COO-, -OCO-, -C2F4- or -CF═CF-, preferably a single bond, -CF2O- or -COO-,andL is the same or different at each instance and is F, Cl, CN or a straight-chain or branched, in each case optionally fluorinated alkyl, alkoxy, arylalkyl or alkylarylalkyl having 1 to 15 carbon atoms, in which one or more nonadjacent CH2 groups may also be replaced by -O- and/or -S-.
+<img> id-US20180037820A1-20180208-C00008.TIF </img>in which one or more hydrogen atoms in these radicals may also be replaced by L, and/or one or more double bonds may be replaced by single bonds, and/or one or more CH groups may be replaced by N,i and j are each independently 0 or 1,Z0 is a single bond, -CH2-, -CF2-, -CO-, -O-, -NH-, -NH-(CO)-, -CH2CH2-, -CH═CH-, -CF2O-, -OCF2-, -CH2O-, -OCH2-, -COO-, -OCO-, -C2F4- or -CF═CF-, preferably a single bond, -CF2O- or -COO-,andL is the same or different at each instance and is F, Cl, CN or a straight-chain or branched, in each case optionally fluorinated alkyl, alkoxy, arylalkyl or alkylarylalkyl having 1 to 15 carbon atoms, in which one or more nonadjacent CH2 groups may also be replaced by -O- and/or -S-.
 B is preferably trans-1,4-cyclohexylene in which one or more nonadjacent CH2 groups may also be replaced by -O- and/or -S- and in which one or more hydrogen atoms may also be replaced by F, or 1,4-phenylene in which one or two nonadjacent CH groups may also be replaced by N and in which one or more hydrogen atoms may also be replaced by L.
 The invention includes embodiments where i and j are each 0, where i and j are each 1, and where one of i and j is 0 and the other of i and j is 1.
 In the present invention, it has advantageously been recognized that the inventive compounds of formula I surprisingly have favourable properties and are especially suitable for stabilizing liquid-crystal mixtures both against UV stress and against thermal stress considerably, in many cases to a sufficient degree.
@@ -84,32 +88,42 @@ In a particularly preferred embodiment, Sp1 and Sp2, in each case independently,
 In one embodiment, Sp1 and Sp2 do not include a group -CO-.
 It is preferable that Sp1 and Sp2 have the same definition, i.e. the same structure.
 In one embodiment,
+<img> id-US20180037820A1-20180208-C00009.TIF </img>
 is straight-chain or branched alkylene, preferably having 9 to 16 carbon atoms, which is optionally mono- or polysubstituted by F, Cl or CN, and in which one or more nonadjacent CH2 groups may also each independently be replaced by -O-, -S-, -NH-, -CO-, -COO-, -OCO-, -OCO-O-, -CH═CH- or -C≡C-.
 In a further embodiment, the above grouping is not -C(O)-alkyl-C(O)-.
 In a preferred embodiment,
+<img> id-US20180037820A1-20180208-C00010.TIF </img>
 is a group selected from -Cyc-, -Phe-, -Cyc-Cyc-, -Cyc-Phe-, -Phe-Cyc-, -Phe-Phe-, -Cyc-Z-Cyc-, -Cyc-Z-Phe-, -Phe-Z-Cyc- and -Phe-Z-Phe-, where Cyc is trans-1,4-cyclohexylene, in which one or more nonadjacent CH2 groups may also be replaced by -O- and/or -S- and in which one or more hydrogen atoms may also be replaced by F,Phe is 1,3-phenylene or 1,4-phenylene, preferably 1,4-phenylene, in which one or two nonadjacent CH groups may also be replaced by N and in which one or more hydrogen atoms may also be replaced by L,Z is -CH2-, -CF2-, -CO-, -O-, -NH-, -NH-(CO)-, -CH2CH2-, -CH═CH-, -CF2O-, -OCF2-, -CH2O-, -OCH2-, -COO-, -OCO-, -C2F4- or -CF═CF-, and L has the definition given above for formula I.
 Preferably,
+<img> id-US20180037820A1-20180208-C00011.TIF </img>
 has one of the following structures:
+<img> id-US20180037820A1-20180208-C00012.TIF </img>
 whereZ is -CH2-, -CF2-, -CO-, -O-, -NH-, -NH-(CO)-, -CH2CH2-, -CH═CH-, -CF2O-, -OCF2-, -CH2O-, -OCH2-, -COO-, -OCO-, -C2F4- or -CF═CF-, preferably -CF2O- or -COO-, andLn is in each case independently 1, 2, 3 or 4, preferably 1 or 2, optional substituents L, where L is the same or different at each instance and is F, Cl, CN or a straight-chain or branched, in each case optionally fluorinated alkyl, alkoxy, arylalkyl or alkylarylalkyl having 1 to 15 carbon atoms, in which one or more nonadjacent CH2 groups may also be replaced by -O- and/or -S-.
 In one embodiment, the group
+<img> id-US20180037820A1-20180208-C00013.TIF </img>
 comprises one of the following structures:
+<img> id-US20180037820A1-20180208-C00014.TIF </img>
 where the group preferably consists of one of these structures.
 In a preferred embodiment, compounds of the formula I where i=1 and j=0 are provided.
 In a particularly preferred embodiment of the invention, the compound(s) of the invention is/are selected from compounds of the formula I-A
+<img> id-US20180037820A1-20180208-C00015.TIF </img>
 where Sp1 and Sp2 have the definitions given above and L1 to L4 are each independently H, F or straight-chain or branched, in each case optionally fluorinated alkyl having 1 to 7 carbon atoms, in which one or more nonadjacent CH2 groups may also be replaced by -O-.
 More particularly, L1 to L4 are more preferably each independently H, F or straight-chain alkyl having 1 to 6 carbon atoms. In one embodiment, at least two of L1 to L4 are H, where the remaining group(s) from L1 to L4 is/are selected from F, methyl, ethyl and propyl.
 If i=0 and j=0, in a preferred embodiment, the Sp1, Z0 and Sp2 groups together form an unbranched alkyl group, preferably having at least 9 carbon atoms, further preferably having 9 to 16 carbon atoms.
 Particularly preferred compounds of the formula I are selected from the following compounds of the formulae I-1 to I-12:
+<img> id-US20180037820A1-20180208-C00016.TIF </img><img> id-US20180037820A1-20180208-C00017.TIF </img>
 In a particularly preferred embodiment, the compound of the formula I is a compound of the formula I-1, I-2, I-3, I-4, I-5, I-6 or I-7, especially I-1.
 These compounds are of particularly excellent suitability as stabilizers in liquid-crystal mixtures, in which case they especially stabilize the VHR of the mixtures against UV stress.
 The inventive compounds of the formula I can be prepared by standard methods known from the literature and, as the case may be, standard modifications known to those skilled in the art (see, for example, Houben-Weyl, Methoden der Organischen Chemie [Methods of Organic Chemistry], Thieme-Verlag, Stuttgart).
 In the present case, it has advantageously been recognized that a particularly favourable and effective process for preparing the compounds of the formula I can be provided by using TEMPOL as a starting material.
 A general synthesis method for preparation of compounds according to the invention is shown below.
+<img> id-US20180037820A1-20180208-C00018.TIF </img>
 where n and m are each independently 0 or 1 and Ln is in each case independently 1, 2, 3 or 4 optional substituents L, where L is the same or different at each instance and is F, Cl, CN or a straight-chain or branched, in each case optionally fluorinated alkyl, alkoxy, arylalkyl or alkylarylalkyl having 1 to 15 carbon atoms, in which one or more nonadjacent CH2 groups may also be replaced by -O- and/or -S-.
 According to the invention, one or more compounds of the formula I can advantageously be used for stabilization of liquid-crystalline media. More particularly, the compounds according to the invention can have a favourable effect on stability in the case of dielectrically negative liquid-crystalline media, especially in the presence of one or more alignment layers of polyimide, for example. In the displays according to the invention, this can advantageously lead to particularly short switching times with a simultaneously high voltage holding ratio (VHR).
 For this purpose, a method of stabilizing a liquid-crystalline medium is provided, wherein one or more compounds of the formula I are added to the medium.
 In a preferred embodiment, the stabilization relates to a liquid-crystalline medium having a negative dielectric anisotropy. In this case, at the most appreciable amounts of dielectrically uncharged liquid-crystal compounds and generally only very small amounts of dielectrically positive compounds, if any, are used, since liquid-crystal displays are generally supposed to have minimum drive voltages.
 Preferably, the liquid-crystalline media according to the invention comprise one or more compounds selected from the group of compounds of the formulae II-1 to II-4
+<img> id-US20180037820A1-20180208-C00019.TIF </img>
 whereR21 is a unsubstituted alkyl radical having 1 to 7 carbon atoms,R22 is an unsubstituted alkyl radical having 1 to 7 carbon atoms, or an unsubstituted alkoxy radical having 1 to 6 carbon atoms,andm, n and o are each independently 0 or 1.
 It has been found that, surprisingly, it is possible to achieve liquid-crystal mixtures which, especially in ECB displays and for IPS or FFS displays with active matrix addressing, have a low threshold voltage coupled with short switching times and simultaneously have a sufficiently broad nematic phase, a favourable, relatively low birefringence (Δn), good stability to breakdown by thermal and UV stress and a stable high VHR when nematic liquid-crystal mixtures comprising at least one compound of the formula I and at least one compound selected from the group of compounds of the formulae II-1 to II-4, preferably of the formula II-3, are used.
 The mixtures according to the invention preferably exhibit very broad nematic phase regions with clearing points ≧70° C., very favourable values for the capacitative threshold, relatively high values for VHR and simultaneously good low-temperature stabilities at −20° C. and −30° C., and also very low rotational viscosities. Moreover, the mixtures according to the invention preferably feature a good ratio of clearing point and rotational viscosity, and a high negative dielectric anisotropy.
@@ -117,46 +131,59 @@ It has also been found that, surprisingly, it is possible to achieve liquid-crys
 Preferably, the medium according to the invention comprises one or more compounds selected from the group of compounds of the formulae II-1 to II-4 in a total concentration in the range from 10% or more to 80% or less, preferably from 15% or more to 70% or less, more preferably from 20% or more to 60% or less.
 Especially preferably, the medium according to the invention comprisesone or more compounds of the formula II-1 in a total concentration in the range of 5% or more to 30% or less and/orone or more compounds of the formula II-2 in a total concentration in the range of 3% or more to 30% or less and/orone or more compounds of the formula II-3 in a total concentration in the range of 5% or more to 30% or less and/orone or more compounds of the formula II-4 in a total concentration in the range of 1% or more to 30% or less.
 In a preferred embodiment of the present invention, the media according to the invention comprise one or more compounds of the formula II-1, preferably one or more compounds selected from the group of compounds of the formulae II-1-1 and II-1-2
+<img> id-US20180037820A1-20180208-C00020.TIF </img>
 where R21 and R22 have the definition given above for formula II-1,and preferablyR21 is an alkyl radical having 2 to 5 carbon atoms, more preferably having 3 to 5 carbon atoms, andR22 is an alkyl or alkoxy radical having 2 to 5 carbon atoms, more preferably an alkoxy radical having 2 to 4 carbon atoms, or an alkylenyloxy radical having 2 to 4 carbon atoms.
 In a preferred embodiment of the present invention, the media according to the invention comprise one or more compounds of the formula II-2, more preferably one or more compounds selected from the group of compounds of the formulae II-2-1 and II-2-2
+<img> id-US20180037820A1-20180208-C00021.TIF </img>
 where R21 and R22 have the definition given above for formula II-2, and preferablyR21 is an alkyl radical having 2 to 5 carbon atoms, more preferably having 3 to 5 carbon atoms, andR22 is an alkyl or alkoxy radical having 2 to 5 carbon atoms, more preferably an alkoxy radical having 2 to 4 carbon atoms or an alkylenyloxy radical having 2 to 4 carbon atoms.
 In a preferred embodiment of the present invention, the media according to the invention comprise one or more compounds of the formula II-3, more preferably one or more compounds selected from the group of compounds of the formulae II-3-1 and II-3-2, most preferably of the formula II-3-2,
+<img> id-US20180037820A1-20180208-C00022.TIF </img>
 where R21 and R22 have the definition given above for formula II-3, and preferablyR21 is an alkyl radical having 2 to 5 carbon atoms, more preferably having 3 to 5 carbon atoms, andR22 is an alkyl or alkoxy radical having 2 to 5 carbon atoms, more preferably an alkoxy radical having 2 to 4 carbon atoms or an alkylenyloxy radical having 2 to 4 carbon atoms.
 In a further preferred embodiment, the medium comprises one or more compounds of the formula II-4, more preferably of the formula II-4-a,
+<img> id-US20180037820A1-20180208-C00023.TIF </img>
 whereAlkyl and Alkyl' are independently alkyl having 1 to 7 carbon atoms, preferably having 2 to 5 carbon atoms.
 In a particularly preferred embodiment, the media according to the invention may additionally comprise one or more compounds of the formula III-3 and/or formula IV,
+<img> id-US20180037820A1-20180208-C00024.TIF </img>
 whereAlkoxy, Alkoxy' are independently an alkoxy radical having 1 to 5 carbon atoms,R41 is an unsubstituted alkyl radical having 1 to 7 carbon atoms or an unsubstituted alkenyl radical having 2 to 7 carbon atoms,andR42 is an unsubstituted alkyl radical having 1 to 7 carbon atoms, an unsubstituted alkoxy radical having 1 to 6 carbon atoms or an unsubstituted alkenyl radical having 2 to 7 carbon atoms.
 More preferably, the medium according to the invention, in addition to the compounds selected from the group of compounds of the formulae II-1 to II-4, comprises one or more compounds of the formula III-3 in a total concentration in the range from 1% or more to 20% or less, preferably from 2% or more to 15% or less, more preferably from 3% or more to 10% or less.
 In addition, the medium according to the invention may comprise one or more compounds of the formulae III-1 and III-2
+<img> id-US20180037820A1-20180208-C00025.TIF </img>
 whereAlkyl, Alkyl' are alkyl having 1 to 7 carbon atoms, preferably having 2-5 carbon atoms,andAlkoxy, Alkoxy' are alkoxy having 1 to 7 carbon atoms, preferably having 2 to 5 carbon atoms.
 Preferably, the media according to the present invention comprise one or more dielectrically uncharged compounds of the formula IV in a total concentration in the range from 5% or more to 90% or less, preferably from 10% or more to 80% or less, more preferably from 20% or more to 70% or less.
 In a particularly preferred embodiment, the medium according to the invention comprises one or more compounds of the formula IV selected from the group of compounds of the formulae IV-1 to IV-4
+<img> id-US20180037820A1-20180208-C00026.TIF </img>
 whereAlkyl and Alkyl' are independently alkyl having 1 to 7 carbon atoms, preferably having 2 to 5 carbon atoms,Alkenyl is an alkenyl radical having 2 to 5 carbon atoms, preferably having 2 to 4 carbon atoms, more preferably 2 carbon atoms,Alkenyl' is an alkenyl radical having 2 to 5 carbon atoms, preferably having 2 to 4 carbon atoms, more preferably having 2 to 3 carbon atoms, andAlkoxy is alkoxy having 1 to 5 carbon atoms, preferably having 2 to 4 carbon atoms.
 In a particularly preferred embodiment, the media according to the invention comprise one or more compounds of the formula IV-1 and/or one or more compounds of the formula IV-2.
 In addition, the liquid-crystalline media according to the invention may optionally comprise one or more compounds of the formula V
+<img> id-US20180037820A1-20180208-C00027.TIF </img>
 whereR51 and R52 independently have one of the definitions given for R21 and R22, preferably alkyl having 1 to 7 carbon atoms, alkoxy having 1 to 7 carbon atoms and alkoxyalkyl, alkenyl or alkenyloxy having 2 to 7 carbon atoms, particularly n-alkyl having 1 to 5 carbon atoms, n-alkoxy having 2 to 5 carbon atoms and alkenyl or alkenyloxy having 2 to 4 carbon atoms, and
-to
-if present, are each independently
-preferably
-preferably
-and, if present,
-is preferably
-Z51 to Z53 are each independently -CH2-CH2-, -CH2-O-, -CH═CH-, -C═C-, -COO- or a single bond, preferably -CH2-CH2-, -CH2-O- or a single bond, preferably a single bond,i and j are each independently 0 or 1,and(i+j) is preferably 0 or 1.
+<img> id-US20180037820A1-20180208-C00028.TIF </img>to
+<img> id-US20180037820A1-20180208-C00029.TIF </img>if present, are each independently
+<img> id-US20180037820A1-20180208-C00030.TIF </img>preferably
+<img> id-US20180037820A1-20180208-C00031.TIF </img>preferably
+<img> id-US20180037820A1-20180208-C00032.TIF </img>and, if present,
+<img> id-US20180037820A1-20180208-C00033.TIF </img>is preferably
+<img> id-US20180037820A1-20180208-C00034.TIF </img>Z51 to Z53 are each independently -CH2-CH2-, -CH2-O-, -CH═CH-, -C═C-, -COO- or a single bond, preferably -CH2-CH2-, -CH2-O- or a single bond, preferably a single bond,i and j are each independently 0 or 1,and(i+j) is preferably 0 or 1.
 Preferably, the media according to the invention comprise the following compounds in the total concentrations specified:5-60% by weight of one or more compounds selected from the group of compounds of the formulae II-1 to II-4 and III-1 to III-3, and/or10-60% by weight of one or more compounds selected from the group of compounds of the formulae II-1 to II-4 and/or10-60% by weight of one or more compounds of the formulae IV and/or V,where the total content of all the compounds in the medium is 100%.
 In a further preferred embodiment, the medium comprises one or more compounds of the formula V selected from the group of compounds of the formulae V-1 to V-10, preferably selected from the group of compounds of the formulae V-1 to V-5
+<img> id-US20180037820A1-20180208-C00035.TIF </img>
 in which the radicals have the definitions given above under formula V andY5 is H or F,and preferablyR51 is alkyl having 1 to 7 carbon atoms or alkenyl having 2 to 7 carbon atoms andR52 is alkyl having 1 to 7 carbon atoms, alkenyl having 2 to 7 carbon atoms or alkoxy having 1 to 6 carbon atoms.
 In a further preferred embodiment, the medium according to the invention comprises one or more compounds of the formula V-1 selected from the group of compounds of the formulae V-1a and V-1b, preferably of the formula V-1b,
+<img> id-US20180037820A1-20180208-C00036.TIF </img>
 in whichAlkyl and Alkyl' are independently alkyl having 1 to 7 carbon atoms, preferably having 2 to 5 carbon atoms,Alkoxy is alkoxy having 1 to 5 carbon atoms, preferably having 2 to 4 carbon atoms.
 In a further preferred embodiment, the medium comprises one or more compounds of the formula V-3 selected from the group of compounds of the formulae V-3a and V-3b
+<img> id-US20180037820A1-20180208-C00037.TIF </img>
 in whichAlkyl and Alkyl' are independently alkyl having 1 to 7 carbon atoms, preferably having 2 to 5 carbon atoms, andAlkenyl is alkenyl having 2 to 7 carbon atoms, preferably having 2 to 5 carbon atoms.
 In a further preferred embodiment, the medium comprises one or more compounds of the formula V-4 selected from the group of compounds of the formulae V-4a and V-4b
+<img> id-US20180037820A1-20180208-C00038.TIF </img>
 in whichAlkyl and Alkyl' are independently alkyl having 1 to 7 carbon atoms, preferably having 2 to 5 carbon atoms.
 The present invention also relates to a method of stabilizing a liquid-crystalline medium comprising one or more compounds selected from the group of compounds of the formulae II-1 to II-4 and/or one or more compounds of the formula IV and/or one or more compounds of the formula V, wherein one or more compounds of the formula I are added to the medium.
 The liquid-crystal media according to the present invention may comprise one or more chiral compounds.
 In a particularly preferred embodiment of the present invention, the liquid-crystalline media comprise one or more compounds of the formula
+<img> id-US20180037820A1-20180208-C00039.TIF </img>
 in which n is 0, 1, 2, 3, 4, 5 or 6, preferably 2 or 4, more preferably 2, preferably in a concentration of 0.1% to 5%, more preferably of 0.2% to 1%.
 Particularly preferred embodiments of the present invention fulfil one or more of the conditions which follow, where the acronyms (abbreviations) are elucidated in Tables A to C and illustrated by examples in Table D.i. The liquid-crystalline medium has a birefringence of 0.06 or more, more preferably of 0.07 or more.ii. The liquid-crystalline medium has a birefringence of 0.13 or less, more preferably of 0.12 or less.iii. The liquid-crystalline medium has a birefringence in the range from 0.09 or more to 0.12 or less.iv. The liquid-crystalline medium has a negative dielectric anisotropy with a magnitude of 2.0 or more, more preferably of 2.5 or more.v. The liquid-crystalline medium has a negative dielectric anisotropy with a magnitude of 5.5 or less, more preferably of 5.0 or less.vi. The liquid-crystalline medium has a negative dielectric anisotropy with a magnitude in the range from 3.0 or more to 4.5 or less.vii. The liquid-crystalline medium comprises one or more particularly preferred compounds of the formula IV selected from the following formulae:
-in which alkyl has the definition given above and is preferably in each case independently alkyl having 1 to 6 and more preferably having 2 to 5 carbon atoms, and especially preferably n-alkyl.viii. The total concentration of the compounds of the formula IV in the overall mixture is 20% or more, preferably 30% or more, and is preferably in the range from 20% or more to 49% or less, more preferably in the range from 29% or more to 47% or less, and most preferably in the range from 37% or more to 44% or less.ix. The liquid-crystalline medium comprises one or more compounds of the formula IV selected from the group of compounds of the following formulae: CC-n-V and/or CC-n-Vm, especially CC-3-V, preferably in a concentration of up to 50% or less, more preferably up to 42% or less, and optionally additionally CC-3-V1, preferably in a concentration of up to 15% or less, and/or CC-4-V, preferably in a concentration of up to 20% or less, more preferably up to 10% or less.x. The total concentration of the compounds III-1 to III-3 in the overall mixture is in the range from 1% or more to 20% or less, preferably from 2% or more to 15% or less, more preferably from 3% or more to 10% or less.xi. The total concentration of the compounds of the formula CC-3-V in the overall mixture is 18% or more, preferably 25% or more.xii. The proportion of compounds of the formulae II-1 to II-4 and III-1 to III-3 in the overall mixture is 50% or more and preferably 75% or less.xiii. The liquid-crystalline medium consists essentially of compounds of the formulae I, II-1 to II-4, III, IV and V, preferably of compounds of the formulae I, II-1 to II-4 and IV.xiv. The liquid-crystalline medium comprises one or more compounds of the formula IV, preferably of the formulae IV-1 and/or IV-2, preferably in a total concentration of 20% or more, especially of 25% or more, and most preferably from 30% or more to 45% or less.
+<img> id-US20180037820A1-20180208-C00040.TIF </img>in which alkyl has the definition given above and is preferably in each case independently alkyl having 1 to 6 and more preferably having 2 to 5 carbon atoms, and especially preferably n-alkyl.viii. The total concentration of the compounds of the formula IV in the overall mixture is 20% or more, preferably 30% or more, and is preferably in the range from 20% or more to 49% or less, more preferably in the range from 29% or more to 47% or less, and most preferably in the range from 37% or more to 44% or less.ix. The liquid-crystalline medium comprises one or more compounds of the formula IV selected from the group of compounds of the following formulae: CC-n-V and/or CC-n-Vm, especially CC-3-V, preferably in a concentration of up to 50% or less, more preferably up to 42% or less, and optionally additionally CC-3-V1, preferably in a concentration of up to 15% or less, and/or CC-4-V, preferably in a concentration of up to 20% or less, more preferably up to 10% or less.x. The total concentration of the compounds III-1 to III-3 in the overall mixture is in the range from 1% or more to 20% or less, preferably from 2% or more to 15% or less, more preferably from 3% or more to 10% or less.xi. The total concentration of the compounds of the formula CC-3-V in the overall mixture is 18% or more, preferably 25% or more.xii. The proportion of compounds of the formulae II-1 to II-4 and III-1 to III-3 in the overall mixture is 50% or more and preferably 75% or less.xiii. The liquid-crystalline medium consists essentially of compounds of the formulae I, II-1 to II-4, III, IV and V, preferably of compounds of the formulae I, II-1 to II-4 and IV.xiv. The liquid-crystalline medium comprises one or more compounds of the formula IV, preferably of the formulae IV-1 and/or IV-2, preferably in a total concentration of 20% or more, especially of 25% or more, and most preferably from 30% or more to 45% or less.
 Preferably, the liquid-crystal mixture has a nematic phase region having a breadth of at least 80 K and a flow viscosity ν20 of not more than 30 mm2·s−1 at 20° C.
 The liquid-crystal mixture according to the invention preferably has a Δ∈ of −0.5 to −8.0, further preferably of −1.5 to −6.0, and most preferably of −2.0 to −5.0, where Δ∈ is the dielectric anisotropy.
 The rotational viscosity γ1 is preferably 200 mPa·s or less, especially 150 mPa·s or less, more preferably 120 mPa·s or less.
@@ -185,6 +212,7 @@ Preferably, the total concentration of the one or more compounds of the formula 
 In one embodiment, the concentration of the one or more compounds of the formula I in the medium according to the invention, based on the overall medium, is in the range from 1 ppm to 5000 ppm, preferably in the range from 1 ppm to 2000 ppm, more preferably in the range from 1 ppm to 1000 ppm, especially preferably in the range from 1 ppm to 500 ppm and very especially preferably in the range from 1 ppm to 250 ppm. In a particularly preferred embodiment, the concentration of the one or more compounds of the formula I in the medium according to the invention, based on the overall medium, is in the range from 5 ppm to 2000 ppm, and especially in the range from 10 ppm to 500 ppm.
 In one embodiment, one or more further stabilizers, preferably phenolic stabilizers, may be added to the liquid-crystal mixtures according to the invention in addition to the compound of the formula I or the compounds of the formula I, in order to have a further favourable effect on, or possibly even to assure, adequate stabilization against UV and thermal stress, especially against thermal stress.
 In a particularly preferred embodiment, the media according to the invention comprise one or more compounds selected from the group of compounds of the formulae OH-1 to OH-6
+<img> id-US20180037820A1-20180208-C00041.TIF </img>
 These compounds are of excellent suitability for stabilization of the media against thermal stresses.
 In another preferred embodiment of the present invention, the media according to the invention may also have adequate stability when they do not comprise any phenol compound and are especially selected from the group of compounds of the formulae OH-1 to OH-6.
 In the present context, moreover, a process for producing a liquid-crystalline medium is provided, in which one or more compounds of the formula I are mixed with one or more compounds of the formulae II-1 to II-4 and optionally one or more compounds of the formula III-3 and/or optionally with one or more compounds of the formula IV.
@@ -199,7 +227,9 @@ In respect of the present invention, in connection with the specification of the
 This applies both to the media as compositions with their constituents, which may be components and compounds, and to the components with their constituents, the compounds. Only in relation to the concentration of a single compound in relation to the overall medium does the term “comprise” mean that the concentration of the compound in question is preferably 1% or more, more preferably 2% or more, most preferably 4% or more.
 In respect of the present invention, “≦” means not more than, preferably less than, and “≧” means not less than, preferably greater than.
 In respect of the present invention,
+<img> id-US20180037820A1-20180208-C00042.TIF </img>
 mean trans-1,4-cyclohexylene and
+<img> id-US20180037820A1-20180208-C00043.TIF </img>
 mean 1,4-phenylene.
 In respect of the present invention, the term “dielectrically positive compounds” means those compounds having a Δ∈>1.5, “dielectrically uncharged compounds” those having −1.5≦Δ∈≦1.5, and “dielectrically negative” compounds those having Δ∈<−1.5. In this case, the dielectric anisotropy of the compounds is determined by dissolving 10% of the compounds in a liquid-crystalline host and determining the capacitance of the resulting mixture in at least one test cell in each case having layer thickness 20 μm with homeotropic and homogeneous surface orientation at 1 kHz. The measurement voltage is typically 0.5 V to 1.0 V, but it is always lower than the capacitative threshold of the respective liquid crystal mixture under examination.
 The host mixture used for dielectrically positive and dielectrically uncharged compounds is ZLI-4792, and that used for dielectrically negative compounds is ZLI-2857, both from Merck KGaA, Germany. The change in the dielectric constant of the host mixture after addition of the compound to be examined and extrapolation to 100% of the compounds used are used to obtain the values for the particular compounds to be examined. The compound to be examined is dissolved in a concentration of 10% in the host mixture. If the solubility of the substance is too low for this, the concentration is halved stepwise until the study can be effected at the desired temperature.
@@ -256,24 +286,24 @@ Ring elements
 <header>
 
 </header>
-C &  &  & 
-D &  & DI & 
-A &  & AI & 
-P &  &  & 
-G &  & GI & 
-U &  & UI & 
-Y &  &  & 
-P(F,Cl)Y &  & P(Cl,F)Y & 
-np &  &  & 
-n3f &  & nN3fI & 
-th &  & thI & 
-tH2f &  & tH2fI & 
-o2f &  & o2fI & 
-dh &  & B & 
- &  & B(S) & 
-K &  & KI & 
-L &  & LI & 
-F &  & FI & 
+C & <img> id-US20180037820A1-20180208-C00044.TIF </img> &  & 
+D & <img> id-US20180037820A1-20180208-C00045.TIF </img> & DI & <img> id-US20180037820A1-20180208-C00046.TIF </img>
+A & <img> id-US20180037820A1-20180208-C00047.TIF </img> & AI & <img> id-US20180037820A1-20180208-C00048.TIF </img>
+P & <img> id-US20180037820A1-20180208-C00049.TIF </img> &  & 
+G & <img> id-US20180037820A1-20180208-C00050.TIF </img> & GI & <img> id-US20180037820A1-20180208-C00051.TIF </img>
+U & <img> id-US20180037820A1-20180208-C00052.TIF </img> & UI & <img> id-US20180037820A1-20180208-C00053.TIF </img>
+Y & <img> id-US20180037820A1-20180208-C00054.TIF </img> &  & 
+P(F,Cl)Y & <img> id-US20180037820A1-20180208-C00055.TIF </img> & P(Cl,F)Y & <img> id-US20180037820A1-20180208-C00056.TIF </img>
+np & <img> id-US20180037820A1-20180208-C00057.TIF </img> &  & 
+n3f & <img> id-US20180037820A1-20180208-C00058.TIF </img> & nN3fI & <img> id-US20180037820A1-20180208-C00059.TIF </img>
+th & <img> id-US20180037820A1-20180208-C00060.TIF </img> & thI & <img> id-US20180037820A1-20180208-C00061.TIF </img>
+tH2f & <img> id-US20180037820A1-20180208-C00062.TIF </img> & tH2fI & <img> id-US20180037820A1-20180208-C00063.TIF </img>
+o2f & <img> id-US20180037820A1-20180208-C00064.TIF </img> & o2fI & <img> id-US20180037820A1-20180208-C00065.TIF </img>
+dh & <img> id-US20180037820A1-20180208-C00066.TIF </img> & B & <img> id-US20180037820A1-20180208-C00067.TIF </img>
+ &  & B(S) & <img> id-US20180037820A1-20180208-C00068.TIF </img>
+K & <img> id-US20180037820A1-20180208-C00069.TIF </img> & KI & <img> id-US20180037820A1-20180208-C00070.TIF </img>
+L & <img> id-US20180037820A1-20180208-C00071.TIF </img> & LI & <img> id-US20180037820A1-20180208-C00072.TIF </img>
+F & <img> id-US20180037820A1-20180208-C00073.TIF </img> & FI & <img> id-US20180037820A1-20180208-C00074.TIF </img>
 </table>
 <table>
 <header>
@@ -356,93 +386,181 @@ TABLE D
 <header>
 
 </header>
+<img> id-US20180037820A1-20180208-C00075.TIF </img>
 CC-n-m
+<img> id-US20180037820A1-20180208-C00076.TIF </img>
 CC-n-Om
+<img> id-US20180037820A1-20180208-C00077.TIF </img>
 CC-n-V
+<img> id-US20180037820A1-20180208-C00078.TIF </img>
 CC-n-Vm
+<img> id-US20180037820A1-20180208-C00079.TIF </img>
 CC-n-mV
+<img> id-US20180037820A1-20180208-C00080.TIF </img>
 CC-n-mVl
+<img> id-US20180037820A1-20180208-C00081.TIF </img>
 CC-V-V
+<img> id-US20180037820A1-20180208-C00082.TIF </img>
 CC-V-mV
+<img> id-US20180037820A1-20180208-C00083.TIF </img>
 CC-V-Vm
+<img> id-US20180037820A1-20180208-C00084.TIF </img>
 CC-Vn-mV
+<img> id-US20180037820A1-20180208-C00085.TIF </img>
 CC-nV-mV
+<img> id-US20180037820A1-20180208-C00086.TIF </img>
 CC-nV-Vm
+<img> id-US20180037820A1-20180208-C00087.TIF </img>
 CP-n-m
+<img> id-US20180037820A1-20180208-C00088.TIF </img>
 CP-n-Om
+<img> id-US20180037820A1-20180208-C00089.TIF </img>
 PP-n-m
+<img> id-US20180037820A1-20180208-C00090.TIF </img>
 PP-n-Om
+<img> id-US20180037820A1-20180208-C00091.TIF </img>
 CCP-n-m
+<img> id-US20180037820A1-20180208-C00092.TIF </img>
 CCP-n-Om
+<img> id-US20180037820A1-20180208-C00093.TIF </img>
 CCP-V-m
+<img> id-US20180037820A1-20180208-C00094.TIF </img>
 CCP-nV-m
+<img> id-US20180037820A1-20180208-C00095.TIF </img>
 CCP-Vn-m
+<img> id-US20180037820A1-20180208-C00096.TIF </img>
 CCP-nVm-l
+<img> id-US20180037820A1-20180208-C00097.TIF </img>
 CPP-n-m
+<img> id-US20180037820A1-20180208-C00098.TIF </img>
 CGP-n-m
+<img> id-US20180037820A1-20180208-C00099.TIF </img>
 PGP-n-m
+<img> id-US20180037820A1-20180208-C00100.TIF </img>
 PGP-n-mV
+<img> id-US20180037820A1-20180208-C00101.TIF </img>
 PGP-n-mVl
+<img> id-US20180037820A1-20180208-C00102.TIF </img>
 CCZPC-n-m
+<img> id-US20180037820A1-20180208-C00103.TIF </img>
 CPPC-n-m
+<img> id-US20180037820A1-20180208-C00104.TIF </img>
 CGPC-n-m
+<img> id-US20180037820A1-20180208-C00105.TIF </img>
 CPGP-n-m
+<img> id-US20180037820A1-20180208-C00106.TIF </img>
 CY-V-n
+<img> id-US20180037820A1-20180208-C00107.TIF </img>
 CY-V-On
+<img> id-US20180037820A1-20180208-C00108.TIF </img>
 CY-nV-m
+<img> id-US20180037820A1-20180208-C00109.TIF </img>
 CY-nV-Om
+<img> id-US20180037820A1-20180208-C00110.TIF </img>
 CY-Vn-m
+<img> id-US20180037820A1-20180208-C00111.TIF </img>
 CY-Vn-Om
+<img> id-US20180037820A1-20180208-C00112.TIF </img>
 CY-nVm-l
+<img> id-US20180037820A1-20180208-C00113.TIF </img>
 CY-nVm-Ol
+<img> id-US20180037820A1-20180208-C00114.TIF </img>
 PY-V-n
+<img> id-US20180037820A1-20180208-C00115.TIF </img>
 PY-V-On
+<img> id-US20180037820A1-20180208-C00116.TIF </img>
 PY-nV-m
+<img> id-US20180037820A1-20180208-C00117.TIF </img>
 PY-nV-Om
+<img> id-US20180037820A1-20180208-C00118.TIF </img>
 PY-Vn-m
+<img> id-US20180037820A1-20180208-C00119.TIF </img>
 PY-Vn-Om
+<img> id-US20180037820A1-20180208-C00120.TIF </img>
 PY-nVm-l
+<img> id-US20180037820A1-20180208-C00121.TIF </img>
 PY-nVm-Ol
+<img> id-US20180037820A1-20180208-C00122.TIF </img>
 CCY-V-n
+<img> id-US20180037820A1-20180208-C00123.TIF </img>
 CCY-V-On
+<img> id-US20180037820A1-20180208-C00124.TIF </img>
 CCY-nV-m
+<img> id-US20180037820A1-20180208-C00125.TIF </img>
 CCY-nV-Om
+<img> id-US20180037820A1-20180208-C00126.TIF </img>
 CPY-Vn-m
+<img> id-US20180037820A1-20180208-C00127.TIF </img>
 CCY-Vn-Om
+<img> id-US20180037820A1-20180208-C00128.TIF </img>
 CCY-nVm-l
+<img> id-US20180037820A1-20180208-C00129.TIF </img>
 CCY-nVm-Ol
+<img> id-US20180037820A1-20180208-C00130.TIF </img>
 CPY-V-n
+<img> id-US20180037820A1-20180208-C00131.TIF </img>
 CPY-V-On
+<img> id-US20180037820A1-20180208-C00132.TIF </img>
 CPY-nV-m
+<img> id-US20180037820A1-20180208-C00133.TIF </img>
 CPY-nV-Om
+<img> id-US20180037820A1-20180208-C00134.TIF </img>
 CPY-Vn-m
+<img> id-US20180037820A1-20180208-C00135.TIF </img>
 CPY-Vn-Om
+<img> id-US20180037820A1-20180208-C00136.TIF </img>
 CPY-nVm-l
+<img> id-US20180037820A1-20180208-C00137.TIF </img>
 CPY-nVm-Ol
+<img> id-US20180037820A1-20180208-C00138.TIF </img>
 CY-n-m
+<img> id-US20180037820A1-20180208-C00139.TIF </img>
 CY-n-Om
+<img> id-US20180037820A1-20180208-C00140.TIF </img>
 CVY-n-m
+<img> id-US20180037820A1-20180208-C00141.TIF </img>
 CZY-n-Om
+<img> id-US20180037820A1-20180208-C00142.TIF </img>
 COY-n-m
+<img> id-US20180037820A1-20180208-C00143.TIF </img>
 COY-n-Om
+<img> id-US20180037820A1-20180208-C00144.TIF </img>
 PY-n-m
+<img> id-US20180037820A1-20180208-C00145.TIF </img>
 PY-n-Om
+<img> id-US20180037820A1-20180208-C00146.TIF </img>
 CCY-n-m
+<img> id-US20180037820A1-20180208-C00147.TIF </img>
 CCY-n-Om
+<img> id-US20180037820A1-20180208-C00148.TIF </img>
 CCY-n-mOl
+<img> id-US20180037820A1-20180208-C00149.TIF </img>
 CCZY-n-Om
+<img> id-US20180037820A1-20180208-C00150.TIF </img>
 CCOY-n-m
+<img> id-US20180037820A1-20180208-C00151.TIF </img>
 CCOY-n-Om
+<img> id-US20180037820A1-20180208-C00152.TIF </img>
 CPY-n-m
+<img> id-US20180037820A1-20180208-C00153.TIF </img>
 CPY-n-Om
+<img> id-US20180037820A1-20180208-C00154.TIF </img>
 PYP-n-m
+<img> id-US20180037820A1-20180208-C00155.TIF </img>
 CP(F,Cl)-n-Om
+<img> id-US20180037820A1-20180208-C00156.TIF </img>
 CLY-n-m
+<img> id-US20180037820A1-20180208-C00157.TIF </img>
 CLY-n-Om
+<img> id-US20180037820A1-20180208-C00158.TIF </img>
 CK-n-F
+<img> id-US20180037820A1-20180208-C00159.TIF </img>
 B-nO-Om
+<img> id-US20180037820A1-20180208-C00160.TIF </img>
 B(S)-nO-Om
+<img> id-US20180037820A1-20180208-C00161.TIF </img>
 PPGU-n-F
+<img> id-US20180037820A1-20180208-C00162.TIF </img>
 BCH-nm
 </table>
 Table E specifies chiral dopants that are used with preference in the mixtures according to the invention.
@@ -453,18 +571,31 @@ TABLE E
 <header>
 
 </header>
+<img> id-US20180037820A1-20180208-C00163.TIF </img>
 C 15
+<img> id-US20180037820A1-20180208-C00164.TIF </img>
 CB 15
+<img> id-US20180037820A1-20180208-C00165.TIF </img>
 CM 21
+<img> id-US20180037820A1-20180208-C00166.TIF </img>
 R S-811 / S-811
+<img> id-US20180037820A1-20180208-C00167.TIF </img>
 CM 44
+<img> id-US20180037820A1-20180208-C00168.TIF </img>
 CM 45
+<img> id-US20180037820A1-20180208-C00169.TIF </img>
 CM 47
+<img> id-US20180037820A1-20180208-C00170.TIF </img>
 CN
+<img> id-US20180037820A1-20180208-C00171.TIF </img>
 R-1011 / S-1011
+<img> id-US20180037820A1-20180208-C00172.TIF </img>
 R-2011 / S-2011
+<img> id-US20180037820A1-20180208-C00173.TIF </img>
 R-3011 / S-3011
+<img> id-US20180037820A1-20180208-C00174.TIF </img>
 R-4011 / S-4011
+<img> id-US20180037820A1-20180208-C00175.TIF </img>
 R-5011 / S-5011
 </table>
 In a preferred embodiment of the present invention, the media according to the invention comprise one or more compounds selected from the group of the compounds from Table E.
@@ -476,25 +607,63 @@ TABLE F
 <header>
 
 </header>
+<img> id-US20180037820A1-20180208-C00176.TIF </img>
+<img> id-US20180037820A1-20180208-C00177.TIF </img>
+<img> id-US20180037820A1-20180208-C00178.TIF </img>
+<img> id-US20180037820A1-20180208-C00179.TIF </img>
+<img> id-US20180037820A1-20180208-C00180.TIF </img>
+<img> id-US20180037820A1-20180208-C00181.TIF </img>
+<img> id-US20180037820A1-20180208-C00182.TIF </img>
+<img> id-US20180037820A1-20180208-C00183.TIF </img>
+<img> id-US20180037820A1-20180208-C00184.TIF </img>
+<img> id-US20180037820A1-20180208-C00185.TIF </img>
+<img> id-US20180037820A1-20180208-C00186.TIF </img>
+<img> id-US20180037820A1-20180208-C00187.TIF </img>
+<img> id-US20180037820A1-20180208-C00188.TIF </img>
+<img> id-US20180037820A1-20180208-C00189.TIF </img>
+<img> id-US20180037820A1-20180208-C00190.TIF </img>
+<img> id-US20180037820A1-20180208-C00191.TIF </img>
+<img> id-US20180037820A1-20180208-C00192.TIF </img>
+<img> id-US20180037820A1-20180208-C00193.TIF </img>
+<img> id-US20180037820A1-20180208-C00194.TIF </img>
+<img> id-US20180037820A1-20180208-C00195.TIF </img>
+<img> id-US20180037820A1-20180208-C00196.TIF </img>
+<img> id-US20180037820A1-20180208-C00197.TIF </img>
+<img> id-US20180037820A1-20180208-C00198.TIF </img>
+<img> id-US20180037820A1-20180208-C00199.TIF </img>
+<img> id-US20180037820A1-20180208-C00200.TIF </img>
+<img> id-US20180037820A1-20180208-C00201.TIF </img>
+<img> id-US20180037820A1-20180208-C00202.TIF </img>
+<img> id-US20180037820A1-20180208-C00203.TIF </img>
+<img> id-US20180037820A1-20180208-C00204.TIF </img>
+<img> id-US20180037820A1-20180208-C00205.TIF </img>
+<img> id-US20180037820A1-20180208-C00206.TIF </img>
+<img> id-US20180037820A1-20180208-C00207.TIF </img>
 </table>
 In a preferred embodiment of the present invention, the media according to the invention comprise one or more compounds selected from the group of compounds from Table F, especially one or more compounds selected from the group of compounds of the two formulae
+<img> id-US20180037820A1-20180208-C00208.TIF </img>
 EXAMPLES AND COMPARATIVE EXAMPLES
 The examples which follow elucidate the present invention without restricting it in any way. However, it will be clear to the person skilled in the art which properties are achievable and in which areas they are modifiable. More particularly, the various properties and combinations thereof that can preferably be achieved are thus illustrated.
 SYNTHESIS EXAMPLES
 Synthesis Example I-1
 Synthesis of 4-[3-(2-ethyl-4-{3-[(2,2,6,6-tetramethylpiperidin-4-yl)oxy]propyl}phenyl)propoxy]-2,2,6,6-tetramethylpiperidine
 (Compound of the Formula I-1)
+<img> id-US20180037820A1-20180208-C00209.TIF </img>
 i) Synthesis of 3[3-ethyl-4-(3-hydroxypropyl)phenyl]propan-1-ol (2)
+<img> id-US20180037820A1-20180208-C00210.TIF </img>
 11.0 g (103.8 mmol) of sodium carbonate are initially charged in 50 ml of water. 10.0 g (32.2 mmol) of 4-bromo-2-ethyl-1-iodobenzene, 15.0 g (105.6 mmol) of 2-butoxy-[1,2]oxaborolane and 0.50 ml (3.67 mmol) of triethylamine are dissolved in 250 ml of tetrahydrofuran and added to the reaction solution and degassed under an argon stream for 40 min. Then 170 mg (0.96 mmol) of palladium(II) chloride (59% Pd, anhydrous) and 0.90 g (1.92 mmol) of 2-dicyclohexylphosphino-2,6-diisopropoxy-1,1-biphenyl are added and the mixture is stirred under reflux for 18 h. On completion of conversion, the reaction mixture is cooled down to room temperature and admixed with water and methyl tert-butyl ether (MtBE), and the phases are separated. The aqueous phase is extracted with MtBE, and the combined organic phases are washed with saturated sodium chloride solution, dried over sodium sulphate, filtered and concentrated under reduced pressure. The crude product is filtered with dichloromethane/methanol through silica gel (300 g, 50 μm Combiflash system), and the product fractions are concentrated under reduced pressure.
 The desired product is obtained as a yellowish oil.
 ii) Synthesis of 3-{3-ethyl-4-[3-(methanesulphonyloxy)propyl]phenyl}propyl methanesulphonate (3)
+<img> id-US20180037820A1-20180208-C00211.TIF </img>
 18.2 g (81.9 mmol) of alcohol 2 and 1.0 g (8.2 mmol) of 4-(dimethylamino)pyridine are initially charged in 100 ml of dichloromethane (DCM), and 25 ml (309.7 mmol) of pyridine are added. The reaction mixture is cooled to 3-4° C., and 15.0 ml (193.4 mmol) of methanesulphonyl chloride are added dropwise. 5 min after addition, the cooling bath is removed and then the mixture is stirred at room temperature for 2 hours. On completion of conversion, the reaction mixture is poured cautiously onto water and the phases are separated. The water phase is extracted with DCM, and the combined organic phases are washed with 2 N hydrochloric acid and water, dried over sodium sulphate, filtered and concentrated under reduced pressure. The oily crude product is filtered through 1 litre (I) of silica gel with (DCM:MTB ether 98:2 to 95:5 to 9:1), and the product fractions are concentrated under reduced pressure.
 The product is obtained as a colourless oil.
 iii) Synthesis of 4-[3-(3-ethyl-4-{3-[(1-oxyl-2,2,6,6-tetramethylpiperidin-4-yl)oxy]propyl}phenyl)propoxy]-2,2,6,6-tetramethylpiperidin-1-oxyl (free radical) (4)
+<img> id-US20180037820A1-20180208-C00212.TIF </img>
 To 6.20 g (155 mmol) of sodium hydride (60% in paraffin oil) at room temperature (RT) are cautiously added 50 ml of N,N-dimethylformamide (DMF), and the mixture is heated to 40° C. At this temperature, a solution of 27.0 g (157 mmol) of 4-hydroxy-TEMPO (free-radical) is added dropwise (gentle evolution of hydrogen gas). On completion of addition and after evolution of gas has ended, the mixture is stirred at 40° C. for another 2 hours and then cooled down to room temperature. Then a solution of 23.6 g (62.4 mmol) of mesylate 3 in 100 ml of DMF is added within 10 min (the temperature rises here by 5° C. to 30° C.) and then the mixture is stirred at room temperature for 48 h. The reaction solution is cautiously poured onto ice-water and extracted with MTB ether. The phases are separated and the water phase is extracted with MTB ether. The organic phases are combined, dried over sodium sulphate, filtered and concentrated under reduced pressure. The crude product is obtained as a red oil and is filtered through 1.3 l of silica gel with a mixture of heptane (H)/ethyl acetate (EA) (2:1). The product fractions are concentrated under reduced pressure and the product is obtained as a red solid. The mixture is filtered once again through 1 l of silica gel with H:EA (3:1 to 2:1), and the product obtained is crystallized from 250 ml of heptane and 10 ml of ethanol at −20° C.
 The product is obtained as an orange solid.
 iv) Synthesis of 4-[3-(3-ethyl-4-{3-[(2,2,6,6-tetramethylpiperidin-4-yl)oxy]propyl}phenyl)propoxy]-2,2,6,6-tetramethylpiperidine
 (Compound of the Formula I-1)
+<img> id-US20180037820A1-20180208-C00213.TIF </img>
 21.4 g (40.3 mmol) of free radical 4 are dissolved in 200 ml of tetrahydrofuran (THF), and hydrogenation is effected with 10 g of sponge nickel catalyst (watery) (Johnson Matthey GmbH A-7000) under a 5 bar hydrogen atmosphere and at 50° C. for 16 hours. A further two lots of 10 g of catalyst are added (after filtration) and reduction is effected under a 5 bar hydrogen atmosphere at 50° C. for a further 34 hours. The catalyst is filtered out of the reaction solution which is concentrated and filtered with MTBE through 500 ml of Alox (basic) and concentrated under reduced pressure. The crude product is dissolved cautiously in 100 ml of 2N hydrochloric acid and extracted twice with MTB ether. Subsequently, the aqueous phase (hydrochloride product present) is adjusted cautiously to pH 9-10 with 32% NaOH solution and the water phase is extracted repeatedly with MTBE. The combined organic phases are washed with water, dried over sodium sulphate, filtered and concentrated under reduced pressure. The colourless oil obtained is dried at 0.4 mbar for 4 hours.
 Phases: Tg −43° C. isotropic
 1H NMR (500 MHz, CDCl3)
@@ -502,6 +671,7 @@ Phases: Tg −43° C. isotropic
 Synthesis Example I-6
 Synthesis of 4-[3-(2,5-difluoro-4-{3-[(2,2,6,6-tetramethylpiperidin-4-yl)oxy]propyl}phenyl)propoxy]-2,2,6,6-tetramethylpiperidine
 (Compound of the Formula I-6)
+<img> id-US20180037820A1-20180208-C00214.TIF </img>
 Compound I-6 is prepared analogously to Synthesis Example I-1 for compound I-1, proceeding from commercially available 1,4-dibromo-2,5-difluorobenzene.
 Phases: Tm (melting point)=79° C. isotropic
 1H NMR (500 MHz, CDCl3)
@@ -509,6 +679,7 @@ Phases: Tm (melting point)=79° C. isotropic
 Synthesis Example I-9
 Synthesis of 2,2,6,6-tetramethyl-4-({10-[(2,2,6,6-tetramethylpiperidin-4-yl)oxy]decyl}oxy)piperidine
 (Compound of the Formula I-9)
+<img> id-US20180037820A1-20180208-C00215.TIF </img>
 41.9 g (266 mmol) of 2,2,6,6-tetramethylpiperidin-4-ol are dissolved in 700 ml of toluene, and 28.7 g (1.2 mol) of NaH are added in portions. The mixture is stirred at room temperature for 15 min, and then 40.0 g (133 mmol) of 1,10-dibromodecane are added. The reaction mixture is stirred under reflux for 16 hours, cooled down to room temperature and quenched cautiously with water (evolution of hydrogen). The organic phase is removed, washed with water, dried over sodium sulphate and concentrated under reduced pressure. The oily residue obtained is purified by column chromatography on silica gel with heptane and then with methyl tert-butyl ether (MTB-E).
 Phases: Tm (melting point)=36° C. isotropic
 1H NMR (500 MHz, CDCl3)
@@ -516,20 +687,27 @@ Phases: Tm (melting point)=36° C. isotropic
 Synthesis Example I-12
 Synthesis of 4-{2-[2-fluoro-6-(2-phenylethyl)-3-{3-[(2,2,6,6-tetramethylpiperidin-4-yl)oxy]propyl}phenoxy]ethoxy}-2,2,6,6-tetramethylpiperidine
 (Compound of the Formula I-12)
+<img> id-US20180037820A1-20180208-C00216.TIF </img>
 i) Synthesis of [2-(6-bromo-2-fluoro-3-iodophenoxy)ethoxy](tert-butyl)dimethylsilane (5)
+<img> id-US20180037820A1-20180208-C00217.TIF </img>
 43.3 g (135.6 mmol) of commercially available 6-bromo-3-fluoro-3-iodophenol, 38.10 g (159.3 mmol) of (2-bromoethoxy)-tert-butyldimethylsilane are dissolved in 130 ml of N,N-dimethylformamide (DMF). 66.95 g (203.4 mmol) of caesium carbonate are added to the reaction mixture which is then stirred at 50° C. for 16 hours. The reaction mixture is poured onto ice-water and extracted repeatedly with ethyl acetate (EA), and the organic phases are combined, dried over sodium sulphate, filtered and concentrated under reduced pressure. The crude product is obtained as a brown liquid and is filtered through silica gel with heptane and heptane/toluene (10:1). The product fractions are concentrated under reduced pressure and the colourless oil obtained is separated from residues of DMF at 160° C. and a vacuum of 6 mbar.
 ii) Synthesis of [2-(6-bromo-3-{3-[(tert-butyldimethylsilyl)oxy]prop-1-yn-1-yl}-2-fluorophenoxy)ethoxy](tert-butyl)dimethylsilane (6)
+<img> id-US20180037820A1-20180208-C00218.TIF </img>
 28.0 g (58.9 mmol) of bromide 5 are initially charged in 300 ml of triethylamine at room temperature (RT) and degassed. 1.30 g (1.85 mmol) of bis(triphenylphosphine)palladium(II) chloride (15.2% Pd) and 350 mg (1.84 mmol) of copper(I) iodide are added and, at room temperature, a solution of 20.0 g (117 mmol) of tert-butyldimethyl-prop-2-ynyloxysilane in 150 ml of degassed triethylamine is added dropwise. The reaction mixture warms up to 31° C. in the course of dropwise addition and a thick suspension is formed, which is stirred at room temperature for a further 2 hours. The reaction mixture is filtered with suction, and the filtrate is concentrated under reduced pressure and dissolved with methyl tert-butyl ether (MTB-E). The filter residue is extracted with MTB-E. The combined organic phases are washed with ammonium chloride and sodium chloride solution, dried over sodium sulphate, filtered and concentrated under reduced pressure. The crude product is obtained as a dark oil which is purified on silica gel with heptane/toluene (9:1 to 1:1). The product obtained occurs as an orange oil.
 iii) Synthesis of tert-butyl[2-(3-{3-[(tert-butyldimethylsilyl)oxy]prop-1-yn-1-yl}-2-fluoro-6-(2-phenylethynyl)phenoxy)ethoxy]dimethylsilane (7)
+<img> id-US20180037820A1-20180208-C00219.TIF </img>
 24.1 g (46.6 mmol) of bromide 6 and 8.00 g (55.5 mmol) of 1-ethynyl-4-propylbenzene are dissolved in 300 ml of diisopropylamine and degassed for 30 min. 500 mg (2.23 mmol) of palladium(II) acetate, 700 mg (2.41 mmol) of tri-tert-butylphosphonium tetrafluoroborate and 350 mg (1.84 mmol) of copper(I) iodide are added to the reaction mixture which is stirred at 80° C. for one hour. The reaction mixture darkens and a solid precipitates out. The mixture is cooled down to room temperature, filtered and concentrated under reduced pressure. The filtrate is taken up in MTB ether, and the ammonium salts filtered off with suction are rinsed with MTB ether until the filtrate is colourless. The organic phases are combined, washed with ammonium chloride and sodium chloride solution, dried over sodium sulphate, filtered and concentrated under reduced pressure. The crude product is obtained as a black oil which is filtered through silica gel with heptane/toluene (7:3 to 1:1). The product fractions are combined and concentrated under reduced pressure. The product is obtained as an orange semicrystalline solid.
 iv) Synthesis of tert-butyl[2-(3-{3-[(tert-butyldimethylsilyl)oxy]propyl}-2-fluoro-6-(2-phenylethyl)phenoxy)ethoxy]dimethylsilane (8)
+<img> id-US20180037820A1-20180208-C00220.TIF </img>
 22.2 g (38.2 mmol) of compound 7 and 2.00 g of sponge nickel catalyst (Johnson Matthey, in water, A-700) are dissolved in 220 ml of tetrahydrofuran (THF) and stirred under a hydrogen atmosphere at room temperature and standard pressure for 20.5 hours. The reaction mixture is filtered and the solution is concentrated under reduced pressure. The crude product is purified using silica gel with heptane/chlorobutane (1:1 to 1:2). The product fractions are concentrated under reduced pressure and the reaction product is obtained as an orange oil.
 v) Synthesis of 3-[2-fluoro-3-(2-hydroxyethoxy)-4-(2-phenylethyl)phenyl]propan-1-ol (9)
+<img> id-US20180037820A1-20180208-C00221.TIF </img>
 17.3 g (27.7 mmol) of compound 8 are dissolved in 200 ml of tetrahydrofuran and cooled down to 2° C. 80.0 ml (80 mmol) of a 1 molar solution of tetrabutylammonium fluoride are added dropwise and the mixture is stirred at room temperature for a further 3 hours. The reaction solution is poured onto an ice-cold sodium hydrogencarbonate/MTBE mixture and stirred briefly, and the phases are separated. The water phase is extracted with MTB ether, and the combined organic phases are washed with sodium chloride solution, dried over sodium sulphate, filtered and concentrated under reduced pressure. The reaction product is obtained as an orange oil which is purified using silica gel with dichloromethane/methanol (95:5 to 9:1). The crude product obtained is crystallized from heptane at −25° C., and compound 9 is obtained as beige crystals.
 1H NMR (500 MHz, CDCl3)
 δ=0.96 ppm (t, J=7.35 Hz, 3H, CH3), 1.32 (s(broad), 1H, OH), 1.66 (sext., J=7.41 Hz, 2H, CH2CH3), 1.86-1.95 (mc 2H, CH2), 2.07 (s(broad), 1H, OH), 2.58 (dd, J=7.54 Hz, 2H, CH2), 2.75 (t(broad), J=8.29 Hz, 2H, CH2), 2.91 (mc, 4H), 3.71 (t, J=6.37 Hz, 2H, CH2), 3.92 (dd(broad), 4.61 Hz, 2H, CH2), 4.08 (dd(broad), 4.08 Hz, 2H, CH2), 6.84-6.92 (m, 2H), 7.12 (s, 4H).
 vi) Synthesis of 4-{-2-[2-fluoro-6-(2-phenylethyl)-3-{3-[(2,2,6,6-tetramethylpiperidin-4-yl)oxy]propyl}phenoxy]ethoxy}-2,2,6,6-tetramethylpiperidine
 (Compound of the Formula I-12)
+<img> id-US20180037820A1-20180208-C00222.TIF </img>
 Proceeding from compound 9, compound I-12 is prepared analogously to the synthesis example I-1 shown. The product is obtained as a colourless oil.
 Phases: Tg−31° C. isotropic
 1H NMR (500 MHz, CDCl3)
@@ -579,6 +757,7 @@ Physical properties
 The mixture M-1 is divided into 16 portions and examined as described hereinafter.
 The first portion of the mixture M-1 is used as prepared in Reference Example 1 (Ref.).
 To each of three of the remaining portions is added TINUVIN®770, called T770 hereinafter, i.e. a compound of the formula
+<img> id-US20180037820A1-20180208-C00223.TIF </img>
 in each case in a concentration as listed in Table 1 below. The mixtures M-1.a, M-1.b and M-1.c thus produced are used in Comparative Examples 1.a to 1.c (Comp.).
 According to the invention, one compound of the formulae I-1, I-6-, I-9 and I-12 as shown above is added to each of the remaining 12 portions, each in a concentration as listed in Table 1 below. The mixtures M-1.1 to M-1.12 thus produced are used in Inventive Examples 1.1 to 1.12.
 <table>

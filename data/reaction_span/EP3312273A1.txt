@@ -30,7 +30,7 @@ As used herein, the phrase "having an affinity with a protease" means the capabi
 As used herein, the phrase "without inhibiting degradation of a protein by a protease" means that, for example, the protein-degradation inducing tag does not bind to the degradation active site of the protease via a covalent bonding. When a protein is degraded by a protease in the presence of a protein-degradation inducing tag, and the degradation of the protein is inhibited in the presence of a protease inhibitor, the protein-degradation inducing tag can be considered not to inhibit the degradation of the protein by the protease.
 Examples of the protein-degradation inducing tag include low molecular weight compounds, natural products, peptides, and the like. The protein-degradation inducing tag has a molecular weight within the range of, for example, 50 to 5000.
 There is no particular limitation for the structure of the protein-degradation inducing tag as long as the protein-degradation inducing tag has an affinity with a protease without inhibiting degradation of a protein by the protease. The protein-degradation inducing tag can be obtained from candidate molecules by the screening method as described below, and can also be manufactured according to the method of manufacture as described below.
-In a certain embodiment, for example, the protein-degradation inducing tag may have a structure represented by following formula (I):
+In a certain embodiment, for example, the protein-degradation inducing tag may have a structure represented by following formula (I):<img> id-imgb0001.tif </img>
 In the formula (I), R1 and R2 each independently represent a hydrocarbon group having 1 to 20 carbon atoms, an alkoxy group having 1 to 20 carbon atoms, an aryloxy group having 6 to 20 carbon atoms, a hydroxy group, a carboxy group, an amino group, or a halogeno group.
 Examples of the hydrocarbon group include an alkyl group, an alkenyl group, an aryl group, combinations thereof, and the like. Specifically, the followings can be mentioned: an alkyl group having 1 to 20 carbon atoms such as a methyl group and an ethyl group; an alkenyl group having 2 to 20 carbon atoms such as a vinyl group and an allyl group; an aryl group having 6 to 20 carbon atoms such as a phenyl group and a naphthyl group; an arylalkyl group having 7 to 20 carbon atoms such as a benzyl group and a phenethyl group; an alkylaryl group having 7 to 20 carbon atoms such as a tolyl group and a xylyl group; and the like. Examples of the halogeno group include a fluoro group, a chloro group, a bromo group, and the like.
 In another embodiment, the protein-degradation inducing tag may have a structure in which the proteasome inhibitory activity of a proteasome inhibitor is inactivated. More specifically, at least one inhibitory activity selected from a caspase-like activity, a trypsin-like activity, and a chymotrypsin-like activity can be mentioned as the proteasome inhibitory activity.
@@ -41,31 +41,31 @@ Examples of the proteasome inhibitor are shown in the following Tables 1 and 2. 
 <header>
 No. & Generic name / Product name & Structural formula (Circles indicate active sites) & Molecular weight
 </header>
-1 & Bortezomib &  & 384.24
-2 & ALLN (MG-101, Calpain inhibitor I &  & 383.53
-3 & MLN9708 (Ixazomib) &  & 517.12
-4 & MLN2238 &  & 361.03
-5 & CEP-18770 &  & 413.28
-6 & ONO-7058 (Oprozomib) &  & 532.61
-7 & MG-132 &  & 475.63
+1 & Bortezomib & <img> id-imgb0002.tif </img> & 384.24
+2 & ALLN (MG-101, Calpain inhibitor I & <img> id-imgb0003.tif </img> & 383.53
+3 & MLN9708 (Ixazomib) & <img> id-imgb0004.tif </img> & 517.12
+4 & MLN2238 & <img> id-imgb0005.tif </img> & 361.03
+5 & CEP-18770 & <img> id-imgb0006.tif </img> & 413.28
+6 & ONO-7058 (Oprozomib) & <img> id-imgb0007.tif </img> & 532.61
+7 & MG-132 & <img> id-imgb0008.tif </img> & 475.63
 </table>
 <table>
 <header>
 No. & Generic name / Product name & Structural formula (Circles indicate active sites) & Molecular weight
 </header>
-8 & Carfilzomib &  & 719.92
-9 & BSc-2118 &  & 533.66
-10 & PSI &  & 604.75
-11 & Epoxomicin &  & 554.73
-12 & ONX-0914 &  & 580.68
-13 & 125I-NIP-L3VS &  & 720.64
-14 & NPI-0052 (Marizomib) &  & 313.78
+8 & Carfilzomib & <img> id-imgb0009.tif </img> & 719.92
+9 & BSc-2118 & <img> id-imgb0010.tif </img> & 533.66
+10 & PSI & <img> id-imgb0011.tif </img> & 604.75
+11 & Epoxomicin & <img> id-imgb0012.tif </img> & 554.73
+12 & ONX-0914 & <img> id-imgb0013.tif </img> & 580.68
+13 & 125I-NIP-L3VS & <img> id-imgb0014.tif </img> & 720.64
+14 & NPI-0052 (Marizomib) & <img> id-imgb0015.tif </img> & 313.78
 </table>
-For example, bortezomib as a boronic acid-based proteasome inhibitor is known to inhibit a proteasome activity when the boronyl group as an active site covalently binds to the degradation active site of 20S proteasome as shown in the following scheme (Kisselev, A.F. et al., Chemistry & Biology, 2012, 19, 99-115).
-Further, MLN9708 and MLN2238, which are boronic acid-based proteasome inhibitors, are known to inhibit a proteasome activity when the boronic acid ester moiety or the boronyl group as an active site covalently binds to the degradation active site of 20S proteasome as shown in the following scheme (Kisselev, A.F. et al., Chemistry & Biology, 2012, 19, 99-115) .
+For example, bortezomib as a boronic acid-based proteasome inhibitor is known to inhibit a proteasome activity when the boronyl group as an active site covalently binds to the degradation active site of 20S proteasome as shown in the following scheme (Kisselev, A.F. et al., Chemistry & Biology, 2012, 19, 99-115).<img> id-imgb0016.tif </img>
+Further, MLN9708 and MLN2238, which are boronic acid-based proteasome inhibitors, are known to inhibit a proteasome activity when the boronic acid ester moiety or the boronyl group as an active site covalently binds to the degradation active site of 20S proteasome as shown in the following scheme (Kisselev, A.F. et al., Chemistry & Biology, 2012, 19, 99-115) .<img> id-imgb0017.tif </img><img> id-imgb0018.tif </img>
 Therefore, a protein-degradation inducing tag may be obtained by replacing the boronyl group or the boronic acid ester moiety as the active sites of bortezomib, MLN9708, and MLN2238 with another structural moiety (a carboxy group, an alkyl group, an aryl group, an amino group, a hydroxy group, and the like) to inactive the proteasome inhibitory activity.
 It is noted that even for other boronic acid-based proteasome inhibitors such as CEP-18770, a protein-degradation inducing tag can be obtained by replacing the active site with another structural moiety (a carboxy group, an alkyl group, an aryl group, an amino group, a hydroxy group, and the like).
-Further, ALLN, which is an aldehyde proteasome inhibitor, is known to inhibit a proteasome activity when the formyl group as an active site covalently binds to the degradation activity site of 20S proteasome as shown in the following scheme (Kisselev, A.F. et al., Chemistry & Biology, 2012, 19, 99-115) .
+Further, ALLN, which is an aldehyde proteasome inhibitor, is known to inhibit a proteasome activity when the formyl group as an active site covalently binds to the degradation activity site of 20S proteasome as shown in the following scheme (Kisselev, A.F. et al., Chemistry & Biology, 2012, 19, 99-115) .<img> id-imgb0019.tif </img>
 Therefore, a protein-degradation inducing tag can be obtained by replacing the formyl group as the active site of ALLN with another structural moiety (a carboxy group, an alkyl group, an aryl group, an amino group, a hydroxy group, and the like) to inactivate the proteasome inhibitory activity.
 It is noted that even for other aldehyde proteasome inhibitors such as MG-132, BSc-2118, and PSI, a protein-degradation inducing tag can be obtained by replacing the formyl group as an active site with another structural moiety (a carboxy group, an alkyl group, an aryl group, an amino group, a hydroxy group, and the like).
 Examples of the protein-degradation inducing tag having a structure in which the proteasome inhibitory activity of a proteasome inhibitor is inactivated are shown in the following Tables 3 and 4. Examples of the monovalent group represented by R in the tables include a carboxy group, an alkyl group having 1 to 20 carbon atoms, an aryl group having 6 to 20 atoms, an amino group, a hydroxy group, and the like.
@@ -73,39 +73,40 @@ Examples of the protein-degradation inducing tag having a structure in which the
 <header>
 No. & Structural formula
 </header>
-1 &  & (In the formula, R represents a monovalent group except for .)
-2 &  & (In the formula, R represents a monovalent group except for -CHO.)
-3 &  & (In the formula, R represents a monovalent group except for
-
+1 & <img> id-imgb0020.tif </img> & <img> id-imgb0021.tif </img>
+(In the formula, R represents a monovalent group except for .)
+2 & <img> id-imgb0022.tif </img> & (In the formula, R represents a monovalent group except for -CHO.)
+3 & <img> id-imgb0023.tif </img> & (In the formula, R represents a monovalent group except for
+<img> id-imgb0024.tif </img>
 .)
-4 &  & (In the formula, R represents a monovalent group except for
-
+4 & <img> id-imgb0025.tif </img> & (In the formula, R represents a monovalent group except for
+<img> id-imgb0026.tif </img>
 .)
-5 &  & (In the formula, R represents a monovalent group except for
-
+5 & <img> id-imgb0027.tif </img> & (In the formula, R represents a monovalent group except for
+<img> id-imgb0028.tif </img>
 .)
-6 &  & (In the formula, R represents a monovalent group except for -CHO.)
-7 &  & (In the formula, R represents a monovalent group except for
-
+6 & <img> id-imgb0029.tif </img> & (In the formula, R represents a monovalent group except for -CHO.)
+7 & <img> id-imgb0030.tif </img> & (In the formula, R represents a monovalent group except for
+<img> id-imgb0031.tif </img>
 .)
 </table>
 <table>
 <header>
 No. & Struct ural formula
 </header>
-8 &  & (In the formula, R represents a monovalent group except for -CHO.)
-9 &  & (In the formula, R represents a monovalent group except for -CHO.)
-10 &  & (In the formula, R represents a monovalent group except for
-
+8 & <img> id-imgb0032.tif </img> & (In the formula, R represents a monovalent group except for -CHO.)
+9 & <img> id-imgb0033.tif </img> & (In the formula, R represents a monovalent group except for -CHO.)
+10 & <img> id-imgb0034.tif </img> & (In the formula, R represents a monovalent group except for
+<img> id-imgb0035.tif </img>
 .)
-11 &  & (In the formula, R represents a monovalent group except for
-
+11 & <img> id-imgb0036.tif </img> & (In the formula, R represents a monovalent group except for
+<img> id-imgb0037.tif </img>
 .)
-12 &  & (In the formula, R represents a monovalent group except
-
+12 & <img> id-imgb0038.tif </img> & (In the formula, R represents a monovalent group except
+<img> id-imgb0039.tif </img>
 .)
-13 &  & (In the formula, R represents a monovalent group.)
-14 &  & (In the formula, R represents a monovalent group.)
+13 & <img> id-imgb0040.tif </img> & (In the formula, R represents a monovalent group.)
+14 & <img> id-imgb0041.tif </img> & (In the formula, R represents a monovalent group.)
 </table>
 Other examples of the proteasome inhibitor are shown in the following Tables 5 to 10. Even for these proteasome inhibitor, a protein-degradation inducing tag can be obtained by inactivating the proteasome inhibitory activity in a similar way as described above.
 <table>
@@ -115,11 +116,11 @@ Other examples of the proteasome inhibitor are shown in the following Tables 5 t
 <header>
 No. & Generic name / Product name & Structural formula & Molecular weight
 </header>
-15 & Aspirin &  & 180.15
-16 & Hydroxyurea inhibitor &  & 354.54
-17 & PI-1840 &  & 394.47
-18 & PI-083 &  & 439.87
-19 & Cerastol &  & 450.61
+15 & Aspirin & <img> id-imgb0042.tif </img> & 180.15
+16 & Hydroxyurea inhibitor & <img> id-imgb0043.tif </img> & 354.54
+17 & PI-1840 & <img> id-imgb0044.tif </img> & 394.47
+18 & PI-083 & <img> id-imgb0045.tif </img> & 439.87
+19 & Cerastol & <img> id-imgb0046.tif </img> & 450.61
 </table>
 <table>
 <header>
@@ -128,10 +129,10 @@ No. & Generic name / Product name & Structural formula & Molecular weight
 <header>
 No. & Generic name / Product name & Structural formula & Molecular weight
 </header>
-20 & CVT-659 &  & 571.66
-21 & Capped dipeptide 2 &  & 645.15
-22 & TMC95A &  & 677.71
-23 & Capped dipeptide 1 &  & 699.80
+20 & CVT-659 & <img> id-imgb0047.tif </img> & 571.66
+21 & Capped dipeptide 2 & <img> id-imgb0048.tif </img> & 645.15
+22 & TMC95A & <img> id-imgb0049.tif </img> & 677.71
+23 & Capped dipeptide 1 & <img> id-imgb0050.tif </img> & 699.80
 </table>
 <table>
 <header>
@@ -140,10 +141,10 @@ No. & Generic name / Product name & Structural formula & Molecular weight
 <header>
 No. & Generic name / Product name & Structural formula & Molecular weight
 </header>
-24 & Ritonavir &  & 720.94
-25 & Scytonemide A &  & 744.89
-26 & Argyrin A &  & 824.91
-27 & Benzylstatine peptide 1 &  & 826.00
+24 & Ritonavir & <img> id-imgb0051.tif </img> & 720.94
+25 & Scytonemide A & <img> id-imgb0052.tif </img> & 744.89
+26 & Argyrin A & <img> id-imgb0053.tif </img> & 824.91
+27 & Benzylstatine peptide 1 & <img> id-imgb0054.tif </img> & 826.00
 </table>
 <table>
 <header>
@@ -152,7 +153,7 @@ No. & Generic name / Product name & Structural formula & Molecular weight
 <header>
 No. & Generic name / Product name & Structural formula & Molecular weight
 </header>
-1 & RIP-1 (Rpt4 inhibitor) &  & 1348.76
+1 & RIP-1 (Rpt4 inhibitor) & <img> id-imgb0055.tif </img> & 1348.76
 </table>
 <table>
 <header>
@@ -161,7 +162,7 @@ Inhibitor for a constituent factor other than 20S/19S
 <header>
 No. & Generic name / Product name & Structural formula & Molecular weight & Others
 </header>
-1 & JBIR-22 &  & 419.52 & PAC-3 (molecule assembly factor) inhibition)
+1 & JBIR-22 & <img> id-imgb0056.tif </img> & 419.52 & PAC-3 (molecule assembly factor) inhibition)
 </table>
 <table>
 <header>
@@ -170,9 +171,9 @@ No. & Generic name / Product name & Structural formula & Molecular weight & Othe
 <header>
 No. & Generic name / Product name & Structural formula & Molecular weight & Others
 </header>
-1 & PR-957 &  & 580.68 & β5i is inhibited
-2 & IPSI-001 &  & 362.47 & β2i is inhibited
-3 & LMP2-sp-ek &  & 484.75 & β2i is inhibited
+1 & PR-957 & <img> id-imgb0057.tif </img> & 580.68 & β5i is inhibited
+2 & IPSI-001 & <img> id-imgb0058.tif </img> & 362.47 & β2i is inhibited
+3 & LMP2-sp-ek & <img> id-imgb0059.tif </img> & 484.75 & β2i is inhibited
 </table>
 In another embodiment, the protein-degradation inducing tag may have a structure in which the protease inhibitory activity of a protease inhibitor (except for the proteasome inhibitors described above) is inactivated.
 The term "structure in which a protease inhibitory activity is inactivated" as used herein encompasses a structure in which the protease inhibitory activity is attenuated in addition to a structure in which the protease inhibitory activity is completely eliminated. In a certain embodiment, the protein-degradation inducing tag has a 50% inhibition concentration (IC50) against a protease as an inhibition target of a protease inhibitor which is 2 times or more of the 50% inhibition concentration (IC50) of the original protease inhibitor.
@@ -183,7 +184,7 @@ Examples of the protease inhibitor are shown in the following Tables 11 to 78. P
 β-secretase inhibitor
 </header>
 No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
-1 & OM99-2 &  & 892.99 & 
+1 & OM99-2 & <img> id-imgb0060.tif </img> & 892.99 & 
 </table>
 <table>
 <header>
@@ -192,8 +193,8 @@ No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
 <header>
 No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
 </header>
-1 & γ-Secretase inhibitor &  & 705.83 & 
-2 & L-685,458 &  & 672 .85 & 
+1 & γ-Secretase inhibitor & <img> id-imgb0061.tif </img> & 705.83 & 
+2 & L-685,458 & <img> id-imgb0062.tif </img> & 672 .85 & 
 </table>
 <table>
 <header>
@@ -202,8 +203,8 @@ Aminopeptidase inhibitor
 <header>
 No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
 </header>
-1 & Cysteamine &  & 113.61 & 
-2 & Bestatin &  & 344.83 & ▪ Aminopeptidase B
+1 & Cysteamine & <img> id-imgb0063.tif </img> & 113.61 & 
+2 & Bestatin & <img> id-imgb0064.tif </img> & 344.83 & ▪ Aminopeptidase B
 ▪ Leucine aminopeptidase
 </table>
 <table>
@@ -213,9 +214,9 @@ Angiotensin converting enzyme inhibitor
 <header>
 No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
 </header>
-1 & Captopril &  & 217.29 & ▪ Formation of angiotensin II is inhibited
-2 & Fenoldopam monohydrob romide &  & 386.67 & 
-3 & Angiotensi n Converting Enzyme Inhibitor &  & 1101.26 & 
+1 & Captopril & <img> id-imgb0065.tif </img> & 217.29 & ▪ Formation of angiotensin II is inhibited
+2 & Fenoldopam monohydrob romide & <img> id-imgb0066.tif </img> & 386.67 & 
+3 & Angiotensi n Converting Enzyme Inhibitor & <img> id-imgb0067.tif </img> & 1101.26 & 
 </table>
 <table>
 <header>
@@ -224,17 +225,17 @@ Bromelain inhibitor
 <header>
 No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
 </header>
-1 & E-64 &  & 357.41 & ▪ Cathepsin B
+1 & E-64 & <img> id-imgb0068.tif </img> & 357.41 & ▪ Cathepsin B
 ▪ Ficin
 ▪ Papain
 ▪ Bromelain
-2 & N-Ethylmalei mide &  & 125.13 & ▪ Calpine
+2 & N-Ethylmalei mide & <img> id-imgb0069.tif </img> & 125.13 & ▪ Calpine
 ▪ Ficin
-3 & N-p-Tosyl-L-phenilalan ine chlorometh yl ketone &  & 351.85 & ▪ Papain
+3 & N-p-Tosyl-L-phenilalan ine chlorometh yl ketone & <img> id-imgb0070.tif </img> & 351.85 & ▪ Papain
 ▪ Chymotrypsin
 ▪ Ficin
 ▪ Bromelain
-4 & Sodium iodoacetat e &  & 207.93 & ▪ Carboxypeptidase P
+4 & Sodium iodoacetat e & <img> id-imgb0071.tif </img> & 207.93 & ▪ Carboxypeptidase P
 ▪ Bromelain
 ▪ Ficin
 ▪ Cathepsin
@@ -246,12 +247,12 @@ Calpain inhibitor
 <header>
 No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
 </header>
-1 & E-64c &  & 314.38 & 
-2 & E-64d &  & 342.43 & 
-3 & Z-Leu-Leu-Leu-fluorometh yl ketone &  & 507.64 & 
-4 & N-Ethylmalei mide &  & 125.13 & ▪ Ficin
+1 & E-64c & <img> id-imgb0072.tif </img> & 314.38 & 
+2 & E-64d & <img> id-imgb0073.tif </img> & 342.43 & 
+3 & Z-Leu-Leu-Leu-fluorometh yl ketone & <img> id-imgb0074.tif </img> & 507.64 & 
+4 & N-Ethylmalei mide & <img> id-imgb0075.tif </img> & 125.13 & ▪ Ficin
 ▪ Calpine
-5 & Antipain dihydrochl oride from microbial source &  & 677.62 & ▪ Calpine
+5 & Antipain dihydrochl oride from microbial source & <img> id-imgb0076.tif </img> & 677.62 & ▪ Calpine
 ▪Papain
 ▪ Trypsin
 ▪ Cathepsin A
@@ -262,10 +263,10 @@ No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
 ▪ Pepsin
 ▪ Granzyme B
 ▪ Thrombin
-6 & 4-Chloromerc uribenzoic acid &  & 357.16 & ▪ Calpine
+6 & 4-Chloromerc uribenzoic acid & <img> id-imgb0077.tif </img> & 357.16 & ▪ Calpine
 ▪ Carboxypeptidase
 ▪ Clostripain
-7 & Leupeptin &  & 426.55 & ▪ Plasmin
+7 & Leupeptin & <img> id-imgb0078.tif </img> & 426.55 & ▪ Plasmin
 ▪ Trypsin
 ▪ Papain
 ▪ Calpine
@@ -283,11 +284,11 @@ Calpain I inhibitor
 <header>
 No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
 </header>
-1 & Calpain Inhibitor I (ALLN, Ac-LLnL-CHO, MG-101) &  & 383.53 & ▪ Cathepsin B
+1 & Calpain Inhibitor I (ALLN, Ac-LLnL-CHO, MG-101) & <img> id-imgb0079.tif </img> & 383.53 & ▪ Cathepsin B
 ▪ Cathepsin L
 ▪ Calpine
 ▪ Proteasome
-2 & Calpain Inhibitor II &  & 401.56 & ▪ Cathepsin B
+2 & Calpain Inhibitor II & <img> id-imgb0080.tif </img> & 401.56 & ▪ Cathepsin B
 ▪ Calpine
 ▪ Proteasome
 </table>
@@ -298,17 +299,17 @@ Calpain II inhibitor
 <header>
 No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
 </header>
-1 & E-64c &  & 314.38 & 
-2 & Calpain Inhibitor I (ALLN, Ac-LLnL-CHO, MG-101) &  & 383.53 & ▪ Cathepsin B
+1 & E-64c & <img> id-imgb0081.tif </img> & 314.38 & 
+2 & Calpain Inhibitor I (ALLN, Ac-LLnL-CHO, MG-101) & <img> id-imgb0082.tif </img> & 383.53 & ▪ Cathepsin B
 ▪Cathepsin L
 ▪ Calpine
 ▪ Proteasome
-3 & Calpain Inhibitor II &  & 401.56 & ▪ Cathepsin B
+3 & Calpain Inhibitor II & <img> id-imgb0083.tif </img> & 401.56 & ▪ Cathepsin B
 ▪ Calpine
 ▪ Proteasome
-4 & N-Ethylmalei mide &  & 125.13 & ▪ Ficin
+4 & N-Ethylmalei mide & <img> id-imgb0084.tif </img> & 125.13 & ▪ Ficin
 ▪ Calpine
-5 & Antipain dihydrochl oride from microbial source &  & 677.62 & ▪ Calpine
+5 & Antipain dihydrochl oride from microbial source & <img> id-imgb0085.tif </img> & 677.62 & ▪ Calpine
 ▪ Papain
 ▪ Trypsin
 ▪ Cathepsin A
@@ -319,10 +320,10 @@ No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
 ▪ Pepsin
 ▪ Granzyme B
 ▪ Thrombin
-6 & 4-Chloromerc uribenzoic acid &  & 357.16 & ▪ Calpine
+6 & 4-Chloromerc uribenzoic acid & <img> id-imgb0086.tif </img> & 357.16 & ▪ Calpine
 ▪ Carboxypeptidase
 ▪ Clostripain
-7 & Leupeptin &  & 426.55 & ▪ Plasmin
+7 & Leupeptin & <img> id-imgb0087.tif </img> & 426.55 & ▪ Plasmin
 ▪ Trypsin
 ▪ Papain
 ▪ Calpine
@@ -340,15 +341,15 @@ Carboxypeptidase A/B inhibitor
 <header>
 No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
 </header>
-1 & Ethylene glycol-bis (2-aminoethyl ether)-N,N,N',N'-tetraaceti c acid &  & 380.35 & ▪ Carboxypeptidase A
+1 & Ethylene glycol-bis (2-aminoethyl ether)-N,N,N',N'-tetraaceti c acid & <img> id-imgb0088.tif </img> & 380.35 & ▪ Carboxypeptidase A
 ▪ Carboxypeptidase B
-2 & EDTA disodium salt &  & 372.24 & ▪ Carboxypeptidase A
+2 & EDTA disodium salt & <img> id-imgb0089.tif </img> & 372.24 & ▪ Carboxypeptidase A
 ▪ Carboxypeptidase B
 ▪ Dispase
 ▪ Collagenase
-3 & Pentetic acid (DETAPAC, DTPA) &  & 393.35 & ▪ Carboxypeptidase A
+3 & Pentetic acid (DETAPAC, DTPA) & <img> id-imgb0090.tif </img> & 393.35 & ▪ Carboxypeptidase A
 ▪ Carboxypeptidase B
-4 & 1,10-Phenanthro line monohydrat e &  & 198.22 & ▪ Carboxypeptidase A
+4 & 1,10-Phenanthro line monohydrat e & <img> id-imgb0091.tif </img> & 198.22 & ▪ Carboxypeptidase A
 ▪ Carboxypeptidase B
 ▪ Dispase
 ▪ Leucine aminopeptidase
@@ -361,7 +362,7 @@ Carboxypeptidase P inhibitor
 <header>
 No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
 </header>
-1 & Diisopropy lfluoropho sphate &  & 184.15 & ▪ Carboxypeptidase
+1 & Diisopropy lfluoropho sphate & <img> id-imgb0092.tif </img> & 184.15 & ▪ Carboxypeptidase
 ▪ Chymotrypsin
 ▪ Complement
 ▪ Elastase
@@ -371,11 +372,11 @@ No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
 ▪ Thrombin
 ▪ Pronase
 ▪ Proteinase
-2 & 4-Chloromerc uribenzoic acid &  & 357.16 & ▪ Calpine
+2 & 4-Chloromerc uribenzoic acid & <img> id-imgb0093.tif </img> & 357.16 & ▪ Calpine
 ▪ Carboxypeptidase
 ▪ Clostripain
-3 & Diethyl pyrocarbon ate (DEP) &  & 162.14 & 
-4 & Sodium iodoacetat e &  & 207.93 & ▪ Carboxypeptidase P
+3 & Diethyl pyrocarbon ate (DEP) & <img> id-imgb0094.tif </img> & 162.14 & 
+4 & Sodium iodoacetat e & <img> id-imgb0095.tif </img> & 207.93 & ▪ Carboxypeptidase P
 ▪ Bromelain
 ▪ Ficin
 ▪ Cathepsin
@@ -387,7 +388,7 @@ Carboxypeptidase Y inhibitor
 <header>
 No. & Name & Structural formula & Molecul ar weight & Protease to be inhibi ted
 </header>
-1 & Diisopropy lfluoropho sphate &  & 184.15 & ▪ Carboxypeptidase
+1 & Diisopropy lfluoropho sphate & <img> id-imgb0096.tif </img> & 184.15 & ▪ Carboxypeptidase
 ▪ Chymotrypsin
 ▪ Complement
 ▪ Elastase
@@ -397,7 +398,7 @@ No. & Name & Structural formula & Molecul ar weight & Protease to be inhibi ted
 ▪ Thrombin
 ▪ Pronase
 ▪ Proteinase
-2 & Phenylmeth anesulfony l fluoride &  & 174.19 & ▪ Thrombin
+2 & Phenylmeth anesulfony l fluoride & <img> id-imgb0097.tif </img> & 174.19 & ▪ Thrombin
 ▪ Elastase
 ▪ Plasmin
 ▪ Proteinase
@@ -409,14 +410,14 @@ Cathepsin B inhibitor
 <header>
 No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
 </header>
-1 & CA-074 &  & 383.44 & 
-2 & CA-074 methyl ester &  & 397.47 & 
-3 & E-64 &  & 357.41 & ▪ Cathepsin B
+1 & CA-074 & <img> id-imgb0098.tif </img> & 383.44 & 
+2 & CA-074 methyl ester & <img> id-imgb0099.tif </img> & 397.47 & 
+3 & E-64 & <img> id-imgb0100.tif </img> & 357.41 & ▪ Cathepsin B
 ▪ Ficin
 ▪ Papain
 ▪ Bromelain
-4 & Z-Phe-Phe-fluorometh yl ketone (Z-FF-FMK) &  & 462.51 & 
-5 & Antipain dihydrochl oride from microbial source &  & 677.62 & ▪ Calpine
+4 & Z-Phe-Phe-fluorometh yl ketone (Z-FF-FMK) & <img> id-imgb0101.tif </img> & 462.51 & 
+5 & Antipain dihydrochl oride from microbial source & <img> id-imgb0102.tif </img> & 677.62 & ▪ Calpine
 ▪ Papain
 ▪ Trypsin
 ▪ Cathepsin A
@@ -433,22 +434,22 @@ Cathepsin B inhibitor (Continued)
 <header>
 No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
 </header>
-6 & Calpain Inhibitor I (ALLN, Ac-LLnL-CHO, MG-101) &  & 383.53 & 
+6 & Calpain Inhibitor I (ALLN, Ac-LLnL-CHO, MG-101) & <img> id-imgb0103.tif </img> & 383.53 & 
 ▪ Cathepsin B
 ▪ Cathepsin L
 ▪ Calpine
 ▪ Proteasome
-7 & Calpain Inhibitor II &  & 401.56 & 
+7 & Calpain Inhibitor II & <img> id-imgb0104.tif </img> & 401.56 & 
 ▪ Cathepsin B
 ▪ Calpine
 ▪ Proteasome
-8 & Chymostati n &  & A : MW = 607.7 & ▪ Chymotrypsin
+8 & Chymostati n & <img> id-imgb0105.tif </img> & A : MW = 607.7 & ▪ Chymotrypsin
 ▪ Papain
 B: MW = 593.7 & ▪ Chymotrypsin-like serine proteinase
 Chymostatin A X = Leu & C: MW = 607.7 & ▪ Cathepsin A, B, C, B, H, L
 Chymostatin B X = Val
 Chymostatin C X = Ile
-9 & Leupeptin &  & 426.55 & ▪ Plasmin
+9 & Leupeptin & <img> id-imgb0106.tif </img> & 426.55 & ▪ Plasmin
 ▪ Trypsin
 ▪ Papain
 ▪ Calpine
@@ -466,7 +467,7 @@ Cathepsin C inhibitor
 <header>
 No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
 </header>
-1 & Sodium iodoacetat e &  & 207.93 & ▪ Carboxypeptidase P
+1 & Sodium iodoacetat e & <img> id-imgb0107.tif </img> & 207.93 & ▪ Carboxypeptidase P
 ▪ Bromelain
 ▪ Ficin
 ▪ Cathepsin
@@ -478,7 +479,7 @@ Cathepsin D inhibitor
 <header>
 No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
 </header>
-1 & Antipain dihydrochl oride from microbial source &  & 677.62 & ▪ Calpine
+1 & Antipain dihydrochl oride from microbial source & <img> id-imgb0108.tif </img> & 677.62 & ▪ Calpine
 ▪ Papain
 ▪ Trypsin
 ▪ Cathepsin A
@@ -489,13 +490,13 @@ No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
 ▪ Pepsin
 ▪ Granzyme B
 ▪ Thrombin
-2 & Chymostati n &  &  & ▪ Chymotrypsin
+2 & Chymostati n & <img> id-imgb0109.tif </img> &  & ▪ Chymotrypsin
 A : MW = 607.7 & ▪ Papain
 B: MW = 593.7 & ▪ Chymotrypsin-like serine proteinase
 Chymostatin A X = Leu & C: MW = 607.7 & ▪ Cathepsin A, B, C, B, H, I
 Chymostatin B X = Val & ▪ Proteasome (β5)
 Chymostatin C X = Ile
-3 & Pepstatin A &  & 685.89 & ▪ Pepsin
+3 & Pepstatin A & <img> id-imgb0110.tif </img> & 685.89 & ▪ Pepsin
 ▪ Cathepsin
 </table>
 <table>
@@ -505,8 +506,8 @@ Cathepsin L inhibitor
 <header>
 No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
 </header>
-1 & Z-Phe-Phe-fluorometh yl ketone (Z-FF-FMK) &  & 462.51 & 
-2 & Calpain Inhibitor I (ALLN, Ac-LLnL-CHO, MG-101) &  & 383.53 & ▪ Cathepsin B
+1 & Z-Phe-Phe-fluorometh yl ketone (Z-FF-FMK) & <img> id-imgb0111.tif </img> & 462.51 & 
+2 & Calpain Inhibitor I (ALLN, Ac-LLnL-CHO, MG-101) & <img> id-imgb0112.tif </img> & 383.53 & ▪ Cathepsin B
 ▪ Cathepsin L
 ▪ Calpine
 ▪ Proteasome
@@ -518,7 +519,7 @@ Chymotrypsin inhibitor
 <header>
 No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
 </header>
-1 & Diisopropy lfluoropho sphate &  & 184.15 & ▪ Carboxypeptidase
+1 & Diisopropy lfluoropho sphate & <img> id-imgb0113.tif </img> & 184.15 & ▪ Carboxypeptidase
 ▪ Chymotrypsin
 ▪ Complement
 ▪ Elastase
@@ -528,11 +529,11 @@ No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
 ▪ Thrombin
 ▪ Pronase
 ▪ Proteinase
-2 & 4- (2-Aminoethyl )benzenesu lfonyl fluoride hydrochlor ide (AEBSF) &  & 239.69 & ▪ Plasmin
+2 & 4- (2-Aminoethyl )benzenesu lfonyl fluoride hydrochlor ide (AEBSF) & <img> id-imgb0114.tif </img> & 239.69 & ▪ Plasmin
 ▪ Trypsin
 ▪ Chymotrypsin
-3 & 6-Aminocapro ic acid &  & 131.17 & 
-4 & Chymostati n &  & A : MW = 607.7 & ▪ Chymotrypsin
+3 & 6-Aminocapro ic acid & <img> id-imgb0115.tif </img> & 131.17 & 
+4 & Chymostati n & <img> id-imgb0116.tif </img> & A : MW = 607.7 & ▪ Chymotrypsin
 ▪ Papain
 ▪ Chymotrypsin-like serine proteinase
 B: MW = 593.7 & ▪ Cathepsin A, B, C, B, H, L
@@ -547,13 +548,13 @@ Chymotrypsin inhibitor (Continued)
 <header>
 No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
 </header>
-1 & N-p-Tosyl-L-phenylalan ine chlorometh yl ketone &  & 351.85 & ▪ Papain
+1 & N-p-Tosyl-L-phenylalan ine chlorometh yl ketone & <img> id-imgb0117.tif </img> & 351.85 & ▪ Papain
 ▪ Chymotrypsin
 ▪ Ficin
 ▪ Bromelain
-2 & Bromoenol lactone &  & 317.18 & 
-3 & Gabexate mesylate &  & 417.48 & 
-4 & Leupeptin &  & 426.55 & ▪ Plasmin
+2 & Bromoenol lactone & <img> id-imgb0118.tif </img> & 317.18 & 
+3 & Gabexate mesylate & <img> id-imgb0119.tif </img> & 417.48 & 
+4 & Leupeptin & <img> id-imgb0120.tif </img> & 426.55 & ▪ Plasmin
 ▪ Trypsin
 ▪ Papain
 ▪ Calpine
@@ -571,10 +572,10 @@ Clostripain inhibitor
 <header>
 No. & Name & Structural formula & Molecul ar weight & Protease to be inhibi ted
 </header>
-1 & 4-Chloromerc uribenzoic acid &  & 357.16 & ▪ Calpine
+1 & 4-Chloromerc uribenzoic acid & <img> id-imgb0121.tif </img> & 357.16 & ▪ Calpine
 ▪ Carboxypeptidase
 ▪ Clostripain
-2 & Nα-Tosyl-L-lysine chlorometh yl ketone hydrochlor ide &  & 369.31 & 
+2 & Nα-Tosyl-L-lysine chlorometh yl ketone hydrochlor ide & <img> id-imgb0122.tif </img> & 369.31 & 
 </table>
 <table>
 <header>
@@ -583,12 +584,12 @@ Collagenase inhibitor
 <header>
 No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
 </header>
-1 & EDTA disodium salt &  & 372.24 & 
+1 & EDTA disodium salt & <img> id-imgb0123.tif </img> & 372.24 & 
 ▪ Carboxypeptidase A
 ▪ Carboxypeptidase B
 ▪ Dispase
 ▪ Collagenase
-2 & Dichlorome thylene diphosphon ic acid disodium salt (DMDP) &  & 288.86 & 
+2 & Dichlorome thylene diphosphon ic acid disodium salt (DMDP) & <img> id-imgb0124.tif </img> & 288.86 & 
 </table>
 <table>
 <header>
@@ -597,7 +598,7 @@ Complement Clr/Cls inhibitor
 <header>
 No. & Name & Structural formula & Molecul ar weight & Protease to be inhibi ted
 </header>
-1 & Diisopropy lfluoropho sphate &  & 184.15 & ▪ Carboxypeptidase
+1 & Diisopropy lfluoropho sphate & <img> id-imgb0125.tif </img> & 184.15 & ▪ Carboxypeptidase
 ▪ Chymotrypsin
 ▪ Complement
 ▪ Elastase
@@ -615,7 +616,7 @@ Complement factor D/B inhibitor
 <header>
 No. & Name & Structural formula & Molecul ar weight & Protease to be inhibi ted
 </header>
-1 & Diisopropy lfluoropho sphate &  & 184.15 & ▪ Carboxypeptidase
+1 & Diisopropy lfluoropho sphate & <img> id-imgb0126.tif </img> & 184.15 & ▪ Carboxypeptidase
 ▪ Chymotrypsin
 ▪ Complement
 ▪ Elastase
@@ -633,7 +634,7 @@ Dipeptidyl peptidase II inhibitor
 <header>
 No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
 </header>
-1 & Puromycin &  & 471.51 & ▪ Dipeptidyl peptidase II
+1 & Puromycin & <img> id-imgb0127.tif </img> & 471.51 & ▪ Dipeptidyl peptidase II
 ▪ Cytosol alanyl aminopeptidase
 </table>
 <table>
@@ -643,7 +644,7 @@ Dipeptidyl peptidase III inhibitor
 <header>
 No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
 </header>
-1 & Opiorphin &  & 692.77 & ▪ Enkephalinase
+1 & Opiorphin & <img> id-imgb0128.tif </img> & 692.77 & ▪ Enkephalinase
 ▪ Neprilysin
 ▪ Dipeptidyl peptidase III
 ▪ Cytosol alanyl aminopeptidase
@@ -655,7 +656,7 @@ Dipeptidyl peptidase IV inhibitor
 <header>
 No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
 </header>
-1 & Ile-Pro-Ile &  & 341.45 & ▪ Dipeptidyl peptidase IV
+1 & Ile-Pro-Ile & <img> id-imgb0129.tif </img> & 341.45 & ▪ Dipeptidyl peptidase IV
 </table>
 <table>
 <header>
@@ -664,11 +665,11 @@ Dispase inhibitor
 <header>
 No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
 </header>
-1 & EDTA disodium salt &  & 372.24 & ▪ Carboxypeptidase A
+1 & EDTA disodium salt & <img> id-imgb0130.tif </img> & 372.24 & ▪ Carboxypeptidase A
 ▪ Carboxypeptidase B
 ▪ Dispase
 ▪ Collagenase
-2 & 1,10-Phenanthro line monohydrat e &  & 198.22 & ▪ Carboxypeptidase A
+2 & 1,10-Phenanthro line monohydrat e & <img> id-imgb0131.tif </img> & 198.22 & ▪ Carboxypeptidase A
 ▪ Carboxypeptidase B
 ▪ Dispase
 ▪ Leucine
@@ -682,7 +683,7 @@ Elastase (granulocyte) inhibitor
 <header>
 No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
 </header>
-1 & N-(Methoxysu ccinyl)-Ala-Ala-Pro-Val-chlorometh yl ketone &  & 502.99 & 
+1 & N-(Methoxysu ccinyl)-Ala-Ala-Pro-Val-chlorometh yl ketone & <img> id-imgb0132.tif </img> & 502.99 & 
 </table>
 <table>
 <header>
@@ -691,7 +692,7 @@ Elastase (leukocyte) inhibitor
 <header>
 No. & Name & Structural formula & Molecul ar weight & Protease to be inhibi ted
 </header>
-1 & Diisopropy lfluoropho sphate &  & 184.15 & ▪ Carboxypeptidase
+1 & Diisopropy lfluoropho sphate & <img> id-imgb0133.tif </img> & 184.15 & ▪ Carboxypeptidase
 ▪ Chymotrypsin
 ▪ Complement
 ▪ Elastase
@@ -701,10 +702,10 @@ No. & Name & Structural formula & Molecul ar weight & Protease to be inhibi ted
 ▪ Thrombin
 ▪ Pronase
 ▪ Proteinase
-2 & 3,4-Dichlorois ocoumarin &  & 215.03 & ▪ Thrombin
+2 & 3,4-Dichlorois ocoumarin & <img> id-imgb0134.tif </img> & 215.03 & ▪ Thrombin
 ▪ Papain
 ▪ Plasmin
-3 & Phenylmeth anesulfony l fluoride &  & 174.19 & ▪ Thrombin
+3 & Phenylmeth anesulfony l fluoride & <img> id-imgb0135.tif </img> & 174.19 & ▪ Thrombin
 ▪ Elastase
 ▪ Plasmin
 ▪ Proteinase
@@ -716,7 +717,7 @@ Elastase (pancreas) inhibitor
 <header>
 No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
 </header>
-1 & Diisopropy lfluoropho sphate &  & 184.15 & ▪ Carboxypeptidase
+1 & Diisopropy lfluoropho sphate & <img> id-imgb0136.tif </img> & 184.15 & ▪ Carboxypeptidase
 ▪ Chymotrypsin
 ▪ Complement
 ▪ Elastase
@@ -726,7 +727,7 @@ No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
 ▪ Thrombin
 ▪ Pronase
 ▪ Proteinase
-2 & 3,4-Dichlorois ocoumarin &  & 215.03 & ▪ Thrombin
+2 & 3,4-Dichlorois ocoumarin & <img> id-imgb0137.tif </img> & 215.03 & ▪ Thrombin
 ▪ Papain
 ▪ Plasmin
 </table>
@@ -737,7 +738,7 @@ Endoproteinase Arg-C inhibitor
 <header>
 No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
 </header>
-1 & Diisopropy lfluoropho sphate &  & 184.15 & ▪ Carboxypeptidase
+1 & Diisopropy lfluoropho sphate & <img> id-imgb0138.tif </img> & 184.15 & ▪ Carboxypeptidase
 ▪ Chymotrypsin
 ▪ Complement
 ▪ Elastase
@@ -747,7 +748,7 @@ No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
 ▪ Thrombin
 ▪ Pronase
 ▪ Proteinase
-2 & 3,4-Dichlorois ocoumarin &  & 215.03 & ▪ Thrombin
+2 & 3,4-Dichlorois ocoumarin & <img> id-imgb0139.tif </img> & 215.03 & ▪ Thrombin
 ▪ Papain
 ▪ Plasmin
 </table>
@@ -756,7 +757,7 @@ No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
 No. & Name & Structural formula & Molecul ar weight & Protease to be inhibi ted
 </header>
 Endoproteinase Glu-C inhibitor
-1 & Diisopropy Ifluoropho sphate &  & 184.15 & ▪Carboxypeptidase
+1 & Diisopropy Ifluoropho sphate & <img> id-imgb0140.tif </img> & 184.15 & ▪Carboxypeptidase
 ▪Chymotrypsin
 ▪Complement
 ▪Elastase
@@ -774,7 +775,7 @@ Endoproteinase Lys-C inhibitor
 <header>
 No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
 </header>
-1 & Diisopropy Ifluoropho sphate &  & 184.15 & ▪Carboxypeptidase
+1 & Diisopropy Ifluoropho sphate & <img> id-imgb0141.tif </img> & 184.15 & ▪Carboxypeptidase
 ▪Chymotrypsin
 ▪Complement
 ▪Elastase
@@ -784,10 +785,10 @@ No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
 ▪Thrombin
 ▪Pronase
 ▪Proteinase
-2 & 3,4-Dichlorois ocoumarin &  & 215.03 & ▪Thrombin
+2 & 3,4-Dichlorois ocoumarin & <img> id-imgb0142.tif </img> & 215.03 & ▪Thrombin
 ▪Papain
 ▪Plasmin
-3 & Leupeptin &  & 426.55 & ▪Plasmin
+3 & Leupeptin & <img> id-imgb0143.tif </img> & 426.55 & ▪Plasmin
 ▪Trypsin
 ▪Papain
 ▪Calpine
@@ -805,21 +806,21 @@ Ficin inhibitor
 <header>
 No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
 </header>
-1 & E-64 &  & 357.41 & ▪Cathepsin B
+1 & E-64 & <img> id-imgb0144.tif </img> & 357.41 & ▪Cathepsin B
 ▪Ficin
 ▪Papain
 ▪Bromelain
-2 & N-Ethylmalei mide &  & 125.13 & ▪Calpine
+2 & N-Ethylmalei mide & <img> id-imgb0145.tif </img> & 125.13 & ▪Calpine
 ▪Ficin
-3 & N-p-Tosyl-L-phenilalan ine chlorometh yl ketone &  & 351.85 & ▪Papain
+3 & N-p-Tosyl-L-phenilalan ine chlorometh yl ketone & <img> id-imgb0146.tif </img> & 351.85 & ▪Papain
 ▪Chymotrypsin
 ▪Ficin
 ▪Bromelain
-4 & Sodium iodoacetat e &  & 207.93 & ▪Carboxypeptidase P
+4 & Sodium iodoacetat e & <img> id-imgb0147.tif </img> & 207.93 & ▪Carboxypeptidase P
 ▪Bromelain
 ▪Ficin
 ▪Cathepsin
-5 & Nα-Tosyl-L-lysine chlorometh yl ketone hydrochlor ide &  & 369.31 & 
+5 & Nα-Tosyl-L-lysine chlorometh yl ketone hydrochlor ide & <img> id-imgb0148.tif </img> & 369.31 & 
 </table>
 <table>
 <header>
@@ -828,7 +829,7 @@ Granzyme B inhibitor
 <header>
 No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
 </header>
-1 & Antipain dihydrochl oride from microbial source &  & 677.62 & ▪Calpine
+1 & Antipain dihydrochl oride from microbial source & <img> id-imgb0149.tif </img> & 677.62 & ▪Calpine
 ▪Papain
 ▪Trypsin
 ▪Cathepsin A
@@ -839,7 +840,7 @@ No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
 ▪Pepsin
 ▪Granzyme B
 ▪Thrombin
-2 & 3,4-Dichlorois ocoumarin &  & 215.03 & ▪Thrombin
+2 & 3,4-Dichlorois ocoumarin & <img> id-imgb0150.tif </img> & 215.03 & ▪Thrombin
 ▪Papain
 ▪Plasmin
 </table>
@@ -850,7 +851,7 @@ Kallikrein (tissue) inhibitor
 <header>
 No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
 </header>
-1 & Diisopropy Ifluoropho sphate &  & 184.15 & ▪Carboxypeptidase
+1 & Diisopropy Ifluoropho sphate & <img> id-imgb0151.tif </img> & 184.15 & ▪Carboxypeptidase
 ▪Chymotrypsin
 ▪Complement
 ▪Elastase
@@ -860,10 +861,10 @@ No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
 ▪Thrombin
 ▪Pronase
 ▪Proteinase
-2 & 3,4-Dichlorois ocoumarin &  & 215.03 & ▪Thrombin
+2 & 3,4-Dichlorois ocoumarin & <img> id-imgb0152.tif </img> & 215.03 & ▪Thrombin
 ▪Papain
 ▪Plasmin
-3 & Leupeptin &  & 426.55 & ▪Plasmin
+3 & Leupeptin & <img> id-imgb0153.tif </img> & 426.55 & ▪Plasmin
 ▪Trypsin
 ▪Papain
 ▪Calpine
@@ -881,7 +882,7 @@ Kallikrein (plasma) inhibitor
 <header>
 No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
 </header>
-1 & Gabexate mesylate &  & 417.48 & 
+1 & Gabexate mesylate & <img> id-imgb0154.tif </img> & 417.48 & 
 </table>
 <table>
 <header>
@@ -890,8 +891,8 @@ Leucine aminopeptidase inhibitor
 <header>
 No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
 </header>
-1 & Actinonin &  & 385.5 & 
-2 & Bestatin hydrochlor ide &  & 344.83 & ▪Aminopeptidase B
+1 & Actinonin & <img> id-imgb0155.tif </img> & 385.5 & 
+2 & Bestatin hydrochlor ide & <img> id-imgb0156.tif </img> & 344.83 & ▪Aminopeptidase B
 </table>
 <table>
 <header>
@@ -900,10 +901,10 @@ Leucine aminopeptidase (cytosol) inhibitor
 <header>
 No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
 </header>
-1 & Actinonin &  & 385.5 & 
-2 & Amastatin hydrochlor ide hydrate &  & 511.01 (anhydr ous basis) & 
-3 & Ethylene glycol-bis (2-aminoethyl ether)-N,N,N',N'-tetraaceti c acid &  & 380.35 & 
-4 & Ethylenedi aminetetra acetic acid disodium salt dihydrate &  & 372.24 & 
+1 & Actinonin & <img> id-imgb0157.tif </img> & 385.5 & 
+2 & Amastatin hydrochlor ide hydrate & <img> id-imgb0158.tif </img> & 511.01 (anhydr ous basis) & 
+3 & Ethylene glycol-bis (2-aminoethyl ether)-N,N,N',N'-tetraaceti c acid & <img> id-imgb0159.tif </img> & 380.35 & 
+4 & Ethylenedi aminetetra acetic acid disodium salt dihydrate & <img> id-imgb0160.tif </img> & 372.24 & 
 </table>
 <table>
 <header>
@@ -912,16 +913,16 @@ Leucine aminopeptidase (cytosol) inhibitor (Continued)
 <header>
 No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
 </header>
-5 & Diethylene triaminepe ntaacetic acid &  & 393.35 & 
-6 & 3,4-Dichlorois ocoumarin &  & 215.03 & ▪Thrombin
+5 & Diethylene triaminepe ntaacetic acid & <img> id-imgb0161.tif </img> & 393.35 & 
+6 & 3,4-Dichlorois ocoumarin & <img> id-imgb0162.tif </img> & 215.03 & ▪Thrombin
 ▪Papain
 ▪Plasmin
-7 & 1,10-Phenanthro line monohydrat e &  & 198.22 & ▪Carboxypeptidase A
+7 & 1,10-Phenanthro line monohydrat e & <img> id-imgb0163.tif </img> & 198.22 & ▪Carboxypeptidase A
 ▪Carboxypeptidase B
 ▪Dispase
 ▪Leucine aminopeptidase
 ▪Thermolysin
-8 & Bestatin hydrochlor ide &  & 344.83 & ▪AminopeptidaseB
+8 & Bestatin hydrochlor ide & <img> id-imgb0164.tif </img> & 344.83 & ▪AminopeptidaseB
 </table>
 <table>
 <header>
@@ -930,9 +931,9 @@ Leucine aminopeptidase (microsome) inhibitor
 <header>
 No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
 </header>
-1 & Actinonin &  & 385.5 & 
-2 & Amastatin hydrochlor ide hydrate &  & 511.01 (anhydr ous basis) & 
-3 & Bestatin hydrochlor ide &  & 344.83 & ▪Aminopeptidase B
+1 & Actinonin & <img> id-imgb0165.tif </img> & 385.5 & 
+2 & Amastatin hydrochlor ide hydrate & <img> id-imgb0166.tif </img> & 511.01 (anhydr ous basis) & 
+3 & Bestatin hydrochlor ide & <img> id-imgb0167.tif </img> & 344.83 & ▪Aminopeptidase B
 </table>
 <table>
 <header>
@@ -941,7 +942,7 @@ Matrix aminopeptidase inhibitor
 <header>
 No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
 </header>
-1 & GM6001 &  & 388.46 & 
+1 & GM6001 & <img> id-imgb0168.tif </img> & 388.46 & 
 </table>
 <table>
 <header>
@@ -950,7 +951,7 @@ Metalloprotease inhibitor
 <header>
 No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
 </header>
-1 & Epiamastat in hydrochlor ide &  & 474.55 & 
+1 & Epiamastat in hydrochlor ide & <img> id-imgb0169.tif </img> & 474.55 & 
 </table>
 <table>
 <header>
@@ -959,9 +960,9 @@ Papain inhibitor
 <header>
 No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
 </header>
-1 & E-64 &  & 357.41 & 
-2 & Gly-Gly-Tyr-Arg &  & 451.48 & 
-3 & Antipain dihydrochl oride from microbial source &  & 677.62 & ▪Calpine
+1 & E-64 & <img> id-imgb0170.tif </img> & 357.41 & 
+2 & Gly-Gly-Tyr-Arg & <img> id-imgb0171.tif </img> & 451.48 & 
+3 & Antipain dihydrochl oride from microbial source & <img> id-imgb0172.tif </img> & 677.62 & ▪Calpine
 ▪Papain
 ▪Trypsin
 ▪Cathepsin A
@@ -972,7 +973,7 @@ No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
 ▪Pepsin
 ▪Granzyme B
 ▪Thrombin
-4 & Ebselen &  & 274.18 & 
+4 & Ebselen & <img> id-imgb0173.tif </img> & 274.18 & 
 </table>
 <table>
 <header>
@@ -981,21 +982,21 @@ Papain inhibitor (Continued)
 <header>
 No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
 </header>
-5 & Chymostati n &  & A: MW = 607.7 & ▪Chymotrypsin
+5 & Chymostati n & <img> id-imgb0174.tif </img> & A: MW = 607.7 & ▪Chymotrypsin
 B: MW = 593.7 & ▪Papain
 ▪Chymotrypsin-like serine proteinase
 Chymostatin A X = Leu & C: MW = 607.7 & ▪Cathepsin A, B, C, B, H, L
 Chymostatin B X = Val & ▪Proteasome (β5)
 Chymostatin C X = Ile & 
-6 & Cystamine dihydrochl oride &  & 225.2 & 
-7 & 3,4-Dichlorois ocoumarin &  & 215.03 & ▪Thrombin
+6 & Cystamine dihydrochl oride & <img> id-imgb0175.tif </img> & 225.2 & 
+7 & 3,4-Dichlorois ocoumarin & <img> id-imgb0176.tif </img> & 215.03 & ▪Thrombin
 ▪Papain
 ▪Plasmin
-8 & N-p-Tosyl-L-phenilalan ine chlorometh yl ketone &  & 351.85 & ▪Papain
+8 & N-p-Tosyl-L-phenilalan ine chlorometh yl ketone & <img> id-imgb0177.tif </img> & 351.85 & ▪Papain
 ▪Chymotrypsin
 ▪Ficin
 ▪Bromelain
-9 & Leupeptin &  & 426.55 & ▪Plasmin
+9 & Leupeptin & <img> id-imgb0178.tif </img> & 426.55 & ▪Plasmin
 ▪Trypsin
 ▪Papain
 ▪Calpine
@@ -1013,7 +1014,7 @@ Pepsin inhibitor
 <header>
 No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
 </header>
-1 & Pepstatin A &  & 685.89 & ▪Cathepsin D
+1 & Pepstatin A & <img> id-imgb0179.tif </img> & 685.89 & ▪Cathepsin D
 </table>
 <table>
 <header>
@@ -1022,7 +1023,7 @@ Plasmin inhibitor
 <header>
 No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
 </header>
-1 & Diisopropy Ifluoropho sphate &  & 184.15 & ▪Carboxypeptidase
+1 & Diisopropy Ifluoropho sphate & <img> id-imgb0180.tif </img> & 184.15 & ▪Carboxypeptidase
 ▪Chymotrypsin
 ▪Complement
 ▪Elastase
@@ -1032,12 +1033,12 @@ No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
 ▪Thrombin
 ▪Pronase
 ▪Proteinase
-2 & Elastatina 1 &  & 512.56 & 
-3 & 4-(2-Aminoethyl )benzenesu lfonyl fluoride hydrochlor ide (AEBSF) &  & 239.69 & ▪Plasmin
+2 & Elastatina 1 & <img> id-imgb0181.tif </img> & 512.56 & 
+3 & 4-(2-Aminoethyl )benzenesu lfonyl fluoride hydrochlor ide (AEBSF) & <img> id-imgb0182.tif </img> & 239.69 & ▪Plasmin
 ▪Trypsin
 ▪Chymotrypsin
-4 & 6-Aminocapro ic acid &  & 131.17 & 
-5 & Antipain dihydrochl oride from microbial source &  & 677.62 & ▪Calpine
+4 & 6-Aminocapro ic acid & <img> id-imgb0183.tif </img> & 131.17 & 
+5 & Antipain dihydrochl oride from microbial source & <img> id-imgb0184.tif </img> & 677.62 & ▪Calpine
 ▪Papain
 ▪Trypsin
 ▪Cathepsin A
@@ -1056,15 +1057,15 @@ Plasmin inhibitor (Continued)
 <header>
 No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
 </header>
-6 & 3,4-Dichlorois ocoumarin &  & 215.03 & ▪Thrombin
+6 & 3,4-Dichlorois ocoumarin & <img> id-imgb0185.tif </img> & 215.03 & ▪Thrombin
 ▪Papain
 ▪Plasmin
-7 & Phenylmeth anesulfony 1 fluoride &  & 174.19 & ▪Thrombin
+7 & Phenylmeth anesulfony 1 fluoride & <img> id-imgb0186.tif </img> & 174.19 & ▪Thrombin
 ▪Elastase
 ▪Plasmin
 ▪Proteinase
-8 & Gabexate mesylate &  & 417.48 & 
-9 & Leupeptin &  & 426.55 & ▪Plasmin
+8 & Gabexate mesylate & <img> id-imgb0187.tif </img> & 417.48 & 
+9 & Leupeptin & <img> id-imgb0188.tif </img> & 426.55 & ▪Plasmin
 ▪Trypsin
 ▪Papain
 ▪Calpine
@@ -1082,7 +1083,7 @@ Thrombin inhibitor
 <header>
 No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
 </header>
-1 & Diisopropy Ifluoropho sphate &  & 184.15 & ▪Carboxypeptidase
+1 & Diisopropy Ifluoropho sphate & <img> id-imgb0189.tif </img> & 184.15 & ▪Carboxypeptidase
 ▪Chymotrypsin
 ▪Complement
 ▪Elastase
@@ -1092,9 +1093,9 @@ No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
 ▪Thrombin
 ▪Pronase
 ▪Proteinase
-2 & Nα-Tosyl-L-lysine chlorometh yl ketone hydrochlor ide &  & 369.31 & 
-3 & 4- (2-Aminoethyl )benzenesu lfonyl fluoride hydrochlor ide (AEBSF) &  & 239.69 & 
-4 & Antipain dihydrochl oride from microbial source &  & 677.62 & ▪Calpine
+2 & Nα-Tosyl-L-lysine chlorometh yl ketone hydrochlor ide & <img> id-imgb0190.tif </img> & 369.31 & 
+3 & 4- (2-Aminoethyl )benzenesu lfonyl fluoride hydrochlor ide (AEBSF) & <img> id-imgb0191.tif </img> & 239.69 & 
+4 & Antipain dihydrochl oride from microbial source & <img> id-imgb0192.tif </img> & 677.62 & ▪Calpine
 ▪Papain
 ▪Trypsin
 ▪Cathepsin A
@@ -1111,15 +1112,15 @@ Thrombin inhibitor (Continued)
 <header>
 No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
 </header>
-5 & 3,4-Dichlorois ocoumarin &  & 215.03 & ▪Thrombin
+5 & 3,4-Dichlorois ocoumarin & <img> id-imgb0193.tif </img> & 215.03 & ▪Thrombin
 ▪Papain
 ▪Plasmin
-6 & Phenylmeth anesulfony 1 fluoride &  & 174.19 & ▪Thrombin
+6 & Phenylmeth anesulfony 1 fluoride & <img> id-imgb0194.tif </img> & 174.19 & ▪Thrombin
 ▪Elastase
 ▪Plasmin
 ▪Proteinase
-7 & Gabexate mesylate &  & 417.48 & 
-8 & Leupeptin &  & 426.55 & ▪Plasmin
+7 & Gabexate mesylate & <img> id-imgb0195.tif </img> & 417.48 & 
+8 & Leupeptin & <img> id-imgb0196.tif </img> & 426.55 & ▪Plasmin
 ▪Trypsin
 ▪Papain
 ▪Calpine
@@ -1137,20 +1138,20 @@ Thermolysin inhibitor
 <header>
 No. & Name & Structural formula & Molecul ar weight & Protease to be inhibi ted
 </header>
-1 & Ethylene glycol-bis (2-aminoethyl ether)-N,N,N',N'-tetraaceti c acid &  & 380.35 & 
-2 & Ethylenedi aminetetra acetic acid disodium salt dihydrate &  & 372.24 & 
+1 & Ethylene glycol-bis (2-aminoethyl ether)-N,N,N',N'-tetraaceti c acid & <img> id-imgb0197.tif </img> & 380.35 & 
+2 & Ethylenedi aminetetra acetic acid disodium salt dihydrate & <img> id-imgb0198.tif </img> & 372.24 & 
 ▪Carboxypeptidase A
 ▪Carboxypeptidase B
 ▪Dispase
 ▪Collagenase
-3 & Diethylene triaminepe ntaacetic acid &  & 393.35 & 
-4 & 1,10-Phenanthro line monohydrat e &  & 198.22 & ▪Carboxypeptidase A
+3 & Diethylene triaminepe ntaacetic acid & <img> id-imgb0199.tif </img> & 393.35 & 
+4 & 1,10-Phenanthro line monohydrat e & <img> id-imgb0200.tif </img> & 198.22 & ▪Carboxypeptidase A
 ▪Carboxypeptidase B
 ▪Dispase
 ▪Leucine
 aminopeptidase
 ▪ Thermolysin
-5 & Phosphoram idon disodium salt &  & 587.47 & 
+5 & Phosphoram idon disodium salt & <img> id-imgb0201.tif </img> & 587.47 & 
 </table>
 <table>
 <header>
@@ -1159,10 +1160,10 @@ Trypsin inhibitor
 <header>
 No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
 </header>
-1 & 4-(2-Aminoethyl )benzenesu lfonyl fluoride hydrochlor ide &  & 239.69 & ▪Plasmin
+1 & 4-(2-Aminoethyl )benzenesu lfonyl fluoride hydrochlor ide & <img> id-imgb0202.tif </img> & 239.69 & ▪Plasmin
 ▪Trypsin
 ▪Chymotrypsin
-2 & Antipain dihydrochl oride from microbial source &  & 677.62 & ▪Calpine
+2 & Antipain dihydrochl oride from microbial source & <img> id-imgb0203.tif </img> & 677.62 & ▪Calpine
 ▪Papain
 ▪Trypsin
 ▪Cathepsin A
@@ -1173,7 +1174,7 @@ No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
 ▪Pepsin
 ▪Granzyme B
 ▪Thrombin
-3 & Boldine &  & 327.37 & 
+3 & Boldine & <img> id-imgb0204.tif </img> & 327.37 & 
 </table>
 <table>
 <header>
@@ -1182,11 +1183,11 @@ Pronase E inhibitor
 <header>
 No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
 </header>
-1 & EDTA disodium salt &  & 372.24 & ▪Carboxypeptidase A
+1 & EDTA disodium salt & <img> id-imgb0205.tif </img> & 372.24 & ▪Carboxypeptidase A
 ▪Carboxypeptidase B
 ▪Dispase
 ▪Collagenase
-2 & Diisopropy Ifluoropho sphate &  & 184.15 & ▪Carboxypeptidase
+2 & Diisopropy Ifluoropho sphate & <img> id-imgb0206.tif </img> & 184.15 & ▪Carboxypeptidase
 ▪Chymotrypsin
 ▪Complement
 ▪Elastase
@@ -1204,8 +1205,8 @@ Procaspase 3 inhibitor
 <header>
 No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
 </header>
-1 & N-Acetyl-Glu-Ser-Met-Asp-al (Ac-ESMD-CHO) &  & 506.53 & 
-2 & N-Acetyl-Ile-Glu-Thr-Asp-al (Ac-IETD-CHO) &  & 502.52 & 
+1 & N-Acetyl-Glu-Ser-Met-Asp-al (Ac-ESMD-CHO) & <img> id-imgb0207.tif </img> & 506.53 & 
+2 & N-Acetyl-Ile-Glu-Thr-Asp-al (Ac-IETD-CHO) & <img> id-imgb0208.tif </img> & 502.52 & 
 </table>
 <table>
 <header>
@@ -1214,11 +1215,11 @@ Proteinase K inhibitor
 <header>
 No. & Name & Structural formula & Molecul ar weight & Protease to be inhibi ted
 </header>
-1 & Phenylmeth anesulfony 1 fluoride &  & 174.19 & ▪Thrombin
+1 & Phenylmeth anesulfony 1 fluoride & <img> id-imgb0209.tif </img> & 174.19 & ▪Thrombin
 ▪Elastase
 ▪Plasmin
 ▪Proteinase
-2 & Diisopropy Ifluoropho sphate &  & 184.15 & ▪Carboxypeptidase
+2 & Diisopropy Ifluoropho sphate & <img> id-imgb0210.tif </img> & 184.15 & ▪Carboxypeptidase
 ▪Chymotrypsin
 ▪Complement
 ▪Elastase
@@ -1236,7 +1237,7 @@ Renin inhibitor
 <header>
 No. & Name & Structural formula & Molecul ar weight & Protease to be inhibi ted
 </header>
-1 & Pepstatin A &  & 685.89 & ▪Cathepsin D
+1 & Pepstatin A & <img> id-imgb0211.tif </img> & 685.89 & ▪Cathepsin D
 </table>
 <table>
 <header>
@@ -1245,8 +1246,8 @@ Caspase inhibitor
 <header>
 No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
 </header>
-1 & Boc Asp(OMe)-fluorometh yl ketone (Boc-D-FMK) &  & 263.26 & 
-2 & Z-Ala-Glu(OMe)-Val-Asp(OMe)-fluorometh yl ketone (Z-AEVD-FMK) &  & 610.63 & 
+1 & Boc Asp(OMe)-fluorometh yl ketone (Boc-D-FMK) & <img> id-imgb0212.tif </img> & 263.26 & 
+2 & Z-Ala-Glu(OMe)-Val-Asp(OMe)-fluorometh yl ketone (Z-AEVD-FMK) & <img> id-imgb0213.tif </img> & 610.63 & 
 </table>
 <table>
 <header>
@@ -1255,7 +1256,7 @@ Caspase 1 inhibitor
 <header>
 No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
 </header>
-1 & N-Acetyl-Trp-Glu-His-Asp-al (Ac-WEHD-CHO) &  & 611.6 & 
+1 & N-Acetyl-Trp-Glu-His-Asp-al (Ac-WEHD-CHO) & <img> id-imgb0214.tif </img> & 611.6 & 
 </table>
 <table>
 <header>
@@ -1264,8 +1265,8 @@ Caspase 2 inhibitor
 <header>
 No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
 </header>
-1 & N-Acetyl-Val-Asp-Val-Ala-Asp-CHO (Ac-VDVAD-CHO) &  & 543.52 & 
-2 & Z-Val-Asp(O-Me)-Val-Ala-Asp (O-Me) fluorom ethyl ketone (Z-VDVAD-FMK) &  & 695.73 & 
+1 & N-Acetyl-Val-Asp-Val-Ala-Asp-CHO (Ac-VDVAD-CHO) & <img> id-imgb0215.tif </img> & 543.52 & 
+2 & Z-Val-Asp(O-Me)-Val-Ala-Asp (O-Me) fluorom ethyl ketone (Z-VDVAD-FMK) & <img> id-imgb0216.tif </img> & 695.73 & 
 </table>
 <table>
 <header>
@@ -1274,10 +1275,10 @@ Caspase 3 inhibitor
 <header>
 No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
 </header>
-1 & N-Acetyl-Glu-Ser-Met-Asp-al (Ac-ESMD-CHO) &  & 506.53 & 
-2 & Z-Asp(OMe)-Gln-Met-Asp (OMe) fl uoromethyl ketone &  & 685.72 & 
-3 & N-Acetyl-Asp-Glu-Val-Asp-al (Ac-DEVD-CHO) &  & 502.47 & 
-4 & N-Acetyl-Ile-Glu-Thr-Asp-al (Ac-IETD-CHO) &  & 502.52 & 
+1 & N-Acetyl-Glu-Ser-Met-Asp-al (Ac-ESMD-CHO) & <img> id-imgb0217.tif </img> & 506.53 & 
+2 & Z-Asp(OMe)-Gln-Met-Asp (OMe) fl uoromethyl ketone & <img> id-imgb0218.tif </img> & 685.72 & 
+3 & N-Acetyl-Asp-Glu-Val-Asp-al (Ac-DEVD-CHO) & <img> id-imgb0219.tif </img> & 502.47 & 
+4 & N-Acetyl-Ile-Glu-Thr-Asp-al (Ac-IETD-CHO) & <img> id-imgb0220.tif </img> & 502.52 & 
 </table>
 <table>
 <header>
@@ -1286,7 +1287,7 @@ Caspase 5 inhibitor
 <header>
 No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
 </header>
-1 & N-Acetyl-Trp-Glu-His-Asp-al (Ac-WEHD-CHO) &  & 611.6 & 
+1 & N-Acetyl-Trp-Glu-His-Asp-al (Ac-WEHD-CHO) & <img> id-imgb0221.tif </img> & 611.6 & 
 </table>
 <table>
 <header>
@@ -1295,9 +1296,9 @@ Caspase 6 inhibitor
 <header>
 No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
 </header>
-1 & N-Acetyl-Val-Glu-Ile-Asp-al &  & 500.54 & 
-2 & Z-Asp(OMe)-Gln-Met-Asp (OMe) fl uoromethyl ketone &  & 685.72 & 
-3 & Z-Val-Glu(O-Me)-Ile-Asp (O-Me)fluorom ethyl ketone &  & 652.71 & 
+1 & N-Acetyl-Val-Glu-Ile-Asp-al & <img> id-imgb0222.tif </img> & 500.54 & 
+2 & Z-Asp(OMe)-Gln-Met-Asp (OMe) fl uoromethyl ketone & <img> id-imgb0223.tif </img> & 685.72 & 
+3 & Z-Val-Glu(O-Me)-Ile-Asp (O-Me)fluorom ethyl ketone & <img> id-imgb0224.tif </img> & 652.71 & 
 </table>
 <table>
 <header>
@@ -1306,7 +1307,7 @@ Caspase 7 inhibitor
 <header>
 No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
 </header>
-1 & Z-Asp(O-Me)-Glu(O-Me)-Val-Asp(O-Me)fluoeom ethyl ketone (Z-DEVD-FMK) &  & 668.66 & 
+1 & Z-Asp(O-Me)-Glu(O-Me)-Val-Asp(O-Me)fluoeom ethyl ketone (Z-DEVD-FMK) & <img> id-imgb0225.tif </img> & 668.66 & 
 </table>
 <table>
 <header>
@@ -1315,9 +1316,9 @@ Caspase 8 inhibitor
 <header>
 No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
 </header>
-1 & Z-Ile-Glu (O-Me) - Thr-Asp (O-Me)fluorom ethyl ketone (Z-IETD-FMK) &  & 654.68 & 
-2 & Z-Leu-Glu (OMe)-Thr-Asp (OMe)-fluorometh yl ketone (Z-LETD-FMK) &  & 655.69 & 
-3 & N-Acetyl-Ile-Glu-Thr-Asp-al (Ac-IETD-CHO) &  & 502.52 & 
+1 & Z-Ile-Glu (O-Me) - Thr-Asp (O-Me)fluorom ethyl ketone (Z-IETD-FMK) & <img> id-imgb0226.tif </img> & 654.68 & 
+2 & Z-Leu-Glu (OMe)-Thr-Asp (OMe)-fluorometh yl ketone (Z-LETD-FMK) & <img> id-imgb0227.tif </img> & 655.69 & 
+3 & N-Acetyl-Ile-Glu-Thr-Asp-al (Ac-IETD-CHO) & <img> id-imgb0228.tif </img> & 502.52 & 
 </table>
 <table>
 <header>
@@ -1326,7 +1327,7 @@ Caspase 9 inhibitor
 <header>
 No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
 </header>
-1 & Z-Leu-Glu (O-Me)-His-Asp (O-Me)fluorom ethyl ketone (Z-LE(OMe)HD( OMe) - FMK, Z-LEHD-FMK) &  & 690.72 & 
+1 & Z-Leu-Glu (O-Me)-His-Asp (O-Me)fluorom ethyl ketone (Z-LE(OMe)HD( OMe) - FMK, Z-LEHD-FMK) & <img> id-imgb0229.tif </img> & 690.72 & 
 </table>
 <table>
 <header>
@@ -1335,7 +1336,7 @@ Caspase 13 inhibitor
 <header>
 No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
 </header>
-1 & Z-Leu-Glu(OMe)-Glu(OMe)-Asp(OMe)-fluorometh yl ketone (Z-LEED-FMK) &  & 696.72 & 
+1 & Z-Leu-Glu(OMe)-Glu(OMe)-Asp(OMe)-fluorometh yl ketone (Z-LEED-FMK) & <img> id-imgb0230.tif </img> & 696.72 & 
 </table>
 <table>
 <header>
@@ -1344,9 +1345,9 @@ Cytosol alanyl aminopeptidase inhibitor
 <header>
 No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
 </header>
-1 & Puromycin &  & 471.51 & ▪Dipeptidyl peptidase II
+1 & Puromycin & <img> id-imgb0231.tif </img> & 471.51 & ▪Dipeptidyl peptidase II
 ▪Cytosol alanyl aminopeptidase
-2 & Opiorphin &  & 692.77 & ▪Enkephalinase
+2 & Opiorphin & <img> id-imgb0232.tif </img> & 692.77 & ▪Enkephalinase
 ▪Neprilysin
 ▪Dipeptidyl peptidase III
 ▪Cytosol alanyl aminopeptidase
@@ -1358,7 +1359,7 @@ Enkephalinase inhibitor
 <header>
 No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
 </header>
-1 & Opiorphin &  & 692.77 & ▪Enkephalinase
+1 & Opiorphin & <img> id-imgb0233.tif </img> & 692.77 & ▪Enkephalinase
 ▪Neprilysin
 ▪Dipeptidyl peptidase III
 ▪Cytosol alanyl aminopeptidase
@@ -1370,7 +1371,7 @@ Neprilysin inhibitor
 <header>
 No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
 </header>
-1 & Opiorphin &  & 692.77 & ▪Enkephalinase
+1 & Opiorphin & <img> id-imgb0234.tif </img> & 692.77 & ▪Enkephalinase
 ▪Neprilysin
 ▪Dipeptidyl peptidase III
 ▪Cytosol alanyl aminopeptidase
@@ -1381,14 +1382,14 @@ Examples of the compound which can inhibit the activities of both a proteasome a
 <header>
 No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
 </header>
-1 & Calpain Inhibitor I (ALLN, Ac-LLnL-CHO, MG-101) &  & 383.53 & ▪Proteasome
+1 & Calpain Inhibitor I (ALLN, Ac-LLnL-CHO, MG-101) & <img> id-imgb0235.tif </img> & 383.53 & ▪Proteasome
 ▪Cathepsin B
 ▪Cathepsin L
 ▪Calpine
-2 & Calpain Inhibitor II &  & 401.56 & ▪Proteasome
+2 & Calpain Inhibitor II & <img> id-imgb0236.tif </img> & 401.56 & ▪Proteasome
 ▪Cathepsin B
 ▪Calpine
-3 & Leupeptin &  & 426.55 & ▪Plasmin
+3 & Leupeptin & <img> id-imgb0237.tif </img> & 426.55 & ▪Plasmin
 ▪Trypsin
 ▪Papain
 ▪Calpine
@@ -1398,14 +1399,14 @@ No. & Name & Structural formula & Molecul ar weight & Protease to be inhibited
 ▪Endoproteinase
 ▪Chymotrypsin
 ▪Proteasome (β2)
-4 & Chymostati n &  & A: MW = 607.7 & ▪Proteasome (β5)
+4 & Chymostati n & <img> id-imgb0238.tif </img> & A: MW = 607.7 & ▪Proteasome (β5)
 ▪Chymotrypsin
 B: MW = 593.7 & ▪Papain
 ▪Chymotrypsin-like serine proteinase
 Chymostatin A X = Leu & C: MW = 607.7 & ▪Cathepsin A, B, C, B, H, L
 Chymostatin B X = Val
 Chymostatin C X = Ile
-5 & clasto-Lactacysti n β-lactone &  & 213.23 & ▪tripeptidyl peptidase II
+5 & clasto-Lactacysti n β-lactone & <img> id-imgb0239.tif </img> & 213.23 & ▪tripeptidyl peptidase II
 ▪chlamydial protease-like activity factor
 </table>
 In another embodiment, a proteasome activator can be used as a protein-degradation inducing tag. A proteasome activator is a compound having an affinity with a proteasome (a protease complex) without inhibiting degradation of a protein by the proteasome, and can be used as a protein-degradation inducing tag. That is, according to the present disclosure, use of a proteasome activator as a protein-degradation inducing tag is provided.
@@ -1417,8 +1418,8 @@ Examples of the proteasome activator are shown in the following Tables 80 to 82.
 <header>
 No. & Generic name / Product name & Structural formula & Molecular weight
 </header>
-1 & Oleuropein &  & 540.51
-2 & Betulinic acid &  & 456.70
+1 & Oleuropein & <img> id-imgb0240.tif </img> & 540.51
+2 & Betulinic acid & <img> id-imgb0241.tif </img> & 456.70
 </table>
 <table>
 <header>
@@ -1427,12 +1428,12 @@ No. & Generic name / Product name & Structural formula & Molecular weight
 <header>
 No. & Generic name / Product name & Structural formula & Molecular weight
 </header>
-1 & IU1 (Usp 14 inhibitor) &  & 300.38
-2 & b-AP-15 (Usp 14 and Uch-L5 inhibitor) &  & 419.39
-3 & 17-AAG &  & 585.7
-4 & PU3 &  & 371.44
-5 & PU-H71 &  & 512.37
-6 & NVP-AUY922 &  & 493.60
+1 & IU1 (Usp 14 inhibitor) & <img> id-imgb0242.tif </img> & 300.38
+2 & b-AP-15 (Usp 14 and Uch-L5 inhibitor) & <img> id-imgb0243.tif </img> & 419.39
+3 & 17-AAG & <img> id-imgb0244.tif </img> & 585.7
+4 & PU3 & <img> id-imgb0245.tif </img> & 371.44
+5 & PU-H71 & <img> id-imgb0246.tif </img> & 512.37
+6 & NVP-AUY922 & <img> id-imgb0247.tif </img> & 493.60
 </table>
 <table>
 <header>
@@ -1441,12 +1442,12 @@ No. & Generic name / Product name & Structural formula & Molecular weight
 <header>
 No. & Generic name / Product name & Structural formula & Molecular weight
 </header>
-7 & SNX-5422 &  & 521.54
-8 & HBX 19,818 &  & 407.94
-9 & LS1 &  & 518.53
-10 & LDN91946 &  & 314.32
-11 & P005091 &  & 348.21
-12 & P0040429 &  & 484.38
+7 & SNX-5422 & <img> id-imgb0248.tif </img> & 521.54
+8 & HBX 19,818 & <img> id-imgb0249.tif </img> & 407.94
+9 & LS1 & <img> id-imgb0250.tif </img> & 518.53
+10 & LDN91946 & <img> id-imgb0251.tif </img> & 314.32
+11 & P005091 & <img> id-imgb0252.tif </img> & 348.21
+12 & P0040429 & <img> id-imgb0253.tif </img> & 484.38
 </table>
 <Method of screening for protein-degradation inducing tag>
 The method of screening for a protein-degradation inducing tag according to the present disclosure includes a step of selecting a molecule having an affinity with a protease without inhibiting degradation of a protein by the protease from candidate molecules. In a certain embodiment, the protease is a proteasome (a protease complex).
@@ -1513,7 +1514,7 @@ EXAMPLES
 Below, the present invention will be described specifically with reference to Examples, but the present invention shall not be limited to Examples.
 Abbreviations of compounds used in the following Examples are as follows.ec: Escherichia coliDHFR: Dihydrofolate reductaseTMP: TrimethoprimH-Phe-OtBu·HCl: L-Phenylalanine t-butyl ester hydrochlorideDMF: N,N-DimethylformamideDMT-MM: 4-(4,6-Dimethoxy-1,3,5-triazin-2-yl)-4-methylmorpholinium chloride n-hydrateTFA: Trifluoroacetic acidH-Leu-OtBu·HCl: L-Leucine t-butyl ester hydrochlorideDIEA: N,N-DiisopropylethylamineD-MEM: Dulbecco's modified eagle's mediumFBS: Fetal bovine serumEDTA: Ethylenediamine tetraacetic acidHA: HemagglutininGFP: Green fluorescent proteinDsRed: Discosoma sp. red fluorescent proteinDMSO: Dimethyl sulfoxidePBS: Phosphate buffered salineTBS: Tris buffered salineSDS: Sodium dodecyl sulfatePAGE: Polyacrylamide gel ectrophoresisBPB: Bromophenol bluePVDF: Polyvinylidene difluorideAMC: 7-Amino-4-methylcoumarinH-Gly-OtBu·HCl: L-Glycine t-butyl ester hydrochloridePyBOP: 1H-Benzotriazol-1-yloxy-tri(pyrrolidino)phosphonium hexafluorophosphateMTX: MethotrexateDMA: N,N-DimethylacetamideBOP: 1H-Benzotriazol-1-yloxy-tris(dimethylamino)phosphonium hexafluorophosphateTEA: TriethylamineHATU: O-(7-Azabenzotriazol-1-yl)-N,N,N',N'-tetramethyluronium hexafluorophosphateGAPDH: Glyceraldehyde 3-phosphate dehydrogenase
 <Example 1: Synthesis of protein-degradation inducing molecule (TMP-CiKD_Bortezomib) having CiKD_Bortezomib as protein-degradation inducing tag and TMP derivative as protein binding molecule>
-In Example 1, TMP-CiKD_Bortezomib as a protein-degradation inducing molecule was synthesized according to the following synthesis scheme. Bortezomib-COOH (CiKD_Bortezomib) in which the boronyl group as the active site of bortezomib was replaced with a carboxy group was used as a protein-degradation inducing tag. Further, a TMP derivative (TMP-NH2) in which a functional group including an amino group was introduced into TMP as a dihydrofolate reductase inhibitor capable of binding to E. coli DHFR was used as a protein binding molecule. Then, Bortezomib-COOH was linked to TMP-NH2 to synthesize TMP-CiKD_Bortezomib as a protein-degradation inducing molecule.
+InExample 1, TMP-CiKD_Bortezomib as a protein-degradation inducing molecule was synthesized according to the following synthesis scheme. Bortezomib-COOH (CiKD_Bortezomib) in which the boronyl group as the active site of bortezomib was replaced with a carboxy group was used as a protein-degradation inducing tag. Further, a TMP derivative (TMP-NH2) in which a functional group including an amino group was introduced into TMP as a dihydrofolate reductase inhibitor capable of binding to E. coli DHFR was used as a protein binding molecule. Then, Bortezomib-COOH was linked to TMP-NH2 to synthesize TMP-CiKD_Bortezomib as a protein-degradation inducing molecule.<img> id-imgb0254.tif </img>
 The method of synthesizing TMP-CiKD_Bortezomib is described in detail as follows.
 (Synthesis of compound 1)
 Pyrazinecarboxylic acid (152.8 mg, 1.23 mmol, 1 eq, Code No. 357-00042, Wako Pure Chem Industries, Ltd.) and H-Phe-OtBu-HCl (253.8 mg, 0.98 mmol, 0.8 eq, Code No. 10Y830617, Watanabe Chemical Industries, Ltd.) were charged into an eggplant flask, and 10 mL of dehydrate DMF was then added. After stirred for 5 minutes at room temperature, DMT-MM (1.02 g, 3.69 mmol, 3 eq, Code No. 329-53751, Wako Pure Chem Industries, Ltd.) was directly added to the reaction solution, and stirred at room temperature for 18 hours. The reaction solution was diluted with water, and extracted with ethyl acetate for 3 times. This was washed with brine, and then dried over anhydrous sodium sulfate. After evaporating the solvent under reduced pressure, separation and purification treatment was performed by silica gel chromatography (Code No. 30511-35, Nacalai Tesque, Inc.) (hexane/chloroform = 1/1 to 0/1, gradient) to obtain a compound 1 (482.3 mg, 1.47 mmol, quant.).
@@ -1568,7 +1569,7 @@ Bortezomib & β1 : 0.01, 0.04, 0.1, 0.4, 1, 10 µM
 β2 : 0.4, 1, 4, 10, 40, 100 µM
 β5 : 0.001, 0.004, 0.01, 0.04, 0.1, 0.4 µM
 </table>
-A test compound and 20S proteasome (0.1 µg) were incubated at room temperature for 30 minutes. To these, Suc-LLVY-AMC (degradable by β5), Bz-VGR-AMC (degradable by β2), and Z-LLE-AMC (degradable by β1) as a luminescent substrates were added so that the concentrations thereof were each 100 µM, and incubated at room temperature. After one hour, AMC produced by the proteasome activity was measured. Values of proteasome degradation inhibition of the test compounds at each concentration were calculated as relative values to the control (DMSO). Using the inhibition values at the 6 concentrations, a regression curve was created with an analysis software ImageJ (NIH) to obtain 4 parameters (a: Malthusian parameter, b: crowdedness constant, c: slope, d: intercept). Then, the obtained 4 parameters and y = 0.5 (50% inhibition) were introduced into the following regression expression of 4-parameter logistic curve, and a value of x (IC50) was computed. Regression expression of 4-parameter logistic curve: y=d+a−d/1+x/cb
+A test compound and 20S proteasome (0.1 µg) were incubated at room temperature for 30 minutes. To these, Suc-LLVY-AMC (degradable by β5), Bz-VGR-AMC (degradable by β2), and Z-LLE-AMC (degradable by β1) as a luminescent substrates were added so that the concentrations thereof were each 100 µM, and incubated at room temperature. After one hour, AMC produced by the proteasome activity was measured. Values of proteasome degradation inhibition of the test compounds at each concentration were calculated as relative values to the control (DMSO). Using the inhibition values at the 6 concentrations, a regression curve was created with an analysis software ImageJ (NIH) to obtain 4 parameters (a: Malthusian parameter, b: crowdedness constant, c: slope, d: intercept). Then, the obtained 4 parameters and y = 0.5 (50% inhibition) were introduced into the following regression expression of 4-parameter logistic curve, and a value of x (IC50) was computed.<img> id-imgb0255.tif </img>Regression expression of 4-parameter logistic curve: y=d+a−d/1+x/cb
 The 50% inhibition concentrations (IC50) of TMP-CiKD_Bortezomib and bortezomib are shown in the following Table 84.
 <table>
 <header>
@@ -1582,7 +1583,7 @@ Bortezomib & 0.129 & 2.61 & 0.00314
 </table>
 As can be seen in Table 84, TMP-CiKD_Bortezomib was found to have significantly increased 50% inhibition concentrations (IC50) against all of β1, β2, and β5 as compared with bortezomib, indicating that the inhibitory activity of bortezomib was inactivated.
 <Example 6: Synthesis of protein-degradation inducing molecule (TMP-CiKD_ALLN) using CiKD_ALLN as protein-degradation inducing tag and TMP derivative as protein binding molecule>
-In Example 6, TMP-CiKD_ALLN as a protein-degradation inducing molecule was synthesized according to the following synthesis scheme. As a protein-degradation inducing tag, used was ALLN-COOH (CiKD_ALLN) in which the formyl group as the active site of ALLN was replaced with a carboxy group. As a protein binding molecule, TMP-NH2 was used as in Example 1. Then, ALLN-COOH was linked to TMP-NH2 to synthesize TMP-CiKD_ALLN as a protein-degradation inducing molecule.
+InExample 6, TMP-CiKD_ALLN as a protein-degradation inducing molecule was synthesized according to the following synthesis scheme. As a protein-degradation inducing tag, used was ALLN-COOH (CiKD_ALLN) in which the formyl group as the active site of ALLN was replaced with a carboxy group. As a protein binding molecule,TMP-NH2 was used as in Example 1. Then, ALLN-COOH was linked to TMP-NH2 to synthesizeTMP-CiKD_ALLN as a protein-degradation inducing molecule.<img> id-imgb0256.tif </img>
 The method of synthesizing TMP-CiKD_ALLN is described in detail as follows.
 (Synthesis of compound 6 (ALLN-COOH)>
 ALLN (87.2 mg, 0.23 mmol, 1 eq, Code No. 07036-24, Nacalai Tesque, Inc.) was charged into an eggplant flask, and 2 mL of dehydrate DMF was added. After stirred at room temperature for 5 minutes, Oxone (212.1 mg, 0.69 mmol, 3 eq, Code No. 228036, Sigma-Aldrich) was added directly to the reaction solution, and stirred at room temperature for 5 hours. The reaction solution was diluted with water, and extracted with chloroform for 3 times. After dried over anhydrous sodium sulfate, the solvent was evaporated under reduced pressure. Separation and purification treatment was performed by silica gel chromatography (Code No. 30511-35, Nacalai Tesque, Inc.) (chloroform/methanol = 20/1 to 10/1, gradient) to obtain a compound 6 (ALLN-COOH) (27.0 mg, 0.068 mmol, 30%).
@@ -1632,7 +1633,7 @@ ALLN & 12.4 & 5.25 & 1.15
 </table>
 As can be seen in Table 86, TMP-CiKD_ALLN was found to have significantly increased 50% inhibition concentrations (IC50) for all of β1, β2, and β5 as compared with ALLN, indicating that the inhibitory activity of ALLN was inactivated.
 <Example 11: Synthesis of protein-degradation inducing molecule (TMP-CiKD_MLN) using CiKD_MLN as protein-degradation inducing tag and TMP derivative as protein binding molecule>
-In Example 11, TMP-CiKD_MLN as a protein-degradation inducing molecule was synthesized according to the following synthesis scheme. As a protein-degradation inducing tag, used was MLN-COOH (CiKD_MLN) in which the boronic acid ester moiety or boronyl group as the active site of MLN9708 and MLN2238 was replaced with a carboxy group. As a protein binding molecule, TMP-NH2 was used as in Example 1. Then, MLN-COOH was linked to TMP-NH2 to synthesize TMP-CiKD_MLN as a protein-degradation inducing molecule.
+InExample 11, TMP-CiKD_MLN as a protein-degradation inducing molecule was synthesized according to the following synthesis scheme. As a protein-degradation inducing tag, used was MLN-COOH (CiKD_MLN) in which the boronic acid ester moiety or boronyl group as the active site of MLN9708 and MLN2238 was replaced with a carboxy group. As a protein binding molecule, TMP-NH2 was used as inExample 1. Then, MLN-COOH was linked to TMP-NH2 to synthesize TMP-CiKD_MLN as a protein-degradation inducing molecule.<img> id-imgb0257.tif </img>
 The method of synthesizing TMP-CiKD_MLN is described in detail as follows.
 (Synthesis of compound 8)
 H-Gly-OtBu·HCl (286.8 mg, 1.69 mmol, 1 eq, Code No. AK-46074, Ark Pharm) was charged into a side-arm eggplant flask, and purged with nitrogen. Under nitrogen gas stream, 10 mL of dehydrate DMF and 5 mL of DIEA were added, and stirred at room temperature. In 1 mL of dehydrate DMF and 1 mL of DIEA, dissolved was 2,5-dichlorobenzoic acid (309.3 mg, 1.62 mmol, 1 eq, Code No. AK-47665, Ark Pharm), which was then added to the reaction solution, and stirred at room temperature for 20 minutes. PyBOP (1.02 g, 1.96 mmol, 1.2 eq, Code No. 8.51009.0005, Novabiochem, Merck) was dissolved in 1 mL of dehydrate DMF, and then added to the reaction solution, and stirred at room temperature for 3 hours. The reaction solution was diluted with water and aqueous sodium hydrogen carbonate, and extracted twice with ethyl acetate/hexane (= 4/1). After dried over anhydrous sodium sulfate, the solvent was evaporated under reduced pressure. Separation and purification treatment was performed by silica gel chromatography (Code No. 30511-35, Nacalai Tesque, Inc.) (hexane/chloroform = 1/1 to 0/1, gradient) to obtain a compound 8 (531.0 mg, 1.75 mmol, 103%) .
@@ -1654,7 +1655,7 @@ TMP-CiKD_MLN was added to HeLa cells as in Example 2 except that TMP-CiKD_MLN wa
 The efficiency of target degradation (knockdown) by TMP-CiKD_MLN was determined as in Example 2 except that TMP-CiKD_MLN or TMP-CiKD_MLN and bortezomib were used in place of TMP-CiKD_Bortezomib.
 Fig. 8A shows results from the FACS analysis of a forcedly expressed target protein (E. coli DHFR) in HeLa cells to which TMP-CiKD_MLN was added. Further, Fig. 8B shows results from the FACS analysis of a forcedly expressed target protein (E. coli DHFR) in HeLa cells to which TMP was added. Moreover, Fig. 8C shows results from the FACS analysis of a forcedly expressed target protein (E. coli DHFR) in HeLa cells to which TMP-CiKD_MLN and bortezomib were added. As can be seen in Fig. 8A, when TMP-CiKD_MLN (80 µM) was added, the graph was found to be significantly shifted to the left as compared with that of the control (DMSO), indicating that the target protein (E. coli DHFR) was degraded. The degradation efficiency estimated from the amount of a shift was about 60% to 70%. In contrast, as can be seen in Fig. 8B, when TMP (80 µM) was added, the graph was found to be overlapped with that of the control (DMSO), indicating that the target protein was not degraded. Moreover, as shown in Fig. 8C, when TMP-CiKD_MLN (80 µM) and bortezomib (1.5 µM) were added, degradation of the target protein was more significantly inhibited than a case where TMP-CiKD_MLN (80 µM) was added. These results suggest that TMP-CiKD_MLN enabled the target protein to lead to degradation by the proteasome.
 <Example 13: Synthesis of protein-degradation inducing molecule (MTX-CiKD_MLN) using CiKD_MLN as protein-degradation inducing tag and MTX derivative as protein binding molecule>
-In Example 13, MTX-CiKD_MLN as a protein-degradation inducing molecule was synthesized according to the following synthesis scheme. As a protein-degradation inducing tag, used was MLN-COOH (CiKD_MLN) in which the boronic acid ester moiety or boronyl group as the active site of MLN9708 and MLN2238 was replaced with a carboxy group. As a protein binding molecule, used was an MTX derivative (MTX-NH2) in which a functional group including an amino group was introduced into MTX as a dihydrofolate reductase inhibitor capable of binding to DHFR. Then, MLN-COOH was linked to MTX-NH2 to synthesize MTX-CiKD_MLN as a protein-degradation inducing molecule.
+InExample 13,MTX-CiKD_MLN as a protein-degradation inducing molecule was synthesized according to the following synthesis scheme. As a protein-degradation inducing tag, used was MLN-COOH (CiKD_MLN) in which the boronic acid ester moiety or boronyl group as the active site of MLN9708 and MLN2238 was replaced with a carboxy group. As a protein binding molecule, used was an MTX derivative (MTX-NH2) in which a functional group including an amino group was introduced into MTX as a dihydrofolate reductase inhibitor capable of binding to DHFR. Then, MLN-COOH was linked to MTX-NH2 to synthesizeMTX-CiKD_MLN as a protein-degradation inducing molecule.<img> id-imgb0258.tif </img>
 The method of synthesizing MTX-CiKD_MLN is described in detail as follows.
 (Synthesis of compound 21 (MTX-NH2))
 The compound 13 was allowed to react with triphenylphosphine dibromide in DMA to obtain a compound 14. The compound 14 was dissolved in DMA under nitrogen gas stream, and then the compound 15 and DIEA were added and reacted to obtain a compound 16 (yield: 69%). Subsequently, the compound 16 and the compound 17 were dissolved in DMSO under nitrogen gas stream, and condensation reaction was performed with a BOP reagent to obtain a compound 18 (yield: 46%). Subsequently, the compound 18 and the compound 19 were dissolved in DMA under nitrogen gas stream, and condensation reaction was performed with HATU to obtain a compound 20 (yield: 69%). Then, the compound 20 was dissolved in dichloromethane, and deprotection was performed with TFA to obtain a compound 21 (MTX-NH2).
@@ -1693,7 +1694,7 @@ The liver tissue extract collected was subjected to Western blot analysis. An SD
 After electrophoresis, proteins were transferred to a PVDF membrane (Immobion™-P, Millipore) under conditions of 100 V and 90 minutes using a tank-type blotting device and a transfer buffer (25 mM Tris-HCl, 195 mM glycine, 0.01% SDS, 15% methanol). The membrane after transfer was shaken and blocked in 5% skim milk/TBS-T (100 mM Tris-HCl, 150 mM NaCl, 0.1% Tween-20, pH 7.6) at room temperature for 30 minutes. After blocking, a primary antibody reaction was performed in 5% skim milk/TBS-T. As a primary antibody, anti-DHFR antibody (sc-14780, SantaCruz, diluted 500 times) and anti-GAPDH antibody (sc-32233, SantaCruz, diluted 20000 times) were used. The membrane was shaken at room temperature for 60 minutes, and then washed with TBS-T for 5 minutes. It is noted that washing was performed for 3 times. After the primary antibody reaction, a secondary antibody reaction was performed in 1% skim milk/TBS-T. The membrane was shaken at room temperature for 30 minutes, and then washed with TBS-T for 5 minutes. It is noted that washing was performed for 3 times. Further, the membrane was washed with TBS (100 mM Tris-HCl, 150 mM NaCl, pH 7.6) for 10 minutes. Subsequently, the membrane was treated with a chemiluminescence reagent Immobilon™ Western (Millipore), and then chemiluminescence was detected using a lumino image analyzer LAS-3000 (FUJIFILM Corporation).
 Fig. 11 shows results from the Western blot analysis of an endogenous expressed target protein (mouse DHFR) in a liver tissue extract from a mouse individual to which MTX-CiKD_MLN or MTX was administered. As can be seen in Fig. 11, when 50 mg/kg or 100 mg/kg of MTX-CiKD_MLN was administered to mice for 24 hours, the amount of the target protein (mouse DHFR) in the liver tissue was decreased in a concentration dependent manner. These results show that about 70% to 80% of the target protein (mouse DHFR) was degraded as fast as one day in the mouse individuals. In contrast, when 10 mg/kg of MTX was administered to mice for 24 hours, the amount of the target protein (mouse DHFR) in the liver tissue was increased as compared with that of the control (DMSO).
 <Example 17: Synthesis of protein-degradation inducing molecule (TMP-CiKD_DMT) using CiKD_DMT as protein-degradation inducing tag and TMP derivative as protein binding molecule>
-In Example 17, TMP-CiKD_DMT as a protein-degradation inducing molecule was synthesized according to the following synthesis scheme. As a protein-degradation inducing tag, used was a compound (DMT) in which R1 and R2 in the aforementioned formula (I) were each a methoxy group. DMT is a compound which is not derived from a proteasome inhibitor, but has an affinity with a proteasome. As a protein binding molecule, TMP-NH2 was used as in Example 1. Then, DMT was linked to TMP-NH2 to synthesize TMP-CiKD_DMT as a protein-degradation inducing molecule.
+InExample 17,TMP-CiKD_DMT as a protein-degradation inducing molecule was synthesized according to the following synthesis scheme. As a protein-degradation inducing tag, used was a compound (DMT) in which R1 and R2 in the aforementioned formula (I) were each a methoxy group. DMT is a compound which is not derived from a proteasome inhibitor, but has an affinity with a proteasome. As a protein binding molecule,TMP-NH2 was used as in Example 1. Then, DMT was linked to TMP-NH2 to synthesizeTMP-CiKD_DMT as a protein-degradation inducing molecule.<img> id-imgb0259.tif </img>
 The method of synthesizing TMP-CiKD_DMT is described in detail as follows.
 TMP-NH2 (Long, M. J. et al., Chem. Biol., 2012, 19 (5), 629-637) (31.7 mg, 0.073 mmol) was charged into an eggplant flask, and 0.3 mL of dehydrate DMF was added. After stirred at room temperature for 10 minutes, 0.1 mL of DIEA was added, and stirred at room temperature for 10 minutes. DMT-MM (33.6 mg, 0.12 mmol, 1.6 eq, Code No. 329-53751, Wako Pure Chemical Industries, Ltd.) was directly added to the reaction solution, and stirred at room temperature for 18 hours. The reaction solution was diluted with water and aqueous sodium hydrogen carbonate, and extracted with chloroform for 5 times. After dried over anhydrous sodium sulfate, the solvent was evaporated under reduced pressure. Separation and purification treatment was performed by silica gel chromatography (Code No. 30511-35, Nacalai Tesque, Inc.) (chloroform/methanol = 92/8) to obtain TMP-CiKD_DMT (25.8 mg, 0.045 mmol, 62%, isolated yield).
 <Example 18: Evaluation of proteasome inhibitory activity of protein-degradation inducing molecule (TMP-CiKD_DMT) and affinity thereof with proteasome>

@@ -3,11 +3,15 @@ FIELD OF THE INVENTION
 The present invention relates to a salt and a photoresist composition containing the same.
 BACKGROUND OF THE INVENTION
 US2007/0149702A1 mentions an acid generator which contains a salt.
+<img> id-US20180065924A1-20180308-C00002.TIF </img>
 US2007/0100096A1 mentions a photoresist composition comprising the following salt as an acid generator.
+<img> id-US20180065924A1-20180308-C00003.TIF </img>
 JP2013-82893A1 mentions a photoresist composition which comprises a salt as an acid generator.
+<img> id-US20180065924A1-20180308-C00004.TIF </img>
 SUMMARY OF THE INVENTION
 The present invention relates to the followings:
 <1> A salt represented by formula (I):
+<img> id-US20180065924A1-20180308-C00005.TIF </img>
 wherein Q1 and Q2 independently each represent a fluorine atom or a C1-C6 perfluoroalkyl group,
 R1 and R2 independently each represent a hydrogen atom, a fluorine atom or a C1-C6 perfluoroalkyl group,
 z represents an integer of 0 to 6,
@@ -29,6 +33,7 @@ Z+ represents an organic cation.
 (5) a step of developing the baked composition film with an alkaline developer, thereby forming a photoresist pattern.
 DESCRIPTION OF EMBODIMENTS
 The salt of the disclosure is represented by the formula (I):
+<img> id-US20180065924A1-20180308-C00006.TIF </img>
 in which Q1 and Q2 independently each represent a fluorine atom or a C1-C6 perfluoroalkyl group,
 R1 and R2 independently each represent a hydrogen atom, a fluorine atom or a C1-C6 perfluoroalkyl group,
 z represents an integer of 0 to 6,
@@ -53,8 +58,10 @@ In the divalent hydrocarbon group represented by A1, a methylene group can be re
 The divalent hydrocarbon group represented by A1 has preferably a C3-C18 alicyclic hydrocarbon group, more preferably a cyclohexanediyl group or an adamantanediyl group. A1 is preferably a divalent hydrocarbon group composed of a C1-C6 alkyl group and a cyclohexanediyl or adamantanediyl group.
 R3 is preferably a hydrogen atom.
 Specific examples of the anion for the salt represented by formula (I) include the following ones. Among them, an anion represented by any one of formulae (Ia-1) to (Ia-11), (Ia-13) to (Ia-20) and (Ia-22) is preferred, and an anion represented by any one of formulae (Ia-1) to (Ia-3) and (Ia-13) to (Ia-16) is more preferred.
+<img> id-US20180065924A1-20180308-C00007.TIF </img><img> id-US20180065924A1-20180308-C00008.TIF </img>
 Examples of the organic cation represented by Z+ include an organic onium cation such as an organic sulfonium cation, an organic iodonium cation, an organic ammonium cation, a benzothiazolium cation and an organic phosphonium cation. As Z+, an organic sulfonium cation and an organic iodonium cation are preferred, and an arylsulfonium cation is more preferred. Herein, the arylsulfonium includes those having one, two or three aryl groups.
 Preferable examples of the organic cation represented by Z+ include the organic cations represented by the formulae (b2-1) to b4):
+<img> id-US20180065924A1-20180308-C00009.TIF </img>
 wherein Rb4, Rb5 and Rb6 independently represent a C1-C30 aliphatic hydrocarbon group in which a hydrogen atom can be replaced by a hydroxy group, a C1-C12 alkoxy group or a C6-C18 alicyclic hydrocarbon group,
 a C3-C36 alicyclic hydrocarbon group in which a hydrogen atom can be replaced by a halogen atom, a C2-C4 acyl group or a glycidyloxy group, and
 a C6-C36 aromatic hydrocarbon group in which a hydrogen atom can be replaced by a halogen atom, a hydroxy group, or C1-C12 alkoxy group; and Rb4 and Rb5, Rb4 and Rb6, or Rb5 and Rb6 can be bonded each other to form a ring containing S+;
@@ -72,6 +79,7 @@ Examples of the alkyl group where a hydrogen atom has been replaced by an alicyc
 The alicyclic hydrocarbon group represented by each substituent may be monocyclic or polycyclic, a hydrogen atom of which can be replaced by an alkyl group. When a hydrogen atom of it has been replaced by an alkyl group, the total number of carbon atoms is 30 or less.
 Examples of the monocyclic alicyclic hydrocarbon group include a cycloalkyl group such as a cyclopropyl group, a cyclobutyl group, a cyclopentyl group, a cyclohexyl group, a cycloheptyl group, a cyclodecyl group.
 Examples of the polycyclic alicyclic hydrocarbon group include a decahydronaphtyl group, an adamantyl group, a norbornyl group, and the following ones.
+<img> id-US20180065924A1-20180308-C00010.TIF </img>
 The alicyclic hydrocarbon group represented by Rb9 to Rb12 has preferably 3 to 18, more preferably 4 to 12, carbon atoms.
 Examples of the alicyclic hydrocarbon group where a hydrogen atom has been replaced by an alkyl group include a methylcyclohexyl group, a 2-alkyladamantane-2-yl group, a methylnorbornyl group, and an isobornyl group.
 Preferable examples of the aromatic hydrocarbon group include substituted or unsubstituted phenyl group such as a phenyl group, a tolyl group, a xylyl group, a cumenyl group, a mesityl group, a 4-ethylphenyl group, 4-tert-butylphenyl group, 4-cyclohexylphenyl group, a 4-adamantylphenyl group, a 2, 6-diethylphenyl group, a 2-methyl-6-ethylphenyl group; a biphenyl group, a naphtyl group, a phenanthryl group.
@@ -83,16 +91,22 @@ Examples of the C2-C4 acyl group include an acetyl group, a propionyl group and 
 Examples of the halogen atom include a fluorine atom, a chlorine atom, a bromine atom and an iodine atom.
 Preferable examples of the alkylcarbonyloxy group include a methylcarbonyloxy group, an ethylcarbonyloxy group, n-propylcarbonyloxy group, an isopropylcarbonyloxy group, n-butylcarbonyloxy group, sec-butylcarbonyloxy group, a tert-butylcarbonyloxy group, a pentylcarbonyloxy group, a hexylcarbonyloxy group, an octylcarbonyloxy group and 2-ethyl hexylcarbonyloxy group.
 The ring containing S+ formed by bonding Rb4 and Rb5, Rb4 and Rb6, or Rb5 and Rb6 each other may be a monocyclic ring, a polycyclic ring, an aromatic ring, a non-aromatic ring, a saturated ring or a unsaturated ring. The ring can contain a sulfur atom or oxygen atom in addition to S+. The ring preferably has 3 to 18 carbon atoms, and more preferably has 4 to 13 carbon atoms. Examples of such ring include, 3 to 12-membered rings, preferably 3 to 7-membered rings, specifically the following ones.
+<img> id-US20180065924A1-20180308-C00011.TIF </img>
 Examples of the ring group formed by bonding Rb9 and Rb10 together with the adjacent S+ and the divalent alicyclic hydrocarbon group include, 3 to 12-membered rings, preferably 3 to 7-membered rings, specifically a thiolan-1-ium ring (tetrahydrothiophenium ring), a thian-1-ium ring and a 1,4-oxathian-4-ium ring.
 Examples of the ring group formed by bonding Rb11 and Rb12 include 3 to 12-membered rings, preferably 3 to 7-membered rings, specifically oxocyclopentane ring, oxocyclohexane ring, oxonorbornane ring and oxoadamantane ring.
 Among the above-mentioned cations, preferred is the cation represented by the formula (b2-1).
 Examples of the cation represented by the formula (b2-1) include the following ones.
+<img> id-US20180065924A1-20180308-C00012.TIF </img><img> id-US20180065924A1-20180308-C00013.TIF </img><img> id-US20180065924A1-20180308-C00014.TIF </img><img> id-US20180065924A1-20180308-C00015.TIF </img><img> id-US20180065924A1-20180308-C00016.TIF </img><img> id-US20180065924A1-20180308-C00017.TIF </img>
 Examples of the cation represented by the formula (b2-2) include the following ones.
+<img> id-US20180065924A1-20180308-C00018.TIF </img>
 Examples of the cation represented by the formula (b2-3) include the following ones.
+<img> id-US20180065924A1-20180308-C00019.TIF </img>
 Examples of the cation represented by the formula (b2-4) include the following ones.
+<img> id-US20180065924A1-20180308-C00020.TIF </img><img> id-US20180065924A1-20180308-C00021.TIF </img>
 Among them, a cation represented by any one of formulae (b2-c-1), (b2-c-10), (b2-c-12), (b2-c-14), (b2-c-27), (b2-c-30) and (b2-c-31) is preferred.
 Specific examples of the salt represented by formula (I) are listed in the following tables.
 In those tables, every character in each column represents a sign which represents one of the chemical formulae specifically illustrated above. For example, the salt (I-1) consists of the anion of formula (Ia-1) and the cation of formula (b2-c-1) as shown below.
+<img> id-US20180065924A1-20180308-C00022.TIF </img>
 <table>
 <header>
  & TABLE 1
@@ -310,22 +324,31 @@ In those tables, every character in each column represents a sign which represen
 Among these specific examples, the salt represented by formula (I) is preferably salt(I-1), salt(I-2), salt(I-3), salt(I-15), salt(I-16), salt(I-23), salt(I-24), salt(I-37), salt(I-38), salt(I-45), salt(I-46), salt(I-59), salt(I-60), salt(I-67), salt(I-68), salt(I-81), salt(I-82), salt(I-89), salt(I-90), salt(I-103), salt(I-104), salt(I-111), salt(I-112), salt(I-125), salt(I-126), salt(I-133), salt(I-134), salt(I-147), salt(I-148).
 The process for producing the salt represented by formula (I) will be illustrated.
 When the salt represented by formula (I) has *-C(═O)-O- as X1, it can be produced by reacting a salt represented by the formula (I1-a) with the compound represented by formula (I1-b) in a solvent such as chloroform or acetonitrile:
+<img> id-US20180065924A1-20180308-C00023.TIF </img>
 wherein Q1, Q2, R1, R2, R3, z, A1 and Z+ are the same as defined above, and the formula (I1) represents the salt represented by formula (I) in which X1 is *-C(═O)-O-.
 The above-mentioned reaction is usually conducted at about 5 to 80° C., for 0.5 to 24 hours.
 Specific examples of the salt represented by the formula (I1-a) include the following ones, which are available in the market.
+<img> id-US20180065924A1-20180308-C00024.TIF </img>
 Specific examples of the compound represented by the formula (I1-b) include the following ones. These compounds are available in the market.
+<img> id-US20180065924A1-20180308-C00025.TIF </img>
 When the salt represented by formula (I) has *-O-C(═O)-O- as X1, it can be produced by reacting a salt represented by the formula (I2-a) with the compound represented by formula (I1-b) in a solvent such as chloroform or acetonitrile:
+<img> id-US20180065924A1-20180308-C00026.TIF </img>
 wherein Q1, Q2, R1, R2, R3, z, A1 and Z+ are the same as defined above, and formula (I2) represents the salt represented by formula (I) in which X1 is *-O-C(═O)-O-
 The above-mentioned reaction is usually conducted at about 5 to 80° C., for 0.5 to 24 hours.
 The salt represented by formula (I2-a) can be produced by reacting a salt represented by the formula (I2-c) with the compound represented by formula (I2-d) in a solvent such as chloroform or acetonitrile:
+<img> id-US20180065924A1-20180308-C00027.TIF </img>
 wherein Q1, Q2, R1, R2, z and Z+ are the same as defined above.
 The above-mentioned reaction is usually conducted at about 5 to 80° C., for 0.5 to 24 hours.
 Specific examples of the salt represented by the formula (I1-c) include the following ones, which can be produced according to the method recited in JP2012-193170A1.
+<img> id-US20180065924A1-20180308-C00028.TIF </img>
 When the salt represented by formula (I) has *-O-C(═O)- as X1, it can be produced by reacting a salt represented by the formula (I2-c) with the compound represented by formula (I3-b), in the presence of a base such as potassium carbonate, potassium iodide, pyridine, dimethylaminopyridine, in a solvent such as chloroform or acetonitrile:
+<img> id-US20180065924A1-20180308-C00029.TIF </img>
 wherein Q1, Q2, R1, R2, R3, z, A1 and Z+ are the same as defined above, and the salt represented by formula (I) in which X1 is *-O-C(═O)- is represented by formula (I3).
 The above-mentioned reaction is usually conducted at about 5 to 80° C., for 0.5 to 24 hours.
 Specific examples of the salt represented by the formula (I3-b) include the following ones, which are available on the market.
+<img> id-US20180065924A1-20180308-C00030.TIF </img>
 When the salt represented by formula (I) has -O- as X1, it can be produced by reacting a salt represented by the formula (I2-c) with the compound represented by formula (I1-b), in the presence of a base such as potassium carbonate, in a solvent such as chloroform or acetonitrile:
+<img> id-US20180065924A1-20180308-C00031.TIF </img>
 <Acid Generator>
 The acid generator of the disclosure comprises the salt represented by formula (I). The acid generator may contain two or more of the salt represented by formula (I). The acid generator may contain a known acid generator, which is described later, in addition to the salt represented by formula (I).
 In the photoresist composition, an acid generates from the acid generator by light for lithography. The acid catalytically acts against an acid-labile group in the resin to cleave the acid-labile group.
@@ -337,27 +360,35 @@ Resin (A) usually has a structural unit having an acid-labile group. Hereinafter
 Preferably Resin (A) further has another structural unit than the structural unit (a1), i.e. a structural unit having no acid-labile group, which is sometimes referred to as “structural unit (s)”.
 Herein, “an acid-labile group” means a group which has a hydrophilic group, such as a hydroxy group or a carboxy group, resulting from removing a leaving group therefrom by the action of an acid.
 The structural unit (a1) is derived from a monomer having an acid-labile group which is sometimes referred to as “monomer (a1)”. Specific examples of the acid-labile group include a group represented by the formula (1):
+<img> id-US20180065924A1-20180308-C00032.TIF </img>
 wherein Ra1, Ra2 and Ra3 each independently represent a C1-C8 alkyl group, a C3-C20 alicyclic hydrocarbon group or a combination of them, or Ra1 and Ra2 may be bonded each other to form a C3-C20 divalent alicyclic hydrocarbon group together with the carbon atom bonded to both of them, “na” represents an integer of 0 or 1, and * represents a binding site,
 and a group represented by the formula (2):
+<img> id-US20180065924A1-20180308-C00033.TIF </img>
 wherein Ra1' and Ra2' each independently represent a hydrogen atom or a C1-C12 hydrocarbon group, and Ra3' represents a C1-C20 hydrocarbon group, or Ra3' is bonded to Ra1' or Ra2' to form a C2-C20 divalent heterocyclic group with a carbon atom and X bonded thereto, a methylene group in the divalent heterocyclic group may be replaced by -O- or -S-, X represents an oxygen atom or a sulfur atom, and * represents a binding site.
 Specific examples of the C1-C8 alkyl group include a methyl group, an ethyl group, a propyl group, an isopropyl group, a butyl group, a pentyl group, a hexyl group, a heptyl group and an octyl group.
 The alicyclic hydrocarbon group may be monocyclic or polycyclic.
 Examples of the alicyclic hydrocarbon group include a monocyclic alicyclic hydrocarbon group such as a C3-C20 cycloalkyl group (e.g. a cyclopentyl group, a cyclohexyl group, a methylcyclohexyl group, a dimethylcyclohexyl group, a cycloheptyl group and a cyclooctyl group) and a polycyclic alicyclic hydrocarbon group such as a decahydronaphthyl group, an adamantyl group, a norbornyl group, and the followings.
+<img> id-US20180065924A1-20180308-C00034.TIF </img>
 The alicyclic hydrocarbon group preferably has C3-C16 carbon atoms. The combination of alkyl group and alicyclic hydrocarbon group includes a methylcyclohexyl group, a dimethylcyclohexyl group, a methylnorbornyl group, a cyclohexylmethyl group, an adamantylmethyl group, a norbornylethyl group.
 When Ra1 and Ra2 of formula (1) are bonded each other to form a C2-C20 divalent hydrocarbon group, examples of the moiety represented by -C(Ra1)(Ra2)(Ra3) include the following groups and the ring preferably has 3 to 12 carbon atoms:
+<img> id-US20180065924A1-20180308-C00035.TIF </img>
 wherein Ra is as defined above and * represents a binding site.
 Specific examples of the groups represented by formula (1) include the following ones:
+<img> id-US20180065924A1-20180308-C00036.TIF </img><img> id-US20180065924A1-20180308-C00037.TIF </img>
 in which * represents a binding site.
 As the group represented by the formula (1), preferred are 1,1'-dialkylalkoxylcarbonyl group, i.e., the group represented by the formula (1) wherein Ra1, Ra2 and Ra3 each independently represent a C1-C8 alkyl group, preferably a tert-butyl group;
 2-alkyladaman-2-tyloxycarbonyl group, i.e., the group represented by the formula (1) wherein Ra1 and Ra2 are bonded each other to form an adamantyl group and Ra3 is a C1-C8 alkyl group; and a 1-(1-adaman-1-tyl)-1-alkylalkoxycarbonyl group, i.e., the group represented by the formula (1) wherein Ra1 and Ra2 are C1-C8 alkyl groups and Ra3 is an adamantyl group.
 As to formula (2), examples of the hydrocarbon group include an alkyl group, an alicyclic hydrocarbon group, an aromatic hydrocarbon group, and any combination of these hydrocarbon groups. Examples of the alkyl group and the alicyclic hydrocarbon group include the same as described above.
 Examples of the aromatic hydrocarbon group include an aryl group such as a phenyl group, a naphthyl group, an anthryl group, a p-methylphenyl group, a p-tert-butylphenyl group, a p-adamantylphenyl group, a tolyl group, a xylyl group, a cumyl group, a mesityl group, a biphenyl group, a phenanthryl group, a 2,6-diethylphenyl group and a 2-methyl-6-ethylphenyl group.
 Examples of the divalent heterocyclic group formed by bonding with Ra2' or Ra3' with a carbon atom and X bonded thereto include the following groups.
+<img> id-US20180065924A1-20180308-C00038.TIF </img>
 In each formula, Ra1', X and * are as defined above.
 Preferably, at least one of Ra1' and Ra2' is a hydrogen atom. Examples of the group represented by formula (2) include the following.
+<img> id-US20180065924A1-20180308-C00039.TIF </img><img> id-US20180065924A1-20180308-C00040.TIF </img>
 The monomer (a1) is preferably a compound having an acid-labile group and a carbon-carbon double bond, and is more preferably a (meth)acrylate compound having an acid-labile group.
 Such (meth)acrylate compound preferably has a C5-C20 alicyclic hydrocarbon group. When the photoresist composition has a resin which has a structural unit with a bulky structure such as a saturated alicyclic hydrocarbon group, the photoresist composition can provide a photoresist pattern with excellent resolution.
 Specific examples of the structural unit derived from the (meth)acrylate compound having a group of formula (1) include those represented by the formulae (a1-0), (a1-1) and (a1-2). The structural units represented by the formulae (a1-0), (a1-1) and (a1-2) are sometimes referred to as “structural unit (a1-0)”, “structural unit (a1-1)” and “structural unit (a1-2)”, respectively. The monomers from which the structural unit (a1-0), (a1-1) and (a1-2) are derived are sometimes referred to as “monomer (a1-0)”, “monomer (a1-1)” and “monomer (a1-2)”, respectively.
+<img> id-US20180065924A1-20180308-C00041.TIF </img>
 In formulae (a1-0), (a1-1) and (a1-2), La01 each independently represents an oxygen atom or *-O-(CH2)k01-CO-O- in which * represents a binding site to -CO-, and k01 represents an integer of 1 to 7;
 Ra01 each independently represent a hydrogen atom or a methyl group;
 Ra02, Ra03 and Ra04 each independently represent a C1-C8 alkyl group, a C3-C18 alicyclic hydrocarbon group, or a combination of them;
@@ -380,11 +411,15 @@ Examples of the alkyl group, the alicyclic hydrocarbon group and the combination
 The alkyl group represented by Ra6 or Ra7 is preferably a C1-C6 alkyl group.
 The alicyclic hydrocarbon group represented by Ra6 or Ra7 has preferably 8 or less, more preferably 6 or less of carbon atoms. “m1” is preferably an integer of 0 to 3, and more preferably 0 or 1. “n1” is preferably an integer of 0 to 3, and more preferably 0 or 1. “n1'” is preferably 0 or 1.
 The structural unit (a1-0) is preferably one represented by any one of the following formulae, and more preferably one represented by any one of formulae (a1-0-1) to (a1-0-10).
+<img> id-US20180065924A1-20180308-C00042.TIF </img><img> id-US20180065924A1-20180308-C00043.TIF </img><img> id-US20180065924A1-20180308-C00044.TIF </img>
 Other examples of the structural unit (a1-0) include those represented by the above-mentioned formulae in which a methyl group bonded to its main chain has been replaced by a hydrogen atom.
 Examples of the structural unit (a1-1) include those derived from a monomer (a1-1) as recited in JP2010-204646A1. Preferred are the structural units represented by of formulae (a1-1-1) to (a1-1-8)
+<img> id-US20180065924A1-20180308-C00045.TIF </img><img> id-US20180065924A1-20180308-C00046.TIF </img>
 As the structural unit (a1-2), preferred are those represented by formulae (a1-2-1) to (a1-2-12), more preferred are those represented by formulae (a1-2-3), (a1-2-4), (a1-2-9) and (a1-2-10), more preferred are those represented by formulae (a1-2-3) and (a1-2-9).
+<img> id-US20180065924A1-20180308-C00047.TIF </img><img> id-US20180065924A1-20180308-C00048.TIF </img>
 When the resin (A) has at least one of the structural units (a1-0), (a1-1) and (a1-2), the content of the structural unit in the resin is usually 10 to 95% by mole, preferably 15 to 90% by mole, and more preferably 20 to 85% by mole based on all the structural units of the resin (A).
 Another example of the structural unit (a1) includes a structural unit represented by the formula (a1-5).
+<img> id-US20180065924A1-20180308-C00049.TIF </img>
 In the formula (a1-5), Ras represents a hydrogen atom, a halogen atom or a C1-C6 alkyl group that may have a halogen atom,
 Za1 represent a single bond or *-(CH2)h3-CO-L54-, where h3 represents an integer of 1 to 4, * represents a binding site to L51, and L54 represents -O- or -S-,
 L51, L52 and L53 each independently represent -O- or -S-,
@@ -396,10 +431,13 @@ L52 and L53 are independently preferably -O- or -S-, and more preferably one is 
 “s1” is preferably 1. “s1'” is preferably an integer of 0 to 2.
 Za1 is preferably a single bond or *-CH2-CO-O- where * represents a binding site to L51
 Examples of the monomer from which the structural unit (a1-5) is derived include the monomers described in JP2010-61117A1. Among these, the monomers are preferably the following monomers represented by formula (a1-5-1) to formula (a1-5-4), and more preferably monomers represented by formula (a1-5-1) and formula (a1-5-2).
+<img> id-US20180065924A1-20180308-C00050.TIF </img>
 When the resin (A) has a structural unit (a1-5), the content of the structural unit is usually 1 to 50% by mole, preferably 3 to 45% by mole and more preferably 5 to 40% by mole based on all the structural units of the resin.
 Examples of the structural unit (a1) further include the following structural units.
+<img> id-US20180065924A1-20180308-C00051.TIF </img><img> id-US20180065924A1-20180308-C00052.TIF </img>
 When the resin (A) has at least one of the structural units (a1-3-1), to (a1-3-7), the content of the structural unit in the resin is usually 10 to 95% by mole, preferably 15 to 90% by mole, and more preferably 20 to 85% by mole based on all the structural units of the resin (A).
 Examples of the structural unit (a1) having the group represented by formula (2) include a structural unit represented by formula (a1-4). The structural unit is sometimes referred to as “structural unit (a1-4)”.
+<img> id-US20180065924A1-20180308-C00053.TIF </img>
 In the formula, Ra32 represents a hydrogen atom, a halogen atom or a C1-C6 alkyl group that may have a halogen atom,
 Ra33 in each occurrence independently represent a halogen atom, a hydroxy group, a C1-C6 alkyl group, a C1-C6 alkoxy group, a C2-C4 acyl group, a C2-C4 acyloxy group, an acryloyloxy group or methacryloyloxy group,
 “la” represents an integer 0 to 4,
@@ -413,6 +451,7 @@ Examples of hydrocarbon group for Ra36 include a C1-C18 alkyl group, a C3-C18 al
 In the formula (a1-4), Ra32 is preferably a hydrogen atom. Ra33 is preferably a C1-C4 alkoxy group, more preferably a methoxy group or an ethoxy group, and still more preferably a methoxy group. “la” is preferably 0 or 1, and more preferably 0. Ra34 is preferably a hydrogen atom. Ra35 is preferably a C1-C12 hydrocarbon group, and more preferably a methyl group or an ethyl group.
 The hydrocarbon group for Ra36 is preferably a C1-C18 alkyl group, a C3-C18 alicyclic hydrocarbon group, a C6-C18 aromatic hydrocarbon group or a combination thereof, and more preferably a C1-C18 alkyl group, a C3-C18 alicyclic hydrocarbon group or a C7-C18 aralkyl group. The alkyl group and the alicyclic hydrocarbon group for Ra36 are preferably unsubstituted. When the aromatic hydrocarbon group of Ra36 has a substituent, the substituent is preferably a C6-C10 aryloxy group.
 Examples of the structural unit (a1-4) include those derived from the monomers described in JP2010-204646A1. Among them, the structural unit is preferably the following ones represented by formula (a1-4-1) to formula (a1-4-8), and more preferably the structural units represented by formula (a1-4-1) to formula (a1-4-5).
+<img> id-US20180065924A1-20180308-C00054.TIF </img><img> id-US20180065924A1-20180308-C00055.TIF </img>
 When the resin (A) has the structural unit (a1-4), the proportion thereof is preferably 10% by mole to 95% by mole, more preferably 15% by mole to 90% by mole, and still more preferably 20% by mole to 85% by mole, based on the all the structural units of the resin (A) (100% by mole).
 The resin (A) may further have a structural unit having no acid-labile group.
 The structural unit having no acid-labile group preferably has a hydroxy group or lactone group. The structural unit having not acid-labile group but a hydroxy group is sometimes referred to as “structural unit (a2)”. The structural unit having not acid-labile group but a lactone group is sometimes referred to as “structural unit (a3)”.
@@ -421,6 +460,7 @@ The structural unit (a2) may have an alcoholic hydroxy group or a phenolic-hydro
 When KrF excimer laser (wavelength: 248 nm) lithography system, or a high energy laser such as electron beam and extreme ultraviolet is used as an exposure system, preferred is a resin which has a structural unit (a2) having a phenolic-hydroxy group.
 When ArF excimer laser (wavelength: 193 nm) is used as an exposure system, preferred is a resin which has the structural unit (a2) having an alcoholic hydroxy group.
 Examples of the structural unit (a2) having a phenolic-hydroxy group include a structural unit represented by formula (a2-0):
+<img> id-US20180065924A1-20180308-C00056.TIF </img>
 wherein Ra50 represents a hydrogen atom, a halogen atom or a C1-C6 alkyl group in which a hydrogen atom can be replaced by a halogen atom, Ra51 represents a halogen atom, a hydroxy group, a C1-C6 alkyl group, a C1-C6 alkoxy group, a C1-C6 alkylcarbonyl group, a C2-C4 alkylcarbonyloxy group, an acryloyloxy group or methacryloyloxy group, Aa50 represents a single bond or *-Xa51-(Aa52-Xa52)nb- in which * represents a binding site to the carbon atom attached to Ra50, Aa52 represents a C1-C6 alkanediyl group, Xa51 and Xa52 each independently represent -O-, -CO-O- or -O-CO-, nb represents 0 or 1, and mb represents an integer of 0 to 4.
 Examples of the halogen atom for Ra50 include fluorine, chlorine, bromine and iodine atoms.
 As to Ra50, examples of the alkyl group in which a hydrogen atom can be replaced by a halogen atom include a trifluoromethyl group, a difluoromethyl group, a methyl group, a perfluoroethyl group, a 1,1,1-trifluoroethyl group, a 1,1,2,2-tetrafluoroethyl group, an ethyl group, a perfluoropropyl group, a 1,1,1,2,2-pentafluoropropyl group, a propyl group, a perfluorobutyl group, a 1,1,2,2,3,3,4,4-octafluorobutyl group, a butyl group, perfluoropentyl group, a 1,1,1,2,2,3,3,4,4-nonafluoropentyl group, a pentyl group, a hexyl group and a perfluorohexyl group. Ra50 is preferably a hydrogen atom or a C1-C4 alkyl group, more preferably a hydrogen atom, a methyl group or an ethyl group, still more preferably a hydrogen atom or a methyl group.
@@ -434,8 +474,10 @@ mb represents preferably 0, 1 or 2, more preferably 0 or 1, and still more prefe
 In formula (a2-0), a hydroxyl group is preferably bonded to o-position or p-position, more preferably bonded to p-position.
 Examples of the structural unit represented by formula (a2-0) include those derived from a monomer recited in JP2010-204634A1 and JP2012-12577A1.
 Examples of the structural unit represented by the formula (a2-0) preferably include those represented by formulae (a2-0-1) to (a2-0-8), and more preferably those represented by formulae (a2-0-1), (a2-0-2), (a2-0-3) and (a2-0-4).
+<img> id-US20180065924A1-20180308-C00057.TIF </img><img> id-US20180065924A1-20180308-C00058.TIF </img>
 When the resin (A) further has the structural unit (a2) having a phenolic-hydroxy group, the proportion thereof is preferably 5 to 95% by mole, more preferably 10 to 80% by mole, and still more preferably 15 to 80% by mole, based on all the structural units of the resin (A).
 Preferred examples of the structural unit (a2) having an alcoholic hydroxy group include a structural unit represented by the formula (a2-1):
+<img> id-US20180065924A1-20180308-C00059.TIF </img>
 wherein Ra14 represents a hydrogen atom or a methyl group, Ra15 and Ra16 each independently represent a hydrogen atom, a methyl group or a hydroxy group, La3 represents an oxygen atom or *-O-(CH2)k2-CO-O- in which * represents a binding site to -CO-, and k2 represents an integer of 1 to 7, and o1 represents an integer of 0 to 10.
 In the formula (a2-1), La3 is preferably an oxygen atom or *-O-(CH2)f2-CO-O- in which * represents a binding site to -CO-, and f2 represents an integer of 1 to 4, is more preferably an oxygen atom or *-O-CH2-CO-O-, and is still more preferably an oxygen atom.
 Ra14 is preferably a methyl group.
@@ -443,9 +485,11 @@ Ra15 is preferably a hydrogen atom.
 Ra16 is preferably a hydrogen atom or a hydroxy group.
 o1 is preferably 0, 1, 2 or 3 and is more preferably 0 or 1.
 Examples of the monomer from which the structural unit represented by the formula (a2-1) is derived include those mentioned in JP2010-204646A1. Examples of the structural unit represented by the formula (a2-1) preferably include those represented by formulae (a2-1-1), (a2-1-2), (a2-1-3), (a2-1-4), (a2-1-5) and (a2-1-6), and more preferably those represented by formulae (a2-1-1), (a2-1-2), (a2-1-3) and (a2-1-4), still more preferably those represented by formulae (a2-1-1) and (a2-1-3).
+<img> id-US20180065924A1-20180308-C00060.TIF </img><img> id-US20180065924A1-20180308-C00061.TIF </img>
 When the resin (A) further has the structural unit represented by the formula (a2-1), the content of the structural unit represented by the formula (a2-1) is usually 1 to 45% by mole and preferably 1 to 40% by mole, more preferably 1 to 35% by mole, still more preferably 2 to 20% by mole, still further more preferably 2 to 5% by mole, based on all the structural units of the resin (A).
 In the structural unit (a3), examples of the lactone ring include a monocyclic lactone ring such as β-propiolactone ring, γ-butyrolactone ring and δ-valerolactone ring, and a condensed ring formed from a monocyclic lactone ring and the other ring. Among them, preferred are γ-butyrolactone ring and a condensed lactone ring formed from γ-butyrolactone ring and another ring.
 Preferable examples of the structural unit (a3) include those represented by the formulae (a3-1), (a3-2), (a3-3) and (a3-4):
+<img> id-US20180065924A1-20180308-C00062.TIF </img>
 wherein La4, La5 and La6 each independently represent -O- or *-O-(CH2)k3-CO-O- in which * represents a binding site to -CO- and k3 represents an integer of 1 to 7,
 La7 represents a single bond, -O-, *-O-La8-O-, *-O-La8-CO-O-, *-O-La8-CO-O-La9-CO-O-, or *-O-La8-O-CO-La9-O-; * represents a binding site to a carbonyl group, La8 and La9 each represent a C1-C6 alkanediyl group,
 Ra8, Ra9 and Ra2° each independently represent a hydrogen atom or a methyl group,
@@ -462,14 +506,17 @@ Examples of the alkyl group having a halogen atom for Ra24 include trifluorometh
 Ra24 is preferably a hydrogen atom or a C1-C4 alkyl group, more preferably a hydrogen atom, a methyl group or an ethyl group, and still more preferably a hydrogen atom or a methyl group.
 La7 represents preferably a single bond or *-La8-CO-O-, and more preferably a single bond, *-CH2-CO-O- or *-C2H4-CO-O-.
 The structural unit represented by formula (a3-4) is preferably one represented by formula (a3-4)'.
+<img> id-US20180065924A1-20180308-C00063.TIF </img>
 In formula (a3-4)', Ra24 and La7 are as defined above.
 Examples of the monomers from which the structural unit (a3) is derived include those mentioned in JP2010-204646A1, JP2010-122294A1, and JP2010-41274A1. Examples of the structural unit (a3) include preferably those represented by the formulae (a3-1-1) to (a3-1-4), the formulae (a3-2-1) to (a3-2-4), the formulae (a3-3-1) to (a3-3-4), and the formulae (a3-4-1) to (a3-4-12), more preferably those represented by the formulae (a3-1-1), (a3-1-2), (a3-2-1), (a3-2-3), (a3-2-4), (a3-4-1) to (a3-4-12), still more preferably those represented by the formulae (a3-4-1) to (a3-4-12), and furthermore preferably those represented by the formulae (a3-4-1) to (a3-4-6).
+<img> id-US20180065924A1-20180308-C00064.TIF </img><img> id-US20180065924A1-20180308-C00065.TIF </img><img> id-US20180065924A1-20180308-C00066.TIF </img>
 Examples of the structural unit (a3) further include those represented by formulae (a3-4-1) to (a3-4-12) in which a methyl group has been replaced by a hydrogen atom.
 When the resin (A) has the structural unit (a3), the total content of the structural unit (a3) is usually 5 to 70% by mole, preferably 10 to 65% by mole, and more preferably 10 to 60% by mole, based on all the structural units of the resin (A).
 When the resin (A) has the structural unit (a3-1), (a3-2), (a3-3) or (a3-4), each content of them is usually 5 to 60% by mole, preferably 5 to 50% by mole, and more preferably 10 to 50% by mole, based on all the structural units of the resin (A).
 The resin (A) may further have a structural unit other than the structural units (a1), (a2) and (a3). The structural unit other than the structural units (a1), (a2) and (a3) is sometimes referred to as the “structural unit (t)”.
 Examples of the structural unit (t) include a structural unit having a halogen atom such as a fluorine atom and a structural unit which has a hydrocarbon group having no acid-labile group.
 As to the structural unit (t), examples of the structural unit having a halogen atom, which structural unit is sometimes referred to as “structural unit (a4)”, include a structural unit represented by formula (a4-0).
+<img> id-US20180065924A1-20180308-C00067.TIF </img>
 In the formula (a4-0), R represents a hydrogen atom or a methyl group, L5 represents a single bond or a C1-C4 saturated aliphatic hydrocarbon group, L3 represents a C1-C8 perfluoroalkanediyl group, or a C3-C12 perfluorocycloalkanediyl group, and R6 represents a hydrogen atom or a fluorine atom.
 Examples of the saturated aliphatic hydrocarbon group for L5 include C1-C4 alkanediyl group, i.e., a linear alkanediyl group such as methylene, ethylene, propane-1,3-diyl, and butane-1,4-diyl groups; and a branched alkanediyl group such as ethane-1,1-diyl, propane-1,2-diyl, butane-1,3-diyl, 2-methylpropane-1,3-diyl and 2-methylpropane-1,2-diyl groups.
 L5 is preferably a single bond, methylene or ethylene group, and more preferably a single bond or a methylene group.
@@ -477,7 +524,9 @@ Examples of the perfluoroalkanediyl group for L3 include difluoromethylene, perf
 Examples of the perfluorocycloalkanediyl group for L3 include perfluorocyclohexanediyl, perfluorocyclopentanediyl, perfluorocycloheptanediyl and perfluoroadamantanediyl groups.
 L3 is preferably a C1-C6 perfluoroalkanediyl group, more preferably a C1-C3 perfluoroalkanediyl group.
 Examples of the structural unit represented by formula (a4-0) include those as follow.
+<img> id-US20180065924A1-20180308-C00068.TIF </img><img> id-US20180065924A1-20180308-C00069.TIF </img><img> id-US20180065924A1-20180308-C00070.TIF </img>
 Examples of the structural unit (a4) include those represented by formula (a4-1):
+<img> id-US20180065924A1-20180308-C00071.TIF </img>
 wherein Ra41 represents a hydrogen atom or a methyl group,
 Ra42 represents an optionally substituted C1-C20 hydrocarbon group where a methylene group may be replaced by an oxygen atom or a carbonyl group, and
 Aa41 represents an optionally substituted C1-C6 alkanediyl group or a group represented by formula (a-g1):
@@ -492,6 +541,7 @@ The hydrocarbon group for Ra42 may be a chain aliphatic hydrocarbon group, a cyc
 The chain aliphatic hydrocarbon group and the cyclic aliphatic hydrocarbon group may have a carbon-carbon unsaturated bond, and is preferably a chain and a cyclic saturated aliphatic hydrocarbon group. Examples of the saturated aliphatic hydrocarbon group include a linear or branched alkyl group, a monocyclic or polycyclic alicyclic hydrocarbon group, and an aliphatic hydrocarbon group formed by combining the alkyl group and the alicyclic hydrocarbon group.
 Examples of the chain aliphatic hydrocarbon group include an alkyl group such as methyl, ethyl, propyl, butyl, pentyl, hexyl, heptyl, octyl, decyl, dodecyl and hexadecyl groups.
 Examples of the alicyclic hydrocarbon group include a cycloalkyl group such as cyclopentyl, cyclohexyl, cycloheptyl and cyclooctyl groups; and polycyclic hydrocarbon groups such as decahydronaphtyl, adamantyl and norbornyl groups as well as groups below. * represents a binding site.
+<img> id-US20180065924A1-20180308-C00072.TIF </img>
 Examples of the aromatic hydrocarbon group include an aryl group such as phenyl, naphthyl, anthryl, biphenyl, phenanthryl and fluorenyl groups.
 The hydrocarbon group for Ra42 is preferably a chain aliphatic hydrocarbon group, a cyclic aliphatic hydrocarbon group, and a combination thereof. The hydrocarbon group may have a carbon-carbon unsaturated bond, is preferably a chain saturated aliphatic hydrocarbon group, a cyclic saturated aliphatic hydrocarbon group, and a combination thereof.
 Examples of the substituent for Ra42 include a halogen atom and a group represented by formula (a-g3):
@@ -515,6 +565,7 @@ at least one of Aa46 and Aa47 has a halogen atom, and
 The aliphatic hydrocarbon group for Aa46 has preferably 1 to 6 carbon atoms, more preferably 1 to 3, carbon atoms.
 The aliphatic hydrocarbon group for Aa47 has preferably 4 to 15 carbon atoms, more preferably 5 to 12 carbon atoms. Aa47 is more preferably a cyclohexyl group or an adamantyl group.
 Preferred examples of *-Aa46-Xa44-Aa47 include the following ones.
+<img> id-US20180065924A1-20180308-C00073.TIF </img>
 Examples of the alkanediyl group for Aa4 include a linear alkanediyl group such as methylene, ethylene, propane-1,3-diyl, butane-1,4-diyl, pentane-1,5-diyl and hexane-1,6-diyl groups;
 a branched alkanediyl group such as propane-1,2-diyl, butan-1,3-diyl, 2-methylpropane-1,2-diyl, l-methylbutane-1,4-diyl, 2-methylbutane-1,4-diyl groups.
 Examples of the substituent on the alkanediyl group for Aa41 include a hydroxy group and a C1-C6 alkoxy group.
@@ -522,10 +573,15 @@ Aa41 is preferably a C1-C4 alkanediyl group, more preferably a C2-C4 alkanediyl 
 In the group represented by the formula (a-g1) (which is sometimes referred to as “group (a-g1)”), examples of the aliphatic hydrocarbon group for Aa42, Aa43 and Aa44 include methylene, ethylene, propane-1,3-diyl, propane-1,2-diyl, butane-1,4-diyl, l-methylpropane-1,3-diyl, 2-methylpropane-1,3-diyl and 2-methylpropane-1,2-diyl groups.
 Examples of the substituent on the aliphatic hydrocarbon group for Aa42, Aa43 and Aa44 include a hydroxy group and a C1-C6 alkoxy group. s is preferably 0.
 Examples of the group (a-g1) in which Xa42 represents an oxygen atom include the following ones. In the formulae, * and ** each represent a binding site, and ** represents a binding site to -O-CO-Ra42
+<img> id-US20180065924A1-20180308-C00074.TIF </img>
 Examples of the group (a-g1) in which Xa42 represents a carbonyl group include the following ones. In the formulae, * and ** are as defined above.
+<img> id-US20180065924A1-20180308-C00075.TIF </img>
 Examples of the group (a-g1) in which Xa42 represents a carbonyloxy group include the following ones. In the formulae, * and ** are as defined above.
+<img> id-US20180065924A1-20180308-C00076.TIF </img>
 Examples of the group (a-g1) in which Xa42 represents an oxycarbonyl group include the following ones. In the formulae, * and ** are as defined above.
+<img> id-US20180065924A1-20180308-C00077.TIF </img>
 The structural unit represented by the formula (a4-1) is preferably a structural unit represented by formula (a4-2):
+<img> id-US20180065924A1-20180308-C00078.TIF </img>
 wherein Rf1 represents a hydrogen atom or a methyl group,
 Af1 represent a C1-C6 alkanediyl group, and
 Rf2 represents a C1-C10 hydrocarbon group that has a fluorine atom.
@@ -539,6 +595,7 @@ Examples of the alicyclic hydrocarbon group having a fluorine atom include a flu
 In the formula (a4-2), Af1 is preferably a C2-C4 alkanediyl group, and more preferably an ethylene group.
 Rf2 is preferably a C1-C6 fluorinated alkyl group.
 Another preferred example of the structural unit represented by the formula (a4-1) includes one represented by formula (a4-3):
+<img> id-US20180065924A1-20180308-C00079.TIF </img>
 In formula, Rf11 represents a hydrogen atom or a methyl group.
 Af11 represents a C1-C6 alkanediyl group.
 Af13 represents a C1-C18 chain or alicyclic hydrocarbon group which may have a fluorine atom.
@@ -561,17 +618,22 @@ In formula (a4-3), Af11 is preferably an ethylene group.
 The chain or alicyclic hydrocarbon group represented by Af13 has preferably 6 or less, more preferably 2 to 3, of carbon atoms.
 The chain or alicyclic hydrocarbon group represented by Af14 has preferably 3 to 12, more preferably 3 to 10, of carbon atoms. Af14 has preferably a C3-C12 alicyclic hydrocarbon group, more preferably a cyclopropylmethyl group, a cyclopentyl group, a cyclohexyl group, a norbornyl group or an adamantyl group.
 Examples of the structural unit represented by formula (a4-2) include structural units represented by formula (a4-1-1) to formula (a4-1-11) and the structural units represented by these formulae in which a methyl group has been replaced by a hydrogen atom.
+<img> id-US20180065924A1-20180308-C00080.TIF </img><img> id-US20180065924A1-20180308-C00081.TIF </img><img> id-US20180065924A1-20180308-C00082.TIF </img>
 Examples of the structural unit represented by formula (a4-3) include structural units represented by the following formulae and the structural units represented by these formulae in which a methyl group has been replaced by a hydrogen atom.
+<img> id-US20180065924A1-20180308-C00083.TIF </img><img> id-US20180065924A1-20180308-C00084.TIF </img><img> id-US20180065924A1-20180308-C00085.TIF </img><img> id-US20180065924A1-20180308-C00086.TIF </img>
 Another example of the structural unit represented by the formula (a4-1) includes one represented by formula (a4-4):
+<img> id-US20180065924A1-20180308-C00087.TIF </img>
 In formula, Rf21 represents a hydrogen atom or a methyl group.
 Af21 represents -(CH2)j1-, -(CR2)j2-O-(CH2)j3- or -(CH2)j4-C(═O)-O-(CH2)j5-, and j1 to j5 each independently represent an integer of 1 to 6.
 Rf22 represents a C1-C10 hydrocarbon group which has a fluorine atom. Examples of the hydrocarbon group represented by Rf22 include those as referred to for Rf2.
 Rf22 is preferably a C1-C10 fluorinated alkyl group or a C3-C10 fluorinated cycloalkyl group, more preferably a C1-C10 fluorinated alkyl group, and still more preferably a C1-C6 fluorinated alkyl group.
 In formula, Af21 represents preferably -(CH2)j1-, more preferably a methylene group or an ethylene group, and still more preferably a methylene group.
 Examples of the structural unit represented by formula (a4-4) further include the following ones and those represented by the following formulae in which a methyl group has been replaced by a hydrogen atom.
+<img> id-US20180065924A1-20180308-C00088.TIF </img><img> id-US20180065924A1-20180308-C00089.TIF </img>
 When Resin (A) has the structural unit (a4), the content thereof is usually 1 to 20% by mole, preferably 2 to 15% by mole, and more preferably 3 to 10% by mole, based on all the structural units of the resin (A)
 The structural unit which has a hydrocarbon group having no acid-labile group, which is sometimes referred to as the “structural unit (a5)”, may have a linear, branched or cyclic hydrocarbon group, preferably an alicyclic hydrocarbon group.
 Examples of the structural unit (a5) include one represented by formula (a5-1):
+<img> id-US20180065924A1-20180308-C00090.TIF </img>
 where R51 represents a hydrogen atom or a methyl group;
 R52 represents a C3-C18 alicyclic hydrocarbon group, provided that the alicyclic hydrocarbon group has no substituent on the carbon atom bonded to L55; and
 L55 represents a single bond or a C1-C8 alkanediyl group where a methylene group can be replaced by an oxygen atom or carbonyl group. The alicyclic hydrocarbon group represented by R52 may be monocyclic or polycyclic one. Examples of the alicyclic hydrocarbon group include a monocyclic hydrocarbon group such as a C3-C18 cycloalkyl group (e.g. a cyclopropyl group, a cyclobutyl group, a cyclopentyl group, a cyclohexyl group) and a polycyclic alicyclic hydrocarbon group such as an adamantyl group, or a norbornyl group.
@@ -581,6 +643,7 @@ R52 is preferably an unsubstituted C3-C18 alicyclic hydrocarbon group, and more 
 Examples of the divalent saturated hydrocarbon group for L55 include a divalent saturated aliphatic hydrocarbon group and a divalent saturated alicyclic hydrocarbon group, and a divalent saturated aliphatic hydrocarbon group is preferred.
 Examples of the divalent saturated aliphatic hydrocarbon group include an alkanediyl group such as methylene, ethylene, propanediyl, butanediyl and pentanediyl groups.
 Examples of the divalent saturated alicyclic hydrocarbon group include any of a monocyclic group and a polycyclic group. Examples of the monocyclic group include cycloalkanediyl group such as cyclopentanediyl and cyclohexanediyl groups. Examples of the polycyclic group include adamantanediyl and norbornanediyl groups. Examples of the saturated hydrocarbon group in which a methylene group has been replaced by an oxygen atom or a carbonyl group include groups represented by formula (L1-1) to formula (L1-4). In formula (L1-1) to formula (L1-4), * represents a binding site to an oxygen atom.
+<img> id-US20180065924A1-20180308-C00091.TIF </img>
 In the formulae, XX1 represents an oxycarbonyl group or a carbonyloxy group,
 LX1 represents a C1-C16 divalent saturated aliphatic hydrocarbon group,
 LX2 represents a single bond or a C1-C15 divalent saturated aliphatic hydrocarbon group,
@@ -605,11 +668,16 @@ LX8 is preferably a single bond or a C1-C8 divalent saturated aliphatic hydrocar
 LX9 is preferably a single bond or a C1-C8 divalent saturated aliphatic hydrocarbon group, and more preferably a single bond or a methylene group.
 WX1 is preferably a C3-C10 divalent saturated alicyclic hydrocarbon group, and more preferably a cyclohexanediyl group and an adamantanediyl group.
 Examples of the group represented by the formula (L1-1) include the following ones.
+<img> id-US20180065924A1-20180308-C00092.TIF </img>
 Examples of the group represented by the formula (L1-2) include the following ones.
+<img> id-US20180065924A1-20180308-C00093.TIF </img>
 Examples of the group represented by the formula (L1-3) include the following ones.
+<img> id-US20180065924A1-20180308-C00094.TIF </img>
 Examples of the group represented by the formula (L1-4) include the following ones.
+<img> id-US20180065924A1-20180308-C00095.TIF </img>
 L55 is preferably a single bond, a methylene group, and ethylene group or the group represented by the formula (L1-1), more preferably a single bond or the group represented by the formula (L1-1).
 Examples of the structural unit represented by formula (a5-1) include the following ones and those represented by following formulae in which a methyl group has been replaced by a hydrogen atom.
+<img> id-US20180065924A1-20180308-C00096.TIF </img><img> id-US20180065924A1-20180308-C00097.TIF </img><img> id-US20180065924A1-20180308-C00098.TIF </img><img> id-US20180065924A1-20180308-C00099.TIF </img><img> id-US20180065924A1-20180308-C00100.TIF </img>
 When the resin (A) further has the structural unit represented by formula (a5), the content thereof is preferably 1 to 30% by mole, more preferably 2 to 20% by mole, and still more preferably 3 to 15% by mole, based on all the structural units of the resin.
 The resin (A) can further have any other structural unit known in the photoresist field.
 The resin (A) is preferably a resin which comprises the structural unit (a1), more preferably a resin which comprises the structural unit (a1) and the structural unit (s).
@@ -632,12 +700,14 @@ The acid generator (B) may be a nonionic acid generator or an ionic acid generat
 Specific examples of the acid generator (B) include acid generators described in JP 63-26653 A, JP 55-164824 A, JP62-69263 A, JP63-146038A, JP63-163452A, JP62-153853A, JP63-146029A, U.S. Pat. No. 3,779,778, U.S. Pat. No. 3,849,137, DE Patent No. 3914407 and EP Patent No. 126,712. Other examples of that include acid generators described in JP2013-68914A, JP2013-3155A and JP2013-11905A.
 The acid generator for the photoresist composition is preferably a fluorine-containing acid generator, and more preferably a fluorine-containing organic sulfonate acid generator.
 Preferable examples of the acid generator include a salt represented by the formula (B1):
+<img> id-US20180065924A1-20180308-C00101.TIF </img>
 wherein Q11 and Q12 each independently represent a fluorine atom or a C1-C6 perfluoroalkyl group,
 LB1 represents a single bond or a C1-C24 divalent saturated hydrocarbon group in which a methylene group can be replaced by -O- or -CO- and in which a hydrogen atom can be replaced by a fluorine atom or a hydroxy group, and
 Y represents a methyl group which can have a substituent or a C3-C18 monovalent alicyclic hydrocarbon group which can have a substituent and in which a methylene group can be replaced by -O-, -CO- or -SO2-, and Z1+ represents an organic cation.
 For Q11 and Q12, examples of the perfluoroalkyl group include examples of those for Q1 and Q2, and a trifluoromethyl group is preferred. Q11 and Q12 each independently preferably represent a fluorine atom or a trifluoromethyl group, and Q11 and Q12 are more preferably fluorine atoms.
 Examples of the divalent saturated hydrocarbon group represented by L include linear alkanediyl groups, branched chain alkanediyl groups, a monocyclic divalent alicyclic hydrocarbon group, a polycyclic divalent alicyclic hydrocarbon group and combinations of them. Specific examples of them include linear alkanediyl groups such as a methylene group, an ethylene group, a propane-1,3-diyl group, a butane-1,4-diyl group, a pentane-1,5-diyl group, a hexane-1,6-diyl group, a heptane-1,7-diyl group, an octane-1,8-diyl group, a nonane-1,9-diyl group, a decane-1,10-diyl group, a undecane-1,11-diyl group, a dodecane-1,12-diyl group, a tridecane-1,13-diyl group, a tetradecane-1,14-diyl group, a pentadecane-1,15-diyl group, a hexadecane-1,16-diyl group and heptadecane-1,17-diyl group; branched chain alkanediyl groups such as an ethane-1,1-diyl group, a propane-1,1-diyl group, a propane-1,2-diyl group, a propane-2,2-diyl group, a pentane-2,4-diyl group, a 2-methylpropane-1,3-diyl group, a 2-methylpropane-1,2-diyl group, a pentane-1,4-diyl group and 2-methylbutane-1,4-diyl group; a monocyclic divalent alicyclic hydrocarbon group such as a cyclobutan-1,3-diyl group, cyclopentane-1,3-diyl group, a cyclohexane-1,4-diyl group, and a cyclooctane-1,5-diyl group; and a polycyclic divalent alicyclic hydrocarbon group such as a norbornane-1,4-diyl group, a norbornane-2,5-diyl group, an adamantane-1,5-diyl group and an adamantane-2,6-diyl group.
 When LB1 represents a divalent saturated hydrocarbon group in which a methylene group has been replaced by an oxygen atom or a carbonyl group, examples of LB1 include the moiety represented by any one of formulae (b1-1) to (b1-3) as follow;
+<img> id-US20180065924A1-20180308-C00102.TIF </img>
 wherein Lb2 represents a single bond or a C1 to C22 divalent saturated hydrocarbon group in which a hydrogen atom can be replaced by a fluorine atom, and
 Lb3 represents a single bond or a C1 to C22 divalent saturated hydrocarbon group in which a hydrogen atom can be replaced by a fluorine atom or a hydroxyl group and in which a methylene group can be replaced by an oxygen atom or a carbonyl group, provided that the total number of the carbon atoms in Lb2 and Lb3 is up to 22;
 Lb4 represents a single bond or a C1 to C22 divalent saturated hydrocarbon group in which a hydrogen atom can be replaced by a fluorine atom, and Lb5 represents a single bond or a C1 to C22 divalent saturated hydrocarbon group in which a hydrogen atom can be replaced by a fluorine atom or a hydroxyl group and in which a methylene group can be replaced by an oxygen atom or a carbonyl group, provided that the total number of the carbon atoms in Lb4 and Lb5 is up to 22;
@@ -652,6 +722,7 @@ Lb6 is preferably a single bond or a C1 to C4 divalent saturated hydrocarbon gro
 Lb7 is preferably a single bond or a C1 to C18 divalent saturated hydrocarbon group where a hydrogen atom can be replaced by a fluorine atom or a hydroxy group, and where a methylene group can be replaced by an oxygen atom or a carbonyl group.
 Among these, the group represented by the formula (b1-1) or the formula (b1-3) is preferred.
 Examples of the divalent group represented by the formula (b1-1) include the following groups represented by formula (b1-4) to formula (b1-8):
+<img> id-US20180065924A1-20180308-C00103.TIF </img>
 wherein Lb8 represents a single bond or a C1 to C22 divalent saturated hydrocarbon group where a hydrogen atom can be replaced by a fluorine atom or a hydroxy group;
 Lb9 represents a C1 to C20 divalent saturated hydrocarbon group, and Lb1 represents a single bond or a C1 to C19 divalent saturated hydrocarbon group where a hydrogen atom can be replaced by a fluorine atom or a hydroxy group, provided that the total number of carbon atoms contained in the group of Lb9 and Lb10 is 20 or less;
 Lb11 represents a C1 to C21 divalent saturated hydrocarbon group, and Lb12 represents a single bond or a C1 to C20 divalent saturated hydrocarbon group where a hydrogen atom can be replaced by a fluorine atom or a hydroxy group, provided that the total number of carbon atoms contained in the group of Lb11 and Lb12 is 21 or less;
@@ -669,6 +740,7 @@ Lb16 is preferably a C1 to C12 divalent saturated hydrocarbon group.
 Lb17 is preferably a C1 to C6 divalent saturated hydrocarbon group.
 Lb18 is preferably a single bond or a C1 to C17 divalent saturated hydrocarbon group, and more preferably a single bond or a C1 to C4 divalent saturated hydrocarbon group.
 Examples of the divalent group represented by the formula (b1-3) include the following groups represented by formula (b1-9) to formula (b1-11):
+<img> id-US20180065924A1-20180308-C00104.TIF </img>
 wherein Lb19 represents a single bond or a C1 to C23 divalent saturated hydrocarbon group where a hydrogen atom can be replaced by a fluorine atom, and Lb20 represent a single bond or a C1 to C23 divalent saturated hydrocarbon group where a hydrogen atom can be replaced by a fluorine atom, a hydroxy group or an acyloxy group, and a methylene group contained in an acyloxy group can be replaced by an oxygen atom or a carbonyl group, and a hydrogen atom contained in an acyloxy group can be replaced by a hydroxy group, provided that the total number of carbon atoms contained in the group of Lb19 and Lb20 is 23 or less;
 Lb21 represents a single bond or a C1 to C21 divalent saturated hydrocarbon group where a hydrogen atom can be replaced by a fluorine atom, Lb22 represents a single bond or a C1 to C21 divalent saturated hydrocarbon group, and Lb23 represents a single bond or a C1 to C21 divalent saturated hydrocarbon group where a hydrogen atom can be replaced by a fluorine atom, a hydroxy group or an acyloxy group, and a methylene group contained in an acyloxy group can be replaced by an oxygen atom or a carbonyl group, and a hydrogen atom contained in an acyloxy group can be replaced by a hydroxy group, provided that the total number of carbon atoms contained in the group of Lb21, Lb22 and Lb23 is 21 or less;
 Lb24 represents a single bond or a C1 to C20 divalent saturated hydrocarbon group where a hydrogen atom can be replaced by a fluorine atom, Lb25 represents a single bond or a C1 to C21 divalent saturated hydrocarbon group, and Lb26 represents a single bond or a C1 to C20 divalent saturated hydrocarbon group where a hydrogen atom can be replaced by a fluorine atom, a hydroxy group or an acyloxy group, and a methylene group contained in an acyloxy group can be replaced by an oxygen atom or a carbonyl group, and a hydrogen atom contained in an acyloxy group can be replaced by a hydroxy group, provided that the total number of carbon atoms contained in the group of Lb24, Lb25 and Lb26 is 21 or less;
@@ -677,6 +749,7 @@ In formula (b1-9) to formula (b1-11), when a hydrogen atom has been replaced by 
 LB1 is preferably one represented by formulae (b1-1), (b1-2) or (b1-3), more preferably *2-CO-O-(CH2)t1- or *2-(CH2)t2-O-CO- where t1 represents an integer of 0 to 6, t2 represents an integer of 2 to 6, and *2 represents a binding position to -C(Q11)(Q12)-.
 The monovalent alicyclic hydrocarbon group for Y may be a monocyclic one or polycyclic one such as a spiro ring.
 Preferred examples of the alicyclic hydrocarbon group represented by Y include those represented by the formulae (Y1) to (Y38).
+<img> id-US20180065924A1-20180308-C00105.TIF </img><img> id-US20180065924A1-20180308-C00106.TIF </img><img> id-US20180065924A1-20180308-C00107.TIF </img><img> id-US20180065924A1-20180308-C00108.TIF </img>
 Among the groups represented by the formulae (Y1) to (Y38), preferred are those represented by formulae (Y1) to (Y20), (Y30) and (Y31); more preferred are those represented by the formulae (Y11), (Y15), (Y16), (Y19), (Y30) and (Y31); and still more preferred are those represented by the formulae (Y11), (Y15) and (Y30).
 Substituents on the alicyclic hydrocarbon groups for Y include a halogen atom, a C1-C12 alkyl group, a C1-C12 hydroxy-containing alkyl group, a hydroxyl group, a C1-C12 alkoxy group, a C3-C16 alicyclic hydrocarbon group, a C6-C18 aromatic hydrocarbon group, a C7-C21 aralkyl group, a C2-C4 acyl group, a glycidyloxy group, and -(CH2)j2-O-CO-Rb1'- in which Rb1' is a C1-C16 alkyl group and j2 is an integer of 0 to 4.
 Examples of hydroxyl-containing alkyl group include a hydroxymethyl group and a hydroxyethyl group.
@@ -685,14 +758,19 @@ Examples of the aromatic hydrocarbon group include an aryl group such as a pheny
 Examples of the acyl group include an acetyl group, a propyonyl group and a butyryl group.
 Examples of the halogen atom include a fluorine atom, a chlorine atom, a bromine atom and an iodine atom.
 Examples of Y include the groups as follow.
+<img> id-US20180065924A1-20180308-C00109.TIF </img><img> id-US20180065924A1-20180308-C00110.TIF </img>
 where * represents a binding position.
 Y represents preferably a C3-C18 alicyclic hydrocarbon group which may have a substituent, more preferably an amadantyl group which may have a substituent, and still more preferably an amadantyl group, a hydroxyamadantyl group, an oxoamadantyl group, or the following group.
+<img> id-US20180065924A1-20180308-C00111.TIF </img><img> id-US20180065924A1-20180308-C00112.TIF </img>
 Preferred examples of the sulfonic acid anion of the salt represented by formula (B1) include salts represented by the formulae (B1-A-1) to (B1-A-55), preferably the formulae (B1-A-1) to (B1-A-4), (B1-A-9), (B1-A-10), (B1-A-24) to (B1-A-33), (B1-A-36) to (B1-A-40) and (B1-A-47) to (B1-A-55).
+<img> id-US20180065924A1-20180308-C00113.TIF </img><img> id-US20180065924A1-20180308-C00114.TIF </img><img> id-US20180065924A1-20180308-C00115.TIF </img><img> id-US20180065924A1-20180308-C00116.TIF </img><img> id-US20180065924A1-20180308-C00117.TIF </img>
 In these formulae, the symbols Q11, Q12 and Y are defined as above, Ri2, Ri3, Ri4, Ri5, Ri6 and Ri7 each independently represent a C1-C4 alkyl group, preferably a methyl group or an ethyl group, Ri8 represents a C1-C12 saturated hydrocarbon group [preferably a C1-C4 alkyl group], a C5-C12 monovalent alicyclic hydrocarbon group, or a combined group of them, preferably a methyl group, an ethyl group, a cyclohexyl group or an adamantyl group, and L44 represents a single bond or a C1-C4 alkanediyl group.
 Specific examples of the anion for the salt represented by formula (B1) include the following anions.
+<img> id-US20180065924A1-20180308-C00118.TIF </img><img> id-US20180065924A1-20180308-C00119.TIF </img><img> id-US20180065924A1-20180308-C00120.TIF </img>
 Among them, preferred are those represented by formulae (B1a-1) to (B1a-3), (B1a-7) to (B1a-16), (B1a-18), (B1a-19) and (B1a-22) to (B1a-34).
 Examples of the organic counter ion represented by Z1+ include an onium cations as referred to Z+ of formula (I), for example those represented by the formulae (b2-1), (b2-2), (b2-3) and (b2-4), and a sulfonium cation and an iodonium cation are preferred, and a sulfonium cation, specifically an arylsulfonium cation, is more preferred.
 Specific examples of the acid generator include the following salts represented by formulae (B1-1) to (B1-48). Among them, those which comprise an arylsulfonium cation are preferred, the salts represented by formulae (B1-1), (B1-2), (B1-3), (B1-5), (B1-6), (B1-7), (B1-11), (B1-12), (B1-13), (B1-14), (B1-17), (B1-20), (B1-21), (B1-22), (B1-23), (B1-24), (B1-25), (B1-26), (B1-29) and (B1-31) to (B1-48) are more preferred.
+<img> id-US20180065924A1-20180308-C00121.TIF </img><img> id-US20180065924A1-20180308-C00122.TIF </img><img> id-US20180065924A1-20180308-C00123.TIF </img><img> id-US20180065924A1-20180308-C00124.TIF </img><img> id-US20180065924A1-20180308-C00125.TIF </img><img> id-US20180065924A1-20180308-C00126.TIF </img><img> id-US20180065924A1-20180308-C00127.TIF </img>
 The content of the acid generator (B) is preferably 1 to 40 parts by mass, more preferably 3 to 35 parts by mass, still more preferably 30 parts by mass, further more preferably 25 parts by mass, per 100 parts of Resin (A).
 When the photoresist composition further contains the acid generator (B), the total content of the acid generator (B) and the salt represented by formula (I) is preferably 1.5 to 40 parts by mass, more preferably 3 to 35 parts by mass, per 100 parts of Resin (A). When the photoresist contains the acid generator (B), the weight ratio of the salt and the acid generator (B) is usually 1:99 to 99:1, preferably 2:98 to 98:2, more preferably 5:95 to 95:5.
 <Solvent>
@@ -710,6 +788,7 @@ The acid dissociation constant of acid generated from the salt for a quencher is
 The salt for a quencher is preferably a salt of −1<pKa<7, and more preferably a salt of 0<pKa<5.
 Specific examples of the salt for a quencher include the following ones, an onium carboxylic acid salt such as the salt of formula (D), and salts recited in US2012/328986A1, US2011/171576A1, US2011/201823A1, JP2011-39502A1, and US2011/200935A1.
 The photoresist composition comprises preferably onium carboxylic acid salt, more preferably the salt of formula (D).
+<img> id-US20180065924A1-20180308-C00128.TIF </img><img> id-US20180065924A1-20180308-C00129.TIF </img><img> id-US20180065924A1-20180308-C00130.TIF </img>
 The content of quencher is preferably 0.01 to 5% by mass, more preferably 0.01 to 4% by mass, still more preferably 0.01 to 3% by mass, based on sum of solid component.
 The photoresist compositions of the present invention may comprise, if necessary, a small amount of various additives such as a sensitizer, a dissolution inhibitor, other polymers, a surfactant, a stabilizer and a dye as long as the effect of the present invention is not prevented.
 The photoresist compositions of the present invention can be prepared by mixing, usually in a solvent, an acid generator which contains the salt represented by formula (I) and Resin (A), and if necessary a quencher, and/or additives at a suitable ratio for the composition, optionally followed by filtrating the mixture with a filter having 0.003 μm to 0.2 μm of a pore size.
@@ -751,6 +830,7 @@ Injection volume: 100 μL
 Standard reference material: Standard polystyrene
 Structures of compounds were determined by mass spectrometry (Liquid Chromatography: 1100 Type, manufactured by AGILENT TECHNOLOGIES LTD., Mass Spectrometry: LC/MSD Type, manufactured by AGILENT TECHNOLOGIES LTD.). Hereinafter the peak value in the molecular ion spectrum determined by the spectrometry is referred to as “MASS”.
 Example 1
+<img> id-US20180065924A1-20180308-C00131.TIF </img>
 In a reactor, 50.3 parts of the salt represented by the formula (I-1-a) and 250 parts of acetonitrile were mixed and stirred at 40° C. for one hour. To resultant mixture, 23.8 parts of the salt represented by the formula (I-1-b) was added over 10 minutes, and then its temperature was increased to 70° C. Then the obtained mixture was stirred at 70° C. for 2 hours to obtain a solution which contained a salt represented by formula (I-1-c).
 The solution was cooled to 23° C., and thereto was added a mixture of 13 parts of a salt represented by formula (I-1-d) and 13 parts of acetonitrile over 90 minutes, and stirred at 23° C. for one hour, followed by being concentrated. To the concentrates, 500 parts of chloroform and 390 parts of 5% aqueous oxalic acid solution were added, followed by being stirred at 23° C. for 30 minutes. The obtained mixture was left so as to separate an organic layer.
 To the organic layer, 250 parts of ion-exchanged water were added and stirred at 23° C. for 30 minutes for washing, followed by separating an organic layer: The organic layer was washed four times with ion-exchanged water in this manner.
@@ -759,6 +839,7 @@ The obtained residue was dissolved in acetonitrile and then concentrated to obta
 MS (ESI(+) Spectrum): M+ 263.1
 MS (ESI(−) Spectrum): M− 327.1
 Examples 2
+<img> id-US20180065924A1-20180308-C00132.TIF </img>
 In a reactor, 5 parts of the salt represented by the formula (I-1-a) and 25 parts of acetonitrile were mixed and stirred at 40° C. for one hour. To resultant mixture, 2.38 parts of the salt represented by the formula (I-1-b) was added at 40° C., and then its temperature was increased to 60° C. Then the obtained mixture was stirred at 60° C. for 2 hours to obtain a solution which contained a salt represented by formula (I-1-c).
 To the solution was added a mixture of 1.48 parts of a salt represented by formula (I-3-d) and 1.48 parts of acetonitrile, and stirred at 60° C. for 6 hours, followed by being concentrated. To the concentrates, 50 parts of chloroform and 40 parts of 5% aqueous oxalic acid solution were added, followed by being stirred at 23° C. for 30 minutes. The obtained mixture was left so as to separate an organic layer.
 To the organic layer, 25 parts of ion-exchanged water were added and stirred at 23° C. for 30 minutes for washing, followed by separating an organic layer: The organic layer was washed five times with ion-exchanged water in this manner.
@@ -766,6 +847,7 @@ Then the resultant mixture was concentrated. To the obtained residue, 20 parts o
 MS (ESI(+) Spectrum): M+ 263.1
 MS (ESI(−) Spectrum): M− 351.1
 Example 3
+<img> id-US20180065924A1-20180308-C00133.TIF </img>
 In a reactor, 4.84 parts of the salt represented by the formula (I-15-a) and 25 parts of acetonitrile were mixed and stirred at 40° C. for one hour. To resultant mixture, 2.38 parts of the salt represented by the formula (I-1-b) was added at 40° C., and then its temperature was increased to 60° C. Then the obtained mixture was stirred at 60° C. for 2 hours to obtain a solution which contained a salt represented by formula (I-15-c).
 To the solution was added a mixture of 1.48 parts of a salt represented by formula (I-3-d) and 1.48 parts of acetonitrile, and stirred at 60° C. for 6 hours, followed by being concentrated. To the concentrates, 50 parts of chloroform and 40 parts of 5% aqueous oxalic acid solution were added, followed by being stirred at 23° C. for 30 minutes. The obtained mixture was left so as to separate an organic layer.
 To the organic layer, 25 parts of ion-exchanged water were added and stirred at 23° C. for 30 minutes for washing, followed by separating an organic layer: The organic layer was washed five times with ion-exchanged water in this manner.
@@ -774,6 +856,7 @@ The obtained residue was dissolved in acetonitrile and then concentrated to obta
 MS (ESI(+) Spectrum): M+ 263.1
 MS (ESI(−) Spectrum): M− 381.1
 Example 4
+<img> id-US20180065924A1-20180308-C00134.TIF </img>
 In a reactor, 4.84 parts of the salt represented by the formula (I-15-a) and 25 parts of acetonitrile were mixed and stirred at 40° C. for one hour. To resultant mixture, 2.38 parts of the salt represented by the formula (I-1-b) was added at 40° C., and then its temperature was increased to 60° C. Then the obtained mixture was stirred at 60° C. for 2 hours to obtain a solution which contained a salt represented by formula (I-15-c).
 To the solution was added a mixture of 1.3 parts of a salt represented by formula (I-1-d) and 1.3 parts of acetonitrile, and stirred at 60° C. for 6 hours, followed by being concentrated. To the concentrates, 50 parts of chloroform and 40 parts of 5% aqueous oxalic acid solution were added, followed by being stirred at 23° C. for 30 minutes. The obtained mixture was left so as to separate an organic layer.
 To the organic layer, 25 parts of ion-exchanged water were added and stirred at 23° C. for 30 minutes for washing, followed by separating an organic layer: The organic layer was washed five times with ion-exchanged water in this manner.
@@ -783,14 +866,18 @@ MS (ESI(+) Spectrum): M+ 263.1
 MS (ESI(−) Spectrum): M− 357.1
 Synthesis of Resin
 Monomers used in the following Example are following ones.
+<img> id-US20180065924A1-20180308-C00135.TIF </img><img> id-US20180065924A1-20180308-C00136.TIF </img>
 Those monomers are sometimes referred to as “Monomer (X)” in which (X) represents the sign of the formula corresponding to the monomer. For example, the monomer represented by formula (a1-1-2) is referred to as “Monomer (a1-1-2)”.
 Resin Synthesis Example 1
 The monomers (a1-1-2), (a1-2-9), (a2-1-1) and (a3-4-2) were mixed in a molar ratio of 35/24/2.5/38.5 (monomer (a1-1-2)/monomer (a1-2-9)/monomer (a2-1-1)/monomer (a3-4-2)), and propyleneglycolmonomethyletheracetate was added in 1.5 times parts based on total parts of all monomers to prepare a mixture. To the mixture, azobisisobutyronitrile as an initiator in a ratio of 1 mol % based on all monomer molar amount and azobis(2,4-dimethylvaleronitrile) as an initiator in a ratio of 3 mol % based on all monomer molar amount were added, and the obtained mixture was heated at 73° C. for about 5 hours. The reaction mixture obtained was poured into a large amount of a mixture of methanol and water to cause precipitation, followed by being filtrated. The collected precipitate was dissolved in propyleneglycolmonomethyletheracetate, and then a large amount of the mixture of methanol and water was added thereto to cause precipitation, followed by being filtrated: This reprecipitation step was conducted twice. As a result, a polymer having a weight-average molecular weight of about 8,600 was obtained in a yield of 78%. The polymer had the following structural units. That resin is referred to as polymer A1.
+<img> id-US20180065924A1-20180308-C00137.TIF </img>
 Resin Synthesis Example 2
 The monomers (a1-1-2), (a1-2-9), (a2-1-1), (a2-0-2) and (a3-4-2) were mixed in a molar ratio of 35/24/2.5/5/33.5 (monomer (a1-1-2)/monomer (a1-2-9)/monomer (a2-1-1)/monomer (a2-0-2)/monomer (a3-4-2)), and propyleneglycolmonomethyletheracetate was added in 1.5 times parts based on total parts of all monomers to prepare a mixture. To the mixture, azobisisobutyronitrile as an initiator in a ratio of 1 mol % based on all monomer molar amount and azobis(2,4-dimethylvaleronitrile) as an initiator in a ratio of 3 mol % based on all monomer molar amount were added, and the obtained mixture was heated at 73° C. for about 5 hours. The reaction mixture obtained was poured into a large amount of a mixture of methanol and water to cause precipitation, followed by being filtrated.
 The collected precipitate was dissolved in propyleneglycolmonomethyletheracetate, and then a large amount of the mixture of methanol and water was added thereto to cause precipitation, followed by being filtrated: This reprecipitation step was conducted twice. As a result, a polymer having a weight-average molecular weight of about 8,900 was obtained in a yield of 82%. The polymer had the following structural units. That resin is referred to as polymer A2.
+<img> id-US20180065924A1-20180308-C00138.TIF </img>
 Resin Synthesis Example 3
 The monomers (a5-1-1) and (a4-0-12) were mixed in a molar ratio of 50/50 (monomer (a5-1-1)/monomer (a4-0-12)), and methylisobutylketone was added in 1.2 times parts based on total parts of all monomers to prepare a mixture. To the mixture, azobisisobutyronitrile was added as an initiator in a ratio of 3 mol % based on all monomer molar amount, and the obtained mixture was heated at 70° C. for about 5 hours. The reaction mixture obtained was poured into a large amount of a mixture of methanol and water to cause precipitation, followed by being filtrated. As a result, a polymer having a weight-average molecular weight of about 10,000 was obtained in a yield of 91%. The polymer had the following structural units. That resin is referred to as polymer X1.
+<img> id-US20180065924A1-20180308-C00139.TIF </img>
 Examples 5 to 14 and Comparative Examples 1 to 3
 <Producing Photoresist Compositions>
 The following components as listed in the following table were mixed and dissolved in the solvent as mentioned below, and then filtrated through a fluorine resin filter having pore diameter of 0.2 μm, to prepare photoresist compositions.
@@ -852,6 +939,7 @@ B1-22: Salt represented by formula (B1-22), produced according to the method as 
 IX-1: Salt represented by formula (IX-1), produced according to the method as recited in JP2007-197718A1
 IX-2: Salt represented by formula (IX-2), produced according to the method as recited in JP2007-145822A1
 IX-3: Salt represented by formula (IX-3), produced according to the method as recited in JP2013-82893A1
+<img> id-US20180065924A1-20180308-C00140.TIF </img>
 <Salt of Formula (I)>
 I-1: Salt represented by formula (I-1)
 I-3: Salt represented by formula (I-3)
@@ -859,6 +947,7 @@ I-15: Salt represented by formula (I-15)
 I-16: Salt represented by formula (I-16)
 <Quencher>
 D1: The compound of the following formula, which was manufactured by Tokyo Chemical Industries, Co., Ltd.
+<img> id-US20180065924A1-20180308-C00141.TIF </img>
 <Solvent>
 <table>
 <header>

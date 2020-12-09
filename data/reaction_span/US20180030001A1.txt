@@ -24,16 +24,20 @@ EP 832642 discloses s-triazine derivatives obtained by reacting trichlorotriazin
 Sun protection factor (SPF) is a measurement of the photoprotective power of a sunscreen or a cosmetic formulation containing one or more sunscreens. The sun protection factor is the ratio between the MED (Minimal Erythema Dose) determined on protected skin and the MED determined on unprotected skin. It is directly correlated with specific extinction, and therefore also with the amount of photoprotector present in the cosmetic preparation.
 DESCRIPTION OF THE INVENTION
 It has now been found that the triazine compounds of general formula (I):
+<img> id-US20180030001A1-20180201-C00002.TIF </img>
 wherein:
 X is an -O- or -NH- group
 R is a straight, cyclic or branched C1-C18 alkyl group
 and groups A and B can be, independently of one another:
 a group of formula (II)
+<img> id-US20180030001A1-20180201-C00003.TIF </img>
 wherein R1 and R2 can be, independently of one another, H, straight, cyclic or branched C1-C22 alkyls, C1-C18 hydroxyalkyls, C2-C22 alkoxyxalkyls or polyalkylene glycols
 or a group of formula (III)
+<img> id-US20180030001A1-20180201-C00004.TIF </img>
 wherein Y, independently of the value of X, is an -O- or -NH- group
 R3 is a straight, cyclic or branched C1-C18 alkyl group which is the same or different from R
 or a group of formula (IV)
+<img> id-US20180030001A1-20180201-C00005.TIF </img>
 wherein Z, independently of the value of X and Y, is an -O- or -NH- group
 R4 is a straight, cyclic or branched C1-C18 alkyl group which is the same or different from R and R3
 not only absorb very intensely in the UV-B region, but also possess excellent solubility in the solvents most commonly used as components of sunscreen formulations, although they have a very high molecular weight, and are therefore more suitable in toxicological terms since they are less likely to be absorbed by the skin tissue.
@@ -43,26 +47,35 @@ The compounds according to the invention, in addition to high absorption in both
 Typically, the numerical UV-A/UV-B ratio of these compounds, defined as the ratio between the intensity of the radiation absorbed between 320 nm and 400 nm (UVA fraction) and that absorbed between 290 nm and 320 nm (UVB fraction), is greater than 0.20, and preferably greater than 0.30, whereas in the analogous triazine compounds with a 4-aminobenzoate or 4-aminobenzamide substituent different from the substituents described in Formula (IV), it is below about 0.14. Moreover, we have found that by increasing the number of substituents of formula (IV) in the compounds of formula (I), the UV-A light absorption component increases accordingly. The fact that it possesses a significant UV-A component and therefore a broader UV spectrum is undoubtedly an advantage for a substance intended for use as a sunscreen.
 DETAILED DESCRIPTION OF THE INVENTION
 The invention relates to the triazine compounds of Formula (I):
+<img> id-US20180030001A1-20180201-C00006.TIF </img>
 wherein:
 X is an -O- or -NH- group
 R is a straight, cyclic or branched C1-C18 alkyl group
 and groups A and B can be, independently of one another:
 a group of formula (II)
+<img> id-US20180030001A1-20180201-C00007.TIF </img>
 wherein R1 and R2 can be, independently of one another, H, straight, cyclic or branched C1-C22 alkyls, C1-C18 hydroxyalkyls, C2-C18 alkoxyxalkyls or polyalkylene glycols
 or a group of formula (III)
+<img> id-US20180030001A1-20180201-C00008.TIF </img>
 wherein Y, independently of the value of X, is an -O- or -NH- group
 R3 is a straight, cyclic or branched C1-C18 alkyl group which is the same or different from R or a group of formula (IV)
+<img> id-US20180030001A1-20180201-C00009.TIF </img>
 wherein Z, independently of the value of X and Y, is an -O- or -NH- group
 R4 is a straight, cyclic or branched C1-C18 alkyl group which is the same or different from R and R3
 as photostabilising agents against UV-visible radiation.
 Preferably, in the compounds of formula (I), the carboxylate -CO-O- or amide -CO-NH- (or also -CO-X-, -CO-Y-, -CO-Z-) groups on the phenyl rings occupy the para or 4 position to the -NH- group, and the R, R1, R2, R3 and R4 groups are straight or branched C1-C12 alkyl groups.
 Even more preferably, the compounds of formula (I) are the compounds of formulas (V), (VI) and (VII).
+<img> id-US20180030001A1-20180201-C00010.TIF </img>
 The compounds of the invention preferably have a UVA:UVB ratio greater than 0.30.
 The compounds of the invention can be prepared by reacting a nitrobenzoyl chloride or bromide with compounds of formula (VIII)
+<img> id-US20180030001A1-20180201-C00011.TIF </img>
 to give the nitro intermediate of formula (IX)
+<img> id-US20180030001A1-20180201-C00012.TIF </img>
 which, by subsequent reduction or hydrogenation, affords amino intermediate (X)
+<img> id-US20180030001A1-20180201-C00013.TIF </img>
 Intermediate (X) is then reacted with cyanuryl chloride or bromide according to the most suitable stoichiometries and sequences based on well-known synthesis techniques.
 The compounds of formula (I) must therefore necessarily be prepared by reacting 1 mole of cyanuryl chloride or bromide with at least 1 mole of intermediate (X), and optionally, where appropriate, with the remaining moles of amino compounds of formula (VIII) and/or (XI), wherein the amines of formula (XI) are:
+<img> id-US20180030001A1-20180201-C00014.TIF </img>
 wherein R1 and R2 maintain the meaning described above.
 The order in which intermediate (X) and optionally the amines of formulas (VIII) and/or (XI) are reacted with cyanuryl chloride or bromide can follow any intermediate sequence and stoichiometry.
 Cyanuryl chloride and bromide have three reactive halogen atoms able to react selectively with ammonia, primary amines and secondary amines at very different temperatures, thus making it possible to replace each halogen atom with the desired amine with quantitative yields.

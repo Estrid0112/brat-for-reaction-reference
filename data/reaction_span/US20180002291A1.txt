@@ -2,6 +2,7 @@ TECHNICAL FIELD
 The present invention relates to plant disease controlling agents and use thereof.
 BACKGROUND ART
 For example, a compound represented by the following formula (X):
+<img> id-US20180002291A1-20180104-C00002.TIF </img>
 is known as an usable compound having a plant disease controlling effect (see U.S. Pat. No. 5,824,705).
 CITATION LIST
 Patent Literature
@@ -9,6 +10,7 @@ Patent Literature
 SUMMARY OF INVENTION
 The present invention provides compounds having an excellent effect of controlling plant diseases.
 According to the present invention, a carbamate compound represented by formula (I):
+<img> id-US20180002291A1-20180104-C00003.TIF </img>
 wherein,
 R1 represents a hydrogen atom or a C1-C3 alkyl group;
 R2, R3, R4 and R5 each independently represents a hydrogen atom, a halogen atom, a C1-C3 alkyl group optionally having one or more halogen atoms, a C3-C4 cycloalkyl group optionally having one or more halogen atoms, or a C1-C3 alkoxy group optionally having one or more halogen atoms;
@@ -25,6 +27,7 @@ a carbamate compound, wherein R1 is a hydrogen atom or a methyl group;a carbamat
 The carbamate compounds of the present invention can be produced by the following Production Methods.
 Production Method A
 The present carbamate compounds (hereinafter referred to as Compound (I)) of the present invention can be produced by reacting a compound represented by formula (A1) (hereinafter referred to as Compound (A1)) with a compound represented by formula (A2) (hereinafter referred to as Compound (A2)) in the presence of a copper compound and a base.
+<img> id-US20180002291A1-20180104-C00004.TIF </img>
 wherein, Z11 represents a di(C1-C3 alkoxy)boranyl group or a 4,4,5,5-tetramethyl-1,3,2-dioxaboran-2-yl group, R1, R2, R3, R4, R5, Z1 and m have the same meanings as defined above.
 The reaction is usually carried out in a solvent. Examples of the solvent include hydrocarbons such as hexane, cyclohexane, toluene, and xylene; ethers such as diethyl ether, tetrahydrofuran, 1,4-dioxane, ethylene glycol dimethyl ether, methyl tert-butyl ether and diisopropyl ether; halogenated hydrocarbons such as chloroform, dichloromethane and chlorobenzene; acid amides such as N,N-dimethylformamide, 1,3-dimethyl-2-imidazolidinone and N-methylpyrrolidone; esters such as ethyl acetate and methyl acetate; sulfoxides such as dimethyl sulfoxide; nitriles such as acetonitrile and propionitrile; alcohols such as methanol, ethanol, propanol and butanol; water and mixture thereof.
 Examples of the copper compound include such as copper(II) acetate.
@@ -35,6 +38,7 @@ The reaction temperature of the reaction is usually within a range of −20 to 1
 After the completion of the reaction, Compound 1 can be isolated by carrying out post-treatment operation such as extracting the reaction mixture by using an organic solvent, drying the organic layer, and condensing the organic layer.
 Production Method B
 The carbamate compounds of the present invention can be produced by reacting a compound represented by formula (B1) (hereinafter referred to as Compound (B1)) with methyl chloroformate.
+<img> id-US20180002291A1-20180104-C00005.TIF </img>
 wherein, R1, R2, R3, R4, R5, Z1 and m have the same meanings as defined above.
 The reaction is usually carried out in a solvent. Examples of the solvent include hydrocarbons, ethers, halogenated hydrocarbons, acid amides, esters, sulfoxides, nitriles as described in Production Method A, ketones such as acetone, ethyl methyl ketone and isobutyl methyl ketone, and water and mixture thereof.
 In the reaction, usually, methyl cloroformate is used in the proportion of 1 to 10 moles based on 1 mole of Compound (B1).
@@ -44,12 +48,15 @@ After the completion of the reaction, Compound 1 can be isolated by carrying out
 The process for producing Intermediate compound will be described below.
 Reference Production Method A-1
 Compound (A1) can be produced by reacting a compound represented by formula (A3) (hereinafter referred to as Compound (A3)) with a boron compound in the presence of a palladium catalyst in accordance with the Miyaura-Ishiyama Borylation reaction. It can be also referred to Angewandte Chemie, International Edition, 46, 5359-5363 (2007).
+<img> id-US20180002291A1-20180104-C00006.TIF </img>
 wherein, X1 represents a chlorine atom, a bromine atom or an iodine atom, and R1, R2, R3, R4, R5 and Z11 have the same meanings as defined above.
 Reference Production Method A-2
 Compound (A3) can be produced by reacting a compound represented by formula (A4) (hereinafter referred to as Compound (A4)) with methyl chloroformate in the same manner as Production Method B.
+<img> id-US20180002291A1-20180104-C00007.TIF </img>
 wherein, R1, R2, R3, R4, R5, and X1 have the same meanings as defined above.
 Reference Production Method A-3
 Compound (A4) can be produced by reacting a compound represented by formula (A5) (hereinafter referred to as Compound (A5)) with a reducing agent in the presence of a catalyst.
+<img> id-US20180002291A1-20180104-C00008.TIF </img>
 wherein, R1, R2, R3, R4, R5, and X1 have the same meanings as defined above.
 The reaction is usually carried out in a solvent. Examples of the solvent include hydrocarbons such as hexane, cyclohexane, toluene, and xylene; ethers such as diethyl ether, tetrahydrofuran, 1,4-dioxane, ethylene glycol dimethyl ether, methyl tert-butyl ether and diisopropyl ether; halogenated hydrocarbons such as chloroform, dichloromethane and chlorobenzene; alcohols such as methanol, ethanol, propanol and butanol; and mixture thereof.
 Examples of the reducing agent include potassium borohydride and sodium borohydride.
@@ -59,13 +66,16 @@ The reaction temperature of the reaction is usually within a range of −20 to 1
 After the completion of the reaction, Compound (A4) can be isolated by carrying out post-treatment operation such as extracting the reaction mixture by using an organic solvent, drying the organic layer, and condensing the organic layer.
 Reference Production Method A-4
 Compound (A5) can be produced by reacting a compound represented by formula (A6) (hereinafter referred to as Compound (A6)) with a compound represented by formula (A7) (hereinafter referred to as Compound (A7)) in the presence of a base.
+<img> id-US20180002291A1-20180104-C00009.TIF </img>
 wherein, X2 represents a leaving group such as a chlorine atom, a bromine atom or an iodine atom, a mesyloxy group and a tosyloxy group, and R1, R2, R3, R4, R5 and X1 have the same meanings as defined above.
 The reaction can be carried out in accordance with Production Method N of US Patent Application Publication No. 2015/203511.
 Reference Production Method B-1
 Compound (B1) can be produced by reacting a compound represented by formula (B2) (hereinafter referred to as Compound (B2)) with the reducing agent in the presence of the catalyst in the same manner as Reference Production Method A-3.
+<img> id-US20180002291A1-20180104-C00010.TIF </img>
 wherein, R1, R2, R3, R4, R5, Z1 and m have the same meanings as defined above.
 Reference Production Method B-2
 Compound (B2) can be produced by reacting Compound (A7) with a compound represented by formula (B3) (hereinafter referred to as Compound (B3)) in the presence of a base in the same manner as Reference Production Method A-4.
+<img> id-US20180002291A1-20180104-C00011.TIF </img>
 wherein, R1, R2, R3, R4, R5, Z1, X2 and m have the same meanings as defined above.
 Compound (B3) can be carried out in accordance with Production Method N of US Patent Application Publication No. 2015/203511.
 Each compound produced in accordance with the above Production Methods and Reference Production Methods can be further purified by known means such as crystallization, recrystallization and chromatography.
@@ -93,6 +103,7 @@ Production Example 1
 A mixture of 0.82 g of Intermediate (16A) described in the following Reference Production Example 4, 0.33 g of 3-methylpyrazole, 1.1 g of copper(II) acetate, 0.64 ml of pyridine, 1.0 g of MS4A and 20 ml of acetonitrile was heated to reflux for 48 hours. After filtration of the reaction solution through Celite®, the residue obtained by condensing the filtrate was subjected to silica gel column chromatography to give 0.24 g of the present Compound 1 and 0.07 g of the present Compound 2 represented by the following.
 The compounds produced in accordance with Production Example 1 and their physical property values are shown below.
 The compounds represented by formula (a):
+<img> id-US20180002291A1-20180104-C00012.TIF </img>
 have Z21, Z22 and Z23 that are shown in Table 1.
 <table>
 <header>
@@ -123,6 +134,7 @@ The present Compound 4:
 1H-NMR (CDCl3) δ: 7.77 (1H, brs), 7.48 (1H, brs), 7.31-7.25 (2H, m), 7.20 (1H, dd), 7.01 (2H, t), 5.97 (1H, s), 5.13 (2H, s), 3.76 (3H, s), 2.41 (3H, s), 2.29 (3H, s), 2.27 (3H, s), 2.25 (3H, s).
 The compounds produced in accordance with Reference Production Example 1 and their physical property values will be shown below.
 Compounds represented by formula (b):
+<img> id-US20180002291A1-20180104-C00013.TIF </img>
 have Z21, Z22 and Z23 that are shown in Table 2.
 <table>
 <header>
@@ -150,12 +162,14 @@ The present Compound 8:
 1H-NMR (CDCl3) δ: 7.99 (1H, s), 7.64 (1H, s), 7.41-7.37 (1H, m), 7.32 (1H, d, J=6.6 Hz), 7.26 (1H, d, J=2.7 Hz), 7.18 (1H, dd, J=8.6, 2.7 Hz), 7.10 (1H, t, J=7.2 Hz), 6.98 (1H, d, J=8.6 Hz), 5.96 (1H, s), 5.12 (2H, s), 3.78 (3H, s), 2.29 (6H, s), 2.32 (3H, s).
 Production Example 2
 A mixture of 0.35 g of Intermediate (21A) described in the following Reference Production Example 5, 0.36 ml of pyridine and 5.9 ml of chloroform was cooled with ice, followed by addition of 0.11 ml of methyl chloroformate to the mixture, and was stirred at room temperature for 30 minutes. The residue obtained by being condensed under reduced pressure was subjected to a silica gel chromatography to give 0.34 g of the present Compound 5 represented by the following formula.
+<img> id-US20180002291A1-20180104-C00014.TIF </img>
 1H-NMR (CDCl3) δ: 7.78 (1H, s), 7.59-7.44 (3H, m), 7.36 (1H, dd), 7.30-7.25 (1H, m), 7.01-6.96 (2H, m), 5.10 (2H, s), 3.75 (3H, s), 2.39 (3H, s), 2.28 (3H, s), 2.25 (3H, s), 2.07 (3H, s).
 Reference Production Examples of production intermediates will be described below.
 Reference Production Example 1
 A mixture of 4.0 g of 2-(bromomethyl)-3-methylnitrobenzene, 2.4 g of 4-bromo-2-methylphenol, 4.8 g of potassium carbonate and 40 ml of acetonitrile was heated to reflux for 5 hours. The reaction solution was filtered through Celite®. The residue obtained by condensing the filtrate under reduced pressure was subjected to silica gel chromatography to give 3.2 g of the following Intermediate (1A).
 The compounds produced in accordance with Reference Production Example 1 and their physical property values will be shown below.
 The compounds represented by formula (aA):
+<img> id-US20180002291A1-20180104-C00015.TIF </img>
 have R21, R31, R41 and R51 that are shown in Table 3.
 <table>
 <header>
@@ -191,6 +205,7 @@ Reference Production Example 2
 To a mixture of 3.2 g of Intermediate (1A), 2.9 g of copper(I) chloride and 50 ml of methanol, 3.3 g of potassium borohydride was added under ice cooling, and the mixture was stirred for 1 hour while being cooled with ice. After filtration of the reactant through Celite®, to the residue obtained by condensing the filtrate under reduced pressure, ethyl acetate was added; and the mixture was washed with an aqueous saturated sodium hydrogen carbonate solution. The organic layer was dried over anhydrous magnesium sulfate, and concentrated under reduced pressure to give 2.0 g of the following Intermediate (6A).
 The compounds produced in accordance with Reference Production Example 2 and their physical property values will be shown below.
 The compounds represented by formula (bA):
+<img> id-US20180002291A1-20180104-C00016.TIF </img>
 have R21, R31, R41 and R51 that are shown in Table 4.
 <table>
 <header>
@@ -226,6 +241,7 @@ Reference Production Example 3
 In the method described in Reference Production Example 2, Intermediate (6A) was used instead of Intermediate (26A) to give the following Intermediate (11A).
 The compounds produced in accordance with Reference Production Example 3 and their physical property values will be shown below.
 The compounds represented by formula (cA):
+<img> id-US20180002291A1-20180104-C00017.TIF </img>
 have R21, R31, R41 and R51 that are shown in Table 5.
 <table>
 <header>
@@ -261,6 +277,7 @@ Reference Production Example 4
 A mixture of 0.50 g of Intermediate (11A), 0.42 g of bis-(pinacolato)diboron, 0.40 g of potassium acetate, 10 ml of 1,4-dioxane and 0.06 g of [1,1'-bis-(diphenylphosphino)ferrocene] palladium(II) dichloride dichloromethane adduct was heated to reflux for 16 hours. After filtration of the reactant through Celite®, the residue obtained by condensing the filtrate was subjected to silica gel column chromatography to give 0.35 g of the following Intermediate (16A).
 The compounds produced in accordance with Reference Production Example 4 and their physical property values will be shown below.
 The compounds represented by formula (dA):
+<img> id-US20180002291A1-20180104-C00018.TIF </img>
 have R21, R31, R41 and R51 that are shown in Table 6.
 <table>
 <header>
@@ -294,12 +311,15 @@ Intermediate (20A)
 1H-NMR (DMSO-d6) δ: 8.8 (1H, brs), 7.46 (2H, d), 7.31 (1H, dd), 7.25-7.17 (2H, m), 6.91 (1H, d), 5.09 (2H, s), 3.62 (3H, s), 2.20 (3H, s), 2.19 (3H, s), 1.27 (12H, s).
 Reference Example 5
 A mixture of 0.3 g of 4-(3,4-dimethylpyrazol-1-yl)-2-methylphenol, 0.34 g of 2-bromomethyl-3-methylnitrobenzene, 0.31 g of potassium carbonate, and 6 ml of acetonitrile was stirred while being heated to reflux for 4 hours. After being cooled, the reaction mixture was filtered through Celite®, to the residue obtained by being condensed under reduced pressure, 15 ml of methanol and 0.44 g of copper(I) chloride were added and were cooled with ice. To the mixture, 0.54 g of potassium borohydride was added and the mixture was stirred under ice cooling. After the filtration of the reaction mixture through Celite®, to the residue obtained by condensing the filtrate under reduced pressure, ethyl acetate was added; and the mixture was washed with an aqueous saturated sodium hydrogen carbonate solution. The organic layer was dried over anhydrous magnesium sulfate, and concentrated under reduced pressure to give 0.35 g of the compound represented by formula below (hereinafter referred to as Intermediate (21A)).
+<img> id-US20180002291A1-20180104-C00019.TIF </img>
 1H-NMR (CDCl3) δ: 7.54 (1H, s), 7.44 (1H, d), 7.36 (1H, dd), 7.07 (1H, t), 7.02 (1H, d), 6.67-6.60 (2H, m), 5.07 (2H, s), 2.35 (3H, s), 2.28 (3H, s), 2.23 (3H, s), 2.06 (3H, s).
 Compounds HA1001-1 to HA1036-76 can be obtained in accordance with the above-described method.
 Compounds HA1001-1 to HA1036-76 are the carbamate compounds, wherein E means any one of substituent numbers 1 to 76, as shown below. In the following [substituent numbers: E], PYR1 represents a pyraxzol-1-yl group. According to the said expression, for example, [45; 3-Cl-4-Mr-PYR1] represents that the substituent number is 45 and 3-chloro-4-methylpyrazol-1-yl.
+<img> id-US20180002291A1-20180104-C00020.TIF </img><img> id-US20180002291A1-20180104-C00021.TIF </img><img> id-US20180002291A1-20180104-C00022.TIF </img><img> id-US20180002291A1-20180104-C00023.TIF </img><img> id-US20180002291A1-20180104-C00024.TIF </img><img> id-US20180002291A1-20180104-C00025.TIF </img>
 [Substituent Nos.; E]:
 [1; PYR1], [2; 3-F-PYR1], [3; 3-Cl-PYR1], [4; 3-Br-PYR1], [5; 3-Me-PYR1], [6; 3-Et-PYR1], [7; 3-OMe-PYR1], [8; 3-OEt-PYR1], [9; 4-F-PYR1], [10; 4-Cl-PYR1], [11; 4-Br-PYR1], [12; 4-Me-PYR1], [13; 4-Et-PYR1], [14; 4-OMe-PYR1], [15; 4-OEt-PYR1], [16; 5-F-PYR1], [17; 5-Cl-PYR1], [18; 5-Br-PYR1], [19; 5-Me-PYR1], [20; 5-Et-PYR1], [21; 5-OMe-PYR1], [22; 5-OEt-PYR1], [23; 3-Me-4-F-PYR1], [24; 3-Me-4-Cl-PYR1], [25; 3-Me-4-Br-PYR1], [26; 3-Me-4-Me-PYR1], [27; 3-Me-4-Et-PYR1], [28; 3-Me-4-OMe-PYR1], [29; 3-Me-4-OEt-PYR1], [30; 3-Me-5-F-PYR1], [31; 3-Me-5-Cl-PYR1], [32; 3-Me-5-Br-PYR1], [33; 3-Me-5-Me-PYR1], [34; 3-Me-5-Et-PYR1], [35; 3-Me-5-OMe-PYR1], [36; 3-Me-5-OEt-PYR1], [37; 3-Me-4-Me-5-F-PYR1], [38; 3-Me-4-Me-5-Cl-PYR1], [39; 3-Me-4-Me-5-Br-PYR1], [40; 3-Me-4-Me-5-Me-PYR1], [41; 3-Me-4-Me-5-Et-PYR1], [42; 3-Me-4-Me-5-OMe-PYR1], [43; 3-Me-4-Me-5-OEt-PYR1], [44; 3-F-4-Me-PYR1], [45; 3-Cl-4-Me-PYR1], [46; 3-Br-4-Me-PYR1], [47; 3-Et-4-Me-PYR1], [48; 3-OMe-4-Me-PYR1], [49; 3-OEt-4-Me-PYR1], [50; 4-Me-5-F-PYR1], [51; 4-Me-5-Cl-PYR1], [52; 4-Me-5-Br-PYR1], [53; 4-Me-5-Me-PYR1], [54; 4-Me-5-Et-PYR1], [55; 4-Me-5-OMe-PYR1], [56; 4-Me-5-OEt-PYR1], [57; 5-Me-PYR1], [58; 3-F-5-Me-PYR1], [59; 3-Cl-5-Me-PYR1], [60; 3-Br-5-Me-PYR1], [61; 3-Et-5-Me-PYR1], [62; 3-OMe-5-Me-PYR1], [63; 3-OEt-5-Me-PYR1], [64; 4-F-5-Me-PYR1], [65; 4-Cl-5-Me-PYR1], [66; 4-Br-5-Me-PYR1], [67; 4-Et-5-Me-PYR1], [68; 4-OMe-5-Me-PYR1], [69; 4-OEt-5-Me-PYR1], [70; 4-Me-5-Me-PYR1], [71; 3-F-4-Me-5-Me-PYR1], [72; 3-Cl-4-Me-5-Me-PYR1], [73; 3-Br-4-Me-5-Me-PYR1], [74; 3-Et-4-Me-5-Me-PYR1], [75; 3-OMe-4-Me-5-Me-PYR1], [76; 3-OEt-4-Me-5-Me-PYR1].
 For example, in the compound represented by formula HA1001, HA1001-46 is the compound represented by the following formula:
+<img> id-US20180002291A1-20180104-C00026.TIF </img>
 wherein, substituent number is 46.
 Formulation Examples are shown below. In the following Formulation Examples, part means part by weight.
 Formulation Example 1

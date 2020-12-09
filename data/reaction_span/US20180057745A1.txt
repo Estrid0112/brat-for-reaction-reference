@@ -16,7 +16,9 @@ wherein R1 is a group containing 10-30 carbon atoms, optionally including or not
 According to the present disclosure, the structure of the organosilicon material mainly includes two parts: a head group A and a tail group B with a plurality of chains. A refers to SinO2n+1, and is substantially a branched structure; while B refers to R1nR2n+2, i.e., a structure with a plurality of branches. Due to the unique structure of -Si-O-, the branched organosilicon small molecular material of the present disclosure has the characteristics of both an organic material and an inorganic material. On the one hand, it is provided with low surface tension and low surface energy; and on the other hand, because the bond energy of -Si-O- (462 kJ/mol) is higher than that of -C-C- (347 kJ/mol), the temperature resistance and oxidation resistance of the material are increased. In addition, -Si-O- is also a polar anchoring group, capable of anchoring other materials.
 According to one specific embodiment of the branched organosilicon material of the present disclosure, n is preferably an integer in the range from 2 to 10, and more preferably an integer in the range from 2 to 6. Preferably, R2 is methyl, ethyl, or propyl. Preferably, R1 contains a group selected from -CR3═CR3-, -C≡C-, phenylene, C3-C6 cycloalkylene, -CONH-, and -COO-. Meanwhile, when the phenyl or cycloalkylene is included, the H atoms in the phenyl or cycloalkylene are optionally substituted or not substituted with halogen atoms. R3 is hydrogen, methyl, or ethyl.
 According to one preferred embodiment of the present disclosure, in the branched organosilicon material, R2 is methyl, ethyl, or propyl; and R1 is selected from the following groups:
+<img> id-US20180057745A1-20180301-C00001.TIF </img>
 According to one preferred embodiment of the present disclosure, when n is 2, 3, or 4, the organosilicon material is shown in formula II, III, or IV:
+<img> id-US20180057745A1-20180301-C00002.TIF </img>
 wherein, when n increases, the -OR2 in the formula of the organosilicon material is continuously substituted by -OSiR1 (OR2)2.
 According to the present disclosure, the branched organosilicon material has low surface tension and low surface energy, and meanwhile high temperature resistance and oxidation resistance. The silicon oxygen bond contained in the organosilicon material can interact with other atoms, and play an anchoring role.
 The branched organosilicon material of the present disclosure can be prepared by controlled hydrolysis performed on a silicon compound shown in general formula R1Si(OR2)3, wherein, the silicon compound shown in general formula R1Si (OR2)3 can be prepared through, for example, a condensation procedure.
@@ -47,13 +49,17 @@ The following examples are to show synthesis of two organosilicon materials. Oth
 EXAMPLE 1
 Small linear organosilicon molecules were synthesized, as shown in route 1),
 1)
+<img> id-US20180057745A1-20180301-C00003.TIF </img>
 wherein the molar ratio of the compound shown in formula i) and the compound shown in formula ii) was in the range from 1:1 to 1:1.4, preferably being 1:1.2; the temperature for reaction between the compound shown in formula i) and the compound shown in formula ii) was in the range from 20° C. to 60° C., preferably being 50° C.; and the reaction time was in the range from 1 h to 5 h, preferably being 4 h.
 The reaction temperature for synthesis of the compound shown in formula iv) with the compound shown in formula iii) and amylamine was in the range from 60° C. to 90° C., preferably being 80° C.; and the reaction was performed in 1 h to 5 h, preferably 3 h.
 The H1-NMR data of the compound shown in formula iv) were as follows: δ: 0.96 (3H), 1.33 (2H), 1.29 (2H), 1.59 (2H), 3.20 (2H), 8.0 (1H), 8.13 (2H), 7.69 (2H), 3.55 (9H), 3.2 (2H), and 0.88 (2H).
 The silicon compound shown in formula iv) was then hydrolyzed, to obtain the branched organosilicon material of the present disclosure, as shown in route 3),
 3)
+<img> id-US20180057745A1-20180301-C00004.TIF </img>
 wherein, R1 was
+<img> id-US20180057745A1-20180301-C00005.TIF </img>
 and R2 was methyl, i.e.,
+<img> id-US20180057745A1-20180301-C00006.TIF </img>
 was the compound shown in formula iv).
 When the organosilicon material with n=2 was prepared, the molar ratio of the compound of formula iv) to H2O was in the range from 1:1.1 to 1:1.5, preferably being 1:1.3, and the reaction temperature was 50° C. A small amount of H2SO4 was added to promote hydrolysis, to obtain the organosilicon material with n=2.
 The H1-NMR data were as follows: δ: 0.96 (6H), 1.33 (4H), 1.29 (8H), 1.59 (4H), 3.20 (4H), 8.0 (4H), 8.13 (4H), 7.69 (4H), 3.55 (12H), 3.2 (4H), and 0.88 (4H).
@@ -63,9 +69,11 @@ Small linear organosilicon molecules were synthesized, as shown in route 2), whe
 The molar ratio of the compound shown in formula vi) to n-octanol was 1:1, in which 1.1×SOCL2 was added, followed by a one-hour reaction.
 The H1-NMR data of the compound shown in formula vii) as obtained, were as follows: δ: 0.96 (3H), 1.33 (2H), 1.29 (8H), 1.57 (2H), 4.15 (2H), 3.55 (9H), 8.0 (1H), 3.0 (2H), 0.84 (2H), 7.49 (1H), and 6.95 (1H).
 2)
+<img> id-US20180057745A1-20180301-C00007.TIF </img>
 The silicon compound shown in formula vii) was then hydrolyzed, to obtain the branched organosilicon material of the present disclosure, as shown in route 3), wherein R2 was methyl, and R1 was -(CH2)2-CONH-HC═CH-COO-C8H17.
 When the organosilicon material with n=2 was manufactured, the molar ratio of two reaction materials was in the range from 1:1.1 to 1:1.5, preferably being 1:1.2, and the reaction temperature was 50° C. A small amount of H2SO4 was added to promote hydrolysis.
 The H1-NMR data were as follows: δ: 0.96 (6H), 1.33 (4H), 1.29 (16H), 1.57 (4H), 4.15 (4H), 3.55 (12H), 1.93 (12H), 8.0 (2H), 3.0 (4H), and 0.84 (4H).
 It will be appreciated by those skilled in the art that by controlling the molar ratio of the compound shown in formula iv) to H2O and other conditions, organosilicon materials with other values of n can be obtained.
 2)
+<img> id-US20180057745A1-20180301-C00008.TIF </img>
 It should be noted that the above examples are only used to explain, rather than to limit the present disclosure in any manner. Although the present disclosure has been discussed with reference to preferable examples, it should be understood that the terms and expressions adopted are for describing and explaining instead of limiting the present disclosure. The present disclosure can be modified within the scope of the claims, or can be amended without departing from the scope or spirits of the present disclosure. Although the present disclosure is described with specific methods, materials, and examples, the scope of the present disclosure herein disclosed should not be limited by the particularly disclosed examples as described above, but can be extended to other methods and uses having the same functions.

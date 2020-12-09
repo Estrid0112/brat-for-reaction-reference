@@ -5,18 +5,24 @@ Neurodegenerative diseases occur when changes in the neurons of the brain and sp
 SUMMARY
 Altered mitochondrial dynamics is an underlying and early event in progression of neurodegenerative diseases such as AD, amyotrophic lateral sclerosis (ALS), Huntingon's disease (HD), and Parkinson's disease (PD). This document is based in part on the identification of molecules that can efficiently restore mitochondrial dynamics in neurons and enhance their bioenergetics. A tricyclic pyrone compound (CP2) can restore axonal trafficking of mitochondria in neurons, alleviating the development of behavior and memory phenotypes in multiple transgenic mouse models of FAD. As described herein, an array of new experimental compounds was subjected to biological screening to assess their toxicity, and to identify compounds that possess the ability to restore mitochondrial function in cells that express amyloid beta peptides. Four classes of compounds with properties superior to CP2 were identified, and several of those compounds were characterized in primary neurons. This document provides compounds from those classes, as well as compositions containing one or more of the compounds, and methods for making and using the compounds and compositions to treat, prevent, or delay the onset of AD. It is to be noted that these compounds and compositions also may be beneficial in treating, preventing, or delaying the onset of other diseases and disorders, such as HD, PD, dementia (e.g., frontotemporal dementia), traumatic brain injury (TBI), multiple sclerosis (MS), ALS, diabetes, metabolic syndrome, cancer, chemotherapy-induced peripheral neuropathies, Down Syndrome, and aging. Such compounds also may increase health span and fecundity, promoting a prolonged period of health with increasing age, and delaying the onset of age-related diseases.
 In a first aspect, this document features a compound of Formula (I):
+<img> id-US20180044295A1-20180215-C00001.TIF </img>
 or a pharmaceutically acceptable salt thereof,
 wherein:X is absent or selected from the group consisting of CH2 and C(O);R1 is selected from the group consisting of H, OH, CN, NO2, halo, C1-3 alkyl, C1-3 haloalkyl, C1-3 alkoxy, C1-3 haloalkoxy, C3-7 cycloalkyl, amino, C1-3 alkylamino, and di(C1-3 alkyl)amino;R2 is selected from the group consisting of H and C1-6 alkyl;R3 is selected from the group consisting of H, C1-6 alkyl, -C(O)(C1-3 alkyl), and -C(O)O(C1-3 alkyl);R4 is selected from the group consisting of C3-10 cycloalkyl, C6-10 aryl, 5-10 membered heteroaryl, and 5-10 membered heterocycloalkyl, each optionally substituted by 1, 2, 3, or 4 independently selected R5 groups; andR5 is selected from the group consisting of OH, CN, NO2, halo, C1-3 alkyl, C1-3 haloalkyl, C1-3 alkoxy, C1-3 haloalkoxy, C3-7 cycloalkyl, amino, C1-3 alkylamino, and di(C1-3 alkyl)amino.In some embodiments, X can be CH2. In some embodiments, wherein R1 can be C1-3 alkyl. In some embodiments, R2 can be C1-6 alkyl. In some embodiments, R3 can be H.In some embodiments, R4 can be unsubstituted 5-10 membered heteroaryl. In some embodiments, R4 can be aryl and R5 can be halo or OH.
 The compound of Formula (I) can be a compound of Formula (Ia):
+<img> id-US20180044295A1-20180215-C00002.TIF </img>
 or a pharmaceutically acceptable salt thereof.
 The compound of Formula (I) can be a compound of Formula (II):
+<img> id-US20180044295A1-20180215-C00003.TIF </img>
 or a pharmaceutically acceptable salt thereof.
 wherein:X is absent or selected from the group consisting of CH2 and C(O);R1 is selected from the group consisting of H, OH, CN, NO2, halo, C1-3 alkyl, C1-3 haloalkyl, C1-3 alkoxy, C1-3 haloalkoxy, C3-7 cycloalkyl, amino, C1-3 alkylamino, and di(C1-3 alkyl)amino;R2 is selected from the group consisting of H and C1-6 alkyl;R3 is selected from the group consisting of H, C1-6 alkyl, -C(O)(C1-3 alkyl), and -C(O)O(C1-3 alkyl);R4 is selected from the group consisting of C3-10 cycloalkyl, C6-10 aryl, 5-10 membered heteroaryl, and 5-10 membered heterocycloalkyl, each optionally substituted by 1, 2, 3, or 4 independently selected R5 groups; andR5 is selected from the group consisting of OH, CN, NO2, halo, C1-3 alkyl, C1-3 haloalkyl, C1-3 alkoxy, C1-3 haloalkoxy, C3-7 cycloalkyl, amino, C1-3 alkylamino, and di(C1-3 alkyl)amino.In some embodiments, X can be CH2. In some embodiments, R1 can be C1-3 alkyl. In some embodiments, R2 can be C1-6 alkyl. In some embodiments, R3 can be H. In some embodiments, R4 can be unsubstituted 5-10 membered heteroaryl. In some embodiments, R4 can be aryl and R5 can be halo or OH.
 The compound of Formula (II) can be a compound of Formula (IIa)
+<img> id-US20180044295A1-20180215-C00004.TIF </img>
 or a pharmaceutically acceptable salt thereof.
 The compound of Formula (I) can be selected from the group consisting of:
+<img> id-US20180044295A1-20180215-C00005.TIF </img><img> id-US20180044295A1-20180215-C00006.TIF </img><img> id-US20180044295A1-20180215-C00007.TIF </img><img> id-US20180044295A1-20180215-C00008.TIF </img>
 or a pharmaceutically acceptable salt thereof.
 The compound of Formula (I) can be
+<img> id-US20180044295A1-20180215-C00009.TIF </img>
 or a pharmaceutically acceptable salt thereof.
 In another aspect, this document features a pharmaceutical composition containing a compound as provided herein, or a pharmaceutically acceptable salt thereof, in combination with a pharmaceutically acceptable carrier.
 In another aspect, this document features a method for modulating mitochondrial function in a subject. The method can include administering to the subject a therapeutically effective amount of a compound as provided herein, or a pharmaceutically acceptable salt thereof. The subject can be a human. The subject can be diagnosed as having a neurodegenerative disorder. The subject can be diagnosed as having diabetes, metabolic syndrome, cancer, a chemotherapy-induced peripheral neuropathy, or Down syndrome.
@@ -48,39 +54,52 @@ The term “heterocycloalkyl” includes substituted or unsubstituted groups, in
 The term “substituted” means that an atom or group of atoms replaces hydrogen as a “substituent” attached to another group. For aryl and heteroaryl groups, the term “substituted”, unless otherwise indicated, refers to any level of substitution, namely mono, di, tri, tetra, or penta substitution, where such substitution is permitted. The substituents are independently selected, and substitution may be at any chemically accessible position. In some cases, two sites of substitution may come together to form a 3-10 membered cycloalkyl or heterocycloalkyl ring. Non-limiting examples of substituents include: (C1-C6)alkyl, halo, (C1-C6)haloalkyl, -CN, -NR8R9, -NO2, -O(C1-C6)haloalkyl, -OC(O)R8, -OC(O)R8, -C(O)OR8, -C(O)NR8R9, -S(O)R8, -SO2R8, -SO2NR8R9, (C3-C7) cycloalkyl, (C3-C7)heterocycloalkyl, (C5-C14)aryl, and (C5-C14)heteroaryl, wherein R8 and R9 are independently selected from H and (C1-C6)alkyl.
 Modulators of Mitochondrial Function
 This document provides compounds that can modulate mitochondrial function and induce metaobolic reprogramming, as well as methods and materials for using such compounds to treat disorders such as AD and other neurological conditions. Thus, in some embodiments, this document provides compounds that can be used to restore mitochondrial function in cells (e.g., primary neurons) that express Aβ peptides. Provided herein are, inter alia, the following compounds:
+<img> id-US20180044295A1-20180215-C00010.TIF </img>
 (also referred to herein as C455),
+<img> id-US20180044295A1-20180215-C00011.TIF </img>
 (also referred to herein as C458),
+<img> id-US20180044295A1-20180215-C00012.TIF </img>
 (also referred to herein as C460), and
+<img> id-US20180044295A1-20180215-C00013.TIF </img>
 (also referred to herein as C472), or a pharmaceutically acceptable salt thereof.
 It is to be noted that this document encompasses not only the various isomers, diastereomers, enantiomers, and tautomers that may exist, but also the various mixtures of isomers, diastereomers, enantiomers, and tautomers that may be formed.
 The scope of this document also encompasses solvates and salts of the compounds described herein, as well as prodrugs of the compounds, such as esters, amides, and acylated groups, among others. In some embodiments, for example, this document provides prodrugs of the compounds disclosed herein, which may contain, for example, acylated phenols or acyl derivatives of amines. By “prodrug” is meant, for example, any compound (whether itself active or inactive) that is converted chemically in vivo into a biologically active compound as provided herein, following administration of the prodrug to a subject. In some embodiments, a prodrug is a covalently bonded carrier that releases the active parent drug when administered to a subject. Prodrugs can be prepared by modifying functional groups present in the compounds in such a way that the modifications are cleaved, either in routine manipulation or in vivo, to the parent compounds. Prodrugs can include compounds in which hydroxyl, amino, sulfhydryl, or carboxyl groups are bonded to any group that, when administered to a mammalian subject, cleaves to form a free hydroxyl, amino, sulfhydryl, or carboxyl group respectively. Examples of prodrugs include, without limitation, acetate, formate and benzoate derivatives of alcohol and amine functional groups in the compounds provided herein. The suitability and techniques involved in making and using prodrugs are discussed in Higuchi and Stella, “Pro-drugs as Novel Delivery Systems,” Vol. 14 of the ACS Symposium Series, and in Bioreversible Carriers in Drug Design, ed. Edward B. Roche, American Pharmaceutical Association and Pergamon Press, 1987, both of which are hereby incorporated by reference in their entirety.
 Also provided herein is a compound of Formula (I):
+<img> id-US20180044295A1-20180215-C00014.TIF </img>
 or a pharmaceutically acceptable salt thereof,
 where:X is absent or selected from the group consisting of CH2 and C(O);R1 is selected from the group consisting of H, OH, CN, NO2, halo, C1-3 alkyl, C1-3 haloalkyl, C1-3 alkoxy, C1-3 haloalkoxy, C3-7 cycloalkyl, amino, C1-3 alkylamino, and di(C1-3 alkyl)amino;R2 is selected from the group consisting of H and C1-6 alkyl;R3 is selected from the group consisting of H, C1-6 alkyl, -C(O)(C1-3 alkyl), and -C(O)O(C1-3 alkyl);R4 is selected from the group consisting of C3-10 cycloalkyl, 6-10 aryl, 5-10 membered heteroaryl, and 5-10 membered heterocycloalkyl, each optionally substituted by 1, 2, 3, or 4 independently selected R5 groups; andR5 is selected from the group consisting of OH, CN, NO2, C1-3 alkyl, C1-3 haloalkyl, C1-3 alkoxy, C1-3 haloalkoxy, C3-7 cycloalkyl, amino, C1-3 alkylamino, and di(C1-3 alkyl)amino.
 In some embodiments, X is CH2. In some embodiments, R1 is C1-3 alkyl. For example, R1 can be methyl. In some embodiments, R2 is C1-6 alkyl. For example, R2 can be methyl. In some embodiments, R3 is H. In some embodiments, R4 is unsubstituted 5-10 membered heteroaryl. For example, R4 can be phenyl, pyridinyl, cyclohexanyl, and benzoimidazolyl. In some embodiments, R4 is aryl (e.g., phenyl) and R5 is halo (e.g., chloro) or OH.
 In some embodiments, the compound of Formula (I) can have the following stereochemistry:
+<img> id-US20180044295A1-20180215-C00015.TIF </img>
 where R1, R2, R3, and R4 are as set forth above.
 In some embodiments, the compound of Formula (I) can be a compound of Formula (II):
+<img> id-US20180044295A1-20180215-C00016.TIF </img>
 or a pharmaceutically acceptable salt thereof,
 where:X is absent or selected from the group consisting of CH2 and C(O);R1 is selected from the group consisting of H, OH, CN, NO2, halo, C1-3 alkyl, C1-3 haloalkyl, C1-3 alkoxy, C1-3 haloalkoxy, C3-7 cycloalkyl, amino, C1-3 alkylamino, and di(C1-3 alkyl)amino;R2 is selected from the group consisting of H and C1-6 alkyl;R3 is selected from the group consisting of H, C1-6 alkyl, -C(O)(C1-3 alkyl), and -C(O)O(C1-3 alkyl);R4 is selected from the group consisting of C3-10 cycloalkyl, C6-10 aryl, 5-10 membered heteroaryl, and 5-10 membered heterocycloalkyl, each optionally substituted by 1, 2, 3, or 4 independently selected R5 groups; andR5 is selected from the group consisting of OH, CN, NO2, halo, C1-3 alkyl, C1-3 haloalkyl, C1-3 alkoxy, C1-3 haloalkoxy, C3-7 cycloalkyl, amino, C1-3 alkylamino, and di(C1-3 alkyl)amino.
 In some embodiments, R1 is C1-3 alkyl. For example, R1 can be methyl. In some embodiments, R2 is C1-6 alkyl. For example, R2 can be methyl. In some embodiments, R3 is H. In some embodiments, R4 is unsubstituted 5-10 membered heteroaryl. For example, R4 can be phenyl, pyridinyl, cyclohexanyl, and benzoimidazolyl. In some embodiments, R4 is aryl (e.g., phenyl) and R5 is halo (e.g., chloro) or OH.
 In some embodiments, the compound of Formula (II) can have the following stereochemistry:
+<img> id-US20180044295A1-20180215-C00017.TIF </img>
 where R1, R2, R3, and R4 are as set forth above.
 Also provided herein is a compound of Formula (III):
+<img> id-US20180044295A1-20180215-C00018.TIF </img>
 or a pharmaceutically acceptable salt thereof,
 where:V, W, Y, and Z are independently selected from the group consisting of CH and N;X is absent or selected from the group consisting of CH2 and C(O);m is an integer from 0 to 2;n is an integer from 0 to 2;is selected from the group consisting of H, OH, CN, NO2, halo, C1-3 alkyl, C1-3 haloalkyl, C1-3 alkoxy, C1-3 haloalkoxy, C3-7 cycloalkyl, amino, C1-3 alkylamino, and di(C1-3 alkyl)amino;R2 is selected from the group consisting of H and C1-6 alkyl;R3 is selected from the group consisting of H and C1-6 alkyl;R4 is selected from the group consisting of H, C1-6 alkyl, -C(O)(C1-3 alkyl), and C(O)O(C1-3 alkyl);R5 is selected from the group consisting of C3-10 cycloalkyl, C6-10 aryl, 5-10 membered heteroaryl, and 5-10 membered heterocycloalkyl, each optionally substituted by 1, 2, 3, or 4 independently selected R6 groups; andR6 is selected from the group consisting of OH, CN, NO2, halo, C1-3 alkyl, C1-3 haloalkyl, C1-3 alkoxy, C1-3 haloalkoxy, C3-7 cycloalkyl, amino, C1-3 alkylamino, and di(C1-3 alkyl)amino.
 As indicated in Formula (III), the central cycloalkyl ring can be a cyclopentyl, cyclohexyl, or cycloheptyl ring. It is to be noted that in some embodiments, the central ring may be a phenyl ring or a heterocyclic structure (e.g., a pyridyl ring).
 Thus, in some embodiments, this document also provides compounds of Formulae (IV)-(VII):
+<img> id-US20180044295A1-20180215-C00019.TIF </img>
 or a pharmaceutically acceptable salt thereof,
 where:the central aromatic ring contains 1 or more nitrogen atoms;X is absent or selected from the group consisting of CH2 and C(O);R1 is selected from the group consisting of H, OH, CN, NO2, halo, C1-3 alkyl, C1-3 haloalkyl, C1-3 alkoxy, C1-3 haloalkoxy, C3-7 cycloalkyl, amino, C1-3 alkylamino, and di(C1-3 alkyl)amino;R2 is selected from the group consisting of H and C1-6 alkyl;R3 is selected from the group consisting of H, C1-6 alkyl, -C(O)(C1-3 alkyl), and -C(O)O(C1-3 alkyl);R4 is selected from the group consisting of C3-10 cycloalkyl, C6-10 aryl, 5-10 membered heteroaryl, and 5-10 membered heterocycloalkyl, each optionally substituted by 1, 2, 3, or 4 independently selected R5 groups; andR5 is selected from the group consisting of OH, CN, NO2, halo, C1-3 alkyl, C1-3 haloalkyl, C1-3 alkoxy, C1-3 haloalkoxy, C3-7 cycloalkyl, amino, C1-3 alkylamino, and di(C1-3 alkyl)amino.
 Also provided herein is a compound of Formula (VIII):
+<img> id-US20180044295A1-20180215-C00020.TIF </img>
 or a pharmaceutically acceptable salt thereof,
 where:A, B, D, E, W, Y, and Z are independently selected from the group consisting of CH and N;X is absent or selected from the group consisting of CH2 and C(O);n is an integer from 0 to 2;R1 is selected from the group consisting of H, OH, CN, NO2, halo, C1-3 alkyl, C1-3 haloalkyl, C1-3 alkoxy, C1-3 haloalkoxy, C3-7 cycloalkyl, amino, C1-3 alkylamino, and di(1-3 alkyl)amino;R2 is selected from the group consisting of H and C1-6 alkyl;R3 is selected from the group consisting of H and C1-6 alkyl;R4 is selected from the group consisting of H, C1-6 alkyl, -C(O)(C1-3 alkyl), and C(O)O(C1-3 alkyl);R5 is selected from the group consisting of C3-10 cycloalkyl, C6-10 aryl, 5-10 membered heteroaryl, and 5-10 membered heterocycloalkyl, each optionally substituted by 1, 2, 3, or 4 independently selected R6 groups; andR6 is selected from the group consisting of OH, CN, NO2, halo, C1-3 alkyl, C1-3 haloalkyl, C1-3 alkoxy, C1-3 haloalkoxy, C3-7 cycloalkyl, amino, C1-3 alkylamino, and di(C1-3 alkyl)amino.
 Again, it is to be noted that this document encompasses not only the various isomers, diastereomers, enantiomers, and tautomers that may exist for the compounds described herein, but also the various mixtures of isomers, diastereomers, enantiomers, and tautomers that may be formed
 Non-limiting examples of compounds according to the above Formulae include:
+<img> id-US20180044295A1-20180215-C00021.TIF </img><img> id-US20180044295A1-20180215-C00022.TIF </img><img> id-US20180044295A1-20180215-C00023.TIF </img><img> id-US20180044295A1-20180215-C00024.TIF </img><img> id-US20180044295A1-20180215-C00025.TIF </img>
 or a pharmaceutically acceptable salt thereof.
 Most of these compounds also are shown in TABLE 3 below. Methods for making such compounds include those known in the art and described herein.
 In some embodiments, these compounds can have the following stereochemistry:
+<img> id-US20180044295A1-20180215-C00026.TIF </img><img> id-US20180044295A1-20180215-C00027.TIF </img><img> id-US20180044295A1-20180215-C00028.TIF </img><img> id-US20180044295A1-20180215-C00029.TIF </img><img> id-US20180044295A1-20180215-C00030.TIF </img>
 As used herein, chemical structures that contain one or more stereocenters depicted with bold and dashed bonds are meant to indicate absolute stereochemistry of the stereocenter(s) present in the chemical structure. As used herein, bonds symbolized by a simple line do not indicate a stereo-preference. Unless indicated to the contrary, chemical structures that include one or more stereocenters and are illustrated herein without indicating absolute or relative stereochemistry encompass all possible steroisomeric forms of the compound (e.g., diastereomers and enantiomers) and mixtures thereof. Structures with a single bold or dashed line, and at least one additional simple line, encompass a single enantiomeric series of all possible diastereomers.
 A compound provided herein, including a pharmaceutically acceptable salt thereof, can be purchased commercially or prepared using organic synthesis techniques. See, for example, the Examples herein.
 A reaction for preparing a compound provided herein can be carried out in suitable solvents that can be readily selected by one of skill in the art of organic synthesis. Suitable solvents can be substantially non-reactive with the starting materials (reactants), the intermediates, or products at the temperatures at which the reactions are carried out, e.g., temperatures which can range from the solvent's freezing temperature to the solvent's boiling temperature. A given reaction can be carried out in one solvent or a mixture of more than one solvent. Depending on the particular reaction step, suitable solvents for a particular reaction step can be selected by the skilled artisan.
@@ -186,135 +205,172 @@ C458 series compounds
  &  & MW &  &  & 
  & % & (free & FW &  & 
 Structure & Purity & base) & (salt) & salt & Comments
- & 99.5 & 338.50 & 452.52 & TFA & Highly hygroscopic
- & 100.0 & 338.50 & 374.96 & HCl & HCl form of control compound
- & 76.9 & 351.54 & 388.00 & HCl & Control compound for PK
- & 99.9 & 338.50 & 374.96 & HCl & Sent for PK
- & 100.0 & 338.50 & 374.96 & HCl & 
- & 97.6 & 324.47 & 360.93 & HCl & One less CH2
- & 100.0 & 343.56 & 380.02 & HCl & Non- aromatic
- & 96.7 & 338.50 & 338.50 & HCl & 2-pyridyl isomer
- & 100.0 & 371.95 & 371.95 & HCl & 
- & 98.5 & 352.52 & 388.98 & HCl & 
- & 99.7 & 338.50 & 374.96 & HCl & 
- & 100.0 & 371.95 & 408.41 & HCl & 
- & 98.1 & 352.52 & 388.98 & HCl & 
- & 100.0 & 371.95 & 408.41 & HCl & 
- & 98.6 & 385.98 & 422.44 & HCl & 
- & 100.0 & 353.51 & 389.97 & HCl & 
- & 98.6 & 352.52 & 388.98 & HCl & Aniline version
- & 99.1 & 353.51 & 389.97 & HCl & 
- & 98.8 & 353.51 & 389.97 & HCl & 
- & 97.8 & 339.48 & 375.94 & HCl & Adjust pKB
- & 100.0 & 380.53 & 416.99 & HCl & 
- & 96.5 & 352.48 & 388.94 & HCl & Non-basic N
- & 99.0 & 377.53 & 413.99 & HCl & Fused ring
+<img> id-US20180044295A1-20180215-C00031.TIF </img> & 99.5 & 338.50 & 452.52 & TFA & Highly hygroscopic
+<img> id-US20180044295A1-20180215-C00032.TIF </img> & 100.0 & 338.50 & 374.96 & HCl & HCl form of control compound
+<img> id-US20180044295A1-20180215-C00033.TIF </img> & 76.9 & 351.54 & 388.00 & HCl & Control compound for PK
+<img> id-US20180044295A1-20180215-C00034.TIF </img> & 99.9 & 338.50 & 374.96 & HCl & Sent for PK
+<img> id-US20180044295A1-20180215-C00035.TIF </img> & 100.0 & 338.50 & 374.96 & HCl & 
+<img> id-US20180044295A1-20180215-C00036.TIF </img> & 97.6 & 324.47 & 360.93 & HCl & One less CH2
+<img> id-US20180044295A1-20180215-C00037.TIF </img> & 100.0 & 343.56 & 380.02 & HCl & Non- aromatic
+<img> id-US20180044295A1-20180215-C00038.TIF </img> & 96.7 & 338.50 & 338.50 & HCl & 2-pyridyl isomer
+<img> id-US20180044295A1-20180215-C00039.TIF </img> & 100.0 & 371.95 & 371.95 & HCl & 
+<img> id-US20180044295A1-20180215-C00040.TIF </img> & 98.5 & 352.52 & 388.98 & HCl & 
+<img> id-US20180044295A1-20180215-C00041.TIF </img> & 99.7 & 338.50 & 374.96 & HCl & 
+<img> id-US20180044295A1-20180215-C00042.TIF </img> & 100.0 & 371.95 & 408.41 & HCl & 
+<img> id-US20180044295A1-20180215-C00043.TIF </img> & 98.1 & 352.52 & 388.98 & HCl & 
+<img> id-US20180044295A1-20180215-C00044.TIF </img> & 100.0 & 371.95 & 408.41 & HCl & 
+<img> id-US20180044295A1-20180215-C00045.TIF </img> & 98.6 & 385.98 & 422.44 & HCl & 
+<img> id-US20180044295A1-20180215-C00046.TIF </img> & 100.0 & 353.51 & 389.97 & HCl & 
+<img> id-US20180044295A1-20180215-C00047.TIF </img> & 98.6 & 352.52 & 388.98 & HCl & Aniline version
+<img> id-US20180044295A1-20180215-C00048.TIF </img> & 99.1 & 353.51 & 389.97 & HCl & 
+<img> id-US20180044295A1-20180215-C00049.TIF </img> & 98.8 & 353.51 & 389.97 & HCl & 
+<img> id-US20180044295A1-20180215-C00050.TIF </img> & 97.8 & 339.48 & 375.94 & HCl & Adjust pKB
+<img> id-US20180044295A1-20180215-C00051.TIF </img> & 100.0 & 380.53 & 416.99 & HCl & 
+<img> id-US20180044295A1-20180215-C00052.TIF </img> & 96.5 & 352.48 & 388.94 & HCl & Non-basic N
+<img> id-US20180044295A1-20180215-C00053.TIF </img> & 99.0 & 377.53 & 413.99 & HCl & Fused ring
 </table>
 Example 9
 Preparation of Starting Material-cis-(2-(3-(m-tolyloxy)cyclohexyl)propan-1-ol)
 Step 1: Preparation of prop-1-en-2-ylmagnesium bromide
+<img> id-US20180044295A1-20180215-C00054.TIF </img>
 Magnesium turnings (6.2 g, 252.6 mmol, 1.05 equiv.) were suspended in dry tetrahydrofuran (500 mL) in a one liter flask fitted with a magnetic stirring bar and an N2 inlet. Isopropenyl bromide (5 mL, 57.2 mmol, 0.24 equiv.) and a small iodine crystal (˜1 mm dia.) were added and the mixture was heated to 60° C. The reaction initiated in about fifteen minutes: the heating bath was then turned off and more isopropenyl bromide (16 mL, 182.9 mmol, 0.76 equiv.) was added in 4 mL portions. The vigorous reaction was allowed to subside in between additions. The resulting pale yellow solution of prop-1-en-2-ylmagnesium bromide was allowed to cool to room temperature and used in the next step. The theoretical concentration of the solution is 0.48M. Only a trace of undissolved magnesium remained.
 Step 2-Preparation of 3-(prop-1-en-2-yl)cyclohexan-1-one
+<img> id-US20180044295A1-20180215-C00055.TIF </img>
 Copper iodide (11.4 g, 60.0 mmol, 0.6 equiv) was slurried in 750 mL dry tetrahydrofuran and chilled in a dry ice-acetone bath. Compound II (0.48M in tetrahydrofuran, 250 mL, 120 mmol, 1.2 equiv) was added dropwise over the course of one hour to the copper iodide slurry while the temperature was kept below −70° C. during the addition. Cyclohexen-1-one (9.6 g, 100.0 mmol, 1.0 equiv) and chlorotrimethylsilane (15.2 mL, 120.0 mmol, 1.2 equiv) were dissolved in 50 mL dry tetrahydrofuran. The resulting solution was added dropwise over the course of 45 minutes to the chilled alkyl copper slurry. The mixture was stirred for an additional fifteen minutes at which time TLC (30% ethyl acetate/hexane) revealed a mixture of desired product, some unreacted cyclohexen-1-one, and two minor side products. The reaction was quenched with 250 mL of saturated ammonium chloride solution. The cold bath was then removed and the slurry was allowed to warm to approx. 5 C and was poured into a mixture of 50 mL 30% ammonium hydroxide dissolved in 2.5 L of water. The mixture was extracted with 3×1 L ethyl acetate and the aqueous phase discarded. The combined organic phases were washed with 2×1L brine then the aqueous phases were discarded. The organic phase was concentrated to approx. 200 mL under reduced pressure, diluted to approx. 1 L with diethyl ether then dried over sodium sulfate. The solids were removed by filtration and discarded and the mother liquor was concentrated to obtain an orange oil that was purified using a CombiFlash (330 g column, 0-10% ethyl acetate/hexane) to obtain Compound III as a pale yellow oil. Yield: 6.6g (48% from II).
 Step 3-Preparation of cis-3-(prop-1-en-2-yl)cyclohexan-1-ol IV
+<img> id-US20180044295A1-20180215-C00056.TIF </img>
 Compound III (11.8 g, 85.4 mmol, 1.0 equiv.) was dissolved in 300 mL of tetrahydrofuran. Sodium borohydride (9.7 g, 256.1 mmol, 3.0 equiv) was added and the resulting mixture was stirred at room temperature and the reaction was determined to be complete after two hours by TLC (30% ethyl acetate/hexane). The reaction was quenched with a minimal amount of 3M aqueous hydrochloric acid until the pH was approx. 2. The solids were filtered and discarded and the mother liquor was concentrated to an oil using a rotary evaporator (25 mm Hg, bath temperature 20° C.). The oil was diluted with 500 mL diethyl ether and dried over sodium sulfate: the solids were removed by filtration and discarded and the mother liquor was concentrated to obtain a yellow oil. The material was combined with a previous batch (14 g scale) and purified using a CombiFlash (330 g column, 0-20% ethyl acetate/hexane) to obtain Compound IV as a pale yellow oil. Yield: 13.6 g cis isomer and 1.5 g trans isomer (58% from III).
 Step 4-Preparation of Compound trans-3-(prop-1-en-2-yl)cyclohexyl 4-nitrobenzoate V
+<img> id-US20180044295A1-20180215-C00057.TIF </img>
 Note: this procedure was carried out with 9.5 g of Compound IV, split into two 4.75 g batches that were run in parallel.
 Compound IV (4.75 g, 33.9 mmol, 1.0 equiv.), was dissolved in 250 mL tetrahydrofuran, followed by 4-nitrobenzoic acid (22.6 g, 135.5 mmol, 4.0 equiv) and triphenylphosphine (35.5 g, 135.5 mmol, 4.0 equiv). The resulting solution was chilled in an ice water bath, after which N, N'-diisopropylazodicarboxylate (26.7 mL, 135.5 mmol, 4.0 equiv) was added in small portions over a one hour period, taking care to keep the temperature below 10° C. during the addition. The ice bath was removed and the reaction was stirred for fifteen hours at room temperature, then at 40° C. for three hours. After cooling to room temperature, the reaction was diluted with 250 mL diethyl ether and extracted with 2×150 mL saturated sodium bicarbonate solution. The combined aqueous phases were back extracted with 150 mL diethyl ether: the aqueous phase was discarded and the combined organics were dried over sodium sulfate and concentrated to obtain a yellow semisolid. At this point the material from both batches was combined and was suspended in 100 mL diethyl ether and allowed to stand overnight. The resulting slurry was diluted with 50 mL diethyl ether and 150 mL hexane, and the solids were removed by filtration and discarded. The mother liquor was concentrated to obtain yellow oil that was split into three portions and purified by CombiFlash (330 g column, 0-15% ethyl acetate/hexane) to obtain 17.4 g pale yellow solid (Compound V). Yield: 89%.
 Step 5-Preparation of Compound trans-3-(prop-1-en-2-yl)cyclohexan-1-ol VI
+<img> id-US20180044295A1-20180215-C00058.TIF </img>
 Compound V (17.4 g, 60.1 mmol, 1.0 equiv.) was dissolved in 200 mL of tetrahydrofuran. A solution of lithium hydroxide (8.7 g, dissolved in 125 mL of water) was added, and the resulting solution was stirred at room temperature. The mixture was stirred for fifteen hours and determined to be complete by TLC. The reaction mixture was partitioned between ether and water and the aqueous phase extracted twice with ether. The combined organics were dried over sodium sulfate and concentrated under reduced pressure to afford a yellow oil, which was dissolved in 50 mL of dichloromethane and filtered through a 1 cm deep silica gel pad. The pad was rinsed with a little additional dichloromethane, and the combined organics were concentrated to dryness to obtain a pale yellow oil that was purified by CombiFlash (120 g column, 0-20% ethyl acetate/hexane, 1 hr) to obtain 6.7 g Compound VI as a colorless oil. Yield: (79%).
 Step 6-Preparation of cis-1-(3-tolyloxy)-3-isopropenyl-cyclohexane VII
+<img> id-US20180044295A1-20180215-C00059.TIF </img>
 Compound IV (4.75 g, 33.9 mmol, 1.0 equiv), was dissolved in 250 mL tetrahydrofuran, followed by m-cresol (14.2 mL, 135.5 mmol, 4.0 equiv) and 35.5 g triphenylphosphine (135.5 mmol, 4.0 equiv). The resulting solution was chilled in an ice water bath, and then N,N'-diisopropylazodicarboxylate (26.7 mL, 135.5 mmol, 4.0 equiv) was added in small portions over a one hour period, taking care to keep the temperature below 10° C. during the addition. The ice bath was removed and the reaction was stirred for fifteen hours at room temperature, then at 40° C. for three hours. After cooling to room temperature, the reaction was diluted with 250 mL diethyl ether and extracted with 2×150 mL saturated sodium bicarbonate solution. The combined aqueous phases were back extracted with 150 mL diethyl ether: the aqueous phase was discarded and the combined organics were dried over sodium sulfate. The solids were filtered and discarded, and the mother liquor was concentrated to obtain orange oil, which was dissolved in 150 mL of 1:1 diethyl ether/hexane stirred at room temperature for one hour. The solids were removed by filtration and discarded. The mother liquor was concentrated to obtain an orange oil that was purified by CombiFlash (330 g column, 0-10% ethyl acetate/hexane) to obtain 5.7 g pale oil (Compound VII). Yield: 73%.
 Step 7-Preparation of cis-1-(3-methylphenyl)-3-1-hydroxyprop-2-yl)cyclohexane VIII
+<img> id-US20180044295A1-20180215-C00060.TIF </img>
 Note: this procedure was carried out with 5.7 g of Compound VII, split into three 1.9 g batches that were run in parallel.
 Compound VII (1.9 g, 8.2 mmol, 1.0 eq.) was dissolved in 8.5 mL of dry tetrahydrofuran. The solution was chilled in an ice water bath, and then borane-dimethyl sulfide complex ([2.0M] in tetrahydrofuran, 4.1 mL, 8.2 mmol, 1.0 equiv) was added dropwise over a 25 minute period. The resulting mixture was stirred in the ice water bath for three hours, then aqueous sodium hydroxide solution (3M, 3.3 mL, 9.9 mmol, 1.2 equiv) was added dropwise over a fifteen minute period. Aqueous hydrogen peroxide (35 wt. %, 2.4 mL, 29.5 mmol, 3.6 equiv) was added over a five minute period, then the ice bath was removed and the resulting mixture was stirred at room temperature. TLC (20% ethyl acetate/hexane) in fifteen minutes showed starting material was consumed. The reaction was quenched with 1M aqueous hydrochloric acid, extracted with 3×25 mL diethyl ether. The combine organics were dried over sodium sulfate: the solids were removed by filtration and discarded; the mother liquor was concentrated to oil and purified by CombiFlash (80 g column, 0-30% ethyl acetate/hexane) to obtain 5.4 g of a clear oil (Compound VIII). Yield: 75%.
 Step 8-Preparation of cis-2-(-3-(m-tolyloxy)cyclohexyl)propanal IX
+<img> id-US20180044295A1-20180215-C00061.TIF </img>
 Compound VIII (50 mg, 0.2 mmol, and 1.0 equiv) was dissolved in 0.75 mL dichloromethane: the resulting solution was chilled in an ice water bath and Dess-Martin periodinane (111 mg, 0.26 mmol, 1.3 equiv) was added and the mixture stirred in the ice water bath for two hours. TLC (20% ethyl acetate/hexane) showed reaction nearly complete. The mixture was stirred at room temperature for 30 minutes, quenched with 1 mL sodium thiosulfate solution and then extracted with 2×2 mL ethyl acetate. The combined organics were extracted with 2 mL of saturated sodium bicarbonate: the phases were separated and the aqueous phase was back extracted with 4 mL of ethyl acetate. The combined organics were dried over sodium sulfate and the solids were removed by filtration and discarded. The mother liquor was concentrated on a rotary evaporator to obtain 50 mg of a yellow oil (Compound IX). The crude material was used without further purification in the next step (Example 9).
 Step 8a. Preparation of cis-2-(3-(3-(methoxy)phenoxy)cyclohexyl)propanal
+<img> id-US20180044295A1-20180215-C00062.TIF </img>
 Using the same procedures as described in Steps 6,7 and 8, but with the substitution of m-methoxyphenol in place of m-cresol in Step 6, cis-2-(3-(3-(methoxy)phenoxy)cyclohexyl)propanal was prepared.
 Step 8b Preparation of cis-2-(3-(3-(trifluoromethyl)phenoxy)cyclohexyl)propanal
+<img> id-US20180044295A1-20180215-C00063.TIF </img>
 Using the same procedure as described in Steps 6, 7, and 8, but with the substitution of m-trifluoromethoxyphenol in place of m-cresol in Step 6, cis-2-(3-(3-(trifluoromethyl)phenoxy)cyclohexyl)propanal was prepared.
 Example 9a
 Preparation of cis-(N-(pyridin-4-ylmethyl)-2-(3-(m-tolyloxy)cyclohexyl)propan-1-amine)
+<img> id-US20180044295A1-20180215-C00064.TIF </img>
 Cis-2-(-3-(m-tolyloxy)cyclohexyl)propanal (82 mg, 0.33 mmol) was dissolved in anhydrous THF (3 mL). To this solution was added 4-(aminomethyl)pyridine (51 μL, 0.5 mmol) followed by titanium tetraisopropoxide (202 μL, 0.67 mmol). The mixture was stirred at room temperature for 45 min and then cooled in an ice bath. Sodium triacetoxyborohydride (212 mg, 1 mmol) was added and the ice bath was removed. After 45 minutes at room temperature, LC/MS analysis showed the reaction to be complete. The reaction was quenched with 1 M HCl and most of the solvent was removed under reduced pressure. The residue was dissolved in DMSO (1 mL) and purified by HPLC to afford the title product (LC/MS=339.2 [M+H]+).
 Example 9b
 Alternate Preparation of cis-(N-(pyridin-4-ylmethyl)-2-(3-(m-tolyloxy)cyclohexyl)propan-1-amine)
 Cis-2-(-3-(m-tolyloxy)cyclohexyl)propanal (82 mg, 0.33 mmol) was dissolved in anhydrous dichloroethane (3 mL). To this solution was added 4-(aminomethyl)pyridine (51 μL, 0.5 mmole) and the mixture was stirred at room temperature for 45 min after which sodium triacetoxyborohydride (212 mg, 1 mmol) was added and reaction mixture brought to reflux. After 45 minutes, LC/MS analysis showed the reaction to be complete. The reaction was quenched with 1 M HC1 and most of the solvent was removed under reduced pressure. The residue was dissolved in DMSO (1 mL) and purified by HPLC to afford the title product (LC/MS=339.2 [M+H]+).
 Example 10
 Preparation of cis-N-(4-methylbenzyl)-2-(3-(m-tolyloxy)cyclohexyl)propan-1-amine
+<img> id-US20180044295A1-20180215-C00065.TIF </img>
 Using the same procedure described in Example 9, step 2 using p-tolylmethanamine in place of 4-(aminomethyl)pyridine, cis-N-(4-methylbenzyl)-2-(3-(m-tolyloxy)cyclohexyl)propan-1-amine was prepared analogously (LC/MS=352.2 [M+H]+).
 Example 11
 Preparation of cis-N-(2-(3-(m-tolyloxy)cyclohexyl)propyl)pyridin-4-amine
+<img> id-US20180044295A1-20180215-C00066.TIF </img>
 Using the same procedure described in Example 9, using pyridin-4-amine in place of 4-(aminomethyl)pyridine, cis-N-(2-(3-(m-tolyloxy)cyclohexyl)propyl)pyridin-4-amine was prepared analogously (LC/MS=325.2 [M+H]+).
 Example 12
 Preparation of cis-N-(cyclohexylmethyl)-2-(3-(m-tolyloxy)cyclohexyl)propan-1-amine
+<img> id-US20180044295A1-20180215-C00067.TIF </img>
 Using the same procedure described in Example 9, using cyclohexylmethanamine in place of 4-(aminomethyl)pyridine, cis-N-(cyclohexylmethyl)-2-(3-(m-tolyloxy)-cyclohexyl)propan-1-amine was prepared analogously (LC/MS=344.2 [M+H]+).
 Example 13
 Preparation of cis-N-(pyridin-2-ylmethyl)-2-(3-(m-tolyloxy)cyclohexyl)propan-1 -amine
+<img> id-US20180044295A1-20180215-C00068.TIF </img>
 Using the same procedure described in Example 9, using pyridin-2-ylmethanamine in place of 4-(aminomethyl)pyridine, cis-N-(pyridin-2-ylmethyl)-2-(3-(m-tolyloxy)cyclohexyl)propan-1-amine was prepared analogously (LC/MS=339.2 [M+H]+).
 Example 14
 Preparation of cis-N-(3-chlorobenzyl)-2-(3-(m-tolyloxy)cyclohexyl)propan-1-amine
+<img> id-US20180044295A1-20180215-C00069.TIF </img>
 Using the same procedure described in Example 9, using (3-chlorophenyl)methanamine in place of 4-(aminomethyl)pyridine, cis-N-(3-chlorobenzyl) -2-(3-(m-tolyloxy)cyclohexyl)propan-1-amine was prepared analogously (LC/MS=372.2 [M+H]+).
 Example 15
 Preparation of cis-2-(((2-(3-(m-tolyloxy)cyclohexyl)propyl)amino)methyl)aniline
+<img> id-US20180044295A1-20180215-C00070.TIF </img>
 Using the same procedure described in Example 9, using 2-(aminomethyl)aniline in place of 4-(aminomethyl)pyridine, cis-N-(3-chlorobenzyl)-2-(3-(m-tolyloxy) cyclohexyl)propan-1-amine was prepared analogously (LC/MS=353.2 [M+H]+).
 Example 16
 Preparation of cis-N-(pyridin-3-ylmethyl)-2-(3-(m-tolyloxy)cyclohexyl)propan-1-amine
+<img> id-US20180044295A1-20180215-C00071.TIF </img>
 Using the same procedure described in Example 9, using pyridin-3-ylmethanamine in place of 4-(aminomethyl)pyridine, cis-N-(pyridin-3-ylmethyl)-2-(3-(m-tolyloxy)cyclohexyl)propan-1-amine was prepared analogously (LC/MS=339.2 [M+H]+).
 Example 17
 Preparation of cis-N-(2-chlorobenzyl)-2-(3-(m-tolyloxy)cyclohexyl)propan-1-amine
+<img> id-US20180044295A1-20180215-C00072.TIF </img>
 Using the same procedure described in Example 9, using (2-chlorophenyl)methanamine in place of 4-(aminomethyl)pyridine, cis-N-(2-chlorobenzyl)-2-(3-(m-tolyloxy)cyclohexyl)propan-1-amine was prepared analogously (LC/MS=372.2 [M+H]+).
 Example 18
 Preparation of cis-3-(((2-(3-(m-tolyloxy)cyclohexyl)propyl)amino)methyl)aniline
+<img> id-US20180044295A1-20180215-C00073.TIF </img>
 Using the same procedure described in Example 9, using 3-(aminomethyl)aniline in place of 4-(aminomethyl)pyridine, cis-3-(((2-(3-(m-tolyloxy)cyclohexyl)propyl)-amino)methyl)aniline was prepared analogously (LC/MS=353.2 [M+H]+).
 Example 19
 Preparation of cis-N-(4-chlorobenzyl)-2-(3-(m-tolyloxy)cyclohexyl)propan-1-amine
+<img> id-US20180044295A1-20180215-C00074.TIF </img>
 Using the same procedure described in Example 9, using (4-chlorophenyl)methanamine in place of 4-(aminomethyl)pyridine, cis-N-(4-chlorobenzyl)-2-(3-(m-tolyloxy)cyclohexyl)propan-1-amine was prepared analogously (LC/MS=371.2 [M+H]+).
 Example 20
 Preparation of cis-N-(4-chlorobenzyl)-N-methyl-2-(3-(m-tolyloxy)cyclohexyl)propan-1-amine
+<img> id-US20180044295A1-20180215-C00075.TIF </img>
 Using the same procedure described in Example 9, using 1-(4-chlorophenyl)-N- methylmethanamine in place of 4-(aminomethyl)pyridine, cis-N-(4-chlorobenzyl)-N-methyl-2-(3-(m-tolyloxy)cyclohexyl)propan-1-amine was prepared analogously (LC/MS=386.2 [M+H]+).
 Example 21
 Preparation of cis-2-(((2-(3-(m-tolyloxy)cyclohexyl)propyl)amino) methyl)phenol
+<img> id-US20180044295A1-20180215-C00076.TIF </img>
 Using the same procedure described in Example 9, using 2-(aminomethyl)phenol in place of 4-(aminomethyl)pyridine, cis-2-(((2-(3-(m-tolyloxy)cyclohexyl)propyl)-amino)methyl)phenol was prepared analogously (LC/MS=354.2 [M+H]+).
 Example 22
 Preparation of cis-4-(((2-(3-(m-tolyloxy)cyclohexyl)propyl)amino)methyl)aniline
+<img> id-US20180044295A1-20180215-C00077.TIF </img>
 Using the same procedure described in Example 9, using 4-(aminomethyl)aniline in place of 4-(aminomethyl)pyridine, cis-4-(((2-(3-(m-tolyloxy)cyclohexyl)propyl)-amino)methyl)aniline was prepared analogously (LC/MS=353.2 [M+H]+).
 Example 23
 Preparation of cis-3-(((2-(3-(m-tolyloxy)cyclohexyl)propyl)amino)methyl)phenol
+<img> id-US20180044295A1-20180215-C00078.TIF </img>
 Using the same procedure described in Example 9, using 3-(aminomethyl)phenol in place of 4-(aminomethyl)pyridine, cis-3-(((2-(3-(m-tolyloxy)cyclohexyl)propyl)amino)methyl)phenol was prepared analogously (LC/MS=354.2 [M+H]+).
 Example 24
 Preparation of cis-4-(((2-(3-(m-tolyloxy)cyclohexyl)propyl)amino)methyl)phenol
+<img> id-US20180044295A1-20180215-C00079.TIF </img>
 Using the same procedure described in Example 9, using 4-(aminomethyl)phenol in place of 4-(aminomethyl)pyridine, cis-4-(((2-(3-(m-tolyloxy)cyclohexyl)propyl)amino)methyl)phenol was prepared analogously (LC/MS=354.2 [M+H]+).
 Example 25
 Preparation of cis-N-(pyrimidin-4-ylmethyl)-2-(3-(m-tolyloxy)cyclohexyl)propan-1-amine
+<img> id-US20180044295A1-20180215-C00080.TIF </img>
 Using the same procedure described in Example 9, using pyrimidin-4-ylmethanamine in place of 4-(aminomethyl)pyridine, cis-N-(pyrimidin-4-ylmethyl)-2-(3-(m-tolyloxy)cyclohexyl)propan-1-amine was prepared analogously (LC/MS=340.2 [M+H]+).
 Example 26
 Preparation of cis-N-(pyridin-4-ylmethyl)-N-(2-(3-(m-tolyloxy)cyclohexyl)propyl)acetamide
+<img> id-US20180044295A1-20180215-C00081.TIF </img>
 cis-(N-(pyridin-4-ylmethyl)-2-(3-(m-tolyloxy)cyclohexyl)propan-1-amine)(0.338 g, 1 mmol), prepared as in Example 9, was dissolved in dichloromethane (5 mL) and treated with acetyl chloride (0.117 g, 1.5 mmol) and triethylamine (0.152 g, 1.5 mmol), and stirred at 0° C. to room temperature for 3 h. The mixture was partitioned between ethyl acetate and sodium bicarbonate solution, and the organic layer was separated, dried and evaporated to dryness to afford the crude product. Purification by preparative HPLC afforded the pure cis-N-(pyridin-4-ylmethyl)-N-(2-(3-(m-tolyloxy)cyclohexyl)propyl)acetamide (LC/MS=381.2 [M+H]+).
 Example 27
 Preparation of cis-2-(3-(m-tolyloxy)cyclohexyl)propan-1-amine
+<img> id-US20180044295A1-20180215-C00082.TIF </img>
 Using the same procedure described in Example 9, using 7N NH4OH in methanol in place of 4-(aminomethyl)pyridine, cis-2-(3-(m-tolyloxy)cyclohexyl)propan-1-amine was prepared analogously (LC/MS=248.2 [M+H]+).
 Example 28
 Preparation of cis-N-(2-(3-(m-tolyloxy)cyclohexyl)propyl)isonicotinamide
+<img> id-US20180044295A1-20180215-C00083.TIF </img>
 2-(3-(m-tolyloxy)cyclohexyl)propan-1-amine (prepared in Example 27) was coupled with iso-nicotinic acid using a standard coupling procedure (HATU/diisopropylethylamine/DMF) to afford cis-N-(2-(3-(m-tolyloxy)cyclohexyl)propyl) isonicotinamide after purification by preparative HPLC (LC/MS=353.2 [M+H]+).
 Example 29
 Preparation of cis-N-1H-benzo[d]imidazol-5-yl)methyl)-2-(3-(m-tolyloxy)cyclohexyl)propan-1-amine
-Using the procedure described in Example 9a, cis-2-(3-(m-tolyloxy)cyclohexyl)propan-1-amine, prepared in Example 27, was reacted with 1H-benzo[d]imidazole-5-carbaldehyde and purified by preparative HPLC to afford cis-N-((1H-benzo[d]imidazol-5-yl)methyl)-2-(3-(m-tolyloxy)cyclohexyl)propan-1amine (LC/MS=378.2 [M+H]+).
+<img> id-US20180044295A1-20180215-C00084.TIF </img>
+Using the procedure described in <img> id-US20180044295A1-20180215-P00001.TIF </img>propan-1amine (LC/MS=378.2 [M+H]+).Example 9a, cis-2-(3-(m-tolyloxy)cyclohexyl)propan-1-amine, prepared in Example 27, was reacted with 1H-benzo[d]imidazole-5-carbaldehyde and purified by preparative HPLC to afford cis-N-((1H-benzo[d]imidazol-5-yl)methyl)-2-(3-(m-tolyloxy)cyclohexyl)propan-1amine (LC/MS=378.2 [M+H]+).
+<img> id-US20180044295A1-20180215-C00085.TIF </img>
 Using the procedure described in Example 9, substituting cis-2-(3-(3-(methoxy)phenoxy)cyclohexyl)propanal for cis-2-(-3-(m-tolyloxy)cyclohexyl)propanal, reaction with benzylamine afforded cis-2-(3-(3-methoxyphenoxy)cyclohexyl)-N-(pyridin-3-ylmethyl)propan-1-amine (LC/MS=354.2 [M+H]+).
 Example 31
 Preparation of cis-2-(3-(3-methoxyphenoxy)cyclohexyl)-N-(pyridin-3-ylmethyl)propan-1-amine
+<img> id-US20180044295A1-20180215-C00086.TIF </img>
 Using the procedure described in Example 16, substituting cis-2-(3-(3-(methoxy)phenoxy)cyclohexyl)propanal for cis-2-(-3-(m-tolyloxy)cyclohexyl)propanal, reaction with 3-(aminomethyl)pyridine afforded cis-2-(3-(3-methoxyphenoxy)cyclohexyl)-N-(pyridin-3-ylmethyl)propan-1-amine (LC/MS=355.2 [M+H]+).
 Example 32
 Preparation of cis-2-(3-(3-methoxyphenoxy)cyclohexyl)-N-(pyridin-4-ylmethyl)propan-1-amine
+<img> id-US20180044295A1-20180215-C00087.TIF </img>
 Using the procedure described in Example 9, substituting cis-2-(3-(3-(methoxy)phenoxy)cyclohexyl)propanal for cis-2-(-3-(m-tolyloxy)cyclohexyl)propanal, reaction with 4-(aminomethyl)pyridine afforded cis-2-(3-(3-methoxyphenoxy)cyclohexyl)-N-(pyridin-4-ylmethyl)propan-1-amine (LC/MS=355.2 [M+H]+).
 Example 33
 Preparation of cis-N-benzyl-2-(3-(3-(trifluoromethyl)phenoxy)cyclohexyl)propan-1-amine
+<img> id-US20180044295A1-20180215-C00088.TIF </img>
 Using the procedure described in Example 9, substituting cis-2-(3-(3-(trifluoromethyl)phenoxy)cyclohexyl)propanal for cis-2-(-3-(m-tolyloxy)cyclohexyl) propanal, reaction with benzylamine afforded cis-N-benzyl-2-(3-(3-(trifluoromethyl)phenoxy)cyclohexyl)propan-1-amine (LC/MS=392.2 [M+H]+).
 Example 34
 Preparation of cis-N-(pyridin-3-ylmethyl)-2-(3-(3-(trifluoromethyl)phenoxy)cyclohexyl)propan-1-amine
+<img> id-US20180044295A1-20180215-C00089.TIF </img>
 Using the procedure described in Example 16, substituting cis-2-(3-(3-(trifluoromethyl)phenoxy)cyclohexyl)propanal for cis-2-(-3-(m-tolyloxy)cyclohexyl)propanal, reaction with 3-(aminomethyl)pyridine afforded cis-N-(pyridin-3-ylmethyl)-2-(3-(3-(trifluoromethyl)phenoxy)cyclohexyl)propan-1-amine (LC/MS=393.2 [M+H]+).
 Example 35
 Preparation of cis-N-(pyridin-4-ylmethyl)-2-(3-(3-(trifluoromethyl)phenoxy)cyclohexyl)propan-1-amine
+<img> id-US20180044295A1-20180215-C00090.TIF </img>
 Using the procedure described in Example 9, substituting cis-2-(3-(3-(trifluoromethyl)phenoxy)cyclohexyl)propanal for cis-2-(-3-(m-tolyloxy)cyclohexyl)propanal, reaction with 4-(aminomethyl)pyridine afforded cis-N-(pyridin-4-ylmethyl)-2-(3-(3-(trifluoromethyl)phenoxy)cyclohexyl)propan-1-amine (LC/MS=393.2 [M+1-1]+).
 Example 36
 Screening of C458 Analogs Against Aβ Toxicity in MC65 Cells
@@ -327,6 +383,7 @@ Further, CP2 and C458 analogs, but not an inactive CP2 analog (TP17) or an inact
 Example 38
 Screening of Additional C458 aAalogs Against Aβ toxicity in MC65 Cells
 The activity of nine (9) new compounds (C687-C695) was tested in an Aβ toxicity assay in MC65 cells (FIGS. 15A and 15B). The structures of several of these compounds were as follows:
+<img> id-US20180044295A1-20180215-C00091.TIF </img>
 All of the new compounds, excluding compound C692, demonstrated a lack of toxicity and high efficacy against Aβ toxicity in these cells. Compounds C693-C695 demonstrated much higher efficacy against Aβ toxicity compared to the rest of the compounds (circled in FIG. 15B).
 Example 39
 Screening of Additional C458 Analogs for Complex I Inhibition and Production of ATP, NAD+, and NADH

@@ -4,7 +4,7 @@ Hence there is a therapeutic rationale for the use of P2X7 antagonists in the tr
 P2X7 inhibitors are described in in various patent applications such as:WO2004/099146 that discloses benzamide inhibitors of the P2X7 receptor and their use in the treatment of inflammatory diseases.WO2009/108551 that discloses heteroarylamide analogs and their use in P2X7 receptor mediated conditions.WO2009/132000 that discloses quinoline and isoquinoline substituted P2X7 receptor antagonists and their use in P2X7 receptor mediated conditions.WO2015/118019 that discloses thiazole and oxazole derivatives as P2X7 receptor antagonists and their use in P2X7 receptor mediated conditions.
 However there is still an unmet need for compounds which are able to efficiently antagonize P2X7 and that can be delivered in the different target organs which are sites of a P2X7 mediated pathology, including the brain. Such compounds are provided herein.
 Various embodiments of the invention are presented hereafter;
-The present invention relates to thiazole compounds of the following formula (I) or a pharmaceutically acceptable salt thereof:including any stereochemically isomeric form thereof, whereinX is O or CF2;R1 and R2 are independently selected from the group consisting of hydrogen, CH2OH, CH2F, CHF2, cyclopropyl, or -C=CH with the proviso that when one of R1 and R2 is CH2OH, CH2F, CHF2, cyclopropyl or -C=CH, then the other of R1 or R2 group is hydrogen.
+The present invention relates to thiazole compounds of the following formula (I) or a pharmaceutically acceptable salt thereof:<img> id-imgb0001.tif </img>including any stereochemically isomeric form thereof, whereinX is O or CF2;R1 and R2 are independently selected from the group consisting of hydrogen, CH2OH, CH2F, CHF2, cyclopropyl, or -C=CH with the proviso that when one of R1 and R2 is CH2OH, CH2F, CHF2, cyclopropyl or -C=CH, then the other of R1 or R2 group is hydrogen.
 As used in the foregoing definitions:
 The terms "halo", "halogen" and "halide", which may be used interchangeably, refer to a substituent fluoro, chloro, bromo, or iodo.
 The term "stereochemically isomeric forms" as used hereinbefore defines all the possible isomeric forms which the compounds of formula (I) may possess. Unless other wise mentioned or indicated, the chemical designation of compounds denotes the mixture of all possible stereochemically isomeric forms, said mixtures containing all diastereomers and enantiomers of the basic molecular structure. More in particular, stereogenic centers may have the R- or S-configuration; substituents on bivalent cyclic (partially) saturated radicals may have either the cis- or trans-configuration.
@@ -30,24 +30,24 @@ Compound & IUPAC Name
 9 & 2-chloro-N- {2-[2-(ethynyl)-1,3-thiazol-5-yl]-2-(morpholin-4-yl)ethyl}-5-(5-fluoropyrimidin-2-yl)benzamide
 </table>
 Compounds of formula (I) can be synthesized in four different ways as described below.
-In particular, compounds of formula (I) are obtained by reacting a compound of formula (II):wherein the meanings of X, R1, and R2 are as defined above, with a compound of formula (III)
+In particular, compounds of formula (I) are obtained by reacting a compound of formula (II):<img> id-imgb0002.tif </img>wherein the meanings of X, R1, and R2 are as defined above, with a compound of formula (III)<img> id-imgb0003.tif </img>
 The reaction of a compound of formula (II) with a compound of formula (III), may be carried out in a at least one reaction-inert solvent and in the presence of a suitable base thereof at room temperature for 30 minutes.
 Compound of formula (III) is known in the art or can be prepared following the processes reported in the examples.
-Compounds of formula (II) can be prepared according to the following scheme:
+Compounds of formula (II) can be prepared according to the following scheme:<img> id-imgb0004.tif </img>
 Primary amines (II) can be obtained by reduction of the respective nitrile derivatives (IIa) in a nitrogen-hydrogen bond forming reaction. Non-limiting examples of such reaction include reduction with:hydrogen or a hydrogen source in the presence of a metal such as nickel, platinum, palladium and cobalt or a derivative thereof such as Ni-Raney, platinum oxide, palladium oxide or Raney cobalt as catalyst;a hydride such as lithium aluminum hydride, diisobutylaluminum hydride (DIBAL), boron hydride or a functional derivative thereof.
 The reaction may be performed in a suitable solvent, such as methanol, tetrahydrofuran, acetic acid, diethyl ether, toluene or methanolic ammonia solution preferably at temperatures between -78°C and RT.
 Compounds of formula (IIa), wherein R1, and R2 are as defined in formula (I), can be prepared from commercially available aldehydes (IIc) by a Strecker condensation reaction with the respective heterocyclyl intermediate (IId) in presence of a source of cyanide (IIb) for example TMSCN or a functional derivative thereof, in a solvent such as AcOH or MeCN, preferably at temperatures between 0°C and RT.
 Stirring may enhance the rate of the Strecker condensation reaction. The starting materials and some of the intermediates are known compounds and are commercially available or may be prepared according to conventional reaction procedures generally known in the art.
 The said process further optionally comprising asymmetric reaction using chiral auxiliaries based synthesis (using carbohydrate, chiral amine or cyclic ketimine) and/or catalytic asymmetric Strecker synthesis (using guanidine, chiral Schiff base or BINOL-based catalyst).
-Compounds of formula (I) are also obtained by reacting a compound of formula (IV)wherein the meanings of X, R1 and R2 are as defined above, with commercially available fluorinating agent.
+Compounds of formula (I) are also obtained by reacting a compound of formula (IV)<img> id-imgb0005.tif </img>wherein the meanings of X, R1 and R2 are as defined above, with commercially available fluorinating agent.
 This reaction may be performed in a reaction-inert solvent such as, for example DCM, and in the presence of deoxofluor solution. Temperature can range between 0°C and the room temperature of the reaction mixture for 35 minutes.
-When R2 is CHO group, compounds of formula (IV) can be prepared from the oxidation of appropriate compound (Iva):obtained from the coupling reaction between the opportune amine (II) with the chloride (II)I.
-Primary amines (II) can be obtained as described above starting from not commercially available intermediate 1a synthesized according to the following scheme:(1a) is known in the art or can be prepared following the processes reported in the examples.
-Compounds of formula (I) are also obtained from the hydrolysis of opportune compound of formula (V)wherein the meanings of X and R2 are as defined above, using acetic acid anf commercially available TBAF in THF for 30 minutes at room temperature.
+When R2 is CHO group, compounds of formula (IV) can be prepared from the oxidation of appropriate compound (Iva):<img> id-imgb0006.tif </img>obtained from the coupling reaction between the opportune amine (II) with the chloride (II)I.
+Primary amines (II) can be obtained as described above starting from not commercially available intermediate 1a synthesized according to the following scheme:<img> id-imgb0007.tif </img>(1a) is known in the art or can be prepared following the processes reported in the examples.
+Compounds of formula (I) are also obtained from the hydrolysis of opportune compound of formula (V)<img> id-imgb0008.tif </img>wherein the meanings of X and R2 are as defined above, using acetic acid anf commercially available TBAF in THF for 30 minutes at room temperature.
 The compounds of formula (V) can be obtained from the coupling reaction between the opportune amine (II) with the chloride (II)I.
-Primary amines (II) can be obtained as described above starting from not commercially available intermediate (If) synthesized according to the following scheme:
+Primary amines (II) can be obtained as described above starting from not commercially available intermediate (If) synthesized according to the following scheme:<img> id-imgb0009.tif </img>
 Compound (If) can be prepared following the processes reported in the examples.
-Finally, compounds of formula (I) were prepared from the opportune compound of formula (VI)wherein the meanings of X and R1 are as defined above, by ethynylation.
+Finally, compounds of formula (I) were prepared from the opportune compound of formula (VI)<img> id-imgb0010.tif </img>wherein the meanings of X and R1 are as defined above, by ethynylation.
 This reaction may be performed for example at room temperature, in dry alchol, preferably MeOH, using for example the commercially available Ohira-Bestmann reagent. The time required to accomplish the reaction yield is 30 minutes-2 hours, preferably 1 hour.
 Compounds of formula (VI) can be obtained from the corresponding intermediates (IVa) (which are synthesized as described above) by oxidation reaction.
 The compounds of formula (I) as prepared in the hereinabove described processes may be synthesized in the form of racemic mixtures of enantiomers which can be separated from one another following art-known resolution procedures. Those compounds of formula (I) that are obtained in racemic form may be converted into the corresponding diastereomeric salt forms by reaction with a suitable chiral acid. Said diastereomeric salt forms are subsequently separated, for example, by selective or fractional crystallization and the enantiomers are liberated there from by alkali. An alternative manner of separating the enantiomeric forms of the compounds of formula (I) involves liquid chromatography using a chiral stationary phase. Said pure stereochemically isomeric forms may also be derived from the corresponding pure stereochemically isomeric forms of the appropriate starting materials, provided that the reaction occurs stereospecifically. Preferably if a specific stereoisomer is desired, said compound will be synthesized by stereospecific methods of preparation. These methods will advantageously employ enantiomerically pure starting materials.
@@ -90,17 +90,17 @@ Abbreviations which may be used in the description of the Schemes and the Exampl
 Experimental part
 The following examples illustrate the present invention. Unless explicitly stated otherwise, all particulars (especially percentages and amounts) relate to the weight.
 Synthesis of the intermediates 1a-1e
-a) Preparation ofintermediate 1a
+a) Preparation of<img> id-imgb0011.tif </img>intermediate1a
 To a suspension of 2-bromomalonaldehyde (17.1 mmol, 1 eq.) in 1.5 mL of the ionic liquid [bmim]PF6, was added 2-amino-2-thioxoethyl 2,2-dimethylpropanoate (17.1 mmol, 1 eq.). Then, the reaction mixture was diluted with DCM (6 mL), sonicated for 5 minutes and magnetically stirred at room temperature overnight. An yellowish precipitate was obtained and from TLC analysis (EP/EtOAc 4:1 v/v), starting was consumed. The solvent was evaporated under reduced pressure and the product was purified by flash chromatography on SiO2 using EP/EtOAc 4:1 v/v as the eluant to afford the intermediate 1a as a viscous yellow oil (Y: 46%).
-a) Preparation ofintermediate 1b
+a) Preparation of<img> id-imgb0012.tif </img>intermediate1b
 A solution of 3-chlorofuran-2,4(3H,5H)-dione (74.3 mmol, 1eq.) and thiourea (86.2 mmol, 1.2 eq.) in EtOH (50 mL) was heated at reflux for 4 hrs. Solvent was removed and the residue was dissolved in water with HCl (1M). The aqueous solution was basified with aqueous Na2CO3; the solid formed was filtered, washed with water and dried in vacuo (Y: 73%).
-b) Preparation ofintermediate 1ac
+b) Preparation of<img> id-imgb0013.tif </img>intermediate1ac
 Intermediate 1b (11 mmol, 1eq.) was dissolved in EtOH (75 mL) and AcOH (67 mL); NaNO2 (237 mmol, 20eq.) and NaHSO3 (237 mmol, 20eq.) were added and the reaction mixture was stirred at rt for 2 hrs. H2O (100 mL) and DCM (50 mL) were added to the reaction mixture. The aqueous phase was extracted with DCM (3x 50 mL) and was washed with saturated NaHCO3 (1x100 mL). The combined organic phases were dried (anh. Na2SO4), evaporated and dried in vacuo to remove all AcOH and give intermediate 1c as an orange/red oil (Y: 85%).
-c) Preparation ofintermediate 1d
+c) Preparation of<img> id-imgb0014.tif </img>intermediate1d
 Intermediate 1c (10.7 mmol, 1eq.) was dissolved in DCM (10 mL); imidazole (21.4 mmol, 2eq.) was added one-pot and the reaction solution became orange. A solution of TBDMS-Cl (12.8 mmol, 1.2 eq.) in DCM (10 mL) was added at 0°C and the reaction mixture was stirred overnight at rt. Then, after LC-MS analysis, DMF (3 mL) was added and after 10 minutes, TBDMS-Cl (6.4 mmol, 0.6 eq.) and imidazole (13.9 mmol, 1.3 eq.) were added. The reaction mixture was stirred for 90 min at rt and then putted in fridge for all the week-end. DCM was removed under vacuum, the residue was diluted with Et2O (100 mL) and washed with water. The organic phase was dried (anh. Na2SO4), filtered and evaporated. The crude was purified by FC over SiO2 (SNAP 50g: EP/EtOAc 8:2 v/v) to afford intermediate 1d as a yellow oil (Y: 84%).
-c) Preparation ofintermediate 1e
+c) Preparation of<img> id-imgb0015.tif </img>intermediate1e
 Intermediate 1d (8.96 mmol, 1eq.) was dissolved in DCM dry (20 mL). The mixture was cooled to -78°C and DIBAL in DCM (1M) (9.85 mmol, 1.1 eq.) was added dropwise. After 2 h, the mixture was quenched adding H2O (0.5 mL) and Rochelle salt (15 mL) and was stirred overnight. The organic phase was collected, dried (anh. Na2SO4) and finally evaporated under reduced pressure. The crude was purified by FC over SiO2 (SNAP 100g: EP/EtOAc 8:2 v/v) to give intermediate 1e (Y: 19.4%)
-c) Preparation ofintermediate 1f
+c) Preparation of<img> id-imgb0016.tif </img>intermediate1f
 Intermediate 1e (1.73 mmol, 1eq.) was dissolved in DCM (4 mL); MnO2 (25.3 mmol, 14.6 eq.) was added and the reaction mixture was stirred overnight at rt. Then, after LC-MS analysis, MnO2 (7.87 mmol, 4.5eq.) was added. After 3 hrs the reaction was stopped. The mixture was diluted with EtOAc and was filtered over a pad of celite, which was washed several times with EtOAc. The combined organic phases were then concentrated to give intermediate 1f used in the next step without any purification.
 Preparation of α-aminonitriles 2a-2d
 General procedure
@@ -113,7 +113,7 @@ Intermediate 2d (Y: 41%) was prepared starting from intermediate If and 4,4-difl
 <header>
 2a & 2b & 2c & 2d
 </header>
- &  &  & 
+<img> id-imgb0017.tif </img> & <img> id-imgb0018.tif </img> & <img> id-imgb0019.tif </img> & <img> id-imgb0020.tif </img>
 </table>
 Preparation of diamines 3a-3d
 Procedure n°1
@@ -131,12 +131,12 @@ Intermediate 3d (Y: 67%) was prepared starting from intermediate 2d.
 <header>
 AXX013_0600_010 & A0025_31_01 & A0022_33_01 & A0022_63_01
 </header>
- &  &  & 
+<img> id-imgb0021.tif </img> & <img> id-imgb0022.tif </img> & <img> id-imgb0023.tif </img> & <img> id-imgb0024.tif </img>
 </table>
 Preparation of intermediates 4a and 4b
-a) Preparation ofintermediate 4a
+a) Preparation of<img> id-imgb0025.tif </img>intermediate4a
 Into a two-neck 50mL round-bottom flask, equipped with a mechanical stirred and reflux condenser, was dissolved 5-borono-2-chlorobenzoic acid (5.0 mmol, 1 eq.) and Cs2CO3 (7.5 mmol, 1.5 eq.) in degassed mixture of DMF/H2O (8.0/4.0 mL). To the resulting solution were added 2-chloro-5-fluoropyrimidine (6.25 mmol, 1.25 eq.) and Pd(PPh3)4 (0.1 mmol, 0.02 eq.) and the reaction mixture was heated at 110°C for 24 hrs. Then, the solvent was evaporated under reduced pressure. The resulting solid was dissolved in H2O, basified with NaOH 3M until pH=12, and extracted with Et2O (1x 20mL) and DCM (1x 20mL). The aqueous phase was acidified by 1M HCl until pH=1, the precipitate was filtered, washed with water and dried under vacuum, to obtained intermediate 4a as a pale yellow solid. (Y: 94%)
-a) Preparation ofintermediate 4b
+a) Preparation of<img> id-imgb0026.tif </img>intermediate4b
 Intermediate 4a (21.57 mmol, 1eq.) was dissolved in SOCl2 (120 mL) and was heated to reflux (90°C) for 4 hrs. The solvent was removed under reduced pressure, and the crude was stripped several times with DCM to afford intermediate 4b as a white solid, used in the next synthetic step without further purification (Y: 99%).
 Preparation of intermediates 5a, 5b and 5c
 General procedure
@@ -147,9 +147,9 @@ Intermediate 5b (Y: 99%, without purification) was prepared starting from interm
 <header>
 5a & 5b
 </header>
- & 
+<img> id-imgb0027.tif </img> & <img> id-imgb0028.tif </img>
 </table>
-a) Preparation ofintermediate 5c
+a) Preparation of<img> id-imgb0029.tif </img>intermediate5c
 Intermediate 3d (0.29 mmol, 1eq.) was dissolved in DCM (2 mL) and added to a stirred solution of interemediate 4b (0.29 mmol, 1eq.) in DCM (3 mL). The reaction mixture was stirred for 35 min; from the UPLC-MS, there was a bit trace of starting and there was many acid so TEA (not dry) (40 µL, 1eq.) was added. After 20 min, the reaction was finished (UPLC-MS analysis). The reaction mixture was sequentially washed with 5% aqueous citric acid (2x 10mL) and sat. NaHCO3 (2x 10 mL). The combined organic phases were dried (anh. Na2SO4) and evaporated. The crude was purified by FC over SiO2 (SNAP 25g: EP/EtOAc 7:3 to 6:4 v/v) to give intermediate 5c as a yellow oil (Y: 60%)
 Preparation of intermediates 6a and 6b
 General procedure
@@ -160,7 +160,7 @@ Intermediate 6b (Y: 80%) was prepared starting from intermediate 3b.
 <header>
 6a & 6b
 </header>
- & 
+<img> id-imgb0030.tif </img> & <img> id-imgb0031.tif </img>
 </table>
 General procedure for the synthesis of final compounds
 Preparation of Compound 4
@@ -180,15 +180,15 @@ Using this procedure compounds:Compound 1 (Y: 51 %) was prepared starting from i
 <header>
 Compound & Structure & IUPAC Name
 </header>
-1 &  & (±)-2-chloro-N-{2-[2-(difluoromethyl)-1,3-thiazol-5-yl]-2-(morpholin-4-yl)ethyl}-5-(5-fluoropyrimidin-2-yl)benzamide
-2 &  & (+)-2-chloro-N-{2-[2-(difluoromethyl)-1,3-thiazol-5-yl]-2-(morpholin-4-yl)ethyl}-5-(5-fluoropyrimidin-2-yl)benzamide
-3 &  & (-)-2-chloro-N-{2-[2-(difluoromethyl)-1,3-thiazol-5-yl]-2-(morpholin-4-yl)ethyl}-5-(5-fluoropyrimidin-2-yl)benzamide
-4 &  & 2-chloro-N-{2-[4-(cyclopropyl)-1,3-thiazol-5-yl]-2-(4,4-difluoropiperidin-1-yl)ethyl}-5-(5-fluoropyrimidin-2-yl)benzamide
-5 &  & 2-chloro-N-{2-[4-(hydroxymethyl)-1,3-thiazol-5-yl]-2-(4,4-difluoropiperidin-1-yl)ethyl}-5-(5-fluoropyrimidin-2-yl)benzamide
-6 &  & 2-chloro-N-{2-[4-(fluoromethyl)-1,3-thiazol-5-yl]-2-(4,4-difluoropiperidin-1-yl)ethyl}-5-(5-fluoropyrimidin-2-yl)benzamide
-7 &  & 2-chloro-N-{2-[2-(fluoromethyl)-1,3-thiazol-5-yl]-2-(morpholin-4-yl)ethyl}-5-(5-fluoropyrimidin-2-yl)benzamide
-8 &  & 2-chloro-N-{2-[2-(fluoromethyl)-1,3-thiazol-5-yl]-2-(4,4-difluoropiperidin-1-yl)ethyl}-5-(5-fluoropyrimidin-2-yl)benzamide
-9 &  & 2-chloro-N-[2-(4,4-difluoropiperidin-1-yl)-2-(2-ethynyl-1,3-thiazol-5-yl)ethyl]-5-(5-fluoropyrimidin-2-yl)benzamide
+1 & <img> id-imgb0032.tif </img> & (±)-2-chloro-N-{2-[2-(difluoromethyl)-1,3-thiazol-5-yl]-2-(morpholin-4-yl)ethyl}-5-(5-fluoropyrimidin-2-yl)benzamide
+2 & <img> id-imgb0033.tif </img> & (+)-2-chloro-N-{2-[2-(difluoromethyl)-1,3-thiazol-5-yl]-2-(morpholin-4-yl)ethyl}-5-(5-fluoropyrimidin-2-yl)benzamide
+3 & <img> id-imgb0034.tif </img> & (-)-2-chloro-N-{2-[2-(difluoromethyl)-1,3-thiazol-5-yl]-2-(morpholin-4-yl)ethyl}-5-(5-fluoropyrimidin-2-yl)benzamide
+4 & <img> id-imgb0035.tif </img> & 2-chloro-N-{2-[4-(cyclopropyl)-1,3-thiazol-5-yl]-2-(4,4-difluoropiperidin-1-yl)ethyl}-5-(5-fluoropyrimidin-2-yl)benzamide
+5 & <img> id-imgb0036.tif </img> & 2-chloro-N-{2-[4-(hydroxymethyl)-1,3-thiazol-5-yl]-2-(4,4-difluoropiperidin-1-yl)ethyl}-5-(5-fluoropyrimidin-2-yl)benzamide
+6 & <img> id-imgb0037.tif </img> & 2-chloro-N-{2-[4-(fluoromethyl)-1,3-thiazol-5-yl]-2-(4,4-difluoropiperidin-1-yl)ethyl}-5-(5-fluoropyrimidin-2-yl)benzamide
+7 & <img> id-imgb0038.tif </img> & 2-chloro-N-{2-[2-(fluoromethyl)-1,3-thiazol-5-yl]-2-(morpholin-4-yl)ethyl}-5-(5-fluoropyrimidin-2-yl)benzamide
+8 & <img> id-imgb0039.tif </img> & 2-chloro-N-{2-[2-(fluoromethyl)-1,3-thiazol-5-yl]-2-(4,4-difluoropiperidin-1-yl)ethyl}-5-(5-fluoropyrimidin-2-yl)benzamide
+9 & <img> id-imgb0040.tif </img> & 2-chloro-N-[2-(4,4-difluoropiperidin-1-yl)-2-(2-ethynyl-1,3-thiazol-5-yl)ethyl]-5-(5-fluoropyrimidin-2-yl)benzamide
 </table>
 Analytical part
 Purification system
@@ -244,7 +244,7 @@ The standard whole-cell voltage clamp experiments were performed at room tempera
 The intracellular solution contained (mM) 135 CsF, 10 NaCl, 1 EGTA, 10 HEPES, (pH 7.2 with CsOH) whereas the extracellular contained (mM) 145 NaCl, 4 KCl, 0.5 MgCl2, 1 CaCl2, 10 HEPES, 10 Glc (pH 7.4 with NaOH).
 After establishment of the seal and the passage in the whole cell configuration, the cells were held at -80 mV. The P2XR7 current was evoked by applying 100 microM of BzATP alone (4 times) and then in the presence increasing concentrations of the compound under investigation (1, 10, 100 and 1000 nM).
 The pre-incubation periods 5 to 8 contain increasing concentrations of the compound of interest (1, 10, 100 and 1000 nM), as illustrated in Figure.
-The maximal inward current evoked by BzATP in absence or presence of increasing concentrations of the compounds under investigation was measured and normalized. The potential modulatory effect was measured as % of control and as IC50 determined fitting the dose-response curves data with the following equation:Y=100/1+10∧LogIC50−X*HillSlope where:X: log of concentrationY: normalized response, 100% down to 0%, decreasing as X increases.LogIC50: same log units as XHillSlope: slope factor or HS, unitless
+The maximal inward current evoked by BzATP in absence or presence of increasing concentrations of the compounds under investigation was measured and normalized. The potential modulatory effect was measured as % of control and as IC50 determined fitting the dose-response curves data with the following equation:<img> id-imgb0041.tif </img>Y=100/1+10∧LogIC50−X*HillSlope where:X: log of concentrationY: normalized response, 100% down to 0%, decreasing as X increases.LogIC50: same log units as XHillSlope: slope factor or HS, unitless
 <table>
 <header>
 Compound & hP2X7 (IC50; nM) & ±SEM
@@ -287,7 +287,7 @@ Preincubation mixtures: 2.5 µL Test Cpd. + 75 µL Liver microsomes @ 3.33 mg/mL
 60 min w/o cofactor: 32.5 µL of Preincubation mixture + 17.5 µL of 100 mM potassium phosphate buffer (Incubate for 60 min @ 37°C)
 0 min sample: 16.25 µL of Preincubation mixture + 200 µL of acetonitrile containing internal standard + 8.75 µL of cofactor Incubation mixture 62 µL of cofactor (2.5 mM) + Remaining incubation mixture (Incubated for 60 min@ 37°C).
 Sample preparation: 25 µL incubation mixture + 200 µL of acetonitrile containing internal standard + Vortex 5 min @ 1200 rpm + Centrifuge 10 min @ 4000 rpm. Dilute supernatant 2 fold with water and injected on LC-MS/MS.
-Bioanalysis: LC-MS/MS method LC generic gradient conditions will be used and the details will be provided in the report. Calculation:̲%remaining of the test substance=Peak Area at time in min/Peak Area at0min*100Kel: Slope obtained from the plot of Log % remaining vs.time (min)Half life: t1/2 (min) = 0.693/ KelIntrinsic clearanceμl/min/mg=ABSKel/Protein Concentration*100
+Bioanalysis: LC-MS/MS method LC generic gradient conditions will be used and the details will be provided in the report.<img> id-imgb0042.tif </img>Calculation:̲%remaining of the test substance=Peak Area at time in min/Peak Area at0min*100Kel: Slope obtained from the plot of Log % remaining vs.time (min)Half life: t1/2 (min) = 0.693/ Kel<img> id-imgb0043.tif </img>Intrinsic clearanceμl/min/mg=ABSKel/Protein Concentration*100
 Examples of the present invention were found unexpectedly to be 1.5-4 times more stable in rat and mouse liver microsomal stability tests as compared to very similar compounds exemplified inWO2015/118019, as reported in the table 4.
 <table>
 <header>

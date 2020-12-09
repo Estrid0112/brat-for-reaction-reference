@@ -15,10 +15,11 @@ DETAILED DESCRIPTION OF THE INVENTION
 TECHNICAL PROBLEM
 An object to be achieved in the present disclosure is to provide a radioactive probe capable of selectively detecting in vivo/ex vivo hydrogen sulfide.
 TECHNICAL SOLUTION
-According to one representative aspect of the present disclosure, provided is a probe for detecting hydrogen sulfide (H2S), including a radioactive isotope Cu-introduced complex compound which is represented by any one of the following Chemical Formulae 1 to 4:
-(wherein A, B, X1 to X3, Y1, Y2, and R1 to R8 are the same as disclosed herein)
-(wherein K, L, M, and R15 to R17 are the same as disclosed herein)
+According to one representative aspect of the present disclosure, provided is a probe for detecting hydrogen sulfide (H2S), including a radioactive isotope Cu-introduced complex compound which is represented by any one of the following Chemical Formulae 1 to 4:<img> id-imgb0001.tif </img>
+(wherein A, B, X1 to X3, Y1, Y2, and R1 to R8 are the same as disclosed herein)<img> id-imgb0002.tif </img>
+(wherein K, L, M, and R15 to R17 are the same as disclosed herein)<img> id-imgb0003.tif </img>
 (wherein X is the same as disclosed herein)
+<img> id-imgb0004.tif </img>
 ADVANTAGEOUS EFFECTS OF THE INVENTION
 According to specific embodiments of the present disclosure, as a result of real-time observing animal models, in which hydrogen sulfide involved in various diseases is generated in a large quantity, through optical and nuclear medicine imaging, the probe for detecting hydrogen sulfide according to the present disclosure may selectively bind with hydrogen sulfide to provide images of a site where hydrogen sulfide has abnormally increased in a cell or a tissue, thereby detecting a disease in an unexpected site without affecting the anatomical properties of the body. In addition, the probe for detecting hydrogen sulfide quickly reacts with hydrogen sulfide, thereby solving the existing problem of waiting a predetermined time for testing after an imaging agent is injected. Accordingly, the probe may be effectively used as a means for diagnosing diseases, such as a composition for imaging, an imaging method, etc.
 DESCRIPTION OF THE DRAWINGS
@@ -26,7 +27,7 @@ FIG. 1 shows a graph measuring hydrogen sulfide sensitivity of 64Cu-labeled comp
 BEST MODE
 Hereinafter, various aspects and specific embodiments of the present disclosure will be described in more detail.
 As used herein, the term 'probe' is defined as a substance which is able to detect or image an in vivo/ex vivo target. In place of the term, an imaging agent, a contrast agent, a radiopharmaceutical, etc. is generally used.
-According to an aspect of the present disclosure, disclosed is a probe for detecting hydrogen sulfide (H2S), including a radioactive isotope Cu-introduced complex compound which is represented by any one of the following Chemical Formulae 1 to 4:
+According to an aspect of the present disclosure, disclosed is a probe for detecting hydrogen sulfide (H2S), including a radioactive isotope Cu-introduced complex compound which is represented by any one of the following Chemical Formulae 1 to 4:<img> id-imgb0005.tif </img>
 (wherein X1, X2 and X3 are each independently one or more selected from N, O, and S;
 Y1 and Y2 are each independently C or N;
 A and B are each independently one or more selected from no bond, C(R9)(R10)-C(R11)(R12)-, =C(R9)-C(R10)(R11)-C(R12)(R13)-, and C(R9)(R10)-C(R11)(R12)-C(R13)(R14)-, and =C(R9)-C(R10)=;
@@ -34,24 +35,24 @@ R1 to R14 are each independently one or more selected from no bond, hydrogen, hy
 the 'substituted' means being substituted with one or more substituents selected from hydroxy, hydroxy C1-C6 alkyl, C1-C6 dialkylamine, nitro, and 64Cu-labeled 3-methyl-1, 4, 7, 10-tetraazacyclotridecane,
 R5 and R8 or R6 and R7 bind to each other to form a C4-C8 cycloalkyl ring;
 --- is a single bond or a double bond,
-Cu is any one selected from 60Cu, 61Cu, 62Cu, 64Cu, and 67Cu);
+Cu is any one selected from 60Cu, 61Cu, 62Cu, 64Cu, and 67Cu);<img> id-imgb0006.tif </img>
 (wherein K, L and N are each independently one or more selected from C(R18)(R19)-C(R20)(R21)-, =C(R18)-C(R19)(R20)-C(R21)(R22)-, C(R18)(R19)-C(R20)(R21)-C(R22)(R23)-, and =C(R18)-C(R19)=;
 R15 to R23 are each independently one or more selected from no bond, hydrogen, hydroxy, substituted or unsubstituted C1-C20 linear or branched alkyl, substituted or unsubstituted C1-C6 linear or branched alkyloxycarbonyl, substituted or unsubstituted C5-C12 aryl C1-C6 alkyl, substituted or unsubstituted C5-C12 heterocycloalkyl, substituted or unsubstituted C5-C20 aryl, substituted or unsubstituted C5-C20 arylsulfonyl, C1-C6 alkylamine, C1-C6 dialkylamine, and substituted or unsubstituted amine,
 the 'substituted' means being substituted with one or more substituents selected from hydroxy, hydroxy C1-C6 alkyl, C1-C6 dialkylamine, nitro, and 64Cu-labeled 3-methyl-1, 4, 7, 10-tetraazacyclotridecane;
-Cu is any one selected from 60Cu, 61Cu, 62Cu, 64Cu, and 67Cu);
-(wherein X is hydrogen or a compound represented by the following Chemical Formula)
-Preferably, the complex compound of Chemical Formula 1 is characterized by a complex compound represented by the following Chemical Formula 5 or 6:
+Cu is any one selected from 60Cu, 61Cu, 62Cu, 64Cu, and 67Cu);<img> id-imgb0007.tif </img><img> id-imgb0008.tif </img>
+(wherein X is hydrogen or a compound represented by the following Chemical Formula)<img> id-imgb0009.tif </img><img> id-imgb0010.tif </img>
+Preferably, the complex compound of Chemical Formula 1 is characterized by a complex compound represented by the following Chemical Formula 5 or 6:<img> id-imgb0011.tif </img>
 (wherein A or B is one or more selected from C(R32)(R33)-C(R34)(R35)-, =C(R32)-C(R33)(R34)-C(R35)(R36)-, and C(R32)-C(R33)-C(R34)(R35)-C(R36)(R37)-,
 R24 to R37 are each independently one or more selected from no bond, hydrogen, hydroxy, C1-C6 linear or branched alkyl, C1-C6 linear or branched alkyloxycarbonyl, C1-C6 linear or branched alkylamine, substituted or unsubstituted amine, C5-C12 aryl C1-C6 alkyl substituted or unsubstituted with 64Cu-labeled 3-methyl-1, 4, 7, 10-tetraazacyclotridecane or nitro, C5-C20 heterocycloalkyl substituted or unsubstituted with hydroxy or hydroxy C1-C6 alkyl, and C5-C20 arylsulfonyl substituted or unsubstituted with C1-C6 dialkylamine,
 R26 and R27 or R30 and R31 bind to each other to form a C4-C8 cycloalkyl ring;
-Cu is any one selected from 60Cu, 61Cu, 62Cu, 64Cu, and 67Cu);
+Cu is any one selected from 60Cu, 61Cu, 62Cu, 64Cu, and 67Cu);<img> id-imgb0012.tif </img>
 (wherein A is C(R30)(R31)-C(R32)(R33)- or =C(R30)-C(R31)=,
 R24 to R33 are each independently one or more selected from no bond, hydrogen, hydroxy, C1-C6 linear or branched alkyl, C1-C6 alkylamine, C1-C6 dialkylamine, and substituted or unsubstituted amine,
 --- is a single bond or a double bond,
 if --- is a double bond, R24 or R29 is no bond,
 Cu is any one selected from 60Cu, 61Cu, 62Cu, 64Cu, and 67Cu).
 More preferably, the compound represented by any one of Chemical Formulae 1 to 4 is characterized by any one selected from(1) 1,4,7,10-tetraazacyclododecane;(2) 1-(anthracen-9-ylmethyl)-1,4,7,10-tetraazacyclododecane;(3) 1,7-dioxa-4,10-diazacyclododecane;(4)1,4,7,10-tetrakis(anthracen-9-ylmethyl)-1,4,7,10-tetraazacyclododecane;(5)(7S,14R)-5,5,7,12,12,14-hexahexamethyl-1,4,8,11-tetraazacyclotetradecane;(6) 2,5,5,7,9,12,12,14-octamethyl-1,4,8,11-tetraazacyclotetradecane;(7)(1E,7E)-2,5,5,7,9,12,12,14-octamethyl-1,4,8,11-tetraazacyclotetradeca-7,14-diene;(8) (7S,14S)-5,5,7,12,12,14-hexamethyl-1,4,8,11-tetraazacyclotetradecane;(9) 6,15-dimethyldocosahydrodibenzo[b,i][1,4,8,11]tetraazacyclotetradecene;(10) ethyl 3-(1,4,7,10-tetraazacyclododecan-1-yl)propanoate;(11) 1,4-bis((1,4,7,10-tetraazacyclotridecan-4-yl)methyl)benzene;(12) 2-(4-nitrobenzyl)-1,4,7,10-tetraazacyclododecane;(13) 1,4,7,10-tetraazacyclotridecane;(14) (2R,3S,4S,5R,6S)-2-(hydroxymethyl)-6-(1,4,7,10-tetraazacyclododecan-1-yl)tetrahyd ro-2H-pyran-3,4,5-triol;(15) 5-((1,4,7,10-tetraazacyclododecan-1-yl)sulfonyl)-N,N-dimethylnaphthalene-1-amine;(16) 1,4,8,11-tetraazacyclotetradecane;(17) (2R,2'R,3S,3'S,4S,4'S,5R,5'R,6R,6'R)-6,6'-(1,4,7,10-tetraazacyclododecane-1,7-diyl) bis(2-(hydroxymethyl)tetrahydro-2H-pyran-3,4,5-triol);(18) 1,4,7-triazonane;(19) 1,5,9-triazacyclododecane;(20) 5-((1,4,7-triazonan-1-yl)sulfonyl)-N,N-dimethylnaphthalene-1-amine;(21) 1-methyl-1,4,8,11-tetraazacyclotetradecane;(22) 1,4,8,11-tetraazabicyclo[6.6.3]heptadecane;(23) bis(pyridin-2-ylmethyl)amine;(24) N1,N1,N2,N2-tetrakis(pyridin-2-ylmethyl)ethane-1,2-diamine;(25) (1Z,N'E)-N'-((E)-3-((bis(methylamino)methylene)hydrazono)butan-2-ylidene)-N-meth ylcarbamohydrazonothioic acid;(26) (1Z,N'E)-N'-((E)-2-((bis(methylamino)methylene)hydrazono)propylidene)-N-methylca rbamohydrazonothioic acid;(27)(2E,2'E,3R,3'R)-3-((3-(((R,E)-3-(hydroxyimino)butan-2-yl)amino)-2,2-dimethylpropyl) amino)butan-2-one oxime;(28) 1,4,7-trithia-10-azacyclododecane;(29) 1-methyl-1,4,7-triazonane;(30) 1-(anthracen-9-ylmethyl)-1,4,7-triazonane;(31) 1-hexadecyl-1,4,7-triazonane;(32) 1,4,7-trimethyl-1,4,7-triazonane;(33) 1,4,7-tris(anthracen-9-ylmethyl)-1,4,7-triazonane; and(34) 1,4,7-trihexadecyl-1,4,7-triazonane.
-The compound represented by any one of Chemical Formulae 1 to 4 is any one selected from
+The compound represented by any one of Chemical Formulae 1 to 4 is any one selected from<img> id-imgb0013.tif </img><img> id-imgb0014.tif </img><img> id-imgb0015.tif </img><img> id-imgb0016.tif </img><img> id-imgb0017.tif </img><img> id-imgb0018.tif </img><img> id-imgb0019.tif </img><img> id-imgb0020.tif </img><img> id-imgb0021.tif </img>
 With regard to the radioactive isotope Cu-introduced complex compound represented by any one of Chemical Formulae 1 to 4 according to a specific embodiment of the present disclosure, as a result of real-time observing animal models, in which hydrogen sulfide involved in various diseases is generated in a large quantity, through optical and nuclear medicine imaging, the probe for detecting hydrogen sulfide according to the present disclosure may selectively bind with hydrogen sulfide and quickly reacts with hydrogen sulfide to provide images of a site where hydrogen sulfide has abnormally increased in a cell or a tissue, thereby detecting a disease in an unexpected site without affecting the anatomical properties of the body, and solving the existing problem of waiting a predetermined time for testing after an imaging agent is injected. Accordingly, the probe may be effectively used as a means for diagnosing diseases, such as a contrast agent for positron emission tomography (PET), a contrast agent for gamma camera, single photon emission computed tomography (SPECT), or Cherenkov optical imaging, a contrast agent for charge-coupled device (CCD), a contrast agent for magnetic resonance imaging (MRI), an imaging composition for computed tomography (CT), ultrasound (US), etc., or an imaging method.
 In this regard, any one complex compound of Chemical Formulae 1 to 4 is preferably included in a dose of 50 µCi/kg-1000 µCi/kg, based on a dose immediately before use.
 If the dose is out of the above range, there are additional problems that a signal-to-noise ratio is too low or the radiation exposure of a patient is excessively increased.
@@ -87,37 +88,51 @@ Hereinafter, the present disclosure will be described in more detail with refere
 MODE OF THE INVENTION
 Synthesis of various chelates
 Synthesis of (2R,3S,4S,5R,6R)-2-(hydroxymethyl)-6-(1,4,7,10-tetraazacyclododecan-1-yl)tetrahyd ro-2H-pyran-3,4,5-triol (CyclenGlc)
+<img> id-imgb0022.tif </img>
 Cyclen (240 mg, 1.4 mmol) was added to a stirred solution of glucose (50 mg, 0.28 mmol) in anhydrous MeOH (10 mL), and the resulting solution was heated under reflux for 16 hours under N2 atmosphere. Complete consumption of the starting materials was confirmed by TLC [stationary phase = C-18 TLC, mobile phase = MeOH : 10% NH4OAc (1:1)]. Then, the solvent was evaporated to dryness under reduced pressure and column chromatography was used to obtain a pure compound (52 mg, 56%). 1H NMR (D2O, 400 MHz): δ 1.8 (s, 3H), 2.60-3.02 (m, 17H), 3.24-3.42 (m, 6H), 3.58-3.63 (m, 1H), 3.78 (d, J = 12.0 Hz, 1H), 4.00 (d, J = 8.4 Hz, 1H); 13C NMR (D2O, 100 MHz): δ43.67, 44.97, 45.92, 46.85, 49.18, 61.08, 69.96, 70.29, 77.47, 91.69; HRMS (FAB): m/z calcd for C14H30N4O5 [M+H] 335.2294; found 335.2296.
 Synthesis of ethyl 3-(1,4,7,10-tetraazacyclododecan-1-yl)propanoate
+<img> id-imgb0023.tif </img>
 K2CO3 (300 mg, 2.2 mmol) and ethyl 3-bromopropanoate (100 mg, 0.61 mmol) were added to a stirred solution of cyclen (380 mg, 2.2 mmol) in anhydrous CH3CN (10 mL), and the resulting solution was stirred at room temperature for 16 hours under N2 atmosphere. Complete consumption of the starting materials was confirmed by TLC [stationary phase = Basic alumina TLC, mobile phase = CH2Cl2 : MeOH (10:1)]. The resulting product was separated from K2CO3 by filtration, and evaporated to dryness under reduced pressure. Column chromatography was used to obtain a pure compound (100 mg, 64%). 1H NMR (CDCl3, 400 MHz): δ1.27 (t, J = 7.2 Hz, 3H), 2.38-2.57 (m, 10H), 2.64-2.67 (m, 4H), 2.76-2.84 (m, 6H), 4.07-4.18 (m, 2H); 13C NMR (CDCl3, 100 MHz): δ14.10, 32.55, 44.38, 45.64, 46.39, 49.61, 50.92, 60.31, 172.67.
 Synthesis of 1,4,7,10-tetrakis(anthracen-9-ylmethyl)-1,4,7,10-tetraazacyclododecane
+<img> id-imgb0024.tif </img>
 K2CO3 (400 mg, 2.9 mmol) and 9-(chloromethyl)anthracene (655 mg, 2.9 mmol) were added to a stirred solution of cyclen (100 mg, 0.58 mmol) in anhydrous toluene (15 mL), and the resulting solution was heated under reflux for 16 hours under N2 atmosphere. Formation of a new product was confirmed by TLC [stationary phase = Silica TLC, mobile phase = EtOAc]. The resulting product was evaporated to dryness under reduced pressure and dichloromethane (50 mL) was added. The resulting product was shaken well with water and the separated organic layer was dried over MgSO4. Column chromatography was used to obtain a pure compound (270 mg, 50%). 1H NMR (CDCl3, 400 MHz): δ2.42 (s, 16H), 4.45 (s, 8H), 7.43-7.65 (m, 16 H), 7.81-8.09 (m, 10 H), 8.32-8.48 (m, 10 H); 13C NMR (CDCl3, 100 MHz): δ45.28, 51.02, 54.68, 123.86, 124.60, 125.15, 126.52, 126.82, 127.38, 128.44, 129.31, 129.51, 131.44, 131.49, 131.51, 134.28.
 Synthesis of 1-(anthracen-9-ylmethyl)-1,4,7,10-tetraazacyclododecane
+<img> id-imgb0025.tif </img>
 Chloromethylanthracene (1.0 equiv.) was dissolved in toluene (5 mL), and cyclen (5.0 equiv.) was added thereto. The resulting solution was heated under reflux for 8 hours. 1H NMR (CDCl3, 400 MHz): δ2.04 (s, 3H, NH), 2.44-2.47 (m, 8H), 2.84-2.94 (m, 8H), 4.75 (s, 2H), 7.46-7.59 (m, 4H), 8.01-8.03 (m, 2H), 8.45-8.51 (m, 3H).
 Synthesis of 5-((1,4,7,10-tetraazacyclododecan-1 -yl)sulfonyl)-N,N-dimethylnaphthalene-1 -amine
+<img> id-imgb0026.tif </img>
 Dansyl chloride (1.0 equiv.) was dissolved in toluene (5 mL), and then cyclen (5.0 equiv.) was added thereto. The resulting solution was stirred at room temperature for 2 hours. Precipitated salts were removed, and an organic phase was separated and dried. The solid was purified by column chromatography. 1H NMR (CDCl3, 400 MHz): δ2.00-2.04 (m, 3H), 2.89 (s, 6H), 3.11-3.88 (m, 16H), 7.20 (d, J = 7.6 Hz, 1H), 7.50-7.59 (m, 2H), 7.92 (d, J = 7.2 Hz, 1H), 8.34 (d, J = 8.4 Hz, 1H), 8.57 (d, J = 8.8 Hz, 1H) ); 13C NMR (CDCl3, 100 MHz): δ45.47, 47.37, 49.95, 50.74, 51.90, 115.67, 118.90, 123.12, 127.97, 128.75, 130.28, 130.56, 131.03, 132.84, 152.07.
 Synthesis of 1,4,7-trithia-10-azacyclododecane
+<img> id-imgb0027.tif </img>
 Step I: 3-thia-1,5-pentanedithiol (a, 1 equiv.) in DMF and N-boc-bis(2-chloroethyl)amine (b, 1 equiv.) were slowly added and Cs2CO3 (1.5 equiv.) was also added, and allowed to react for 96 hours at 65°C to prepare N-Boc-[12]aneNS3 (c). The solvent was removed under vacuum, and the resulting product was dissolved in CH2Cl2 and washed with water to remove cesium salts. The product was dried over MgSO4, and subjected to filtration and evaporation processes. The resulting product was purified by recrystallization with warm toluene to obtain a white crystal of Nboc-[12]aneNS3 (c).
 Step II: N-Boc-[12]aneNS3 (c) was deprotected with a mixture of TFA and CH2Cl2 (1:1) at room temperature for 15 minutes. Excess TFA and CH2Cl2 were evaporated, and then water was added, and pH of the resulting product was adjusted to 14 by using Na2CO3 and NaOH. Thereafter, the mixture was extracted with CH2Cl2, and dried over MgSO4, and subjected to filtration and evaporation processes to obtain a white crystal of [12]aneNS3. 1H NMR (CDCl3, 400 MHz): δ2.71-2.91 (m, 16H), 3.98 (brs, 1H); 13C NMR (CDCl3, 100 MHz): δ 49.75, 32.37, 31.83, 31.56.
 Synthesis of (1Z,N'E)-N'-((E)-3-((bis(methylamino)methylene)hydrazono)butan-2-ylidene)-N-meth ylcarbamohydrazonothioic acid
+<img> id-imgb0028.tif </img>
 Step I: Semicarbazide (1.0 equiv.) and 2,3-butadione (10 equiv.) were first mixed in MeOH (10 mL), and the resulting product was refluxed for 1 hour to obtain a compound c, which was then purified by column chromatography.
 Step II: The compound c (1 equiv.) was first mixed with hydrazine hydrate (10 equiv.) in MeOH (10 mL), and then the resulting product was refluxed for 1 hour to obtain a compound c, which was then purified by column chromatography.
 Step III: The compound d (1 equiv.) was first mixed with N,N-dimethyl urea (1 equiv.) in MeOH (10 mL), and then the resulting product was refluxed for 1 hour to obtain a compound f. The solvent was dried and the compound f was purified by column chromatography to obtain a pure compound f. 1H NMR (DMSO-d6, 400 MHz): δ1.574 (s, 1H), 1.85 (s, 1H), 1.95 (s, 1H), 2.02 (s, 3H), 2.19 (s, 6H), 3.03 (s, 3H), 3.04 (s, 3H), 3.13 (s, 1H).
 Synthesis of 1-methyl-1,4,7-triazonane
+<img> id-imgb0029.tif </img>
 Potassium carbonate (27 mg, 0.19 mmol) and methyl iodide (28 mg, 0.19 mmol) were added to a stirred solution of TACN (100 mg, 0.78 mmol) in anhydrous acetonitrile (10 mL), and the resulting solution was stirred at room temperature for 16 hours. Formation of a new product was confirmed by TLC [stationary phase = Silica TLC, mobile phase = dichloromethane : IPA (10:1)]. The product was diluted with acetonitrile, and separated from potassium carbonate by using a filter, and evaporated to dryness under reduced pressure to obtain 1-methyl-1,4,7-triazonane. HR-MS (FAB) m/z calculated value C7H17N3 [M+H]+ 144.1501, measured value 144.1501.
 Synthesis of 1-(anthracen-9-ylmethyl)-1,4,7-triazonane
+<img> id-imgb0030.tif </img>
 Potassium carbonate (27 mg, 0.19 mmol) and 9-(chloromethyl)anthracene (43 mg, 0.19 mmol) were added to a stirred solution of TACN (100 mg, 0.78 mmol) in anhydrous acetonitrile (10 mL), and the resulting mixture was stirred at room temperature for 16 hours. Formation of a new product was confirmed by TLC [stationary phase = Silica TLC, mobile phase = dichloromethane : IPA (10:1)]. The product was diluted with acetonitrile, and separated from potassium carbonate by using a filter, and evaporated to dryness under reduced pressure to obtain 1-(anthracen-9-ylmethyl)-1,4,7-triazonane. HR-MS(FAB) m/z calculated value C21H25N3[M+H]+320.2127, measured value 320.2127.
 Synthesis of 1-hexadecyl-1,4,7-triazonane
+<img> id-imgb0031.tif </img>
 Potassium carbonate (27 mg, 0.19 mmol) and 1-bromohexadecane (58 mg, 0.19 mmol) were added to a stirred solution of TACN (100 mg, 0.78 mmol) in anhydrous acetonitrile (10 mL), and the resulting solution was stirred at room temperature for 16 hours. Formation of a new product was confirmed by TLC [stationary phase = Silica TLC, mobile phase = dichloromethane : IPA (10:1)]. The product was diluted with acetonitrile, and separated from potassium carbonate by using a filter, and evaporated to dryness under reduced pressure to obtain 1-hexadecyl-1,4,7-triazonane. HR-MS(FAB) m/z calculated value C22H47N3[M+H]+ 354.3848, measured value 354.3848.
 Synthesis of 1,4,7-trimethyl-1,4,7-triazonane
+<img> id-imgb0032.tif </img>
 Potassium carbonate (433 mg, 3.12 mmol) and methyl iodide (443 mg, 3.12 mmol) were added to a stirred solution of TACN (100 mg, 0.78 mmol) in anhydrous acetonitrile (10 mL), and the resulting solution was stirred at room temperature for 16 hours. Formation of a new product was confirmed by TLC [stationary phase = Silica TLC, mobile phase = dichloromethane : IPA (10:1)]. The product was diluted with acetonitrile, and separated from potassium carbonate by using a filter, and evaporated to dryness under reduced pressure to obtain 1,4,7-trimethyl-1,4,7-triazonane. MS(FAB) m/z calculated value C9H21N3[M]+ 171.17, measured value 171.11
 Synthesis of 1,4,7-tris(anthracen-9-ylmethyl)-1,4,7-triazonane
+<img> id-imgb0033.tif </img>
 Potassium carbonate (433 mg, 3.12 mmol) and 9-(chloromethyl)anthracene (705 mg, 3.12 mmol) were added to a stirred solution of TACN (100 mg, 0.78 mmol) in anhydrous acetonitrile (10 mL), and the resulting solution was stirred at room temperature for 16 hours. Formation of a new product was confirmed by TLC [stationary phase = Silica TLC, mobile phase = dichloromethane : IPA (10:1)]. The product was diluted with acetonitrile, and separated from potassium carbonate by using a filter, and evaporated to dryness under reduced pressure to obtain 1,4,7-tris(anthracen-9-ylmethyl)-1,4,7-triazonane. HR-MS(EI) m/z calculated value C51H45N3[M]+699.3613, measured value 699.3612.
 Synthesis of 1,4,7-trihexadecyl-1,4,7-triazonane
+<img> id-imgb0034.tif </img>
 Potassium carbonate (433 mg, 3.12 mmol) and 1-bromohexadecane (949 mg, 3.12 mmol) were added to a stirred solution of TACN (100 mg, 0.78 mmol) in anhydrous acetonitrile (10 mL), and the resulting solution was stirred for 16 hours. Formation of a new product was confirmed by TLC [stationary phase = Silica TLC, mobile phase = dichloromethane : IPA (10:1)]. The product was diluted with acetonitrile, and separated from potassium carbonate by using a filter, and evaporated to dryness under reduced pressure to obtain 1,4,7-trihexadecyl-1,4,7-triazonane. HR-MS(EI) m/z calculated value C54H111N3 [M+H]+ 802.8856, measured value 802.8856.
 Radioactive labeling of various chelates with 64Cu
 64CuCl2 of 0.01 N HCI (1-2 L, 1-5 mCi) was added to various chelates (100 µg) dissolved in 100 µL of 0.1 M ammonium acetate (pH = 6.8) without addition of carriers, and allowed to react for 20 minutes at 60°C to prepare different kinds of chelate-64Cu complexes (of the chelates, PCB cyclam which is a complex compound of the following Example 19 was reacted for 60 minutes at 90°C). A chelate storage solution (20 µg/µL) was prepared by using MilliQ water (the following Example 19) or anhydrous DMSO (Examples 24, 25, 33, 34, 17, a mixture of 18 and 18-1, 26, and 23). Corresponding 64Cu complex formation was confirmed by radio-TLC. Radioactive isotope-labeled compounds for Example 17 and a mixture of Example 18 and 18-1 were purified by using a C-18 Sep Pak column (washed with 10 mL of water to remove DMSO, the compound was eluted with 200 µL of EtOH six times).
 Example 1: 64Cu complex compound-1a
+<img> id-imgb0035.tif </img>
 0.01 mg - 2 mg of 1, 4, 7, 10-tetraazacyclododecane was dissolved in a buffer solution of 0.1 M NH4OAc(pH 6.8) and then 10 µCi - 10,000 µCi of 64CuCl2 solution was added thereto, and allowed to react at 60°C to prepare a 64Cu complex compound represented by Chemical Formula 1a. If the chelate was not dissolved well, a small amount of DMSO was used.
 A labeling yield of the 64Cu complex compound represented by Chemical Formula1a was confirmed by radio-TLC, and the results are shown in the following Table 1.
 <table>
@@ -129,72 +144,106 @@ Rgn 1 & 48.2 & 73.1 & 62.2 & 0.271 & 167686.0 & 83843.0 & 97.67 & 100.00
 </table>
 As shown in Table 1, labeling of 1, 4, 7, 10-tetraazacyclododecane with 64Cu was found to be 100%.
 Example 2: 64Cu complex compound-1b
+<img> id-imgb0036.tif </img>
 A 64Cu complex compound represented by Chemical Formula 1 was obtained in the same manner as in Example 1.
 Example 3: 64Cu complex compound-1c
+<img> id-imgb0037.tif </img>
 A 64Cu complex compound represented by Chemical Formula 1c was obtained in the same manner as in Example 1.
 Example 4: 64Cu complex compound-1d
+<img> id-imgb0038.tif </img>
 A 64Cu complex compound represented by Chemical Formula 1d was obtained in the same manner as in Example 1.
 Example 5: 64Cu complex compound-1e
+<img> id-imgb0039.tif </img>
 A 64Cu complex compound represented by Chemical Formula 1e was obtained in the same manner as in Example 1.
 Example 6: 64Cu complex compound-1f
+<img> id-imgb0040.tif </img>
 A 64Cu complex compound represented by Chemical Formula 1f was obtained in the same manner as in Example 1.
 Example 7: 64Cu complex compound-1g
+<img> id-imgb0041.tif </img>
 A 64Cu complex compound represented by Chemical Formula 1g was obtained in the same manner as in Example 1.
 Example 8: 64Cu complex compound-1h
+<img> id-imgb0042.tif </img>
 A 64Cu complex compound represented by Chemical Formula 1h was obtained in the same manner as in Example 1.
 Example 9: 64Cu complex compound-1i
+<img> id-imgb0043.tif </img>
 A 64Cu complex compound represented by Chemical Formula 1i was obtained in the same manner as in Example 1.
 Example 10: 64Cu complex compound-1i
+<img> id-imgb0044.tif </img>
 A 64Cu complex compound represented by Chemical Formula 1j was obtained in the same manner as in Example 1.
 Example 11: 64Cu complex compound-1k
+<img> id-imgb0045.tif </img>
 A 64Cu complex compound represented by Chemical Formula 1k was obtained in the same manner as in Example 1.
 Example 12: 64Cu complex compound-1l
+<img> id-imgb0046.tif </img>
 A 64Cu complex compound represented by Chemical Formula 1I was obtained in the same manner as in Example 1.
 Example 13: 64Cu complex compound-1m
+<img> id-imgb0047.tif </img>
 A 64Cu complex compound represented by Chemical Formula 1m was obtained in the same manner as in Example 1.
 Example 14: 64Cu complex compound-1n
+<img> id-imgb0048.tif </img>
 A 64Cu complex compound represented by Chemical Formula 1n was obtained in the same manner as in Example 1.
 Example 15: 64Cu complex compound-1o
+<img> id-imgb0049.tif </img>
 A 64Cu complex compound represented by Chemical Formula 1o was obtained in the same manner as in Example 1.
 Example 16: 64Cu complex compound-1p
+<img> id-imgb0050.tif </img>
 A 64Cu complex compound represented by Chemical Formula 1p was obtained in the same manner as in Example 1.
 Example 17: 64Cu complex compound-1q
+<img> id-imgb0051.tif </img>
 A 64Cu complex compound represented by Chemical Formula 1q was obtained in the same manner as in Example 1.
 Example 18: 64Cu complex compound-1r
+<img> id-imgb0052.tif </img>
 A 64Cu complex compound represented by Chemical Formula 1r was obtained in the same manner as in Example 1.
 Example 18-1: 64Cu complex compound-1r'
+<img> id-imgb0053.tif </img>
 A 64Cu complex compound represented by Chemical Formula 1r' was obtained in the same manner as in Example 1.
 Example 19: 64Cu complex compound-1s
+<img> id-imgb0054.tif </img>
 A 64Cu complex compound represented by Chemical Formula 1s was obtained in the same manner as in Example 1.
 Example 20: 64Cu complex compound-2a
+<img> id-imgb0055.tif </img>
 A 64Cu complex compound represented by Chemical Formula 2a was obtained in the same manner as in Example 1.
 Example 21: 64Cu complex compound-2b
+<img> id-imgb0056.tif </img>
 A 64Cu complex compound represented by Chemical Formula 2b was obtained in the same manner as in Example 1.
 Example 22: 64Cu complex compound-2c
+<img> id-imgb0057.tif </img>
 A 64Cu complex compound represented by Chemical Formula 2c was obtained in the same manner as in Example 1.
 Example 23: 64Cu complex compound-1t
+<img> id-imgb0058.tif </img>
 A 64Cu complex compound represented by Chemical Formula 1t was obtained in the same manner as in Example 1.
 Example 24: 64Cu complex compound-1u
+<img> id-imgb0059.tif </img>
 A 64Cu complex compound represented by Chemical Formula 1u was obtained in the same manner as in Example 1.
 Example 25: 64Cu complex compound-4
+<img> id-imgb0060.tif </img>
 A 64Cu complex compound represented by Chemical Formula 4 was obtained in the same manner as in Example 1.
 Example 26: 64Cu complex compound-1w
+<img> id-imgb0061.tif </img>
 A 64Cu complex compound represented by Chemical Formula 1w was obtained in the same manner as in Example 1.
 Example 27: 64Cu complex compound-2d
+<img> id-imgb0062.tif </img>
 A 64Cu complex compound represented by Chemical Formula 2d was obtained in the same manner as in Example 1.
 Example 28: 64Cu complex compound-2e
+<img> id-imgb0063.tif </img>
 A 64Cu complex compound represented by Chemical Formula 2e was obtained in the same manner as in Example 1.
 Example 29: 64Cu complex compound-2f
+<img> id-imgb0064.tif </img>
 A 64Cu complex compound represented by Chemical Formula 2f was obtained in the same manner as in Example 1.
 Example 30: 64Cu complex compound-2g
+<img> id-imgb0065.tif </img>
 A 64Cu complex compound represented by Chemical Formula 2g was obtained in the same manner as in Example 1.
 Example 31: 64Cu complex compound-2h
+<img> id-imgb0066.tif </img>
 A 64Cu complex compound represented by Chemical Formula 2h was obtained in the same manner as in Example 1.
 Example 32: 64Cu complex-2i
+<img> id-imgb0067.tif </img>
 A 64Cu complex compound represented by Chemical Formula 2i was obtained in the same manner as in Example 1.
 Example 33: 64Cu complex compound-3a
+<img> id-imgb0068.tif </img>
 A 64Cu complex compound represented by Chemical Formula 3a was obtained in the same manner as in Example 1.
 Example 34: 64Cu complex compound-3b
+<img> id-imgb0069.tif </img>
 A 64Cu complex compound represented by Chemical Formula 3b was obtained in the same manner as in Example 1.
 Experimental Example 1: Test of hydrogen sulfide detection sensitivity
 To measure hydrogen sulfide detection sensitivity of the 64Cu-labeled complex compound according to the present disclosure, the following experiment was performed. Results are shown in the following Tables 2 and 3, and

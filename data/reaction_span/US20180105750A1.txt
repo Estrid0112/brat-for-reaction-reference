@@ -12,13 +12,18 @@ Another aspect of the present application is to provide a method of fabricating 
 A further aspect of the present application is to provide a liquid crystal display panel utilizing a polymer film, which is obtained by polymerizing the polymerizable monomers and the reactive vertical alignment material, to replace the PI alignment film, that not only meets the aspect of liquid crystal alignment, but also prevent impurities in the CF substrate to diffuse into the liquid crystal layer, so as to greatly enhance quality of the panel, and to have a low fabricating cost.
 To achieve the aforesaid aspects, the present application provides a liquid crystal material, including liquid crystal molecules, a reactive vertical alignment material, and polymerizable monomers;
 a structural formula of the reactive vertical alignment material being
+<img> id-US20180105750A1-20180419-C00001.TIF </img>
 wherein A refers -OH, -COOH, -NH2, or -NH-;
 Sp refers group -(CH2)n-, or a group obtained by a -CH2- in the group -(CH2)n- substituted with -O-, -S-, -CO-, -CO-O-, -O-CO-, -O-CO-O-, -OCH2-, -CH2O-, -CH═CH-, -CF═CF-, -C≡C-, -CH═CH-COO-, or -OCO-CH═CH-, wherein n is an integer 1˜8;
 Z refers
+<img> id-US20180105750A1-20180419-C00002.TIF </img>
 wherein
+<img> id-US20180105750A1-20180419-C00003.TIF </img>
 is phenyl, a group obtained by an H atom in phenyl substituted with F, Cl, Br, I, -CN, -NO2, or -C(═O)H, or cycloalkyl; R refers alkyl of straight chain or branched chain having 5˜20 C atoms, a first group obtained by a -CH2- in the alkyl substituted with phenyl, cycloalkyl, -CONH-, -COO-, -O-CO-, -S-, -CO-, or -CH═CH-, a second group obtained by an H atom in the alkyl substituted with F or Cl atom, or a third group obtained by an H atom in the first group substituted with F or Cl atom;
 L refers a polymerizable group connecting to group Z, and includes any one, any two, or any three of following three groups:
+<img> id-US20180105750A1-20180419-C00004.TIF </img>
 The reactive vertical alignment material includes one or more than one of following compounds:
+<img> id-US20180105750A1-20180419-C00005.TIF </img><img> id-US20180105750A1-20180419-C00006.TIF </img><img> id-US20180105750A1-20180419-C00007.TIF </img><img> id-US20180105750A1-20180419-C00008.TIF </img>
 A mass percentage of the liquid crystal molecules is 93.0%˜99.4%, a mass percentage of the reactive vertical alignment material is 0.5%˜5.0%, a mass percentage of the polymerizable monomers is 0.01%˜02.0%.
 The polymerizable monomers include one or a combination of more than one of acrylates, acrylate derivatives, methacrylates, methacrylate derivatives, styrene, styrene derivatives, and epoxy resin.
 The present application further provides a method of fabricating a liquid crystal display panel, including following steps:
@@ -26,19 +31,24 @@ step 1, providing an upper substrate, a lower substrate, and a liquid crystal ma
 the upper substrate including a first substrate, and a first electrode disposed on the first substrate; the lower substrate including a second substrate, and a second electrode disposed on the second substrate;
 the liquid crystal material including liquid crystal molecules, a reactive vertical alignment material, and polymerizable monomers;
 a structural formula of the reactive vertical alignment material being
+<img> id-US20180105750A1-20180419-C00009.TIF </img>
 wherein A refers -OH, -COOH, -NH2, or -NH-;
 Sp refers group -(CH2)n-, or a group obtained by a -CH2- in the group -(CH2)n- substituted with -O-, -S-, -CO-, -CO-O-, -O-CO-, -O-CO-O-, -OCH2-, -CH2O-, -CH═CH-, -CF═CF-, -C≡C-, -CH═CH-COO-, or -OCO-CH═CH-, wherein n is an integer 1˜8;
 Z refers
+<img> id-US20180105750A1-20180419-C00010.TIF </img>
 wherein
+<img> id-US20180105750A1-20180419-C00011.TIF </img>
 is phenyl, a group obtained by an H atom in phenyl substituted with F, Cl, Br, I, -CN, -NO2, or -C(═O)H, or cycloalkyl;
 R refers alkyl of straight chain or branched chain having 5˜20 C atoms, a first group obtained by a -CH2- in the alkyl substituted with phenyl, cycloalkyl, -CONH-, -COO-, -O-CO-, -S-, -CO-, or -CH═CH-, a second group obtained by an H atom in the alkyl substituted with F or Cl atom, or a third group obtained by an H atom in the first group substituted with F or Cl atom;
 L refers a polymerizable group connecting to group Z, and includes any one, an two, or any three of following three groups:
+<img> id-US20180105750A1-20180419-C00012.TIF </img>
 step 2, dripping the liquid crystal material on the upper substrate or the lower substrate, coating a sealant on a peripheral position of the upper substrate or the lower substrate, then assembling and laminating the upper substrate and the lower substrate, and curing the sealant;
 the reactive vertical alignment material in the liquid crystal material adsorbs the upper substrate and the lower substrate, and arranges perpendicular to the upper substrate and the lower substrate, so as to guide the liquid crystal molecules arranging perpendicular to the upper substrate and the lower substrate;
 step 3, applying a voltage to both sides of the liquid crystal material through the first electrode and the second electrode, to allow the liquid crystal molecules occurring deflection and arranging along a direction inclined to the upper substrate and the lower substrate;
 step 4, under the condition of applying the voltage to the liquid crystal material, irradiating ultraviolet to the liquid crystal material from a side of the upper substrate or the lower substrate, to allow the reactive vertical alignment material in the liquid crystal material occurring a polymerization with the polymerizable monomer to form a polymer, wherein the polymer deposits on the upper substrate toward a side of the liquid crystal material to form a first polymer film, and simultaneously deposits on the lower substrate toward a side of the liquid crystal material to form a second polymer film, surfaces of both the first polymer film and the second polymer film have polymer projections, so as to allow the liquid crystal molecules near the first polymer film and the second polymer film maintain the inclined direction thereof in a steric hindrance manner, after the voltage is removed;
 constituting a liquid crystal layer by the liquid crystal material in which the reactive vertical alignment material and of polymerizable monomers are removed, to complete the fabrication of the liquid crystal display panel.
 The reactive vertical alignment material includes one or more than one of following compounds:
+<img> id-US20180105750A1-20180419-C00013.TIF </img><img> id-US20180105750A1-20180419-C00014.TIF </img><img> id-US20180105750A1-20180419-C00015.TIF </img><img> id-US20180105750A1-20180419-C00016.TIF </img>
 A mass percentage of the liquid crystal molecules is 93.0%˜99.4%, a mass percentage of the reactive vertical alignment material is 0.5%˜5.0%, a mass percentage of the polymerizable monomers is 0.01%˜2.0%.
 The polymerizable monomers include one or a combination of more than one of acrylates, acrylate derivatives, methacrylates, methacrylate derivatives, styrene, styrene derivatives, and epoxy resin.
 In step 3, the voltage applied to the both sides of the liquid crystal material is 13˜25V; in the irradiating ultraviolet of step 4, an illumination intensity of the ultraviolet is 85˜100 mW/cm2, an irradiation time is 20˜30 min, thicknesses of the first polymer film and the second polymer film are 100˜1200 Å.
@@ -46,14 +56,19 @@ The present application further provides a liquid crystal display panel, includi
 the liquid crystal layer includes liquid crystal molecules;
 both the first polymer film and the second polymer film are formed by polymerizing the polymerizable monomer and the reactive vertical alignment material, and surfaces of both the first polymer film and the second polymer film have polymer projections, so as to allow the liquid crystal molecules near the first polymer film and the second polymer film arrange along a direction inclined to the upper substrate and the lower substrate;
 a structural formula of the reactive vertical alignment material is
+<img> id-US20180105750A1-20180419-C00017.TIF </img>
 wherein A refers -OH, -COOH, -NH2, or -NH-;
 Sp refers group -(CH2)n-, or a group obtained by a -CH2- in the group -(CH2)n- substituted with -O-, -S-, -CO-, -CO-O-, -O-CO-, -O-CO-O-, -OCH2-, -CH2O-, -CH═CH-, -CF═CF-, -C≡C-, -CH═CH-COO-, or -OCO-CH═CH-, wherein n is an integer 1˜8;
 Z refers
+<img> id-US20180105750A1-20180419-C00018.TIF </img>
 wherein
+<img> id-US20180105750A1-20180419-C00019.TIF </img>
 is phenyl, a group obtained by an H atom in phenyl substituted with F, Cl, Br, I, -CN, -NO2, or -C(═O)H, or cycloalkyl;
 R refers alkyl of straight chain or branched chain having 5˜20 C atoms, a first group obtained by a -CH2- in the alkyl substituted with phenyl, cycloalkyl, -CONH-, -COO-, -O-CO-, -S-, -CO-, or -CH═CH-, a second group obtained by an H atom in the alkyl substituted with F or Cl atom, or a third group obtained by an H atom in the first group substituted with F or Cl atom;
 L refers a polymerizable group connecting to group Z, and includes any one, any two, or any three of following three groups:
+<img> id-US20180105750A1-20180419-C00020.TIF </img>
 The reactive vertical alignment material includes one or more than one of following compounds:
+<img> id-US20180105750A1-20180419-C00021.TIF </img><img> id-US20180105750A1-20180419-C00022.TIF </img><img> id-US20180105750A1-20180419-C00023.TIF </img><img> id-US20180105750A1-20180419-C00024.TIF </img>
 The polymerizable monomers include one or a combination of more than one of acrylates, acrylate derivatives, methacrylates, methacrylate derivatives, styrene, styrene derivatives, and epoxy resin; thicknesses of the first polymer film and the second polymer film are 100˜1200 Å.
 Advantages of the present application: the liquid crystal material of the present application includes liquid crystal molecules, polymerizable monomers and a reactive vertical alignment material, the polymerizable monomers and the reactive vertical alignment material can occur a polymerization under ultraviolet irradiation to form a polymer, while the polymer deposits on a substrate to form a polymer film capable of replacing the PI alignment film, the reactive vertical alignment material includes a polymerizable group L that strengthens polymerization ability of the reactive vertical alignment material, increases compactness of forming the polymer film, improves morphology of the polymer film, and enhances panel quality. The method of fabricating the liquid crystal display panel of the present application eliminates the fabricating process of the PI alignment film, the method has simple process and low cost. The liquid crystal display panel utilizes the polymer film, which is obtained by polymerizing the polymerizable monomers and the reactive vertical alignment material, to replace the PI alignment film, that not only meets the aspect of liquid crystal alignment, but also prevent impurities in the CF substrate to diffuse into the liquid crystal layer, so as to greatly enhance quality of the panel, and to have a low fabricating cost.
 In order to further understand the technical features and contents of the present application, please refer to the following detailed description and accompanying drawings related to the present application; however, the accompanying drawings are provided only for reference and description, and are not used to limit the present application.
@@ -61,37 +76,49 @@ DETAILED DESCRIPTION OF PREFERRED EMBODIMENTS
 In order to further clarify the technical means adopted in the present application and the effects thereof, the preferable embodiments of the present application and the accompanying drawings thereof will be more specifically described as follows.
 Please refer to FIG. 2, the present application provides a liquid crystal material, including liquid crystal molecules 31, a reactive vertical alignment material 32, and polymerizable monomers (RM) 33.
 A structural formula of the reactive vertical alignment material 32 is
+<img> id-US20180105750A1-20180419-C00025.TIF </img>
 wherein A refers -OH, -COOH, -NH2, or -NH-;
 Sp refers group -(CH2)n-, or a group obtained by a -CH2- in the group -(CH2)n- substituted with -O-, -S-, -CO-, -CO-O-, -O-CO-, -O-CO-O-, -OCH2-, -CH2O-, -CH═CH-, -CF═CF-, -C≡C-, -CH═CH-COO-, or -OCO-CH═CH-, wherein n is an integer 1˜8;
 Z refers
+<img> id-US20180105750A1-20180419-C00026.TIF </img>
 wherein
+<img> id-US20180105750A1-20180419-C00027.TIF </img>
 is phenyl, a group obtained by an H atom in phenyl substituted with F, Cl, Br, I, -CN, -NO2, or -C(═O)H, or cycloalkyl;
 R refers alkyl of straight chain or branched chain having 5˜20 C atoms, a first group obtained by a -CH2- in the alkyl substituted with phenyl, cycloalkyl, -CONH-, -COO-, -O-CO-, -S-, -CO-, or -CH-CH-, a second group obtained by an H atom in the alkyl substituted with F or Cl atom, or a third group obtained by an H atom in the first group substituted with F or Cl atom;
 L refers a polymerizable group connecting to group Z, and includes any one, two, or any three of following three groups:
+<img> id-US20180105750A1-20180419-C00028.TIF </img>
 Specifically, in the reactive vertical alignment material 32, the group A is as a head group, which mainly utilizes its polar group to anchor a surface of a inorganic substrate in a physically acting manner; the group Z and the group R play a role similar to a branched chain of PI to allow the liquid crystal molecule be a vertical alignment in a steric hindrance manner; the side chain group L is a polymerizable group containing two or more different types of groups, by adding double bonds, polymerization ability of the reactive vertical alignment material 32 to ultraviolet is strengthened, compactness of forming the polymer film is increased, morphology of the polymer film is improved, and reliability of the panel is enhanced.
 Specifically, the reactive vertical alignment material includes one or more than one of following compounds:
+<img> id-US20180105750A1-20180419-C00029.TIF </img><img> id-US20180105750A1-20180419-C00030.TIF </img><img> id-US20180105750A1-20180419-C00031.TIF </img><img> id-US20180105750A1-20180419-C00032.TIF </img>
 Specifically, in the liquid crystal material, a mass percentage of the liquid crystal molecules 31 is 93.0%˜99.4%, a mass percentage of the reactive vertical alignment material 32 is 0.5%˜5.0%, a mass percentage of the polymerizable monomers 33 is 0.01%˜2.0%.
 Specifically, the polymerizable monomers 33 include one or a combination of more than one of acrylates, acrylate derivatives, methacrylates, methacrylate derivatives, styrene, styrene derivatives, and epoxy resin.
 Preferably, the liquid crystal material further includes photo initiator, and a mass percentage of the photo initiator is 0.1%˜0.5%.
 Specifically, the photo initiator includes one or a combination of more than one of azobisisobutyronitrile, dialkyl peroxide base compounds, diacyl peroxide base compounds, and lipid peroxide base compound.
 Specifically, the liquid crystal molecules 31 include one or more than one of following compounds:
+<img> id-US20180105750A1-20180419-C00033.TIF </img>
 Please refer to FIG. 1, the present application further provides a method of fabricating a liquid crystal display panel, including following steps.
 Step 1, please refer to FIG. 2, providing an upper substrate 1, a lower substrate 2, and a liquid crystal material.
 The upper substrate 1 includes a first substrate 11, and a first electrode disposed on the first substrate 11; the lower substrate 2 includes a second substrate 21, and a second electrode 22 disposed on the second substrate 21.
 The liquid crystal material includes liquid crystal molecules 31, a reactive vertical alignment material 32, and polymerizable monomers 33.
 A structural formula of the reactive vertical alignment material 32 is
+<img> id-US20180105750A1-20180419-C00034.TIF </img>
 wherein A refers -OH, -COOH, -NH2, or -NH-;
 Sp refers group -(CH2)n-, or a group obtained by a -CH2- in the group -(CH2)n- substituted with -O-, -S-, -CO-, -CO-O-, -O-CO-, -O-CO-O-, -OCH2-, -CH2O-, -CH-CH-, -CF═CF-, -C≡C-, -CH-CH-COO-, or -OCO-CH═CH-, wherein n is an integer 1˜8;
 Z refers
+<img> id-US20180105750A1-20180419-C00035.TIF </img>
 wherein
+<img> id-US20180105750A1-20180419-C00036.TIF </img>
 is phenyl, a group obtained by an H atom in phenyl substituted with F, Cl, Br, I, -CN, -NO2, or -C(═O)H, or cycloalkyl;
 R refers alkyl of straight chain or branched chain having 5˜20 C atoms, a first group obtained by a -CH2- in the alkyl substituted with phenyl, cycloalkyl, -CONH-, -COO-, -O-CO-, -S-, -CO-, or -CH═CH-, a second group obtained by an H atom in the alkyl substituted with F or Cl atom, or a third group obtained by an H atom in the first group substituted with F or Cl atom;
 L refers a polymerizable group connecting to group Z, and includes any one, any two, or any three of following three groups:
+<img> id-US20180105750A1-20180419-C00037.TIF </img>
 Specifically, the reactive vertical alignment material 32 includes one or more than one of following compounds:
+<img> id-US20180105750A1-20180419-C00038.TIF </img><img> id-US20180105750A1-20180419-C00039.TIF </img><img> id-US20180105750A1-20180419-C00040.TIF </img><img> id-US20180105750A1-20180419-C00041.TIF </img>
 Specifically, in the liquid crystal material, a mass percentage of the liquid crystal molecules 31 is 93.0%˜99.4%, a mass percentage of the reactive vertical alignment 32 material is 0.5˜5.0%, a mass percentage of the polymerizable monomers 33 is 0.01%˜2.0%.
 Preferably, the liquid crystal material further includes photo initiator, and a mass percentage of the photo initiator is 0.1%˜0.5%.
 Specifically, the photo initiator includes one or a combination of more than one of azobisisobutyronitrile, dialkyl peroxide base compounds, diacyl peroxide base compounds, and lipid peroxide base compound.
 Specifically, the liquid crystal molecules 31 include one or more than one of following compounds:
+<img> id-US20180105750A1-20180419-C00042.TIF </img>
 Specifically, the upper substrate 1 and the lower substrate 2 respectively are a TFT substrate and a CF substrate; the first electrode 12 and the second electrode 22 respectively are a pixel electrode and a common electrode.
 Step 2, please refer to FIG. 2, dripping the liquid crystal material on the upper substrate 1 or the lower substrate 2, coating a sealant 4 on a peripheral position of the upper substrate 1 or the lower substrate 2, then assembling and laminating the upper substrate 1 and the lower substrate 2, and curing the sealant 4.
 The reactive vertical alignment material 32 in the liquid crystal material adsorbs the upper substrate 1 and the lower substrate 2, and arranges perpendicular to the upper substrate 1 and lower substrate 2, so as to guide the liquid crystal molecules 31 arranging perpendicular to the upper substrate 1 and the lower substrate 2.
@@ -108,29 +135,45 @@ Please refer to FIG. 5, the present application further provides a liquid crysta
 The liquid crystal layer 3 includes liquid crystal molecules 31.
 The surfaces of both the first polymer film 41 and the second polymer film 42 have polymer projections, which all are formed by polymerizing the polymerizable monomers 33 and the reactive vertical alignment material 32, so as to allow the liquid crystal molecules 31 in the liquid crystal layer 3 near the first polymer film 41 and the second polymer film 42 arrange along a direction inclined to the upper substrate 1 and the lower substrate 2.
 A structural formula of the reactive vertical alignment material is
+<img> id-US20180105750A1-20180419-C00043.TIF </img>
 wherein A refers -OH, -COOH, -NH2, or -NH-;
 Sp refers group -(CH2)n-, or a group obtained by a -CH2- in the group -(CH2)n- substituted with -O-, -S-, -CO-, -CO-O-, -O-CO-, -O-CO-O-, -OCH2-, -CH2O-, -CH═CH-, -CF═CF-, -C≡C-, -CH═CH-COO-, or -OCO-CH═CH-, wherein n is an integer 1˜8;
 Z refers
+<img> id-US20180105750A1-20180419-C00044.TIF </img>
 wherein
+<img> id-US20180105750A1-20180419-C00045.TIF </img>
 is phenyl, a group obtained by an H atom in phenyl substituted with F, Cl, Br, I, -CN, -NO2, or -C(═O)H, or cycloalkyl;
 R refers alkyl of straight chain or branched chain having 5˜20 C atoms, a first group obtained by a -CH2- in the alkyl substituted with phenyl, cycloalkyl, -CONH-, -COO-, -O-CO-, -S-, -CO-, or -CH═CH-, a second group obtained by an H atom in the alkyl substituted with F or Cl atom, or a third group obtained by an H atom in the first group substituted with F or Cl atom;
 L refers a polymerizable group connecting to group Z, and includes any one, an two, or any three of following three groups:
+<img> id-US20180105750A1-20180419-C00046.TIF </img>
 Specifically, the reactive vertical alignment material 32 includes one or to more than one of following compounds:
+<img> id-US20180105750A1-20180419-C00047.TIF </img><img> id-US20180105750A1-20180419-C00048.TIF </img><img> id-US20180105750A1-20180419-C00049.TIF </img><img> id-US20180105750A1-20180419-C00050.TIF </img>
 Specifically, the thicknesses of the first polymer film 41 and the second polymer film 42 are 100˜1200 Å. Both the first polymer film 41 and the second polymer film have polymer projections to constitute rough surfaces.
 Specifically, the polymerizable monomers 33 include one or a combination of more than one of acrylates, acrylate derivatives, methacrylates, methacrylate derivatives, styrene, styrene derivatives, and epoxy resin; wherein the epoxy resin can be fatty amine base epoxy resins.
 Specifically, the liquid crystal molecules 31 include one or more than one of following compounds:
+<img> id-US20180105750A1-20180419-C00051.TIF </img>
 Specifically, the liquid crystal display panel further includes a sealant 4 disposed between the upper substrate 1 and the lower substrate 2 and located at periphery of the liquid crystal layer 3. Preferably, the liquid crystal display panel further includes an electric conductive adhesive (not shown) is located at a periphery of the sealant 4.
 Specifically, the upper substrate 1 and the lower substrate respectively are a TFT substrate and a CF substrate; the first electrode 12 and the second electrode respectively are a pixel electrode and a common electrode.
 The reactive vertical alignment material 32 will be described in a method of fabricating a specific compound in an embodiment as follows.
 Step 1 (compound a→compound b): adding 20.0 g compound a (67.6 mmol) into 600 mL tetrahydrofuran (THF), and cooling down to −78° C.; then, dropping 50 mL hexane containing N-butyllithium of 75 mmol; stirring for 10 min; then, adding 40 mL THF containing 4 g ethylene oxide (the system temperature is 2° C.); then, adding 10 mL trifluoro-ethylester at temperature of −78° C., and stirring for 15 min, to obtain 11 g compound b after separation and purification.
+<img> id-US20180105750A1-20180419-C00052.TIF </img>
 Step 2 (compound b+compound c→compound d): dissolving 20 mmol compound b and 20 mmol compound c in 200 mL toluene, and adding 100 mL ethanol and 40 mL 1 mol/L Na2CO3; after purging argon for 30 min, adding 100 mg tetrakis(triphenylphosphine)palladium, heating and refluxing for 60 min, to obtain product d after separation and extraction.
+<img> id-US20180105750A1-20180419-C00053.TIF </img>
 Step 3 (compound d→compound e): dissolving 10 mmol compound d in 50 mL dichloromethane, and cooling down to −28° C.; then, adding 20 mol boron trifluoride, stirring for 3 hours at a condition of −25° C.; after that, adding mol/L NaOH at a condition of ice bath, to obtain compound e after separation and purification.
+<img> id-US20180105750A1-20180419-C00054.TIF </img>
 Step 4(compound e→compound f): dissolving 3 mmol compound e and 3.5 mmol imidazole in 3 mL trifluoroacetic acid (THF), and cooling down to 2° C.; then, gradually dropping THF solution (4 mL) containing tert-butyldimethylsilyl chloride (3.5 mmol), (a dropping time is 30 min); then, after stirring for 60 min at room temperature, adding ammonium chloride solution, and extracting a product with methyl tert-butyl ether, to obtain compound f after purification.
+<img> id-US20180105750A1-20180419-C00055.TIF </img>
 Step 5 (compound f→compound g): dissolving 10 mmol compound f, mmol tetrabutylammonium bromide, 12 mmol potassium carbonate, and mmol 2-bromo-1,1-diethoxyethane in 20 mL dimethylformamide (DMF), heating and refluxing for 3 hours; after cooling, adding 10 mL water, extracting with 5 mL toluene for 3 times, to obtain compound g after separation and purification.
+<img> id-US20180105750A1-20180419-C00056.TIF </img>
 Step 6 (compound g→compound h): dissolving 4 mmol compound g, mmol methacrylate, and 0.2 mmol 4-(dimethylamino) pyridine in 25 mL dichloromethane, and cooling the mixture system down to 1° C.; then, gradually dropping dichloromethane containing carbodiimide (6 mmol), maintaining the system at a temperature 1˜4° C. during dropping; finally, stirring and reacting for 18 h at room temperature, to obtain compound h after separation and extraction.
+<img> id-US20180105750A1-20180419-C00057.TIF </img>
 Step 7 (compound h→compound i): dissolving 10 mmol compound h in 40 mL chloroform, dropping 60 mmol trifluoroacetic acid at room temperature; after reacting for 16 h, adding 100 mL NaHCO3 solution (containing 60 mmol NaHCO3); then, extracting with 500 mL ethyl acetate for 3 times; dissolving and washing by using NaCl solution of 3% mass fraction for 3 times, to obtain compound i.
+<img> id-US20180105750A1-20180419-C00058.TIF </img>
 Step 8 (compound I→compound j): dissolving 10 mmol compound I in 10 mL toluene, sequentially adding 50 mmol methacrylic anhydride, 2 mol potassium carbonate, and 1 mL DMF, heating and refluxing for 20 h; then, cooling down, to obtain compound j after separation and purification.
+<img> id-US20180105750A1-20180419-C00059.TIF </img>
 Step 9 (compound j→compound k): dissolving 2.5 mmol compound j in 50 mL THF (the system temperature is 2° C.); gradually dropping 2 mL hydrochloride acid of 2 mol/L concentration, and gradually returning to room temperature; reacting for 3 h, to obtain compound k after espration and purification.
+<img> id-US20180105750A1-20180419-C00060.TIF </img>
 H1-NMR data of compound k is as follows: δ: 0.96 (3H), 1.33 (2H), 1.29 (2H), 1.62 (2H), 2.55 (2H), 7.18 (2H), 7.43 (2H), 7.25 (1H), 7.31 (1H), 7.52 (1H), 6.87 (1H), 6.82 (1H), 6.01 (1H), 6.54 (1H), 1.93 (6H), 6.27 (1H), 5.72 (1H) 5.49 (1H), 5.98 (1H), 2.74 (2H), 3.86 (2H), 2.0 (1H).
+<img> id-US20180105750A1-20180419-C00061.TIF </img>
 In summary, the present application provides a liquid crystal material, a method of fabricating a liquid crystal display panel, and a liquid crystal display panel. The liquid crystal material of the present application includes liquid crystal molecules, polymerizable monomers and a reactive vertical alignment material, the polymerizable monomers and the reactive vertical alignment to material can occur a polymerization under ultraviolet irradiation to form a polymer, while the polymer deposits on a substrate to form a polymer film capable of replacing the PI alignment film, the reactive vertical alignment material includes a polymerizable group L that strengthens polymerization ability of the reactive vertical alignment material, increases compactness of forming the polymer film, improves morphology of the polymer film, and enhances panel quality. The method of fabricating the liquid crystal display panel of the present application eliminates the fabricating process of the PI alignment film, the method has simple process and low cost. The liquid crystal display panel utilizes the polymer film, which is obtained by polymerizing the polymerizable monomers and the reactive vertical alignment material, to replace the PI alignment film, that not only meets the aspect of liquid crystal alignment, but also prevent impurities in the CF substrate to diffuse into the liquid crystal layer, so as to greatly enhance quality of the panel, and to have a low fabricating cost.
 Based on the above description, an ordinarily skilled in the art can complete various similar modifications and arrangements according to the technical programs and ideas of the present application, and the scope of the appended claims of the present application should encompass all such modifications and arrangements.

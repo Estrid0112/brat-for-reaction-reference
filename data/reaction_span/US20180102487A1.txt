@@ -5,6 +5,7 @@ Opto-electronic devices that make use of organic materials are becoming increasi
 OLEDs make use of thin organic films that emit light when voltage is applied across the device. OLEDs are becoming an increasingly interesting technology for use in applications such as flat panel displays, illumination, and backlighting. Several OLED materials and configurations are described in U.S. Pat. Nos. 5,844,363, 6,303,238, and 5,707,745, which are incorporated herein by reference in their entirety.
 One application for phosphorescent emissive molecules is a full color display. Industry standards for such a display call for pixels adapted to emit particular colors, referred to as “saturated” colors. In particular, these standards call for saturated red, green, and blue pixels. Alternatively the OLED can be designed to emit white light. In conventional liquid crystal displays emission from a white backlight is filtered using absorption filters to produce red, green and blue emission. The same technique can also be used with OLEDs. The white OLED can be either a single EML device or a stack structure. Color may be measured using CIE coordinates, which are well known to the art.
 One example of a green emissive molecule is tris(2-phenylpyridine) iridium, denoted Ir(ppy)3, which has the following structure:
+<img> id-US20180102487A1-20180412-C00002.TIF </img>
 In this, and later figures herein, we depict the dative bond from nitrogen to metal (here, Ir) as a straight line.
 As used herein, the term “organic” includes polymeric materials as well as small molecule organic materials that may be used to fabricate organic opto-electronic devices. “Small molecule” refers to any organic material that is not a polymer, and “small molecules” may actually be quite large Small molecules may include repeat units in some circumstances. For example, using a long chain alkyl group as a substituent does not remove a molecule from the “small molecule” class. Small molecules may also be incorporated into polymers, for example as a pendent group on a polymer backbone or as a part of the backbone Small molecules may also serve as the core moiety of a dendrimer, which consists of a series of chemical shells built on the core moiety. The core moiety of a dendrimer may be a fluorescent or phosphorescent small molecule emitter. A dendrimer may be a “small molecule,” and it is believed that all dendrimers currently used in the field of OLEDs are small molecules.
 As used herein, “top” means furthest away from the substrate, while “bottom” means closest to the substrate. Where a first layer is described as “disposed over” a second layer, the first layer is disposed further away from substrate. There may be other layers between the first and second layer, unless it is specified that the first layer is “in contact with” the second layer. For example, a cathode may be described as “disposed over” an anode, even though there are various organic layers in between.
@@ -15,6 +16,7 @@ As used herein, and as would be generally understood by one skilled in the art, 
 More details on OLEDs, and the definitions described above, can be found in U.S. Pat. No. 7,279,704, which is incorporated herein by reference in its entirety.
 SUMMARY
 According to one embodiment, a compound having the formula Ir(LA)n(LB)3-n, having the structure
+<img> id-US20180102487A1-20180412-C00003.TIF </img>
 of Formula I is provided. In the structure of Formula I:
 each of A1, A2, A3, A4, A5, A6, A7, and A8 is independently carbon or nitrogen;
 at least one of A1, A2, A3, A4, A5, A6, A7, and A8 is nitrogen;
@@ -55,6 +57,7 @@ As used herein, “substituted” indicates that a substituent other than H is b
 The “aza” designation in the fragments described herein, i.e. aza-dibenzofuran, aza-dibenzothiophene, etc. means that one or more of the C-H groups in the respective fragment can be replaced by a nitrogen atom, for example, and without any limitation, azatriphenylene encompasses both dibenzo[f,h]quinoxaline and dibenzo[f,h]quinoline. One of ordinary skill in the art can readily envision other nitrogen analogs of the aza-derivatives described above, and all such analogs are intended to be encompassed by the terms as set forth herein.
 It is to be understood that when a molecular fragment is described as being a substituent or otherwise attached to another moiety, its name may be written as if it were a fragment (e.g. phenyl, phenylene, naphthyl, dibenzofuryl) or as if it were the whole molecule (e.g. benzene, naphthalene, dibenzofuran). As used herein, these different ways of designating a substituent or attached fragment are considered to be equivalent.
 According to one embodiment, a compound having the formula Ir(LA)n(LB)3-n, having the structure
+<img> id-US20180102487A1-20180412-C00004.TIF </img>
 of Formula I is described. In the structure of Formula I:
 each of A1, A2, A3, A4, A5, A6, A7, and A8 is independently carbon or nitrogen;
 at least one of A1, A2, A3, A4, A5, A6, A7, and A8 is nitrogen;
@@ -68,12 +71,15 @@ n is an integer from 1 to 3; and
 at least one R2 adjacent to ring C is not hydrogen.
 In some embodiments, n is 1.
 In some embodiments, the compound is selected from the group consisting of:
+<img> id-US20180102487A1-20180412-C00005.TIF </img>
 In some embodiments, only one of A1 to A8 is nitrogen. In some embodiments, A1 to A4 are carbon, and exactly one of A5 to A8 is nitrogen.
 In some embodiments, X is O.
 In some embodiments, R1, R2, R3, R4, and R5 are independently selected from the group consisting of hydrogen, deuterium, alkyl, cycloalkyl, partial fluorinated alkyl, partial fluorinated cycloalkyl, and combinations thereof. In some embodiments, R1, R2, R3, R4, and R5 are independently selected from the group consisting of hydrogen, deuterium, methyl, ethyl, propyl, 1-methylethyl, butyl, 1-methylpropyl, 2-methylpropyl, pentyl, 1-methylbutyl, 2-methylbutyl, 3-methylbutyl, 1,1-dimethylpropyl, 1,2-dimethylpropyl, 2,2-dimethylpropyl, cyclopentyl, and cyclohexyl.
 In some embodiments, the compound is selected from the group consisting of:
+<img> id-US20180102487A1-20180412-C00006.TIF </img>
 In some such embodiments, the R1 next to N is selected from the group consisting of alkyl, cycloalkyl, partially or fully deuterated variants thereof, partially fluorinated variants thereof, and combinations thereof. In some such embodiments, the R1 next to N is selected from the group consisting of methyl, ethyl, propyl, 1-methylethyl, butyl, 1-methylpropyl, 2-methylpropyl, pentyl, 1-methylbutyl, 2-methylbutyl, 3-methylbutyl, 1,1-dimethylpropyl, 1,2-dimethylpropyl, 2,2-dimethylpropyl, cyclopentyl, cyclohexyl, and partially or fully deuterated variations thereof.
 In some embodiments, LA is selected from the group consisting of LAp,1 to LAp, 634 and LAm,1 to LAm,634, where LAm,i and LAm,i have structures
+<img> id-US20180102487A1-20180412-C00007.TIF </img>
 where i is an integer from 1 to 634. In such embodiments, LAp,1 to LAp, 634 and LAm,1 to LAm,634, the substituents RA1, RA2, RA3, and RA4 are defined as follows:
 <table>
 <header>
@@ -205,102 +211,102 @@ i & RA1 & RA2 & RA3 & RA4
 118. & CH3 & CH3 & CH2CH2CF3 & H
 119. & CH3 & H & CH2CH2CF3 & CH3
 120. & CH3 & CH3 & CH2CH2CF3 & CH3
-121. &  & H & H & H
-122. &  & CH3 & H & CH3
-123. &  & H & CH3 & H
-124. &  & H & H & CH3
-125. &  & CH3 & CH3 & H
-126. &  & CH3 & H & CH3
-127. &  & H & CH3 & CH3
-128. &  & CH3 & CH3 & CH3
-129. & CH3 &  & H & CH3
-130. & CH3 &  & CH3 & H
-131. & CH3 &  & H & CH3
-132. & CH3 &  & CH3 & CH3
-133. & CH3 & H &  & H
-134. & CH3 & CH3 &  & H
-135. & CH3 & H &  & CH3
-136. & CH3 & CH3 &  & CH3
-137. &  & H & H & H
-138. &  & CH3 & H & CH3
-139. &  & H & CH3 & H
-140. &  & H & H & CH3
-141. &  & CH3 & CH3 & H
-142. &  & CH3 & H & CH3
-143. &  & H & CH3 & CH3
-144. &  & CH3 & CH3 & CH3
-145. & CH3 &  & H & CH3
-146. & CH3 &  & CH3 & H
-147. & CH3 &  & H & CH3
-148. & CH3 &  & CH3 & CH3
-149. & CH3 & H &  & H
-150. & CH3 & CH3 &  & H
-151. & CH3 & H &  & CH3
-152. & CH3 & CH3 &  & CH3
-153. &  & H & H & H
-154. &  & CH3 & H & CH3
-155. &  & H & CH3 & H
-156. &  & H & H & CH3
-157. &  & CH3 & CH3 & H
-158. &  & CH3 & H & CH3
-159. &  & H & CH3 & CH3
-160. &  & CH3 & CH3 & CH3
-161. & CH3 &  & H & CH3
-162. & CH3 &  & CH3 & H
-163. & CH3 &  & H & CH3
-164. & CH3 &  & CH3 & CH3
-165. & CH3 & H &  & H
-166. & CH3 & CH3 &  & H
-167. & CH3 & H &  & CH3
-168. & CH3 & CH3 &  & CH3
-169. &  & H & H & H
-170. &  & CH3 & H & CH3
-171. &  & H & CH3 & H
-172. &  & H & H & CH3
-173. &  & CH3 & CH3 & H
-174. &  & CH3 & H & CH3
-175. &  & H & CH3 & CH3
-176. &  & CH3 & CH3 & CH3
-177. & CH3 &  & H & CH3
-178. & CH3 &  & CH3 & H
-179. & CH3 &  & H & CH3
-180. & CH3 &  & CH3 & CH3
-181. & CH3 & H &  & H
-182. & CH3 & CH3 &  & H
-183. & CH3 & H &  & CH3
-184. & CH3 & CH3 &  & CH3
-185. &  & H & H & H
-186. &  & CH3 & H & CH3
-187. &  & H & CH3 & H
-188. &  & H & H & CH3
-189. &  & CH3 & CH3 & H
-190. &  & CH3 & H & CH3
-191. &  & H & CH3 & CH3
-192. &  & CH3 & CH3 & CH3
-193. & CH3 &  & H & CH3
-194. & CH3 &  & CH3 & H
-195. & CH3 &  & H & CH3
-196. & CH3 &  & CH3 & CH3
-197. & CH3 & H &  & H
-198. & CH3 & CH3 &  & H
-199. & CH3 & H &  & CH3
-200. & CH3 & CH3 &  & CH3
-201. &  & H & H & H
-202. &  & CH3 & H & CH3
-203. &  & H & CH3 & H
-204. &  & H & H & CH3
-205. &  & CH3 & CH3 & H
-206. &  & CH3 & H & CH3
-207. &  & H & CH3 & CH3
-208. &  & CH3 & CH3 & CH3
-209. & CH3 &  & H & CH3
-210. & CH3 &  & CH3 & H
-211. & CH3 &  & H & CH3
-212. & CH3 &  & CH3 & CH3
-213. & CH3 & H &  & H
-214. & CH3 & CH3 &  & H
-215. & CH3 & H &  & CH3
-216. & CH3 & CH3 &  & CH3
+121. & <img> id-US20180102487A1-20180412-C00008.TIF </img> & H & H & H
+122. & <img> id-US20180102487A1-20180412-C00009.TIF </img> & CH3 & H & CH3
+123. & <img> id-US20180102487A1-20180412-C00010.TIF </img> & H & CH3 & H
+124. & <img> id-US20180102487A1-20180412-C00011.TIF </img> & H & H & CH3
+125. & <img> id-US20180102487A1-20180412-C00012.TIF </img> & CH3 & CH3 & H
+126. & <img> id-US20180102487A1-20180412-C00013.TIF </img> & CH3 & H & CH3
+127. & <img> id-US20180102487A1-20180412-C00014.TIF </img> & H & CH3 & CH3
+128. & <img> id-US20180102487A1-20180412-C00015.TIF </img> & CH3 & CH3 & CH3
+129. & CH3 & <img> id-US20180102487A1-20180412-C00016.TIF </img> & H & CH3
+130. & CH3 & <img> id-US20180102487A1-20180412-C00017.TIF </img> & CH3 & H
+131. & CH3 & <img> id-US20180102487A1-20180412-C00018.TIF </img> & H & CH3
+132. & CH3 & <img> id-US20180102487A1-20180412-C00019.TIF </img> & CH3 & CH3
+133. & CH3 & H & <img> id-US20180102487A1-20180412-C00020.TIF </img> & H
+134. & CH3 & CH3 & <img> id-US20180102487A1-20180412-C00021.TIF </img> & H
+135. & CH3 & H & <img> id-US20180102487A1-20180412-C00022.TIF </img> & CH3
+136. & CH3 & CH3 & <img> id-US20180102487A1-20180412-C00023.TIF </img> & CH3
+137. & <img> id-US20180102487A1-20180412-C00024.TIF </img> & H & H & H
+138. & <img> id-US20180102487A1-20180412-C00025.TIF </img> & CH3 & H & CH3
+139. & <img> id-US20180102487A1-20180412-C00026.TIF </img> & H & CH3 & H
+140. & <img> id-US20180102487A1-20180412-C00027.TIF </img> & H & H & CH3
+141. & <img> id-US20180102487A1-20180412-C00028.TIF </img> & CH3 & CH3 & H
+142. & <img> id-US20180102487A1-20180412-C00029.TIF </img> & CH3 & H & CH3
+143. & <img> id-US20180102487A1-20180412-C00030.TIF </img> & H & CH3 & CH3
+144. & <img> id-US20180102487A1-20180412-C00031.TIF </img> & CH3 & CH3 & CH3
+145. & CH3 & <img> id-US20180102487A1-20180412-C00032.TIF </img> & H & CH3
+146. & CH3 & <img> id-US20180102487A1-20180412-C00033.TIF </img> & CH3 & H
+147. & CH3 & <img> id-US20180102487A1-20180412-C00034.TIF </img> & H & CH3
+148. & CH3 & <img> id-US20180102487A1-20180412-C00035.TIF </img> & CH3 & CH3
+149. & CH3 & H & <img> id-US20180102487A1-20180412-C00036.TIF </img> & H
+150. & CH3 & CH3 & <img> id-US20180102487A1-20180412-C00037.TIF </img> & H
+151. & CH3 & H & <img> id-US20180102487A1-20180412-C00038.TIF </img> & CH3
+152. & CH3 & CH3 & <img> id-US20180102487A1-20180412-C00039.TIF </img> & CH3
+153. & <img> id-US20180102487A1-20180412-C00040.TIF </img> & H & H & H
+154. & <img> id-US20180102487A1-20180412-C00041.TIF </img> & CH3 & H & CH3
+155. & <img> id-US20180102487A1-20180412-C00042.TIF </img> & H & CH3 & H
+156. & <img> id-US20180102487A1-20180412-C00043.TIF </img> & H & H & CH3
+157. & <img> id-US20180102487A1-20180412-C00044.TIF </img> & CH3 & CH3 & H
+158. & <img> id-US20180102487A1-20180412-C00045.TIF </img> & CH3 & H & CH3
+159. & <img> id-US20180102487A1-20180412-C00046.TIF </img> & H & CH3 & CH3
+160. & <img> id-US20180102487A1-20180412-C00047.TIF </img> & CH3 & CH3 & CH3
+161. & CH3 & <img> id-US20180102487A1-20180412-C00048.TIF </img> & H & CH3
+162. & CH3 & <img> id-US20180102487A1-20180412-C00049.TIF </img> & CH3 & H
+163. & CH3 & <img> id-US20180102487A1-20180412-C00050.TIF </img> & H & CH3
+164. & CH3 & <img> id-US20180102487A1-20180412-C00051.TIF </img> & CH3 & CH3
+165. & CH3 & H & <img> id-US20180102487A1-20180412-C00052.TIF </img> & H
+166. & CH3 & CH3 & <img> id-US20180102487A1-20180412-C00053.TIF </img> & H
+167. & CH3 & H & <img> id-US20180102487A1-20180412-C00054.TIF </img> & CH3
+168. & CH3 & CH3 & <img> id-US20180102487A1-20180412-C00055.TIF </img> & CH3
+169. & <img> id-US20180102487A1-20180412-C00056.TIF </img> & H & H & H
+170. & <img> id-US20180102487A1-20180412-C00057.TIF </img> & CH3 & H & CH3
+171. & <img> id-US20180102487A1-20180412-C00058.TIF </img> & H & CH3 & H
+172. & <img> id-US20180102487A1-20180412-C00059.TIF </img> & H & H & CH3
+173. & <img> id-US20180102487A1-20180412-C00060.TIF </img> & CH3 & CH3 & H
+174. & <img> id-US20180102487A1-20180412-C00061.TIF </img> & CH3 & H & CH3
+175. & <img> id-US20180102487A1-20180412-C00062.TIF </img> & H & CH3 & CH3
+176. & <img> id-US20180102487A1-20180412-C00063.TIF </img> & CH3 & CH3 & CH3
+177. & CH3 & <img> id-US20180102487A1-20180412-C00064.TIF </img> & H & CH3
+178. & CH3 & <img> id-US20180102487A1-20180412-C00065.TIF </img> & CH3 & H
+179. & CH3 & <img> id-US20180102487A1-20180412-C00066.TIF </img> & H & CH3
+180. & CH3 & <img> id-US20180102487A1-20180412-C00067.TIF </img> & CH3 & CH3
+181. & CH3 & H & <img> id-US20180102487A1-20180412-C00068.TIF </img> & H
+182. & CH3 & CH3 & <img> id-US20180102487A1-20180412-C00069.TIF </img> & H
+183. & CH3 & H & <img> id-US20180102487A1-20180412-C00070.TIF </img> & CH3
+184. & CH3 & CH3 & <img> id-US20180102487A1-20180412-C00071.TIF </img> & CH3
+185. & <img> id-US20180102487A1-20180412-C00072.TIF </img> & H & H & H
+186. & <img> id-US20180102487A1-20180412-C00073.TIF </img> & CH3 & H & CH3
+187. & <img> id-US20180102487A1-20180412-C00074.TIF </img> & H & CH3 & H
+188. & <img> id-US20180102487A1-20180412-C00075.TIF </img> & H & H & CH3
+189. & <img> id-US20180102487A1-20180412-C00076.TIF </img> & CH3 & CH3 & H
+190. & <img> id-US20180102487A1-20180412-C00077.TIF </img> & CH3 & H & CH3
+191. & <img> id-US20180102487A1-20180412-C00078.TIF </img> & H & CH3 & CH3
+192. & <img> id-US20180102487A1-20180412-C00079.TIF </img> & CH3 & CH3 & CH3
+193. & CH3 & <img> id-US20180102487A1-20180412-C00080.TIF </img> & H & CH3
+194. & CH3 & <img> id-US20180102487A1-20180412-C00081.TIF </img> & CH3 & H
+195. & CH3 & <img> id-US20180102487A1-20180412-C00082.TIF </img> & H & CH3
+196. & CH3 & <img> id-US20180102487A1-20180412-C00083.TIF </img> & CH3 & CH3
+197. & CH3 & H & <img> id-US20180102487A1-20180412-C00084.TIF </img> & H
+198. & CH3 & CH3 & <img> id-US20180102487A1-20180412-C00085.TIF </img> & H
+199. & CH3 & H & <img> id-US20180102487A1-20180412-C00086.TIF </img> & CH3
+200. & CH3 & CH3 & <img> id-US20180102487A1-20180412-C00087.TIF </img> & CH3
+201. & <img> id-US20180102487A1-20180412-C00088.TIF </img> & H & H & H
+202. & <img> id-US20180102487A1-20180412-C00089.TIF </img> & CH3 & H & CH3
+203. & <img> id-US20180102487A1-20180412-C00090.TIF </img> & H & CH3 & H
+204. & <img> id-US20180102487A1-20180412-C00091.TIF </img> & H & H & CH3
+205. & <img> id-US20180102487A1-20180412-C00092.TIF </img> & CH3 & CH3 & H
+206. & <img> id-US20180102487A1-20180412-C00093.TIF </img> & CH3 & H & CH3
+207. & <img> id-US20180102487A1-20180412-C00094.TIF </img> & H & CH3 & CH3
+208. & <img> id-US20180102487A1-20180412-C00095.TIF </img> & CH3 & CH3 & CH3
+209. & CH3 & <img> id-US20180102487A1-20180412-C00096.TIF </img> & H & CH3
+210. & CH3 & <img> id-US20180102487A1-20180412-C00097.TIF </img> & CH3 & H
+211. & CH3 & <img> id-US20180102487A1-20180412-C00098.TIF </img> & H & CH3
+212. & CH3 & <img> id-US20180102487A1-20180412-C00099.TIF </img> & CH3 & CH3
+213. & CH3 & H & <img> id-US20180102487A1-20180412-C00100.TIF </img> & H
+214. & CH3 & CH3 & <img> id-US20180102487A1-20180412-C00101.TIF </img> & H
+215. & CH3 & H & <img> id-US20180102487A1-20180412-C00102.TIF </img> & CH3
+216. & CH3 & CH3 & <img> id-US20180102487A1-20180412-C00103.TIF </img> & CH3
 217. & CH(CH3)2 & H & CH2CH3 & H
 218. & CH(CH3)2 & H & CH(CH3)2 & H
 219. & CH(CH3)2 & H & CH2CH(CH3)2 & H
@@ -308,12 +314,12 @@ i & RA1 & RA2 & RA3 & RA4
 221. & CH(CH3)2 & H & CH2C(CH3)3 & H
 222. & CH(CH3)2 & H & CH2CH2CF3 & H
 223. & CH(CH3)2 & H & CH2C(CH3)2CF3 & H
-224. & CH(CH3)2 & H &  & H
-225. & CH(CH3)2 & H &  & H
-226. & CH(CH3)2 & H &  & H
-227. & CH(CH3)2 & H &  & H
-228. & CH(CH3)2 & H &  & H
-229. & CH(CH3)2 & H &  & H
+224. & CH(CH3)2 & H & <img> id-US20180102487A1-20180412-C00104.TIF </img> & H
+225. & CH(CH3)2 & H & <img> id-US20180102487A1-20180412-C00105.TIF </img> & H
+226. & CH(CH3)2 & H & <img> id-US20180102487A1-20180412-C00106.TIF </img> & H
+227. & CH(CH3)2 & H & <img> id-US20180102487A1-20180412-C00107.TIF </img> & H
+228. & CH(CH3)2 & H & <img> id-US20180102487A1-20180412-C00108.TIF </img> & H
+229. & CH(CH3)2 & H & <img> id-US20180102487A1-20180412-C00109.TIF </img> & H
 230. & C(CH3)3 & H & CH2CH3 & H
 231. & C(CH3)3 & H & CH(CH3)2 & H
 232. & C(CH3)3 & H & CH2CH(CH3)2 & H
@@ -321,12 +327,12 @@ i & RA1 & RA2 & RA3 & RA4
 234. & C(CH3)3 & H & CH2C(CH3)3 & H
 235. & C(CH3)3 & H & CH2CH2CF3 & H
 236. & C(CH3)3 & H & CH2C(CH3)2CF3 & H
-237. & C(CH3)3 & H &  & H
-238. & C(CH3)3 & H &  & H
-239. & C(CH3)3 & H &  & H
-240. & C(CH3)3 & H &  & H
-241. & C(CH3)3 & H &  & H
-242. & C(CH3)3 & H &  & H
+237. & C(CH3)3 & H & <img> id-US20180102487A1-20180412-C00110.TIF </img> & H
+238. & C(CH3)3 & H & <img> id-US20180102487A1-20180412-C00111.TIF </img> & H
+239. & C(CH3)3 & H & <img> id-US20180102487A1-20180412-C00112.TIF </img> & H
+240. & C(CH3)3 & H & <img> id-US20180102487A1-20180412-C00113.TIF </img> & H
+241. & C(CH3)3 & H & <img> id-US20180102487A1-20180412-C00114.TIF </img> & H
+242. & C(CH3)3 & H & <img> id-US20180102487A1-20180412-C00115.TIF </img> & H
 243. & CH2C(CH3)3 & H & CH2CH3 & H
 244. & CH2C(CH3)3 & H & CH(CH3)2 & H
 245. & CH2C(CH3)3 & H & CH2CH(CH3)2 & H
@@ -334,71 +340,71 @@ i & RA1 & RA2 & RA3 & RA4
 247. & CH2C(CH3)3 & H & CH2C(CH3)3 & H
 248. & CH2C(CH3)3 & H & CH2CH2CF3 & H
 249. & CH2C(CH3)3 & H & CH2C(CH3)2CF3 & H
-250. & CH2C(CH3)3 & H &  & H
-251. & CH2C(CH3)3 & H &  & H
-252. & CH2C(CH3)3 & H &  & H
-253. & CH2C(CH3)3 & H &  & H
-254. & CH2C(CH3)3 & H &  & H
-255. & CH2C(CH3)3 & H &  & H
-256. &  & H & CH2CH3 & H
-257. &  & H & CH(CH3)2 & H
-258. &  & H & CH2CH(CH3)2 & H
-259. &  & H & C(CH3)3 & H
-260. &  & H & CH2C(CH3)3 & H
-261. &  & H & CH2CH2CF3 & H
-262. &  & H & CH2C(CH3)2CF3 & H
-263. &  & H &  & H
-264. &  & H &  & H
-265. &  & H &  & H
-266. &  & H &  & H
-267. &  & H &  & H
-268. &  & H &  & H
-269. &  & H & CH2CH3 & H
-270. &  & H & CH(CH3)2 & H
-271. &  & H & CH2CH(CH3)2 & H
-272. &  & H & C(CH3)3 & H
-273. &  & H & CH2C(CH3)3 & H
-274. &  & H & CH2CH2CF3 & H
-275. &  & H & CH2C(CH3)2CF3 & H
-276. &  & H &  & H
-277. &  & H &  & H
-278. &  & H &  & H
-279. &  & H &  & H
-280. &  & H &  & H
-281. &  & H &  & H
-282. &  & H & CH2CH(CH3)2 & H
-283. &  & H & C(CH3)3 & H
-284. &  & H & CH2C(CH3)3 & H
-285. &  & H & CH2CH2CF3 & H
-286. &  & H & CH2C(CH3)2CF3 & H
-287. &  & H &  & H
-288. &  & H &  & H
-289. &  & H &  & H
-290. &  & H &  & H
-291. &  & H &  & H
-292. &  & H &  & H
-293. &  & H & CH2CH(CH3)2 & H
-294. &  & H & C(CH3)3 & H
-295. &  & H & CH2C(CH3)3 & H
-296. &  & H & CH2CH2CF3 & H
-297. &  & H & CH2C(CH3)2CF3 & H
-298. &  & H &  & H
-299. &  & H &  & H
-300. &  & H &  & H
-301. &  & H &  & H
-302. &  & H &  & H
-303. &  & H &  & H
-304. &  & H & CH2CH(CH3)2 & H
-305. &  & H & C(CH3)3 & H
-306. &  & H & CH2C(CH3)3 & H
-307. &  & H & CH2CH2CF3 & H
-308. &  & H & CH2C(CH3)2CF3 & H
-309. &  & H &  & H
-310. &  & H &  & H
-311. &  & H &  & H
-312. &  & H &  & H
-313. &  & H &  & H
-314. &  & H &  & H
+250. & CH2C(CH3)3 & H & <img> id-US20180102487A1-20180412-C00116.TIF </img> & H
+251. & CH2C(CH3)3 & H & <img> id-US20180102487A1-20180412-C00117.TIF </img> & H
+252. & CH2C(CH3)3 & H & <img> id-US20180102487A1-20180412-C00118.TIF </img> & H
+253. & CH2C(CH3)3 & H & <img> id-US20180102487A1-20180412-C00119.TIF </img> & H
+254. & CH2C(CH3)3 & H & <img> id-US20180102487A1-20180412-C00120.TIF </img> & H
+255. & CH2C(CH3)3 & H & <img> id-US20180102487A1-20180412-C00121.TIF </img> & H
+256. & <img> id-US20180102487A1-20180412-C00122.TIF </img> & H & CH2CH3 & H
+257. & <img> id-US20180102487A1-20180412-C00123.TIF </img> & H & CH(CH3)2 & H
+258. & <img> id-US20180102487A1-20180412-C00124.TIF </img> & H & CH2CH(CH3)2 & H
+259. & <img> id-US20180102487A1-20180412-C00125.TIF </img> & H & C(CH3)3 & H
+260. & <img> id-US20180102487A1-20180412-C00126.TIF </img> & H & CH2C(CH3)3 & H
+261. & <img> id-US20180102487A1-20180412-C00127.TIF </img> & H & CH2CH2CF3 & H
+262. & <img> id-US20180102487A1-20180412-C00128.TIF </img> & H & CH2C(CH3)2CF3 & H
+263. & <img> id-US20180102487A1-20180412-C00129.TIF </img> & H & <img> id-US20180102487A1-20180412-C00130.TIF </img> & H
+264. & <img> id-US20180102487A1-20180412-C00131.TIF </img> & H & <img> id-US20180102487A1-20180412-C00132.TIF </img> & H
+265. & <img> id-US20180102487A1-20180412-C00133.TIF </img> & H & <img> id-US20180102487A1-20180412-C00134.TIF </img> & H
+266. & <img> id-US20180102487A1-20180412-C00135.TIF </img> & H & <img> id-US20180102487A1-20180412-C00136.TIF </img> & H
+267. & <img> id-US20180102487A1-20180412-C00137.TIF </img> & H & <img> id-US20180102487A1-20180412-C00138.TIF </img> & H
+268. & <img> id-US20180102487A1-20180412-C00139.TIF </img> & H & <img> id-US20180102487A1-20180412-C00140.TIF </img> & H
+269. & <img> id-US20180102487A1-20180412-C00141.TIF </img> & H & CH2CH3 & H
+270. & <img> id-US20180102487A1-20180412-C00142.TIF </img> & H & CH(CH3)2 & H
+271. & <img> id-US20180102487A1-20180412-C00143.TIF </img> & H & CH2CH(CH3)2 & H
+272. & <img> id-US20180102487A1-20180412-C00144.TIF </img> & H & C(CH3)3 & H
+273. & <img> id-US20180102487A1-20180412-C00145.TIF </img> & H & CH2C(CH3)3 & H
+274. & <img> id-US20180102487A1-20180412-C00146.TIF </img> & H & CH2CH2CF3 & H
+275. & <img> id-US20180102487A1-20180412-C00147.TIF </img> & H & CH2C(CH3)2CF3 & H
+276. & <img> id-US20180102487A1-20180412-C00148.TIF </img> & H & <img> id-US20180102487A1-20180412-C00149.TIF </img> & H
+277. & <img> id-US20180102487A1-20180412-C00150.TIF </img> & H & <img> id-US20180102487A1-20180412-C00151.TIF </img> & H
+278. & <img> id-US20180102487A1-20180412-C00152.TIF </img> & H & <img> id-US20180102487A1-20180412-C00153.TIF </img> & H
+279. & <img> id-US20180102487A1-20180412-C00154.TIF </img> & H & <img> id-US20180102487A1-20180412-C00155.TIF </img> & H
+280. & <img> id-US20180102487A1-20180412-C00156.TIF </img> & H & <img> id-US20180102487A1-20180412-C00157.TIF </img> & H
+281. & <img> id-US20180102487A1-20180412-C00158.TIF </img> & H & <img> id-US20180102487A1-20180412-C00159.TIF </img> & H
+282. & <img> id-US20180102487A1-20180412-C00160.TIF </img> & H & CH2CH(CH3)2 & H
+283. & <img> id-US20180102487A1-20180412-C00161.TIF </img> & H & C(CH3)3 & H
+284. & <img> id-US20180102487A1-20180412-C00162.TIF </img> & H & CH2C(CH3)3 & H
+285. & <img> id-US20180102487A1-20180412-C00163.TIF </img> & H & CH2CH2CF3 & H
+286. & <img> id-US20180102487A1-20180412-C00164.TIF </img> & H & CH2C(CH3)2CF3 & H
+287. & <img> id-US20180102487A1-20180412-C00165.TIF </img> & H & <img> id-US20180102487A1-20180412-C00166.TIF </img> & H
+288. & <img> id-US20180102487A1-20180412-C00167.TIF </img> & H & <img> id-US20180102487A1-20180412-C00168.TIF </img> & H
+289. & <img> id-US20180102487A1-20180412-C00169.TIF </img> & H & <img> id-US20180102487A1-20180412-C00170.TIF </img> & H
+290. & <img> id-US20180102487A1-20180412-C00171.TIF </img> & H & <img> id-US20180102487A1-20180412-C00172.TIF </img> & H
+291. & <img> id-US20180102487A1-20180412-C00173.TIF </img> & H & <img> id-US20180102487A1-20180412-C00174.TIF </img> & H
+292. & <img> id-US20180102487A1-20180412-C00175.TIF </img> & H & <img> id-US20180102487A1-20180412-C00176.TIF </img> & H
+293. & <img> id-US20180102487A1-20180412-C00177.TIF </img> & H & CH2CH(CH3)2 & H
+294. & <img> id-US20180102487A1-20180412-C00178.TIF </img> & H & C(CH3)3 & H
+295. & <img> id-US20180102487A1-20180412-C00179.TIF </img> & H & CH2C(CH3)3 & H
+296. & <img> id-US20180102487A1-20180412-C00180.TIF </img> & H & CH2CH2CF3 & H
+297. & <img> id-US20180102487A1-20180412-C00181.TIF </img> & H & CH2C(CH3)2CF3 & H
+298. & <img> id-US20180102487A1-20180412-C00182.TIF </img> & H & <img> id-US20180102487A1-20180412-C00183.TIF </img> & H
+299. & <img> id-US20180102487A1-20180412-C00184.TIF </img> & H & <img> id-US20180102487A1-20180412-C00185.TIF </img> & H
+300. & <img> id-US20180102487A1-20180412-C00186.TIF </img> & H & <img> id-US20180102487A1-20180412-C00187.TIF </img> & H
+301. & <img> id-US20180102487A1-20180412-C00188.TIF </img> & H & <img> id-US20180102487A1-20180412-C00189.TIF </img> & H
+302. & <img> id-US20180102487A1-20180412-C00190.TIF </img> & H & <img> id-US20180102487A1-20180412-C00191.TIF </img> & H
+303. & <img> id-US20180102487A1-20180412-C00192.TIF </img> & H & <img> id-US20180102487A1-20180412-C00193.TIF </img> & H
+304. & <img> id-US20180102487A1-20180412-C00194.TIF </img> & H & CH2CH(CH3)2 & H
+305. & <img> id-US20180102487A1-20180412-C00195.TIF </img> & H & C(CH3)3 & H
+306. & <img> id-US20180102487A1-20180412-C00196.TIF </img> & H & CH2C(CH3)3 & H
+307. & <img> id-US20180102487A1-20180412-C00197.TIF </img> & H & CH2CH2CF3 & H
+308. & <img> id-US20180102487A1-20180412-C00198.TIF </img> & H & CH2C(CH3)2CF3 & H
+309. & <img> id-US20180102487A1-20180412-C00199.TIF </img> & H & <img> id-US20180102487A1-20180412-C00200.TIF </img> & H
+310. & <img> id-US20180102487A1-20180412-C00201.TIF </img> & H & <img> id-US20180102487A1-20180412-C00202.TIF </img> & H
+311. & <img> id-US20180102487A1-20180412-C00203.TIF </img> & H & <img> id-US20180102487A1-20180412-C00204.TIF </img> & H
+312. & <img> id-US20180102487A1-20180412-C00205.TIF </img> & H & <img> id-US20180102487A1-20180412-C00206.TIF </img> & H
+313. & <img> id-US20180102487A1-20180412-C00207.TIF </img> & H & <img> id-US20180102487A1-20180412-C00208.TIF </img> & H
+314. & <img> id-US20180102487A1-20180412-C00209.TIF </img> & H & <img> id-US20180102487A1-20180412-C00210.TIF </img> & H
 315. & CD3 & H & H & H
 316. & CD3 & CD3 & H & CD3
 317. & CD3 & H & CD3 & H
@@ -519,102 +525,102 @@ i & RA1 & RA2 & RA3 & RA4
 432. & CD3 & CD3 & CD2CH2CF3 & H
 433. & CD3 & H & CD2CH2CF3 & CD3
 434. & CD3 & CD3 & CD2CH2CF3 & CD3
-435. &  & H & H & H
-436. &  & CD3 & H & CD3
-437. &  & H & CD3 & H
-438. &  & H & H & CD3
-439. &  & CD3 & CD3 & H
-440. &  & CD3 & H & CD3
-441. &  & H & CD3 & CD3
-442. &  & CD3 & CD3 & CD3
-443. & CD3 &  & H & CD3
-444. & CD3 &  & CD3 & H
-445. & CD3 &  & H & CD3
-446. & CD3 &  & CD3 & CD3
-447. & CD3 & H &  & H
-448. & CD3 & CD3 &  & H
-449. & CD3 & H &  & CD3
-450. & CD3 & CD3 &  & CD3
-451. &  & H & H & H
-452. &  & CD3 & H & CD3
-453. &  & H & CD3 & H
-454. &  & H & H & CD3
-455. &  & CD3 & CD3 & H
-456. &  & CD3 & H & CD3
-457. &  & H & CD3 & CD3
-458. &  & CD3 & CD3 & CD3
-459. & CH3 &  & H & CD3
-460. & CD3 &  & CD3 & H
-461. & CD3 &  & H & CD3
-462. & CH3 &  & CD3 & CD3
-463. & CD3 & H &  & H
-464. & CD3 & CD3 &  & H
-465. & CD3 & H &  & CD3
-466. & CD3 & CD3 &  & CD3
-467. &  & H & H & H
-468. &  & CD3 & H & CD3
-469. &  & H & CD3 & H
-470. &  & H & H & CD3
-471. &  & CD3 & CD3 & H
-472. &  & CD3 & H & CD3
-473. &  & H & CD3 & CD3
-474. &  & CD3 & CD3 & CD3
-475. & CD3 &  & H & CD3
-476. & CD3 &  & CD3 & H
-477. & CD3 &  & H & CD3
-478. & CD3 &  & CD3 & CD3
-479. & CD3 & H &  & H
-480. & CD3 & CD3 &  & H
-481. & CD3 & H &  & CD3
-482. & CD3 & CD3 &  & CD3
-483. &  & H & H & H
-484. &  & CD3 & H & CD3
-485. &  & H & CD3 & H
-486. &  & H & H & CD3
-487. &  & CD3 & CD3 & H
-488. &  & CD3 & H & CD3
-489. &  & H & CD3 & CD3
-490. &  & CD3 & CD3 & CD3
-491. & CD3 &  & H & CD3
-492. & CD3 &  & CD3 & H
-493. & CD3 &  & H & CD3
-494. & CD3 &  & CD3 & CD3
-495. & CD3 & H &  & H
-496. & CD3 & CD3 &  & H
-497. & CD3 & H &  & CD3
-498. & CD3 & CD3 &  & CD3
-499. &  & H & H & H
-500. &  & CD3 & H & CD3
-501. &  & H & CD3 & H
-502. &  & H & H & CD3
-503. &  & CD3 & CD3 & H
-504. &  & CD3 & H & CD3
-505. &  & H & CD3 & CD3
-506. &  & CD3 & CD3 & CD3
-507. & CD3 &  & H & CD3
-508. & CD3 &  & CD3 & H
-509. & CD3 &  & H & CD3
-510. & CD3 &  & CD3 & CD3
-511. & CD3 & H &  & H
-512. & CD3 & CD3 &  & H
-513. & CD3 & H &  & CD3
-514. & CD3 & CD3 &  & CD3
-515. &  & H & H & H
-516. &  & CD3 & H & CD3
-517. &  & H & CD3 & H
-518. &  & H & H & CD3
-519. &  & CH3 & CH3 & H
-520. &  & CD3 & H & CD3
-521. &  & H & CD3 & CD3
-522. &  & CD3 & CD3 & CD3
-523. & CD3 &  & H & CD3
-524. & CD3 &  & CD3 & H
-525. & CD3 &  & H & CD3
-526. & CD3 &  & CD3 & CD3
-527. & CD3 & H &  & H
-528. & CD3 & CD3 &  & H
-529. & CD3 & H &  & CD3
-530. & CD3 & CD3 &  & CD3
+435. & <img> id-US20180102487A1-20180412-C00211.TIF </img> & H & H & H
+436. & <img> id-US20180102487A1-20180412-C00212.TIF </img> & CD3 & H & CD3
+437. & <img> id-US20180102487A1-20180412-C00213.TIF </img> & H & CD3 & H
+438. & <img> id-US20180102487A1-20180412-C00214.TIF </img> & H & H & CD3
+439. & <img> id-US20180102487A1-20180412-C00215.TIF </img> & CD3 & CD3 & H
+440. & <img> id-US20180102487A1-20180412-C00216.TIF </img> & CD3 & H & CD3
+441. & <img> id-US20180102487A1-20180412-C00217.TIF </img> & H & CD3 & CD3
+442. & <img> id-US20180102487A1-20180412-C00218.TIF </img> & CD3 & CD3 & CD3
+443. & CD3 & <img> id-US20180102487A1-20180412-C00219.TIF </img> & H & CD3
+444. & CD3 & <img> id-US20180102487A1-20180412-C00220.TIF </img> & CD3 & H
+445. & CD3 & <img> id-US20180102487A1-20180412-C00221.TIF </img> & H & CD3
+446. & CD3 & <img> id-US20180102487A1-20180412-C00222.TIF </img> & CD3 & CD3
+447. & CD3 & H & <img> id-US20180102487A1-20180412-C00223.TIF </img> & H
+448. & CD3 & CD3 & <img> id-US20180102487A1-20180412-C00224.TIF </img> & H
+449. & CD3 & H & <img> id-US20180102487A1-20180412-C00225.TIF </img> & CD3
+450. & CD3 & CD3 & <img> id-US20180102487A1-20180412-C00226.TIF </img> & CD3
+451. & <img> id-US20180102487A1-20180412-C00227.TIF </img> & H & H & H
+452. & <img> id-US20180102487A1-20180412-C00228.TIF </img> & CD3 & H & CD3
+453. & <img> id-US20180102487A1-20180412-C00229.TIF </img> & H & CD3 & H
+454. & <img> id-US20180102487A1-20180412-C00230.TIF </img> & H & H & CD3
+455. & <img> id-US20180102487A1-20180412-C00231.TIF </img> & CD3 & CD3 & H
+456. & <img> id-US20180102487A1-20180412-C00232.TIF </img> & CD3 & H & CD3
+457. & <img> id-US20180102487A1-20180412-C00233.TIF </img> & H & CD3 & CD3
+458. & <img> id-US20180102487A1-20180412-C00234.TIF </img> & CD3 & CD3 & CD3
+459. & CH3 & <img> id-US20180102487A1-20180412-C00235.TIF </img> & H & CD3
+460. & CD3 & <img> id-US20180102487A1-20180412-C00236.TIF </img> & CD3 & H
+461. & CD3 & <img> id-US20180102487A1-20180412-C00237.TIF </img> & H & CD3
+462. & CH3 & <img> id-US20180102487A1-20180412-C00238.TIF </img> & CD3 & CD3
+463. & CD3 & H & <img> id-US20180102487A1-20180412-C00239.TIF </img> & H
+464. & CD3 & CD3 & <img> id-US20180102487A1-20180412-C00240.TIF </img> & H
+465. & CD3 & H & <img> id-US20180102487A1-20180412-C00241.TIF </img> & CD3
+466. & CD3 & CD3 & <img> id-US20180102487A1-20180412-C00242.TIF </img> & CD3
+467. & <img> id-US20180102487A1-20180412-C00243.TIF </img> & H & H & H
+468. & <img> id-US20180102487A1-20180412-C00244.TIF </img> & CD3 & H & CD3
+469. & <img> id-US20180102487A1-20180412-C00245.TIF </img> & H & CD3 & H
+470. & <img> id-US20180102487A1-20180412-C00246.TIF </img> & H & H & CD3
+471. & <img> id-US20180102487A1-20180412-C00247.TIF </img> & CD3 & CD3 & H
+472. & <img> id-US20180102487A1-20180412-C00248.TIF </img> & CD3 & H & CD3
+473. & <img> id-US20180102487A1-20180412-C00249.TIF </img> & H & CD3 & CD3
+474. & <img> id-US20180102487A1-20180412-C00250.TIF </img> & CD3 & CD3 & CD3
+475. & CD3 & <img> id-US20180102487A1-20180412-C00251.TIF </img> & H & CD3
+476. & CD3 & <img> id-US20180102487A1-20180412-C00252.TIF </img> & CD3 & H
+477. & CD3 & <img> id-US20180102487A1-20180412-C00253.TIF </img> & H & CD3
+478. & CD3 & <img> id-US20180102487A1-20180412-C00254.TIF </img> & CD3 & CD3
+479. & CD3 & H & <img> id-US20180102487A1-20180412-C00255.TIF </img> & H
+480. & CD3 & CD3 & <img> id-US20180102487A1-20180412-C00256.TIF </img> & H
+481. & CD3 & H & <img> id-US20180102487A1-20180412-C00257.TIF </img> & CD3
+482. & CD3 & CD3 & <img> id-US20180102487A1-20180412-C00258.TIF </img> & CD3
+483. & <img> id-US20180102487A1-20180412-C00259.TIF </img> & H & H & H
+484. & <img> id-US20180102487A1-20180412-C00260.TIF </img> & CD3 & H & CD3
+485. & <img> id-US20180102487A1-20180412-C00261.TIF </img> & H & CD3 & H
+486. & <img> id-US20180102487A1-20180412-C00262.TIF </img> & H & H & CD3
+487. & <img> id-US20180102487A1-20180412-C00263.TIF </img> & CD3 & CD3 & H
+488. & <img> id-US20180102487A1-20180412-C00264.TIF </img> & CD3 & H & CD3
+489. & <img> id-US20180102487A1-20180412-C00265.TIF </img> & H & CD3 & CD3
+490. & <img> id-US20180102487A1-20180412-C00266.TIF </img> & CD3 & CD3 & CD3
+491. & CD3 & <img> id-US20180102487A1-20180412-C00267.TIF </img> & H & CD3
+492. & CD3 & <img> id-US20180102487A1-20180412-C00268.TIF </img> & CD3 & H
+493. & CD3 & <img> id-US20180102487A1-20180412-C00269.TIF </img> & H & CD3
+494. & CD3 & <img> id-US20180102487A1-20180412-C00270.TIF </img> & CD3 & CD3
+495. & CD3 & H & <img> id-US20180102487A1-20180412-C00271.TIF </img> & H
+496. & CD3 & CD3 & <img> id-US20180102487A1-20180412-C00272.TIF </img> & H
+497. & CD3 & H & <img> id-US20180102487A1-20180412-C00273.TIF </img> & CD3
+498. & CD3 & CD3 & <img> id-US20180102487A1-20180412-C00274.TIF </img> & CD3
+499. & <img> id-US20180102487A1-20180412-C00275.TIF </img> & H & H & H
+500. & <img> id-US20180102487A1-20180412-C00276.TIF </img> & CD3 & H & CD3
+501. & <img> id-US20180102487A1-20180412-C00277.TIF </img> & H & CD3 & H
+502. & <img> id-US20180102487A1-20180412-C00278.TIF </img> & H & H & CD3
+503. & <img> id-US20180102487A1-20180412-C00279.TIF </img> & CD3 & CD3 & H
+504. & <img> id-US20180102487A1-20180412-C00280.TIF </img> & CD3 & H & CD3
+505. & <img> id-US20180102487A1-20180412-C00281.TIF </img> & H & CD3 & CD3
+506. & <img> id-US20180102487A1-20180412-C00282.TIF </img> & CD3 & CD3 & CD3
+507. & CD3 & <img> id-US20180102487A1-20180412-C00283.TIF </img> & H & CD3
+508. & CD3 & <img> id-US20180102487A1-20180412-C00284.TIF </img> & CD3 & H
+509. & CD3 & <img> id-US20180102487A1-20180412-C00285.TIF </img> & H & CD3
+510. & CD3 & <img> id-US20180102487A1-20180412-C00286.TIF </img> & CD3 & CD3
+511. & CD3 & H & <img> id-US20180102487A1-20180412-C00287.TIF </img> & H
+512. & CD3 & CD3 & <img> id-US20180102487A1-20180412-C00288.TIF </img> & H
+513. & CD3 & H & <img> id-US20180102487A1-20180412-C00289.TIF </img> & CD3
+514. & CD3 & CD3 & <img> id-US20180102487A1-20180412-C00290.TIF </img> & CD3
+515. & <img> id-US20180102487A1-20180412-C00291.TIF </img> & H & H & H
+516. & <img> id-US20180102487A1-20180412-C00292.TIF </img> & CD3 & H & CD3
+517. & <img> id-US20180102487A1-20180412-C00293.TIF </img> & H & CD3 & H
+518. & <img> id-US20180102487A1-20180412-C00294.TIF </img> & H & H & CD3
+519. & <img> id-US20180102487A1-20180412-C00295.TIF </img> & CH3 & CH3 & H
+520. & <img> id-US20180102487A1-20180412-C00296.TIF </img> & CD3 & H & CD3
+521. & <img> id-US20180102487A1-20180412-C00297.TIF </img> & H & CD3 & CD3
+522. & <img> id-US20180102487A1-20180412-C00298.TIF </img> & CD3 & CD3 & CD3
+523. & CD3 & <img> id-US20180102487A1-20180412-C00299.TIF </img> & H & CD3
+524. & CD3 & <img> id-US20180102487A1-20180412-C00300.TIF </img> & CD3 & H
+525. & CD3 & <img> id-US20180102487A1-20180412-C00301.TIF </img> & H & CD3
+526. & CD3 & <img> id-US20180102487A1-20180412-C00302.TIF </img> & CD3 & CD3
+527. & CD3 & H & <img> id-US20180102487A1-20180412-C00303.TIF </img> & H
+528. & CD3 & CD3 & <img> id-US20180102487A1-20180412-C00304.TIF </img> & H
+529. & CD3 & H & <img> id-US20180102487A1-20180412-C00305.TIF </img> & CD3
+530. & CD3 & CD3 & <img> id-US20180102487A1-20180412-C00306.TIF </img> & CD3
 531. & CD(CH3)2 & H & CD2CH3 & H
 532. & CD(CH3)2 & H & CD(CH3)2 & H
 533. & CD(CH3)2 & H & CD2CH(CH3)2 & H
@@ -622,12 +628,12 @@ i & RA1 & RA2 & RA3 & RA4
 535. & CD(CH3)2 & H & CD2C(CH3)3 & H
 536. & CD(CH3)2 & H & CD2CH2CF3 & H
 537. & CD(CH3)2 & H & CD2C(CH3)2CF3 & H
-538. & CD(CH3)2 & H &  & H
-539. & CD(CH3)2 & H &  & H
-540. & CD(CH3)2 & H &  & H
-541. & CD(CH3)2 & H &  & H
-542. & CD(CH3)2 & H &  & H
-543. & CD(CH3)2 & H &  & H
+538. & CD(CH3)2 & H & <img> id-US20180102487A1-20180412-C00307.TIF </img> & H
+539. & CD(CH3)2 & H & <img> id-US20180102487A1-20180412-C00308.TIF </img> & H
+540. & CD(CH3)2 & H & <img> id-US20180102487A1-20180412-C00309.TIF </img> & H
+541. & CD(CH3)2 & H & <img> id-US20180102487A1-20180412-C00310.TIF </img> & H
+542. & CD(CH3)2 & H & <img> id-US20180102487A1-20180412-C00311.TIF </img> & H
+543. & CD(CH3)2 & H & <img> id-US20180102487A1-20180412-C00312.TIF </img> & H
 544. & C(CH3)3 & H & CD2CH3 & H
 545. & C(CH3)3 & H & CD(CH3)2 & H
 546. & C(CH3)3 & H & CD2CH(CH3)2 & H
@@ -635,12 +641,12 @@ i & RA1 & RA2 & RA3 & RA4
 548. & C(CH3)3 & H & CD2C(CH3)3 & H
 549. & C(CH3)3 & H & CD2CH2CF3 & H
 550. & C(CH3)3 & H & CD2C(CH3)2CF3 & H
-551. & C(CH3)3 & H &  & H
-552. & C(CH3)3 & H &  & H
-553. & C(CH3)3 & H &  & H
-554. & C(CH3)3 & H &  & H
-555. & C(CH3)3 & H &  & H
-556. & C(CH3)3 & H &  & H
+551. & C(CH3)3 & H & <img> id-US20180102487A1-20180412-C00313.TIF </img> & H
+552. & C(CH3)3 & H & <img> id-US20180102487A1-20180412-C00314.TIF </img> & H
+553. & C(CH3)3 & H & <img> id-US20180102487A1-20180412-C00315.TIF </img> & H
+554. & C(CH3)3 & H & <img> id-US20180102487A1-20180412-C00316.TIF </img> & H
+555. & C(CH3)3 & H & <img> id-US20180102487A1-20180412-C00317.TIF </img> & H
+556. & C(CH3)3 & H & <img> id-US20180102487A1-20180412-C00318.TIF </img> & H
 557. & CD2C(CH3)3 & H & CD2CH3 & H
 558. & CD2C(CH3)3 & H & CD(CH3)2 & H
 559. & CD2C(CH3)3 & H & CD2CH(CH3)2 & H
@@ -648,79 +654,80 @@ i & RA1 & RA2 & RA3 & RA4
 561. & CD2C(CH3)3 & H & CD2C(CH3)3 & H
 562. & CD2C(CH3)3 & H & CD2CH2CF3 & H
 563. & CD2C(CH3)3 & H & CD2C(CH3)2CF3 & H
-564. & CD2C(CH3)3 & H &  & H
-565. & CD2C(CH3)3 & H &  & H
-566. & CD2C(CH3)3 & H &  & H
-567. & CD2C(CH3)3 & H &  & H
-568. & CD2C(CH3)3 & H &  & H
-569. & CD2C(CH3)3 & H &  & H
-570. &  & H & CD2CH3 & H
-571. &  & H & CD(CH3)2 & H
-572. &  & H & CD2CH(CH3)2 & H
-573. &  & H & C(CH3)3 & H
-574. &  & H & CD2C(CH3)3 & H
-575. &  & H & CD2CH2CF3 & H
-576. &  & H & CD2C(CH3)2CF3 & H
-577. &  & H &  & H
-578. &  & H &  & H
-579. &  & H &  & H
-580. &  & H &  & H
-581. &  & H &  & H
-582. &  & H &  & H
-583. &  & H & CD2CH3 & H
-584. &  & H & CD(CH3)2 & H
-585. &  & H & CD2CH(CH3)2 & H
-586. &  & H & C(CH3)3 & H
-587. &  & H & CD2C(CH3)3 & H
-588. &  & H & CD2CH2CF3 & H
-589. &  & H & CD2C(CH3)2CF3 & H
-590. &  & H &  & H
-591. &  & H &  & H
-592. &  & H &  & H
-593. &  & H &  & H
-594. &  & H &  & H
-595. &  & H &  & H
-596. &  & H & CD2CH3 & H
-597. &  & H & CD(CH3)2 & H
-598. &  & H & CD2CH(CH3)2 & H
-599. &  & H & C(CH3)3 & H
-600. &  & H & CD2C(CH3)3 & H
-601. &  & H & CD2CH2CF3 & H
-602. &  & H & CD2C(CH3)2CF3 & H
-603. &  & H &  & H
-604. &  & H &  & H
-605. &  & H &  & H
-606. &  & H &  & H
-607. &  & H &  & H
-608. &  & H &  & H
-609. &  & H & CD2CH3 & H
-610. &  & H & CD(CH3)2 & H
-611. &  & H & CD2CH(CH3)2 & H
-612. &  & H & C(CH3)3 & H
-613. &  & H & CD2C(CH3)3 & H
-614. &  & H & CD2CH2CF3 & H
-615. &  & H & CD2C(CH3)2CF3 & H
-616 . &  & H &  & H
-617. &  & H &  & H
-618. &  & H &  & H
-619. &  & H &  & H
-620. &  & H &  & H
-621. &  & H &  & H
-622. &  & H & CD2CH3 & H
-623. &  & H & CD(CH3)2 & H
-624. &  & H & CD2CH(CH3)2 & H
-625. &  & H & C(CH3)3 & H
-626. &  & H & CD2C(CH3)3 & H
-627. &  & H & CD2CH2CF3 & H
-628. &  & H & CD2C(CH3)2CF3 & H
-629 . &  & H &  & H
-630. &  & H &  & H
-631. &  & H &  & H
-632. &  & H &  & H
-633. &  & H &  & H
-634. &  & H &  & H
+564. & CD2C(CH3)3 & H & <img> id-US20180102487A1-20180412-C00319.TIF </img> & H
+565. & CD2C(CH3)3 & H & <img> id-US20180102487A1-20180412-C00320.TIF </img> & H
+566. & CD2C(CH3)3 & H & <img> id-US20180102487A1-20180412-C00321.TIF </img> & H
+567. & CD2C(CH3)3 & H & <img> id-US20180102487A1-20180412-C00322.TIF </img> & H
+568. & CD2C(CH3)3 & H & <img> id-US20180102487A1-20180412-C00323.TIF </img> & H
+569. & CD2C(CH3)3 & H & <img> id-US20180102487A1-20180412-C00324.TIF </img> & H
+570. & <img> id-US20180102487A1-20180412-C00325.TIF </img> & H & CD2CH3 & H
+571. & <img> id-US20180102487A1-20180412-C00326.TIF </img> & H & CD(CH3)2 & H
+572. & <img> id-US20180102487A1-20180412-C00327.TIF </img> & H & CD2CH(CH3)2 & H
+573. & <img> id-US20180102487A1-20180412-C00328.TIF </img> & H & C(CH3)3 & H
+574. & <img> id-US20180102487A1-20180412-C00329.TIF </img> & H & CD2C(CH3)3 & H
+575. & <img> id-US20180102487A1-20180412-C00330.TIF </img> & H & CD2CH2CF3 & H
+576. & <img> id-US20180102487A1-20180412-C00331.TIF </img> & H & CD2C(CH3)2CF3 & H
+577. & <img> id-US20180102487A1-20180412-C00332.TIF </img> & H & <img> id-US20180102487A1-20180412-C00333.TIF </img> & H
+578. & <img> id-US20180102487A1-20180412-C00334.TIF </img> & H & <img> id-US20180102487A1-20180412-C00335.TIF </img> & H
+579. & <img> id-US20180102487A1-20180412-C00336.TIF </img> & H & <img> id-US20180102487A1-20180412-C00337.TIF </img> & H
+580. & <img> id-US20180102487A1-20180412-C00338.TIF </img> & H & <img> id-US20180102487A1-20180412-C00339.TIF </img> & H
+581. & <img> id-US20180102487A1-20180412-C00340.TIF </img> & H & <img> id-US20180102487A1-20180412-C00341.TIF </img> & H
+582. & <img> id-US20180102487A1-20180412-C00342.TIF </img> & H & <img> id-US20180102487A1-20180412-C00343.TIF </img> & H
+583. & <img> id-US20180102487A1-20180412-C00344.TIF </img> & H & CD2CH3 & H
+584. & <img> id-US20180102487A1-20180412-C00345.TIF </img> & H & CD(CH3)2 & H
+585. & <img> id-US20180102487A1-20180412-C00346.TIF </img> & H & CD2CH(CH3)2 & H
+586. & <img> id-US20180102487A1-20180412-C00347.TIF </img> & H & C(CH3)3 & H
+587. & <img> id-US20180102487A1-20180412-C00348.TIF </img> & H & CD2C(CH3)3 & H
+588. & <img> id-US20180102487A1-20180412-C00349.TIF </img> & H & CD2CH2CF3 & H
+589. & <img> id-US20180102487A1-20180412-C00350.TIF </img> & H & CD2C(CH3)2CF3 & H
+590. & <img> id-US20180102487A1-20180412-C00351.TIF </img> & H & <img> id-US20180102487A1-20180412-C00352.TIF </img> & H
+591. & <img> id-US20180102487A1-20180412-C00353.TIF </img> & H & <img> id-US20180102487A1-20180412-C00354.TIF </img> & H
+592. & <img> id-US20180102487A1-20180412-C00355.TIF </img> & H & <img> id-US20180102487A1-20180412-C00356.TIF </img> & H
+593. & <img> id-US20180102487A1-20180412-C00357.TIF </img> & H & <img> id-US20180102487A1-20180412-C00358.TIF </img> & H
+594. & <img> id-US20180102487A1-20180412-C00359.TIF </img> & H & <img> id-US20180102487A1-20180412-C00360.TIF </img> & H
+595. & <img> id-US20180102487A1-20180412-C00361.TIF </img> & H & <img> id-US20180102487A1-20180412-C00362.TIF </img> & H
+596. & <img> id-US20180102487A1-20180412-C00363.TIF </img> & H & CD2CH3 & H
+597. & <img> id-US20180102487A1-20180412-C00364.TIF </img> & H & CD(CH3)2 & H
+598. & <img> id-US20180102487A1-20180412-C00365.TIF </img> & H & CD2CH(CH3)2 & H
+599. & <img> id-US20180102487A1-20180412-C00366.TIF </img> & H & C(CH3)3 & H
+600. & <img> id-US20180102487A1-20180412-C00367.TIF </img> & H & CD2C(CH3)3 & H
+601. & <img> id-US20180102487A1-20180412-C00368.TIF </img> & H & CD2CH2CF3 & H
+602. & <img> id-US20180102487A1-20180412-C00369.TIF </img> & H & CD2C(CH3)2CF3 & H
+603. & <img> id-US20180102487A1-20180412-C00370.TIF </img> & H & <img> id-US20180102487A1-20180412-C00371.TIF </img> & H
+604. & <img> id-US20180102487A1-20180412-C00372.TIF </img> & H & <img> id-US20180102487A1-20180412-C00373.TIF </img> & H
+605. & <img> id-US20180102487A1-20180412-C00374.TIF </img> & H & <img> id-US20180102487A1-20180412-C00375.TIF </img> & H
+606. & <img> id-US20180102487A1-20180412-C00376.TIF </img> & H & <img> id-US20180102487A1-20180412-C00377.TIF </img> & H
+607. & <img> id-US20180102487A1-20180412-C00378.TIF </img> & H & <img> id-US20180102487A1-20180412-C00379.TIF </img> & H
+608. & <img> id-US20180102487A1-20180412-C00380.TIF </img> & H & <img> id-US20180102487A1-20180412-C00381.TIF </img> & H
+609. & <img> id-US20180102487A1-20180412-C00382.TIF </img> & H & CD2CH3 & H
+610. & <img> id-US20180102487A1-20180412-C00383.TIF </img> & H & CD(CH3)2 & H
+611. & <img> id-US20180102487A1-20180412-C00384.TIF </img> & H & CD2CH(CH3)2 & H
+612. & <img> id-US20180102487A1-20180412-C00385.TIF </img> & H & C(CH3)3 & H
+613. & <img> id-US20180102487A1-20180412-C00386.TIF </img> & H & CD2C(CH3)3 & H
+614. & <img> id-US20180102487A1-20180412-C00387.TIF </img> & H & CD2CH2CF3 & H
+615. & <img> id-US20180102487A1-20180412-C00388.TIF </img> & H & CD2C(CH3)2CF3 & H
+616 . & <img> id-US20180102487A1-20180412-C00389.TIF </img> & H & <img> id-US20180102487A1-20180412-C00390.TIF </img> & H
+617. & <img> id-US20180102487A1-20180412-C00391.TIF </img> & H & <img> id-US20180102487A1-20180412-C00392.TIF </img> & H
+618. & <img> id-US20180102487A1-20180412-C00393.TIF </img> & H & <img> id-US20180102487A1-20180412-C00394.TIF </img> & H
+619. & <img> id-US20180102487A1-20180412-C00395.TIF </img> & H & <img> id-US20180102487A1-20180412-C00396.TIF </img> & H
+620. & <img> id-US20180102487A1-20180412-C00397.TIF </img> & H & <img> id-US20180102487A1-20180412-C00398.TIF </img> & H
+621. & <img> id-US20180102487A1-20180412-C00399.TIF </img> & H & <img> id-US20180102487A1-20180412-C00400.TIF </img> & H
+622. & <img> id-US20180102487A1-20180412-C00401.TIF </img> & H & CD2CH3 & H
+623. & <img> id-US20180102487A1-20180412-C00402.TIF </img> & H & CD(CH3)2 & H
+624. & <img> id-US20180102487A1-20180412-C00403.TIF </img> & H & CD2CH(CH3)2 & H
+625. & <img> id-US20180102487A1-20180412-C00404.TIF </img> & H & C(CH3)3 & H
+626. & <img> id-US20180102487A1-20180412-C00405.TIF </img> & H & CD2C(CH3)3 & H
+627. & <img> id-US20180102487A1-20180412-C00406.TIF </img> & H & CD2CH2CF3 & H
+628. & <img> id-US20180102487A1-20180412-C00407.TIF </img> & H & CD2C(CH3)2CF3 & H
+629 . & <img> id-US20180102487A1-20180412-C00408.TIF </img> & H & <img> id-US20180102487A1-20180412-C00409.TIF </img> & H
+630. & <img> id-US20180102487A1-20180412-C00410.TIF </img> & H & <img> id-US20180102487A1-20180412-C00411.TIF </img> & H
+631. & <img> id-US20180102487A1-20180412-C00412.TIF </img> & H & <img> id-US20180102487A1-20180412-C00413.TIF </img> & H
+632. & <img> id-US20180102487A1-20180412-C00414.TIF </img> & H & <img> id-US20180102487A1-20180412-C00415.TIF </img> & H
+633. & <img> id-US20180102487A1-20180412-C00416.TIF </img> & H & <img> id-US20180102487A1-20180412-C00417.TIF </img> & H
+634. & <img> id-US20180102487A1-20180412-C00418.TIF </img> & H & <img> id-US20180102487A1-20180412-C00419.TIF </img> & H
 </table>
 In some embodiments, LB is selected from the group consisting of LB1 to LB856, where LB,b has the structure:
+<img> id-US20180102487A1-20180412-C00420.TIF </img>
 wherein b is an integer from 1 to 856, and the substituents RB1, RB2, RB3 and RB4 are defined as follows:
 <table>
 <header>
@@ -915,150 +922,150 @@ b & RB1 & RB2 & RB3 & RB4
 181. & CH3 & H & CH2CH2CF3 & CH3
 182. & H & CH3 & CH2CH2CF3 & CH3
 183. & CH3 & CH3 & CH2CH2CF3 & CH3
-184. &  & H & H & H
-185. &  & CH3 & H & CH3
-186. &  & H & CH3 & H
-187. &  & H & H & CH3
-188. &  & CH3 & CH3 & H
-189. &  & CH3 & H & CH3
-190. &  & H & CH3 & CH3
-191. &  & CH3 & CH3 & CH3
-192. & H &  & H & H
-193. & CH3 &  & H & CH3
-194. & H &  & CH3 & H
-195. & H &  & H & CH3
-196. & CH3 &  & CH3 & H
-197. & CH3 &  & H & CH3
-198. & H &  & CH3 & CH3
-199. & CH3 &  & CH3 & CH3
-200. & H & H &  & H
-201. & CH3 & H &  & H
-202. & H & CH3 &  & H
-203. & H & H &  & CH3
-204. & CH3 & CH3 &  & H
-205. & CH3 & H &  & CH3
-206. & H & CH3 &  & CH3
-207. & CH3 & CH3 &  & CH3
-208. &  & H & H & H
-209. &  & CH3 & H & CH3
-210. &  & H & CH3 & H
-211. &  & H & H & CH3
-212. &  & CH3 & CH3 & H
-213. &  & CH3 & H & CH3
-214. &  & H & CH3 & CH3
-215. &  & CH3 & CH3 & CH3
-216. & H &  & H & H
-217. & CH3 &  & H & CH3
-218. & H &  & CH3 & H
-219. & H &  & H & CH3
-220. & CH3 &  & CH3 & H
-221. & CH3 &  & H & CH3
-222. & H &  & CH3 & CH3
-223. & CH3 &  & CH3 & CH3
-224. & H & H &  & H
-225. & CH3 & H &  & H
-226. & H & CH3 &  & H
-227. & H & H &  & CH3
-228. & CH3 & CH3 &  & H
-229. & CH3 & H &  & CH3
-230. & H & CH3 &  & CH3
-231. & CH3 & CH3 &  & CH3
-232. &  & H & H & H
-233. &  & CH3 & H & CH3
-234. &  & H & CH3 & H
-235. &  & H & H & CH3
-236. &  & CH3 & CH3 & H
-237. &  & CH3 & H & CH3
-238. &  & H & CH3 & CH3
-239. &  & CH3 & CH3 & CH3
-240. & H &  & H & H
-241. & CH3 &  & H & CH3
-242. & H &  & CH3 & H
-243. & H &  & H & CH3
-244. & CH3 &  & CH3 & H
-245. & CH3 &  & H & CH3
-246. & H &  & CH3 & CH3
-247. & CH3 &  & CH3 & CH3
-248. & H & H &  & H
-249. & CH3 & H &  & H
-250. & H & CH3 &  & H
-251. & H & H &  & CH3
-252. & CH3 & CH3 &  & H
-253. & CH3 & H &  & CH3
-254. & H & CH3 &  & CH3
-255. & CH3 & CH3 &  & CH3
-256. &  & H & H & H
-257. &  & CH3 & H & CH3
-258. &  & H & CH3 & H
-259. &  & H & H & CH3
-260. &  & CH3 & CH3 & H
-261. &  & CH3 & H & CH3
-262. &  & H & CH3 & CH3
-263. &  & CH3 & CH3 & CH3
-264. & H &  & H & H
-265. & CH3 &  & H & CH3
-266. & H &  & CH3 & H
-267. & H &  & H & CH3
-268. & CH3 &  & CH3 & H
-269. & CH3 &  & H & CH3
-270. & H &  & CH3 & CH3
-271. & CH3 &  & CH3 & CH3
-272. & H & H &  & H
-273. & CH3 & H &  & H
-274. & H & CH3 &  & H
-275. & H & H &  & CH3
-276. & CH3 & CH3 &  & H
-277. & CH3 & H &  & CH3
-278. & H & CH3 &  & CH3
-279. & CH3 & CH3 &  & CH3
-280. &  & H & H & H
-281. &  & CH3 & H & CH3
-282. &  & H & CH3 & H
-283. &  & H & H & CH3
-284. &  & CH3 & CH3 & H
-285. &  & CH3 & H & CH3
-286. &  & H & CH3 & CH3
-287. &  & CH3 & CH3 & CH3
-288. & H &  & H & H
-289. & CH3 &  & H & CH3
-290. & H &  & CH3 & H
-291. & H &  & H & CH3
-292. & CH3 &  & CH3 & H
-293. & CH3 &  & H & CH3
-294. & H &  & CH3 & CH3
-295. & CH3 &  & CH3 & CH3
-296. & H & H &  & H
-297. & CH3 & H &  & H
-298. & H & CH3 &  & H
-299. & H & H &  & CH3
-300. & CH3 & CH3 &  & H
-301. & CH3 & H &  & CH3
-302. & H & CH3 &  & CH3
-303. & CH3 & CH3 &  & CH3
-304. &  & H & H & H
-305. &  & CH3 & H & CH3
-306. &  & H & CH3 & H
-307. &  & H & H & CH3
-308. &  & CH3 & CH3 & H
-309. &  & CH3 & H & CH3
-310. &  & H & CH3 & CH3
-311. &  & CH3 & CH3 & CH3
-312. & H &  & H & H
-313. & CH3 &  & H & CH3
-314. & H &  & CH3 & H
-315. & H &  & H & CH3
-316. & CH3 &  & CH3 & H
-317. & CH3 &  & H & CH3
-318. & H &  & CH3 & CH3
-319. & CH3 &  & CH3 & CH3
-320. & H & H &  & H
-321. & CH3 & H &  & H
-322. & H & CH3 &  & H
-323. & H & H &  & CH3
-324. & CH3 & CH3 &  & H
-325. & CH3 & H &  & CH3
-326. & H & CH3 &  & CH3
-327. & CH3 & CH3 &  & CH3
+184. & <img> id-US20180102487A1-20180412-C00421.TIF </img> & H & H & H
+185. & <img> id-US20180102487A1-20180412-C00422.TIF </img> & CH3 & H & CH3
+186. & <img> id-US20180102487A1-20180412-C00423.TIF </img> & H & CH3 & H
+187. & <img> id-US20180102487A1-20180412-C00424.TIF </img> & H & H & CH3
+188. & <img> id-US20180102487A1-20180412-C00425.TIF </img> & CH3 & CH3 & H
+189. & <img> id-US20180102487A1-20180412-C00426.TIF </img> & CH3 & H & CH3
+190. & <img> id-US20180102487A1-20180412-C00427.TIF </img> & H & CH3 & CH3
+191. & <img> id-US20180102487A1-20180412-C00428.TIF </img> & CH3 & CH3 & CH3
+192. & H & <img> id-US20180102487A1-20180412-C00429.TIF </img> & H & H
+193. & CH3 & <img> id-US20180102487A1-20180412-C00430.TIF </img> & H & CH3
+194. & H & <img> id-US20180102487A1-20180412-C00431.TIF </img> & CH3 & H
+195. & H & <img> id-US20180102487A1-20180412-C00432.TIF </img> & H & CH3
+196. & CH3 & <img> id-US20180102487A1-20180412-C00433.TIF </img> & CH3 & H
+197. & CH3 & <img> id-US20180102487A1-20180412-C00434.TIF </img> & H & CH3
+198. & H & <img> id-US20180102487A1-20180412-C00435.TIF </img> & CH3 & CH3
+199. & CH3 & <img> id-US20180102487A1-20180412-C00436.TIF </img> & CH3 & CH3
+200. & H & H & <img> id-US20180102487A1-20180412-C00437.TIF </img> & H
+201. & CH3 & H & <img> id-US20180102487A1-20180412-C00438.TIF </img> & H
+202. & H & CH3 & <img> id-US20180102487A1-20180412-C00439.TIF </img> & H
+203. & H & H & <img> id-US20180102487A1-20180412-C00440.TIF </img> & CH3
+204. & CH3 & CH3 & <img> id-US20180102487A1-20180412-C00441.TIF </img> & H
+205. & CH3 & H & <img> id-US20180102487A1-20180412-C00442.TIF </img> & CH3
+206. & H & CH3 & <img> id-US20180102487A1-20180412-C00443.TIF </img> & CH3
+207. & CH3 & CH3 & <img> id-US20180102487A1-20180412-C00444.TIF </img> & CH3
+208. & <img> id-US20180102487A1-20180412-C00445.TIF </img> & H & H & H
+209. & <img> id-US20180102487A1-20180412-C00446.TIF </img> & CH3 & H & CH3
+210. & <img> id-US20180102487A1-20180412-C00447.TIF </img> & H & CH3 & H
+211. & <img> id-US20180102487A1-20180412-C00448.TIF </img> & H & H & CH3
+212. & <img> id-US20180102487A1-20180412-C00449.TIF </img> & CH3 & CH3 & H
+213. & <img> id-US20180102487A1-20180412-C00450.TIF </img> & CH3 & H & CH3
+214. & <img> id-US20180102487A1-20180412-C00451.TIF </img> & H & CH3 & CH3
+215. & <img> id-US20180102487A1-20180412-C00452.TIF </img> & CH3 & CH3 & CH3
+216. & H & <img> id-US20180102487A1-20180412-C00453.TIF </img> & H & H
+217. & CH3 & <img> id-US20180102487A1-20180412-C00454.TIF </img> & H & CH3
+218. & H & <img> id-US20180102487A1-20180412-C00455.TIF </img> & CH3 & H
+219. & H & <img> id-US20180102487A1-20180412-C00456.TIF </img> & H & CH3
+220. & CH3 & <img> id-US20180102487A1-20180412-C00457.TIF </img> & CH3 & H
+221. & CH3 & <img> id-US20180102487A1-20180412-C00458.TIF </img> & H & CH3
+222. & H & <img> id-US20180102487A1-20180412-C00459.TIF </img> & CH3 & CH3
+223. & CH3 & <img> id-US20180102487A1-20180412-C00460.TIF </img> & CH3 & CH3
+224. & H & H & <img> id-US20180102487A1-20180412-C00461.TIF </img> & H
+225. & CH3 & H & <img> id-US20180102487A1-20180412-C00462.TIF </img> & H
+226. & H & CH3 & <img> id-US20180102487A1-20180412-C00463.TIF </img> & H
+227. & H & H & <img> id-US20180102487A1-20180412-C00464.TIF </img> & CH3
+228. & CH3 & CH3 & <img> id-US20180102487A1-20180412-C00465.TIF </img> & H
+229. & CH3 & H & <img> id-US20180102487A1-20180412-C00466.TIF </img> & CH3
+230. & H & CH3 & <img> id-US20180102487A1-20180412-C00467.TIF </img> & CH3
+231. & CH3 & CH3 & <img> id-US20180102487A1-20180412-C00468.TIF </img> & CH3
+232. & <img> id-US20180102487A1-20180412-C00469.TIF </img> & H & H & H
+233. & <img> id-US20180102487A1-20180412-C00470.TIF </img> & CH3 & H & CH3
+234. & <img> id-US20180102487A1-20180412-C00471.TIF </img> & H & CH3 & H
+235. & <img> id-US20180102487A1-20180412-C00472.TIF </img> & H & H & CH3
+236. & <img> id-US20180102487A1-20180412-C00473.TIF </img> & CH3 & CH3 & H
+237. & <img> id-US20180102487A1-20180412-C00474.TIF </img> & CH3 & H & CH3
+238. & <img> id-US20180102487A1-20180412-C00475.TIF </img> & H & CH3 & CH3
+239. & <img> id-US20180102487A1-20180412-C00476.TIF </img> & CH3 & CH3 & CH3
+240. & H & <img> id-US20180102487A1-20180412-C00477.TIF </img> & H & H
+241. & CH3 & <img> id-US20180102487A1-20180412-C00478.TIF </img> & H & CH3
+242. & H & <img> id-US20180102487A1-20180412-C00479.TIF </img> & CH3 & H
+243. & H & <img> id-US20180102487A1-20180412-C00480.TIF </img> & H & CH3
+244. & CH3 & <img> id-US20180102487A1-20180412-C00481.TIF </img> & CH3 & H
+245. & CH3 & <img> id-US20180102487A1-20180412-C00482.TIF </img> & H & CH3
+246. & H & <img> id-US20180102487A1-20180412-C00483.TIF </img> & CH3 & CH3
+247. & CH3 & <img> id-US20180102487A1-20180412-C00484.TIF </img> & CH3 & CH3
+248. & H & H & <img> id-US20180102487A1-20180412-C00485.TIF </img> & H
+249. & CH3 & H & <img> id-US20180102487A1-20180412-C00486.TIF </img> & H
+250. & H & CH3 & <img> id-US20180102487A1-20180412-C00487.TIF </img> & H
+251. & H & H & <img> id-US20180102487A1-20180412-C00488.TIF </img> & CH3
+252. & CH3 & CH3 & <img> id-US20180102487A1-20180412-C00489.TIF </img> & H
+253. & CH3 & H & <img> id-US20180102487A1-20180412-C00490.TIF </img> & CH3
+254. & H & CH3 & <img> id-US20180102487A1-20180412-C00491.TIF </img> & CH3
+255. & CH3 & CH3 & <img> id-US20180102487A1-20180412-C00492.TIF </img> & CH3
+256. & <img> id-US20180102487A1-20180412-C00493.TIF </img> & H & H & H
+257. & <img> id-US20180102487A1-20180412-C00494.TIF </img> & CH3 & H & CH3
+258. & <img> id-US20180102487A1-20180412-C00495.TIF </img> & H & CH3 & H
+259. & <img> id-US20180102487A1-20180412-C00496.TIF </img> & H & H & CH3
+260. & <img> id-US20180102487A1-20180412-C00497.TIF </img> & CH3 & CH3 & H
+261. & <img> id-US20180102487A1-20180412-C00498.TIF </img> & CH3 & H & CH3
+262. & <img> id-US20180102487A1-20180412-C00499.TIF </img> & H & CH3 & CH3
+263. & <img> id-US20180102487A1-20180412-C00500.TIF </img> & CH3 & CH3 & CH3
+264. & H & <img> id-US20180102487A1-20180412-C00501.TIF </img> & H & H
+265. & CH3 & <img> id-US20180102487A1-20180412-C00502.TIF </img> & H & CH3
+266. & H & <img> id-US20180102487A1-20180412-C00503.TIF </img> & CH3 & H
+267. & H & <img> id-US20180102487A1-20180412-C00504.TIF </img> & H & CH3
+268. & CH3 & <img> id-US20180102487A1-20180412-C00505.TIF </img> & CH3 & H
+269. & CH3 & <img> id-US20180102487A1-20180412-C00506.TIF </img> & H & CH3
+270. & H & <img> id-US20180102487A1-20180412-C00507.TIF </img> & CH3 & CH3
+271. & CH3 & <img> id-US20180102487A1-20180412-C00508.TIF </img> & CH3 & CH3
+272. & H & H & <img> id-US20180102487A1-20180412-C00509.TIF </img> & H
+273. & CH3 & H & <img> id-US20180102487A1-20180412-C00510.TIF </img> & H
+274. & H & CH3 & <img> id-US20180102487A1-20180412-C00511.TIF </img> & H
+275. & H & H & <img> id-US20180102487A1-20180412-C00512.TIF </img> & CH3
+276. & CH3 & CH3 & <img> id-US20180102487A1-20180412-C00513.TIF </img> & H
+277. & CH3 & H & <img> id-US20180102487A1-20180412-C00514.TIF </img> & CH3
+278. & H & CH3 & <img> id-US20180102487A1-20180412-C00515.TIF </img> & CH3
+279. & CH3 & CH3 & <img> id-US20180102487A1-20180412-C00516.TIF </img> & CH3
+280. & <img> id-US20180102487A1-20180412-C00517.TIF </img> & H & H & H
+281. & <img> id-US20180102487A1-20180412-C00518.TIF </img> & CH3 & H & CH3
+282. & <img> id-US20180102487A1-20180412-C00519.TIF </img> & H & CH3 & H
+283. & <img> id-US20180102487A1-20180412-C00520.TIF </img> & H & H & CH3
+284. & <img> id-US20180102487A1-20180412-C00521.TIF </img> & CH3 & CH3 & H
+285. & <img> id-US20180102487A1-20180412-C00522.TIF </img> & CH3 & H & CH3
+286. & <img> id-US20180102487A1-20180412-C00523.TIF </img> & H & CH3 & CH3
+287. & <img> id-US20180102487A1-20180412-C00524.TIF </img> & CH3 & CH3 & CH3
+288. & H & <img> id-US20180102487A1-20180412-C00525.TIF </img> & H & H
+289. & CH3 & <img> id-US20180102487A1-20180412-C00526.TIF </img> & H & CH3
+290. & H & <img> id-US20180102487A1-20180412-C00527.TIF </img> & CH3 & H
+291. & H & <img> id-US20180102487A1-20180412-C00528.TIF </img> & H & CH3
+292. & CH3 & <img> id-US20180102487A1-20180412-C00529.TIF </img> & CH3 & H
+293. & CH3 & <img> id-US20180102487A1-20180412-C00530.TIF </img> & H & CH3
+294. & H & <img> id-US20180102487A1-20180412-C00531.TIF </img> & CH3 & CH3
+295. & CH3 & <img> id-US20180102487A1-20180412-C00532.TIF </img> & CH3 & CH3
+296. & H & H & <img> id-US20180102487A1-20180412-C00533.TIF </img> & H
+297. & CH3 & H & <img> id-US20180102487A1-20180412-C00534.TIF </img> & H
+298. & H & CH3 & <img> id-US20180102487A1-20180412-C00535.TIF </img> & H
+299. & H & H & <img> id-US20180102487A1-20180412-C00536.TIF </img> & CH3
+300. & CH3 & CH3 & <img> id-US20180102487A1-20180412-C00537.TIF </img> & H
+301. & CH3 & H & <img> id-US20180102487A1-20180412-C00538.TIF </img> & CH3
+302. & H & CH3 & <img> id-US20180102487A1-20180412-C00539.TIF </img> & CH3
+303. & CH3 & CH3 & <img> id-US20180102487A1-20180412-C00540.TIF </img> & CH3
+304. & <img> id-US20180102487A1-20180412-C00541.TIF </img> & H & H & H
+305. & <img> id-US20180102487A1-20180412-C00542.TIF </img> & CH3 & H & CH3
+306. & <img> id-US20180102487A1-20180412-C00543.TIF </img> & H & CH3 & H
+307. & <img> id-US20180102487A1-20180412-C00544.TIF </img> & H & H & CH3
+308. & <img> id-US20180102487A1-20180412-C00545.TIF </img> & CH3 & CH3 & H
+309. & <img> id-US20180102487A1-20180412-C00546.TIF </img> & CH3 & H & CH3
+310. & <img> id-US20180102487A1-20180412-C00547.TIF </img> & H & CH3 & CH3
+311. & <img> id-US20180102487A1-20180412-C00548.TIF </img> & CH3 & CH3 & CH3
+312. & H & <img> id-US20180102487A1-20180412-C00549.TIF </img> & H & H
+313. & CH3 & <img> id-US20180102487A1-20180412-C00550.TIF </img> & H & CH3
+314. & H & <img> id-US20180102487A1-20180412-C00551.TIF </img> & CH3 & H
+315. & H & <img> id-US20180102487A1-20180412-C00552.TIF </img> & H & CH3
+316. & CH3 & <img> id-US20180102487A1-20180412-C00553.TIF </img> & CH3 & H
+317. & CH3 & <img> id-US20180102487A1-20180412-C00554.TIF </img> & H & CH3
+318. & H & <img> id-US20180102487A1-20180412-C00555.TIF </img> & CH3 & CH3
+319. & CH3 & <img> id-US20180102487A1-20180412-C00556.TIF </img> & CH3 & CH3
+320. & H & H & <img> id-US20180102487A1-20180412-C00557.TIF </img> & H
+321. & CH3 & H & <img> id-US20180102487A1-20180412-C00558.TIF </img> & H
+322. & H & CH3 & <img> id-US20180102487A1-20180412-C00559.TIF </img> & H
+323. & H & H & <img> id-US20180102487A1-20180412-C00560.TIF </img> & CH3
+324. & CH3 & CH3 & <img> id-US20180102487A1-20180412-C00561.TIF </img> & H
+325. & CH3 & H & <img> id-US20180102487A1-20180412-C00562.TIF </img> & CH3
+326. & H & CH3 & <img> id-US20180102487A1-20180412-C00563.TIF </img> & CH3
+327. & CH3 & CH3 & <img> id-US20180102487A1-20180412-C00564.TIF </img> & CH3
 328. & CH(CH3)2 & H & CH2CH3 & H
 329. & CH(CH3)2 & H & CH(CH3)2 & H
 330. & CH(CH3)2 & H & CH2CH(CH3)2 & H
@@ -1066,12 +1073,12 @@ b & RB1 & RB2 & RB3 & RB4
 332. & CH(CH3)2 & H & CH2C(CH3)3 & H
 333. & CH(CH3)2 & H & CH2CH2CF3 & H
 334. & CH(CH3)2 & H & CH2C(CH3)2CF3 & H
-335. & CH(CH3)2 & H &  & H
-336. & CH(CH3)2 & H &  & H
-337. & CH(CH3)2 & H &  & H
-338. & CH(CH3)2 & H &  & H
-339. & CH(CH3)2 & H &  & H
-340. & CH(CH3)2 & H &  & H
+335. & CH(CH3)2 & H & <img> id-US20180102487A1-20180412-C00565.TIF </img> & H
+336. & CH(CH3)2 & H & <img> id-US20180102487A1-20180412-C00566.TIF </img> & H
+337. & CH(CH3)2 & H & <img> id-US20180102487A1-20180412-C00567.TIF </img> & H
+338. & CH(CH3)2 & H & <img> id-US20180102487A1-20180412-C00568.TIF </img> & H
+339. & CH(CH3)2 & H & <img> id-US20180102487A1-20180412-C00569.TIF </img> & H
+340. & CH(CH3)2 & H & <img> id-US20180102487A1-20180412-C00570.TIF </img> & H
 341. & C(CH3)3 & H & CH2CH3 & H
 342. & C(CH3)3 & H & CH(CH3)2 & H
 343. & C(CH3)3 & H & CH2CH(CH3)2 & H
@@ -1079,12 +1086,12 @@ b & RB1 & RB2 & RB3 & RB4
 345. & C(CH3)3 & H & CH2C(CH3)3 & H
 346. & C(CH3)3 & H & CH2CH2CF3 & H
 347. & C(CH3)3 & H & CH2C(CH3)2CF3 & H
-348. & C(CH3)3 & H &  & H
-349. & C(CH3)3 & H &  & H
-350. & C(CH3)3 & H &  & H
-351. & C(CH3)3 & H &  & H
-352. & C(CH3)3 & H &  & H
-353. & C(CH3)3 & H &  & H
+348. & C(CH3)3 & H & <img> id-US20180102487A1-20180412-C00571.TIF </img> & H
+349. & C(CH3)3 & H & <img> id-US20180102487A1-20180412-C00572.TIF </img> & H
+350. & C(CH3)3 & H & <img> id-US20180102487A1-20180412-C00573.TIF </img> & H
+351. & C(CH3)3 & H & <img> id-US20180102487A1-20180412-C00574.TIF </img> & H
+352. & C(CH3)3 & H & <img> id-US20180102487A1-20180412-C00575.TIF </img> & H
+353. & C(CH3)3 & H & <img> id-US20180102487A1-20180412-C00576.TIF </img> & H
 354. & CH2C(CH3)3 & H & CH2CH3 & H
 355. & CH2C(CH3)3 & H & CH(CH3)2 & H
 356. & CH2C(CH3)3 & H & CH2CH(CH3)2 & H
@@ -1092,71 +1099,71 @@ b & RB1 & RB2 & RB3 & RB4
 358. & CH2C(CH3)3 & H & CH2C(CH3)3 & H
 359. & CH2C(CH3)3 & H & CH2CH2CF3 & H
 360. & CH2C(CH3)3 & H & CH2C(CH3)2CF3 & H
-361. & CH2C(CH3)3 & H &  & H
-362. & CH2C(CH3)3 & H &  & H
-363. & CH2C(CH3)3 & H &  & H
-364. & CH2C(CH3)3 & H &  & H
-365. & CH2C(CH3)3 & H &  & H
-366. & CH2C(CH3)3 & H &  & H
-367. &  & H & CH2CH3 & H
-368. &  & H & CH(CH3)2 & H
-369. &  & H & CH2CH(CH3)2 & H
-370. &  & H & C(CH3)3 & H
-371. &  & H & CH2C(CH3)3 & H
-372. &  & H & CH2CH2CF3 & H
-373. &  & H & CH2C(CH3)2CF3 & H
-374. &  & H &  & H
-375. &  & H &  & H
-376. &  & H &  & H
-377. &  & H &  & H
-378. &  & H &  & H
-379. &  & H &  & H
-380. &  & H & CH2CH3 & H
-381. &  & H & CH(CH3)2 & H
-382. &  & H & CH2CH(CH3)2 & H
-383. &  & H & C(CH3)3 & H
-384. &  & H & CH2C(CH3)3 & H
-385. &  & H & CH2CH2CF3 & H
-386. &  & H & CH2C(CH3)2CF3 & H
-387. &  & H &  & H
-388. &  & H &  & H
-389. &  & H &  & H
-390. &  & H &  & H
-391. &  & H &  & H
-392. &  & H &  & H
-393. &  & H & CH2CH(CH3)2 & H
-394. &  & H & C(CH3)3 & H
-395. &  & H & CH2C(CH3)3 & H
-396. &  & H & CH2CH2CF3 & H
-397. &  & H & CH2C(CH3)2CF3 & H
-398. &  & H &  & H
-399. &  & H &  & H
-400. &  & H &  & H
-401. &  & H &  & H
-402. &  & H &  & H
-403. &  & H &  & H
-404. &  & H & CH2CH(CH3)2 & H
-405. &  & H & C(CH3)3 & H
-406. &  & H & CH2C(CH3)3 & H
-407. &  & H & CH2CH2CF3 & H
-408. &  & H & CH2C(CH3)2CF3 & H
-409. &  & H &  & H
-410. &  & H &  & H
-411. &  & H &  & H
-412. &  & H &  & H
-413. &  & H &  & H
-414. &  & H &  & H
-415. &  & H & CH2CH(CH3)2 & H
-416. &  & H & C(CH3)3 & H
-417. &  & H & CH2C(CH3)3 & H
-418. &  & H & CH2CH2CF3 & H
-419. &  & H & CH2C(CH3)2CF3 & H
-420. &  & H &  & H
-421. &  & H &  & H
-422. &  & H &  & H
-423. &  & H &  & H
-424. &  & H &  & H
-425. &  & H &  & H
+361. & CH2C(CH3)3 & H & <img> id-US20180102487A1-20180412-C00577.TIF </img> & H
+362. & CH2C(CH3)3 & H & <img> id-US20180102487A1-20180412-C00578.TIF </img> & H
+363. & CH2C(CH3)3 & H & <img> id-US20180102487A1-20180412-C00579.TIF </img> & H
+364. & CH2C(CH3)3 & H & <img> id-US20180102487A1-20180412-C00580.TIF </img> & H
+365. & CH2C(CH3)3 & H & <img> id-US20180102487A1-20180412-C00581.TIF </img> & H
+366. & CH2C(CH3)3 & H & <img> id-US20180102487A1-20180412-C00582.TIF </img> & H
+367. & <img> id-US20180102487A1-20180412-C00583.TIF </img> & H & CH2CH3 & H
+368. & <img> id-US20180102487A1-20180412-C00584.TIF </img> & H & CH(CH3)2 & H
+369. & <img> id-US20180102487A1-20180412-C00585.TIF </img> & H & CH2CH(CH3)2 & H
+370. & <img> id-US20180102487A1-20180412-C00586.TIF </img> & H & C(CH3)3 & H
+371. & <img> id-US20180102487A1-20180412-C00587.TIF </img> & H & CH2C(CH3)3 & H
+372. & <img> id-US20180102487A1-20180412-C00588.TIF </img> & H & CH2CH2CF3 & H
+373. & <img> id-US20180102487A1-20180412-C00589.TIF </img> & H & CH2C(CH3)2CF3 & H
+374. & <img> id-US20180102487A1-20180412-C00590.TIF </img> & H & <img> id-US20180102487A1-20180412-C00591.TIF </img> & H
+375. & <img> id-US20180102487A1-20180412-C00592.TIF </img> & H & <img> id-US20180102487A1-20180412-C00593.TIF </img> & H
+376. & <img> id-US20180102487A1-20180412-C00594.TIF </img> & H & <img> id-US20180102487A1-20180412-C00595.TIF </img> & H
+377. & <img> id-US20180102487A1-20180412-C00596.TIF </img> & H & <img> id-US20180102487A1-20180412-C00597.TIF </img> & H
+378. & <img> id-US20180102487A1-20180412-C00598.TIF </img> & H & <img> id-US20180102487A1-20180412-C00599.TIF </img> & H
+379. & <img> id-US20180102487A1-20180412-C00600.TIF </img> & H & <img> id-US20180102487A1-20180412-C00601.TIF </img> & H
+380. & <img> id-US20180102487A1-20180412-C00602.TIF </img> & H & CH2CH3 & H
+381. & <img> id-US20180102487A1-20180412-C00603.TIF </img> & H & CH(CH3)2 & H
+382. & <img> id-US20180102487A1-20180412-C00604.TIF </img> & H & CH2CH(CH3)2 & H
+383. & <img> id-US20180102487A1-20180412-C00605.TIF </img> & H & C(CH3)3 & H
+384. & <img> id-US20180102487A1-20180412-C00606.TIF </img> & H & CH2C(CH3)3 & H
+385. & <img> id-US20180102487A1-20180412-C00607.TIF </img> & H & CH2CH2CF3 & H
+386. & <img> id-US20180102487A1-20180412-C00608.TIF </img> & H & CH2C(CH3)2CF3 & H
+387. & <img> id-US20180102487A1-20180412-C00609.TIF </img> & H & <img> id-US20180102487A1-20180412-C00610.TIF </img> & H
+388. & <img> id-US20180102487A1-20180412-C00611.TIF </img> & H & <img> id-US20180102487A1-20180412-C00612.TIF </img> & H
+389. & <img> id-US20180102487A1-20180412-C00613.TIF </img> & H & <img> id-US20180102487A1-20180412-C00614.TIF </img> & H
+390. & <img> id-US20180102487A1-20180412-C00615.TIF </img> & H & <img> id-US20180102487A1-20180412-C00616.TIF </img> & H
+391. & <img> id-US20180102487A1-20180412-C00617.TIF </img> & H & <img> id-US20180102487A1-20180412-C00618.TIF </img> & H
+392. & <img> id-US20180102487A1-20180412-C00619.TIF </img> & H & <img> id-US20180102487A1-20180412-C00620.TIF </img> & H
+393. & <img> id-US20180102487A1-20180412-C00621.TIF </img> & H & CH2CH(CH3)2 & H
+394. & <img> id-US20180102487A1-20180412-C00622.TIF </img> & H & C(CH3)3 & H
+395. & <img> id-US20180102487A1-20180412-C00623.TIF </img> & H & CH2C(CH3)3 & H
+396. & <img> id-US20180102487A1-20180412-C00624.TIF </img> & H & CH2CH2CF3 & H
+397. & <img> id-US20180102487A1-20180412-C00625.TIF </img> & H & CH2C(CH3)2CF3 & H
+398. & <img> id-US20180102487A1-20180412-C00626.TIF </img> & H & <img> id-US20180102487A1-20180412-C00627.TIF </img> & H
+399. & <img> id-US20180102487A1-20180412-C00628.TIF </img> & H & <img> id-US20180102487A1-20180412-C00629.TIF </img> & H
+400. & <img> id-US20180102487A1-20180412-C00630.TIF </img> & H & <img> id-US20180102487A1-20180412-C00631.TIF </img> & H
+401. & <img> id-US20180102487A1-20180412-C00632.TIF </img> & H & <img> id-US20180102487A1-20180412-C00633.TIF </img> & H
+402. & <img> id-US20180102487A1-20180412-C00634.TIF </img> & H & <img> id-US20180102487A1-20180412-C00635.TIF </img> & H
+403. & <img> id-US20180102487A1-20180412-C00636.TIF </img> & H & <img> id-US20180102487A1-20180412-C00637.TIF </img> & H
+404. & <img> id-US20180102487A1-20180412-C00638.TIF </img> & H & CH2CH(CH3)2 & H
+405. & <img> id-US20180102487A1-20180412-C00639.TIF </img> & H & C(CH3)3 & H
+406. & <img> id-US20180102487A1-20180412-C00640.TIF </img> & H & CH2C(CH3)3 & H
+407. & <img> id-US20180102487A1-20180412-C00641.TIF </img> & H & CH2CH2CF3 & H
+408. & <img> id-US20180102487A1-20180412-C00642.TIF </img> & H & CH2C(CH3)2CF3 & H
+409. & <img> id-US20180102487A1-20180412-C00643.TIF </img> & H & <img> id-US20180102487A1-20180412-C00644.TIF </img> & H
+410. & <img> id-US20180102487A1-20180412-C00645.TIF </img> & H & <img> id-US20180102487A1-20180412-C00646.TIF </img> & H
+411. & <img> id-US20180102487A1-20180412-C00647.TIF </img> & H & <img> id-US20180102487A1-20180412-C00648.TIF </img> & H
+412. & <img> id-US20180102487A1-20180412-C00649.TIF </img> & H & <img> id-US20180102487A1-20180412-C00650.TIF </img> & H
+413. & <img> id-US20180102487A1-20180412-C00651.TIF </img> & H & <img> id-US20180102487A1-20180412-C00652.TIF </img> & H
+414. & <img> id-US20180102487A1-20180412-C00653.TIF </img> & H & <img> id-US20180102487A1-20180412-C00654.TIF </img> & H
+415. & <img> id-US20180102487A1-20180412-C00655.TIF </img> & H & CH2CH(CH3)2 & H
+416. & <img> id-US20180102487A1-20180412-C00656.TIF </img> & H & C(CH3)3 & H
+417. & <img> id-US20180102487A1-20180412-C00657.TIF </img> & H & CH2C(CH3)3 & H
+418. & <img> id-US20180102487A1-20180412-C00658.TIF </img> & H & CH2CH2CF3 & H
+419. & <img> id-US20180102487A1-20180412-C00659.TIF </img> & H & CH2C(CH3)2CF3 & H
+420. & <img> id-US20180102487A1-20180412-C00660.TIF </img> & H & <img> id-US20180102487A1-20180412-C00661.TIF </img> & H
+421. & <img> id-US20180102487A1-20180412-C00662.TIF </img> & H & <img> id-US20180102487A1-20180412-C00663.TIF </img> & H
+422. & <img> id-US20180102487A1-20180412-C00664.TIF </img> & H & <img> id-US20180102487A1-20180412-C00665.TIF </img> & H
+423. & <img> id-US20180102487A1-20180412-C00666.TIF </img> & H & <img> id-US20180102487A1-20180412-C00667.TIF </img> & H
+424. & <img> id-US20180102487A1-20180412-C00668.TIF </img> & H & <img> id-US20180102487A1-20180412-C00669.TIF </img> & H
+425. & <img> id-US20180102487A1-20180412-C00670.TIF </img> & H & <img> id-US20180102487A1-20180412-C00671.TIF </img> & H
 426. & H & H & H & H
 427. & CD3 & H & H & H
 428. & H & CD3 & H & H
@@ -1340,150 +1347,150 @@ b & RB1 & RB2 & RB3 & RB4
 606. & CD3 & H & CD2CH2CF3 & CD3
 607. & H & CD3 & CD2CH2CF3 & CD3
 608. & CD3 & CD3 & CD2CH2CF3 & CD3
-609. &  & H & H & H
-610. &  & CD3 & H & CD3
-611. &  & H & CD3 & H
-612. &  & H & H & CD3
-613. &  & CD3 & CD3 & H
-614. &  & CD3 & H & CD3
-615. &  & H & CD3 & CD3
-616. &  & CD3 & CD3 & CD3
-617. & H &  & H & H
-618. & CD3 &  & H & CD3
-619. & H &  & CD3 & H
-620. & H &  & H & CD3
-621. & CD3 &  & CD3 & H
-622. & CD3 &  & H & CD3
-623. & H &  & CD3 & CD3
-624. & CD3 &  & CD3 & CD3
-625. & H & H &  & H
-626. & CD3 & H &  & H
-627. & H & CD3 &  & H
-628. & H & H &  & CD3
-629. & CD3 & CD3 &  & H
-630. & CD3 & H &  & CD3
-631. & H & CD3 &  & CD3
-632. & CD3 & CD3 &  & CD3
-633. &  & H & H & H
-634. &  & CD3 & H & CD3
-635. &  & H & CD3 & H
-636. &  & H & H & CD3
-637. &  & CD3 & CD3 & H
-638. &  & CD3 & H & CD3
-639. &  & H & CD3 & CD3
-640. &  & CD3 & CD3 & CD3
-641. & H &  & H & H
-642. & CH3 &  & H & CD3
-643. & H &  & CD3 & H
-644. & H &  & H & CD3
-645. & CD3 &  & CD3 & H
-646. & CD3 &  & H & CD3
-647. & H &  & CD3 & CD3
-648. & CH3 &  & CD3 & CD3
-649. & H & H &  & H
-650. & CD3 & H &  & H
-651. & H & CD3 &  & H
-652. & H & H &  & CD3
-653. & CD3 & CD3 &  & H
-654. & CD3 & H &  & CD3
-655. & H & CD3 &  & CD3
-656. & CD3 & CD3 &  & CD3
-657. &  & H & H & H
-658. &  & CD3 & H & CD3
-659. &  & H & CD3 & H
-660. &  & H & H & CD3
-661. &  & CD3 & CD3 & H
-662. &  & CD3 & H & CD3
-663. &  & H & CD3 & CD3
-664. &  & CD3 & CD3 & CD3
-665. & H &  & H & H
-666. & CD3 &  & H & CD3
-667. & H &  & CD3 & H
-668. & H &  & H & CD3
-669. & CD3 &  & CD3 & H
-670. & CD3 &  & H & CD3
-671. & H &  & CD3 & CD3
-672. & CD3 &  & CD3 & CD3
-673. & H & H &  & H
-674. & CD3 & H &  & H
-675. & H & CD3 &  & H
-676. & H & H &  & CD3
-677. & CD3 & CD3 &  & H
-678. & CD3 & H &  & CD3
-679. & H & CD3 &  & CD3
-680. & CD3 & CD3 &  & CD3
-681. &  & H & H & H
-682. &  & CD3 & H & CD3
-683. &  & H & CD3 & H
-684. &  & H & H & CD3
-685. &  & CD3 & CD3 & H
-686. &  & CD3 & H & CD3
-687. &  & H & CD3 & CD3
-688. &  & CD3 & CD3 & CD3
-689. & H &  & H & H
-690. & CD3 &  & H & CD3
-691. & H &  & CD3 & H
-692. & H &  & H & CD3
-693. & CD3 &  & CD3 & H
-694. & CD3 &  & H & CD3
-695. & H &  & CD3 & CD3
-696. & CD3 &  & CD3 & CD3
-697. & H & H &  & H
-698. & CD3 & H &  & H
-699. & H & CD3 &  & H
-700. & H & H &  & CD3
-701. & CD3 & CD3 &  & H
-702. & CD3 & H &  & CD3
-703. & H & CD3 &  & CD3
-704. & CD3 & CD3 &  & CD3
-705. &  & H & H & H
-706. &  & CD3 & H & CD3
-707. &  & H & CD3 & H
-708. &  & H & H & CD3
-709. &  & CD3 & CD3 & H
-710. &  & CD3 & H & CD3
-711. &  & H & CD3 & CD3
-712. &  & CD3 & CD3 & CD3
-713. & H &  & H & H
-714. & CD3 &  & H & CD3
-715. & H &  & CD3 & H
-716. & H &  & H & CD3
-717. & CD3 &  & CD3 & H
-718. & CD3 &  & H & CD3
-719. & H &  & CD3 & CD3
-720. & CD3 &  & CD3 & CD3
-721. & H & H &  & H
-722. & CD3 & H &  & H
-723. & H & CD3 &  & H
-724. & H & H &  & CD3
-725. & CD3 & CD3 &  & H
-726. & CD3 & H &  & CD3
-727. & H & CD3 &  & CD3
-728. & CD3 & CD3 &  & CD3
-729. &  & H & H & H
-730. &  & CD3 & H & CD3
-731. &  & H & CD3 & H
-732. &  & H & H & CD3
-733. &  & CH3 & CH3 & H
-734. &  & CD3 & H & CD3
-735. &  & H & CD3 & CD3
-736. &  & CD3 & CD3 & CD3
-737. & H &  & H & CD3
-738. & CD3 &  & H & CD3
-739. & H &  & CD3 & H
-740. & H &  & H & CD3
-741. & CD3 &  & CD3 & H
-742. & CD3 &  & H & CD3
-743. & H &  & CD3 & CD3
-744. & CD3 &  & CD3 & CD3
-745. & H & H &  & H
-746. & CD3 & H &  & H
-747. & H & CD3 &  & H
-748. & H & H &  & CH3
-749. & CD3 & CD3 &  & H
-750. & CD3 & H &  & CD3
-751. & H & CD3 &  & CD3
-752. & CD3 & CD3 &  & CD3
+609. & <img> id-US20180102487A1-20180412-C00672.TIF </img> & H & H & H
+610. & <img> id-US20180102487A1-20180412-C00673.TIF </img> & CD3 & H & CD3
+611. & <img> id-US20180102487A1-20180412-C00674.TIF </img> & H & CD3 & H
+612. & <img> id-US20180102487A1-20180412-C00675.TIF </img> & H & H & CD3
+613. & <img> id-US20180102487A1-20180412-C00676.TIF </img> & CD3 & CD3 & H
+614. & <img> id-US20180102487A1-20180412-C00677.TIF </img> & CD3 & H & CD3
+615. & <img> id-US20180102487A1-20180412-C00678.TIF </img> & H & CD3 & CD3
+616. & <img> id-US20180102487A1-20180412-C00679.TIF </img> & CD3 & CD3 & CD3
+617. & H & <img> id-US20180102487A1-20180412-C00680.TIF </img> & H & H
+618. & CD3 & <img> id-US20180102487A1-20180412-C00681.TIF </img> & H & CD3
+619. & H & <img> id-US20180102487A1-20180412-C00682.TIF </img> & CD3 & H
+620. & H & <img> id-US20180102487A1-20180412-C00683.TIF </img> & H & CD3
+621. & CD3 & <img> id-US20180102487A1-20180412-C00684.TIF </img> & CD3 & H
+622. & CD3 & <img> id-US20180102487A1-20180412-C00685.TIF </img> & H & CD3
+623. & H & <img> id-US20180102487A1-20180412-C00686.TIF </img> & CD3 & CD3
+624. & CD3 & <img> id-US20180102487A1-20180412-C00687.TIF </img> & CD3 & CD3
+625. & H & H & <img> id-US20180102487A1-20180412-C00688.TIF </img> & H
+626. & CD3 & H & <img> id-US20180102487A1-20180412-C00689.TIF </img> & H
+627. & H & CD3 & <img> id-US20180102487A1-20180412-C00690.TIF </img> & H
+628. & H & H & <img> id-US20180102487A1-20180412-C00691.TIF </img> & CD3
+629. & CD3 & CD3 & <img> id-US20180102487A1-20180412-C00692.TIF </img> & H
+630. & CD3 & H & <img> id-US20180102487A1-20180412-C00693.TIF </img> & CD3
+631. & H & CD3 & <img> id-US20180102487A1-20180412-C00694.TIF </img> & CD3
+632. & CD3 & CD3 & <img> id-US20180102487A1-20180412-C00695.TIF </img> & CD3
+633. & <img> id-US20180102487A1-20180412-C00696.TIF </img> & H & H & H
+634. & <img> id-US20180102487A1-20180412-C00697.TIF </img> & CD3 & H & CD3
+635. & <img> id-US20180102487A1-20180412-C00698.TIF </img> & H & CD3 & H
+636. & <img> id-US20180102487A1-20180412-C00699.TIF </img> & H & H & CD3
+637. & <img> id-US20180102487A1-20180412-C00700.TIF </img> & CD3 & CD3 & H
+638. & <img> id-US20180102487A1-20180412-C00701.TIF </img> & CD3 & H & CD3
+639. & <img> id-US20180102487A1-20180412-C00702.TIF </img> & H & CD3 & CD3
+640. & <img> id-US20180102487A1-20180412-C00703.TIF </img> & CD3 & CD3 & CD3
+641. & H & <img> id-US20180102487A1-20180412-C00704.TIF </img> & H & H
+642. & CH3 & <img> id-US20180102487A1-20180412-C00705.TIF </img> & H & CD3
+643. & H & <img> id-US20180102487A1-20180412-C00706.TIF </img> & CD3 & H
+644. & H & <img> id-US20180102487A1-20180412-C00707.TIF </img> & H & CD3
+645. & CD3 & <img> id-US20180102487A1-20180412-C00708.TIF </img> & CD3 & H
+646. & CD3 & <img> id-US20180102487A1-20180412-C00709.TIF </img> & H & CD3
+647. & H & <img> id-US20180102487A1-20180412-C00710.TIF </img> & CD3 & CD3
+648. & CH3 & <img> id-US20180102487A1-20180412-C00711.TIF </img> & CD3 & CD3
+649. & H & H & <img> id-US20180102487A1-20180412-C00712.TIF </img> & H
+650. & CD3 & H & <img> id-US20180102487A1-20180412-C00713.TIF </img> & H
+651. & H & CD3 & <img> id-US20180102487A1-20180412-C00714.TIF </img> & H
+652. & H & H & <img> id-US20180102487A1-20180412-C00715.TIF </img> & CD3
+653. & CD3 & CD3 & <img> id-US20180102487A1-20180412-C00716.TIF </img> & H
+654. & CD3 & H & <img> id-US20180102487A1-20180412-C00717.TIF </img> & CD3
+655. & H & CD3 & <img> id-US20180102487A1-20180412-C00718.TIF </img> & CD3
+656. & CD3 & CD3 & <img> id-US20180102487A1-20180412-C00719.TIF </img> & CD3
+657. & <img> id-US20180102487A1-20180412-C00720.TIF </img> & H & H & H
+658. & <img> id-US20180102487A1-20180412-C00721.TIF </img> & CD3 & H & CD3
+659. & <img> id-US20180102487A1-20180412-C00722.TIF </img> & H & CD3 & H
+660. & <img> id-US20180102487A1-20180412-C00723.TIF </img> & H & H & CD3
+661. & <img> id-US20180102487A1-20180412-C00724.TIF </img> & CD3 & CD3 & H
+662. & <img> id-US20180102487A1-20180412-C00725.TIF </img> & CD3 & H & CD3
+663. & <img> id-US20180102487A1-20180412-C00726.TIF </img> & H & CD3 & CD3
+664. & <img> id-US20180102487A1-20180412-C00727.TIF </img> & CD3 & CD3 & CD3
+665. & H & <img> id-US20180102487A1-20180412-C00728.TIF </img> & H & H
+666. & CD3 & <img> id-US20180102487A1-20180412-C00729.TIF </img> & H & CD3
+667. & H & <img> id-US20180102487A1-20180412-C00730.TIF </img> & CD3 & H
+668. & H & <img> id-US20180102487A1-20180412-C00731.TIF </img> & H & CD3
+669. & CD3 & <img> id-US20180102487A1-20180412-C00732.TIF </img> & CD3 & H
+670. & CD3 & <img> id-US20180102487A1-20180412-C00733.TIF </img> & H & CD3
+671. & H & <img> id-US20180102487A1-20180412-C00734.TIF </img> & CD3 & CD3
+672. & CD3 & <img> id-US20180102487A1-20180412-C00735.TIF </img> & CD3 & CD3
+673. & H & H & <img> id-US20180102487A1-20180412-C00736.TIF </img> & H
+674. & CD3 & H & <img> id-US20180102487A1-20180412-C00737.TIF </img> & H
+675. & H & CD3 & <img> id-US20180102487A1-20180412-C00738.TIF </img> & H
+676. & H & H & <img> id-US20180102487A1-20180412-C00739.TIF </img> & CD3
+677. & CD3 & CD3 & <img> id-US20180102487A1-20180412-C00740.TIF </img> & H
+678. & CD3 & H & <img> id-US20180102487A1-20180412-C00741.TIF </img> & CD3
+679. & H & CD3 & <img> id-US20180102487A1-20180412-C00742.TIF </img> & CD3
+680. & CD3 & CD3 & <img> id-US20180102487A1-20180412-C00743.TIF </img> & CD3
+681. & <img> id-US20180102487A1-20180412-C00744.TIF </img> & H & H & H
+682. & <img> id-US20180102487A1-20180412-C00745.TIF </img> & CD3 & H & CD3
+683. & <img> id-US20180102487A1-20180412-C00746.TIF </img> & H & CD3 & H
+684. & <img> id-US20180102487A1-20180412-C00747.TIF </img> & H & H & CD3
+685. & <img> id-US20180102487A1-20180412-C00748.TIF </img> & CD3 & CD3 & H
+686. & <img> id-US20180102487A1-20180412-C00749.TIF </img> & CD3 & H & CD3
+687. & <img> id-US20180102487A1-20180412-C00750.TIF </img> & H & CD3 & CD3
+688. & <img> id-US20180102487A1-20180412-C00751.TIF </img> & CD3 & CD3 & CD3
+689. & H & <img> id-US20180102487A1-20180412-C00752.TIF </img> & H & H
+690. & CD3 & <img> id-US20180102487A1-20180412-C00753.TIF </img> & H & CD3
+691. & H & <img> id-US20180102487A1-20180412-C00754.TIF </img> & CD3 & H
+692. & H & <img> id-US20180102487A1-20180412-C00755.TIF </img> & H & CD3
+693. & CD3 & <img> id-US20180102487A1-20180412-C00756.TIF </img> & CD3 & H
+694. & CD3 & <img> id-US20180102487A1-20180412-C00757.TIF </img> & H & CD3
+695. & H & <img> id-US20180102487A1-20180412-C00758.TIF </img> & CD3 & CD3
+696. & CD3 & <img> id-US20180102487A1-20180412-C00759.TIF </img> & CD3 & CD3
+697. & H & H & <img> id-US20180102487A1-20180412-C00760.TIF </img> & H
+698. & CD3 & H & <img> id-US20180102487A1-20180412-C00761.TIF </img> & H
+699. & H & CD3 & <img> id-US20180102487A1-20180412-C00762.TIF </img> & H
+700. & H & H & <img> id-US20180102487A1-20180412-C00763.TIF </img> & CD3
+701. & CD3 & CD3 & <img> id-US20180102487A1-20180412-C00764.TIF </img> & H
+702. & CD3 & H & <img> id-US20180102487A1-20180412-C00765.TIF </img> & CD3
+703. & H & CD3 & <img> id-US20180102487A1-20180412-C00766.TIF </img> & CD3
+704. & CD3 & CD3 & <img> id-US20180102487A1-20180412-C00767.TIF </img> & CD3
+705. & <img> id-US20180102487A1-20180412-C00768.TIF </img> & H & H & H
+706. & <img> id-US20180102487A1-20180412-C00769.TIF </img> & CD3 & H & CD3
+707. & <img> id-US20180102487A1-20180412-C00770.TIF </img> & H & CD3 & H
+708. & <img> id-US20180102487A1-20180412-C00771.TIF </img> & H & H & CD3
+709. & <img> id-US20180102487A1-20180412-C00772.TIF </img> & CD3 & CD3 & H
+710. & <img> id-US20180102487A1-20180412-C00773.TIF </img> & CD3 & H & CD3
+711. & <img> id-US20180102487A1-20180412-C00774.TIF </img> & H & CD3 & CD3
+712. & <img> id-US20180102487A1-20180412-C00775.TIF </img> & CD3 & CD3 & CD3
+713. & H & <img> id-US20180102487A1-20180412-C00776.TIF </img> & H & H
+714. & CD3 & <img> id-US20180102487A1-20180412-C00777.TIF </img> & H & CD3
+715. & H & <img> id-US20180102487A1-20180412-C00778.TIF </img> & CD3 & H
+716. & H & <img> id-US20180102487A1-20180412-C00779.TIF </img> & H & CD3
+717. & CD3 & <img> id-US20180102487A1-20180412-C00780.TIF </img> & CD3 & H
+718. & CD3 & <img> id-US20180102487A1-20180412-C00781.TIF </img> & H & CD3
+719. & H & <img> id-US20180102487A1-20180412-C00782.TIF </img> & CD3 & CD3
+720. & CD3 & <img> id-US20180102487A1-20180412-C00783.TIF </img> & CD3 & CD3
+721. & H & H & <img> id-US20180102487A1-20180412-C00784.TIF </img> & H
+722. & CD3 & H & <img> id-US20180102487A1-20180412-C00785.TIF </img> & H
+723. & H & CD3 & <img> id-US20180102487A1-20180412-C00786.TIF </img> & H
+724. & H & H & <img> id-US20180102487A1-20180412-C00787.TIF </img> & CD3
+725. & CD3 & CD3 & <img> id-US20180102487A1-20180412-C00788.TIF </img> & H
+726. & CD3 & H & <img> id-US20180102487A1-20180412-C00789.TIF </img> & CD3
+727. & H & CD3 & <img> id-US20180102487A1-20180412-C00790.TIF </img> & CD3
+728. & CD3 & CD3 & <img> id-US20180102487A1-20180412-C00791.TIF </img> & CD3
+729. & <img> id-US20180102487A1-20180412-C00792.TIF </img> & H & H & H
+730. & <img> id-US20180102487A1-20180412-C00793.TIF </img> & CD3 & H & CD3
+731. & <img> id-US20180102487A1-20180412-C00794.TIF </img> & H & CD3 & H
+732. & <img> id-US20180102487A1-20180412-C00795.TIF </img> & H & H & CD3
+733. & <img> id-US20180102487A1-20180412-C00796.TIF </img> & CH3 & CH3 & H
+734. & <img> id-US20180102487A1-20180412-C00797.TIF </img> & CD3 & H & CD3
+735. & <img> id-US20180102487A1-20180412-C00798.TIF </img> & H & CD3 & CD3
+736. & <img> id-US20180102487A1-20180412-C00799.TIF </img> & CD3 & CD3 & CD3
+737. & H & <img> id-US20180102487A1-20180412-C00800.TIF </img> & H & CD3
+738. & CD3 & <img> id-US20180102487A1-20180412-C00801.TIF </img> & H & CD3
+739. & H & <img> id-US20180102487A1-20180412-C00802.TIF </img> & CD3 & H
+740. & H & <img> id-US20180102487A1-20180412-C00803.TIF </img> & H & CD3
+741. & CD3 & <img> id-US20180102487A1-20180412-C00804.TIF </img> & CD3 & H
+742. & CD3 & <img> id-US20180102487A1-20180412-C00805.TIF </img> & H & CD3
+743. & H & <img> id-US20180102487A1-20180412-C00806.TIF </img> & CD3 & CD3
+744. & CD3 & <img> id-US20180102487A1-20180412-C00807.TIF </img> & CD3 & CD3
+745. & H & H & <img> id-US20180102487A1-20180412-C00808.TIF </img> & H
+746. & CD3 & H & <img> id-US20180102487A1-20180412-C00809.TIF </img> & H
+747. & H & CD3 & <img> id-US20180102487A1-20180412-C00810.TIF </img> & H
+748. & H & H & <img> id-US20180102487A1-20180412-C00811.TIF </img> & CH3
+749. & CD3 & CD3 & <img> id-US20180102487A1-20180412-C00812.TIF </img> & H
+750. & CD3 & H & <img> id-US20180102487A1-20180412-C00813.TIF </img> & CD3
+751. & H & CD3 & <img> id-US20180102487A1-20180412-C00814.TIF </img> & CD3
+752. & CD3 & CD3 & <img> id-US20180102487A1-20180412-C00815.TIF </img> & CD3
 753. & CD(CH3)2 & H & CD2CH3 & H
 754. & CD(CH3)2 & H & CD(CH3)2 & H
 755. & CD(CH3)2 & H & CD2CH(CH3)2 & H
@@ -1491,12 +1498,12 @@ b & RB1 & RB2 & RB3 & RB4
 757. & CD(CH3)2 & H & CD2C(CH3)3 & H
 758. & CD(CH3)2 & H & CD2CH2CF3 & H
 759. & CD(CH3)2 & H & CD2C(CH3)2CF3 & H
-760. & CD(CH3)2 & H &  & H
-761. & CD(CH3)2 & H &  & H
-762. & CD(CH3)2 & H &  & H
-763. & CD(CH3)2 & H &  & H
-764. & CD(CH3)2 & H &  & H
-765. & CD(CH3)2 & H &  & H
+760. & CD(CH3)2 & H & <img> id-US20180102487A1-20180412-C00816.TIF </img> & H
+761. & CD(CH3)2 & H & <img> id-US20180102487A1-20180412-C00817.TIF </img> & H
+762. & CD(CH3)2 & H & <img> id-US20180102487A1-20180412-C00818.TIF </img> & H
+763. & CD(CH3)2 & H & <img> id-US20180102487A1-20180412-C00819.TIF </img> & H
+764. & CD(CH3)2 & H & <img> id-US20180102487A1-20180412-C00820.TIF </img> & H
+765. & CD(CH3)2 & H & <img> id-US20180102487A1-20180412-C00821.TIF </img> & H
 766. & C(CH3)3 & H & CD2CH3 & H
 767. & C(CH3)3 & H & CD(CH3)2 & H
 768. & C(CH3)3 & H & CD2CH(CH3)2 & H
@@ -1504,12 +1511,12 @@ b & RB1 & RB2 & RB3 & RB4
 770. & C(CH3)3 & H & CD2C(CH3)3 & H
 771. & C(CH3)3 & H & CD2CH2CF3 & H
 772. & C(CH3)3 & H & CD2C(CH3)2CF3 & H
-773. & C(CH3)3 & H &  & H
-774. & C(CH3)3 & H &  & H
-775. & C(CH3)3 & H &  & H
-776. & C(CH3)3 & H &  & H
-777. & C(CH3)3 & H &  & H
-778. & C(CH3)3 & H &  & H
+773. & C(CH3)3 & H & <img> id-US20180102487A1-20180412-C00822.TIF </img> & H
+774. & C(CH3)3 & H & <img> id-US20180102487A1-20180412-C00823.TIF </img> & H
+775. & C(CH3)3 & H & <img> id-US20180102487A1-20180412-C00824.TIF </img> & H
+776. & C(CH3)3 & H & <img> id-US20180102487A1-20180412-C00825.TIF </img> & H
+777. & C(CH3)3 & H & <img> id-US20180102487A1-20180412-C00826.TIF </img> & H
+778. & C(CH3)3 & H & <img> id-US20180102487A1-20180412-C00827.TIF </img> & H
 779. & CD2C(CH3)3 & H & CD2CH3 & H
 780. & CD2C(CH3)3 & H & CD(CH3)2 & H
 781. & CD2C(CH3)3 & H & CD2CH(CH3)2 & H
@@ -1517,77 +1524,77 @@ b & RB1 & RB2 & RB3 & RB4
 783. & CD2C(CH3)3 & H & CD2C(CH3)3 & H
 784. & CD2C(CH3)3 & H & CD2CH2CF3 & H
 785. & CD2C(CH3)3 & H & CD2C(CH3)2CF3 & H
-786. & CD2C(CH3)3 & H &  & H
-787. & CD2C(CH3)3 & H &  & H
-788. & CD2C(CH3)3 & H &  & H
-789. & CD2C(CH3)3 & H &  & H
-790. & CD2C(CH3)3 & H &  & H
-791. & CD2C(CH3)3 & H &  & H
-792. &  & H & CD2CH3 & H
-793. &  & H & CD(CH3)2 & H
-794. &  & H & CD2CH(CH3)2 & H
-795. &  & H & C(CH3)3 & H
-796. &  & H & CD2C(CH3)3 & H
-797. &  & H & CD2CH2CF3 & H
-798. &  & H & CD2C(CH3)2CF3 & H
-799. &  & H &  & H
-800. &  & H &  & H
-801. &  & H &  & H
-802. &  & H &  & H
-803. &  & H &  & H
-804. &  & H &  & H
-805. &  & H & CD2CH3 & H
-806. &  & H & CD(CH3)2 & H
-807. &  & H & CD2CH(CH3)2 & H
-808. &  & H & C(CH3)3 & H
-809. &  & H & CD2C(CH3)3 & H
-810. &  & H & CD2CH2CF3 & H
-811. &  & H & CD2C(CH3)2CF3 & H
-812. &  & H &  & H
-813. &  & H &  & H
-814. &  & H &  & H
-815. &  & H &  & H
-816. &  & H &  & H
-817. &  & H &  & H
-818. &  & H & CD2CH3 & H
-819. &  & H & CD(CH3)2 & H
-820. &  & H & CD2CH(CH3)2 & H
-821. &  & H & C(CH3)3 & H
-822. &  & H & CD2C(CH3)3 & H
-823. &  & H & CD2CH2CF3 & H
-824. &  & H & CD2C(CH3)2CF3 & H
-825. &  & H &  & H
-826. &  & H &  & H
-827. &  & H &  & H
-828. &  & H &  & H
-829. &  & H &  & H
-830. &  & H &  & H
-831. &  & H & CD2CH3 & H
-832. &  & H & CD(CH3)2 & H
-833. &  & H & CD2CH(CH3)2 & H
-834. &  & H & C(CH3)3 & H
-835. &  & H & CD2C(CH3)3 & H
-836. &  & H & CD2CH2CF3 & H
-837. &  & H & CD2C(CH3)2CF3 & H
-838. &  & H &  & H
-839. &  & H &  & H
-840. &  & H &  & H
-841. &  & H &  & H
-842. &  & H &  & H
-843. &  & H &  & H
-844. &  & H & CD2CH3 & H
-845. &  & H & CD(CH3)2 & H
-846. &  & H & CD2CH(CH3)2 & H
-847. &  & H & C(CH3)3 & H
-848. &  & H & CD2C(CH3)3 & H
-849. &  & H & CD2CH2CF3 & H
-850. &  & H & CD2C(CH3)2CF3 & H
-851 . &  & H &  & H
-852. &  & H &  & H
-853. &  & H &  & H
-854. &  & H &  & H
-855. &  & H &  & H
-856. &  & H &  & H
+786. & CD2C(CH3)3 & H & <img> id-US20180102487A1-20180412-C00828.TIF </img> & H
+787. & CD2C(CH3)3 & H & <img> id-US20180102487A1-20180412-C00829.TIF </img> & H
+788. & CD2C(CH3)3 & H & <img> id-US20180102487A1-20180412-C00830.TIF </img> & H
+789. & CD2C(CH3)3 & H & <img> id-US20180102487A1-20180412-C00831.TIF </img> & H
+790. & CD2C(CH3)3 & H & <img> id-US20180102487A1-20180412-C00832.TIF </img> & H
+791. & CD2C(CH3)3 & H & <img> id-US20180102487A1-20180412-C00833.TIF </img> & H
+792. & <img> id-US20180102487A1-20180412-C00834.TIF </img> & H & CD2CH3 & H
+793. & <img> id-US20180102487A1-20180412-C00835.TIF </img> & H & CD(CH3)2 & H
+794. & <img> id-US20180102487A1-20180412-C00836.TIF </img> & H & CD2CH(CH3)2 & H
+795. & <img> id-US20180102487A1-20180412-C00837.TIF </img> & H & C(CH3)3 & H
+796. & <img> id-US20180102487A1-20180412-C00838.TIF </img> & H & CD2C(CH3)3 & H
+797. & <img> id-US20180102487A1-20180412-C00839.TIF </img> & H & CD2CH2CF3 & H
+798. & <img> id-US20180102487A1-20180412-C00840.TIF </img> & H & CD2C(CH3)2CF3 & H
+799. & <img> id-US20180102487A1-20180412-C00841.TIF </img> & H & <img> id-US20180102487A1-20180412-C00842.TIF </img> & H
+800. & <img> id-US20180102487A1-20180412-C00843.TIF </img> & H & <img> id-US20180102487A1-20180412-C00844.TIF </img> & H
+801. & <img> id-US20180102487A1-20180412-C00845.TIF </img> & H & <img> id-US20180102487A1-20180412-C00846.TIF </img> & H
+802. & <img> id-US20180102487A1-20180412-C00847.TIF </img> & H & <img> id-US20180102487A1-20180412-C00848.TIF </img> & H
+803. & <img> id-US20180102487A1-20180412-C00849.TIF </img> & H & <img> id-US20180102487A1-20180412-C00850.TIF </img> & H
+804. & <img> id-US20180102487A1-20180412-C00851.TIF </img> & H & <img> id-US20180102487A1-20180412-C00852.TIF </img> & H
+805. & <img> id-US20180102487A1-20180412-C00853.TIF </img> & H & CD2CH3 & H
+806. & <img> id-US20180102487A1-20180412-C00854.TIF </img> & H & CD(CH3)2 & H
+807. & <img> id-US20180102487A1-20180412-C00855.TIF </img> & H & CD2CH(CH3)2 & H
+808. & <img> id-US20180102487A1-20180412-C00856.TIF </img> & H & C(CH3)3 & H
+809. & <img> id-US20180102487A1-20180412-C00857.TIF </img> & H & CD2C(CH3)3 & H
+810. & <img> id-US20180102487A1-20180412-C00858.TIF </img> & H & CD2CH2CF3 & H
+811. & <img> id-US20180102487A1-20180412-C00859.TIF </img> & H & CD2C(CH3)2CF3 & H
+812. & <img> id-US20180102487A1-20180412-C00860.TIF </img> & H & <img> id-US20180102487A1-20180412-C00861.TIF </img> & H
+813. & <img> id-US20180102487A1-20180412-C00862.TIF </img> & H & <img> id-US20180102487A1-20180412-C00863.TIF </img> & H
+814. & <img> id-US20180102487A1-20180412-C00864.TIF </img> & H & <img> id-US20180102487A1-20180412-C00865.TIF </img> & H
+815. & <img> id-US20180102487A1-20180412-C00866.TIF </img> & H & <img> id-US20180102487A1-20180412-C00867.TIF </img> & H
+816. & <img> id-US20180102487A1-20180412-C00868.TIF </img> & H & <img> id-US20180102487A1-20180412-C00869.TIF </img> & H
+817. & <img> id-US20180102487A1-20180412-C00870.TIF </img> & H & <img> id-US20180102487A1-20180412-C00871.TIF </img> & H
+818. & <img> id-US20180102487A1-20180412-C00872.TIF </img> & H & CD2CH3 & H
+819. & <img> id-US20180102487A1-20180412-C00873.TIF </img> & H & CD(CH3)2 & H
+820. & <img> id-US20180102487A1-20180412-C00874.TIF </img> & H & CD2CH(CH3)2 & H
+821. & <img> id-US20180102487A1-20180412-C00875.TIF </img> & H & C(CH3)3 & H
+822. & <img> id-US20180102487A1-20180412-C00876.TIF </img> & H & CD2C(CH3)3 & H
+823. & <img> id-US20180102487A1-20180412-C00877.TIF </img> & H & CD2CH2CF3 & H
+824. & <img> id-US20180102487A1-20180412-C00878.TIF </img> & H & CD2C(CH3)2CF3 & H
+825. & <img> id-US20180102487A1-20180412-C00879.TIF </img> & H & <img> id-US20180102487A1-20180412-C00880.TIF </img> & H
+826. & <img> id-US20180102487A1-20180412-C00881.TIF </img> & H & <img> id-US20180102487A1-20180412-C00882.TIF </img> & H
+827. & <img> id-US20180102487A1-20180412-C00883.TIF </img> & H & <img> id-US20180102487A1-20180412-C00884.TIF </img> & H
+828. & <img> id-US20180102487A1-20180412-C00885.TIF </img> & H & <img> id-US20180102487A1-20180412-C00886.TIF </img> & H
+829. & <img> id-US20180102487A1-20180412-C00887.TIF </img> & H & <img> id-US20180102487A1-20180412-C00888.TIF </img> & H
+830. & <img> id-US20180102487A1-20180412-C00889.TIF </img> & H & <img> id-US20180102487A1-20180412-C00890.TIF </img> & H
+831. & <img> id-US20180102487A1-20180412-C00891.TIF </img> & H & CD2CH3 & H
+832. & <img> id-US20180102487A1-20180412-C00892.TIF </img> & H & CD(CH3)2 & H
+833. & <img> id-US20180102487A1-20180412-C00893.TIF </img> & H & CD2CH(CH3)2 & H
+834. & <img> id-US20180102487A1-20180412-C00894.TIF </img> & H & C(CH3)3 & H
+835. & <img> id-US20180102487A1-20180412-C00895.TIF </img> & H & CD2C(CH3)3 & H
+836. & <img> id-US20180102487A1-20180412-C00896.TIF </img> & H & CD2CH2CF3 & H
+837. & <img> id-US20180102487A1-20180412-C00897.TIF </img> & H & CD2C(CH3)2CF3 & H
+838. & <img> id-US20180102487A1-20180412-C00898.TIF </img> & H & <img> id-US20180102487A1-20180412-C00899.TIF </img> & H
+839. & <img> id-US20180102487A1-20180412-C00900.TIF </img> & H & <img> id-US20180102487A1-20180412-C00901.TIF </img> & H
+840. & <img> id-US20180102487A1-20180412-C00902.TIF </img> & H & <img> id-US20180102487A1-20180412-C00903.TIF </img> & H
+841. & <img> id-US20180102487A1-20180412-C00904.TIF </img> & H & <img> id-US20180102487A1-20180412-C00905.TIF </img> & H
+842. & <img> id-US20180102487A1-20180412-C00906.TIF </img> & H & <img> id-US20180102487A1-20180412-C00907.TIF </img> & H
+843. & <img> id-US20180102487A1-20180412-C00908.TIF </img> & H & <img> id-US20180102487A1-20180412-C00909.TIF </img> & H
+844. & <img> id-US20180102487A1-20180412-C00910.TIF </img> & H & CD2CH3 & H
+845. & <img> id-US20180102487A1-20180412-C00911.TIF </img> & H & CD(CH3)2 & H
+846. & <img> id-US20180102487A1-20180412-C00912.TIF </img> & H & CD2CH(CH3)2 & H
+847. & <img> id-US20180102487A1-20180412-C00913.TIF </img> & H & C(CH3)3 & H
+848. & <img> id-US20180102487A1-20180412-C00914.TIF </img> & H & CD2C(CH3)3 & H
+849. & <img> id-US20180102487A1-20180412-C00915.TIF </img> & H & CD2CH2CF3 & H
+850. & <img> id-US20180102487A1-20180412-C00916.TIF </img> & H & CD2C(CH3)2CF3 & H
+851 . & <img> id-US20180102487A1-20180412-C00917.TIF </img> & H & <img> id-US20180102487A1-20180412-C00918.TIF </img> & H
+852. & <img> id-US20180102487A1-20180412-C00919.TIF </img> & H & <img> id-US20180102487A1-20180412-C00920.TIF </img> & H
+853. & <img> id-US20180102487A1-20180412-C00921.TIF </img> & H & <img> id-US20180102487A1-20180412-C00922.TIF </img> & H
+854. & <img> id-US20180102487A1-20180412-C00923.TIF </img> & H & <img> id-US20180102487A1-20180412-C00924.TIF </img> & H
+855. & <img> id-US20180102487A1-20180412-C00925.TIF </img> & H & <img> id-US20180102487A1-20180412-C00926.TIF </img> & H
+856. & <img> id-US20180102487A1-20180412-C00927.TIF </img> & H & <img> id-US20180102487A1-20180412-C00928.TIF </img> & H
 </table>
 In some embodiments, the compound is selected from the group consisting of Compound 1 through Compound 1,085,408, where:(I) for Compound 1 through Compound 542,704, Compound x has the formula Ir(LAp,i)(LBj)2; where x=856i+j−856; i is an integer from 1 to 634, and j is an integer from 1 to 856, and(II) for Compound 542,705 through Compound 1,085,408, Compound x has the formula Ir(LAm,i)(LBj)2; where x=856i+j+541,848; i is an integer from 1 to 634, and j is an integer from 1 to 856;
 In some embodiments, the compound can be an emissive dopant. In some embodiments, the compound can produce emissions via phosphorescence, fluorescence, thermally activated delayed fluorescence, i.e., TADF (also referred to as E-type delayed fluorescence), triplet-triplet annihilation, or combinations of these processes.
@@ -1595,6 +1602,7 @@ In another embodiments, an organic light emitting device (OLED) that includes an
 The OLED disclosed herein can be incorporated into one or more of a consumer product, an electronic component module, and a lighting panel. The organic layer can be an emissive layer and the compound can be an emissive dopant in some embodiments, while the compound can be a non-emissive dopant in other embodiments.
 The organic layer can also include a host. In some embodiments, two or more hosts are preferred. In some embodiments, the hosts used maybe a) bipolar, b) electron transporting, c) hole transporting or d) wide band gap materials that play little role in charge transport. In some embodiments, the host can include a metal complex. The host can be a triphenylene containing benzo-fused thiophene or benzo-fused furan. Any substituent in the host can be an unfused substituent independently selected from the group consisting of CnH2n+1, OCnH2n+1, OAr1, N(CnH2n+1)2, N(Ar1)(Ar2), CH═CH-CnH2n+1, C≡C-CnH2n+1, Ar1, Ar1-Ar2, and CnH2n-Ar1, or the host has no substitution. In the preceding substituents n can range from 1 to 10; and Ar1 and Ar2 can be independently selected from the group consisting of benzene, biphenyl, naphthalene, triphenylene, carbazole, and heteroaromatic analogs thereof. The host can be an inorganic compound. For example a Zn containing inorganic material e.g. ZnS.
 The host can be a compound comprising at least one chemical group selected from the group consisting of triphenylene, carbazole, dibenzothiophene, dibenzofuran, dibenzoselenophene, azatriphenylene, azacarbazole, aza-dibenzothiophene, aza-dibenzofuran, and aza-dibenzoselenophene. The host can include a metal complex. The host can be, but is not limited to, a specific compound selected from the group consisting of:
+<img> id-US20180102487A1-20180412-C00929.TIF </img><img> id-US20180102487A1-20180412-C00930.TIF </img><img> id-US20180102487A1-20180412-C00931.TIF </img><img> id-US20180102487A1-20180412-C00932.TIF </img>
 and combinations thereof. Additional information on possible hosts is provided below.
 In yet another aspect of the present disclosure, a formulation that comprises a compound according to Formula Ir(LA)n(LB)3-n is described. The formulation can include one or more components selected from the group consisting of a solvent, a host, a hole injection material, hole transport material, and an electron transport layer material, disclosed herein.
 Combination with Other Materials
@@ -1602,67 +1610,92 @@ The materials described herein as useful for a particular layer in an organic li
 Conductivity Dopants:
 A charge transport layer can be doped with conductivity dopants to substantially alter its density of charge carriers, which will in turn alter its conductivity. The conductivity is increased by generating charge carriers in the matrix material, and depending on the type of dopant, a change in the Fermi level of the semiconductor may also be achieved. Hole-transporting layer can be doped by p-type conductivity dopants and n-type conductivity dopants are used in the electron-transporting layer.
 Non-limiting examples of the conductivity dopants that may be used in an OLED in combination with materials disclosed herein are exemplified below together with references that disclose those materials: EP01617493, EP01968131, EP2020694, EP2684932, US20050139810, US20070160905, US20090167167, US2010288362, WO06081780, WO2009003455, WO2009008277, WO2009011327, WO2014009310, US2007252140, US2015060804 and US2012146012.
+<img> id-US20180102487A1-20180412-C00933.TIF </img><img> id-US20180102487A1-20180412-C00934.TIF </img><img> id-US20180102487A1-20180412-C00935.TIF </img>
 HIL/HTL:
 A hole injecting/transporting material to be used in the present invention is not particularly limited, and any compound may be used as long as the compound is typically used as a hole injecting/transporting material. Examples of the material include, but are not limited to: a phthalocyanine or porphyrin derivative; an aromatic amine derivative; an indolocarbazole derivative; a polymer containing fluorohydrocarbon; a polymer with conductivity dopants; a conducting polymer, such as PEDOT/PSS; a self-assembly monomer derived from compounds such as phosphonic acid and silane derivatives; a metal oxide derivative, such as MoOx; a p-type semiconducting organic compound, such as 1,4,5,8,9,12-Hexaazatriphenylenehexacarbonitrile; a metal complex, and a cross-linkable compounds.
 Examples of aromatic amine derivatives used in HIL or HTL include, but not limit to the following general structures:
+<img> id-US20180102487A1-20180412-C00936.TIF </img>
 Each of Ar1 to Ar9 is selected from the group consisting of aromatic hydrocarbon cyclic compounds such as benzene, biphenyl, triphenyl, triphenylene, naphthalene, anthracene, phenalene, phenanthrene, fluorene, pyrene, chrysene, perylene, and azulene; the group consisting of aromatic heterocyclic compounds such as dibenzothiophene, dibenzofuran, dibenzoselenophene, furan, thiophene, benzofuran, benzothiophene, benzoselenophene, carbazole, indolocarbazole, pyridylindole, pyrrolodipyridine, pyrazole, imidazole, triazole, oxazole, thiazole, oxadiazole, oxatriazole, dioxazole, thiadiazole, pyridine, pyridazine, pyrimidine, pyrazine, triazine, oxazine, oxathiazine, oxadiazine, indole, benzimidazole, indazole, indoxazine, benzoxazole, benzisoxazole, benzothiazole, quinoline, isoquinoline, cinnoline, quinazoline, quinoxaline, naphthyridine, phthalazine, pteridine, xanthene, acridine, phenazine, phenothiazine, phenoxazine, benzofuropyridine, furodipyridine, benzothienopyridine, thienodipyridine, benzoselenophenopyridine, and selenophenodipyridine; and the group consisting of 2 to 10 cyclic structural units which are groups of the same type or different types selected from the aromatic hydrocarbon cyclic group and the aromatic heterocyclic group and are bonded to each other directly or via at least one of oxygen atom, nitrogen atom, sulfur atom, silicon atom, phosphorus atom, boron atom, chain structural unit and the aliphatic cyclic group. Each Ar may be unsubstituted or may be substituted by a substituent selected from the group consisting of deuterium, halide, alkyl, cycloalkyl, heteroalkyl, arylalkyl, alkoxy, aryloxy, amino, silyl, alkenyl, cycloalkenyl, heteroalkenyl, alkynyl, aryl, heteroaryl, acyl, carbonyl, carboxylic acids, ester, nitrile, isonitrile, sulfanyl, sulfinyl, sulfonyl, phosphino, and combinations thereof.
 In one aspect, Ar1 to Ar9 is independently selected from the group consisting of:
+<img> id-US20180102487A1-20180412-C00937.TIF </img>
 wherein k is an integer from 1 to 20; X101 to X108 is C (including CH) or N; Z101 is NAr1, O, or S; Ar1 has the same group defined above.
 Examples of metal complexes used in HIL or HTL include, but are not limited to the following general formula:
+<img> id-US20180102487A1-20180412-C00938.TIF </img>
 wherein Met is a metal, which can have an atomic weight greater than 40; (Y101-Y102) is a bidentate ligand, Y101 and Y102 are independently selected from C, N, O, P, and S; L101 is an ancillary ligand; k' is an integer value from 1 to the maximum number of ligands that may be attached to the metal; and k'+k″ is the maximum number of ligands that may be attached to the metal.
 In one aspect, (Y101-Y102) is a 2-phenylpyridine derivative. In another aspect, (Y101-Y102) is a carbene ligand. In another aspect, Met is selected from Ir, Pt, Os, and Zn. In a further aspect, the metal complex has a smallest oxidation potential in solution vs. Fc+/Fc couple less than about 0.6 V.
 Non-limiting examples of the HIL and HTL materials that may be used in an OLED in combination with materials disclosed herein are exemplified below together with references that disclose those materials: CN102702075, DE102012005215, EP01624500, EP01698613, EP01806334, EP01930964, EP01972613, EP01997799, EP02011790, EP02055700, EP02055701, EP1725079, EP2085382, EP2660300, EP650955, JP07-073529, JP2005112765, JP2007091719, JP2008021687, JP2014-009196, KR20110088898, KR20130077473, TW201139402, U.S. Pat. No. 06,517,957, US20020158242, US20030162053, US20050123751, US20060182993, US20060240279, US20070145888, US20070181874, US20070278938, US20080014464, US20080091025, US20080106190, US20080124572, US20080145707, US20080220265, US20080233434, US20080303417, US2008107919, US20090115320, US20090167161, US2009066235, US2011007385, US20110163302, US2011240968, US2011278551, US2012205642, US2013241401, US20140117329, US2014183517, U.S. Pat. No. 5,061,569, U.S. Pat. No. 5,639,914, WO05075451, WO07125714, WO08023550, WO08023759, WO2009145016, WO2010061824, WO2011075644, WO2012177006, WO2013018530, WO2013039073, WO2013087142, WO2013118812, WO2013120577, WO2013157367, WO2013175747, WO2014002873, WO2014015935, WO2014015937, WO2014030872, WO2014030921, WO2014034791, WO2014104514, WO2014157018.
+<img> id-US20180102487A1-20180412-C00939.TIF </img><img> id-US20180102487A1-20180412-C00940.TIF </img><img> id-US20180102487A1-20180412-C00941.TIF </img><img> id-US20180102487A1-20180412-C00942.TIF </img><img> id-US20180102487A1-20180412-C00943.TIF </img><img> id-US20180102487A1-20180412-C00944.TIF </img><img> id-US20180102487A1-20180412-C00945.TIF </img><img> id-US20180102487A1-20180412-C00946.TIF </img><img> id-US20180102487A1-20180412-C00947.TIF </img><img> id-US20180102487A1-20180412-C00948.TIF </img><img> id-US20180102487A1-20180412-C00949.TIF </img><img> id-US20180102487A1-20180412-C00950.TIF </img><img> id-US20180102487A1-20180412-C00951.TIF </img><img> id-US20180102487A1-20180412-C00952.TIF </img><img> id-US20180102487A1-20180412-C00953.TIF </img><img> id-US20180102487A1-20180412-C00954.TIF </img>
 EBL:
 An electron blocking layer (EBL) may be used to reduce the number of electrons and/or excitons that leave the emissive layer. The presence of such a blocking layer in a device may result in substantially higher efficiencies, and or longer lifetime, as compared to a similar device lacking a blocking layer. Also, a blocking layer may be used to confine emission to a desired region of an OLED. In some embodiments, the EBL material has a higher LUMO (closer to the vacuum level) and/or higher triplet energy than the emitter closest to the EBL interface. In some embodiments, the EBL material has a higher LUMO (closer to the vacuum level) and or higher triplet energy than one or more of the hosts closest to the EBL interface. In one aspect, the compound used in EBL contains the same molecule or the same functional groups used as one of the hosts described below.
 Host:
 The light emitting layer of the organic EL device of the present invention preferably contains at least a metal complex as light emitting material, and may contain a host material using the metal complex as a dopant material. Examples of the host material are not particularly limited, and any metal complexes or organic compounds may be used as long as the triplet energy of the host is larger than that of the dopant. Any host material may be used with any dopant so long as the triplet criteria is satisfied.
 Examples of metal complexes used as host are preferred to have the following general formula:
+<img> id-US20180102487A1-20180412-C00955.TIF </img>
 wherein Met is a metal; (Y103-Y104) is a bidentate ligand, Y103 and Y104 are independently selected from C, N, O, P, and S; L101 is an another ligand; k' is an integer value from 1 to the maximum number of ligands that may be attached to the metal; and k'+k″ is the maximum number of ligands that may be attached to the metal.
 In one aspect, the metal complexes are:
+<img> id-US20180102487A1-20180412-C00956.TIF </img>
 wherein (O-N) is a bidentate ligand, having metal coordinated to atoms O and N.
 In another aspect, Met is selected from Ir and Pt. In a further aspect, (Y103-Y104) is a carbene ligand.
 Examples of other organic compounds used as host are selected from the group consisting of aromatic hydrocarbon cyclic compounds such as benzene, biphenyl, triphenyl, triphenylene, tetraphenylene, naphthalene, anthracene, phenalene, phenanthrene, fluorene, pyrene, chrysene, perylene, and azulene; the group consisting of aromatic heterocyclic compounds such as dibenzothiophene, dibenzofuran, dibenzoselenophene, furan, thiophene, benzofuran, benzothiophene, benzoselenophene, carbazole, indolocarbazole, pyridylindole, pyrrolodipyridine, pyrazole, imidazole, triazole, oxazole, thiazole, oxadiazole, oxatriazole, dioxazole, thiadiazole, pyridine, pyridazine, pyrimidine, pyrazine, triazine, oxazine, oxathiazine, oxadiazine, indole, benzimidazole, indazole, indoxazine, benzoxazole, benzisoxazole, benzothiazole, quinoline, isoquinoline, cinnoline, quinazoline, quinoxaline, naphthyridine, phthalazine, pteridine, xanthene, acridine, phenazine, phenothiazine, phenoxazine, benzofuropyridine, furodipyridine, benzothienopyridine, thienodipyridine, benzoselenophenopyridine, and selenophenodipyridine; and the group consisting of 2 to 10 cyclic structural units which are groups of the same type or different types selected from the aromatic hydrocarbon cyclic group and the aromatic heterocyclic group and are bonded to each other directly or via at least one of oxygen atom, nitrogen atom, sulfur atom, silicon atom, phosphorus atom, boron atom, chain structural unit and the aliphatic cyclic group. Each option within each group may be unsubstituted or may be substituted by a substituent selected from the group consisting of deuterium, halide, alkyl, cycloalkyl, heteroalkyl, arylalkyl, alkoxy, aryloxy, amino, silyl, alkenyl, cycloalkenyl, heteroalkenyl, alkynyl, aryl, heteroaryl, acyl, carbonyl, carboxylic acids, ester, nitrile, isonitrile, sulfanyl, sulfinyl, sulfonyl, phosphino, and combinations thereof.
 In one aspect, the host compound contains at least one of the following groups in the molecule:
+<img> id-US20180102487A1-20180412-C00957.TIF </img><img> id-US20180102487A1-20180412-C00958.TIF </img>
 wherein each of R101 to R107 is independently selected from the group consisting of hydrogen, deuterium, halide, alkyl, cycloalkyl, heteroalkyl, arylalkyl, alkoxy, aryloxy, amino, silyl, alkenyl, cycloalkenyl, heteroalkenyl, alkynyl, aryl, heteroaryl, acyl, carbonyl, carboxylic acids, ester, nitrile, isonitrile, sulfanyl, sulfinyl, sulfonyl, phosphino, and combinations thereof, and when it is aryl or heteroaryl, it has the similar definition as Ar's mentioned above. k is an integer from 0 to 20 or 1 to 20; k'″ is an integer from 0 to 20. X101 to X108 is selected from C (including CH) or N. Z101 and Z102 is selected from NR101, O, or S.
 Non-limiting examples of the host materials that may be used in an OLED in combination with materials disclosed herein are exemplified below together with references that disclose those materials: EP2034538, EP2034538A, EP2757608, JP2007254297, KR20100079458, KR20120088644, KR20120129733, KR20130115564, TW201329200, US20030175553, US20050238919, US20060280965, US20090017330, US20090030202, US20090167162, US20090302743, US20090309488, US20100012931, US20100084966, US20100187984, US2010187984, US2012075273, US2012126221, US2013009543, US2013105787, US2013175519, US2014001446, US20140183503, US20140225088, US2014034914, U.S. Pat. No. 7,154,114, WO2001039234, WO2004093207, WO2005014551, WO2005089025, WO2006072002, WO2006114966, WO2007063754, WO2008056746, WO2009003898, WO2009021126, WO2009063833, WO2009066778, WO2009066779, WO2009086028, WO2010056066, WO2010107244, WO2011081423, WO2011081431, WO2011086863, WO2012128298, WO2012133644, WO2012133649, WO2013024872, WO2013035275, WO2013081315, WO2013191404, WO2014142472,
+<img> id-US20180102487A1-20180412-C00959.TIF </img><img> id-US20180102487A1-20180412-C00960.TIF </img><img> id-US20180102487A1-20180412-C00961.TIF </img><img> id-US20180102487A1-20180412-C00962.TIF </img><img> id-US20180102487A1-20180412-C00963.TIF </img><img> id-US20180102487A1-20180412-C00964.TIF </img><img> id-US20180102487A1-20180412-C00965.TIF </img><img> id-US20180102487A1-20180412-C00966.TIF </img><img> id-US20180102487A1-20180412-C00967.TIF </img><img> id-US20180102487A1-20180412-C00968.TIF </img><img> id-US20180102487A1-20180412-C00969.TIF </img><img> id-US20180102487A1-20180412-C00970.TIF </img>
 Additional Emitters:
 One or more additional emitter dopants may be used in conjunction with the compound of the present disclosure. Examples of the additional emitter dopants are not particularly limited, and any compounds may be used as long as the compounds are typically used as emitter materials. Examples of suitable emitter materials include, but are not limited to, compounds which can produce emissions via phosphorescence, fluorescence, thermally activated delayed fluorescence, i.e., TADF (also referred to as E-type delayed fluorescence), triplet-triplet annihilation, or combinations of these processes.
 Non-limiting examples of the emitter materials that may be used in an OLED in combination with materials disclosed herein are exemplified below together with references that disclose those materials: CN103694277, CN1696137, EB01238981, EP01239526, EP01961743, EP1239526, EP1244155, EP1642951, EP1647554, EP1841834, EP1841834B, EP2062907, EP2730583, JP2012074444, JP2013110263, JP4478555, KR1020090133652, KR20120032054, KR20130043460, TW201332980, U.S. Pat. No. 06,699,599, U.S. Pat. No. 06,916,554, US20010019782, US20020034656, US20030068526, US20030072964, US20030138657, US20050123788, US20050244673, US2005123791, US2005260449, US20060008670, US20060065890, US20060127696, US20060134459, US20060134462, US20060202194, US20060251923, US20070034863, US20070087321, US20070103060, US20070111026, US20070190359, US20070231600, US2007034863, US2007104979, US2007104980, US2007138437, US2007224450, US2007278936, US20080020237, US20080233410, US20080261076, US20080297033, US200805851, US2008161567, US2008210930, US20090039776, US20090108737, US20090115322, US20090179555, US2009085476, US2009104472, US20100090591, US20100148663, US20100244004, US20100295032, US2010102716, US2010105902, US2010244004, US2010270916, US20110057559, US20110108822, US20110204333, US2011215710, US2011227049, US2011285275, US2012292601, US20130146848, US2013033172, US2013165653, US2013181190, US2013334521, US20140246656, US2014103305, U.S. Pat. No. 6,303,238, U.S. Pat. No. 6,413,656, U.S. Pat. No. 6,653,654, U.S. Pat. No. 6,670,645, U.S. Pat. No. 6,687,266, U.S. Pat. No. 6,835,469, U.S. Pat. No. 6,921,915, U.S. Pat. No. 7,279,704, U.S. Pat. No. 7,332,232, U.S. Pat. No. 7,378,162, U.S. Pat. No. 7,534,505, U.S. Pat. No. 7,675,228, U.S. Pat. No. 7,728,137, U.S. Pat. No. 7,740,957, U.S. Pat. No. 7,759,489, U.S. Pat. No. 7,951,947, U.S. Pat. No. 8,067,099, U.S. Pat. No. 8,592,586, U.S. Pat. No. 8,871,361, WO06081973, WO06121811, WO07018067, WO07108362, WO07115970, WO07115981, WO08035571, WO2002015645, WO2003040257, WO2005019373, WO2006056418, WO2008054584, WO2008078800, WO2008096609, WO2008101842, WO2009000673, WO2009050281, WO2009100991, WO2010028151, WO2010054731, WO2010086089, WO2010118029, WO2011044988, WO2011051404, WO2011107491, WO2012020327, WO2012163471, WO2013094620, WO2013107487, WO2013174471, WO2014007565, WO2014008982, WO2014023377, WO2014024131, WO2014031977, WO2014038456, WO2014112450.
+<img> id-US20180102487A1-20180412-C00971.TIF </img><img> id-US20180102487A1-20180412-C00972.TIF </img><img> id-US20180102487A1-20180412-C00973.TIF </img><img> id-US20180102487A1-20180412-C00974.TIF </img><img> id-US20180102487A1-20180412-C00975.TIF </img><img> id-US20180102487A1-20180412-C00976.TIF </img><img> id-US20180102487A1-20180412-C00977.TIF </img><img> id-US20180102487A1-20180412-C00978.TIF </img><img> id-US20180102487A1-20180412-C00979.TIF </img><img> id-US20180102487A1-20180412-C00980.TIF </img><img> id-US20180102487A1-20180412-C00981.TIF </img><img> id-US20180102487A1-20180412-C00982.TIF </img><img> id-US20180102487A1-20180412-C00983.TIF </img><img> id-US20180102487A1-20180412-C00984.TIF </img><img> id-US20180102487A1-20180412-C00985.TIF </img><img> id-US20180102487A1-20180412-C00986.TIF </img><img> id-US20180102487A1-20180412-C00987.TIF </img><img> id-US20180102487A1-20180412-C00988.TIF </img><img> id-US20180102487A1-20180412-C00989.TIF </img><img> id-US20180102487A1-20180412-C00990.TIF </img><img> id-US20180102487A1-20180412-C00991.TIF </img><img> id-US20180102487A1-20180412-C00992.TIF </img>
 HBL:
 A hole blocking layer (HBL) may be used to reduce the number of holes and/or excitons that leave the emissive layer. The presence of such a blocking layer in a device may result in substantially higher efficiencies and/or longer lifetime as compared to a similar device lacking a blocking layer. Also, a blocking layer may be used to confine emission to a desired region of an OLED. In some embodiments, the HBL material has a lower HOMO (further from the vacuum level) and or higher triplet energy than the emitter closest to the HBL interface. In some embodiments, the HBL material has a lower HOMO (further from the vacuum level) and or higher triplet energy than one or more of the hosts closest to the HBL interface.
 In one aspect, compound used in HBL contains the same molecule or the same functional groups used as host described above.
 In another aspect, compound used in HBL contains at least one of the following groups in the molecule:
+<img> id-US20180102487A1-20180412-C00993.TIF </img>
 wherein k is an integer from 1 to 20; L101 is an another ligand, k' is an integer from 1 to 3.
 ETL:
 Electron transport layer (ETL) may include a material capable of transporting electrons. Electron transport layer may be intrinsic (undoped), or doped. Doping may be used to enhance conductivity. Examples of the ETL material are not particularly limited, and any metal complexes or organic compounds may be used as long as they are typically used to transport electrons.
 In one aspect, compound used in ETL contains at least one of the following groups in the molecule:
+<img> id-US20180102487A1-20180412-C00994.TIF </img>
 wherein R101 is selected from the group consisting of hydrogen, deuterium, halide, alkyl, cycloalkyl, heteroalkyl, arylalkyl, alkoxy, aryloxy, amino, silyl, alkenyl, cycloalkenyl, heteroalkenyl, alkynyl, aryl, heteroaryl, acyl, carbonyl, carboxylic acids, ester, nitrile, isonitrile, sulfanyl, sulfinyl, sulfonyl, phosphino, and combinations thereof, when it is aryl or heteroaryl, it has the similar definition as Ar's mentioned above. Ar1 to Ar3 has the similar definition as Ar's mentioned above. k is an integer from 1 to 20. X101 to X108 is selected from C (including CH) or N.
 In another aspect, the metal complexes used in ETL contains, but not limit to the following general formula:
+<img> id-US20180102487A1-20180412-C00995.TIF </img>
 wherein (O-N) or (N-N) is a bidentate ligand, having metal coordinated to atoms O, N or N, N; L101 is another ligand; k' is an integer value from 1 to the maximum number of ligands that may be attached to the metal.
 Non-limiting examples of the ETL materials that may be used in an OLED in combination with materials disclosed herein are exemplified below together with references that disclose those materials: CN103508940, EP01602648, EP01734038, EP01956007, JP2004-022334, JP2005149918, JP2005-268199, KR0117693, KR20130108183, US20040036077, US20070104977, US2007018155, US20090101870, US20090115316, US20090140637, US20090179554, US2009218940, US2010108990, US2011156017, US2011210320, US2012193612, US2012214993, US2014014925, US2014014927, US20140284580, U.S. Pat. No. 6,656,612, U.S. Pat. No. 8415031, WO2003060956, WO2007111263, WO2009148269, WO2010067894, WO2010072300, WO2011074770, WO2011105373, WO2013079217, WO2013145667, WO2013180376, WO2014104499, WO2014104535,
+<img> id-US20180102487A1-20180412-C00996.TIF </img><img> id-US20180102487A1-20180412-C00997.TIF </img><img> id-US20180102487A1-20180412-C00998.TIF </img><img> id-US20180102487A1-20180412-C00999.TIF </img><img> id-US20180102487A1-20180412-C01000.TIF </img><img> id-US20180102487A1-20180412-C01001.TIF </img><img> id-US20180102487A1-20180412-C01002.TIF </img><img> id-US20180102487A1-20180412-C01003.TIF </img><img> id-US20180102487A1-20180412-C01004.TIF </img>
 Charge Generation Layer (CGL)
 In tandem or stacked OLEDs, the CGL plays an essential role in the performance, which is composed of an n-doped layer and a p-doped layer for injection of electrons and holes, respectively. Electrons and holes are supplied from the CGL and electrodes. The consumed electrons and holes in the CGL are refilled by the electrons and holes injected from the cathode and anode, respectively; then, the bipolar currents reach a steady state gradually. Typical CGL materials include n and p conductivity dopants used in the transport layers.
 In any above-mentioned compounds used in each layer of the OLED device, the hydrogen atoms can be partially or fully deuterated. Thus, any specifically listed substituent, such as, without limitation, methyl, phenyl, pyridyl, etc. may be undeuterated, partially deuterated, and fully deuterated versions thereof. Similarly, classes of substituents such as, without limitation, alkyl, aryl, cycloalkyl, heteroaryl, etc. also may be undeuterated, partially deuterated, and fully deuterated versions thereof.
 Experimental
 Synthesis of Compound 275205
+<img> id-US20180102487A1-20180412-C01005.TIF </img>
 Step 1:
+<img> id-US20180102487A1-20180412-C01006.TIF </img>
 4-Iodo-1,2-dimethylbenzene (12.9 g, 55.6 mmol) was charged into the reaction flask with dimethyl sulfoxide-d6 (D6-DMSO)(60 ml, 857 mmol) followed by sodium tert-butoxide (1.8 g, 18.75 mmol). This mixture was degassed with nitrogen then was stirred at 65° C. for 18 hours. The reaction was cooled down and quenched with 75 mL of D2O. This mixture was stirred at room temperature (˜22° C.) for 45 minutes. The mixture was then diluted with 200 mL of water and was extracted with 3×70 mL of dichloromethane (DCM). These extracts were dried over magnesium sulfate, filtered and concentrated under vacuum. The crude residue was subjected to column chromatography on silica gel eluted with DCM/heptanes 95/5 (v/v). Pure fractions were combined and concentrated under vacuum yielding 4-iodo-1,2-bis(methyl-d3)benzene (12.1 g, 50.8 mmol, 91% yield).
 Step 2
+<img> id-US20180102487A1-20180412-C01007.TIF </img>
 4-iodo-1,2-bis(methyl-d3)benzene (16.9 g, 71.0 mmol), 4,4,4',4',5,5,5',5'-octamethyl-2,2'-bi(1,3,2-dioxaborolane) (19.83 g, 78 mmol), and 1,1'-bis(diphenylphosphino)ferrocene-palladium(II) dichloride (2.030 g, 2.484 mmol) were charged into the reaction flask with 200 mL of dioxane, followed by the addition of potassium acetate (14.61 g, 149 mmol). This mixture was degassed with nitrogen then heated to reflux for 18 hours. The reaction mixture was cooled down to room temperature 22° C.), then dioxane was removed under vacuum. The crude material was diluted with 300 mL of water and extracted with 3×70 mL of DCM. These extracts were dried over magnesium sulfate, filtered and concentrated under vacuum. The crude residue was subjected to column chromatography on silica gel eluted with DCM/heptanes 40/60 to 70/30 (v/v) gradient mixture, yielding 2-(3,4-bis(methyl-d3)phenyl)-4,4,5,5-tetramethyl-1,3,2-dioxaborolane (11.5 g, 48.3 mmol, 68.0% yield) as a dark oil.
 Step 3
+<img> id-US20180102487A1-20180412-C01008.TIF </img>
 8-(4-chloro-5-methylpyridin-2-yl)-2-methylbenzofuro[2,3-b]pyridine (6.2 g, 20.08 mmol), 2-(3,4-bis(methyl-d3)phenyl)-4,4,5,5-tetramethyl-1,3,2-dioxaborolane (8.37 g, 35.1 mmol), dicyclohexyl(2',6'-dimethoxy-[1,1'-biphenyl]-2-yl)phosphane (SPhos) (1.6 g, 3.90 mmol), and tris(dibenzylideneacetone)palladium(0) (Pd2(dba)3) (0.643 g, 0.703 mmol) were charged into the reaction flask with 350 mL of 1,2-dimethoxyethane (DME). Potassium phosphate tribasic monohydrate (23.09 g, 100 mmol) was dissolved in 50 mL of water then charged into the reaction flask. This mixture was degassed and heated to reflux for 18 hours. The reaction mixture was cooled down to room temperature and DME was removed under vacuum. The residue was partitioned between DCM/water. The DCM extracts were combined, dried over magnesium sulfate, then filtered and concentrated under vacuum. The crude residue was subjected to column chromatography on silica gel eluted with ethyl acetate/DCM 2/98 to 10/90 (v/v) gradient mixture. The pure fractions were combined and concentrated under vacuum yielding 8-(4-(3,4-bis(methyl-d3)phenyl)-5-methylpyridin-2-yl)-2-methylbenzofuro[2,3-b]pyridine (5 g, 13.00 mmol, 64.8% yield)
 Step 4
+<img> id-US20180102487A1-20180412-C01009.TIF </img>
 8-(4-(3,4-bis(methyl-d3)phenyl)-5-methylpyridin-2-yl)-2-methylbenzofuro[2,3-b]pyridine (5 g, 13.00 mmol) was dissolved in 45 mL of tetrahydrofuran (THF). Dimethyl sulfoxide-d6 (40 ml, 571 mmol) was added by syringe into the reaction mixture. Sodium tert-butoxide (0.63 g, 6.56 mmol) was added as one portion to the reaction mixture. This mixture was degassed and heated at 65° C. for 17 hours, then cooled down to room temperature. The reaction mixture was quenched with 60 mL of D20 and was stirred at room temperature for 45 minutes. This mixture was then diluted with 200 mL of water, then extracted with 3×70 mL DCM. These extracts were combined, dried over magnesium sulfate, then filtered and concentrated under vacuum, The crude residue was subjected to column chromatography on silica gel columns eluted with 1-3 vol-% THF/97-99 vol-% DCM. The resulting product fractions were combined and concentrated under vacuum yielding 4 g of product. This material was recrystallized from ethyl acetate several times yielding 8-(4-(3,4-bis(methyl-d3)phenyl)-5-(methyl-d3)pyridin-2-yl)-2-(methyl-d3)benzofuro[2,3-b]pyridine (2.1 g, 5.38 mmol, 41.4% yield).
 Step 5
+<img> id-US20180102487A1-20180412-C01010.TIF </img>
 8-(4-(3,4-bis(methyl-d3)phenyl)-5-(methyl-d3)pyridin-2-yl)-2-(methyl-d3)benzofuro[2,3-b]pyridine (2.1 g, 5.38 mmol) was dissolved in 65 mL of ethanol. The “iridium salt” shown above (2.23 g, 2.98 mmol) was charged into the reaction mixture with 60 mL of methanol. This mixture was degassed with nitrogen then heated in an oil bath at 73° C. for 6 days. Heating was discontinued. The reaction was diluted with 50 mL of methanol, then filtered under vacuum. The resulting material was dried under vacuum, then dissolved in 400 mL of DCM before being passed through a plug of activated basic alumina. The DCM filtrate was concentrated under vacuum then passed through 7×120 g silica gel columns eluting the columns with 1st 90-99 vol-% toluene/1-10 vol-% heptanes and second with 1-2 vol-% ethyl acetate/98-99 vol-% toluene. Clean product fractions yielded the desired iridium complex (0.4 g, 0.433 mmol, 8.05% yield).
 Synthsis of Compound 812773
+<img> id-US20180102487A1-20180412-C01011.TIF </img>
 Step 1
+<img> id-US20180102487A1-20180412-C01012.TIF </img>
 2,5-Dichloro-4-methylpyridine (7 g, 43.2 mmol), 2-methyl-8-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)benzofuro[2,3-b]pyridine (13.36 g, 43.2 mmol), and potassium carbonate (11.94 g, 86 mmol) were suspended in a mixture of DME (180 ml) and water (10 ml) under nitrogen at room temperature. Tetrakis(triphenylphosphine)palladium(0) (Pd(PPh3)4) (0.499 g, 0.432 mmol) was added as one portion, the reaction mixture was degassed and heated at 100° C. for 14 hours under nitrogen. The reaction mixture was then cooled down to room temperature and the organic phase was separated and filtered. Ethanol (100 ml) was added as one portion and the resulting mixture was stirred, then the white precipitate was filtered off. The remaining solution was evaporated and the residue was subjected to column chromatography on silica gel column, eluted with heptanes/DCM 1/1 (v/v), then heptanes/EtOAc 4/1 (v/v) to yield a white solid, which was combined with the white precipitate. The combined solids were recrystallized from DCM/heptanes, yielding 8-(5-chloro-4-methylpyridin-2-yl)-2-methylbenzofuro[2,3-b]pyridine (11 g, 83% yield).
 Step 2
+<img> id-US20180102487A1-20180412-C01013.TIF </img>
 8-(5-Chloro-4-methylpyridin-2-yl)-2-methylbenzofuro[2,3-b]pyridine (11 g, 35.6 mmol), p-tolylboronic acid (5.81 g, 42.8 mmol), and potassium phosphate tribasic hydrate (16.41 g, 71.3 mmol) were suspended in the mixture of DME (150 ml) and water (5 ml) to give a colorless suspension. Pd2(dba)3 (0.326 g, 0.356 mmol) and dicyclohexyl(2',6'-dimethoxy-[1,1'-biphenyl]-2-yl)phosphane (Sphos, 0.293 g, 0.713 mmol) were added as one portion. The reaction mixture was degassed and heated at 100° C. for 14 hours under nitrogen. The reaction mixture was then cooled down to room temperature. The organic phase was separated, filtered, and evaporated. The residue was then subjected to column chromatography on silica gel, eluted with heptanes/THF 9/1 (v/v) gradient mixture, providing 2-methyl-8-(4-methyl-5-(p-tolyl)pyridin-2-yl)benzofuro[2,3-b]pyridine as a white solid (9.2 g, 71% yield).
 Step 3
+<img> id-US20180102487A1-20180412-C01014.TIF </img>
 2-Methyl-8-(4-methyl-5-(p-tolyl)pyridin-2-yl)benzofuro[2,3-b]pyridine was dissolved in 55 g of DMSO-d6, then 1.2 of sodium tert-butoxide was added. The reaction mixture was degassed and stirred under nitrogen at 60° C. for 12 h. The reaction mixture was quenched with D2O, diluted with water, and extracted with ethyl acetate. The organic solution was dried over sodium sulfate, filtered, and evaporated. The residue was subjected to column chromatography on silica gel, eluted with heptanes/THF 9/1 (v/v), providing 3.7 g of deuterated product with a 40% yield.
 Step 4
+<img> id-US20180102487A1-20180412-C01015.TIF </img>
 2-(Methyl-d3)-8-(4-(methyl-d3)-5-(4-(methyl-d3)phenyl)pyridin-2-yl)benzofuro[2,3-b]pyridine (3.67 g, 9.83 mmol, 2.45 eq.) and the above iridium complex triflic salt were suspended in 50 ml of a 1/1 (v/v) mixture of ethanol and methanol. The reaction mixture was degassed and heated to reflux under nitrogen for 96 hour. Then, the reaction mixture was cooled to room temperature and a yellow solid precipitate was filtered off. Pure material was obtained by column chromatography on silica gel, eluted with toluene/heptanes 9/1 (v/v), followed by crystallization from toluene/heptanes and DCM/methanol, providing the target compound (1.1 g, 30% yield).
 Device Examples
 All example devices were fabricated by high vacuum (<10−7 Torr) thermal evaporation. The anode electrode was 750 Å of indium tin oxide (ITO). The cathode consisted of 10 Å of Liq (8-hydroxyquinoline lithium) followed by 1,000 Å of Al. All devices were encapsulated with a glass lid sealed with an epoxy resin in a nitrogen glove box (<1 ppm of H2O and O2) immediately after fabrication with a moisture getter incorporated inside the package. The organic stack of the device examples consisted of sequentially, from the ITO surface: 100 Å of HAT-CN as the hole injection layer (HIL); 450 Å of HTM as a hole transporting layer (HTL); emissive layer (EML) with thickness 400 Å. Emissive layer containing H-host (H1): E-host (H2) in a 6:4 weight ratio and 12 weight % of green emitter. 350 Å of Liq (8-hydroxyquinoline lithium) doped with 40% of ETM as the ETL. Device structure is shown in the Table 1.
@@ -1683,6 +1716,7 @@ schematic device structure
  & 
 </table>
 Table 1 shows the schematic device structure. The chemical structures of the materials used in the device examples are shown below.
+<img> id-US20180102487A1-20180412-C01016.TIF </img><img> id-US20180102487A1-20180412-C01017.TIF </img><img> id-US20180102487A1-20180412-C01018.TIF </img>
 Upon fabrication, the devices are tested for EL, JVL and lifetime at DC 80 mA/cm2. LT95 at 1,000 nits was calculated from 80 mA/cm2 assuming an acceleration factor of 1.8. Device performance is shown in the Table 2
 <table>
 <header>

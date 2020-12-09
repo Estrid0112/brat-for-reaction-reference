@@ -21,6 +21,7 @@ A is a group represented by formula (1-A);
 B is a group represented by formula (1-B);
 L is a single bond, a substituted or unsubstituted arylene group having 6 to 50 ring carbon atoms, or a substituted or unsubstituted heteroarylene group having 5 to 50 ring atoms; and
 L is bonded to one of R1 to R4 of formula (i-A) and R11 to R14 of formula (1-B);
+<img> id-US20180029983A1-20180201-C00002.TIF </img>
 wherein:
 Ra and Rb, Rb and Rc, or Rc and Rd are direct bonds which are respectively bonded to sites * of formula (1-a) to form a ring structure;
 the others of Ra to Rd are each independently a hydrogen atom or a substituent, or adjacent two thereof are bonded to each other to form a ring structure;
@@ -29,6 +30,7 @@ R1 to R8 not bonded to L are each independently a hydrogen atom or a substituent
 L1 is a single bond, a substituted or unsubstituted arylene group having 6 to 50 ring carbon atoms, or a substituted or unsubstituted heteroarylene group having 5 to 50 ring atoms;
 Q1 is a substituted or unsubstituted aryl group having 6 to 50 ring carbon atoms or a substituted or unsubstituted heteroaryl group having 5 to 40 ring atoms; and
 X is an oxygen atom or a sulfur atom;
+<img> id-US20180029983A1-20180201-C00003.TIF </img>
 wherein:
 Re and Rf, Rf and Rg, or Rg and Rh are direct bonds which are respectively bonded to sites * of formula (1-b) to form a ring structure;
 the others of Re to Rh are each independently a hydrogen atom or a substituent, or adjacent two thereof are bonded to each other to form a ring structure;
@@ -81,6 +83,7 @@ A is a group represented by formula (1-A);
 B is a group represented by formula (1-B);
 L is a single bond, a substituted or unsubstituted arylene group having 6 to 50 ring carbon atoms, or a substituted or unsubstituted heteroarylene group having 5 to 50 ring atoms; and
 L is bonded to one of R1 to R4 of formula (1-A) and R11 to R14 of formula (1-B).
+<img> id-US20180029983A1-20180201-C00004.TIF </img>
 Ra to Rd of Formula (1-A)
 Ra and Rb, Rb and Rc, or Rc and Rd are direct bonds which are respectively bonded to sites * of formula (1-a) to form a ring structure. The others of Ra to Rd are each independently a hydrogen atom or a substituent, or adjacent two thereof are bonded to each other to form a ring structure, and preferably all hydrogen atoms. When Ra and Rb are direct bonds which are respectively bonded to the sites * of formula (1-a), thereby forming a ring structure, it is possible for only Rc and Rd to form a ring structure by being bonded to each other. When Rc and Rd are direct bonds which are respectively bonded to the sites * of formula (1-a), thereby forming a ring structure, it is possible only for Ra and Rb to form a ring structure by being bonded to each other.
 The substituent and preferred examples thereof are as described above, and more preferred are a substituted or unsubstituted alkyl group having 1 to 50, preferably 1 to 18, more preferably 1 to 8 carbon atoms, a halogen atom, a cyano group, and a substituted or unsubstituted alkoxy group having 1 to 20, preferably 1 to 5, more preferably 1 to 4 carbon atoms.
@@ -102,12 +105,15 @@ Examples of the heteroaryl group for Q1 include a pyrrolyl group, a furyl group,
 In view of the emission efficiency and the lifetime, examples of the heteroaryl group are preferably a furyl group, a thienyl group, a pyridyl group, an imidazopyridyl group, a pyridazinyl group, a pyrimidinyl group, a pyridinyl group, a triazinyl group, a benzimidazolyl group, a dibenzofuranyl group, a dibenzothiophenyl group, and a phenanthrolinyl group each being substituted or unsubstituted, more preferably a substituted or unsubstituted pyrimidinyl group and a substituted or unsubstituted triazinyl group, and still more preferably a substituted pyrimidinyl group and a substituted triazinyl group, and particularly preferably a disubstituted pyrimidinyl group and a disubstituted triazinyl group.
 In view of the emission efficiency and the lifetime, Q1 is preferably a substituted or unsubstituted aryl group having 6 to 50 ring carbon atoms and particularly preferably a substituted or unsubstituted phenyl group, a substituted or unsubstituted biphenylyl group, a naphthyl group, a phenanthryl group, a benzophenanthryl group, a fluorenyl group, a 9,9-disubstituted fluorenyl group, a spirobifluorenyl group, a benzofluorenyl group, a benzochrysenyl group, a fluoranthenyl group, a benzofluoranthenyl group, or a triphenylenyl group.
 In view of the emission efficiency and the lifetime, Q1 is also preferably a group represented by formula (3), more preferably a group represented by formula (3-1), and still more preferably a group represented by any of formulae (3-2) to (3-4):
+<img> id-US20180029983A1-20180201-C00005.TIF </img>
 wherein:
 at least one selected from Z1 to Z5 is a nitrogen atom and the others are each independently C(R30), wherein R30 is a hydrogen atom or a substituent; and
 when two or more of Z1 to Z5 are C(R30), variables R30 may be the same or different and variables R30 may be bonded to each other to form a ring structure;
+<img> id-US20180029983A1-20180201-C00006.TIF </img>
 wherein:
 each of Z2 to Z5 is independently a nitrogen atom or C(R30), wherein R30 is a hydrogen atom or a substituent; and
 when two or more of Z2 to Z5 are C(R30), variables R30 may be the same or different and variables R30 may be bonded to each other to form a ring structure;
+<img> id-US20180029983A1-20180201-C00007.TIF </img>
 wherein:
 each of R31 to R34 is independently a hydrogen atom or a substituent;
 R31 and R32, and R32 and R33 in formula (3-2) may be bonded to each other to form a ring structure; and
@@ -115,9 +121,11 @@ R33 and R34 in formula (3-3) may be bonded to each other to form a ring structur
 Formulae (3) and (3-1)
 The substituent represented by R30 is as described above with respect to Ra to Rd, and preferably a substituted or unsubstituted aryl group having 6 to 50 ring carbon atoms, more preferably a substituted or unsubstituted aryl group having 6 to 30 ring carbon atoms, still more preferably a substituted or unsubstituted aryl group having 6 to 20 ring carbon atoms, and particularly preferably a substituted or unsubstituted phenyl group.
 When variables R30 are bonded to each other to form a ring structure, formula (3) represents the following groups. The ring structure may be an aromatic ring as shown below or a partly saturated ring.
+<img> id-US20180029983A1-20180201-C00008.TIF </img>
 Formulae (3-2) to (3-4)
 The substituent represented by R1 to R34 and preferred examples thereof are as described above with respect to R30.
 When R31 and R32 or R32 and R33 of formula (3-2) are bonded to each other to form a ring structure, or R33 and R34 of formula (3-3) are bonded to each other to form a ring structure, formulae (3-2) and (3-3) represent, for example, the following groups. The ring structure may be an aromatic ring as shown below or a partly saturated ring.
+<img> id-US20180029983A1-20180201-C00009.TIF </img>
 X of Formula (1-a)
 X is an oxygen atom or a sulfur atom. In a preferred embodiment, X is an oxygen atom, and in another preferred embodiment, X is a sulfur atom. X is more preferably an oxygen atom.
 Re to Rh of Formula (1-B)
@@ -148,6 +156,7 @@ Each of R19 and R20 is independently a hydrogen atom, a substituted or unsubstit
 R21 is a substituted or unsubstituted alkyl group having 1 to 20 carbon atoms, a substituted or unsubstituted aryl group having 6 to 50 ring carbon atoms, a substituted or unsubstituted heteroaryl group having 5 to 50 ring atoms, or a substituted or unsubstituted fluoroalkyl group having 1 to 20 carbon atoms.
 Preferred examples of the substituent represented by each of R19, R20, and R21 include a substituted or unsubstituted alkyl group having 1 to 50, preferably 1 to 18, more preferably 1 to 8 carbon atoms; a substituted or unsubstituted aryl group having 6 to 50, preferably 6 to 25, more preferably 6 to 18 ring carbon atoms; and a substituted or unsubstituted heteroaryl group having 5 to 50, preferably 5 to 24, more preferably 5 to 13 ring atoms. More preferably, the substituent represented by R19 and R20 is independently a substituted or unsubstituted alkyl group having 1 to 50, preferably 1 to 18, more preferably 1 to 8 carbon atoms or a substituted or unsubstituted aryl group having 6 to 50, preferably 6 to 25, more preferably 6 to 18 ring carbon atoms, with a substituted or unsubstituted aryl group having 6 to 50, preferably 6 to 25, more preferably 6 to 18 ring carbon atoms being still more preferred. The substituent represented by R21 is more preferably a substituted or unsubstituted aryl group having 6 to 50, preferably 6 to 25, more preferably 6 to 18 ring carbon atoms.
 The ring structure formed when R19 and R20 of C(R19)(R20) are bonded to each other is, for example, the following structure:
+<img> id-US20180029983A1-20180201-C00010.TIF </img>
 Y is preferably C(R19)(R20), an oxygen atom, or a sulfur atom and more preferably an oxygen atom.
 L of Formula (1)
 L is a single bond, a substituted or unsubstituted arylene group having 6 to 50 ring carbon atoms, or a substituted or unsubstituted heteroarylene group having 5 to 50 ring atoms.
@@ -155,13 +164,16 @@ The arylene group and the heteroarylene group for L and preferred examples there
 In view of the emission efficiency and the lifetime, L is preferably a single bond or a substituted or unsubstituted arylene group having 6 to 50 ring carbon atoms and more preferably a single bond.
 L is preferably bonded to one of R1 to R4 of formula (1-A) and R11 to R14 of formula (1-B). Namely, as described above, although one of R1 to R8 of formula (1-A) can be bonded to L and one of R11 to R18 of formula (1-B) can be bonded to L, one of R1 to R4 and R11 to R14 is necessarily bonded to L in a preferred embodiment.
 For example, a compound wherein L is bonded to R3 of formula (1-A) and R13 of formula (1-B) is shown below.
+<img> id-US20180029983A1-20180201-C00011.TIF </img>
 Example of A of Formula (1)
 In view of the emission efficiency and the lifetime, A is preferably a group represented by any of formulae (1-A-1) to (1-A-6):
+<img> id-US20180029983A1-20180201-C00012.TIF </img><img> id-US20180029983A1-20180201-C00013.TIF </img>
 wherein:
 R1 to R8, X, L1, Q1, and preferred examples thereof are as defined above; and
 each of Ra to Rd is independently a hydrogen atom or a substituent, wherein the substituent is as described above with respect to Ra to Rd.
 Example of B of Formula (1)
 In view of the emission efficiency and the lifetime, B is preferably a group represented by any of formulae (1-B-1) to (1-B-6):
+<img> id-US20180029983A1-20180201-C00014.TIF </img><img> id-US20180029983A1-20180201-C00015.TIF </img>
 wherein:
 R11 to R18, Y, L2, Q2, and preferred examples thereof are as defined above; and
 each of Re to Rh is independently a hydrogen atom or a substituent, wherein the substituent is as described above with respect to Re to Rh.
@@ -169,25 +181,30 @@ In view of the emission efficiency and the lifetime, in formula (1), A is bonded
 In view of the emission efficiency and the lifetime, B is bonded to L preferably via any of R11 to R14, more preferably via R12 or R13, and still more preferably via R13 of formulae (1-B) and (1-B-1) to (1-B-6).
 Preferred Embodiment of the Compound Represented by Formula (1)
 In view of the emission efficiency and the lifetime, the compound represented by formula (1) is preferably a compound represented by formula (2):
+<img> id-US20180029983A1-20180201-C00016.TIF </img>
 wherein Ra, Rd, Re, Rh, R5 to R8, R15 to R18, X, Y, L, L1, L2, Q1, Q2, and preferred examples thereof are as defined above.
 Two benzene rings to which L is bonded may have a substituent, wherein the substituent is as described above with respect to R1 to R4 and R11 to R14. The substituents may be bonded to each other to form a ring structure. Preferably, two benzene rings to which L is bonded have no substituent.
 In view of the emission efficiency and the lifetime, the compound represented by formula (1) is more preferably a compound represented by any of formulae (2-1) to (2-4):
+<img> id-US20180029983A1-20180201-C00017.TIF </img><img> id-US20180029983A1-20180201-C00018.TIF </img>
 wherein Ra, Rd, Re, Rh, R5 to R8, R15 to R18, X, Y, L, L1, L2, Q1, Q2, and preferred examples thereof are as defined above; and
 each of R1 to R4 and R11 to R14 is independently a hydrogen atom or a substituent, and adjacent substituents may be bonded to each other to form a ring structure.
 The substituent represented by R1 to R4 and R11 to R14 is as defined above. Preferably, adjacent substituents do not form a ring structure.
 R1 to R4 and R11 to R14 are preferably all hydrogen atoms.
 In view of the emission efficiency and the lifetime, the compound represented by formula (1) is still more preferably a compound represented by any of formulae (2-1') to (2-4') and further still more preferably a compound represented by any of formulae (2-1'), (2-3'), and (2-4'):
+<img> id-US20180029983A1-20180201-C00019.TIF </img><img> id-US20180029983A1-20180201-C00020.TIF </img>
 wherein Ra, Rd, Re, Rh, R5 to R8, R15 to R18, X, Y, L1, L2, Q1, Q2, and preferred examples thereof are as defined above; and
 each of R1 to R4 and R11 to R14 is independently a hydrogen atom or a substituent, and adjacent substituents may be bonded to each other to form a ring structure.
 The substituent represented by R1 to R4 and R11 to R14 is as defined above. Preferably, adjacent substituents do not form a ring structure.
 R1 to R4 and R11 to R14 are preferably all hydrogen atoms.
 In view of the emission efficiency and the lifetime, the compound represented by formula (1) is still more preferably a compound represented by any of formulae (2-1'-i) to (2-4'-i) and further still more preferably a compound represented by formula (2-1'-i) or (2-4'-i):
+<img> id-US20180029983A1-20180201-C00021.TIF </img><img> id-US20180029983A1-20180201-C00022.TIF </img>
 wherein Ra, Rd, Re, Rh, R5 to R8, R15 to R18, X, L1, L2, Q1, Q2, and preferred examples thereof are as defined above; and
 each of R1 to R4 and R11 to R14 is independently a hydrogen atom or a substituent, and adjacent substituents may be bonded to each other to form a ring structure.
 The substituent represented by R1 to R4 and R11 to R14 is as defined above. Preferably, adjacent substituents do not form a ring structure.
 R1 to R4 and R11 to R14 are preferably all hydrogen atoms.
 Z is an oxygen atom or a sulfur atom. In view of the emission efficiency and the lifetime, Z is preferably an oxygen atom.
 In view of the emission efficiency and the lifetime, the compound represented by formula (1) is still more preferably a compound represented by any of formulae (2-1'-i-O) to (2-4'-i-O) and further still more preferably a compound represented by (2-1'-i-O) or (2-4'-i-O):
+<img> id-US20180029983A1-20180201-C00023.TIF </img><img> id-US20180029983A1-20180201-C00024.TIF </img>
 wherein Ra, Rd, Re, Rh, R5 to R8, R15 to R18, L1, L2, Q1, Q2, and preferred examples thereof are as defined above; and
 each of R1 to R4 and R11 to R14 is independently a hydrogen atom or a substituent, and adjacent substituents may be bonded to each other to form a ring structure.
 The substituent represented by R1 to R4 and R11 to R14 is as defined above. Preferably, adjacent substituents do not form a ring structure.
@@ -196,6 +213,8 @@ In view of the emission efficiency and the lifetime, the compound represented by
 In view of the emission efficiency and the lifetime, the compound represented by any of the formulae mentioned above wherein Q1 is a group represented by any of formulae (3) and (3-1) to (3-4) and Q2 is a substituted or unsubstituted aryl group having 6 to 50 ring carbon atoms is also preferred. Such a compound (1) of the invention is suitable as a host material (particularly a phosphorescent material) of a light emitting layer.
 In view of the emission efficiency and the lifetime, in any of the formulae mentioned above, R1 to R8 not bonded to L, R11 to R18 not bonded to L, Ra to Rd not bonded to the site * of formula (1-a), thereby failing to form a ring structure, and Re to Rh not bonded to the site * of formula (1-b), thereby failing to form a ring structure are preferably all hydrogen atoms.
 Examples of the compound in an aspect of the invention are shown below, although not limited thereto.
+<img> id-US20180029983A1-20180201-C00025.TIF </img><img> id-US20180029983A1-20180201-C00026.TIF </img><img> id-US20180029983A1-20180201-C00027.TIF </img><img> id-US20180029983A1-20180201-C00028.TIF </img><img> id-US20180029983A1-20180201-C00029.TIF </img><img> id-US20180029983A1-20180201-C00030.TIF </img><img> id-US20180029983A1-20180201-C00031.TIF </img><img> id-US20180029983A1-20180201-C00032.TIF </img><img> id-US20180029983A1-20180201-C00033.TIF </img><img> id-US20180029983A1-20180201-C00034.TIF </img><img> id-US20180029983A1-20180201-C00035.TIF </img><img> id-US20180029983A1-20180201-C00036.TIF </img><img> id-US20180029983A1-20180201-C00037.TIF </img><img> id-US20180029983A1-20180201-C00038.TIF </img><img> id-US20180029983A1-20180201-C00039.TIF </img><img> id-US20180029983A1-20180201-C00040.TIF </img><img> id-US20180029983A1-20180201-C00041.TIF </img><img> id-US20180029983A1-20180201-C00042.TIF </img><img> id-US20180029983A1-20180201-C00043.TIF </img><img> id-US20180029983A1-20180201-C00044.TIF </img><img> id-US20180029983A1-20180201-C00045.TIF </img><img> id-US20180029983A1-20180201-C00046.TIF </img><img> id-US20180029983A1-20180201-C00047.TIF </img><img> id-US20180029983A1-20180201-C00048.TIF </img><img> id-US20180029983A1-20180201-C00049.TIF </img><img> id-US20180029983A1-20180201-C00050.TIF </img><img> id-US20180029983A1-20180201-C00051.TIF </img><img> id-US20180029983A1-20180201-C00052.TIF </img><img> id-US20180029983A1-20180201-C00053.TIF </img><img> id-US20180029983A1-20180201-C00054.TIF </img><img> id-US20180029983A1-20180201-C00055.TIF </img><img> id-US20180029983A1-20180201-C00056.TIF </img><img> id-US20180029983A1-20180201-C00057.TIF </img><img> id-US20180029983A1-20180201-C00058.TIF </img><img> id-US20180029983A1-20180201-C00059.TIF </img><img> id-US20180029983A1-20180201-C00060.TIF </img><img> id-US20180029983A1-20180201-C00061.TIF </img><img> id-US20180029983A1-20180201-C00062.TIF </img><img> id-US20180029983A1-20180201-C00063.TIF </img><img> id-US20180029983A1-20180201-C00064.TIF </img><img> id-US20180029983A1-20180201-C00065.TIF </img><img> id-US20180029983A1-20180201-C00066.TIF </img><img> id-US20180029983A1-20180201-C00067.TIF </img><img> id-US20180029983A1-20180201-C00068.TIF </img><img> id-US20180029983A1-20180201-C00069.TIF </img><img> id-US20180029983A1-20180201-C00070.TIF </img><img> id-US20180029983A1-20180201-C00071.TIF </img><img> id-US20180029983A1-20180201-C00072.TIF </img><img> id-US20180029983A1-20180201-C00073.TIF </img><img> id-US20180029983A1-20180201-C00074.TIF </img><img> id-US20180029983A1-20180201-C00075.TIF </img><img> id-US20180029983A1-20180201-C00076.TIF </img><img> id-US20180029983A1-20180201-C00077.TIF </img><img> id-US20180029983A1-20180201-C00078.TIF </img><img> id-US20180029983A1-20180201-C00079.TIF </img><img> id-US20180029983A1-20180201-C00080.TIF </img><img> id-US20180029983A1-20180201-C00081.TIF </img><img> id-US20180029983A1-20180201-C00082.TIF </img><img> id-US20180029983A1-20180201-C00083.TIF </img><img> id-US20180029983A1-20180201-C00084.TIF </img><img> id-US20180029983A1-20180201-C00085.TIF </img><img> id-US20180029983A1-20180201-C00086.TIF </img><img> id-US20180029983A1-20180201-C00087.TIF </img><img> id-US20180029983A1-20180201-C00088.TIF </img><img> id-US20180029983A1-20180201-C00089.TIF </img><img> id-US20180029983A1-20180201-C00090.TIF </img><img> id-US20180029983A1-20180201-C00091.TIF </img>
+<img> id-US20180029983A1-20180201-C00092.TIF </img><img> id-US20180029983A1-20180201-C00093.TIF </img><img> id-US20180029983A1-20180201-C00094.TIF </img><img> id-US20180029983A1-20180201-C00095.TIF </img><img> id-US20180029983A1-20180201-C00096.TIF </img><img> id-US20180029983A1-20180201-C00097.TIF </img><img> id-US20180029983A1-20180201-C00098.TIF </img><img> id-US20180029983A1-20180201-C00099.TIF </img><img> id-US20180029983A1-20180201-C00100.TIF </img><img> id-US20180029983A1-20180201-C00101.TIF </img><img> id-US20180029983A1-20180201-C00102.TIF </img><img> id-US20180029983A1-20180201-C00103.TIF </img><img> id-US20180029983A1-20180201-C00104.TIF </img><img> id-US20180029983A1-20180201-C00105.TIF </img><img> id-US20180029983A1-20180201-C00106.TIF </img><img> id-US20180029983A1-20180201-C00107.TIF </img><img> id-US20180029983A1-20180201-C00108.TIF </img><img> id-US20180029983A1-20180201-C00109.TIF </img><img> id-US20180029983A1-20180201-C00110.TIF </img><img> id-US20180029983A1-20180201-C00111.TIF </img><img> id-US20180029983A1-20180201-C00112.TIF </img><img> id-US20180029983A1-20180201-C00113.TIF </img><img> id-US20180029983A1-20180201-C00114.TIF </img><img> id-US20180029983A1-20180201-C00115.TIF </img><img> id-US20180029983A1-20180201-C00116.TIF </img><img> id-US20180029983A1-20180201-C00117.TIF </img><img> id-US20180029983A1-20180201-C00118.TIF </img><img> id-US20180029983A1-20180201-C00119.TIF </img><img> id-US20180029983A1-20180201-C00120.TIF </img><img> id-US20180029983A1-20180201-C00121.TIF </img><img> id-US20180029983A1-20180201-C00122.TIF </img><img> id-US20180029983A1-20180201-C00123.TIF </img><img> id-US20180029983A1-20180201-C00124.TIF </img><img> id-US20180029983A1-20180201-C00125.TIF </img><img> id-US20180029983A1-20180201-C00126.TIF </img><img> id-US20180029983A1-20180201-C00127.TIF </img><img> id-US20180029983A1-20180201-C00128.TIF </img><img> id-US20180029983A1-20180201-C00129.TIF </img><img> id-US20180029983A1-20180201-C00130.TIF </img><img> id-US20180029983A1-20180201-C00131.TIF </img><img> id-US20180029983A1-20180201-C00132.TIF </img><img> id-US20180029983A1-20180201-C00133.TIF </img><img> id-US20180029983A1-20180201-C00134.TIF </img><img> id-US20180029983A1-20180201-C00135.TIF </img><img> id-US20180029983A1-20180201-C00136.TIF </img><img> id-US20180029983A1-20180201-C00137.TIF </img><img> id-US20180029983A1-20180201-C00138.TIF </img><img> id-US20180029983A1-20180201-C00139.TIF </img><img> id-US20180029983A1-20180201-C00140.TIF </img><img> id-US20180029983A1-20180201-C00141.TIF </img><img> id-US20180029983A1-20180201-C00142.TIF </img><img> id-US20180029983A1-20180201-C00143.TIF </img><img> id-US20180029983A1-20180201-C00144.TIF </img><img> id-US20180029983A1-20180201-C00145.TIF </img><img> id-US20180029983A1-20180201-C00146.TIF </img><img> id-US20180029983A1-20180201-C00147.TIF </img><img> id-US20180029983A1-20180201-C00148.TIF </img><img> id-US20180029983A1-20180201-C00149.TIF </img><img> id-US20180029983A1-20180201-C00150.TIF </img><img> id-US20180029983A1-20180201-C00151.TIF </img><img> id-US20180029983A1-20180201-C00152.TIF </img><img> id-US20180029983A1-20180201-C00153.TIF </img>
 Material for Organic EL Device
 The material for organic EL device in an aspect of the invention comprises the compound (1) mentioned above. The content of the compound (1) is preferably 50% by mass or more, more preferably 70% by mass or more, still more preferably 80% by mass or more, and particularly preferably 90% by mass or more. The material for organic EL device may contain the compound (1) solely. The preferred compounds thereof are as described above. The following description made with respect to the compound (1) is equally applicable to the preferred compounds.
 The material for organic EL device in an aspect of the invention is useful as a material for producing an organic EL device, for example, as a material for at least one organic thin film layer disposed between an anode and a cathode, particularly as a material for a hole transporting layer, a material of a hole injecting layer, or a host material (particularly a phosphorescent host material) for a light emitting layer.
@@ -232,15 +251,19 @@ Other materials are also usable if their hole transporting ability is higher tha
 The layer comprising a highly hole-transporting material may be a single layer or a laminate of two or more layers each comprising the material mentioned above. For example, the hole transporting layer may be made into a two-layered structure of a first hole transporting layer (anode side) and a second hole transporting layer (light emitting layer side). In such a two-layered structure, the compound (1) may be used in either of the first hole transporting layer and the second hole transporting layer.
 In the organic EL device in an aspect of the invention, a layer (acceptor layer) comprising an electron-accepting compound (acceptor material) may be formed on the anode-side of the hole transporting layer or the first hole transporting layer, because it is expected that the driving voltage is lowered and the production cost is reduced.
 A compound represented by formula (A) or (B) is preferably used as the acceptor compound:
+<img> id-US20180029983A1-20180201-C00154.TIF </img>
 wherein R311 to R316 may be the same or different and each independently represent a cyano group, -CONH2, a carboxyl group, or -COOR317 wherein R317 represents an alkyl group having 1 to 20 carbon atoms or a cycloalkyl group having 3 to 20 carbon atoms; and one or more selected from R311 and R312, R313 and R314, or R315 and R316 may be bonded to each other to form a group represented by -CO-O-CO-.
 R317 is a methyl group, an ethyl group, a n-propyl group, an isopropyl group, a n-butyl group, an isobutyl group, a t-butyl group, a cyclopentyl group, or a cyclohexyl group.
+<img> id-US20180029983A1-20180201-C00155.TIF </img>
 wherein:
 R41 to R44 may be the same or different and each represents a hydrogen atom, a substituted or unsubstituted alkyl group having 1 to 20 carbon atoms, a substituted or unsubstituted aryl group having 6 to 50 carbon atoms, a substituted or unsubstituted heterocyclic group having 5 to 50 ring atoms, a halogen atom, a substituted or unsubstituted fluoroalkyl group having 1 to 20 carbon atoms, a substituted or unsubstituted alkoxy group having 1 to 20 carbon atoms, a substituted or unsubstituted aryloxy group having 6 to 50 carbon atoms, or a cyano group;
 adjacent groups of R21 to R24 may be bonded to each other to form a ring;
 Y1 to Y4 may be the same or different and each represents -N═, -CH═, or -C(R45)═, wherein R45 represents a substituted or unsubstituted alkyl group having 1 to 20 carbon atoms, a substituted or unsubstituted aryl group having 6 to 50 carbon atoms, a substituted or unsubstituted heterocyclic group having 5 to 50 ring atoms, a halogen atom, a substituted or unsubstituted alkoxy group having 1 to 20 carbon atoms, a substituted or unsubstituted aryloxy group having 6 to 50 ring carbon atoms, or a cyano group;
 Ar10 represents a fused ring having 6 to 24 ring carbon atoms or a hetero cyclic ring having 6 to 24 ring atoms; and
 each of ar1 and ar2 independently represents a ring represented by formula (i) or (ii):
+<img> id-US20180029983A1-20180201-C00156.TIF </img>
 wherein X1 and X2 may be the same or different and each represents a divalent group represented by any one of formulae (a) to (g):
+<img> id-US20180029983A1-20180201-C00157.TIF </img>
 wherein:
 R51 to R54 may be the same or different and each represents a hydrogen atom, a substituted or unsubstituted alkyl group having 1 to 20 carbon atoms,
 a substituted or unsubstituted aryl group having 6 to 50 carbon atoms, or a substituted or unsubstituted heterocyclic group having 5 to 50 ring atoms; and
@@ -301,83 +324,117 @@ The compounds recited in the claims of this application can be synthesized by us
 Intermediate Synthesis 1: Synthesis of Intermediate 1
 Under an argon atmosphere, a mixture of 103.6 g (512.6 mmol) of 2-nitrobromobenzene, 108.7 g (512.7 mmol) of dibenzofuran-2-boronic acid, and 11.84 g (10.2 mmol) of Pd[PPh3]4 in 1200 ml of toluene and 770 ml (1540.0 mmol) of a 2 M aqueous solution of sodium carbonate was stirred and refluxed for 23 h under heating.
 After the reaction, the mixture was cooled to room temperature, and the organic layer was separated in a separatory funnel. The organic layer was dried over anhydrous magnesium sulfate, filtered, and then concentrated. The concentrate residue was purified by silica gel column chromatography to obtain 106.2 g (yield: 72%) of a white solid, which was identified as the following intermediate 1 by FD-MS analysis (Field Desorption Mass Spectrometry).
+<img> id-US20180029983A1-20180201-C00158.TIF </img>
 Intermediate Synthesis 2: Synthesis of Intermediate 2
 Under an argon atmosphere, a mixture of 106.2 g (367.3 mmol) of the intermediate 1 and 240.8 g (918.1 mmol) of triphenylphosphine in 710 ml of o-dichlorobenzene was stirred at 189° C. for 12 h under heating.
 After the reaction, the mixture was cooled to room temperature, and the precipitated crystal was collected by filtration. The crystal was dissolved in tetrahydrofuran and treated with silica gel at room temperature. Then, the silica gel was removed by filtration, and the filtrate was concentrated. The concentrate residue was purified by recrystallization to obtain 52.4 g (yield: 55%) of a white solid, which was identified as the following intermediate 2 by FD-MS analysis.
+<img> id-US20180029983A1-20180201-C00159.TIF </img>
 Intermediate Synthesis 3: Synthesis of Intermediate 3
 Under an argon atmosphere, a mixture of 52.4 g (203.7 mmol) of the intermediate 2 in 700 ml of dimethylformamide was stirred. After adding 36.2 g (203.7 mmol) of N-bromosuccinimide, the mixture was further stirred at room temperature for 12 h.
 After the reaction, the mixture was extracted with toluene in a separatory funnel. The organic layer was dried over anhydrous magnesium sulfate, filtered, and then concentrated. The concentrate residue was purified by silica gel column chromatography to obtain 43.1 g (yield: 63%) of a white solid, which was identified as the following intermediate 3 by FD-MS analysis.
+<img> id-US20180029983A1-20180201-C00160.TIF </img>
 Intermediate Synthesis 4: Synthesis of Intermediate 4
 Under an argon atmosphere, a mixture of 2.79 g (14.6 mmol) of CuI and 2.5 g (22.0 mmol) of trans-1,2-cyclohexanediamine in 140 ml of dioxane was stirred for one hour at room temperature. After adding 13.6 g (40.6 mmol) of the intermediate 3, 9.9 g (48.5 mmol) of iodobenzene, and 21.7 g (102.3 mmol) of tripotassium phosphate, the mixture was stirred at 90° C. for 2 h under heating.
 After the reaction, the mixture was cooled to room temperature, and the precipitated crystal was collected by filtration. The crystal was purified by silica gel column chromatography to obtain 13.4 g (yield: 80%) of a white solid, which was identified as the following intermediate 4 by FD-MS analysis.
+<img> id-US20180029983A1-20180201-C00161.TIF </img>
 Intermediate Synthesis 5: Synthesis of Intermediate 5
 Under an argon atmosphere, a mixture of 10.7 g (26.0 mmol) of the intermediate 4, 8.07 g (31.8 mmol) of bispinacolatodiboron, 296 mg (1.32 mmol) of palladium acetate, 742 mg (2.64 mmol) of tricyclohexylphosphine, and 5.2 g (53.0 mmol) of potassium acetate in 100 ml of N-methylpyrrolidone was stirred at 65° C. for 30 min and further stirred at 90° C. for 3 h.
 After the reaction, the mixture was cooled to room temperature, diluted with toluene, and filtered through celite. The mixture was extracted with toluene in a separatory funnel. The organic layer was dried over anhydrous magnesium sulfate, filtered, and then concentrated. The concentrate residue was purified by silica gel column chromatography to obtain 8.7 g (yield: 73%) of a white solid, which was identified as the following intermediate 5 by FD-MS analysis.
+<img> id-US20180029983A1-20180201-C00162.TIF </img>
 Intermediate Synthesis 6: Synthesis of Intermediate 6
 Under an argon atmosphere, a mixture of 4.6 g (10.0 mmol) of the intermediate 5, 3.4 g (10.0 mmol) of the intermediate 3, and 163.3 mg (0.2 mmol) of Pd[dppf]Cl2 in 50 ml of dioxane and 15 ml (30.0 mmol) of a 2 M aqueous solution of sodium carbonate was stirred and refluxed for 12 h under heating.
 After the reaction, the mixture was cooled to room temperature, and the organic layer was separated in a separatory funnel. The organic layer was dried over anhydrous magnesium sulfate, filtered, and then concentrated. The concentrate residue was purified by silica gel column chromatography to obtain 3.2 g (yield: 55%) of a white solid, which was identified as the following intermediate 6 by FD-MS analysis.
+<img> id-US20180029983A1-20180201-C00163.TIF </img>
 Intermediate Synthesis 7: Synthesis of Intermediate 7
 In the same manner as in Intermediate Synthesis 1 except for using 108.7 g of dibenzofuran-4-boronic acid in place of dibenzofuran-2-boronic acid, 103.3 g (yield: 70%) of a white solid was obtained, which was identified as the following intermediate 7 by FD-MS analysis.
+<img> id-US20180029983A1-20180201-C00164.TIF </img>
 Intermediate Synthesis 8: Synthesis of Intermediate 8
 In the same manner as in Intermediate Synthesis 2 except for using 103.3 g of the intermediate 7 in place of the intermediate 1, 56.0 g (yield: 61%) of a white solid was obtained, which was identified as the following intermediate 8 by FD-MS analysis.
+<img> id-US20180029983A1-20180201-C00165.TIF </img>
 Intermediate Synthesis 9: Synthesis of Intermediate 9
 In the same manner as in Intermediate Synthesis 3 except for using 56.0 g of the intermediate 8 in place of the intermediate 2, 40.2 g (yield: 55%) of a white solid was obtained, which was identified as the following intermediate 9 by FD-MS analysis.
+<img> id-US20180029983A1-20180201-C00166.TIF </img>
 Intermediate Synthesis 10: Synthesis of Intermediate 10
 In the same manner as in Intermediate Synthesis 4 except for using 13.6 g of the intermediate 9 in place of the intermediate 3, 10.8 g (yield: 65%) of a white solid was obtained, which was identified as the following intermediate 10 by FD-MS analysis.
+<img> id-US20180029983A1-20180201-C00167.TIF </img>
 Intermediate Synthesis 11: Synthesis of Intermediate 11
 In the same manner as in Intermediate Synthesis 5 except for using 10.8 g of the intermediate 10 in place of the intermediate 4, 7.3 g (yield: 61%) of a white solid was obtained, which was identified as the following intermediate 11 by FD-MS analysis.
+<img> id-US20180029983A1-20180201-C00168.TIF </img>
 Intermediate Synthesis 12: Synthesis of Intermediate 12
 In the same manner as in Intermediate Synthesis 1 except for using 116.9 g of dibenzothiophene-2-boronic acid in place of dibenzofuran-2-boronic acid, 117.4 g (yield: 75%) of a white solid was obtained, which was identified as the following intermediate 12 by FD-MS analysis.
+<img> id-US20180029983A1-20180201-C00169.TIF </img>
 Intermediate Synthesis 13: Synthesis of Intermediate 13
 In the same manner as in Intermediate Synthesis 2 except for using 117.4 g of the intermediate 12 in place of the intermediate 1, 63.1 g (yield: 60%) of a white solid was obtained, which was identified as the following intermediate 13 by FD-MS analysis.
+<img> id-US20180029983A1-20180201-C00170.TIF </img>
 Intermediate Synthesis 14: Synthesis of Intermediate 14
 In the same manner as in Intermediate Synthesis 3 except for using 63.1 g of the intermediate 13 in place of the intermediate 2, 46.3 g (yield: 57%) of a white solid was obtained, which was identified as the following intermediate 14 by FD-MS analysis.
+<img> id-US20180029983A1-20180201-C00171.TIF </img>
 Intermediate Synthesis 15: Synthesis of Intermediate 15
 In the same manner as in Intermediate Synthesis 4 except for using 14.3 g of the intermediate 14 in place of the intermediate 3, 11.8 g (yield: 68%) of a white solid was obtained, which was identified as the following intermediate 15 by FD-MS analysis.
+<img> id-US20180029983A1-20180201-C00172.TIF </img>
 Intermediate Synthesis 16: Synthesis of Intermediate 16
 In the same manner as in Intermediate Synthesis 5 except for using 11.1 g of the intermediate 15 in place of the intermediate 4, 8.0 g (yield: 65%) of a white solid was obtained, which was identified as the following intermediate 16 by FD-MS analysis.
+<img> id-US20180029983A1-20180201-C00173.TIF </img>
 Intermediate Synthesis 17: Synthesis of Intermediate 17
 In the same manner as in Intermediate Synthesis 6 except for using 4.8 g of the intermediate 16 in place of the intermediate 5 and using 3.5 g of the intermediate 14 in place of the intermediate 3, 2.8 g (yield: 45%) of a white solid was obtained, which was identified as the following intermediate 17 by FD-MS analysis.
+<img> id-US20180029983A1-20180201-C00174.TIF </img>
 Intermediate Synthesis 18: Synthesis of Intermediate 18
 Under an argon atmosphere, a mixture of 15 g (54.9 mmol) of 2-bromo-9,9-dimethylfluorene, 5 mL (54.9 mmol) of aniline, 0.754 g (0.82 mol) of tris(dibenzylideneacetone) dipalladium(0), 1.02 g (1.64 mmol) of 2,2'-bis(diphenylphosphino)-1,1'-binaphthyl (BINAP), and 10.5 g (109.3 mmol) of sodium t-butoxide in 270 mL of toluene was stirred and refluxed for 7 h under heating.
 After the reaction, the mixture was cooled to room temperature and extracted with ethyl acetate in a separatory funnel. The obtained organic layer was washed with a sodium carbonate aqueous solution, dried over anhydrous sodium sulfate, filtered, and then concentrated. The obtained residue was purified by silica gel column chromatography and recrystallization to obtain 12 g (yield: 77%) of solid, which was identified as the following intermediate 18 by FD-MS analysis.
+<img> id-US20180029983A1-20180201-C00175.TIF </img>
 Intermediate Synthesis 19: Synthesis of Intermediate 19
 Under the atmosphere, a mixture of 8.32 g (29.2 mmol) of the intermediate 18 in 29.2 mL of pivalic acid was heated to 120° C. After adding 0.404 g (2.92 mmol) of potassium carbonate and 7.87 g (35.1 mmol) of palladium acetate (II), the mixture was stirred for one hour.
 After the reaction, the mixture was cooled to room temperature, diluted with ethyl acetate, and filtered to remove the impurities. The obtained filtrate washed with a sodium carbonate aqueous solution, dried over anhydrous magnesium sulfate, filtered, and then concentrated. The obtained residue was purified by silica gel column chromatography and recrystallization to obtain 5.15 g (yield: 62%) of solid, which was identified as the following intermediate 19 by FD-MS analysis.
+<img> id-US20180029983A1-20180201-C00176.TIF </img>
 Intermediate Synthesis 20: Synthesis of Intermediate 20
 Under an argon atmosphere, into a mixture of 5.60 g (19.8 mmol) of the intermediate 19 in 99 mL of acetonitrile, 3.52 g (19.8 mmol) of N-bromosuccinimide was added under ice-cooling. The resultant mixture was stirred for one hour.
 After the reaction, the mixture was heated to room temperature and the generated solid was collected by filtration. The filtrate was extracted with ethyl acetate, washed with water, dried over anhydrous magnesium sulfate, filtered, and then concentrated. The concentrate residue and the solid collected by filtration was combined and purified by silica gel column chromatography to obtain 6.93 g (yield: 97%) of solid, which was identified as the following intermediate 20 by FD-MS analysis.
+<img> id-US20180029983A1-20180201-C00177.TIF </img>
 Intermediate Synthesis 21: Synthesis of Intermediate 21
 In the same manner as in Intermediate Synthesis 6 except for using 3.0 g of the intermediate 20 in place of the intermediate 3, 2.65 g (yield: 52%) of a white solid was obtained, which was identified as the following intermediate 21 by FD-MS analysis.
+<img> id-US20180029983A1-20180201-C00178.TIF </img>
 Intermediate Synthesis 22: Synthesis of Intermediate 22
 In the same manner as in Intermediate Synthesis 6 except for using 3.94 g of the intermediate 16 in place of the intermediate 5 and using 3.0 g of the intermediate 20 in place of the intermediate 3, 2.56 g (yield: 49%) of a white solid was obtained, which was identified as the following intermediate 22 by FD-MS analysis.
+<img> id-US20180029983A1-20180201-C00179.TIF </img>
 Synthesis Example 1: Production of Aromatic Heterocyclic Derivative (PH1)
 Under an argon atmosphere, a mixture of 2.9 g (5.0 mmol) of the intermediate 6, 1.4 g (5.25 mmol) of 2-chloro-4,6-diphenylpyrimidine, 140 mg (0.15 mmol) of Pd2(dba)3, 87 mg (0.3 mmol) of P(tBu)3HBF4, and 673 mg (7.0 mmol) of sodium t-butoxide in 30 ml of anhydrous xylene was refluxed for 8 h under heating.
 After the reaction, the mixture was cooled to room temperature, and the precipitated crystal was collected by filtration. The crystal was purified by silica gel column chromatography to obtain 2.9 g (yield: 70%) of a white crystal, which was identified as the following compound (PH1) by FD-MS analysis: m/z=818 (theoretical value: 818 for C58H34N4OL2).
+<img> id-US20180029983A1-20180201-C00180.TIF </img>
 Synthesis Example 2: Production of Aromatic Amine Derivative (PH2)
 Under an argon atmosphere, a mixture of 4.1 g (10.0 mmol) of the intermediate 4, 4.6 g (10.0 mmol) of the intermediate 5, and 231 mg (0.2 mmol) of Pd[PPh3]4 in 50 ml of dioxane and 15 ml (30.0 mmol) of a 2 M aqueous solution of sodium carbonate was stirred and refluxed for 12 h under heating.
 After the reaction, the mixture was cooled to room temperature, and the organic layer was separated in a separatory funnel. The organic layer was dried over anhydrous magnesium sulfate, filtered, and then concentrated. The concentrate residue was purified by silica gel column chromatography to obtain 4.3 g (yield: 65%) of a white solid, which was identified as the following compound (PH2) by FD-MS analysis: m/z=664 (theoretical value: 664 for C48H28N2O2).
+<img> id-US20180029983A1-20180201-C00181.TIF </img>
 Synthesis Example 3: Production of Aromatic Amine Derivative (PH3)
 In the same manner as in Synthesis Example 2 except for using 4.1 g of the intermediate 10 in place of the intermediate 4 and using 4.6 g of the intermediate 11 in place of the intermediate 5, 3.8 g (yield: 57%) of a white solid was obtained, which was identified as the following compound (PH3) by FD-MS analysis: m/z=664 (theoretical value: 664 for C18H28N2O2).
+<img> id-US20180029983A1-20180201-C00182.TIF </img>
 Synthesis Example 4: Production of Aromatic Amine Derivative (PH4)
 In the same manner as in Synthesis Example 1 except for using 3.1 g of the intermediate 17 in place of the intermediate 6, 2.8 g (yield: 66%) of a white solid was obtained, which was identified as the following compound (PH4) by FD-MS analysis: m/z=851 (theoretical value: 851 for C58H34N4S2).
+<img> id-US20180029983A1-20180201-C00183.TIF </img>
 Synthesis Example 5: Production of Aromatic Amine Derivative (PH5)
 In the same manner as in Synthesis Example 2 except for using 4.3 g of the intermediate 15 in place of the intermediate 4 and using 4.8 g of the intermediate 16 in place of the intermediate 5, 4.2 g (yield: 60%) of a white solid was obtained, which was identified as the following compound (PH5) by FD-MS analysis: m/z=696 (theoretical value: 696 for C48H28N2S2).
+<img> id-US20180029983A1-20180201-C00184.TIF </img>
 Synthesis Example 6: Production of Aromatic Amine Derivative (PH6)
 In the same manner as in Synthesis Example 2 except for using 4.8 g of the intermediate 16 in place of the intermediate 5, 3.6 g (yield: 53%) of a white solid was obtained, which was identified as the following compound (PH6) by FD-MS analysis: m/z=680 (theoretical value: 680 for C48H28N2O S).
+<img> id-US20180029983A1-20180201-C00185.TIF </img>
 Synthesis Example 7: Production of Aromatic Amine Derivative (PH7)
 In the same manner as in Synthesis Example 2 except for using 4.6 g of the intermediate 11 in place of the intermediate 5, 4.0 g (yield: 60%) of a white solid was obtained, which was identified as the following compound (PH7) by FD-MS analysis: m/z=664 (theoretical value: 664 for C48H28N2O2).
+<img> id-US20180029983A1-20180201-C00186.TIF </img>
 Synthesis Example 8: Production of Aromatic Amine Derivative (PH8)
 Under an argon atmosphere, a mixture of 2.20 g (3.58 mmol) of the intermediate 21, 0.675 g (4.30 mmol) of bromobenzene, 0.131 g (0.14 mol) of tris(dibenzylideneacetone) dipalladium(0), 0.072 g (0.36 mmol) of tri-tert-butylphosphine, and 0.69 g (7.16 mmol) of sodium t-butoxide in 17.9 mL of xylene was stirred and refluxed for 8 h under heating.
 After the reaction, the reaction mixture was heated to room temperature and filtered, and the filtrate was concentrated. The obtained residue was purified by silica gel column chromatography and recrystallization to obtain 1.52 g (yield: 62%) of a white solid, which was identified as the following compound (PH8) by FD-MS analysis: m/z=690 (theoretical value: 690 for C51H34N2O).
+<img> id-US20180029983A1-20180201-C00187.TIF </img>
 Synthesis Example 9: Production of Aromatic Amine Derivative (PH9)
 In the same manner as in Synthesis Example 8 except for using 2.26 g of the intermediate 22 in place of the intermediate 21, 1.32 g (yield: 52%) of a white solid was obtained, which was identified as the following compound (PH9) by FD-MS analysis: m/z=706 (theoretical value: 706 for C51H34N2S).
+<img> id-US20180029983A1-20180201-C00188.TIF </img>
 Synthesis Example 10: Production of Aromatic Amine Derivative (PH10)
 In the same manner as in Synthesis Example 8 except for using 2.11 g of the intermediate 6 in place of the intermediate 21 and using 1.00 g of 4-bromobiphenyl in place of bromobenzene, 1.49 g (yield: 56%) of a white solid was obtained, which was identified as the following compound (PH10) by FD-MS analysis: m/z=740 (theoretical value: 740 for C54H32N2O2).
+<img> id-US20180029983A1-20180201-C00189.TIF </img>
 Synthesis Example 11: Production of Aromatic Amine Derivative (PH11)
 In the same manner as in Synthesis Example 8 except for using 2.11 g of the intermediate 6 in place of the intermediate 21 and using 1.00 g of 3-bromobiphenyl in place of bromobenzene, 1.30 g (yield: 49%) of a white solid was obtained, which was identified as the following compound (PH11) by FD-MS analysis: m/z=740 (theoretical value: 740 for C54H32N2O2).
+<img> id-US20180029983A1-20180201-C00190.TIF </img>
 Synthesis Example 12: Production of Aromatic Amine Derivative (PH12)
 In the same manner as in Synthesis Example 8 except for using 2.11 g of the intermediate 6 in place of the intermediate 21 and using 1.18 g of 2-bromo-9,9-dimethylfluorene in place of bromobenzene, 1.30 g (yield: 49%) of a white solid was obtained, which was identified as the following compound (PH12) by FD-MS analysis: m/z=780 (theoretical value: 780 for C57H36N2O2).
+<img> id-US20180029983A1-20180201-C00191.TIF </img>
 Example 1-1 (Production of Organic EL Device)
 A glass substrate of 25 mm×75 mm×1.1 mm having an ITO transparent electrode (product of Geomatec Company) was cleaned by ultrasonic cleaning in isopropyl alcohol for 5 min and then UV (ultraviolet) ozone cleaning for 30 min.
 The cleaned glass substrate having a transparent electrode line was mounted to a substrate holder of a vacuum vapor deposition apparatus. First, the electron-accepting compound (A1) was vapor-deposited on the surface having the transparent electrode line so as to cover the transparent electrode to form an acceptor layer with a thickness of 5 nm.
@@ -386,8 +443,10 @@ On the hole transporting layer, the compound (PH1) as a phosphorescent host mate
 Thereafter, on the light emitting layer, the benzimidazole derivative (ET1) was vapor-deposited into a thickness of 30 nm and LiF was vapor-deposited into a thickness of 1 nm to form an electron transporting/injecting layer. Further, metallic Al was deposited into a thickness of 80 nm to form a cathode, thereby producing an organic EL device.
 Evaluation of Emission Performance of Organic EL Device
 The organic EL device thus produced was allowed to emit light by driving at a constant current and measured for the luminance (L) and the current density. From the measured results, the current efficiency (L/J) and the driving voltage (V) at a current density of 10 mA/cm2 were determined. In addition, the lifetime (80% lifetime) at a current density of 50 mA/cm2 was determined. The 80% lifetime is the time taken until the luminance is reduced to 80% of the initial luminance when driving at a constant current. The results are shown in Table 1.
+<img> id-US20180029983A1-20180201-C00192.TIF </img><img> id-US20180029983A1-20180201-C00193.TIF </img>
 Comparative Examples 1-1 to 1-4 (Production of Organic EL Device)
 Each organic EL device of Comparative Examples 1-1 and 1-4 was produced and evaluated in the same manner as in Example 1-1 except for using each comparative compound described in Table 1 as the phosphorescent host material. The results are shown in Table 1.
+<img> id-US20180029983A1-20180201-C00194.TIF </img><img> id-US20180029983A1-20180201-C00195.TIF </img>
 <table>
 <header>
  & TABLE 1
@@ -415,10 +474,13 @@ On the hole transporting layer, the compound (PH2) as a phosphorescent host mate
 Thereafter, on the light emitting layer, the carbazole derivative (ET2) and the metal complex Liq were vapor co-deposited into a thickness of 30 nm (concentration of metal complex Liq: 50% by mass) and then the metal complex Liq was vapor-deposited into a thickness of 1 nm to form an electron transporting/injecting layer. Further, metallic Al was deposited into a thickness of 80 nm to form a cathode, thereby producing an organic EL device.
 Evaluation of Emission Performance of Organic EL Device
 The organic EL device thus produced was allowed to emit light by driving at a constant current and measured for the luminance (L) and the current density. From the measured results, the current efficiency (L/J) and the driving voltage (V) at a current density of 10 mA/cm2 were determined. In addition, the lifetime (80% lifetime) at a current density of 50 mA/cm2 was determined. The 80% lifetime is the time taken until the luminance is reduced to 80% of the initial luminance when driving at a constant current. The results are shown in Table 2.
+<img> id-US20180029983A1-20180201-C00196.TIF </img><img> id-US20180029983A1-20180201-C00197.TIF </img>
 Example 2-2 (Production of Organic EL Device)
 The organic EL device of Example 2-2 was produced and evaluated in the same manner as in Example 2-1 except for using the compound (PH3) described in Table 2 as the phosphorescent host material. The results are shown in Table
+<img> id-US20180029983A1-20180201-C00198.TIF </img>
 Comparative Examples 2-1 to 2-5 (Production of Organic EL Device)
 Each organic EL device of Comparative Examples 2-1 to 2-5 was produced and evaluated in the same manner as in Example 2-1 except for using each comparative compound described in Table 2 as the phosphorescent host material. The results are shown in Table 2.
+<img> id-US20180029983A1-20180201-C00199.TIF </img><img> id-US20180029983A1-20180201-C00200.TIF </img>
 <table>
 <header>
  & TABLE 2
@@ -449,10 +511,13 @@ On the hole transporting layer, the host compound (BH) and the dopant compound (
 Thereafter, on the light emitting layer, the compound (ET3) was vapor-deposited into a thickness of 10 nm, the compound (ET1) was vapor-deposited into a thickness of 15 nm, and then LiF was vapor-deposited into a thickness of 1 nm to form an electron transporting/injecting layer. Further, metallic Al was deposited into a thickness of 80 nm to form a cathode, thereby producing an organic EL device.
 Evaluation of Emission Performance of Organic EL Device
 The organic EL device thus produced was allowed to emit light by driving at a constant current and measured for the luminance (L) and the current density. From the measured results, the current efficiency (L/J) and the driving voltage (V) at a current density of 10 mA/cm2 were determined. In addition, the lifetime (80% lifetime) at a current density of 50 mA/cm2 was determined. The 80% lifetime is the time taken until the luminance is reduced to 80% of the initial luminance when driving at a constant current. The results are shown in Table 3.
+<img> id-US20180029983A1-20180201-C00201.TIF </img>
 Examples 3-2 to 3-10
 Each organic EL device of Examples 3-2 to 3-10 was produced and evaluated in the same manner as in Example 3-1 except for using each compound described in Table 3 as the second hole transporting material. The results are shown in Table 3.
+<img> id-US20180029983A1-20180201-C00202.TIF </img><img> id-US20180029983A1-20180201-C00203.TIF </img><img> id-US20180029983A1-20180201-C00204.TIF </img>
 Comparative Examples 3-1 to 3-5
 Each organic EL device of Comparative Examples 3-1 to 3-5 was produced and evaluated in the same manner as in Example 3-1 except for using each comparative compound described in Table 3 as the second hole transporting material. The results are shown in Table 3.
+<img> id-US20180029983A1-20180201-C00205.TIF </img><img> id-US20180029983A1-20180201-C00206.TIF </img>
 <table>
 <header>
  & TABLE 3

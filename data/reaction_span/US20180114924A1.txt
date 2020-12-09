@@ -11,12 +11,16 @@ The present disclosure is to provide a delayed fluorescence material with a mole
 The present disclosure is further to provide an organic light emitting device comprising the delayed fluorescence material.
 In a first aspect of the present disclosure, there is provided a delayed fluorescence material having a molecular structure, wherein the molecular structure includes an electron donor unit and an electron acceptor unit coupled to the electron donor unit, wherein the electron acceptor unit includes an indolocarbazole group having at least one acceptor functional-group bound to the indolocarbazole group.
 In a first embodiment of the first aspect, the molecular structure has one of following structural formulas 1-1 to 1-6:
+<img> id-US20180114924A1-20180426-C00001.TIF </img><img> id-US20180114924A1-20180426-C00002.TIF </img>
 wherein each of D0, D01, D1, D2, D11, D21, D3 and D31 individually represents the electron donor unit,
 wherein each of A1, A11, A2, A21, A3, A4, A31 and A41 individually represents the acceptor functional-group,
 wherein each of R1 to R9 individually represents one selected from a group consisting of hydrogen, deuterium, an alkyl group having 1 to 60 carbon atoms, an alkylthio group having 1 to 10 carbon atoms, an alkyl-substituted amino group having 1 to 10 carbon atoms, an aralkyl group having 7 to 20 carbon atoms, a diarylamino group having 12 to 24 carbon atoms, an alkoxycarbonyl group having 2 to 10 carbon atoms, an alkylsulfonyl group having 1 to 10 carbon atoms, a haloalkyl group having 1 to 10 carbon atoms, an amino group, an alkylamide group having 2 to 10 carbon atoms, a trialkylsilyl group having 3 to 20 carbon atoms, a trialkylsilylalkyl group having 4 to 20 carbon atoms, an alkenyl group having 2 to 60 carbon atoms, a trialkylsilylalkenyl group having 5 to 20 carbon atoms, an alkynyl group having 2 to 60 carbon atoms, a trialkylsilylalkynyl group having 5 to 20 carbon atoms, a cyano group, a nitro group, an aryl group having 6 to 60 carbon atoms, a heteroaryl group having 3 to 60 carbon atoms, an alkoxy group having 1 to 60 carbon atoms, an aryloxy group having 6 to 60 carbon atoms, an arylalkyl group having 7 to 60 carbon atoms, a heteroarylalkyl group having 3 to 60 carbon atoms, a cycloalkyl group having 3 to 60 carbon atoms, a heterocycloalkyl group having 1 to 60 carbon atoms, an alkylsilyl group having 3 to 60 carbon atoms, an arylsilyl group having 3 to 60 carbon atoms, a heteroarylsilyl group having 1 to 60 carbon atoms, and a substituted or unsubstituted aromatic 6-membered heterocycle having 3 to 30 carbon atoms, wherein at least two of R1 to R9 are the same or different, or adjacent two of R1 to R9 are coupled to form a ring.
 In a second embodiment of the first aspect, each of D0, D01, D1, D2, D11, D21, D3 and Dai individually includes a functional-group compound derived from one selected from a group consisting of compounds having following structural formulas 2-1 to 2-52 respectively:
+<img> id-US20180114924A1-20180426-C00003.TIF </img><img> id-US20180114924A1-20180426-C00004.TIF </img><img> id-US20180114924A1-20180426-C00005.TIF </img><img> id-US20180114924A1-20180426-C00006.TIF </img><img> id-US20180114924A1-20180426-C00007.TIF </img><img> id-US20180114924A1-20180426-C00008.TIF </img><img> id-US20180114924A1-20180426-C00009.TIF </img>
 In a third embodiment of the first aspect, each of A1, A11, A2, A21, A3, A4, A31 and A41 individually includes a functional-group compound derived from one selected from a group consisting of compounds having following structural formulas 3-1 to 3-4 respectively:
+<img> id-US20180114924A1-20180426-C00010.TIF </img>
 In a fourth embodiment of the first aspect, the molecular structure has one of following structural formulas 4 to 15:
+<img> id-US20180114924A1-20180426-C00011.TIF </img><img> id-US20180114924A1-20180426-C00012.TIF </img>
 In a second aspect of the present disclosure, there is provided an organic light-emitting device including a light emission layer, wherein the layer contains any one of the delayed fluorescence material as above defined.
 According to the present disclosure, various electron acceptor functional groups are bound to the indolocarbazole group as conventionally used as an electron donor unit, and, thus, the indolocarbazole group having the electron acceptor functional groups bound thereto acts as the electron acceptor unit for the delayed fluorescent material. Therefore, the delayed fluorescent material according to the embodiment of the present disclosure may realize high thermal stability, high luminous efficiency and improved electron transfer.
 Further, in the conventional delayed fluorescent material, the number of the structures of the electron acceptor unit is limited, and thus there are many limitations in the molecular structure of the delayed fluorescent material. However, according to the present disclosure, a variety of molecular structures of the delayed fluorescent material may be achieved by using the indolocarbazole group having the electron acceptor functional groups bound thereto as the electron acceptor unit for the delayed fluorescent material.
@@ -31,16 +35,21 @@ In the following description, numerous specific details are set forth in order t
 The delayed fluorescence material according to an embodiment of the present disclosure includes a compound has a molecular structure comprising at least one electron donor unit configured to donate electrons and an electron acceptor unit coupled to the electron donor unit and configured to accept electrons. Thus, the compound with the molecular structure containing the electron donor unit and the electron acceptor unit has a small energy difference between the excited singlet energy and excited triplet energy. Thus, via the thermal energy, the excitons in the excited triplet state may be state-shifted to the excited singlet state, thereby exhibiting the retarded fluorescence property.
 In one embodiment of the present disclosure, the electron acceptor unit includes an indolocarbazole group having at least one acceptor functional-group bound to the indolocarbazole group.
 In one embodiment, the molecular structure has one of following structural formulas 1-1 to 1-6:
+<img> id-US20180114924A1-20180426-C00013.TIF </img><img> id-US20180114924A1-20180426-C00014.TIF </img>
 In the above structural formulas 1-1 to 1-6, each of D0, D01, D1, D2, D11, D21, D3 and D31 individually represents the electron donor unit, and each of A1, A11, A2, A21, A3, A4, A31 and A41 individually represents the acceptor functional-group.
 In the above structural formulas 1-1 to 1-6, each of R1 to R9 individually represents one selected from a group consisting of hydrogen, deuterium, an alkyl group having 1 to 60 carbon atoms, an alkylthio group having 1 to 10 carbon atoms, an alkyl-substituted amino group having 1 to 10 carbon atoms, an aralkyl group having 7 to 20 carbon atoms, a diarylamino group having 12 to 24 carbon atoms, an alkoxycarbonyl group having 2 to 10 carbon atoms, an alkylsulfonyl group having 1 to 10 carbon atoms, a haloalkyl group having 1 to 10 carbon atoms, an amino group, an alkylamide group having 2 to 10 carbon atoms, a trialkylsilyl group having 3 to 20 carbon atoms, a trialkylsilylalkyl group having 4 to 20 carbon atoms, an alkenyl group having 2 to 60 carbon atoms, a trialkylsilylalkenyl group having 5 to 20 carbon atoms, an alkynyl group having 2 to 60 carbon atoms, a trialkylsilylalkynyl group having 5 to 20 carbon atoms, a cyano group, a nitro group, an aryl group having 6 to 60 carbon atoms, a heteroaryl group having 3 to 60 carbon atoms, an alkoxy group having 1 to 60 carbon atoms, an aryloxy group having 6 to 60 carbon atoms, an arylalkyl group having 7 to 60 carbon atoms, a heteroarylalkyl group having 3 to 60 carbon atoms, a cycloalkyl group having 3 to 60 carbon atoms, a heterocycloalkyl group having 1 to 60 carbon atoms, an alkylsilyl group having 3 to 60 carbon atoms, an arylsilyl group having 3 to 60 carbon atoms, a heteroarylsilyl group having 1 to 60 carbon atoms, and a substituted or unsubstituted aromatic 6-membered heterocycle having 3 to 30 carbon atoms. At least two of R1 to R9 may be the same or different. Adjacent two of R1 to R9 may be coupled to form a ring.
 The electron donor unit is not particularly limited as long as the electron donor unit donates electrons to the electron acceptor unit to induce charge movement in the molecular structure including the above Structural formulas 1-1 to 1-6. In one embodiment, each of D0, D01, D1, D2, D11, D21, D3 and D31 individually includes a functional-group compound derived from one selected from a group consisting of compounds having following structural formulas 2-1 to 2-52 respectively:
+<img> id-US20180114924A1-20180426-C00015.TIF </img><img> id-US20180114924A1-20180426-C00016.TIF </img><img> id-US20180114924A1-20180426-C00017.TIF </img><img> id-US20180114924A1-20180426-C00018.TIF </img><img> id-US20180114924A1-20180426-C00019.TIF </img><img> id-US20180114924A1-20180426-C00020.TIF </img><img> id-US20180114924A1-20180426-C00021.TIF </img><img> id-US20180114924A1-20180426-C00022.TIF </img>
 In one embodiment of the delayed fluorescent material, as the acceptor functional group, each of A1, A11, A2, A21, A3, A4, A31 and A41 individually includes a functional-group compound derived from one selected from a group consisting of compounds having following structural formulas 3-1 to 3-4 respectively:
+<img> id-US20180114924A1-20180426-C00023.TIF </img>
 In one embodiment, the molecular structure of the delayed fluorescent material has one of following structural formulas 4 to 15:
+<img> id-US20180114924A1-20180426-C00024.TIF </img><img> id-US20180114924A1-20180426-C00025.TIF </img>
 According to the present disclosure, the various electron acceptor functional groups are bound to the indolocarbazole group as conventionally used as an electron donor unit, and, thus, the indolocarbazole group having the electron acceptor functional groups bound thereto acts as the electron acceptor unit for the delayed fluorescent material. Therefore, the delayed fluorescent material according to the embodiment of the present disclosure may realize high thermal stability, high luminous efficiency and improved electron transfer.
 Further, in the conventional delayed fluorescent material, the number of the structures of the electron acceptor unit is limited, and thus there are many limitations in the molecular structure of the delayed fluorescent material. However, according to the present disclosure, a variety of molecular structures of the delayed fluorescent material may be achieved by using the indolocarbazole group having the electron acceptor functional groups bound thereto as the electron acceptor unit for the delayed fluorescent material.
 Below, a number of present examples are presented to help understand the present disclosure. The following present examples are intended merely to aid in the understanding of the present disclosure. Thus, the scope of the present disclosure is not limited to the present examples.
 Present Example 1
 According to a following chemical reaction 1, a delayed fluorescent material having a molecular structure of the above Structural formula 4 was synthesized:
+<img> id-US20180114924A1-20180426-C00026.TIF </img>
 In detail, the delayed fluorescent material of Structural formula 4 was synthesized as follows.
 Synthesis of Indolo[3,2,1-jk]carbazole-2-carbonitrile
 A mixture of 2-bromoindolo[3,2,1-jk]carbazole (1 g, 3.12 mmol), CuCN (0.56 g, 6.24 mmol) were added to a pressure tube in DMF (10 ml). The reaction was heated to 150° C. for 24 h. the reaction mixture was cooled to room temperature. And then, the mixture was extracted with chloroform. The solvent was concentrated under vacuum and the product was isolated by column chromatography on a silica gel.
@@ -50,15 +59,19 @@ Indolo[3,2,1-jk]carbazole-2-carbonitrile (0.6 g, 2.25 mmol), periodic acid (1.03
 5,11-diiodoindolo[3,2,1-jk]carbazole-2-carbonitrile (0.5 g, 0.97 mmol), 9,9-dimethyl-9,10-dihydroacridine (0.44 g, 2.12 mmol) and sodium tert-butoxide (0.04 g, 0.39 mmol) were dissolved in toluene (50 ml) under N2 bubbling for 30 min. Pd2(dba)3 (0.36, 0.39 mmol) and tri-tert-butylphosphine (0.08 g, 0.39 mmol) were added in the mixture and the reaction mixture was refluxed overnight. After cooling to room temperature, the mixture was filtered and diluted with ethyl acetate and washed with distilled water. The organic layer was dried over anhydrous MgSO4 and evaporated in vacuum. The mixture was purified by vacuum sublimation to obtain yellowish white powder.
 Present Example 2
 According to a following chemical reaction 2, a delayed fluorescent material having a molecular structure of the above Structural formula 5 was synthesized:
+<img> id-US20180114924A1-20180426-C00027.TIF </img>
 In detail, 5,11-diiodoindolo[3,2,1-jk]carbazole-2-carbonitrile (1.36 g, 2.63 mmol), 9H-3,9'-bicarbazole (1.92 g, 5.77 mmol), K3PO4 (2.23 g, 10.5 mmol) and CuI (0.5 g, 2.63 mmol) were dissolved in DMF (100 ml) under a nitrogen atmosphere. The reaction mixture was stirred with N2 bubbling for 30 min and trans-1,2-DCH (0.3 g, 2.63 mmol) was added to the solution followed by reflux overnight. After cooling to room temperature, the mixture was filtered and diluted with methylene chloride and washed with distilled water. The organic layer was dried over anhydrous MgSO4 and evaporated in vacuum. The mixture was purified repeatedly by vacuum sublimation to obtain yellow powder.
 Present Example 3
 According to a following chemical reaction 3, a delayed fluorescent material having a molecular structure of the above Structural formula 6 was synthesized:
+<img> id-US20180114924A1-20180426-C00028.TIF </img>
 In detail, the delayed fluorescent material of Structural formula 6 was synthesized according to the present example 2, using carbazole instead of 9H-3,9'-bicarbazole.
 Present Example 4
 According to a following chemical reaction 4, a delayed fluorescent material having a molecular structure of the above Structural formula 7 was synthesized:
+<img> id-US20180114924A1-20180426-C00029.TIF </img>
 In detail, the delayed fluorescent material of Structural formula 6 was synthesized according to the present example 2, using 3,6-di-tert-butyl-9H-carbazole instead of 9H-3,9'-bicarbazole.
 Present Example 5
 According to a following chemical reaction 5, a delayed fluorescent material having a molecular structure of the above Structural formula 8 was synthesized:
+<img> id-US20180114924A1-20180426-C00030.TIF </img>
 In detail, the delayed fluorescent material of Structural formula 8 was synthesized as follows.
 Synthesis of 2-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)indolo[3,2,1-jk]carbazole
 2-bromoindolo[3,2,1-jk]carbazole (5 g, 15.6 mmol), 4,4,4',4',5,5,5',5'-octamethyl-2,2'-bi(1,3,2-dioxaborolane) (7.9 g, 31.2 mmol), Pd(OAc)2 (0.35 g, 1.56 mmol), X-phos (1.48 g, 3.12 mmol) and KOAc (4.59 g, 46.82 mmol) were dissolved in 1,4-dioxane (275 ml) under a nitrogen atmosphere. The reaction mixture was stirred with N2 bubbling for 30 min and refluxed overnight. After cooling to room temperature, the mixture was filtered and diluted with methylene chloride and washed with distilled water. The organic layer was dried over anhydrous MgSO4 and evaporated in vacuum. And then, the product was isolated by column chromatography on a silica gel.
@@ -70,9 +83,11 @@ It was synthesized according to the previous method (refer to Present example 1 
 It was synthesized according to the previous method (refer to Present example 2 above).
 Present Example 6
 According to a following chemical reaction 6, a delayed fluorescent material having a molecular structure of the above Structural formula 9 was synthesized:
+<img> id-US20180114924A1-20180426-C00031.TIF </img>
 In detail, the delayed fluorescent material of Structural formula 9 was synthesized according to the Present example 6, using 2-chloro-4,6-diphenyl-1,3,5-triazine instead of 5-bromoisophthalonitrile.
 Present Example 7
 According to a following chemical reaction 7, a delayed fluorescent material having a molecular structure of the above Structural formula 10 was synthesized:
+<img> id-US20180114924A1-20180426-C00032.TIF </img>
 In detail, the delayed fluorescent material of Structural formula 10 was synthesized as follows.
 Synthesis of 2-bromo-5-iodoindolo[3,2,1-jk]carbazole
 2-bromoindolo[3,2,1-jk]carbazole (1 g, 3.12 mmol), periodic acid (0.71 g, 3.12 mmol) were dissolved in acetic acid (50 ml). And then, iodine (0.79 g, 3.12 mmol) was added to the solution. The reaction mixture was stirred at 60° C. for 30 min followed by addition of distilled water (0.5 ml) and sulfuric acid (0.05 ml). The solution was refluxed for 10 h, cooled to room temperature and poured into distilled water. The mixture was filtered and diluted with ethyl acetate and washed with distilled water and sodium thiosulfate. The organic layer was dried over anhydrous MgSO4 and evaporated in vacuo. The product was included 95% of all powder and it was confirmed by HPLC analysis. The synthesized 2-bromo-5-iodoindolo[3,2,1-jk]carbazole was used in the next reaction without further purification.
@@ -82,6 +97,7 @@ It was synthesized according to the previous method (Indolo[3,2,1-jk]carbazole-2
 It was synthesized according to the previous method (refer to Present example 2 above).
 Present Example 8
 According to a following chemical reaction 8, a delayed fluorescent material having a molecular structure of the above Structural formula 11 was synthesized:
+<img> id-US20180114924A1-20180426-C00033.TIF </img>
 In detail, the delayed fluorescent material of Structural formula 11 was synthesized as follows.
 Synthesis of 2-bromo-5-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)indolo[3,2,1-jk]carbazole
 It was synthesized according to the previous method (2-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)indolo[3,2,1-jk]carbazole).
@@ -91,6 +107,7 @@ It was synthesized according to the previous method (refer to Present example 5 
 It was synthesized according to the previous method (refer to Present example 5 above)
 Present Example 9
 According to a following chemical reaction 9, a delayed fluorescent material having a molecular structure of the above Structural formula 12 was synthesized:
+<img> id-US20180114924A1-20180426-C00034.TIF </img>
 In detail, the delayed fluorescent material of Structural formula 12 was synthesized as follows.
 Synthesis of 2,5,11-tribromoindolo[3,2,1-jk]carbazole
 A solution of N-bromosuccinimide (3.5 g, 19.68 mmol) in 50 mL DMF was slowly added with stirring to a solution of 2-bromoindolo[3,2,1-jk]carbazole (3 g, 9.37 mmol) in 20 mL DMF with ice bath. After reacting for 2 h, the reaction mixture was poured into 600 mL ice water, and the crude product was collected by filtration to give white powder.
@@ -100,6 +117,7 @@ It was synthesized according to the previous method (compound 5).
 It was synthesized according to the previous method (Indolo[3,2,1-jk]carbazole-2-carbonitrile).
 Present Example 10
 According to a following chemical reaction 10, a delayed fluorescent material having a molecular structure of the above Structural formula 13 was synthesized:
+<img> id-US20180114924A1-20180426-C00035.TIF </img>
 In detail, the delayed fluorescent material of Structural formula 13 was synthesized as follows.
 Synthesis of 2,5-dibromoindolo[3,2,1-jk]carbazole
 It was synthesized according to the previous method (2,5,11-tribromoindolo[3,2,1-jk]carbazole).
@@ -113,6 +131,7 @@ It was synthesized according to the previous method (refer to Present example 2 
 It was synthesized according to the previous method (refer to Present example 5 above)
 Present Example 11
 According to a following chemical reaction 11, a delayed fluorescent material having a molecular structure of the above Structural formula 14 was synthesized:
+<img> id-US20180114924A1-20180426-C00036.TIF </img>
 In detail, the delayed fluorescent material of Structural formula 14 was synthesized as follows.
 Synthesis of 2-bromo-5,11-diiodoindolo[3,2,1-jk]carbazole
 It was synthesized according to the previous method (2-bromo-5-iodoindolo[3,2,1-jk]carbazole).
@@ -122,6 +141,7 @@ It was synthesized according to the previous method (Indolo[3,2,1-jk]carbazole-2
 It was synthesized according to the previous method (refer to Present example 2 above).
 Present Example 12
 According to a following chemical reaction 12, a delayed fluorescent material having a molecular structure of the above Structural formula 15 was synthesized:
+<img> id-US20180114924A1-20180426-C00037.TIF </img>
 In detail, the delayed fluorescent material of Structural formula 15 was synthesized as follows.
 Synthesis of indolo[3,2,1-jk]carbazole-2-carbonitrile
 It was synthesized according to the previous method (Indolo[3,2,1-jk]carbazole-2-carbonitrile).
@@ -133,6 +153,7 @@ It was synthesized according to the previous method (Indolo[3,2,1-jk]carbazole-2
 It was synthesized according to the previous method (refer to Present example 2 above).
 Comparative Example
 According to a following chemical reaction 13, a delayed fluorescent material having a molecular structure of a following Structural formula 15 was synthesized:
+<img> id-US20180114924A1-20180426-C00038.TIF </img>
 In detail, the delayed fluorescent material of Structural formula 15 was synthesized as follows
 Synthesis of 2,5,11-tribromoindolo[3,2,1-jk]carbazole
 It was synthesized according to the previous method (2,5,11-tribromoindolo[3,2,1-jk]carbazole).

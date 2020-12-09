@@ -6,9 +6,13 @@ BACKGROUND ART
 In a liquid crystal display device, a classification based on an operating mode for liquid crystal molecules includes a phase change (PC) mode, a twisted nematic (TN) mode, a super twisted nematic (STN) mode, an electrically controlled birefringence (ECB) mode, an optically compensated bend (OCB) mode, an in-plane switching (IPS) mode, a vertical alignment (VA) mode, a fringe field switching (FFS) mode and a field-induced photo-reactive alignment (FPA) mode. A classification based on a driving mode in the device includes a passive matrix (PM) and an active matrix (AM). The PM is classified into static, multiplex and so forth, and the AM is classified into a thin film transistor (TFT), a metal insulator metal (MIM) and so forth.
 A liquid crystal composition is sealed into the device. Physical properties of the composition are associated with characteristics of the device. Specific examples of the physical properties in the composition include stability to heat and light, a temperature range of a nematic phase, viscosity, optical anisotropy, dielectric anisotropy, specific resistance and an elastic constant. The composition is prepared by mixing a large number of liquid crystal compounds. The physical properties required for the compound include high stability to an environment such as water, air, heat and light, a wide temperature range of a liquid crystal phase, small viscosity, suitable optical anisotropy, large dielectric anisotropy, a suitable elastic constant, satisfactory compatibility with other liquid crystal compounds. A compound having high maximum temperature of a nematic phase is preferred. A compound having low minimum temperature in the liquid crystal phase such as the nematic phase and a smectic phase is preferred. A compound having small viscosity contributes to a short response time in the device. A suitable value of optical anisotropy is different depending on a mode of the device. In order to drive the device at a low voltage, a compound having large positive or negative dielectric anisotropy is preferred. In order to prepare the composition, a compound having satisfactory compatibility with other liquid crystal compounds is preferred. The device may be occasionally used at a temperature below a freezing point, and therefore a compound having satisfactory compatibility at a low temperature is preferred.
 A great number of liquid crystal compounds have been so far prepared. Development of a new liquid crystal compound is still continued. The reason is that satisfactory physical properties that are not found in a conventional compound are expected in a new compound. The reason is also that the new compound provides at least two physical properties in the composition with a suitable balance in several cases. Only a limited number of reports has been found on a compound having divalent group (pr-I) described below.
+<img> id-US20180022998A1-20180125-C00002.TIF </img>
 WO 2007/066755 A (Patent literature No. 1) discloses a compound represented by No. 298 on page 42. The compound is abbreviated as comparative compound (298). See Comparative Example 1.
+<img> id-US20180022998A1-20180125-C00003.TIF </img>
 JP 2006-520327 A (Patent literature No. 2) discloses a compound represented by No. 121 on page 87. The compound is abbreviated as comparative compound (121). See Comparative Example 1.
+<img> id-US20180022998A1-20180125-C00004.TIF </img>
 The Journal Organic Chemistry, 2012, 77, 2331-2336 (Non-patent literature No. 1) and The Journal Organic Chemistry, 2012, 77, 5022-5029 (Non-patent literature No. 2) disclose a compound having an isocoumarin skeleton (for example, the compound described below).
+<img> id-US20180022998A1-20180125-C00005.TIF </img>
 CITATION LIST
 Patent Literature
 Patent literature No. 1: WO 2007/066755 APatent literature No. 2: JP 2006-520327 A
@@ -19,8 +23,10 @@ Technical Problem
 The invention provides a liquid crystal compound satisfying at least one of physical properties such as high stability to heat and light, a high clearing point (or high maximum temperature of a nematic phase), low minimum temperature of a liquid crystal phase, small viscosity, suitable optical anisotropy, large negative dielectric anisotropy, a suitable elastic constant and satisfactory compatibility with other liquid crystal compounds. The invention provides a compound having smaller viscosity and superb compatibility with other liquid crystal compounds in comparison with a similar compound. The invention also provides a liquid crystal composition that contains the compound and satisfies at least one of physical properties such as high stability to heat and light, high maximum temperature of the nematic phase, low minimum temperature of the nematic phase, small viscosity, suitable optical anisotropy, large negative dielectric anisotropy, large specific resistance and the suitable elastic constant. The invention provides a liquid crystal composition having a suitable balance regarding at least two of the physical properties. The invention further provides a liquid crystal display device including the composition and having a wide temperature range in which the device can be used, a short response time, a large voltage holding ratio, low threshold voltage, a large contrast ratio, a small flicker rate and a long service life.
 Solution to Problem
 The invention concerns a composition containing a compound represented by formula (1), a liquid crystal display device including the composition, and so forth:
+<img> id-US20180022998A1-20180125-C00006.TIF </img>
 wherein, in formula (1),
 R1 and R2 are independently hydrogen, alkyl having 1 to 16 carbons, alkenyl having 2 to 16 carbons, cyclopropyl, cyclobutyl or cyclopentyl, and in the alkyl and the alkenyl, at least one piece of -CH2- may be replaced by -O-, -S-, -CO-, -COO-, -OCO-, -OCOO-, -C≡C-, cyclopropane-1,2-diyl or -Si(CH3)2-, and in the groups, at least one hydrogen may be replaced by fluorine or chlorine, and in the groups, at least one piece of -CH3 may be replaced by any one of monovalent groups (G1) to (G4) described below:
+<img> id-US20180022998A1-20180125-C00007.TIF </img>
 wherein, in groups (G1) to (G4),
 R3 is alkyl having 1 to 12 carbons or alkenyl having 2 to 12 carbons, and in the alkyl and the alkenyl, at least one piece of -CH2- may be replaced by -O-, and in the groups, at least one hydrogen may be replaced by fluorine or chlorine; and in formula (1),
 ring A1 and ring A2 are independently 1,4-cyclohexylene, 1,4-cyclohexenylene, 1,4-phenylene, decahydronaphthalene-2,6-diyl, tetrahydronaphthalene-2,6-diyl or naphthalene-2,6-diyl, and in the groups, one or two pieces of -CH2- may be replaced by -O-, -S-, -CO-, -CF2-, -SiH2- or -Si(CH3)2-, and one or two pieces of -CH2CH2- may be replaced by -CH═CH- or -CH═N-, and in the groups, at least one hydrogen on an aromatic ring may be replaced by halogen, -CF3, -CHF2, -CH2F, -OCF3, -OCHF2, -OCH2F or -C≡N;
@@ -39,10 +45,13 @@ A symbol of terminal group R11 is used in a plurality of compounds in chemical f
 An expression “at least one piece of ‘A’” means that the number of ‘A’ is arbitrary. An expression “at least one piece of ‘A’ may be replaced by ‘B’” means that, when the number of ‘A’ is 1, a position of ‘A’ is arbitrary, and also when the number of ‘A’ is 2 or more, positions thereof can be selected without restriction. A same rule applies also to an expression “at least one piece of ‘A’ is replaced by ‘B’.” An expression “at least one piece of ‘A’ may be replaced by ‘B’, ‘C’ or ‘D’” includes a case where arbitrary ‘A’ is replaced by ‘B’, a case where arbitrary ‘A’ is replaced by ‘C’, and a case where arbitrary ‘A’ is replaced by ‘D’, and also a case where a plurality of pieces of ‘A’ are replaced by at least two pieces of ‘B’, ‘C’ and/or ‘D’. For example, “alkyl in which at least one piece of -CH2- may be replaced by -O- or -CH═CH-” includes alkyl, alkoxy, alkoxyalkyl, alkenyl, alkoxyalkenyl and alkenyloxyalkyl. In addition, a case where two pieces of consecutive -CH2- are replaced by -O- to form -O-O- is not preferred. In alkyl or the like, a case where -CH2- of a methyl part (-CH2-H) is replaced by -O- to form -O-H is not preferred, either.
 An expression “R11 and R12 are independently alkyl having 1 to 10 carbons or alkenyl having 2 to 10 carbons, and in the alkyl and the alkenyl, at least one piece of -CH2- may be replaced by -O-, and in the groups, at least one hydrogen may be replaced by fluorine” is used in several cases. In the expression, an expression “in the groups” may be understood as was. In the expression, “the groups” mean alkyl, alkenyl, alkoxy, alkenyloxy or the like. More specifically, “the groups” represent all groups described prior to the term “in the groups.” A common interpretation is applied also to terms of “in the monovalent groups” and “in the divalent groups.” For example, “the monovalent groups” represent all of the groups described prior to the term “in the monovalent groups.”
 Halogen means fluorine, chlorine, bromine and iodine. Preferred halogen is fluorine and chlorine. Further preferred halogen is fluorine. Alkyl of the liquid crystal compound is straight-chain alkyl or branched-chain alkyl, but includes no cyclic alkyl. In general, straight-chain alkyl is preferred to branched-chain alkyl. A same rule applies also to a terminal group such as alkoxy and alkenyl. With regard to a configuration of 1,4-cyclohexylene, trans is preferred to cis for increasing the maximum temperature. Then, 2-fluoro-1,4-phenylene means two divalent groups described below. In a chemical formula, fluorine may be leftward (L) or rightward (R). A same rule applies also to an asymmetrical divalent group formed by removing two pieces of hydrogen from a ring, such as tetrahydropyran-2,5-diyl.
+<img> id-US20180022998A1-20180125-C00008.TIF </img>
 The invention includes items described below.
 Item 1. A liquid crystal composition containing at least one compound represented by formula (1) as component (a):
+<img> id-US20180022998A1-20180125-C00009.TIF </img>
 wherein, in formula (1),
 R1 and R2 are independently hydrogen, alkyl having 1 to 16 carbons, alkenyl having 2 to 16 carbons, cyclopropyl, cyclobutyl or cyclopentyl, and in the alkyl and the alkenyl, at least one piece of -CH2- may be replaced by -O-, -S-, -CO-, -COO-, -OCO-, -OCOO-, -C≡C-, cyclopropane-1,2-diyl or -Si(CH3)2-, and in the groups, at least one hydrogen may be replaced by fluorine or chlorine, and in the groups, at least one piece of -CH3 may be replaced by any one of monovalent groups (G1) to (G4) below;
+<img> id-US20180022998A1-20180125-C00010.TIF </img>
 wherein, in groups (G1) to (G4),
 R3 is alkyl having 1 to 12 carbons or alkenyl having 2 to 12 carbons, and in the alkyl and the alkenyl, at least one piece of -CH2- may be replaced by -O-, and in the groups, at least one hydrogen may be replaced by fluorine or chlorine; and in formula (1),
 ring A1 and ring A2 are independently 1,4-cyclohexylene, 1,4-cyclohexenylene, 1,4-phenylene, decahydronaphthalene-2,6-diyl, tetrahydronaphthalene-2,6-diyl or naphthalene-2,6-diyl, and in the groups, one or two pieces of -CH2- may be replaced by -O-, -S-, -CO-, -CF2-, -SiH2- or -Si(CH3)2-, and one or two pieces of -CH2CH2- may be replaced by -CH═CH- or -CH═N-, and in the groups, at least one hydrogen on an aromatic ring may be replaced by halogen, -CF3, -CHF2, -CH2F, -OCF3, -OCHF2, -OCH2F or -C≡N;
@@ -51,13 +60,16 @@ X, L and L2 are independently hydrogen or halogen;
 Y is -CO- or -CF2-; and
 a and b are independently 0, 1 or 2.
 Item 2. The liquid crystal composition according to item 1, further containing at least one compound selected from the group of compounds represented by formulas (2) to (4) as component (b):
+<img> id-US20180022998A1-20180125-C00011.TIF </img>
 wherein, in formulas (2) to (4),
 R11 and R12 are independently alkyl having 1 to 10 carbons or alkenyl having 2 to 10 carbons, and in the alkyl and the alkenyl, at least one piece of -CH2- may be replaced by -O-, and in the groups, at least one hydrogen may be replaced by fluorine;
 ring B1, ring B2, ring B3 and ring B4 are independently 1,4-cyclohexylene, 1,4-phenylene, 2-fluoro-1,4-phenylene, 2,5-difluoro-1,4-phenylene or pyrimidine-2,5-diyl; and
 Z11, Z12 and Z13 are independently a single bond, -COO-, -CH2CH2-, -CH═CH- or -C≡C-.
 Item 3. The liquid crystal composition according to item 1 or 2, wherein component (a) is at least one compound represented by formula (1-1):
+<img> id-US20180022998A1-20180125-C00012.TIF </img>
 wherein, in formula (1-1),
 R1 and R2 are independently hydrogen, alkyl having 1 to 14 carbons or alkenyl having 2 to 14 carbons, and in the alkyl and the alkenyl, one or two pieces of -CH2- may be replaced by -O-, and in the groups, at least one hydrogen may be replaced by fluorine, and in the groups, at least one piece of -CH3 may be replaced by any one of monovalent groups (G1) to (G4) below;
+<img> id-US20180022998A1-20180125-C00013.TIF </img>
 wherein, in groups (G1) to (G4),
 R3 is alkyl having 1 to 10 carbons, and in the alkyl, at least one piece of -CH2- may be replaced by -O-; and in formula (1-1),
 ring A1 and ring A2 are independently 1,4-cyclohexylene, 1,4-cyclohexenylene, 1,4-phenylene, decahydronaphthalene-2,6-diyl, tetrahydronaphthalene-2,6-diyl or naphthalene-2,6-diyl, and in the groups, one or two pieces of -CH2- may be replaced by -O-, and one or two pieces of -CH2CH2- may be replaced by -CH═CH-, and in the groups, at least one hydrogen on an aromatic ring may be replaced by fluorine;
@@ -80,17 +92,21 @@ X is hydrogen or fluorine;
 Y is -CO- or -CF2-; and
 a and b are independently 0, 1 or 2, and a sum of a and b is 0, 1 or 2.
 Item 6. The liquid crystal composition according to any one of items 1 to 5, wherein component (a) is at least one compound selected from the group of compounds represented by formulas (1a) to (1t):
+<img> id-US20180022998A1-20180125-C00014.TIF </img><img> id-US20180022998A1-20180125-C00015.TIF </img><img> id-US20180022998A1-20180125-C00016.TIF </img>
 wherein, in formulas (1a) to (1t),
 R1 and R2 are independently alkyl having 1 to 12 carbons, alkoxy having 1 to 12 carbons or alkenyl having 2 to 12 carbons;
 X is hydrogen, fluorine or chlorine; and
 Y is -CO- or -CF2-.
 Item 7. The liquid crystal composition according to any one of items 1 to 6, wherein component (a) is at least one compound selected from the group of compounds represented by formulas (1a-1) to (1t-1):
+<img> id-US20180022998A1-20180125-C00017.TIF </img><img> id-US20180022998A1-20180125-C00018.TIF </img><img> id-US20180022998A1-20180125-C00019.TIF </img>
 wherein, in formulas (1a-1) to (1t-1),
 R1 and R2 are independently alkyl having 1 to 12 carbons, alkoxy having 1 to 12 carbons or alkenyl having 2 to 12 carbons; and
 X is hydrogen or fluorine.
 Item 8. The liquid crystal composition according to any one of items 1 to 7, wherein component (a) is at least one compound selected from the group of compounds represented by formulas (1a-11) and (1a-12):
+<img> id-US20180022998A1-20180125-C00020.TIF </img>
 wherein, in formulas (1a-11) and (1a-12), R1 and R2 are independently alkyl having 1 to 12 carbons, alkoxy having 1 to 12 carbons or alkenyl having 2 to 12 carbons.
 Item 9. The liquid crystal composition according to any one of items 1 to 8, further containing at least one compound selected from the group of compounds represented by formulas (5) to (11) as component (c):
+<img> id-US20180022998A1-20180125-C00021.TIF </img>
 wherein, in formulas (5) to (11),
 R13, R14 and R15 are independently alkyl having 1 to 10 carbons or alkenyl having 2 to 10 carbons, and in the alkyl and the alkenyl, at least one piece of -CH2- may be replaced by -O-, and in the groups, at least one hydrogen may be replaced by fluorine, and R15 may be hydrogen or fluorine;
 ring C1, ring C2, ring C3 and ring C4 are independently 1,4-cyclohexylene, 1,4-cyclohexenylene, 1,4-phenylene in which at least one hydrogen may be replaced by fluorine, tetrahydropyran-2,5-diyl or decahydronaphthalene-2,6-diyl;
@@ -101,6 +117,7 @@ S11 is hydrogen or methyl;
 X is -CHF- or -CF2-; and
 j, k, m, n, p, q, r and s are independently 0 or 1, a sum of k, m, n and p is 1 or 2, a sum of q, r and s is 0, 1, 2 or 3, and t is 1, 2 or 3.
 Item 10. The liquid crystal composition according to any one of items 1 to 9, further containing at least one compound selected from the group of compounds represented by formulas (12) to (14) as component (d):
+<img> id-US20180022998A1-20180125-C00022.TIF </img>
 wherein, in formulas (12) to (14),
 R16 is alkyl having 1 to 10 carbons or alkenyl having 2 to 10 carbons, and in the alkyl and the alkenyl, at least one piece of -CH2- may be replaced by -O-, and in the groups, at least one hydrogen may be replaced by fluorine;
 X11 is fluorine, chlorine, -CF3, -CHF2, -CH2F, -OCF3, -OCHF2, -OCF2CHF2 or -OCF2CHFCF3;
@@ -108,6 +125,7 @@ ring D1, ring D2 and ring D3 are independently 1,4-cyclohexylene, 1,4-phenylene 
 Z18, Z19 and Z20 are independently a single bond, -COO-, -CH2O-, -CF2O-, -OCF2-, -CH2CH2-, -CH═CH-, -C≡C- or -(CH2)4-; and
 L13 and L14 are independently hydrogen or fluorine.
 Item 11. The liquid crystal composition according to any one of items 1 to 10, further containing at least one compound selected from the group of compounds represented by formula (15) as component (e):
+<img> id-US20180022998A1-20180125-C00023.TIF </img>
 wherein, in formula (15),
 R17 is alkyl having 1 to 10 carbons or alkenyl having 2 to 10 carbons, and in the alkyl and the alkenyl, at least one piece of -CH2- may be replaced by -O-, and in the groups, at least one hydrogen may be replaced by fluorine;
 X12 is -C≡N or -C≡C-C≡N;
@@ -116,6 +134,7 @@ Z21 is a single bond, -COO-, -CH2O-, -CF2O-, -OCF2-, -CH2CH2- or -C≡C-;
 L15 and L16 are independently hydrogen or fluorine; and
 i is 1, 2, 3 or 4.
 Item 12. A compound, represented by formula (1-2):
+<img> id-US20180022998A1-20180125-C00024.TIF </img>
 wherein, in formula (1-2),
 R1 and R2 are independently hydrogen, alkyl having 1 to 14 carbons or alkenyl having 2 to 14 carbons, and in the alkyl and the alkenyl, one or two pieces of -CH2- may be replaced by -O-, and in the groups, at least one hydrogen may be replaced by fluorine;
 ring A1 and ring A2 are independently 1,4-cyclohexylene, 1,4-cyclohexenylene, 1,3-dioxane-2,5-diyl, tetrahydropyran-2,5-diyl, 1,4-phenylene, 3-fluoro-1,4-phenylene, 3,5-difluoro-1,4-phenylene, pyridine-2,5-diyl or pyrimidine-2,5-diyl;
@@ -123,12 +142,15 @@ Z1 and Z2 are independently a single bond, -O-, -COO-, -OCO-, -CH2O-, -OCH2-, -C
 Y is -CO- or -CF2-; and
 a and b are independently 0, 1 or 2, and a sum of a and b is 0, 1 or 2.
 Item 13. The compound according to item 12, represented by any one of formulas (1a-2) to (1t-2):
+<img> id-US20180022998A1-20180125-C00025.TIF </img><img> id-US20180022998A1-20180125-C00026.TIF </img>
 wherein, in formulas (1a-2) to (1t-2),
 R1 and R2 are independently alkyl having 1 to 12 carbons, alkoxy having 1 to 12 carbons or alkenyl having 2 to 12 carbons; and
 Y is -CO- or -CF2-.
 Item 14. The compound according to item 12 or 13, represented by any one of formulas (1a-3) to (1t-3):
+<img> id-US20180022998A1-20180125-C00027.TIF </img><img> id-US20180022998A1-20180125-C00028.TIF </img><img> id-US20180022998A1-20180125-C00029.TIF </img>
 wherein, in formulas (1a-3) to (1t-3), R1 and R2 are independently alkyl having 1 to 12 carbons, alkoxy having 1 to 12 carbons or alkenyl having 2 to 12 carbons.
 Item 15. The compound according to any one of items 12 to 14, represented by formula (1a-12):
+<img> id-US20180022998A1-20180125-C00030.TIF </img>
 wherein, in formula (1a-12), R1 and R2 are independently alkyl having 1 to 12 carbons, alkoxy having 1 to 12 carbons or alkenyl having 2 to 12 carbons.
 Item 16. The compound according to item 15, wherein, in formula (1a-12), R1 is alkoxy having 1 to 12 carbons, R2 is alkyl having 1 to 12 carbons, alkoxy having 1 to 12 carbons or alkenyl having 2 to 12 carbons.
 Item 17. A liquid crystal display device, including the liquid crystal composition according to any one of items 1 to 11.
@@ -138,8 +160,10 @@ The invention further includes the following items: (e) a device including the c
 An aspect of compound (1), synthesis of compound (1), the liquid crystal composition and the liquid crystal display device will be described in the order.
 1. Aspect of Compound (1)
 Compound (1) has a feature of having a benzopyran skeleton in which benzene and pyran are fused. When Y is carbonyl, the skeleton is isocoumarin (1H-2-benzopyrane-1-one). When Y is difluoromethylene, the skeleton is 1H-isochromene (1H-2-benzopyran).
+<img> id-US20180022998A1-20180125-C00031.TIF </img>
 The compound has negative dielectric anisotropy. The compound is physically and chemically significantly stable under a condition at which the device is ordinarily used, and is excellent in compatibility with other liquid crystal compounds. A composition containing the compound is stable under a condition at which the device is ordinarily used. When the composition is kept at low temperature, the compound has small tendency of precipitation as crystals (or smectic phase). The compound has general physical properties required for the component of the composition, suitable optical anisotropy and suitable dielectric anisotropy.
 Preferred examples of terminal groups (R1 and R2), rings (A1 and A2)), bonding groups (Z1 and Z2) and substitutional groups (X, L1 and L2) in compound (1) are as described below. The examples are applied also in a subordinate formula of compound (1). In compound (1), physical properties can be arbitrarily adjusted by suitably combining the groups. Compound (1) may contain a larger amount of isotope such as 2H (deuterium) and 13C than the amount of natural abundance because no significant difference exists in the physical properties of the compound. In addition, symbols in compound (1) are defined according to item 1.
+<img> id-US20180022998A1-20180125-C00032.TIF </img>
 In formula (1), R1 and R2 are independently hydrogen, alkyl having 1 to 16 carbons, alkenyl having 1 to 16 carbons, cyclopropyl, cyclobutyl or cyclopentyl, and in the alkyl and the alkenyl, at least one piece of -CH2- may be replaced by -O-, -S-, -CO-, -COO-, -OCO-, -OCOO-, -C≡C-, cyclopropane-1,2-diyl or -Si(CH3)2-, and in the groups, at least one hydrogen may be replaced by fluorine or chlorine.
 Preferred R1 or R2 is hydrogen, alkyl, alkoxy, alkoxyalkyl, alkoxyalkoxy, alkylthio, alkylthioalkoxy, acyl, acylalkyl, acyloxy, acyloxyalkyl, alkoxycarbonyl, alkoxycarbonylalkyl, alkenyl, alkenyloxy, alkenyloxyalkyl, alkoxyalkenyl, alkynyl, alkynyloxy, silaalkyl or disilaalkyl. In the groups, at least one hydrogen may be replaced by fluorine or chlorine. The example includes a group in which at least two pieces of hydrogen are replaced by both fluorine and chlorine. A group in which at least one hydrogen is replaced by only fluorine is further preferred. In the groups, a straight chain is preferred to a branched chain. However, if R1 or R2 has a branched chain, the group is preferred when the group has optical activity.
 Further preferred R1 or R2 is alkyl, alkoxy, alkoxyalkyl, alkenyl, monofluoroalkyl, polyfluoroalkyl, monofluoroalkoxy or polyfluoroalkoxy. In addition, polyfluoroalkyl and polyfluoroalkoxy include perfluoroalkyl and perfluoroalkoxy. Particularly preferred R1 or R2 is alkyl, alkoxy or alkenyl.
@@ -148,11 +172,14 @@ Specific R1 or R2 is methyl, ethyl, propyl, butyl, pentyl, hexyl, heptyl, octyl,
 Specific R1 or R2 is also 2-fluoroethyl, 3-fluoropropyl, 2,2,2-trifluoroethyl, 2-fluorovinyl, 2,2-difluorovinyl, 2-fluoro-2-vinyl, 3-fluoro-1-propenyl, 3,3,3-trifluoro-1-propenyl, 4-fluoro-1-propenyl or 4,4-difluoro-3-butenyl.
 Further preferred R1 or R2 is methyl, ethyl, propyl, butyl, pentyl, methoxy, ethoxy, propoxy, butoxy, pentyloxy, methoxymethyl, ethoxymethyl, propoxymethyl, vinyl, 1-propenyl, 2-propenyl, 1-butenyl, 2-butenyl, 3-butenyl, 1-pentenyl, 2-pentenyl, 3-pentenyl, 4-pentenyl, 2-propenyloxy, 2-butenyloxy or 2-pentenyloxy. Most preferred R1 or R2 is methyl, ethyl, propyl, butyl, pentyl, methoxy, ethoxy, propoxy, methoxymethyl, vinyl, 1-propenyl, 3-butenyl or 3-pentenyl.
 In formula (1), R1 or R2 is alkyl or the like. In the groups, at least one piece of -CH3 may be replaced by any one of monovalent groups (G1) to (G4) described below.
+<img> id-US20180022998A1-20180125-C00033.TIF </img>
 In which, in groups (G1) to (G4), R3 is alkyl having 1 to 12 carbons or alkenyl having 2 to 12 carbons, and in the alkyl and the alkenyl, at least one piece of -CH2- may be replaced by -O-, and in the groups, at least one hydrogen may be replaced by fluorine or chlorine.
 Preferred R3 is alkyl. Specific R3 is methyl or ethyl. Compounds each having monovalent groups (G1) to (G4) may have optical activity or may be a racemic form.
 In formula (1), ring A1 and ring A2 are independently 1,4-cyclohexylene, 1,4-cyclohexenylene, 1,4-phenylene, decahydronaphthalene-2,6-diyl, tetrahydronaphthalene-2,6-diyl or naphthalene-2,6-diyl, and in the groups, one or two pieces of -CH2- may be replaced by -O-, -S-, -CO-, -CF2-, -SiH2- or -Si(CH3)2-, and one or two pieces of -CH2CH2- may be replaced by -CH═CH- or -CH═N-, and in the groups, at least one hydrogen on an aromatic ring may be replaced by halogen, -CF3, -CHF2, -CH2F, -OCF3, -OCHF2, -OCH2F or -C≡N.
 Preferred examples of the group under an expression “in the groups, one or two pieces of -CH2- may be replaced by -O-, -S-, -CO-, -CF2-, -SiH2- or -Si(CH3)2-, and one or two pieces of -CH2CH2- may be replaced by -CH═CH- or -CH═N-” include a divalent group represented by formulas (16-1) to (16-50) described below. Further preferred examples include a divalent group represented by formulas (16-1) to (16-4), formula (16-15), formula (16-23), formulas (16-27) to (16-29), formula (16-36), formula (16-39) or formula (16-45).
+<img> id-US20180022998A1-20180125-C00034.TIF </img><img> id-US20180022998A1-20180125-C00035.TIF </img><img> id-US20180022998A1-20180125-C00036.TIF </img><img> id-US20180022998A1-20180125-C00037.TIF </img>
 Preferred examples of the group under an expression “in the divalent groups, at least one hydrogen may be replaced by fluorine, chlorine, -C≡N, -CF3, -CHF2, -CH2F, -OCF3, -OCHF2 or -OCH2F” include a divalent group represented by formulas (17-1) to (17-71). Further preferred examples include a divalent group represented by formulas (17-1) to (17-4), formula (17-6), formulas (17-10) to (17-15) or formulas (17-54) to (17-59).
+<img> id-US20180022998A1-20180125-C00038.TIF </img><img> id-US20180022998A1-20180125-C00039.TIF </img><img> id-US20180022998A1-20180125-C00040.TIF </img><img> id-US20180022998A1-20180125-C00041.TIF </img><img> id-US20180022998A1-20180125-C00042.TIF </img><img> id-US20180022998A1-20180125-C00043.TIF </img><img> id-US20180022998A1-20180125-C00044.TIF </img>
 Further preferred ring A1 or ring A2 is 1,4-cyclohexylene, 1,4-cyclohexenylene, 1,3-dioxane-2,5-diyl, 1,4-phenylene, 2-fluoro-1,4-phenylene, 2,3-difluoro-1,4-phenylene, 2,5-difluoro-1,4-phenylene, 2,6-difluoro-1,4-phenylene, 2,3,5-trifluoro-1,4-phenylene, pyridine-2,5-diyl, 3-fluoropyridine-2,5-diyl, pyrimidine-2,5-diyl, pyridazine-2,5-diyl, decahydronaphthalene-2,6-diyl, 1,2,3,4-tetrahydronaphthalene-2,6-diyl or naphthalene-2,6-diyl. In a configuration of 1,4-cyclohexylene and 1,3-dioxane-2,5-diyl, trans is preferred to cis.
 Particularly preferred ring A1 or ring A2 is 1,4-cyclohexylene, 1,3-dioxane-2,5-diyl, 1,4-phenylene, 2-fluoro-1,4-phenylene, 2,3-difluoro-1,4-phenylene, 2,5-difluoro-1,4-phenylene, 2,6-difluoro-1,4-phenylene, pyridine-2,5-diyl or pyrimidine-2,5-diyl. Most preferred ring A1 or ring A2 is 1,4-cyclohexylene or 1,4-phenylene.
 In formula (1), Z1 and Z2 are independently a single bond or alkylene having 1 to 4 carbons, and one piece of -CH2- may be replaced by -O- or -CO-, and at least one piece of -CH2CH2- may be replaced by -CH═CH- or -C≡C-, and in the groups, at least one hydrogen may be replaced by fluorine or chlorine.
@@ -171,6 +198,7 @@ When compound (1) has one ring or two rings, the viscosity is small. When compou
 A synthesis method of compound (1) will be described. Compound (1) can be prepared by suitably combining methods in synthetic organic chemistry. Methods for introducing a required terminal group, ring and bonding group into a starting material are described in books such as “Organic Syntheses” (John Wiley & Sons, Inc.), “Organic Reactions” (John Wiley & Sons, Inc.), “Comprehensive Organic Synthesis” (Pergamon Press) and “New Experimental Chemistry Course” (Shin Jikken Kagaku Koza in Japanese) (Maruzen Co., Ltd.).
 2-1. Formation of Bonding Group Z
 First, a scheme is shown with regard to a method for forming bonding groups Z1 and Z2. Next, reactions described in the scheme in methods (1) to (11) are described. In the scheme, MSG1 (or MSG2) is a monovalent organic group. The monovalent organic groups represented by a plurality of MSG1 (or MSG2) used in the scheme may be identical or different. Compounds (1A) to (1J) correspond to compound (1).
+<img> id-US20180022998A1-20180125-C00045.TIF </img><img> id-US20180022998A1-20180125-C00046.TIF </img>
 (1) Formation of a Single Bond
 Compound (1A) is prepared by allowing aryl boronic acid (21) prepared according to a publicly known method to react with halide (22) in the presence of a carbonate and a catalyst such as tetrakis(triphenylphosphine)palladium. Compound (1A) is also prepared by allowing halide (23) prepared according to a publicly known method to react with n-butyllithium and subsequently with zinc chloride, and further with halide (22) in the presence of a catalyst such as dichlorobis(triphenylphosphine)palladium.
 (2) Formation of -COO-
@@ -195,11 +223,15 @@ Compound (34) is obtained by reducing aldehyde (28) with a reducing agent such a
 A compound having -(CF2)2- is obtained by fluorinating diketone (-COCO-) with sulfur tetrafluoride, in the presence of a hydrogen fluoride catalyst, according to the method described in J. Am. Chem. Soc., 2001, 123, 5414.
 2-2. Formation of Rings A1 to A3 and Ring N1
 Next, a synthesis method regarding to rings A1 to A3 and ring N1 will be described. With regard to a ring such as 1,4-cyclohexylene, 1,3-dioxane-2,5-diyl, 1,4-phenylene, 2-fluoro-1,4-phenylene, 2, 3-difluoro-1,4-phenylene, pyridine-2,5-diyl or pyrimidine-2,5-diyl, a starting material is commercially available or a synthesis method is well known. Thus, a synthesis method of compounds (64), (67) and (71) described below will be described.
+<img> id-US20180022998A1-20180125-C00047.TIF </img>
 Decahydronaphthalene-2,6-dione (64) is a starting material of a compound containing decahydronaphthalene-2,6-diyl. The compound (64) is obtained by performing catalytic hydrogenation with diol (63) in the presence of ruthenium oxide according to a method described in JP 2000-239564 A, and subsequently oxidizing the resulting material with chromium oxide. The compound obtained is converted into compound (1) according to a conventional method.
+<img> id-US20180022998A1-20180125-C00048.TIF </img>
 A structural unit of 2,3-(bistrifluoromethyl)phenylene is prepared according to a method described in Org. Lett., 2000, 2(21), 3345. Aniline (66) is prepared by allowing furan (65) to perform Diels Alder reaction with 1,1,1,4,4,4-hexafluoro-2-butyne at high temperature. Iodide (67) is obtained by performing a Sandmeyer reaction to the compound obtained according to a method described in Org. Synth. Coll., Vol. 2, 1943, 355. The compound obtained is converted to compound (1) according to a conventional method.
+<img> id-US20180022998A1-20180125-C00049.TIF </img>
 A structural unit of 2-difluoromethyl-3-fluorophenylene is prepared by a method as described below. A hydroxyl group of compound (68) is protected with a suitable protective group to obtain compound (69). P represents the protective group. Aldehyde (70) is obtained by acting compound (69) with s-butyllithium and subsequently allowing the obtained material to react with N,N-dimethylformamide (DMF). Phenol (71) is obtained by fluorinating the compound obtained with diethylaminosulfur trifluoride (DAST), and subsequently deprotecting the resulting material. The compound obtained is converted into compound (1) according to a conventional method.
 2-3. Formation of Isocoumarin Skeleton
 A synthesis scheme of compound (1-a) is as described below.
+<img> id-US20180022998A1-20180125-C00050.TIF </img>
 Diketone (s-3) is prepared by condensing commercially available ketone (s-1) with commercially available ester (s-2) according to an ordinary method. Compound (1-a) is obtained by acting compound (s-4) on the compound obtained in the presence of cesium carbonate and copper iodide in dimethyl sulfoxide. See The Journal Organic Chemistry, 2012, 77, 5022-5029.
 3. Liquid Crystal Composition
 3-1. Component Compound
@@ -219,15 +251,19 @@ Component (e) & Compound (15) & Positively large
 </table>
 The composition contains compound (1) as component (a). The composition further preferably contains a liquid crystal compound selected from components (b) to (e) described in Table 1. When the composition is prepared, components (b) to (e) are preferably selected by taking into account the positive or negative dielectric anisotropy and magnitude of the dielectric anisotropy. The composition may contain a liquid crystal compound different from compounds (1) to (15). The composition may not contain such a liquid crystal compound.
 Component (b) includes a compound in which two terminal groups are alkyl or the like. Preferred examples of component (b) include compounds (2-1) to (2-11), compounds (3-1) to (3-19) and compounds (4-1) to (4-7). In the compounds, R11 and R12 are independently alkyl having 1 to 10 carbons or alkenyl having 2 to 10 carbons, and in the alkyl and the alkenyl, at least one piece of -CH2- may be replaced by -O-, and in the groups, at least one hydrogen may be replaced by fluorine.
+<img> id-US20180022998A1-20180125-C00051.TIF </img><img> id-US20180022998A1-20180125-C00052.TIF </img><img> id-US20180022998A1-20180125-C00053.TIF </img><img> id-US20180022998A1-20180125-C00054.TIF </img>
 Component (b) has small dielectric anisotropy. Component (b) is close to neutrality. Compound (2) is effective in decreasing viscosity or adjusting optical anisotropy. Compounds (3) and (4) are effective in extending a temperature range of a nematic phase by increasing maximum temperature, or adjusting the optical anisotropy.
 As a proportion of component (b) is increased, the viscosity of the composition is decreased, and the dielectric anisotropy is decreased. Thus, as long as a desired value of a threshold voltage of the device is met, the content is preferably as large as possible. When a composition for the IPS mode, the VA mode or the like is prepared, a proportion of component (b) is preferably about 30% by weight or more, and further preferably about 40% by weight or more.
 Component (c) includes compounds (5) to (11). The compounds have phenylene in which hydrogen in lateral positions are replaced by two halogens, such as 2,3-difluoro-1,4-phenylene. Preferred examples of component (c) include compounds (5-1) to (5-8), compounds (6-1) to (6-17), compound (7-1), compounds (8-1) to (8-3), compounds (9-1) to (9-11), compounds (10-1) to (10-3) and compounds (11-1) to (11-3). In the compounds, R13, R14 and R15 are independently alkyl having 1 to 10 carbons or alkenyl having 2 to 10 carbons, and in the alkyl and the alkenyl, at least one piece of -CH2- may be replaced by -O-, and in the groups, at least one hydrogen may be replaced by fluorine, and R15 may be hydrogen or fluorine.
+<img> id-US20180022998A1-20180125-C00055.TIF </img><img> id-US20180022998A1-20180125-C00056.TIF </img><img> id-US20180022998A1-20180125-C00057.TIF </img><img> id-US20180022998A1-20180125-C00058.TIF </img><img> id-US20180022998A1-20180125-C00059.TIF </img>
 Component (c) has negatively large dielectric anisotropy. Component (c) is used when a composition for the IPS mode, the VA mode, the PSA mode or the like is prepared. As a proportion of component (c) is increased, the dielectric anisotropy of the composition is negatively increased, but the viscosity is increased. Thus, as long as a desired value of a threshold voltage of the device is met, the content is preferably as small as possible. When taking into account the dielectric anisotropy being at a degree of −5, a proportion is preferably about 40% by weight or more in order to allow sufficient voltage driving.
 Among types of component (c), compound (5) is a bicyclic compound, and therefore is effective in decreasing the viscosity, adjusting the optical anisotropy or increasing the dielectric anisotropy. Compounds (5) and (6) are a tricyclic compound, and therefore are effective in increasing the maximum temperature, the optical anisotropy or the dielectric anisotropy. Compounds (8) to (11) are effective in increasing the dielectric anisotropy.
 When a composition for the IPS mode, the VA mode, the PSA mode or the like is prepared, a content of component (c) is preferably about 40% by weight or more, and further preferably in the range of about 50% by weight to about 95% by weight. When component (c) is added to the composition having positive dielectric anisotropy, a proportion of component (c) is preferably about 30% by weight or less. The elastic constant of the composition can be adjusted, and a voltage-transmittance curve of the device can be adjusted by adding component (c) thereto.
 Component (d) is a compound having a halogen-containing group or a fluorine-containing group at a right terminal. Preferred examples of component (d) include compounds (12-1) to (12-16), compounds (13-1) to (13-113) and compounds (14-1) to (14-57). In the compounds, R16 is alkyl having 1 to 10 carbons or alkenyl having 2 to 10 carbons, and in the alkyl and the alkenyl, at least one piece of -CH2- may be replaced by -O-, and in the groups, at least one hydrogen may be replaced by fluorine. X11 is fluorine, chlorine, -OCF3, -OCHF2, -CF3, -CHF2, -CH2F, -OCF2CHF2 or -OCF2CHFCF3.
+<img> id-US20180022998A1-20180125-C00060.TIF </img><img> id-US20180022998A1-20180125-C00061.TIF </img><img> id-US20180022998A1-20180125-C00062.TIF </img><img> id-US20180022998A1-20180125-C00063.TIF </img><img> id-US20180022998A1-20180125-C00064.TIF </img><img> id-US20180022998A1-20180125-C00065.TIF </img><img> id-US20180022998A1-20180125-C00066.TIF </img><img> id-US20180022998A1-20180125-C00067.TIF </img><img> id-US20180022998A1-20180125-C00068.TIF </img><img> id-US20180022998A1-20180125-C00069.TIF </img><img> id-US20180022998A1-20180125-C00070.TIF </img><img> id-US20180022998A1-20180125-C00071.TIF </img><img> id-US20180022998A1-20180125-C00072.TIF </img><img> id-US20180022998A1-20180125-C00073.TIF </img><img> id-US20180022998A1-20180125-C00074.TIF </img><img> id-US20180022998A1-20180125-C00075.TIF </img><img> id-US20180022998A1-20180125-C00076.TIF </img><img> id-US20180022998A1-20180125-C00077.TIF </img><img> id-US20180022998A1-20180125-C00078.TIF </img>
 Component (d) has positive dielectric anisotropy and satisfactory stability to heat and light, and therefore is used when a composition for the IPS mode, the FFS mode, the CB mode or the like is prepared. A proportion of component (d) is suitably in the range of about 1% by weight to about 99% by weight, preferably in the range of about 10% by weight to about 97% by weight, and further preferably in the range of about 40% by weight to about 95% by weight. When component (d) is added to a composition having negative dielectric anisotropy, a proportion of component (d) is preferably about 30% by weight or less. The elastic constant of the composition can be adjusted, and the voltage-transmittance curve of the device can be adjusted by adding component (d) thereto.
 Component (e) is compound (15) in which a right-terminal group is -C≡N or -C≡C-C≡N. Preferred examples of component (e) include compounds (15-1) to (15-64). In the compounds, R17 is alkyl having 1 to 10 carbons or alkenyl having 2 to 10 carbons, and in the alkyl and the alkenyl, at least one piece of -CH2- may be replaced by -O-, and in the groups, at least one hydrogen may be replaced by fluorine. X12 is -C≡N or -C≡C-C═N.
+<img> id-US20180022998A1-20180125-C00079.TIF </img><img> id-US20180022998A1-20180125-C00080.TIF </img><img> id-US20180022998A1-20180125-C00081.TIF </img><img> id-US20180022998A1-20180125-C00082.TIF </img><img> id-US20180022998A1-20180125-C00083.TIF </img><img> id-US20180022998A1-20180125-C00084.TIF </img><img> id-US20180022998A1-20180125-C00085.TIF </img>
 Component (e) has positive dielectric anisotropy and a value thereof is large, and therefore is used when a composition for the TN mode or the like is prepared. The dielectric anisotropy of the composition can be increased by adding the component (e). Component (e) is effective in extending the temperature range of the liquid crystal phase, adjusting the viscosity or adjusting the optical anisotropy. Component (e) is also useful for adjustment of the voltage-transmittance curve of the device.
 When a composition for the TN mode or the like is prepared, a proportion of component (e) is suitably in the range of about 1% by weight to about 99% by weight, preferably in the range of about 10% by weight to about 97% by weight, and further preferably in the range of about 40% by weight to about 95% by weight. When component (e) is added to the composition having negative dielectric anisotropy, a proportion of component (e) is preferably about 30% by weight or less. The elastic constant of the composition can be adjusted, and the voltage-transmittance curve of the device can be adjusted by adding component (e) thereto.
 A liquid crystal composition satisfying at least one of physical properties such as high stability to heat and light, high maximum temperature, low minimum temperature, small viscosity, suitable optical anisotropy (more specifically, large optical anisotropy or small optical anisotropy), large positive or negative dielectric anisotropy, large specific resistance and a suitable elastic constant (more specifically, a large elastic constant or a small elastic constant) can be prepared by combining a compound appropriately selected from components (b) to (e) described above with compound (1). The device including such a composition has a wide temperature range in which the device can be used, a short response time, a large voltage holding ratio, low threshold voltage, a large contrast ratio, a small flicker rate and a long service life.
@@ -237,13 +273,16 @@ The liquid crystal composition is prepared according to a publicly known method.
 In a liquid crystal display device having the polymer sustained alignment (PSA) mode, the composition contains a polymer. The polymerizable compound is added for the purpose of forming the polymer in the composition. The polymerizable compound is polymerized by irradiation with ultraviolet light while voltage is applied between electrodes, and thus the polymer is formed in the composition. A suitable pretilt is achieved by the method, and therefore the device in which a response time is shortened and the image persistence is improved is prepared.
 Specific examples of a preferred polymerizable compound include acrylate, methacrylate, a vinyl compound, a vinyloxy compound, propenyl ether, an epoxy compound (oxirane, oxetane) and vinyl ketone. Further preferred examples include a compound having at least one piece of acryloyloxy, and a compound having at least one piece of methacryloyloxy. Still further preferred examples also include a compound having both acryloyloxy and methacryloyloxy.
 Still further preferred examples include compounds (M-1) to (M-18). In the compounds, R25 to R31 are independently hydrogen or methyl; R32, R33 and R34 are independently hydrogen or alkyl having 1 to 5 carbons, and at least one piece of R32, R33 and R34 is alkyl having 1 to 5 carbons; v, w and x are independently 0 or 1; and u and y are independently an integer from 1 to 10. L21 to L26 are independently hydrogen or fluorine; and L27 and L28 are independently hydrogen, fluorine or methyl.
+<img> id-US20180022998A1-20180125-C00086.TIF </img><img> id-US20180022998A1-20180125-C00087.TIF </img><img> id-US20180022998A1-20180125-C00088.TIF </img>
 The polymerizable compound can be rapidly polymerized by adding the polymerization initiator thereto. An amount of a remaining polymerizable compound can be reduced by optimizing reaction conditions. Specific examples of a photoradical polymerization initiator include TPO, 1173 and 4265 from Darocur series of BASF SE, and 184, 369, 500, 651, 784, 819, 907, 1300, 1700, 1800, 1850 and 2959 from Irgacure series thereof.
 Additional examples of the photoradical polymerization initiator include 4-methoxyphenyl-2,4-bis(trichloromethyl)triazine, 2-(4-butoxystyryl)-5-trichloromethyl-1,3,4-oxadiazole, 9-phenylacridine, 9,10-benzphenazine, a benzophenone-Michler's ketone mixture, a hexaarylbiimidazole-mercaptobenzimidazole mixture, 1-(4-isopropylphenyl)-2-hydroxy-2-methylpropane-1-one, benzyl dimethyl ketal, 2-methyl-1-[4-(methylthio)phenyl]-2-morpholinopropane-1-one, a mixture of 2,4-diethylxanthone and methyl p-dimethylaminobenzoate and a mixture of benzophenone and methyltriethanolamine.
 After the photoradical polymerization initiator is added to the liquid crystal composition, polymerization can be performed by irradiation with ultraviolet light while an electric field is applied. However, an unreacted polymerization initiator or a decomposition product of the polymerization initiator may cause poor display such as the image persistence in the device. In order to prevent such an event, photopolymerization may be performed with no addition of the polymerization initiator. A preferred wavelength of irradiation light is in the range of about 150 nanometers to about 500 nanometers. A further preferred wavelength is in the range of about 250 nanometers to about 450 nanometers, and a most preferred wavelength is in the range of about 300 nanometers to about 400 nanometers.
 Upon storing the polymerizable compound, the polymerization inhibitor may be added thereto for preventing polymerization. The polymerizable compound is ordinarily added to the composition without removing the polymerization inhibitor. Specific examples of the polymerization inhibitor include hydroquinone, a hydroquinone derivative such as methylhydroquinone, 4-t-butylcatechol, 4-methoxyphenol and phenothiazine.
 The optically active compound is effective in inducing a helical structure in liquid crystal molecules to give a required twist angle, and thereby preventing a reverse twist. A helical pitch can be adjusted by adding the optically active compound thereto. Two or more optically active compounds may be added for the purpose of adjusting temperature dependence of the helical pitch. Specific examples of a preferred optically active compound include compounds (Op-1) to (Op-18) described below. In compound (Op-18), ring J is 1,4-cyclohexylene or 1,4-phenylene, and R28 is alkyl having 1 to 10 carbons. Asterisk mark * represents asymmetrical carbon.
+<img> id-US20180022998A1-20180125-C00089.TIF </img><img> id-US20180022998A1-20180125-C00090.TIF </img>
 The antioxidant is effective for maintaining a large voltage holding ratio. Specific examples of a preferred antioxidant include compounds (AO-1) and (AO-2) described below; and Irganox 415, Irganox 565, Irganox 1010, Irganox 1035, Irganox 3114 and Irganox 1098 (trade names; BASF SE). The ultraviolet light absorber is effective for preventing reduction of the maximum temperature. Specific examples of a preferred ultraviolet light absorber include a benzophenone derivative, a benzoate derivative and a triazole derivative, and specific examples include compounds (AO-3) and (AO-4) described below; and Tinuvin 329, Tinuvin P, Tinuvin 326, Tinuvin 234, Tinuvin 213, Tinuvin 400, Tinuvin 328 and Tinuvin 99-2 (trade names; BASF SE); and 1,4-diazabicyclo[2.2.2]octane (DABCO).
 The light stabilizer such as an amine having steric hindrance is preferred for maintaining the large voltage holding ratio. Specific examples of a preferred light stabilizer include compounds (AO-5), (AO-6) and (AO-7) described below; and Tinuvin 144, Tinuvin 765 and Tinuvin 770DF (trade names; BASF SE); and LA-77Y and LA-77G (trade names; ADEKA Corporation). The heat stabilizer is also effective for maintaining the large voltage holding ratio, and specific preferred examples thereof include Irgafos 168 (trade name; BASF SE). A dichroic dye such as an azo dye or an anthraquinone dye is added to the composition to be adapted for a device having a guest host (GH) mode. The antifoaming agent is effective for preventing foam formation. Specific examples of a preferred antifoaming agent include dimethyl silicone oil and methylphenyl silicone oil.
+<img> id-US20180022998A1-20180125-C00091.TIF </img>
 In compound (AO-1), R40 is alkyl having 1 to 20 carbons, alkoxy having 1 to 20 carbons, -COOR41 or -CH2CH2COOR41, in which R41 is alkyl having 1 to 20 carbons. In compounds (AO-2) and (AO-5), R42 is alkyl having 1 to 20 carbons. In compound (AO-5), R43 is hydrogen, methyl or O− (oxygen radical); and ring G1 is 1,4-cyclohexylene or 1,4-phenylene; and in compound (AO-7), ring G2 is 1,4-cyclohexylene, 1,4-phenylene or 1,4-phenylene in which at least one hydrogen is replaced by fluorine; and in compounds (AO-5) and (AO-7), z is 1, 2 or 3.
 4. Liquid Crystal Display Device
 The liquid crystal composition can be used for the liquid crystal display device having an operating mode such as the PC mode, the TN mode, the STN mode, the OCB mode and the PSA mode, and driven by an active matrix mode. The composition can also be used for the liquid crystal display device having an operating mode such as the PC mode, the TN mode, the STN mode, the OCB mode, the VA mode and the IPS mode, and driven by a passive matrix mode. The devices can be applied to any of a reflective type, a transmissive type and a transflective type.
@@ -260,7 +299,9 @@ Sample for measurement: Upon measuring phase structure and a transition temperat
 When the sample prepared by mixing the compound with the base liquid crystal was used, measurement was performed as described below. The sample was prepared by mixing 15% by weight of the compound and 85% by weight of the base liquid crystal. From the measured value of the sample, an extrapolated value was calculated according to the following equation, and the calculated value was described: [extrapolated value]=(100×[measured value of a sample]−[% by weight of a base liquid crystal]×[measured value of the base liquid crystal])/[% by weight of a compound].
 When crystals (or a smectic phase) precipitated at 25° C. at the ratio, a ratio of the compound to base liquid crystal was changed in the order of (10% by weight:90% by weight), (5% by weight:95% by weight) and (1% by weight:99% by weight), and the physical properties of the sample were measured at a ratio at which no crystal (or no smectic phase) precipitated at 25° C. In addition, unless otherwise noted, the ratio of the compound to base liquid crystal was (15% by weight:85% by weight).
 When the dielectric anisotropy of the compound was zero or positive, base liquid crystal (A) described below was used. A proportion of each component was expressed in terms of weight percent (% by weight).
+<img> id-US20180022998A1-20180125-C00092.TIF </img>
 When the dielectric anisotropy of the compound was zero or negative, base liquid crystal (B) described below was used. A proportion of each component was expressed in terms of weight percent (% by weight).
+<img> id-US20180022998A1-20180125-C00093.TIF </img>
 Measuring method: Physical properties were measured according to methods described below. Most of the methods are described in the Standard of Japan Electronics and Information Technology Industries Association (JEITA) discussed and established in JEITA (JEITA ED-2521B). A modified method was also applied. No thin film transistor (TFT) was attached to a TN device used for measurement.
 (1) Phase structure: A sample was placed on a hot plate in a melting point apparatus (FP-52 Hot Stage made by Mettler-Toledo International Inc.) equipped with a polarizing microscope. A state of phase and a change thereof were observed with the polarizing microscope while the sample was heated at a rate of 3° C. per minute, and a kind of the phase was specified.
 (2) Transition temperature (° C.): For measurement, a differential scanning calorimeter, Diamond DSC System, made by PerkinElmer, Inc., or a high sensitivity differential scanning calorimeter, X-DSC7000, made by SII NanoTechnology Inc. was used. A sample was heated and then cooled at a rate of 3° C. per minute, and a starting point of an endothermic peak or an exothermic peak caused by a phase change of the sample was determined by extrapolation, and thus a transition temperature was determined. A melting point and a polymerization starting temperature of a compound were also measured using the apparatus. Temperature at which a compound undergoes transition from a solid to a liquid crystal phase such as the smectic phase and the nematic phase may be occasionally abbreviated as “minimum temperature of the liquid crystal phase.” Temperature at which the compound undergoes transition from the liquid crystal phase to liquid may be occasionally abbreviated as “clearing point.”
@@ -289,6 +330,7 @@ Measuring methods of physical properties for samples each having positive or neg
 (16b) Response Time (τ; measured at 25° C.; ms; for a sample having negative dielectric anisotropy): For measurement, an LCD-5100 luminance meter made by Otsuka Electronics Co., Ltd. was used. A light source was a halogen lamp. A low-pass filter was set to 5 kHz. A sample was put in a normally black mode PVA device in which a distance (cell gap) between two glass substrates was 3.2 micrometers and a rubbing direction was anti-parallel. The device was sealed with an ultraviolet-curable adhesive. A voltage in a degree of a little over of the threshold voltage was applied to the device for 1 minute, and subsequently the device was irradiated with ultraviolet light of 23.5 mW/cm2 for 8 minutes while applying a voltage of 5.6V to the device. A voltage (rectangular waves; 60 Hz, 10 V, 0.5 second) was applied to the device. On the occasion, the device was irradiated with light from a direction perpendicular to the device, and an amount of light transmitted through the device was measured. The maximum amount of light corresponds to 100% transmittance, and the minimum amount of light corresponds to 0% transmittance. A response time was expressed in terms of time required for a change from 90% transmittance to 10% transmittance (fall time; millisecond).
 Synthesis Example 1
 Synthesis of Compound (No. 39)
+<img> id-US20180022998A1-20180125-C00094.TIF </img>
 First Step: Synthesis of Compound (39-a)
 To DMF (75 mL), potassium tert-butoxide (50.50 g, 450 mmol) was added, and the resulting mixture was heated and stirred at 50° C. for 30 minutes. To the mixture obtained, a mixture of propylmethylketone (31.9 g, 300 mmol) and ethylbutylate (108.0 g, 930 mmol) was added dropwise, and the resulting mixture was heated and stirred. After 5 hours, the mixture was returned to room temperature, and stirred for 14 hours. The resulting reaction mixture was poured into 1 N hydrochloric acid (250 mL) and subjected to extraction with heptane (4 times, using 100 mL for each). A combined organic layer was washed with water, dried over anhydrous magnesium sulfate, and concentrated under reduced pressure. The residue was purified by a vacuum distillation to obtain compound (39-a) (22.2 g, 142 mmol) as a colorless liquid.
 Second Step: Synthesis of Compound (39-c)
@@ -334,990 +376,990 @@ No. &
 <header>
 
 </header>
-1 & 
-2 & 
-3 & 
-4 & 
-5 & 
-6 & 
-7 & 
-8 & 
-9 & 
-10 & 
-11 & 
-12 & 
-13 & 
-14 & 
-15 & 
-16 & 
-17 & 
-18 & 
-19 & 
-20 & 
-21 & 
-22 & 
-23 & 
-24 & 
-25 & 
-26 & 
-27 & 
-28 & 
-29 & 
-30 & 
-31 & 
-32 & 
-33 & 
-34 & 
-35 & 
-36 & 
-37 & 
-38 & 
-39 & 
-40 & 
-41 & 
-42 & 
-43 & 
-44 & 
-45 & 
-46 & 
-47 & 
-48 & 
-49 & 
-50 & 
-51 & 
-52 & 
-53 & 
-54 & 
-55 & 
-56 & 
-57 & 
-58 & 
-59 & 
-60 & 
-61 & 
-62 & 
-63 & 
-64 & 
-65 & 
-66 & 
-67 & 
-68 & 
-69 & 
-70 & 
-71 & 
-72 & 
-73 & 
-74 & 
-75 & 
-76 & 
-77 & 
-78 & 
-79 & 
-80 & 
-81 & 
-82 & 
-83 & 
-84 & 
-85 & 
-86 & 
-87 & 
-88 & 
-89 & 
-90 & 
-91 & 
-92 & 
-93 & 
-94 & 
-95 & 
-96 & 
-97 & 
-98 & 
-99 & 
-100 & 
-101 & 
-102 & 
-103 & 
-104 & 
-105 & 
-106 & 
-107 & 
-108 & 
-109 & 
-110 & 
-111 & 
-112 & 
-113 & 
-114 & 
-115 & 
-116 & 
-117 & 
-118 & 
-119 & 
-120 & 
-121 & 
-122 & 
-123 & 
-124 & 
-126 & 
-127 & 
-128 & 
-129 & 
-130 & 
-131 & 
-132 & 
-133 & 
-133 & 
-134 & 
-135 & 
-136 & 
-137 & 
-138 & 
-139 & 
-140 & 
-141 & 
-142 & 
-143 & 
-144 & 
-145 & 
-146 & 
-147 & 
-148 & 
-149 & 
-150 & 
-151 & 
-152 & 
-153 & 
-154 & 
-155 & 
-156 & 
-157 & 
-158 & 
-159 & 
-160 & 
-161 & 
-162 & 
-163 & 
-164 & 
-165 & 
-166 & 
-167 & 
-168 & 
-169 & 
-170 & 
-171 & 
-172 & 
-173 & 
-174 & 
-175 & 
-176 & 
-177 & 
-178 & 
-179 & 
-180 & 
-181 & 
-182 & 
-183 & 
-184 & 
-185 & 
-186 & 
-187 & 
-188 & 
-189 & 
-190 & 
-191 & 
-192 & 
-193 & 
-194 & 
-195 & 
-196 & 
-197 & 
-198 & 
-199 & 
-200 & 
-201 & 
-202 & 
-203 & 
-204 & 
-205 & 
-206 & 
-207 & 
-208 & 
-209 & 
-210 & 
-211 & 
-212 & 
-213 & 
-214 & 
-215 & 
-216 & 
-217 & 
-218 & 
-219 & 
-220 & 
-221 & 
-222 & 
-223 & 
-224 & 
-225 & 
-226 & 
-227 & 
-228 & 
-229 & 
-230 & 
-231 & 
-232 & 
-233 & 
-234 & 
-235 & 
-236 & 
-237 & 
-238 & 
-239 & 
-240 & 
-241 & 
-242 & 
-243 & 
-244 & 
-245 & 
-246 & 
-247 & 
-248 & 
-249 & 
-250 & 
-251 & 
-252 & 
-253 & 
-254 & 
-255 & 
-256 & 
-257 & 
-258 & 
-259 & 
-260 & 
-261 & 
-262 & 
-263 & 
-264 & 
-265 & 
-266 & 
-267 & 
-268 & 
-269 & 
-270 & 
-271 & 
-272 & 
-273 & 
-274 & 
-275 & 
-276 & 
-277 & 
-278 & 
-279 & 
-280 & 
-281 & 
-282 & 
-283 & 
-284 & 
-285 & 
-286 & 
-287 & 
-288 & 
-289 & 
-290 & 
-291 & 
-292 & 
-293 & 
-294 & 
-295 & 
-296 & 
-297 & 
-298 & 
-299 & 
-300 & 
-301 & 
-302 & 
-303 & 
-304 & 
-305 & 
-306 & 
-307 & 
-308 & 
-309 & 
-310 & 
-311 & 
-312 & 
-313 & 
-314 & 
-315 & 
-316 & 
-317 & 
-318 & 
-319 & 
-320 & 
-321 & 
-322 & 
-323 & 
-324 & 
-325 & 
-326 & 
-327 & 
-328 & 
-329 & 
-330 & 
-331 & 
-332 & 
-333 & 
-334 & 
-335 & 
-336 & 
-337 & 
-338 & 
-339 & 
-340 & 
-341 & 
-342 & 
-343 & 
-344 & 
-345 & 
-346 & 
-347 & 
-348 & 
-349 & 
-350 & 
-351 & 
-352 & 
-353 & 
-354 & 
-355 & 
-356 & 
-357 & 
-358 & 
-359 & 
-360 & 
-361 & 
-362 & 
-363 & 
-364 & 
-365 & 
-366 & 
-367 & 
-368 & 
-369 & 
-370 & 
-371 & 
-372 & 
-373 & 
-374 & 
-375 & 
-376 & 
-377 & 
-378 & 
-379 & 
-380 & 
-381 & 
-382 & 
-383 & 
-384 & 
-361 & 
-362 & 
-263 & 
-364 & 
-365 & 
-366 & 
-367 & 
-368 & 
-369 & 
-370 & 
-371 & 
-372 & 
-373 & 
-374 & 
-375 & 
-376 & 
-377 & 
-378 & 
-379 & 
-380 & 
-381 & 
-382 & 
-383 & 
-384 & 
-385 & 
-386 & 
-387 & 
-388 & 
-389 & 
-390 & 
-391 & 
-392 & 
-393 & 
-394 & 
-395 & 
-396 & 
-397 & 
-398 & 
-399 & 
-400 & 
-401 & 
-402 & 
-403 & 
-404 & 
-405 & 
-406 & 
-407 & 
-408 & 
-409 & 
-410 & 
-411 & 
-412 & 
-413 & 
-414 & 
-415 & 
-416 & 
-417 & 
-418 & 
-419 & 
-420 & 
-421 & 
-422 & 
-423 & 
-424 & 
-425 & 
-426 & 
-427 & 
-428 & 
-429 & 
-430 & 
-431 & 
-432 & 
-433 & 
-434 & 
-435 & 
-436 & 
-437 & 
-438 & 
-439 & 
-440 & 
-441 & 
-442 & 
-443 & 
-444 & 
-445 & 
-446 & 
-447 & 
-448 & 
-449 & 
-450 & 
-451 & 
-452 & 
-453 & 
-454 & 
-455 & 
-456 & 
-481 & 
-482 & 
-483 & 
-484 & 
-485 & 
-486 & 
-487 & 
-488 & 
-489 & 
-490 & 
-491 & 
-492 & 
-493 & 
-494 & 
-495 & 
-496 & 
-497 & 
-498 & 
-499 & 
-500 & 
-501 & 
-502 & 
-503 & 
-504 & 
-505 & 
-506 & 
-507 & 
-508 & 
-509 & 
-510 & 
-511 & 
-512 & 
-513 & 
-514 & 
-515 & 
-516 & 
-517 & 
-518 & 
-519 & 
-520 & 
-521 & 
-522 & 
-523 & 
-524 & 
-525 & 
-526 & 
-527 & 
-528 & 
-529 & 
-530 & 
-531 & 
-532 & 
-533 & 
-534 & 
-535 & 
-536 & 
-537 & 
-538 & 
-539 & 
-540 & 
-541 & 
-542 & 
-543 & 
-544 & 
-545 & 
-546 & 
-547 & 
-548 & 
-549 & 
-550 & 
-551 & 
-552 & 
-553 & 
-554 & 
-555 & 
-556 & 
-557 & 
-558 & 
-559 & 
-560 & 
-561 & 
-562 & 
-563 & 
-564 & 
-565 & 
-566 & 
-567 & 
-568 & 
-569 & 
-570 & 
-571 & 
-572 & 
-573 & 
-574 & 
-575 & 
-576 & 
-577 & 
-578 & 
-579 & 
-580 & 
-581 & 
-582 & 
-583 & 
-584 & 
-585 & 
-586 & 
-587 & 
-588 & 
-589 & 
-590 & 
-591 & 
-592 & 
-593 & 
-594 & 
-595 & 
-596 & 
-597 & 
-598 & 
-599 & 
-600 & 
-601 & 
-602 & 
-603 & 
-604 & 
-605 & 
-606 & 
-607 & 
-608 & 
-609 & 
-610 & 
-611 & 
-612 & 
-612 & 
-614 & 
-615 & 
-616 & 
-617 & 
-618 & 
-619 & 
-620 & 
-621 & 
-622 & 
-623 & 
-624 & 
-625 & 
-626 & 
-627 & 
-628 & 
-629 & 
-630 & 
-631 & 
-632 & 
-633 & 
-634 & 
-635 & 
-636 & 
-637 & 
-638 & 
-639 & 
-640 & 
-641 & 
-642 & 
-643 & 
-644 & 
-645 & 
-646 & 
-647 & 
-648 & 
-649 & 
-650 & 
-651 & 
-652 & 
-653 & 
-654 & 
-655 & 
-656 & 
-657 & 
-658 & 
-659 & 
-660 & 
-661 & 
-662 & 
-663 & 
-664 & 
-665 & 
-666 & 
-667 & 
-668 & 
-669 & 
-670 & 
-671 & 
-672 & 
-673 & 
-674 & 
-675 & 
-676 & 
-677 & 
-678 & 
-679 & 
-680 & 
-681 & 
-682 & 
-683 & 
-684 & 
-685 & 
-686 & 
-687 & 
-688 & 
-689 & 
-690 & 
-691 & 
-692 & 
-693 & 
-694 & 
-695 & 
-696 & 
-697 & 
-698 & 
-699 & 
-700 & 
-701 & 
-702 & 
-703 & 
-704 & 
-705 & 
-706 & 
-707 & 
-708 & 
-709 & 
-710 & 
-711 & 
-712 & 
-713 & 
-714 & 
-715 & 
-716 & 
-717 & 
-718 & 
-719 & 
-720 & 
-721 & 
-722 & 
-723 & 
-724 & 
-726 & 
-727 & 
-728 & 
-729 & 
-730 & 
-731 & 
-732 & 
-733 & 
-733 & 
-734 & 
-735 & 
-736 & 
-737 & 
-738 & 
-739 & 
-740 & 
-741 & 
-742 & 
-743 & 
-744 & 
-745 & 
-746 & 
-747 & 
-748 & 
-749 & 
-750 & 
-751 & 
-752 & 
-753 & 
-754 & 
-755 & 
-756 & 
-757 & 
-758 & 
-759 & 
-760 & 
-761 & 
-762 & 
-763 & 
-764 & 
-765 & 
-766 & 
-767 & 
-768 & 
-769 & 
-770 & 
-771 & 
-772 & 
-773 & 
-774 & 
-775 & 
-776 & 
-777 & 
-778 & 
-779 & 
-780 & 
-781 & 
-782 & 
-783 & 
-784 & 
-785 & 
-786 & 
-787 & 
-788 & 
-789 & 
-790 & 
-791 & 
-792 & 
-793 & 
-794 & 
-795 & 
-796 & 
-797 & 
-798 & 
-799 & 
-800 & 
-801 & 
-802 & 
-803 & 
-804 & 
-805 & 
-806 & 
-807 & 
-808 & 
-809 & 
-810 & 
-811 & 
-812 & 
-813 & 
-814 & 
-815 & 
-816 & 
-817 & 
-818 & 
-819 & 
-820 & 
-821 & 
-822 & 
-823 & 
-824 & 
-825 & 
-826 & 
-827 & 
-828 & 
-829 & 
-830 & 
-831 & 
-832 & 
-833 & 
-834 & 
-835 & 
-836 & 
-837 & 
-838 & 
-839 & 
-840 & 
-841 & 
-842 & 
-843 & 
-844 & 
-845 & 
-846 & 
-847 & 
-848 & 
-849 & 
-850 & 
-851 & 
-852 & 
-853 & 
-854 & 
-855 & 
-856 & 
-857 & 
-858 & 
-859 & 
-860 & 
-861 & 
-862 & 
-863 & 
-864 & 
-865 & 
-866 & 
-867 & 
-868 & 
-869 & 
-870 & 
-871 & 
-872 & 
-873 & 
-874 & 
-875 & 
-876 & 
-877 & 
-878 & 
-879 & 
-880 & 
-881 & 
-882 & 
-883 & 
-884 & 
-885 & 
-886 & 
-887 & 
-888 & 
-889 & 
-890 & 
-891 & 
-892 & 
-893 & 
-894 & 
-895 & 
-896 & 
-897 & 
-898 & 
-899 & 
-900 & 
-901 & 
-902 & 
-903 & 
-904 & 
-905 & 
-906 & 
-907 & 
-908 & 
-909 & 
-910 & 
-911 & 
-912 & 
-913 & 
-914 & 
-915 & 
-916 & 
-917 & 
-918 & 
-919 & 
-920 & 
-921 & 
-922 & 
-923 & 
-924 & 
-925 & 
-926 & 
-927 & 
-928 & 
-929 & 
-930 & 
-931 & 
-932 & 
-933 & 
-934 & 
-935 & 
-936 & 
-937 & 
-938 & 
-939 & 
-940 & 
-941 & 
-942 & 
-943 & 
-944 & 
-945 & 
-946 & 
-947 & 
-948 & 
-949 & 
-950 & 
-951 & 
-952 & 
-953 & 
-954 & 
-955 & 
-956 & 
-957 & 
-958 & 
-959 & 
-960 & 
-961 & 
-962 & 
-963 & 
-964 & 
-965 & 
-966 & 
-967 & 
-968 & 
-969 & 
-970 & 
-971 & 
-972 & 
-973 & 
-974 & 
-975 & 
-976 & 
-977 & 
-978 & 
-979 & 
-980 & 
-981 & 
-982 & 
-983 & 
-984 & 
+1 & <img> id-US20180022998A1-20180125-C00095.TIF </img>
+2 & <img> id-US20180022998A1-20180125-C00096.TIF </img>
+3 & <img> id-US20180022998A1-20180125-C00097.TIF </img>
+4 & <img> id-US20180022998A1-20180125-C00098.TIF </img>
+5 & <img> id-US20180022998A1-20180125-C00099.TIF </img>
+6 & <img> id-US20180022998A1-20180125-C00100.TIF </img>
+7 & <img> id-US20180022998A1-20180125-C00101.TIF </img>
+8 & <img> id-US20180022998A1-20180125-C00102.TIF </img>
+9 & <img> id-US20180022998A1-20180125-C00103.TIF </img>
+10 & <img> id-US20180022998A1-20180125-C00104.TIF </img>
+11 & <img> id-US20180022998A1-20180125-C00105.TIF </img>
+12 & <img> id-US20180022998A1-20180125-C00106.TIF </img>
+13 & <img> id-US20180022998A1-20180125-C00107.TIF </img>
+14 & <img> id-US20180022998A1-20180125-C00108.TIF </img>
+15 & <img> id-US20180022998A1-20180125-C00109.TIF </img>
+16 & <img> id-US20180022998A1-20180125-C00110.TIF </img>
+17 & <img> id-US20180022998A1-20180125-C00111.TIF </img>
+18 & <img> id-US20180022998A1-20180125-C00112.TIF </img>
+19 & <img> id-US20180022998A1-20180125-C00113.TIF </img>
+20 & <img> id-US20180022998A1-20180125-C00114.TIF </img>
+21 & <img> id-US20180022998A1-20180125-C00115.TIF </img>
+22 & <img> id-US20180022998A1-20180125-C00116.TIF </img>
+23 & <img> id-US20180022998A1-20180125-C00117.TIF </img>
+24 & <img> id-US20180022998A1-20180125-C00118.TIF </img>
+25 & <img> id-US20180022998A1-20180125-C00119.TIF </img>
+26 & <img> id-US20180022998A1-20180125-C00120.TIF </img>
+27 & <img> id-US20180022998A1-20180125-C00121.TIF </img>
+28 & <img> id-US20180022998A1-20180125-C00122.TIF </img>
+29 & <img> id-US20180022998A1-20180125-C00123.TIF </img>
+30 & <img> id-US20180022998A1-20180125-C00124.TIF </img>
+31 & <img> id-US20180022998A1-20180125-C00125.TIF </img>
+32 & <img> id-US20180022998A1-20180125-C00126.TIF </img>
+33 & <img> id-US20180022998A1-20180125-C00127.TIF </img>
+34 & <img> id-US20180022998A1-20180125-C00128.TIF </img>
+35 & <img> id-US20180022998A1-20180125-C00129.TIF </img>
+36 & <img> id-US20180022998A1-20180125-C00130.TIF </img>
+37 & <img> id-US20180022998A1-20180125-C00131.TIF </img>
+38 & <img> id-US20180022998A1-20180125-C00132.TIF </img>
+39 & <img> id-US20180022998A1-20180125-C00133.TIF </img>
+40 & <img> id-US20180022998A1-20180125-C00134.TIF </img>
+41 & <img> id-US20180022998A1-20180125-C00135.TIF </img>
+42 & <img> id-US20180022998A1-20180125-C00136.TIF </img>
+43 & <img> id-US20180022998A1-20180125-C00137.TIF </img>
+44 & <img> id-US20180022998A1-20180125-C00138.TIF </img>
+45 & <img> id-US20180022998A1-20180125-C00139.TIF </img>
+46 & <img> id-US20180022998A1-20180125-C00140.TIF </img>
+47 & <img> id-US20180022998A1-20180125-C00141.TIF </img>
+48 & <img> id-US20180022998A1-20180125-C00142.TIF </img>
+49 & <img> id-US20180022998A1-20180125-C00143.TIF </img>
+50 & <img> id-US20180022998A1-20180125-C00144.TIF </img>
+51 & <img> id-US20180022998A1-20180125-C00145.TIF </img>
+52 & <img> id-US20180022998A1-20180125-C00146.TIF </img>
+53 & <img> id-US20180022998A1-20180125-C00147.TIF </img>
+54 & <img> id-US20180022998A1-20180125-C00148.TIF </img>
+55 & <img> id-US20180022998A1-20180125-C00149.TIF </img>
+56 & <img> id-US20180022998A1-20180125-C00150.TIF </img>
+57 & <img> id-US20180022998A1-20180125-C00151.TIF </img>
+58 & <img> id-US20180022998A1-20180125-C00152.TIF </img>
+59 & <img> id-US20180022998A1-20180125-C00153.TIF </img>
+60 & <img> id-US20180022998A1-20180125-C00154.TIF </img>
+61 & <img> id-US20180022998A1-20180125-C00155.TIF </img>
+62 & <img> id-US20180022998A1-20180125-C00156.TIF </img>
+63 & <img> id-US20180022998A1-20180125-C00157.TIF </img>
+64 & <img> id-US20180022998A1-20180125-C00158.TIF </img>
+65 & <img> id-US20180022998A1-20180125-C00159.TIF </img>
+66 & <img> id-US20180022998A1-20180125-C00160.TIF </img>
+67 & <img> id-US20180022998A1-20180125-C00161.TIF </img>
+68 & <img> id-US20180022998A1-20180125-C00162.TIF </img>
+69 & <img> id-US20180022998A1-20180125-C00163.TIF </img>
+70 & <img> id-US20180022998A1-20180125-C00164.TIF </img>
+71 & <img> id-US20180022998A1-20180125-C00165.TIF </img>
+72 & <img> id-US20180022998A1-20180125-C00166.TIF </img>
+73 & <img> id-US20180022998A1-20180125-C00167.TIF </img>
+74 & <img> id-US20180022998A1-20180125-C00168.TIF </img>
+75 & <img> id-US20180022998A1-20180125-C00169.TIF </img>
+76 & <img> id-US20180022998A1-20180125-C00170.TIF </img>
+77 & <img> id-US20180022998A1-20180125-C00171.TIF </img>
+78 & <img> id-US20180022998A1-20180125-C00172.TIF </img>
+79 & <img> id-US20180022998A1-20180125-C00173.TIF </img>
+80 & <img> id-US20180022998A1-20180125-C00174.TIF </img>
+81 & <img> id-US20180022998A1-20180125-C00175.TIF </img>
+82 & <img> id-US20180022998A1-20180125-C00176.TIF </img>
+83 & <img> id-US20180022998A1-20180125-C00177.TIF </img>
+84 & <img> id-US20180022998A1-20180125-C00178.TIF </img>
+85 & <img> id-US20180022998A1-20180125-C00179.TIF </img>
+86 & <img> id-US20180022998A1-20180125-C00180.TIF </img>
+87 & <img> id-US20180022998A1-20180125-C00181.TIF </img>
+88 & <img> id-US20180022998A1-20180125-C00182.TIF </img>
+89 & <img> id-US20180022998A1-20180125-C00183.TIF </img>
+90 & <img> id-US20180022998A1-20180125-C00184.TIF </img>
+91 & <img> id-US20180022998A1-20180125-C00185.TIF </img>
+92 & <img> id-US20180022998A1-20180125-C00186.TIF </img>
+93 & <img> id-US20180022998A1-20180125-C00187.TIF </img>
+94 & <img> id-US20180022998A1-20180125-C00188.TIF </img>
+95 & <img> id-US20180022998A1-20180125-C00189.TIF </img>
+96 & <img> id-US20180022998A1-20180125-C00190.TIF </img>
+97 & <img> id-US20180022998A1-20180125-C00191.TIF </img>
+98 & <img> id-US20180022998A1-20180125-C00192.TIF </img>
+99 & <img> id-US20180022998A1-20180125-C00193.TIF </img>
+100 & <img> id-US20180022998A1-20180125-C00194.TIF </img>
+101 & <img> id-US20180022998A1-20180125-C00195.TIF </img>
+102 & <img> id-US20180022998A1-20180125-C00196.TIF </img>
+103 & <img> id-US20180022998A1-20180125-C00197.TIF </img>
+104 & <img> id-US20180022998A1-20180125-C00198.TIF </img>
+105 & <img> id-US20180022998A1-20180125-C00199.TIF </img>
+106 & <img> id-US20180022998A1-20180125-C00200.TIF </img>
+107 & <img> id-US20180022998A1-20180125-C00201.TIF </img>
+108 & <img> id-US20180022998A1-20180125-C00202.TIF </img>
+109 & <img> id-US20180022998A1-20180125-C00203.TIF </img>
+110 & <img> id-US20180022998A1-20180125-C00204.TIF </img>
+111 & <img> id-US20180022998A1-20180125-C00205.TIF </img>
+112 & <img> id-US20180022998A1-20180125-C00206.TIF </img>
+113 & <img> id-US20180022998A1-20180125-C00207.TIF </img>
+114 & <img> id-US20180022998A1-20180125-C00208.TIF </img>
+115 & <img> id-US20180022998A1-20180125-C00209.TIF </img>
+116 & <img> id-US20180022998A1-20180125-C00210.TIF </img>
+117 & <img> id-US20180022998A1-20180125-C00211.TIF </img>
+118 & <img> id-US20180022998A1-20180125-C00212.TIF </img>
+119 & <img> id-US20180022998A1-20180125-C00213.TIF </img>
+120 & <img> id-US20180022998A1-20180125-C00214.TIF </img>
+121 & <img> id-US20180022998A1-20180125-C00215.TIF </img>
+122 & <img> id-US20180022998A1-20180125-C00216.TIF </img>
+123 & <img> id-US20180022998A1-20180125-C00217.TIF </img>
+124 & <img> id-US20180022998A1-20180125-C00218.TIF </img>
+126 & <img> id-US20180022998A1-20180125-C00219.TIF </img>
+127 & <img> id-US20180022998A1-20180125-C00220.TIF </img>
+128 & <img> id-US20180022998A1-20180125-C00221.TIF </img>
+129 & <img> id-US20180022998A1-20180125-C00222.TIF </img>
+130 & <img> id-US20180022998A1-20180125-C00223.TIF </img>
+131 & <img> id-US20180022998A1-20180125-C00224.TIF </img>
+132 & <img> id-US20180022998A1-20180125-C00225.TIF </img>
+133 & <img> id-US20180022998A1-20180125-C00226.TIF </img>
+133 & <img> id-US20180022998A1-20180125-C00227.TIF </img>
+134 & <img> id-US20180022998A1-20180125-C00228.TIF </img>
+135 & <img> id-US20180022998A1-20180125-C00229.TIF </img>
+136 & <img> id-US20180022998A1-20180125-C00230.TIF </img>
+137 & <img> id-US20180022998A1-20180125-C00231.TIF </img>
+138 & <img> id-US20180022998A1-20180125-C00232.TIF </img>
+139 & <img> id-US20180022998A1-20180125-C00233.TIF </img>
+140 & <img> id-US20180022998A1-20180125-C00234.TIF </img>
+141 & <img> id-US20180022998A1-20180125-C00235.TIF </img>
+142 & <img> id-US20180022998A1-20180125-C00236.TIF </img>
+143 & <img> id-US20180022998A1-20180125-C00237.TIF </img>
+144 & <img> id-US20180022998A1-20180125-C00238.TIF </img>
+145 & <img> id-US20180022998A1-20180125-C00239.TIF </img>
+146 & <img> id-US20180022998A1-20180125-C00240.TIF </img>
+147 & <img> id-US20180022998A1-20180125-C00241.TIF </img>
+148 & <img> id-US20180022998A1-20180125-C00242.TIF </img>
+149 & <img> id-US20180022998A1-20180125-C00243.TIF </img>
+150 & <img> id-US20180022998A1-20180125-C00244.TIF </img>
+151 & <img> id-US20180022998A1-20180125-C00245.TIF </img>
+152 & <img> id-US20180022998A1-20180125-C00246.TIF </img>
+153 & <img> id-US20180022998A1-20180125-C00247.TIF </img>
+154 & <img> id-US20180022998A1-20180125-C00248.TIF </img>
+155 & <img> id-US20180022998A1-20180125-C00249.TIF </img>
+156 & <img> id-US20180022998A1-20180125-C00250.TIF </img>
+157 & <img> id-US20180022998A1-20180125-C00251.TIF </img>
+158 & <img> id-US20180022998A1-20180125-C00252.TIF </img>
+159 & <img> id-US20180022998A1-20180125-C00253.TIF </img>
+160 & <img> id-US20180022998A1-20180125-C00254.TIF </img>
+161 & <img> id-US20180022998A1-20180125-C00255.TIF </img>
+162 & <img> id-US20180022998A1-20180125-C00256.TIF </img>
+163 & <img> id-US20180022998A1-20180125-C00257.TIF </img>
+164 & <img> id-US20180022998A1-20180125-C00258.TIF </img>
+165 & <img> id-US20180022998A1-20180125-C00259.TIF </img>
+166 & <img> id-US20180022998A1-20180125-C00260.TIF </img>
+167 & <img> id-US20180022998A1-20180125-C00261.TIF </img>
+168 & <img> id-US20180022998A1-20180125-C00262.TIF </img>
+169 & <img> id-US20180022998A1-20180125-C00263.TIF </img>
+170 & <img> id-US20180022998A1-20180125-C00264.TIF </img>
+171 & <img> id-US20180022998A1-20180125-C00265.TIF </img>
+172 & <img> id-US20180022998A1-20180125-C00266.TIF </img>
+173 & <img> id-US20180022998A1-20180125-C00267.TIF </img>
+174 & <img> id-US20180022998A1-20180125-C00268.TIF </img>
+175 & <img> id-US20180022998A1-20180125-C00269.TIF </img>
+176 & <img> id-US20180022998A1-20180125-C00270.TIF </img>
+177 & <img> id-US20180022998A1-20180125-C00271.TIF </img>
+178 & <img> id-US20180022998A1-20180125-C00272.TIF </img>
+179 & <img> id-US20180022998A1-20180125-C00273.TIF </img>
+180 & <img> id-US20180022998A1-20180125-C00274.TIF </img>
+181 & <img> id-US20180022998A1-20180125-C00275.TIF </img>
+182 & <img> id-US20180022998A1-20180125-C00276.TIF </img>
+183 & <img> id-US20180022998A1-20180125-C00277.TIF </img>
+184 & <img> id-US20180022998A1-20180125-C00278.TIF </img>
+185 & <img> id-US20180022998A1-20180125-C00279.TIF </img>
+186 & <img> id-US20180022998A1-20180125-C00280.TIF </img>
+187 & <img> id-US20180022998A1-20180125-C00281.TIF </img>
+188 & <img> id-US20180022998A1-20180125-C00282.TIF </img>
+189 & <img> id-US20180022998A1-20180125-C00283.TIF </img>
+190 & <img> id-US20180022998A1-20180125-C00284.TIF </img>
+191 & <img> id-US20180022998A1-20180125-C00285.TIF </img>
+192 & <img> id-US20180022998A1-20180125-C00286.TIF </img>
+193 & <img> id-US20180022998A1-20180125-C00287.TIF </img>
+194 & <img> id-US20180022998A1-20180125-C00288.TIF </img>
+195 & <img> id-US20180022998A1-20180125-C00289.TIF </img>
+196 & <img> id-US20180022998A1-20180125-C00290.TIF </img>
+197 & <img> id-US20180022998A1-20180125-C00291.TIF </img>
+198 & <img> id-US20180022998A1-20180125-C00292.TIF </img>
+199 & <img> id-US20180022998A1-20180125-C00293.TIF </img>
+200 & <img> id-US20180022998A1-20180125-C00294.TIF </img>
+201 & <img> id-US20180022998A1-20180125-C00295.TIF </img>
+202 & <img> id-US20180022998A1-20180125-C00296.TIF </img>
+203 & <img> id-US20180022998A1-20180125-C00297.TIF </img>
+204 & <img> id-US20180022998A1-20180125-C00298.TIF </img>
+205 & <img> id-US20180022998A1-20180125-C00299.TIF </img>
+206 & <img> id-US20180022998A1-20180125-C00300.TIF </img>
+207 & <img> id-US20180022998A1-20180125-C00301.TIF </img>
+208 & <img> id-US20180022998A1-20180125-C00302.TIF </img>
+209 & <img> id-US20180022998A1-20180125-C00303.TIF </img>
+210 & <img> id-US20180022998A1-20180125-C00304.TIF </img>
+211 & <img> id-US20180022998A1-20180125-C00305.TIF </img>
+212 & <img> id-US20180022998A1-20180125-C00306.TIF </img>
+213 & <img> id-US20180022998A1-20180125-C00307.TIF </img>
+214 & <img> id-US20180022998A1-20180125-C00308.TIF </img>
+215 & <img> id-US20180022998A1-20180125-C00309.TIF </img>
+216 & <img> id-US20180022998A1-20180125-C00310.TIF </img>
+217 & <img> id-US20180022998A1-20180125-C00311.TIF </img>
+218 & <img> id-US20180022998A1-20180125-C00312.TIF </img>
+219 & <img> id-US20180022998A1-20180125-C00313.TIF </img>
+220 & <img> id-US20180022998A1-20180125-C00314.TIF </img>
+221 & <img> id-US20180022998A1-20180125-C00315.TIF </img>
+222 & <img> id-US20180022998A1-20180125-C00316.TIF </img>
+223 & <img> id-US20180022998A1-20180125-C00317.TIF </img>
+224 & <img> id-US20180022998A1-20180125-C00318.TIF </img>
+225 & <img> id-US20180022998A1-20180125-C00319.TIF </img>
+226 & <img> id-US20180022998A1-20180125-C00320.TIF </img>
+227 & <img> id-US20180022998A1-20180125-C00321.TIF </img>
+228 & <img> id-US20180022998A1-20180125-C00322.TIF </img>
+229 & <img> id-US20180022998A1-20180125-C00323.TIF </img>
+230 & <img> id-US20180022998A1-20180125-C00324.TIF </img>
+231 & <img> id-US20180022998A1-20180125-C00325.TIF </img>
+232 & <img> id-US20180022998A1-20180125-C00326.TIF </img>
+233 & <img> id-US20180022998A1-20180125-C00327.TIF </img>
+234 & <img> id-US20180022998A1-20180125-C00328.TIF </img>
+235 & <img> id-US20180022998A1-20180125-C00329.TIF </img>
+236 & <img> id-US20180022998A1-20180125-C00330.TIF </img>
+237 & <img> id-US20180022998A1-20180125-C00331.TIF </img>
+238 & <img> id-US20180022998A1-20180125-C00332.TIF </img>
+239 & <img> id-US20180022998A1-20180125-C00333.TIF </img>
+240 & <img> id-US20180022998A1-20180125-C00334.TIF </img>
+241 & <img> id-US20180022998A1-20180125-C00335.TIF </img>
+242 & <img> id-US20180022998A1-20180125-C00336.TIF </img>
+243 & <img> id-US20180022998A1-20180125-C00337.TIF </img>
+244 & <img> id-US20180022998A1-20180125-C00338.TIF </img>
+245 & <img> id-US20180022998A1-20180125-C00339.TIF </img>
+246 & <img> id-US20180022998A1-20180125-C00340.TIF </img>
+247 & <img> id-US20180022998A1-20180125-C00341.TIF </img>
+248 & <img> id-US20180022998A1-20180125-C00342.TIF </img>
+249 & <img> id-US20180022998A1-20180125-C00343.TIF </img>
+250 & <img> id-US20180022998A1-20180125-C00344.TIF </img>
+251 & <img> id-US20180022998A1-20180125-C00345.TIF </img>
+252 & <img> id-US20180022998A1-20180125-C00346.TIF </img>
+253 & <img> id-US20180022998A1-20180125-C00347.TIF </img>
+254 & <img> id-US20180022998A1-20180125-C00348.TIF </img>
+255 & <img> id-US20180022998A1-20180125-C00349.TIF </img>
+256 & <img> id-US20180022998A1-20180125-C00350.TIF </img>
+257 & <img> id-US20180022998A1-20180125-C00351.TIF </img>
+258 & <img> id-US20180022998A1-20180125-C00352.TIF </img>
+259 & <img> id-US20180022998A1-20180125-C00353.TIF </img>
+260 & <img> id-US20180022998A1-20180125-C00354.TIF </img>
+261 & <img> id-US20180022998A1-20180125-C00355.TIF </img>
+262 & <img> id-US20180022998A1-20180125-C00356.TIF </img>
+263 & <img> id-US20180022998A1-20180125-C00357.TIF </img>
+264 & <img> id-US20180022998A1-20180125-C00358.TIF </img>
+265 & <img> id-US20180022998A1-20180125-C00359.TIF </img>
+266 & <img> id-US20180022998A1-20180125-C00360.TIF </img>
+267 & <img> id-US20180022998A1-20180125-C00361.TIF </img>
+268 & <img> id-US20180022998A1-20180125-C00362.TIF </img>
+269 & <img> id-US20180022998A1-20180125-C00363.TIF </img>
+270 & <img> id-US20180022998A1-20180125-C00364.TIF </img>
+271 & <img> id-US20180022998A1-20180125-C00365.TIF </img>
+272 & <img> id-US20180022998A1-20180125-C00366.TIF </img>
+273 & <img> id-US20180022998A1-20180125-C00367.TIF </img>
+274 & <img> id-US20180022998A1-20180125-C00368.TIF </img>
+275 & <img> id-US20180022998A1-20180125-C00369.TIF </img>
+276 & <img> id-US20180022998A1-20180125-C00370.TIF </img>
+277 & <img> id-US20180022998A1-20180125-C00371.TIF </img>
+278 & <img> id-US20180022998A1-20180125-C00372.TIF </img>
+279 & <img> id-US20180022998A1-20180125-C00373.TIF </img>
+280 & <img> id-US20180022998A1-20180125-C00374.TIF </img>
+281 & <img> id-US20180022998A1-20180125-C00375.TIF </img>
+282 & <img> id-US20180022998A1-20180125-C00376.TIF </img>
+283 & <img> id-US20180022998A1-20180125-C00377.TIF </img>
+284 & <img> id-US20180022998A1-20180125-C00378.TIF </img>
+285 & <img> id-US20180022998A1-20180125-C00379.TIF </img>
+286 & <img> id-US20180022998A1-20180125-C00380.TIF </img>
+287 & <img> id-US20180022998A1-20180125-C00381.TIF </img>
+288 & <img> id-US20180022998A1-20180125-C00382.TIF </img>
+289 & <img> id-US20180022998A1-20180125-C00383.TIF </img>
+290 & <img> id-US20180022998A1-20180125-C00384.TIF </img>
+291 & <img> id-US20180022998A1-20180125-C00385.TIF </img>
+292 & <img> id-US20180022998A1-20180125-C00386.TIF </img>
+293 & <img> id-US20180022998A1-20180125-C00387.TIF </img>
+294 & <img> id-US20180022998A1-20180125-C00388.TIF </img>
+295 & <img> id-US20180022998A1-20180125-C00389.TIF </img>
+296 & <img> id-US20180022998A1-20180125-C00390.TIF </img>
+297 & <img> id-US20180022998A1-20180125-C00391.TIF </img>
+298 & <img> id-US20180022998A1-20180125-C00392.TIF </img>
+299 & <img> id-US20180022998A1-20180125-C00393.TIF </img>
+300 & <img> id-US20180022998A1-20180125-C00394.TIF </img>
+301 & <img> id-US20180022998A1-20180125-C00395.TIF </img>
+302 & <img> id-US20180022998A1-20180125-C00396.TIF </img>
+303 & <img> id-US20180022998A1-20180125-C00397.TIF </img>
+304 & <img> id-US20180022998A1-20180125-C00398.TIF </img>
+305 & <img> id-US20180022998A1-20180125-C00399.TIF </img>
+306 & <img> id-US20180022998A1-20180125-C00400.TIF </img>
+307 & <img> id-US20180022998A1-20180125-C00401.TIF </img>
+308 & <img> id-US20180022998A1-20180125-C00402.TIF </img>
+309 & <img> id-US20180022998A1-20180125-C00403.TIF </img>
+310 & <img> id-US20180022998A1-20180125-C00404.TIF </img>
+311 & <img> id-US20180022998A1-20180125-C00405.TIF </img>
+312 & <img> id-US20180022998A1-20180125-C00406.TIF </img>
+313 & <img> id-US20180022998A1-20180125-C00407.TIF </img>
+314 & <img> id-US20180022998A1-20180125-C00408.TIF </img>
+315 & <img> id-US20180022998A1-20180125-C00409.TIF </img>
+316 & <img> id-US20180022998A1-20180125-C00410.TIF </img>
+317 & <img> id-US20180022998A1-20180125-C00411.TIF </img>
+318 & <img> id-US20180022998A1-20180125-C00412.TIF </img>
+319 & <img> id-US20180022998A1-20180125-C00413.TIF </img>
+320 & <img> id-US20180022998A1-20180125-C00414.TIF </img>
+321 & <img> id-US20180022998A1-20180125-C00415.TIF </img>
+322 & <img> id-US20180022998A1-20180125-C00416.TIF </img>
+323 & <img> id-US20180022998A1-20180125-C00417.TIF </img>
+324 & <img> id-US20180022998A1-20180125-C00418.TIF </img>
+325 & <img> id-US20180022998A1-20180125-C00419.TIF </img>
+326 & <img> id-US20180022998A1-20180125-C00420.TIF </img>
+327 & <img> id-US20180022998A1-20180125-C00421.TIF </img>
+328 & <img> id-US20180022998A1-20180125-C00422.TIF </img>
+329 & <img> id-US20180022998A1-20180125-C00423.TIF </img>
+330 & <img> id-US20180022998A1-20180125-C00424.TIF </img>
+331 & <img> id-US20180022998A1-20180125-C00425.TIF </img>
+332 & <img> id-US20180022998A1-20180125-C00426.TIF </img>
+333 & <img> id-US20180022998A1-20180125-C00427.TIF </img>
+334 & <img> id-US20180022998A1-20180125-C00428.TIF </img>
+335 & <img> id-US20180022998A1-20180125-C00429.TIF </img>
+336 & <img> id-US20180022998A1-20180125-C00430.TIF </img>
+337 & <img> id-US20180022998A1-20180125-C00431.TIF </img>
+338 & <img> id-US20180022998A1-20180125-C00432.TIF </img>
+339 & <img> id-US20180022998A1-20180125-C00433.TIF </img>
+340 & <img> id-US20180022998A1-20180125-C00434.TIF </img>
+341 & <img> id-US20180022998A1-20180125-C00435.TIF </img>
+342 & <img> id-US20180022998A1-20180125-C00436.TIF </img>
+343 & <img> id-US20180022998A1-20180125-C00437.TIF </img>
+344 & <img> id-US20180022998A1-20180125-C00438.TIF </img>
+345 & <img> id-US20180022998A1-20180125-C00439.TIF </img>
+346 & <img> id-US20180022998A1-20180125-C00440.TIF </img>
+347 & <img> id-US20180022998A1-20180125-C00441.TIF </img>
+348 & <img> id-US20180022998A1-20180125-C00442.TIF </img>
+349 & <img> id-US20180022998A1-20180125-C00443.TIF </img>
+350 & <img> id-US20180022998A1-20180125-C00444.TIF </img>
+351 & <img> id-US20180022998A1-20180125-C00445.TIF </img>
+352 & <img> id-US20180022998A1-20180125-C00446.TIF </img>
+353 & <img> id-US20180022998A1-20180125-C00447.TIF </img>
+354 & <img> id-US20180022998A1-20180125-C00448.TIF </img>
+355 & <img> id-US20180022998A1-20180125-C00449.TIF </img>
+356 & <img> id-US20180022998A1-20180125-C00450.TIF </img>
+357 & <img> id-US20180022998A1-20180125-C00451.TIF </img>
+358 & <img> id-US20180022998A1-20180125-C00452.TIF </img>
+359 & <img> id-US20180022998A1-20180125-C00453.TIF </img>
+360 & <img> id-US20180022998A1-20180125-C00454.TIF </img>
+361 & <img> id-US20180022998A1-20180125-C00455.TIF </img>
+362 & <img> id-US20180022998A1-20180125-C00456.TIF </img>
+363 & <img> id-US20180022998A1-20180125-C00457.TIF </img>
+364 & <img> id-US20180022998A1-20180125-C00458.TIF </img>
+365 & <img> id-US20180022998A1-20180125-C00459.TIF </img>
+366 & <img> id-US20180022998A1-20180125-C00460.TIF </img>
+367 & <img> id-US20180022998A1-20180125-C00461.TIF </img>
+368 & <img> id-US20180022998A1-20180125-C00462.TIF </img>
+369 & <img> id-US20180022998A1-20180125-C00463.TIF </img>
+370 & <img> id-US20180022998A1-20180125-C00464.TIF </img>
+371 & <img> id-US20180022998A1-20180125-C00465.TIF </img>
+372 & <img> id-US20180022998A1-20180125-C00466.TIF </img>
+373 & <img> id-US20180022998A1-20180125-C00467.TIF </img>
+374 & <img> id-US20180022998A1-20180125-C00468.TIF </img>
+375 & <img> id-US20180022998A1-20180125-C00469.TIF </img>
+376 & <img> id-US20180022998A1-20180125-C00470.TIF </img>
+377 & <img> id-US20180022998A1-20180125-C00471.TIF </img>
+378 & <img> id-US20180022998A1-20180125-C00472.TIF </img>
+379 & <img> id-US20180022998A1-20180125-C00473.TIF </img>
+380 & <img> id-US20180022998A1-20180125-C00474.TIF </img>
+381 & <img> id-US20180022998A1-20180125-C00475.TIF </img>
+382 & <img> id-US20180022998A1-20180125-C00476.TIF </img>
+383 & <img> id-US20180022998A1-20180125-C00477.TIF </img>
+384 & <img> id-US20180022998A1-20180125-C00478.TIF </img>
+361 & <img> id-US20180022998A1-20180125-C00479.TIF </img>
+362 & <img> id-US20180022998A1-20180125-C00480.TIF </img>
+263 & <img> id-US20180022998A1-20180125-C00481.TIF </img>
+364 & <img> id-US20180022998A1-20180125-C00482.TIF </img>
+365 & <img> id-US20180022998A1-20180125-C00483.TIF </img>
+366 & <img> id-US20180022998A1-20180125-C00484.TIF </img>
+367 & <img> id-US20180022998A1-20180125-C00485.TIF </img>
+368 & <img> id-US20180022998A1-20180125-C00486.TIF </img>
+369 & <img> id-US20180022998A1-20180125-C00487.TIF </img>
+370 & <img> id-US20180022998A1-20180125-C00488.TIF </img>
+371 & <img> id-US20180022998A1-20180125-C00489.TIF </img>
+372 & <img> id-US20180022998A1-20180125-C00490.TIF </img>
+373 & <img> id-US20180022998A1-20180125-C00491.TIF </img>
+374 & <img> id-US20180022998A1-20180125-C00492.TIF </img>
+375 & <img> id-US20180022998A1-20180125-C00493.TIF </img>
+376 & <img> id-US20180022998A1-20180125-C00494.TIF </img>
+377 & <img> id-US20180022998A1-20180125-C00495.TIF </img>
+378 & <img> id-US20180022998A1-20180125-C00496.TIF </img>
+379 & <img> id-US20180022998A1-20180125-C00497.TIF </img>
+380 & <img> id-US20180022998A1-20180125-C00498.TIF </img>
+381 & <img> id-US20180022998A1-20180125-C00499.TIF </img>
+382 & <img> id-US20180022998A1-20180125-C00500.TIF </img>
+383 & <img> id-US20180022998A1-20180125-C00501.TIF </img>
+384 & <img> id-US20180022998A1-20180125-C00502.TIF </img>
+385 & <img> id-US20180022998A1-20180125-C00503.TIF </img>
+386 & <img> id-US20180022998A1-20180125-C00504.TIF </img>
+387 & <img> id-US20180022998A1-20180125-C00505.TIF </img>
+388 & <img> id-US20180022998A1-20180125-C00506.TIF </img>
+389 & <img> id-US20180022998A1-20180125-C00507.TIF </img>
+390 & <img> id-US20180022998A1-20180125-C00508.TIF </img>
+391 & <img> id-US20180022998A1-20180125-C00509.TIF </img>
+392 & <img> id-US20180022998A1-20180125-C00510.TIF </img>
+393 & <img> id-US20180022998A1-20180125-C00511.TIF </img>
+394 & <img> id-US20180022998A1-20180125-C00512.TIF </img>
+395 & <img> id-US20180022998A1-20180125-C00513.TIF </img>
+396 & <img> id-US20180022998A1-20180125-C00514.TIF </img>
+397 & <img> id-US20180022998A1-20180125-C00515.TIF </img>
+398 & <img> id-US20180022998A1-20180125-C00516.TIF </img>
+399 & <img> id-US20180022998A1-20180125-C00517.TIF </img>
+400 & <img> id-US20180022998A1-20180125-C00518.TIF </img>
+401 & <img> id-US20180022998A1-20180125-C00519.TIF </img>
+402 & <img> id-US20180022998A1-20180125-C00520.TIF </img>
+403 & <img> id-US20180022998A1-20180125-C00521.TIF </img>
+404 & <img> id-US20180022998A1-20180125-C00522.TIF </img>
+405 & <img> id-US20180022998A1-20180125-C00523.TIF </img>
+406 & <img> id-US20180022998A1-20180125-C00524.TIF </img>
+407 & <img> id-US20180022998A1-20180125-C00525.TIF </img>
+408 & <img> id-US20180022998A1-20180125-C00526.TIF </img>
+409 & <img> id-US20180022998A1-20180125-C00527.TIF </img>
+410 & <img> id-US20180022998A1-20180125-C00528.TIF </img>
+411 & <img> id-US20180022998A1-20180125-C00529.TIF </img>
+412 & <img> id-US20180022998A1-20180125-C00530.TIF </img>
+413 & <img> id-US20180022998A1-20180125-C00531.TIF </img>
+414 & <img> id-US20180022998A1-20180125-C00532.TIF </img>
+415 & <img> id-US20180022998A1-20180125-C00533.TIF </img>
+416 & <img> id-US20180022998A1-20180125-C00534.TIF </img>
+417 & <img> id-US20180022998A1-20180125-C00535.TIF </img>
+418 & <img> id-US20180022998A1-20180125-C00536.TIF </img>
+419 & <img> id-US20180022998A1-20180125-C00537.TIF </img>
+420 & <img> id-US20180022998A1-20180125-C00538.TIF </img>
+421 & <img> id-US20180022998A1-20180125-C00539.TIF </img>
+422 & <img> id-US20180022998A1-20180125-C00540.TIF </img>
+423 & <img> id-US20180022998A1-20180125-C00541.TIF </img>
+424 & <img> id-US20180022998A1-20180125-C00542.TIF </img>
+425 & <img> id-US20180022998A1-20180125-C00543.TIF </img>
+426 & <img> id-US20180022998A1-20180125-C00544.TIF </img>
+427 & <img> id-US20180022998A1-20180125-C00545.TIF </img>
+428 & <img> id-US20180022998A1-20180125-C00546.TIF </img>
+429 & <img> id-US20180022998A1-20180125-C00547.TIF </img>
+430 & <img> id-US20180022998A1-20180125-C00548.TIF </img>
+431 & <img> id-US20180022998A1-20180125-C00549.TIF </img>
+432 & <img> id-US20180022998A1-20180125-C00550.TIF </img>
+433 & <img> id-US20180022998A1-20180125-C00551.TIF </img>
+434 & <img> id-US20180022998A1-20180125-C00552.TIF </img>
+435 & <img> id-US20180022998A1-20180125-C00553.TIF </img>
+436 & <img> id-US20180022998A1-20180125-C00554.TIF </img>
+437 & <img> id-US20180022998A1-20180125-C00555.TIF </img>
+438 & <img> id-US20180022998A1-20180125-C00556.TIF </img>
+439 & <img> id-US20180022998A1-20180125-C00557.TIF </img>
+440 & <img> id-US20180022998A1-20180125-C00558.TIF </img>
+441 & <img> id-US20180022998A1-20180125-C00559.TIF </img>
+442 & <img> id-US20180022998A1-20180125-C00560.TIF </img>
+443 & <img> id-US20180022998A1-20180125-C00561.TIF </img>
+444 & <img> id-US20180022998A1-20180125-C00562.TIF </img>
+445 & <img> id-US20180022998A1-20180125-C00563.TIF </img>
+446 & <img> id-US20180022998A1-20180125-C00564.TIF </img>
+447 & <img> id-US20180022998A1-20180125-C00565.TIF </img>
+448 & <img> id-US20180022998A1-20180125-C00566.TIF </img>
+449 & <img> id-US20180022998A1-20180125-C00567.TIF </img>
+450 & <img> id-US20180022998A1-20180125-C00568.TIF </img>
+451 & <img> id-US20180022998A1-20180125-C00569.TIF </img>
+452 & <img> id-US20180022998A1-20180125-C00570.TIF </img>
+453 & <img> id-US20180022998A1-20180125-C00571.TIF </img>
+454 & <img> id-US20180022998A1-20180125-C00572.TIF </img>
+455 & <img> id-US20180022998A1-20180125-C00573.TIF </img>
+456 & <img> id-US20180022998A1-20180125-C00574.TIF </img>
+481 & <img> id-US20180022998A1-20180125-C00575.TIF </img>
+482 & <img> id-US20180022998A1-20180125-C00576.TIF </img>
+483 & <img> id-US20180022998A1-20180125-C00577.TIF </img>
+484 & <img> id-US20180022998A1-20180125-C00578.TIF </img>
+485 & <img> id-US20180022998A1-20180125-C00579.TIF </img>
+486 & <img> id-US20180022998A1-20180125-C00580.TIF </img>
+487 & <img> id-US20180022998A1-20180125-C00581.TIF </img>
+488 & <img> id-US20180022998A1-20180125-C00582.TIF </img>
+489 & <img> id-US20180022998A1-20180125-C00583.TIF </img>
+490 & <img> id-US20180022998A1-20180125-C00584.TIF </img>
+491 & <img> id-US20180022998A1-20180125-C00585.TIF </img>
+492 & <img> id-US20180022998A1-20180125-C00586.TIF </img>
+493 & <img> id-US20180022998A1-20180125-C00587.TIF </img>
+494 & <img> id-US20180022998A1-20180125-C00588.TIF </img>
+495 & <img> id-US20180022998A1-20180125-C00589.TIF </img>
+496 & <img> id-US20180022998A1-20180125-C00590.TIF </img>
+497 & <img> id-US20180022998A1-20180125-C00591.TIF </img>
+498 & <img> id-US20180022998A1-20180125-C00592.TIF </img>
+499 & <img> id-US20180022998A1-20180125-C00593.TIF </img>
+500 & <img> id-US20180022998A1-20180125-C00594.TIF </img>
+501 & <img> id-US20180022998A1-20180125-C00595.TIF </img>
+502 & <img> id-US20180022998A1-20180125-C00596.TIF </img>
+503 & <img> id-US20180022998A1-20180125-C00597.TIF </img>
+504 & <img> id-US20180022998A1-20180125-C00598.TIF </img>
+505 & <img> id-US20180022998A1-20180125-C00599.TIF </img>
+506 & <img> id-US20180022998A1-20180125-C00600.TIF </img>
+507 & <img> id-US20180022998A1-20180125-C00601.TIF </img>
+508 & <img> id-US20180022998A1-20180125-C00602.TIF </img>
+509 & <img> id-US20180022998A1-20180125-C00603.TIF </img>
+510 & <img> id-US20180022998A1-20180125-C00604.TIF </img>
+511 & <img> id-US20180022998A1-20180125-C00605.TIF </img>
+512 & <img> id-US20180022998A1-20180125-C00606.TIF </img>
+513 & <img> id-US20180022998A1-20180125-C00607.TIF </img>
+514 & <img> id-US20180022998A1-20180125-C00608.TIF </img>
+515 & <img> id-US20180022998A1-20180125-C00609.TIF </img>
+516 & <img> id-US20180022998A1-20180125-C00610.TIF </img>
+517 & <img> id-US20180022998A1-20180125-C00611.TIF </img>
+518 & <img> id-US20180022998A1-20180125-C00612.TIF </img>
+519 & <img> id-US20180022998A1-20180125-C00613.TIF </img>
+520 & <img> id-US20180022998A1-20180125-C00614.TIF </img>
+521 & <img> id-US20180022998A1-20180125-C00615.TIF </img>
+522 & <img> id-US20180022998A1-20180125-C00616.TIF </img>
+523 & <img> id-US20180022998A1-20180125-C00617.TIF </img>
+524 & <img> id-US20180022998A1-20180125-C00618.TIF </img>
+525 & <img> id-US20180022998A1-20180125-C00619.TIF </img>
+526 & <img> id-US20180022998A1-20180125-C00620.TIF </img>
+527 & <img> id-US20180022998A1-20180125-C00621.TIF </img>
+528 & <img> id-US20180022998A1-20180125-C00622.TIF </img>
+529 & <img> id-US20180022998A1-20180125-C00623.TIF </img>
+530 & <img> id-US20180022998A1-20180125-C00624.TIF </img>
+531 & <img> id-US20180022998A1-20180125-C00625.TIF </img>
+532 & <img> id-US20180022998A1-20180125-C00626.TIF </img>
+533 & <img> id-US20180022998A1-20180125-C00627.TIF </img>
+534 & <img> id-US20180022998A1-20180125-C00628.TIF </img>
+535 & <img> id-US20180022998A1-20180125-C00629.TIF </img>
+536 & <img> id-US20180022998A1-20180125-C00630.TIF </img>
+537 & <img> id-US20180022998A1-20180125-C00631.TIF </img>
+538 & <img> id-US20180022998A1-20180125-C00632.TIF </img>
+539 & <img> id-US20180022998A1-20180125-C00633.TIF </img>
+540 & <img> id-US20180022998A1-20180125-C00634.TIF </img>
+541 & <img> id-US20180022998A1-20180125-C00635.TIF </img>
+542 & <img> id-US20180022998A1-20180125-C00636.TIF </img>
+543 & <img> id-US20180022998A1-20180125-C00637.TIF </img>
+544 & <img> id-US20180022998A1-20180125-C00638.TIF </img>
+545 & <img> id-US20180022998A1-20180125-C00639.TIF </img>
+546 & <img> id-US20180022998A1-20180125-C00640.TIF </img>
+547 & <img> id-US20180022998A1-20180125-C00641.TIF </img>
+548 & <img> id-US20180022998A1-20180125-C00642.TIF </img>
+549 & <img> id-US20180022998A1-20180125-C00643.TIF </img>
+550 & <img> id-US20180022998A1-20180125-C00644.TIF </img>
+551 & <img> id-US20180022998A1-20180125-C00645.TIF </img>
+552 & <img> id-US20180022998A1-20180125-C00646.TIF </img>
+553 & <img> id-US20180022998A1-20180125-C00647.TIF </img>
+554 & <img> id-US20180022998A1-20180125-C00648.TIF </img>
+555 & <img> id-US20180022998A1-20180125-C00649.TIF </img>
+556 & <img> id-US20180022998A1-20180125-C00650.TIF </img>
+557 & <img> id-US20180022998A1-20180125-C00651.TIF </img>
+558 & <img> id-US20180022998A1-20180125-C00652.TIF </img>
+559 & <img> id-US20180022998A1-20180125-C00653.TIF </img>
+560 & <img> id-US20180022998A1-20180125-C00654.TIF </img>
+561 & <img> id-US20180022998A1-20180125-C00655.TIF </img>
+562 & <img> id-US20180022998A1-20180125-C00656.TIF </img>
+563 & <img> id-US20180022998A1-20180125-C00657.TIF </img>
+564 & <img> id-US20180022998A1-20180125-C00658.TIF </img>
+565 & <img> id-US20180022998A1-20180125-C00659.TIF </img>
+566 & <img> id-US20180022998A1-20180125-C00660.TIF </img>
+567 & <img> id-US20180022998A1-20180125-C00661.TIF </img>
+568 & <img> id-US20180022998A1-20180125-C00662.TIF </img>
+569 & <img> id-US20180022998A1-20180125-C00663.TIF </img>
+570 & <img> id-US20180022998A1-20180125-C00664.TIF </img>
+571 & <img> id-US20180022998A1-20180125-C00665.TIF </img>
+572 & <img> id-US20180022998A1-20180125-C00666.TIF </img>
+573 & <img> id-US20180022998A1-20180125-C00667.TIF </img>
+574 & <img> id-US20180022998A1-20180125-C00668.TIF </img>
+575 & <img> id-US20180022998A1-20180125-C00669.TIF </img>
+576 & <img> id-US20180022998A1-20180125-C00670.TIF </img>
+577 & <img> id-US20180022998A1-20180125-C00671.TIF </img>
+578 & <img> id-US20180022998A1-20180125-C00672.TIF </img>
+579 & <img> id-US20180022998A1-20180125-C00673.TIF </img>
+580 & <img> id-US20180022998A1-20180125-C00674.TIF </img>
+581 & <img> id-US20180022998A1-20180125-C00675.TIF </img>
+582 & <img> id-US20180022998A1-20180125-C00676.TIF </img>
+583 & <img> id-US20180022998A1-20180125-C00677.TIF </img>
+584 & <img> id-US20180022998A1-20180125-C00678.TIF </img>
+585 & <img> id-US20180022998A1-20180125-C00679.TIF </img>
+586 & <img> id-US20180022998A1-20180125-C00680.TIF </img>
+587 & <img> id-US20180022998A1-20180125-C00681.TIF </img>
+588 & <img> id-US20180022998A1-20180125-C00682.TIF </img>
+589 & <img> id-US20180022998A1-20180125-C00683.TIF </img>
+590 & <img> id-US20180022998A1-20180125-C00684.TIF </img>
+591 & <img> id-US20180022998A1-20180125-C00685.TIF </img>
+592 & <img> id-US20180022998A1-20180125-C00686.TIF </img>
+593 & <img> id-US20180022998A1-20180125-C00687.TIF </img>
+594 & <img> id-US20180022998A1-20180125-C00688.TIF </img>
+595 & <img> id-US20180022998A1-20180125-C00689.TIF </img>
+596 & <img> id-US20180022998A1-20180125-C00690.TIF </img>
+597 & <img> id-US20180022998A1-20180125-C00691.TIF </img>
+598 & <img> id-US20180022998A1-20180125-C00692.TIF </img>
+599 & <img> id-US20180022998A1-20180125-C00693.TIF </img>
+600 & <img> id-US20180022998A1-20180125-C00694.TIF </img>
+601 & <img> id-US20180022998A1-20180125-C00695.TIF </img>
+602 & <img> id-US20180022998A1-20180125-C00696.TIF </img>
+603 & <img> id-US20180022998A1-20180125-C00697.TIF </img>
+604 & <img> id-US20180022998A1-20180125-C00698.TIF </img>
+605 & <img> id-US20180022998A1-20180125-C00699.TIF </img>
+606 & <img> id-US20180022998A1-20180125-C00700.TIF </img>
+607 & <img> id-US20180022998A1-20180125-C00701.TIF </img>
+608 & <img> id-US20180022998A1-20180125-C00702.TIF </img>
+609 & <img> id-US20180022998A1-20180125-C00703.TIF </img>
+610 & <img> id-US20180022998A1-20180125-C00704.TIF </img>
+611 & <img> id-US20180022998A1-20180125-C00705.TIF </img>
+612 & <img> id-US20180022998A1-20180125-C00706.TIF </img>
+612 & <img> id-US20180022998A1-20180125-C00707.TIF </img>
+614 & <img> id-US20180022998A1-20180125-C00708.TIF </img>
+615 & <img> id-US20180022998A1-20180125-C00709.TIF </img>
+616 & <img> id-US20180022998A1-20180125-C00710.TIF </img>
+617 & <img> id-US20180022998A1-20180125-C00711.TIF </img>
+618 & <img> id-US20180022998A1-20180125-C00712.TIF </img>
+619 & <img> id-US20180022998A1-20180125-C00713.TIF </img>
+620 & <img> id-US20180022998A1-20180125-C00714.TIF </img>
+621 & <img> id-US20180022998A1-20180125-C00715.TIF </img>
+622 & <img> id-US20180022998A1-20180125-C00716.TIF </img>
+623 & <img> id-US20180022998A1-20180125-C00717.TIF </img>
+624 & <img> id-US20180022998A1-20180125-C00718.TIF </img>
+625 & <img> id-US20180022998A1-20180125-C00719.TIF </img>
+626 & <img> id-US20180022998A1-20180125-C00720.TIF </img>
+627 & <img> id-US20180022998A1-20180125-C00721.TIF </img>
+628 & <img> id-US20180022998A1-20180125-C00722.TIF </img>
+629 & <img> id-US20180022998A1-20180125-C00723.TIF </img>
+630 & <img> id-US20180022998A1-20180125-C00724.TIF </img>
+631 & <img> id-US20180022998A1-20180125-C00725.TIF </img>
+632 & <img> id-US20180022998A1-20180125-C00726.TIF </img>
+633 & <img> id-US20180022998A1-20180125-C00727.TIF </img>
+634 & <img> id-US20180022998A1-20180125-C00728.TIF </img>
+635 & <img> id-US20180022998A1-20180125-C00729.TIF </img>
+636 & <img> id-US20180022998A1-20180125-C00730.TIF </img>
+637 & <img> id-US20180022998A1-20180125-C00731.TIF </img>
+638 & <img> id-US20180022998A1-20180125-C00732.TIF </img>
+639 & <img> id-US20180022998A1-20180125-C00733.TIF </img>
+640 & <img> id-US20180022998A1-20180125-C00734.TIF </img>
+641 & <img> id-US20180022998A1-20180125-C00735.TIF </img>
+642 & <img> id-US20180022998A1-20180125-C00736.TIF </img>
+643 & <img> id-US20180022998A1-20180125-C00737.TIF </img>
+644 & <img> id-US20180022998A1-20180125-C00738.TIF </img>
+645 & <img> id-US20180022998A1-20180125-C00739.TIF </img>
+646 & <img> id-US20180022998A1-20180125-C00740.TIF </img>
+647 & <img> id-US20180022998A1-20180125-C00741.TIF </img>
+648 & <img> id-US20180022998A1-20180125-C00742.TIF </img>
+649 & <img> id-US20180022998A1-20180125-C00743.TIF </img>
+650 & <img> id-US20180022998A1-20180125-C00744.TIF </img>
+651 & <img> id-US20180022998A1-20180125-C00745.TIF </img>
+652 & <img> id-US20180022998A1-20180125-C00746.TIF </img>
+653 & <img> id-US20180022998A1-20180125-C00747.TIF </img>
+654 & <img> id-US20180022998A1-20180125-C00748.TIF </img>
+655 & <img> id-US20180022998A1-20180125-C00749.TIF </img>
+656 & <img> id-US20180022998A1-20180125-C00750.TIF </img>
+657 & <img> id-US20180022998A1-20180125-C00751.TIF </img>
+658 & <img> id-US20180022998A1-20180125-C00752.TIF </img>
+659 & <img> id-US20180022998A1-20180125-C00753.TIF </img>
+660 & <img> id-US20180022998A1-20180125-C00754.TIF </img>
+661 & <img> id-US20180022998A1-20180125-C00755.TIF </img>
+662 & <img> id-US20180022998A1-20180125-C00756.TIF </img>
+663 & <img> id-US20180022998A1-20180125-C00757.TIF </img>
+664 & <img> id-US20180022998A1-20180125-C00758.TIF </img>
+665 & <img> id-US20180022998A1-20180125-C00759.TIF </img>
+666 & <img> id-US20180022998A1-20180125-C00760.TIF </img>
+667 & <img> id-US20180022998A1-20180125-C00761.TIF </img>
+668 & <img> id-US20180022998A1-20180125-C00762.TIF </img>
+669 & <img> id-US20180022998A1-20180125-C00763.TIF </img>
+670 & <img> id-US20180022998A1-20180125-C00764.TIF </img>
+671 & <img> id-US20180022998A1-20180125-C00765.TIF </img>
+672 & <img> id-US20180022998A1-20180125-C00766.TIF </img>
+673 & <img> id-US20180022998A1-20180125-C00767.TIF </img>
+674 & <img> id-US20180022998A1-20180125-C00768.TIF </img>
+675 & <img> id-US20180022998A1-20180125-C00769.TIF </img>
+676 & <img> id-US20180022998A1-20180125-C00770.TIF </img>
+677 & <img> id-US20180022998A1-20180125-C00771.TIF </img>
+678 & <img> id-US20180022998A1-20180125-C00772.TIF </img>
+679 & <img> id-US20180022998A1-20180125-C00773.TIF </img>
+680 & <img> id-US20180022998A1-20180125-C00774.TIF </img>
+681 & <img> id-US20180022998A1-20180125-C00775.TIF </img>
+682 & <img> id-US20180022998A1-20180125-C00776.TIF </img>
+683 & <img> id-US20180022998A1-20180125-C00777.TIF </img>
+684 & <img> id-US20180022998A1-20180125-C00778.TIF </img>
+685 & <img> id-US20180022998A1-20180125-C00779.TIF </img>
+686 & <img> id-US20180022998A1-20180125-C00780.TIF </img>
+687 & <img> id-US20180022998A1-20180125-C00781.TIF </img>
+688 & <img> id-US20180022998A1-20180125-C00782.TIF </img>
+689 & <img> id-US20180022998A1-20180125-C00783.TIF </img>
+690 & <img> id-US20180022998A1-20180125-C00784.TIF </img>
+691 & <img> id-US20180022998A1-20180125-C00785.TIF </img>
+692 & <img> id-US20180022998A1-20180125-C00786.TIF </img>
+693 & <img> id-US20180022998A1-20180125-C00787.TIF </img>
+694 & <img> id-US20180022998A1-20180125-C00788.TIF </img>
+695 & <img> id-US20180022998A1-20180125-C00789.TIF </img>
+696 & <img> id-US20180022998A1-20180125-C00790.TIF </img>
+697 & <img> id-US20180022998A1-20180125-C00791.TIF </img>
+698 & <img> id-US20180022998A1-20180125-C00792.TIF </img>
+699 & <img> id-US20180022998A1-20180125-C00793.TIF </img>
+700 & <img> id-US20180022998A1-20180125-C00794.TIF </img>
+701 & <img> id-US20180022998A1-20180125-C00795.TIF </img>
+702 & <img> id-US20180022998A1-20180125-C00796.TIF </img>
+703 & <img> id-US20180022998A1-20180125-C00797.TIF </img>
+704 & <img> id-US20180022998A1-20180125-C00798.TIF </img>
+705 & <img> id-US20180022998A1-20180125-C00799.TIF </img>
+706 & <img> id-US20180022998A1-20180125-C00800.TIF </img>
+707 & <img> id-US20180022998A1-20180125-C00801.TIF </img>
+708 & <img> id-US20180022998A1-20180125-C00802.TIF </img>
+709 & <img> id-US20180022998A1-20180125-C00803.TIF </img>
+710 & <img> id-US20180022998A1-20180125-C00804.TIF </img>
+711 & <img> id-US20180022998A1-20180125-C00805.TIF </img>
+712 & <img> id-US20180022998A1-20180125-C00806.TIF </img>
+713 & <img> id-US20180022998A1-20180125-C00807.TIF </img>
+714 & <img> id-US20180022998A1-20180125-C00808.TIF </img>
+715 & <img> id-US20180022998A1-20180125-C00809.TIF </img>
+716 & <img> id-US20180022998A1-20180125-C00810.TIF </img>
+717 & <img> id-US20180022998A1-20180125-C00811.TIF </img>
+718 & <img> id-US20180022998A1-20180125-C00812.TIF </img>
+719 & <img> id-US20180022998A1-20180125-C00813.TIF </img>
+720 & <img> id-US20180022998A1-20180125-C00814.TIF </img>
+721 & <img> id-US20180022998A1-20180125-C00815.TIF </img>
+722 & <img> id-US20180022998A1-20180125-C00816.TIF </img>
+723 & <img> id-US20180022998A1-20180125-C00817.TIF </img>
+724 & <img> id-US20180022998A1-20180125-C00818.TIF </img>
+726 & <img> id-US20180022998A1-20180125-C00819.TIF </img>
+727 & <img> id-US20180022998A1-20180125-C00820.TIF </img>
+728 & <img> id-US20180022998A1-20180125-C00821.TIF </img>
+729 & <img> id-US20180022998A1-20180125-C00822.TIF </img>
+730 & <img> id-US20180022998A1-20180125-C00823.TIF </img>
+731 & <img> id-US20180022998A1-20180125-C00824.TIF </img>
+732 & <img> id-US20180022998A1-20180125-C00825.TIF </img>
+733 & <img> id-US20180022998A1-20180125-C00826.TIF </img>
+733 & <img> id-US20180022998A1-20180125-C00827.TIF </img>
+734 & <img> id-US20180022998A1-20180125-C00828.TIF </img>
+735 & <img> id-US20180022998A1-20180125-C00829.TIF </img>
+736 & <img> id-US20180022998A1-20180125-C00830.TIF </img>
+737 & <img> id-US20180022998A1-20180125-C00831.TIF </img>
+738 & <img> id-US20180022998A1-20180125-C00832.TIF </img>
+739 & <img> id-US20180022998A1-20180125-C00833.TIF </img>
+740 & <img> id-US20180022998A1-20180125-C00834.TIF </img>
+741 & <img> id-US20180022998A1-20180125-C00835.TIF </img>
+742 & <img> id-US20180022998A1-20180125-C00836.TIF </img>
+743 & <img> id-US20180022998A1-20180125-C00837.TIF </img>
+744 & <img> id-US20180022998A1-20180125-C00838.TIF </img>
+745 & <img> id-US20180022998A1-20180125-C00839.TIF </img>
+746 & <img> id-US20180022998A1-20180125-C00840.TIF </img>
+747 & <img> id-US20180022998A1-20180125-C00841.TIF </img>
+748 & <img> id-US20180022998A1-20180125-C00842.TIF </img>
+749 & <img> id-US20180022998A1-20180125-C00843.TIF </img>
+750 & <img> id-US20180022998A1-20180125-C00844.TIF </img>
+751 & <img> id-US20180022998A1-20180125-C00845.TIF </img>
+752 & <img> id-US20180022998A1-20180125-C00846.TIF </img>
+753 & <img> id-US20180022998A1-20180125-C00847.TIF </img>
+754 & <img> id-US20180022998A1-20180125-C00848.TIF </img>
+755 & <img> id-US20180022998A1-20180125-C00849.TIF </img>
+756 & <img> id-US20180022998A1-20180125-C00850.TIF </img>
+757 & <img> id-US20180022998A1-20180125-C00851.TIF </img>
+758 & <img> id-US20180022998A1-20180125-C00852.TIF </img>
+759 & <img> id-US20180022998A1-20180125-C00853.TIF </img>
+760 & <img> id-US20180022998A1-20180125-C00854.TIF </img>
+761 & <img> id-US20180022998A1-20180125-C00855.TIF </img>
+762 & <img> id-US20180022998A1-20180125-C00856.TIF </img>
+763 & <img> id-US20180022998A1-20180125-C00857.TIF </img>
+764 & <img> id-US20180022998A1-20180125-C00858.TIF </img>
+765 & <img> id-US20180022998A1-20180125-C00859.TIF </img>
+766 & <img> id-US20180022998A1-20180125-C00860.TIF </img>
+767 & <img> id-US20180022998A1-20180125-C00861.TIF </img>
+768 & <img> id-US20180022998A1-20180125-C00862.TIF </img>
+769 & <img> id-US20180022998A1-20180125-C00863.TIF </img>
+770 & <img> id-US20180022998A1-20180125-C00864.TIF </img>
+771 & <img> id-US20180022998A1-20180125-C00865.TIF </img>
+772 & <img> id-US20180022998A1-20180125-C00866.TIF </img>
+773 & <img> id-US20180022998A1-20180125-C00867.TIF </img>
+774 & <img> id-US20180022998A1-20180125-C00868.TIF </img>
+775 & <img> id-US20180022998A1-20180125-C00869.TIF </img>
+776 & <img> id-US20180022998A1-20180125-C00870.TIF </img>
+777 & <img> id-US20180022998A1-20180125-C00871.TIF </img>
+778 & <img> id-US20180022998A1-20180125-C00872.TIF </img>
+779 & <img> id-US20180022998A1-20180125-C00873.TIF </img>
+780 & <img> id-US20180022998A1-20180125-C00874.TIF </img>
+781 & <img> id-US20180022998A1-20180125-C00875.TIF </img>
+782 & <img> id-US20180022998A1-20180125-C00876.TIF </img>
+783 & <img> id-US20180022998A1-20180125-C00877.TIF </img>
+784 & <img> id-US20180022998A1-20180125-C00878.TIF </img>
+785 & <img> id-US20180022998A1-20180125-C00879.TIF </img>
+786 & <img> id-US20180022998A1-20180125-C00880.TIF </img>
+787 & <img> id-US20180022998A1-20180125-C00881.TIF </img>
+788 & <img> id-US20180022998A1-20180125-C00882.TIF </img>
+789 & <img> id-US20180022998A1-20180125-C00883.TIF </img>
+790 & <img> id-US20180022998A1-20180125-C00884.TIF </img>
+791 & <img> id-US20180022998A1-20180125-C00885.TIF </img>
+792 & <img> id-US20180022998A1-20180125-C00886.TIF </img>
+793 & <img> id-US20180022998A1-20180125-C00887.TIF </img>
+794 & <img> id-US20180022998A1-20180125-C00888.TIF </img>
+795 & <img> id-US20180022998A1-20180125-C00889.TIF </img>
+796 & <img> id-US20180022998A1-20180125-C00890.TIF </img>
+797 & <img> id-US20180022998A1-20180125-C00891.TIF </img>
+798 & <img> id-US20180022998A1-20180125-C00892.TIF </img>
+799 & <img> id-US20180022998A1-20180125-C00893.TIF </img>
+800 & <img> id-US20180022998A1-20180125-C00894.TIF </img>
+801 & <img> id-US20180022998A1-20180125-C00895.TIF </img>
+802 & <img> id-US20180022998A1-20180125-C00896.TIF </img>
+803 & <img> id-US20180022998A1-20180125-C00897.TIF </img>
+804 & <img> id-US20180022998A1-20180125-C00898.TIF </img>
+805 & <img> id-US20180022998A1-20180125-C00899.TIF </img>
+806 & <img> id-US20180022998A1-20180125-C00900.TIF </img>
+807 & <img> id-US20180022998A1-20180125-C00901.TIF </img>
+808 & <img> id-US20180022998A1-20180125-C00902.TIF </img>
+809 & <img> id-US20180022998A1-20180125-C00903.TIF </img>
+810 & <img> id-US20180022998A1-20180125-C00904.TIF </img>
+811 & <img> id-US20180022998A1-20180125-C00905.TIF </img>
+812 & <img> id-US20180022998A1-20180125-C00906.TIF </img>
+813 & <img> id-US20180022998A1-20180125-C00907.TIF </img>
+814 & <img> id-US20180022998A1-20180125-C00908.TIF </img>
+815 & <img> id-US20180022998A1-20180125-C00909.TIF </img>
+816 & <img> id-US20180022998A1-20180125-C00910.TIF </img>
+817 & <img> id-US20180022998A1-20180125-C00911.TIF </img>
+818 & <img> id-US20180022998A1-20180125-C00912.TIF </img>
+819 & <img> id-US20180022998A1-20180125-C00913.TIF </img>
+820 & <img> id-US20180022998A1-20180125-C00914.TIF </img>
+821 & <img> id-US20180022998A1-20180125-C00915.TIF </img>
+822 & <img> id-US20180022998A1-20180125-C00916.TIF </img>
+823 & <img> id-US20180022998A1-20180125-C00917.TIF </img>
+824 & <img> id-US20180022998A1-20180125-C00918.TIF </img>
+825 & <img> id-US20180022998A1-20180125-C00919.TIF </img>
+826 & <img> id-US20180022998A1-20180125-C00920.TIF </img>
+827 & <img> id-US20180022998A1-20180125-C00921.TIF </img>
+828 & <img> id-US20180022998A1-20180125-C00922.TIF </img>
+829 & <img> id-US20180022998A1-20180125-C00923.TIF </img>
+830 & <img> id-US20180022998A1-20180125-C00924.TIF </img>
+831 & <img> id-US20180022998A1-20180125-C00925.TIF </img>
+832 & <img> id-US20180022998A1-20180125-C00926.TIF </img>
+833 & <img> id-US20180022998A1-20180125-C00927.TIF </img>
+834 & <img> id-US20180022998A1-20180125-C00928.TIF </img>
+835 & <img> id-US20180022998A1-20180125-C00929.TIF </img>
+836 & <img> id-US20180022998A1-20180125-C00930.TIF </img>
+837 & <img> id-US20180022998A1-20180125-C00931.TIF </img>
+838 & <img> id-US20180022998A1-20180125-C00932.TIF </img>
+839 & <img> id-US20180022998A1-20180125-C00933.TIF </img>
+840 & <img> id-US20180022998A1-20180125-C00934.TIF </img>
+841 & <img> id-US20180022998A1-20180125-C00935.TIF </img>
+842 & <img> id-US20180022998A1-20180125-C00936.TIF </img>
+843 & <img> id-US20180022998A1-20180125-C00937.TIF </img>
+844 & <img> id-US20180022998A1-20180125-C00938.TIF </img>
+845 & <img> id-US20180022998A1-20180125-C00939.TIF </img>
+846 & <img> id-US20180022998A1-20180125-C00940.TIF </img>
+847 & <img> id-US20180022998A1-20180125-C00941.TIF </img>
+848 & <img> id-US20180022998A1-20180125-C00942.TIF </img>
+849 & <img> id-US20180022998A1-20180125-C00943.TIF </img>
+850 & <img> id-US20180022998A1-20180125-C00944.TIF </img>
+851 & <img> id-US20180022998A1-20180125-C00945.TIF </img>
+852 & <img> id-US20180022998A1-20180125-C00946.TIF </img>
+853 & <img> id-US20180022998A1-20180125-C00947.TIF </img>
+854 & <img> id-US20180022998A1-20180125-C00948.TIF </img>
+855 & <img> id-US20180022998A1-20180125-C00949.TIF </img>
+856 & <img> id-US20180022998A1-20180125-C00950.TIF </img>
+857 & <img> id-US20180022998A1-20180125-C00951.TIF </img>
+858 & <img> id-US20180022998A1-20180125-C00952.TIF </img>
+859 & <img> id-US20180022998A1-20180125-C00953.TIF </img>
+860 & <img> id-US20180022998A1-20180125-C00954.TIF </img>
+861 & <img> id-US20180022998A1-20180125-C00955.TIF </img>
+862 & <img> id-US20180022998A1-20180125-C00956.TIF </img>
+863 & <img> id-US20180022998A1-20180125-C00957.TIF </img>
+864 & <img> id-US20180022998A1-20180125-C00958.TIF </img>
+865 & <img> id-US20180022998A1-20180125-C00959.TIF </img>
+866 & <img> id-US20180022998A1-20180125-C00960.TIF </img>
+867 & <img> id-US20180022998A1-20180125-C00961.TIF </img>
+868 & <img> id-US20180022998A1-20180125-C00962.TIF </img>
+869 & <img> id-US20180022998A1-20180125-C00963.TIF </img>
+870 & <img> id-US20180022998A1-20180125-C00964.TIF </img>
+871 & <img> id-US20180022998A1-20180125-C00965.TIF </img>
+872 & <img> id-US20180022998A1-20180125-C00966.TIF </img>
+873 & <img> id-US20180022998A1-20180125-C00967.TIF </img>
+874 & <img> id-US20180022998A1-20180125-C00968.TIF </img>
+875 & <img> id-US20180022998A1-20180125-C00969.TIF </img>
+876 & <img> id-US20180022998A1-20180125-C00970.TIF </img>
+877 & <img> id-US20180022998A1-20180125-C00971.TIF </img>
+878 & <img> id-US20180022998A1-20180125-C00972.TIF </img>
+879 & <img> id-US20180022998A1-20180125-C00973.TIF </img>
+880 & <img> id-US20180022998A1-20180125-C00974.TIF </img>
+881 & <img> id-US20180022998A1-20180125-C00975.TIF </img>
+882 & <img> id-US20180022998A1-20180125-C00976.TIF </img>
+883 & <img> id-US20180022998A1-20180125-C00977.TIF </img>
+884 & <img> id-US20180022998A1-20180125-C00978.TIF </img>
+885 & <img> id-US20180022998A1-20180125-C00979.TIF </img>
+886 & <img> id-US20180022998A1-20180125-C00980.TIF </img>
+887 & <img> id-US20180022998A1-20180125-C00981.TIF </img>
+888 & <img> id-US20180022998A1-20180125-C00982.TIF </img>
+889 & <img> id-US20180022998A1-20180125-C00983.TIF </img>
+890 & <img> id-US20180022998A1-20180125-C00984.TIF </img>
+891 & <img> id-US20180022998A1-20180125-C00985.TIF </img>
+892 & <img> id-US20180022998A1-20180125-C00986.TIF </img>
+893 & <img> id-US20180022998A1-20180125-C00987.TIF </img>
+894 & <img> id-US20180022998A1-20180125-C00988.TIF </img>
+895 & <img> id-US20180022998A1-20180125-C00989.TIF </img>
+896 & <img> id-US20180022998A1-20180125-C00990.TIF </img>
+897 & <img> id-US20180022998A1-20180125-C00991.TIF </img>
+898 & <img> id-US20180022998A1-20180125-C00992.TIF </img>
+899 & <img> id-US20180022998A1-20180125-C00993.TIF </img>
+900 & <img> id-US20180022998A1-20180125-C00994.TIF </img>
+901 & <img> id-US20180022998A1-20180125-C00995.TIF </img>
+902 & <img> id-US20180022998A1-20180125-C00996.TIF </img>
+903 & <img> id-US20180022998A1-20180125-C00997.TIF </img>
+904 & <img> id-US20180022998A1-20180125-C00998.TIF </img>
+905 & <img> id-US20180022998A1-20180125-C00999.TIF </img>
+906 & <img> id-US20180022998A1-20180125-C01000.TIF </img>
+907 & <img> id-US20180022998A1-20180125-C01001.TIF </img>
+908 & <img> id-US20180022998A1-20180125-C01002.TIF </img>
+909 & <img> id-US20180022998A1-20180125-C01003.TIF </img>
+910 & <img> id-US20180022998A1-20180125-C01004.TIF </img>
+911 & <img> id-US20180022998A1-20180125-C01005.TIF </img>
+912 & <img> id-US20180022998A1-20180125-C01006.TIF </img>
+913 & <img> id-US20180022998A1-20180125-C01007.TIF </img>
+914 & <img> id-US20180022998A1-20180125-C01008.TIF </img>
+915 & <img> id-US20180022998A1-20180125-C01009.TIF </img>
+916 & <img> id-US20180022998A1-20180125-C01010.TIF </img>
+917 & <img> id-US20180022998A1-20180125-C01011.TIF </img>
+918 & <img> id-US20180022998A1-20180125-C01012.TIF </img>
+919 & <img> id-US20180022998A1-20180125-C01013.TIF </img>
+920 & <img> id-US20180022998A1-20180125-C01014.TIF </img>
+921 & <img> id-US20180022998A1-20180125-C01015.TIF </img>
+922 & <img> id-US20180022998A1-20180125-C01016.TIF </img>
+923 & <img> id-US20180022998A1-20180125-C01017.TIF </img>
+924 & <img> id-US20180022998A1-20180125-C01018.TIF </img>
+925 & <img> id-US20180022998A1-20180125-C01019.TIF </img>
+926 & <img> id-US20180022998A1-20180125-C01020.TIF </img>
+927 & <img> id-US20180022998A1-20180125-C01021.TIF </img>
+928 & <img> id-US20180022998A1-20180125-C01022.TIF </img>
+929 & <img> id-US20180022998A1-20180125-C01023.TIF </img>
+930 & <img> id-US20180022998A1-20180125-C01024.TIF </img>
+931 & <img> id-US20180022998A1-20180125-C01025.TIF </img>
+932 & <img> id-US20180022998A1-20180125-C01026.TIF </img>
+933 & <img> id-US20180022998A1-20180125-C01027.TIF </img>
+934 & <img> id-US20180022998A1-20180125-C01028.TIF </img>
+935 & <img> id-US20180022998A1-20180125-C01029.TIF </img>
+936 & <img> id-US20180022998A1-20180125-C01030.TIF </img>
+937 & <img> id-US20180022998A1-20180125-C01031.TIF </img>
+938 & <img> id-US20180022998A1-20180125-C01032.TIF </img>
+939 & <img> id-US20180022998A1-20180125-C01033.TIF </img>
+940 & <img> id-US20180022998A1-20180125-C01034.TIF </img>
+941 & <img> id-US20180022998A1-20180125-C01035.TIF </img>
+942 & <img> id-US20180022998A1-20180125-C01036.TIF </img>
+943 & <img> id-US20180022998A1-20180125-C01037.TIF </img>
+944 & <img> id-US20180022998A1-20180125-C01038.TIF </img>
+945 & <img> id-US20180022998A1-20180125-C01039.TIF </img>
+946 & <img> id-US20180022998A1-20180125-C01040.TIF </img>
+947 & <img> id-US20180022998A1-20180125-C01041.TIF </img>
+948 & <img> id-US20180022998A1-20180125-C01042.TIF </img>
+949 & <img> id-US20180022998A1-20180125-C01043.TIF </img>
+950 & <img> id-US20180022998A1-20180125-C01044.TIF </img>
+951 & <img> id-US20180022998A1-20180125-C01045.TIF </img>
+952 & <img> id-US20180022998A1-20180125-C01046.TIF </img>
+953 & <img> id-US20180022998A1-20180125-C01047.TIF </img>
+954 & <img> id-US20180022998A1-20180125-C01048.TIF </img>
+955 & <img> id-US20180022998A1-20180125-C01049.TIF </img>
+956 & <img> id-US20180022998A1-20180125-C01050.TIF </img>
+957 & <img> id-US20180022998A1-20180125-C01051.TIF </img>
+958 & <img> id-US20180022998A1-20180125-C01052.TIF </img>
+959 & <img> id-US20180022998A1-20180125-C01053.TIF </img>
+960 & <img> id-US20180022998A1-20180125-C01054.TIF </img>
+961 & <img> id-US20180022998A1-20180125-C01055.TIF </img>
+962 & <img> id-US20180022998A1-20180125-C01056.TIF </img>
+963 & <img> id-US20180022998A1-20180125-C01057.TIF </img>
+964 & <img> id-US20180022998A1-20180125-C01058.TIF </img>
+965 & <img> id-US20180022998A1-20180125-C01059.TIF </img>
+966 & <img> id-US20180022998A1-20180125-C01060.TIF </img>
+967 & <img> id-US20180022998A1-20180125-C01061.TIF </img>
+968 & <img> id-US20180022998A1-20180125-C01062.TIF </img>
+969 & <img> id-US20180022998A1-20180125-C01063.TIF </img>
+970 & <img> id-US20180022998A1-20180125-C01064.TIF </img>
+971 & <img> id-US20180022998A1-20180125-C01065.TIF </img>
+972 & <img> id-US20180022998A1-20180125-C01066.TIF </img>
+973 & <img> id-US20180022998A1-20180125-C01067.TIF </img>
+974 & <img> id-US20180022998A1-20180125-C01068.TIF </img>
+975 & <img> id-US20180022998A1-20180125-C01069.TIF </img>
+976 & <img> id-US20180022998A1-20180125-C01070.TIF </img>
+977 & <img> id-US20180022998A1-20180125-C01071.TIF </img>
+978 & <img> id-US20180022998A1-20180125-C01072.TIF </img>
+979 & <img> id-US20180022998A1-20180125-C01073.TIF </img>
+980 & <img> id-US20180022998A1-20180125-C01074.TIF </img>
+981 & <img> id-US20180022998A1-20180125-C01075.TIF </img>
+982 & <img> id-US20180022998A1-20180125-C01076.TIF </img>
+983 & <img> id-US20180022998A1-20180125-C01077.TIF </img>
+984 & <img> id-US20180022998A1-20180125-C01078.TIF </img>
 </table>
 Examples of compositions are described below. The invention includes a mixture in Use Example 1 and Use Example 2. The invention also includes a mixture of at least two compositions in Use Examples. Component compounds were expressed using symbols according to definitions of Table 3 described below. In Table 3, a configuration of 1,4-cyclohexylene is trans. A parenthesized number next to a symbolized compound represents a chemical formula to which the compound belongs. A symbol (-) means a liquid crystal compound different from compounds (1) to (15). A proportion (percentage) of the liquid crystal compound is expressed in terms of weight percent (% by weight) based on the weight of the liquid crystal composition containing no additive. Values of the physical properties of the composition are summarized in a last part. The physical properties were measured according to the methods described above, and measured values are directly described (without extrapolation).
 <table>
@@ -1371,23 +1413,27 @@ CF2═CH-CnH2n- & VFFn-
 -CF2O- & X
 -C≡C- & T
 4) Ring Structure -An- & Symbol
- & H
- & B
- & B(F)
- & B(2F)
- & B(F,F)
- & B(2F,5F)
- & B(2F,3F)
- & Py
- & G
- & ch
- & dh
- & ICma(8F)
+<img> id-US20180022998A1-20180125-C01079.TIF </img> & H
+<img> id-US20180022998A1-20180125-C01080.TIF </img> & B
+<img> id-US20180022998A1-20180125-C01081.TIF </img> & B(F)
+<img> id-US20180022998A1-20180125-C01082.TIF </img> & B(2F)
+<img> id-US20180022998A1-20180125-C01083.TIF </img> & B(F,F)
+<img> id-US20180022998A1-20180125-C01084.TIF </img> & B(2F,5F)
+<img> id-US20180022998A1-20180125-C01085.TIF </img> & B(2F,3F)
+<img> id-US20180022998A1-20180125-C01086.TIF </img> & Py
+<img> id-US20180022998A1-20180125-C01087.TIF </img> & G
+<img> id-US20180022998A1-20180125-C01088.TIF </img> & ch
+<img> id-US20180022998A1-20180125-C01089.TIF </img> & dh
+<img> id-US20180022998A1-20180125-C01090.TIF </img> & ICma(8F)
 5) Examples of Description
 Example 1 4O-Icma(8F)-3
+<img> id-US20180022998A1-20180125-C01091.TIF </img>
 Example 2 3-BB(F,F)XB(F,F)-F
+<img> id-US20180022998A1-20180125-C01092.TIF </img>
 Example 3 3-HB-O2
+<img> id-US20180022998A1-20180125-C01093.TIF </img>
 Example 4 3-HBB(2F,3F)-O2
+<img> id-US20180022998A1-20180125-C01094.TIF </img>
 </table>
 Use Example 1
 <table>

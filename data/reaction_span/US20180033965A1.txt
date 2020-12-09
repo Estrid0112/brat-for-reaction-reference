@@ -8,10 +8,12 @@ Therefore, there is continuous need for novel luminescent materials, particularl
 SUMMARY
 The present disclosure provides a novel diamine compound and an organic electroluminescent element using the same. The organic electroluminescent element emits light with the color from dark blue to blue and has a relative longer operational life and a low driving voltage.
 The diamine compound of the present disclosure is shown in formula (I):
+<img> id-US20180033965A1-20180201-C00002.TIF </img>
 wherein R represents substituted or unsubstituted (C1-C10)alkyl;
 each of Ar1, Ar2, Ar3 and Ar4 independently represents substituted or unsubstituted (C6-C30)aryl, or substituted or unsubstituted (5 to 30-membered)heteroaryl; and
 n represents an integer of from 0 to 4.
 The compound of formula (I) of the present disclosure can also be represented by formula (II):
+<img> id-US20180033965A1-20180201-C00003.TIF </img>
 wherein R represents substituted or unsubstituted (C1-C10)alkyl;
 each of Z1, Z2, Z3 and Z4 independently represents substituted or unsubstituted (C1-C10)alkyl, substituted or unsubstituted (C3-C10)cycloalkyl, substituted or unsubstituted (C6-C30)aryl, or substituted or unsubstituted (5 to 30-membered)heteroaryl; or at least one of Z1, Z2, Z3 and Z4 is fused with the adjacent benzene ring of formula (II) to form substituted or unsubstituted (C9-C30)aryl; or at least one of Z1, Z2, Z3 and Z4 is fused with the adjacent benzene ring of formula (II) to form substituted or unsubstituted (10 to 30-membered)heteroaryl.
 The present disclosure further provides an organic electroluminescent element comprising: a cathode; an anode; and an organic layer formed between the cathode and the anode, and the organic layer comprises the compound of formula (I) described above.
@@ -20,6 +22,7 @@ DETAILED DESCRIPTION OF THE EMBODIMENTS
 The present disclosure will be explained in details by the following preferred examples to allow one having ordinary skill in the art to readily conceive benefits and effects disclosed by the present specification.
 Ranges cited and values disclosed herein are all inclusive and combinable. For example, when any integer or a point value falls within the range cited herein, the point value or number can be used as the lower limit or the upper limit to derive a sub-range. Additionally, all of the groups listed herein, such as the groups or substituents with reference to R, Ar1, Ar2, Ar3, Ar4, Z1, Z2, Z3, and Z4, are all combination with other groups in formula (I) or formula (II).
 According to the present disclosure, the diamine compound capable of being applied in an OLED is shown in formula (I):
+<img> id-US20180033965A1-20180201-C00004.TIF </img>
 wherein R represents substituted or unsubstituted (C1-C10)alkyl;
 each of Ar1, Ar2, Ar3, and Ar4 independently represents substituted or unsubstituted (C6-C30)aryl, or substituted or unsubstituted (5 to 30-membered)heteroaryl and
 n represents an integer of 0 to 4.
@@ -32,7 +35,9 @@ In one embodiment, at least one of Ar1, Ar2, Ar3 and Ar4 is (C6-C30)aryl substit
 In one embodiment, n is 0, and at least one of Ar1, Ar2, Ar3 and Ar4 is (C6-C30)aryl substituted with (C3-C10)alkyl or (C3-C10)cycloalkyl. Additionally, in the diamine compound of formula (I), each of Ar1, Ar2, Ar3 and Ar4 can be (C6-C30)aryl substituted with (C3-C10)alkyl or (C3-C10)cycloalkyl (e.g., substituted with propyl or cyclohexyl).
 In one embodiment, each of Ar1, Ar2, Ar3 and Ar4 independently represents 9,9-dimethylfluorenyl, biphenyl, propylphenyl, cyclohexylphenyl, methylphenyl, phenyl, dibenzothienylphenyl, or phenylpropylphenyl.
 In one embodiment, each of Ar1, Ar2, Ar3 and Ar4 independently represents
+<img> id-US20180033965A1-20180201-C00005.TIF </img>
 The compound of formula (I) of the present disclosure can be shown in formula (II):
+<img> id-US20180033965A1-20180201-C00006.TIF </img>
 wherein R represents substituted or unsubstituted (C1-C10)alkyl;
 each of Z1, Z2, Z3 and Z4 independently represents substituted or unsubstituted (C1-C10)alkyl, substituted or unsubstituted (C3-C10)cycloalkyl, substituted or unsubstituted (C6-C30)aryl, or substituted or unsubstituted (5 to 30-membered)heteroaryl; or at least one of Z1, Z2, Z3 and Z4 is fused with the adjacent benzene ring of formula (II) to form substituted or unsubstituted (C9-C30)aryl; or at least one of Z1, Z2, Z3 and Z4 is fused with the adjacent benzene ring of formula (II) to form substituted or unsubstituted (10 to 30-membered)heteroaryl.
 In one embodiment, each of Z1, Z2, Z3 and Z4 independently represents methyl, isopropyl, phenylisopropyl, cyclohexyl, dibenzothienyl, or at least one of Z1, Z2, Z3 and Z4 is fused with the adjacent benzene ring of formula (II) to form 9,9-dimethylfluorenyl.
@@ -50,21 +55,22 @@ TABLE 1
 <header>
 
 </header>
- & A1
- & A2
- & A3
- & A4
- & A5
- & A6
- & A7
- & A8
- & A9
- & A10
- & A11
- & A12
- & A13
+<img> id-US20180033965A1-20180201-C00007.TIF </img> & A1
+<img> id-US20180033965A1-20180201-C00008.TIF </img> & A2
+<img> id-US20180033965A1-20180201-C00009.TIF </img> & A3
+<img> id-US20180033965A1-20180201-C00010.TIF </img> & A4
+<img> id-US20180033965A1-20180201-C00011.TIF </img> & A5
+<img> id-US20180033965A1-20180201-C00012.TIF </img> & A6
+<img> id-US20180033965A1-20180201-C00013.TIF </img> & A7
+<img> id-US20180033965A1-20180201-C00014.TIF </img> & A8
+<img> id-US20180033965A1-20180201-C00015.TIF </img> & A9
+<img> id-US20180033965A1-20180201-C00016.TIF </img> & A10
+<img> id-US20180033965A1-20180201-C00017.TIF </img> & A11
+<img> id-US20180033965A1-20180201-C00018.TIF </img> & A12
+<img> id-US20180033965A1-20180201-C00019.TIF </img> & A13
 </table>
 The compound of formula (I) can be synthesized based on the following reaction scheme 1, but it is not limited thereto.
+<img> id-US20180033965A1-20180201-C00020.TIF </img>
 The present disclosure further provides an organic electroluminescent element, comprising: a cathode; an anode; and an organic layer comprising a compound of formula (I) of the present disclosure and formed between the cathode and the anode.
 The compound of formula (I) can be used in the organic layer of an OLED. Therefore, the OLED of the present disclosure has at least one organic layer disposed between the anode and cathode on a substrate, wherein the organic layer comprises the compound of formula (I) above. The organic layer can be a light emitting layer, a hole blocking layer, an electron transport layer, an electron injection layer, or a hole transport layer. In addition to the organic layer, the organic electroluminescent element can further include at least one layer, which differs from the organic layer and is selected from an electron transport layer, an electron injection layer, a light emitting layer, a hole blocking layer, and an electron blocking layer.
 In one embodiment, the organic layer comprising the compound of formula (I) is a light emitting layer, which comprises a fluorescent material or a phosphorescent material. Thus, the OLED of the present disclosure emits fluorescent or phosphorescent light.
@@ -129,6 +135,7 @@ EXAMPLE 1
 Manufacture of an Organic Luminescent Element Emitting Blue Light
 A substrate was washed with a solvent and ozone under UV light for degreasing, prior to loading the substrate in an evaporation system for use. Thereafter, the substrate was transferred in a vacuum deposition chamber, and all of the layers were deposited on the top of the substrate. The layers shown in FIG. 2 were deposited sequentially at a vacuum of about 10−6 Torr using a heated evaporation boat as following:a) an indium tin oxide (ITO) layer;b) a hole injection layer with a thickness of 20 nm, HAT-CN;c) a hole transport layer with a thickness of 60 nm, HT;d) a light emitting layer with a thickness of 30 nm, containing 3 wt % of Compound A2 as a guest emitter and BH1 as a host emitter (BH1 is a product name of E-ray Optoelectronics Technology Co., Ltd.);e) an electron transport layer with a thickness of 25 nm, containing ET and doped lithium quinolinate (Liq);f) an electron injection layer with a thickness of 1 nm, lithium fluoride (LiF); andg) a cathode with a thickness of 150 nm, containing aluminum (Al).
 The structure of the element of Example 1 can be represented as: ITO/HAT-CN (20 nm)/HT (60 nm)/BH1: 3 wt % of Compound A2 (30 nm)/50 wt % of ET: 50 wt % of Liq (25 nm)/LiF (1 nm)/Al (150 nm).
+<img> id-US20180033965A1-20180201-C00021.TIF </img>
 After above layers were deposited, the element was transferred from the deposition chamber to a drying oven and then encapsulated with an UV-curable epoxy resin and a glass cover-plate containing a moisture absorbent. The organic electroluminescent element has a light emitting area of 9 mm2.
 The electroluminescent properties of the organic electroluminescent element thus manufactured was determined at room temperature using a constant current source (KEITHLEY 2400 Source Meter, made by Keithley Instruments, Inc., Cleveland, Ohio) and a photometer (PHOTO RESEARCH SpectraScan PR 650, made by Photo Research, Inc., Chatsworth, Calif.).
 The measurements were performed by driving the constant current according to light color at room temperature and different initial luminance. The light color was represented by coordinates set forth by the International Commission on Illumination.

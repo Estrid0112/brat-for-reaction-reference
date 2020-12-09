@@ -10,6 +10,7 @@ Studies have shown that the human epidermal growth factor receptor 2 (HER2) gene
 The foregoing illustrates that an ongoing need exists for more efficacious drug and antibiotic formulations. More specifically, formulations are needed for improved efficacy of subcutaneous treatments used in cancer therapy.
 SUMMARY
 Accordingly, a block copolymer is disclosed of formula (1-C):
+<img> id-US20180117162A1-20180503-C00001.TIF </img>
 wherein
 atomic centers numbered 1 to 6 of each carbonate unit within parentheses are backbone atomic centers of the block copolymer,
 d' is a positive number having an average value of 100 to 600,
@@ -42,6 +43,7 @@ Herein, a loaded gel is a medical composition comprising a solvent, about 2 wt. 
 The loaded gel compositions can be delivered by various types of injection, including intradermal, subcutaneous, intramuscular, intravenous, intraosseous, and/or intraperitoneal injection. The loaded gels can be applied topically to a skin surface (e.g., for transdermal delivery of biologically active substances), and/or to other body surfaces, including the eyes and body cavities. The loaded gels can also be applied to wounds.
 The solvent for the loaded gel can be water and/or an organic solvent. A non-limiting example of an organic solvent is KOLLIPHOR RH40 (registered trademark of BASF). KOLLIPHOR RH40, also known as PEG-40 castor oil, is a non-ionic polyethoxylated detergent.
 The gel-forming block copolymers have a structure in accordance with formula (1):
+<img> id-US20180117162A1-20180503-C00002.TIF </img>
 wherein
 d' is a positive number having an average value of 100 to 600,
 L' and L″ are independent divalent linking groups, wherein L' and/or L″ comprises a divalent *-N(H)-* group,
@@ -50,11 +52,14 @@ Za is a first end group selected from the group consisting of hydrogen and group
 Zb is a second end group selected from the group consisting of hydrogen and groups comprising 1 to about 15 carbons.
 Preferably the vitamin-bearing subunits are non-charged. In an embodiment, each Pa consists essentially of 1 to about 10 vitamin-bearing subunits.
 The *-N(H)-* group of L' and/or L″ is capable of donating an electron pair of the nitrogen and/or the hydrogen to form a hydrogen bond. Exemplary non-limiting nitrogen-bearing L' and/or L″ groups include the following:
+<img> id-US20180117162A1-20180503-C00003.TIF </img>
 In the above linking groups, atomic center labeled 1 is linked to the hydrophilic block, and atomic center labeled 2 of the linking group is linked to an end unit of one of the Pa groups. It should be understood that the nitrogen of linking group *-NH-*, when present, is linked to Pa and the hydrophilic block.
 Herein, an atomic center shown linked to an asterisk (*-) indicates the atomic center is covalently linked to another unspecified atomic center of a chemical structure represented by the asterisk. The bond to an asterisk is also referred to herein as a “starred bond”.
 L' or L″, but not both, can be *-O-* or a divalent alkyleneoxy group having 2-10 carbons (e.g., ethyleneoxy (*-CH2CH2O-*), propoxy, butoxy, and the like). Preferably, each of L' and L″ contains an *-NH-* group capable of donating an electron pair and/or hydrogen to form a hydrogen bond. In an embodiment, L' is *-N(H)-* and L″ is
+<img> id-US20180117162A1-20180503-C00004.TIF </img>
 wherein carbon 1 is linked the terminal oxygen of hydrophilic block and nitrogen 2 is linked to one of the Pa groups. In another embodiment, L' and L″ comprise an *-N(H)-* group, which is a portion of a carbamate group.
 The vitamin-bearing subunits of Pa can have a structure in accordance with formula (2):
+<img> id-US20180117162A1-20180503-C00005.TIF </img>
 wherein
 the carbonate backbone atoms are numbered 1 to 6,
 Ld is a single bond or a divalent linking group comprising 1 to about 15 carbons,
@@ -67,21 +72,25 @@ t and t' cannot both be zero.
 More specific vitamin-bearing subunits comprise a covalently bound form of a vitamin selected from the group consisting of vitamin D compounds, vitamin E compounds, and combinations thereof.
 Still more specific vitamin-bearing subunits comprise a covalently bound form of a vitamin selected from the group consisting of alpha-tocopherol, beta-tocopherol, gamma-tocopherol, delta-tocopherol, alpha-tocotrienol, beta-tocotrienol, gamma-tocotrienol, delta-tocotrienol, and combinations thereof.
 Even more specific vitamin-bearing subunits comprise a carbonate backbone portion and a side chain linked to the backbone portion, the side chain comprising a covalently bound form of alpha-tocopherol (a vitamin E compound):
+<img> id-US20180117162A1-20180503-C00006.TIF </img>
 a known antioxidant. The introduction of hydrophobic alpha-tocopherol moieties into the A block has a significant influence on the threshold concentration for gelation and the rheological properties of the hydrogels. Moreover, alpha-tocopherol and poly(ethylene glycol) (PEG) are biocompatible and FDA-approved chemical compounds, which gives the hydrogel system added advantage in the evaluation of its use in a pharmaceutical application.
 The covalently bound form of the vitamin can be present as a single stereoisomer or as a mixture of stereoisomers.
 Za and Zb are independent end groups. In an embodiment, each of Za and Zb is an acyl group (e.g., acetyl, benzoyl). In another embodiment, Za is hydrogen and Zb is hydrogen.
 A more specific vitamin-bearing subunit has a structure in accordance with formula (3):
+<img> id-US20180117162A1-20180503-C00007.TIF </img>
 wherein
 Ld is a single bond or a divalent linking group comprising 1 to about 15 carbons,
 each V' is an independent moiety comprising a covalently bound form of a vitamin, and
 each R″ is an independent monovalent radical selected from the group consisting of hydrogen and alkyl groups comprising 1 to 6 carbons.
 An even more specific vitamin-bearing subunit has a structure in accordance with formula (4):
+<img> id-US20180117162A1-20180503-C00008.TIF </img>
 wherein
 Le is a single bond or a divalent linking group comprising 1 to about 14 carbons,
 V' is a moiety comprising a covalently bound form of a vitamin, and
 R″ is a monovalent radical selected from the group consisting of hydrogen and alkyl groups comprising 1 to 6 carbons.
 In an embodiment, Le comprises 1 to about 10 carbons.
 Another more specific vitamin-bearing subunit has a structure in accordance with formula (5):
+<img> id-US20180117162A1-20180503-C00009.TIF </img>
 wherein
 Lf is a single bond or a divalent linking group comprising 1 to about 14 carbons,
 V' is a moiety comprising a covalently bound form of a vitamin,
@@ -89,6 +98,7 @@ each R' is an independent monovalent radical selected from the group consisting 
 R″ is a monovalent radical selected from the group consisting of hydrogen and alkyl groups comprising 1 to 6 carbons.
 In an embodiment, Lf comprises 1 to about 10 carbons.
 A more specific gel-forming block copolymer has a structure according to formula (1-A):
+<img> id-US20180117162A1-20180503-C00010.TIF </img>
 wherein
 atoms numbered 1 to 6 of the carbonate subunits enclosed by parentheses are backbone atoms of the block copolymer,
 d' is a positive number having an average value of 100 to 600,
@@ -105,6 +115,7 @@ Za is a first end group selected from the group consisting of hydrogen and group
 Zb is a second end group selected from the group consisting of hydrogen and groups comprising 1 to 15 carbons.
 In an embodiment, each R' is hydrogen, each R″ is methyl or ethyl, each t' is 1, each t″ is 1, Za is hydrogen, and Zb is hydrogen.
 Another more specific gel-forming block copolymer has a structure according to formula (1-B):
+<img> id-US20180117162A1-20180503-C00011.TIF </img>
 wherein
 atoms numbered 1 to 6 of the carbonate subunits enclosed by parentheses are backbone atoms of the block copolymer,
 d' is a positive number having an average value of 100 to 600,
@@ -118,6 +129,7 @@ Za is a first end group selected from the group consisting of hydrogen and group
 Zb is a second end group selected from the group consisting of hydrogen and groups comprising 1 to about 15 carbons.
 In an embodiment, each R″ is methyl or ethyl, Za is hydrogen, and Zb is hydrogen.
 Another more specific gel-forming block copolymer has a structure according to formula (1-C):
+<img> id-US20180117162A1-20180503-C00012.TIF </img>
 wherein
 atoms numbered 1 to 6 of the carbonate subunits enclosed by parentheses are backbone atoms of the block copolymer,
 d' is a positive number having an average value of 100 to 600,
@@ -130,6 +142,7 @@ Za is a first end group selected from the group consisting of hydrogen and group
 Zb is a second end group selected from the group consisting of hydrogen and groups comprising 1 to about 15 carbons.
 In an embodiment, each R″ is methyl.
 Another more specific gel-forming block copolymer has a structure according to formula (1-D):
+<img> id-US20180117162A1-20180503-C00013.TIF </img>
 wherein
 atoms numbered 1 to 6 of the carbonate subunits enclosed by parentheses are backbone atoms of the block copolymer,
 d' is a positive number having an average value of 100 to 600,
@@ -143,6 +156,7 @@ Zb is a second end group selected from the group consisting of hydrogen and grou
 In an embodiment, each R″ is methyl. In another embodiment, d' has an average value in a range of 200 to 500. In another embodiment, d' has an average value in a range of 200 to 500.
 A preferred method of preparing the gel-forming block copolymers utilizes an organocatalyzed ring opening polymerization of a cyclic carbonate monomer that comprises a covalently bound form of a vitamin, referred to as a vitamin-bearing monomer. The ring opening polymerization (ROP) can be initiated by a ROP polymeric initiator comprising a poly(ethylene oxide) chain and at least one end group comprising a nitrogen, which after the ROP is present in an *-N(H)-* group capable of forming a hydrogen bond by way of an electron pair of the nitrogen and/or by way of the hydrogen covalently linked to the nitrogen. The ROP polymeric initiator can have nucleophilic alcohol, amine, and/or thiol group for initiating the ROP. The ROP polymeric initiator can have a number average molecular weight (Mn) of about 5000 to about 25,000, more particularly 10,000 to about 20,000. The vitamin-bearing monomers can also be used for the preparation of the antimicrobial cationic copolymers described further below.
 The vitamin bearing monomers can have a structure according to formula (6):
+<img> id-US20180117162A1-20180503-C00014.TIF </img>
 wherein
 the ring atoms are shown numbered 1 to 6,
 Ld is a single bond or a divalent linking group comprising 1 to about 15 carbons,
@@ -154,6 +168,7 @@ t' is a positive integer having a value of 0 to 2, and
 t and t' cannot both be zero.
 Ring opening polymerization of vitamin-bearing monomers of formula (6) produces an initial polycarbonate having a vitamin-bearing subunit of formula (2) described further above.
 More specific vitamin bearing monomers can have a structure according to formula (7):
+<img> id-US20180117162A1-20180503-C00015.TIF </img>
 wherein
 the ring atoms are shown numbered 1 to 6,
 Ld is a single bond or a divalent linking group comprising 1 to about 15 carbons,
@@ -161,6 +176,7 @@ V' is a moiety comprising a covalently bound form of a vitamin, and
 R″ is a monovalent radical selected from the group consisting of hydrogen and alkyl groups comprising 1 to 6 carbons.
 Ring opening polymerization of vitamin-bearing monomers of formula (7) produces an initial polycarbonate having a vitamin-bearing subunit of formula (3) described further above. In an embodiment, R″ at carbon 5 is selected from the group consisting of hydrogen, methyl, and ethyl.
 Other more specific vitamin-bearing monomers can have a structure according to formula (8):
+<img> id-US20180117162A1-20180503-C00016.TIF </img>
 wherein
 ring atom 5 is labeled,
 Le is a single bond or a divalent linking group comprising 1 to about 14 carbons,
@@ -169,10 +185,15 @@ R″ is a monovalent radical selected from the group consisting of hydrogen and 
 Ring opening polymerization of vitamin-bearing monomers of formula (8) produces an initial polycarbonate having a vitamin-bearing subunit of formula (4) described further above.
 The cyclic carbonate monomers used in the ROP can be stereospecific or non-stereospecific.
 An exemplary compound of formula (8) is MTC-VitE:
+<img> id-US20180117162A1-20180503-C00017.TIF </img>
 having a pendent alpha-tocopheryl group. MTC-VitE undergoes a ring opening polymerization forming a carbonate subunit having the structure:
+<img> id-US20180117162A1-20180503-C00018.TIF </img>
 Another compound of formula (8) is MTC-VitD2:
+<img> id-US20180117162A1-20180503-C00019.TIF </img>
 which has a pendent ergocalciferyl group. MTC-VitD2 undergoes a ring opening polymerization forming a carbonate subunit having the structure:
+<img> id-US20180117162A1-20180503-C00020.TIF </img>
 Other vitamin-bearing monomers can have a structure according to formula (9):
+<img> id-US20180117162A1-20180503-C00021.TIF </img>
 wherein
 the ring atoms are shown numbered 1 to 6,
 Lf is a single bond or a divalent linking group comprising 1 to about 14 carbons,
@@ -194,6 +215,7 @@ Z″ is preferably linked to a backbone oxygen of P'. When Z″ is hydrogen, the
 The first cationic carbonate subunits preferably comprise a cationic side chain having 13 to about 20 carbons, even more preferably 15 to about 20 carbons.
 In an embodiment, P' consists essentially of 25 mol % to about 75 mol % of the first cationic carbonate subunits and about 75 mol % to about 25 mol % of the second cationic carbonate subunits. In another embodiment, P' consists essentially of 25 mol % to about 50 mol % of the first cationic carbonate subunits and about 75 mol % to about 25 mol % of the second cationic carbonate subunits.
 The cationic carbonate subunits can have a structure according to formula (11):
+<img> id-US20180117162A1-20180503-C00022.TIF </img>
 wherein
 atoms labeled 1-6 are atoms of the polymer backbone,
 La-Q'(Ra)u' is a C6-C25 cationic side chain comprising a quaternary ammonium group and/or quaternary phosphonium group, wherein La is a divalent linking group comprising at least 3 carbons, Q' is a tetravalent positive-charged nitrogen or phosphorus, u' has a value of 1 to 3, each Ra is an independent radical having a valency of 1 to 3, and each Ra comprises at least 1 carbon,
@@ -206,6 +228,7 @@ X' is a negative-charged ion.
 In an embodiment, t and t' are both 1, each R' is hydrogen, and R″ is methyl or ethyl.
 In a cationic polymer of formula (10) whose cationic carbonate subunits are of formula (11), each of the first cationic carbonate subunits has a cationic side chain La-Q'(Ra)u' comprising 13 to about 25 carbons, and each of the second cationic carbonate subunits has a cationic side chain La-Q'(Ra)u' comprising 6 to 12 carbons.
 More specific cationic subunits have a structure in accordance with formula (12):
+<img> id-US20180117162A1-20180503-C00023.TIF </img>
 wherein
 Lb-Q'(Ra)u' is a C5-C24 cationic moiety comprising a quaternary ammonium group and/or quaternary phosphonium group, wherein Lb is a divalent linking group comprising at least 2 carbons, Q' is a tetravalent positive-charged nitrogen or phosphorus, u' has a value of 1 to 3, each Ra is an independent radical having a valency of 1 to 3, and each Ra comprises at least 1 carbon,
 R″ is a monovalent radical selected from the group consisting of hydrogen, halogens, and alkyl groups comprising 1 to 6 carbons, and
@@ -213,6 +236,7 @@ X' is a negative-charged ion.
 In this instance, the cationic side chain group is C(═O)O-Lb-Q'(Ra)u' and C(═O)O-Lb corresponds to divalent linking group La of formula (11). The cationic side chain is linked to backbone carbon labeled 5.
 In a cationic polymer of formula (10) whose cationic carbonate subunits are of formula (12), each of the first cationic carbonate subunits has a cationic side chain C(═O)O-Lb-Q'(Ra)u' comprising 13 to about 25 carbons, and each of the second cationic carbonate subunits has a cationic side chain C(═O)O-Lb-Q'(Ra)u' comprising 6 to 12 carbons.
 Another more specific cationic subunit has a structure in accordance with formula (13):
+<img> id-US20180117162A1-20180503-C00024.TIF </img>
 wherein
 Lc-Q'(Ra)u' is a C5-C24 cationic moiety comprising a quaternary ammonium group and/or quaternary phosphonium group, wherein L is a divalent linking group comprising at least 2 carbons, Q' is a tetravalent positive-charged nitrogen or phosphorus, u' has a value of 1 to 3, and each Ra is an independent radical having a valency of 1 to 3, wherein each Ra comprises at least 1 carbon,
 each R' is an independent monovalent radical selected from the group consisting of hydrogen, halogens, methyl, and ethyl,
@@ -221,6 +245,7 @@ X' is a negative-charged ion.
 In this instance the cationic side chain is N(H)C(═O)O-Lc-Q'(Ra)u' and N(H)C(═O)O-Lc corresponds to divalent linking group La of formula (11). The cationic side chain is linked to backbone carbon labeled 5. Serinol and/or threoninol provide useful starting materials for the formation of subunits of formula (13).
 In a cationic polymer of formula (10) whose cationic carbonate subunits are of formula (13), each of the first cationic carbonate subunits has a cationic side chain N(H)C(═O)O-Lc-Q'(Ra)u' comprising 13 to about 25 carbons, and each of the second cationic carbonate subunits has a cationic side chain N(H)C(═O)O-Lc-Q'(Ra)u' comprising 6 to 12 carbons.
 Using the cationic subunit of formula (11), the cationic polymers of formula (10) can have a structure in accordance with formula (14):
+<img> id-US20180117162A1-20180503-C00025.TIF </img>
 wherein:
 n' represents the number of cationic carbonate subunits, wherein n' has a value of about 5 to about 45,
 Z' is a monovalent C1-C15 first end group,
@@ -241,6 +266,7 @@ In an embodiment, Z″ is hydrogen. In another embodiment, the first cationic ca
 As more specific non-limiting examples, Z' can be benzyloxy and/or 4-methylbenzyloxy, and Z″ can be hydrogen and/or acetyl.
 The end groups Z' and/or Z″, and end groups described below, can enhance antimicrobial efficacy and or stabilize the cationic polymer from potential unwanted side reactions (e.g., chain scission) caused by, for example, an unblocked nucleophilic hydroxy end group. Bulkier end groups can also provide hydrophobicity allowing control of the amphiphilic properties of the cationic polymers.
 The antimicrobial cationic polymers can have a structure in accordance with formula (15):
+<img> id-US20180117162A1-20180503-C00026.TIF </img>
 wherein
 n' represents the number of cationic carbonate subunits, and n' has a value of about 5 to about 45,
 Y' is a monovalent first end group comprising a covalently bound form of a biologically active compound selected from the group consisting of steroids, non-steroid hormones, vitamins, and drugs,
@@ -260,6 +286,7 @@ The biologically active compound can be stereospecific or non-stereospecific. In
 In another embodiment, Y' comprises a covalently bound form of a vitamin, (e.g., alpha-tocopherol (a vitamin E compound) and/or ergocalciferol (vitamin D2)).
 Y' can have a structure S'-L'-* wherein S' is a steroid group and L' is a single bond or any suitable divalent linking group comprising 1 to about 10 carbons. In this instance, L' links S' to the carbonyl end of the polycarbonate backbone.
 The antimicrobial cationic polymers can have a structure in accordance with formula (16):
+<img> id-US20180117162A1-20180503-C00027.TIF </img>
 wherein
 n' represents the number of cationic carbonate subunits, and n' has a value of about 5 to about 45,
 W' is a monovalent C1-C15 first end group,
@@ -286,6 +313,7 @@ P″ is a polymer chain consisting essentially of I) about 85 mol % to 99.9 mol 
 about 25% to 100% of the cationic carbonate subunits of the cationic polymer, designated first cationic carbonate subunits, have a cationic side chain La-Q'(Ra)u' comprising 10 to about 25 carbons, and
 0% to about 75% of the cationic carbonate subunits of the cationic polymer, designated second cationic carbonate subunits, have a cationic side chain La-Q'(Ra)u' comprising 6 to 9 carbons.
 More specific antimicrobial cationic polymers of formula (17) can have a structure in accordance with formula (18):
+<img> id-US20180117162A1-20180503-C00028.TIF </img>
 wherein
 n' represents the number of cationic carbonate subunits, wherein n' has a value greater than 0,
 m' represents the number of carbonate subunits, wherein m' has a value greater than 0,
@@ -310,57 +338,92 @@ La and Q'(Ra)u' of the first cationic carbonate subunits of formula (18) can ind
 H' can comprise a covalently bound form of a vitamin E compound, vitamin D compound, or combinations thereof. Preferably, the vitamin compound is alpha-tocopherol (a vitamin E compound), ergocalciferol (vitamin D2), or a combination thereof.
 The discussion that follows applies generally to all of the above-described cationic polymers.
 Exemplary non-limiting divalent La groups include:
+<img> id-US20180117162A1-20180503-C00029.TIF </img>
 and combinations thereof. In these examples, the starred bonds of the carbonyl and carbamate nitrogen are linked to the polycarbonate backbone (e.g., the backbone carbon labeled 5 in the above cationic carbonate subunits), and the starred bonds of the methylene groups are linked to Q'.
 Together, La and Q'(Ra)u' form a quaternary ammonium group or a quaternary phosphonium group, meaning the positive-charged heteroatom Q' is bonded to a carbon of La and up to three independent Ra groups.
 Each Ra comprises at least one carbon. Each Ra can be a monovalent hydrocarbon substituent (e.g., methyl, ethyl, etc.), in which case u' is 3.
 An Ra can form a ring with Q', in which case the Ra of the ring has a valency of 2. For example, Q'(Ra)u' can be:
+<img> id-US20180117162A1-20180503-C00030.TIF </img>
 wherein the starred bond is linked to La, Q' is nitrogen, and u' is 2. In this example, a first Ra is a divalent butylene group (*-(CH2)4-*), and a second Ra is methyl.
 Ra can form a multi-cyclic moiety with Q'. For example Q'(Ra)u' can be:
+<img> id-US20180117162A1-20180503-C00031.TIF </img>
 wherein the starred bond is linked to La, Q' is nitrogen, u' is 1, and Ra is the fragment
+<img> id-US20180117162A1-20180503-C00032.TIF </img>
 having a valency of 3.
 The Ra groups can also independently comprise oxygen, nitrogen, sulfur, and/or another heteroatom. In an embodiment, each Ra is an independent monovalent branched or unbranched hydrocarbon substituent.
 Exemplary non-limiting Ra groups include methyl, ethyl, n-propyl, iso-propyl, n-butyl, iso-butyl, n-pentyl, n-hexyl, n-heptyl, n-octyl, and benzyl.
 Exemplary non-limiting Q'(Ra)u' groups include:
+<img> id-US20180117162A1-20180503-C00033.TIF </img>
 (trimethyl ammonium),
+<img> id-US20180117162A1-20180503-C00034.TIF </img>
 (dimethyl ethyl ammonium),
+<img> id-US20180117162A1-20180503-C00035.TIF </img>
 (dimethyl butyl ammonium),
+<img> id-US20180117162A1-20180503-C00036.TIF </img>
 (dimethyl hexyl ammonium),
+<img> id-US20180117162A1-20180503-C00037.TIF </img>
 (dimethyl octyl ammonium),
+<img> id-US20180117162A1-20180503-C00038.TIF </img>
 (dimethyl benzyl ammonium),
+<img> id-US20180117162A1-20180503-C00039.TIF </img>
 (methyl imidazolium),
+<img> id-US20180117162A1-20180503-C00040.TIF </img>
 (ethyl imidazolium),
+<img> id-US20180117162A1-20180503-C00041.TIF </img>
 (butyl imidazolium),
+<img> id-US20180117162A1-20180503-C00042.TIF </img>
 (pyridinium),
+<img> id-US20180117162A1-20180503-C00043.TIF </img>
 (dimethyl cyclohexyl ammonium),
+<img> id-US20180117162A1-20180503-C00044.TIF </img>
 (trimethyl phosphonium),
+<img> id-US20180117162A1-20180503-C00045.TIF </img>
 (dimethyl ethyl phosphonium),
+<img> id-US20180117162A1-20180503-C00046.TIF </img>
 (dimethyl butyl phosphonium),
+<img> id-US20180117162A1-20180503-C00047.TIF </img>
 (dimethyl hexyl phosphonium),
+<img> id-US20180117162A1-20180503-C00048.TIF </img>
 methyl octyl phosphonium),
+<img> id-US20180117162A1-20180503-C00049.TIF </img>
 (dimethyl benzyl phosphonium),
+<img> id-US20180117162A1-20180503-C00050.TIF </img>
 (dimethyl cyclohexyl phosphonium), and combinations thereof.
 In the foregoing examples, it should be understood that the positive-charged nitrogen and phosphorus are tetravalent, and the starred bond is linked to a carbon of La. The Q' groups can be present in the cationic polymer singularly or in combination.
 Exemplary negative-charged ions X' include halides (e.g., chloride, bromide, and iodide), carboxylates (e.g., acetate and benzoate), and/or sulfonates (e.g., tosylate). The X' ions can be present singularly or in combination.
 Exemplary non-limiting cationic carbonate subunits include the following:
+<img> id-US20180117162A1-20180503-C00051.TIF </img><img> id-US20180117162A1-20180503-C00052.TIF </img><img> id-US20180117162A1-20180503-C00053.TIF </img><img> id-US20180117162A1-20180503-C00054.TIF </img><img> id-US20180117162A1-20180503-C00055.TIF </img><img> id-US20180117162A1-20180503-C00056.TIF </img><img> id-US20180117162A1-20180503-C00057.TIF </img>
 and combinations thereof, wherein X− is a negative-charged ion associated ionically with the cation.
 In general, antimicrobial activity of the cationic polymers is favored by spacing the positive-charged heteroatom Q' from the polycarbonate backbone in 25 mol % to 100 mol % of the cationic carbonate subunits (first cationic carbonate subunits) by the shortest path having 6 or more contiguously linked atomic centers from the polymer backbone. The shortest path is defined as the lowest number of contiguously linked atomic centers joining Q' to the polymer backbone. The contiguously linked atomic centers should be understood to be between the polycarbonate backbone and Q'. For example, if La-Q' is:
+<img> id-US20180117162A1-20180503-C00058.TIF </img>
 then the shortest path from the polymer backbone to Q' has 5 contiguously linked atomic centers, as numbered. The shortest path does not include the carbonyl oxygen. As another example, if La-Q' is
+<img> id-US20180117162A1-20180503-C00059.TIF </img>
 then the shortest path from the polymer backbone to Q' has 6 contiguously linked atomic centers, as numbered. The shortest path does not include the amide hydrogen and the carbonyl oxygen. As another example, if La-Q' is
+<img> id-US20180117162A1-20180503-C00060.TIF </img>
 then the shortest path from the polymer backbone to Q' has 8 contiguously linked atomic centers, as numbered. The shortest path does not include two carbons of the aromatic ring and the carbonyl oxygen. As another example, if La-Q' is
+<img> id-US20180117162A1-20180503-C00061.TIF </img>
 then the shortest path from the polymer backbone to Q' has 7 contiguously linked atomic centers, as numbered. The shortest path does not include three carbons of the aromatic ring and the carbonyl oxygen. Finally, as another example, if La-Q' is
+<img> id-US20180117162A1-20180503-C00062.TIF </img>
 then the shortest path from the polymer backbone to Q' has 4 contiguously linked atomic centers, as numbered. The shortest path does not include the aromatic ring and the carbonyl oxygen.
 Preferably, Q' of the first carbonate subunits is spaced from the polymer backbone by the shortest path having 6 to about 15 contiguously linked atomic centers, and more preferably 8 to about 15 contiguously linked atomic centers.
 The steroid group S' can originate from a naturally occurring human steroid, non-human steroid, and/or a synthetic steroid compound. Herein, a steroid group comprises a tetracyclic ring structure:
+<img> id-US20180117162A1-20180503-C00063.TIF </img>
 wherein the 17 carbons of the ring system are numbered as shown. The steroid group can comprise one or more additional substituents attached to one or more of the numbered ring positions. Each ring of the tetracyclic ring structure can independently comprise one or more double bonds.
 Exemplary steroid groups include cholesteryl, from cholesterol, shown below without stereochemistry:
+<img> id-US20180117162A1-20180503-C00064.TIF </img>
 Non-limiting stereospecific structures of cholesteryl include
+<img> id-US20180117162A1-20180503-C00065.TIF </img>
 where the R,S stereoconfiguration of each stereospecific asymmetric center is labeled.
 Additional non-limiting steroid groups include
+<img> id-US20180117162A1-20180503-C00066.TIF </img><img> id-US20180117162A1-20180503-C00067.TIF </img>
 The starred bonds represent attachment points. For example, the starred bond of each of the above steroid groups can be linked to a terminal carbonyl group of the polycarbonate backbone by way of a divalent linking group L'. Alternatively, the starred bond of the steroid group can be directly linked to a terminal carbonyl group of the polycarbonate backbone (i.e., L' can be a single bond).
 Those of skill in the art will recognize that each asymmetric center of the steroid groups can be present as the R stereoisomer, S stereoisomer, or as a mixture of R and S stereoisomers. Additional steroid groups S' include the various stereoisomers of the above structures. The cationic polymer can comprise a steroid group as a single stereoisomer or as a mixture of stereoisomers.
 In an embodiment, S' is cholesteryl group, wherein the cholesteryl group is a mixture of isomers
+<img> id-US20180117162A1-20180503-C00068.TIF </img>
 indicated by the structure
+<img> id-US20180117162A1-20180503-C00069.TIF </img>
 More specific steroid-containing cationic polymers have a structure in accordance with formula (19):
+<img> id-US20180117162A1-20180503-C00070.TIF </img>
 wherein
 n' represents the number of cationic carbonate subunits, and has a value of about 5 to about 45,
 S'-L' is a first end group, wherein L' is a single bond or a divalent linking group comprising 1 to about 10 carbons, and S' comprises a covalently bound form of a steroid,
@@ -379,6 +442,7 @@ La and Q'(Ra)u' of the first cationic carbonate subunits of formula (19) can ind
 In formula (19), when L' is a single bond, S' is linked directly to the terminal carbonyl group of the polycarbonate backbone. In an embodiment, L' is a divalent linking group comprising an alkylene oxide selected from the group consisting of ethylene oxide (*-CH2CH2O-*), propylene oxide *-CH2CH2CH2O-*, and/or tri(ethylene oxide) (*-CH2CH2OCH2CH2OCH2CH2O-*), wherein the starred bond of the oxygen is linked to the terminal carbonyl group of the polycarbonate backbone and the starred bond of the carbon is linked to S'.
 The steroid-containing cationic polymers can comprise one or a combination of the cationic carbonate subunits described further above.
 The steroid-containing cationic polymers can have a structure in accordance with formula (20):
+<img> id-US20180117162A1-20180503-C00071.TIF </img>
 wherein
 n' represents the number of cationic carbonate subunits, and has a value of about 5 to about 45,
 Y' is a monovalent C1-C15 first end group,
@@ -407,6 +471,7 @@ about 25% to 100% of all the cationic carbonate subunits of the cationic polymer
 La and Q'(Ra)u' of the first cationic carbonate subunits of formula (21) can individually have 3 to about 22 carbons, with the proviso that La-Q'(Ra)u' has a total of 10 to about 25 carbons. In an embodiment, each of the first cationic carbonate subunits of formula (21) has a cationic side chain La-Q'(Ra)u' comprising 13 to about 25 carbons, and each of the second cationic carbonate subunits has a cationic side chain La-Q'(Ra)u' comprising 6 to 12 carbons.
 In an embodiment, each Zc is hydrogen. In another embodiment, the positive-charged heteroatom Q' of the first cationic carbonate subunits is spaced from the backbone portion by the shortest path having 6 to about 15 contiguously linked atomic centers between Q' and the backbone portion.
 More specific cationic polymers of formula (21) have a structure according to formula (22):
+<img> id-US20180117162A1-20180503-C00072.TIF </img>
 wherein
 n' represents the total number of cationic carbonate subunits of the cationic polymer, and has a value of about 5 to about 45,
 C' is a C2-C15 divalent linking group joining polymer chains Pb, wherein C' comprises i) a first heteroatom linked to a first polymer chain Pb, wherein the first heteroatom is selected from the group consisting of nitrogen, oxygen, and sulfur, and ii) a second heteroatom linked to a second polymer chain Pb, wherein the second heteroatom is selected from the group consisting of nitrogen, oxygen, and sulfur,
@@ -436,6 +501,7 @@ La and Q'(Ra)u' of the first cationic carbonate subunits of formula (23) can ind
 The positive-charged heteroatom Q' of the first cationic carbonate subunits can be spaced from the backbone portion by the shortest path having 6 to about 18 contiguously linked atomic centers between Q' and the backbone portion.
 In an embodiment, C″ comprises a covalently bound form of cholesterol. In another embodiment, C″ comprises a covalently bound form of a vitamin selected from the group consisting of alpha-tocopherol, ergocalciferol, and combinations thereof.
 More specific cationic polymers of formula (23) have a structure according to formula (24):
+<img> id-US20180117162A1-20180503-C00073.TIF </img>
 wherein
 n' represents the total number of cationic carbonate subunits of the cationic polymer, and has a value of about 5 to about 45,
 C″ is a divalent linking group joining polymer chains Pb, wherein C″ comprises i) a first heteroatom linked to a first polymer chain Pb, wherein the first heteroatom is selected from the group consisting of nitrogen, oxygen, and sulfur, ii) a second heteroatom linked to a second polymer chain Pb, wherein the second heteroatom is selected from the group consisting of nitrogen, oxygen, and sulfur, and iii) a covalently bound form of a compound selected from the group consisting of steroids, non-steroid hormones, vitamins, and drugs,
@@ -462,6 +528,7 @@ about 25% to 100% of the cationic carbonate subunits of the cationic polymer, de
 0% to about 75% of the cationic carbonate subunits of the cationic polymer, designated second cationic carbonate subunits, have a cationic side chain group comprising 6 to 9 carbons.
 La and Q'(Ra)u' of the first cationic carbonate subunits of formula (25) can individually have 3 to about 22 carbons, with the proviso that La-Q'(Ra)u' has a total of 10 to about 25 carbons. In an embodiment, each of the first cationic carbonate subunits of formula (25) has a cationic side chain comprising 13 to about 25 carbons, and each of the second cationic carbonate subunits has a cationic side chain comprising 6 to 12 carbons.
 The cationic polymers of formula (25) can have a structure according to formula (26):
+<img> id-US20180117162A1-20180503-C00074.TIF </img>
 wherein
 n' represents the total number of cationic carbonate subunits, wherein n' has a value greater than 0,
 m' represents the total number of carbonate subunits, wherein m' has a value greater than 0,
@@ -495,6 +562,7 @@ about 25% to 100% of all the cationic carbonate subunits of the cationic polymer
 La and Q'(Ra)u' of the first cationic carbonate subunits of formula (27) can individually have 3 to about 22 carbons, with the proviso that La-Q'(Ra)u' has a total of 10 to about 25 carbons. In an embodiment, each of the first cationic carbonate subunits of formula (27) has a cationic side chain La-Q'(Ra)u' comprising 13 to about 25 carbons, and each of the second cationic carbonate subunits has a cationic side chain La-Q'(Ra)u' comprising 6 to 12 carbons.
 Yc and/or Yd can comprise a covalently bound form of a steroid and/or a vitamin.
 More specific cationic polymers of formula (27) have a structure according to formula (28):
+<img> id-US20180117162A1-20180503-C00075.TIF </img>
 wherein
 n' represents the total number of cationic carbonate subunits of the cationic polymer, and has a value of about 5 to about 45,
 C' is a C2-C15 divalent linking group joining polymer chains Pb, wherein C' comprises i) a first heteroatom linked to a first polymer chain Pb, wherein the first heteroatom is selected from the group consisting of nitrogen, oxygen, and sulfur, and ii) a second heteroatom linked to a second polymer chain Pb, wherein the second heteroatom is selected from the group consisting of nitrogen, oxygen, and sulfur,
@@ -514,6 +582,7 @@ about 25% to 100% of the cationic carbonate subunits of the cationic polymer, de
 La and Q'(Ra)u' of the first cationic carbonate subunits of formula (28) can individually have 3 to about 22 carbons, with the proviso that La-Q'(Ra)u' has a total of 10 to about 25 carbons. In an embodiment, each of the first cationic carbonate subunits of formula (28) has a cationic side chain La-Q'(Ra)u' comprising 13 to about 25 carbons, and each of the second cationic carbonate subunits has a cationic side chain La-Q'(Ra)u' comprising 6 to 12 carbons.
 Cation-Forming Cyclic Carbonate Monomers
 A preferred method of preparing the disclosed cationic polymers utilizes a cyclic carbonate monomer capable of forming a cationic moiety before or after the polymerization. These are referred to as cation-forming monomers, which have the formula (29):
+<img> id-US20180117162A1-20180503-C00076.TIF </img>
 wherein
 the ring atoms are shown numbered 1 to 6,
 La is a divalent linking group comprising at least 3 carbons,
@@ -527,6 +596,7 @@ The cation-forming monomers of formula (29) have a ring substituent La-E'. This 
 The cation-forming monomers can be stereospecific or non-stereospecific.
 In an embodiment, t and t' of formula (29) are each 1, each R' at carbon 4 is hydrogen, each R' at carbon 6 is hydrogen, and R″ at carbon 5 is selected from the group consisting of hydrogen, methyl, and ethyl.
 Ring opening polymerization of cation-forming monomers of formula (29) produces an initial polycarbonate having a subunit according to formula (30):
+<img> id-US20180117162A1-20180503-C00077.TIF </img>
 wherein
 backbone atoms are shown numbered 1 to 6,
 La is a divalent linking group comprising at least 3 carbons,
@@ -537,18 +607,21 @@ t is a positive integer having a value of 0 to 2,
 t' is a positive integer having a value of 0 to 2, and
 t and t' cannot both be zero.
 More specific cation-forming monomers have the formula (31):
+<img> id-US20180117162A1-20180503-C00078.TIF </img>
 wherein
 ring atom 5 is labeled,
 Lb is a divalent linking group comprising at least 2 carbons,
 E' is a substituent capable of reacting to produce a cationic moiety Q'(Ra)u' linked to Lb, wherein Q' is a tetravalent positive-charged nitrogen or phosphorus, u' has a value of 1 to 3, each Ra is an independent radical having a valency of 1 to 3, wherein each Ra comprises at least 1 carbon, and together Q'(Ra)u' and Lb comprise 5 to about 24 carbons, and
 R″ is a monovalent radical selected from the group consisting of hydrogen, halogens, and alkyl groups comprising 1 to 6 carbons.
 Ring opening polymerization of cation-forming monomers of formula (31) produces a polycarbonate having a subunit according to formula (32):
+<img> id-US20180117162A1-20180503-C00079.TIF </img>
 wherein
 ring atom 5 is labeled,
 Lb is a divalent linking group comprising at least 2 carbons,
 E' is a substituent capable of reacting to produce a cationic moiety Q'(Ra)u' linked to Lb, wherein Q' is a tetravalent positive-charged nitrogen or phosphorus, u' has a value of 1 to 3, each Ra is an independent radical having a valency of 1 to 3, wherein each Ra comprises at least 1 carbon, and together Q'(Ra)u' and Lb comprise 5 to about 24 carbons, and
 R″ is a monovalent radical selected from the group consisting of hydrogen, halogens, and alkyl groups comprising 1 to 6 carbons.
 The cation-forming monomers can have the formula (33):
+<img> id-US20180117162A1-20180503-C00080.TIF </img>
 wherein
 ring atom 5 is labeled,
 Lc is a divalent linking group comprising at least 2 carbons,
@@ -556,6 +629,7 @@ E' is a substituent capable of reacting to produce a cationic moiety Q'(Ra)u' li
 each R' is an independent monovalent radical selected from the group consisting of hydrogen, halogens, methyl, and ethyl, and
 R″ is a monovalent radical selected from the group consisting of hydrogen, halogens, and alkyl groups comprising 1 to 6 carbons.
 Ring opening polymerization of cation-forming monomers of formula (33) produces an initial polycarbonate having a subunit according to formula (34):
+<img> id-US20180117162A1-20180503-C00081.TIF </img>
 wherein
 ring atom 5 is labeled,
 Lc is a divalent linking group comprising at least 2 carbons,
@@ -570,12 +644,19 @@ TABLE 1
 <header>
 
 </header>
+<img> id-US20180117162A1-20180503-C00082.TIF </img>
+<img> id-US20180117162A1-20180503-C00083.TIF </img>
+<img> id-US20180117162A1-20180503-C00084.TIF </img>
+<img> id-US20180117162A1-20180503-C00085.TIF </img>
+<img> id-US20180117162A1-20180503-C00086.TIF </img>
+<img> id-US20180117162A1-20180503-C00087.TIF </img>
 </table>
 Ring Opening Polymerizations
 The reaction mixture used to prepare the disclosed gel-forming block copolymers by ring opening polymerization (ROP) comprises a vitamin-bearing cyclic carbonate monomer and a dinucleophilic poly(ethylene oxide) ROP initiator comprising at least one nitrogen. The reaction mixture can optionally comprise a solvent, ROP catalyst, and/or ROP accelerator. Preferably, the ROP is performed by bulk polymerization of a reaction mixture consisting essentially of the cyclic monomer and poly(ethylene oxide) initiator at 100-130° C. under vacuum. “Consisting essentially of” means the reaction mixture contains no catalyst, solvent, and accelerator.
 The ROP used to prepare the antimicrobial cationic polymers preferably comprises a solvent, an organocatalyst, a nucleophilic ROP initiator, and one or more cyclic carbonate monomers. A ROP accelerator is optional.
 Using a vitamin-bearing monomer of formula (6) to illustrate a method of forming a gel-forming block copolymer of formula (1) by ring opening polymerization, a reaction mixture is formed that comprises a vitamin-bearing monomer of formula (6) and a di-nucleophilic poly(ethylene oxide) initiator comprising one or more *-N(H)-* groups, which can be present as a primary amine, secondary amine, tertiary amine, amide, carbamate, and/or urea group. Heating the reaction mixture under vacuum for about 24 hours at a temperature of about 80° C. to about 150° C. produces a living gel-forming block copolymer of formula (1) having terminal subunits comprising a nucleophilic group capable of initiating a ROP. Optionally, the initial gel-forming block copolymer is end capped with a suitable end capping agent.
 Using a cation-forming monomer of formula (29) to illustrate a method of making the disclosed cationic polymers, a reaction mixture is formed which comprises a cyclic carbonate monomer of formula (29), a catalyst, an optional accelerator, a mono-nucleophilic ROP initiator (optionally comprising a steroid group), and a solvent. Agitating the reaction mixture at 20-40° C. forms an initial polymer. Optionally the initial polymer can be endcapped to form an endcapped initial polymer. The resulting polymer has a structure according to formula (35):
+<img> id-US20180117162A1-20180503-C00088.TIF </img>
 wherein
 n' represents the number of cationic carbonate subunits, wherein n' has a value of about 5 to about 45,
 Z' is a monovalent C1-C15 first end group,
@@ -600,15 +681,22 @@ For the above described cationic polymers having one cationic polymer chain (on-
 More specific mono-nucleophilic ROP initiators comprise a non-charged steroid group S'. The initiator can have a structure according to formula (37):
 <in-line-formulae>S'-Le  (37),</in-line-formulae>
 wherein S' is a steroid group and Le is a monovalent group comprising i) 1 to about 10 carbons and ii) a nucleophilic initiating group for the ROP. Non-limiting examples of ROP initiators of formula (37) include Chol-OPrOH:
+<img> id-US20180117162A1-20180503-C00089.TIF </img>
 and Chol-OTEG-OH:
+<img> id-US20180117162A1-20180503-C00090.TIF </img>
 In the above examples, S' is a cholesteryl group. Using the preferred method of preparing the cationic polymers described below, the S'-L'-* fragment of the cationic polymer is a residue of the ROP initiator when linked to the carbonyl end of the polycarbonate backbone. The S'-L'-* fragment derived from Chol-OPrOH has the structure:
+<img> id-US20180117162A1-20180503-C00091.TIF </img>
 The S'-L'-* fragment derived from Chol-OTEG-OH has the structure:
+<img> id-US20180117162A1-20180503-C00092.TIF </img>
 The ROP initiator can be used singularly or in combination with a different ROP initiator (e.g., initiators having different steroid groups and/or different Le groups.) The ROP initiator can be stereospecific or non-stereospecific.
 Di-nucleophilic initiators for two-armed cationic polymers
 The ROP initiator used to form the above described cationic polymers having two polymer chains (two-armed cationic polymers) is a di-nucleophilic initiator. Exemplary di-nucleophilic ROP initiators include ethylene glycol, butanediol, 1,4-benzenedimethanol, and Bn-MPA:
+<img> id-US20180117162A1-20180503-C00093.TIF </img>
 An exemplary di-nucleophilic ROP initiator comprising a steroid group is Chol-MPA:
+<img> id-US20180117162A1-20180503-C00094.TIF </img>
 Polyethyleneoxide Initiators for Preparing Gel-Forming Block Copolymers
 The ROP initiator used to prepare the gel-forming block copolymers is a di-nucleophilic poly(ethylene oxide) having a number average molecular weight (Mn) of about 5000 to about 25000, and preferably about 10,000 to about 20,000. The poly(ethylene oxide) initiator comprises at least one nitrogen. The di-nucleophilic poly(ethylene oxide) has independent terminal ROP initiating groups selected from the group consisting of amines, alcohols, thiols, and combinations thereof. Exemplary non-limiting di-nucleophilic poly(ethylene oxide) initiators include the following materials.
+<img> id-US20180117162A1-20180503-C00095.TIF </img>
 The polymeric initiators can be used singularly or in combination.
 In an embodiment the ROP initiator used to form the gel-forming block copolymer is a poly(ethylene glycol) diamine (NH2-PEG-NH2), also referred to simply as PEG-diamine.
 ROP Solvents
@@ -618,6 +706,7 @@ When a catalyst is used for the ROP, less preferred catalysts include metal oxid
 Preferably, the chemical formula of the catalyst used for the ring opening polymerization does not include an ionic or nonionic form of a metal selected from the group consisting of beryllium, magnesium, calcium, strontium, barium, radium, aluminum, gallium, indium, thallium, germanium, tin, lead, arsenic, antimony, bismuth, tellurium, polonium, and metals of Groups 3 to 12 of the Periodic Table. Metals of Groups 3 to 12 of the Periodic Table include scandium, titanium, vanadium, chromium, manganese, iron, cobalt, nickel, copper, zinc, yttrium, zirconium, niobium, molybdenum, technetium, ruthenium, rhodium, palladium, silver, cadmium, lanthanum, cerium, praseodymium, neodymium, promethium, samarium, europium, gadolinium, terbium, dysprosium, holmium, erbium, thulium, ytterbium, lutetium, hafnium, tantalum, tungsten, rhenium, osmium, iridium, platinum, gold, mercury, actinium, thorium, protactinium, uranium, neptunium, plutonium, americium, curium, berkelium, californium, einsteinium, fermium, mendelevium, nobelium, lawrencium, rutherfordium, dubnium, seaborgium, bohrium, hassium, meitnerium, darmstadtium, roentgenium, and copernicium.
 Preferred catalysts are organocatalysts whose chemical formulas contain none of the above metals. Examples of organocatalysts for ring opening polymerizations include tertiary amines such as triallylamine, triethylamine, tri-n-octylamine and benzyldimethylamine 4-dimethylaminopyridine, phosphines, N-heterocyclic carbenes (NHC), bifunctional aminothioureas, phosphazenes, amidines, and guanidines.
 A more specific organocatalyst is N-bis(3,5-trifluoromethyl)phenyl-N'-cyclohexylthiourea (TU):
+<img> id-US20180117162A1-20180503-C00096.TIF </img>
 Other ROP organocatalysts comprise at least one 1,1,1,3,3,3-hexafluoropropan-2-ol-2-yl (HFP) group. Singly-donating hydrogen bond catalysts have the formula (38):
 <in-line-formulae>R2-C(CF3)2OH  (38),</in-line-formulae>
 wherein R2 represents a hydrogen or a monovalent radical having 1 to 20 carbons, for example an alkyl group, substituted alkyl group, cycloalkyl group, substituted cycloalkyl group, heterocycloalkyl group, substituted heterocycloalkyl group, aryl group, substituted aryl group, or a combination thereof. Exemplary singly-donating hydrogen bonding catalysts are listed in Table 2.
@@ -628,8 +717,14 @@ TABLE 2
 <header>
 
 </header>
+<img> id-US20180117162A1-20180503-C00097.TIF </img>
+<img> id-US20180117162A1-20180503-C00098.TIF </img>
+<img> id-US20180117162A1-20180503-C00099.TIF </img>
+<img> id-US20180117162A1-20180503-C00100.TIF </img>
+<img> id-US20180117162A1-20180503-C00101.TIF </img>
 </table>
 Doubly-donating hydrogen bonding catalysts have two HFP groups, represented by the formula (39):
+<img> id-US20180117162A1-20180503-C00102.TIF </img>
 wherein R3 is a divalent radical bridging group comprising 1 to 20 carbons, such as an alkylene group, a substituted alkylene group, a cycloalkylene group, substituted cycloalkylene group, a heterocycloalkylene group, substituted heterocycloalkylene group, an arylene group, a substituted arylene group, and a combination thereof. Representative double hydrogen bonding catalysts of formula (39) include those listed in Table 3. In a specific embodiment, R2 is an arylene or substituted arylene group, and the HFP groups occupy positions meta to each other on the aromatic ring.
 <table>
 <header>
@@ -638,6 +733,10 @@ TABLE 3
 <header>
 
 </header>
+<img> id-US20180117162A1-20180503-C00103.TIF </img>
+<img> id-US20180117162A1-20180503-C00104.TIF </img>
+<img> id-US20180117162A1-20180503-C00105.TIF </img>
+<img> id-US20180117162A1-20180503-C00106.TIF </img>
 </table>
 In one embodiment, the catalyst is selected from the group consisting of 4-HFA-St, 4-HFA-Tol, HFTB, NFTB, HPIP, 3,5-HFA-MA, 3,5-HFA-St, 1,3-HFAB, 1,4-HFAB, and combinations thereof.
 Also contemplated are catalysts comprising HFP-containing groups bound to a support. In one embodiment, the support comprises a polymer, a crosslinked polymer bead, an inorganic particle, or a metallic particle. HFP-containing polymers can be formed by known methods including direct polymerization of an HFP-containing monomer (for example, the methacrylate monomer 3,5-HFA-MA or the styryl monomer 3,5-HFA-St). Functional groups in HFP-containing monomers that can undergo direct polymerization (or polymerization with a comonomer) include acrylate, methacrylate, alpha, alpha, alpha-trifluoromethacrylate, alpha-halomethacrylate, acrylamido, methacrylamido, norbornene, vinyl, vinyl ether, and other groups known in the art. Examples of linking groups include C1-C12 alkyl, a C1-C12 heteroalkyl, ether group, thioether group, amino group, ester group, amide group, or a combination thereof. Also contemplated are catalysts comprising charged HFP-containing groups bound by ionic association to oppositely charged sites on a polymer or a support surface.
@@ -651,6 +750,22 @@ TABLE 4
 <header>
 
 </header>
+<img> id-US20180117162A1-20180503-C00107.TIF </img>
+<img> id-US20180117162A1-20180503-C00108.TIF </img>
+<img> id-US20180117162A1-20180503-C00109.TIF </img>
+<img> id-US20180117162A1-20180503-C00110.TIF </img>
+<img> id-US20180117162A1-20180503-C00111.TIF </img>
+<img> id-US20180117162A1-20180503-C00112.TIF </img>
+<img> id-US20180117162A1-20180503-C00113.TIF </img>
+<img> id-US20180117162A1-20180503-C00114.TIF </img>
+<img> id-US20180117162A1-20180503-C00115.TIF </img>
+<img> id-US20180117162A1-20180503-C00116.TIF </img>
+<img> id-US20180117162A1-20180503-C00117.TIF </img>
+<img> id-US20180117162A1-20180503-C00118.TIF </img>
+<img> id-US20180117162A1-20180503-C00119.TIF </img>
+<img> id-US20180117162A1-20180503-C00120.TIF </img>
+<img> id-US20180117162A1-20180503-C00121.TIF </img>
+<img> id-US20180117162A1-20180503-C00122.TIF </img>
 </table>
 In an embodiment, the accelerator has two or three nitrogens, each capable of participating as a Lewis base, as for example in the structure (−)-sparteine. Stronger bases generally improve the polymerization rate.
 The catalyst and the accelerator can be the same material. For example, some ring opening polymerizations can be conducted using 1,8-diazabicyclo[5.4.0]undec-7-ene (DBU) alone, with no another catalyst or accelerator present.
@@ -740,22 +855,30 @@ Scanning Electron Microscope (SEM) Imaging of Hydrogel
 To minimize morphological perturbations, the hydrogels were cryo-fixed by transferring the sample into a chamber filled with liquid nitrogen. A day of freeze-drying process was then followed. The morphology of the gel was observed using SEM (Jeol JSM-7400F, Japan).
 Preparation of Monomers
 Preparation of MTC-OH (MW 160.1)
+<img> id-US20180117162A1-20180503-C00123.TIF </img>
 MTC-OH can be prepared by the method of R. C. Pratt, et al., Chemical Communications, 2008, 114-116.
 Preparation of MTC-C6H5 (MW 326.2)
+<img> id-US20180117162A1-20180503-C00124.TIF </img>
 A 100 mL round bottom flask was charged with bis-MPA, (7), (5.00 g, 37 mmol, MW 134.1), bis-(pentafluorophenyl) carbonate (PFC, 31.00 g, 78 mmol, MW 394.1), and CsF (2.5 g, 16.4 mmol) rinsed with 70 mLs of tetrahydrofuran (THF). Initially the reaction was heterogeneous, but after one hour a clear homogeneous solution was formed that was allowed to stir for 20 hours. The solvent was removed in vacuo and the residue was re-dissolved in methylene chloride. The solution was allowed to stand for approximately 10 minutes, at which time the pentafluorophenol byproduct precipitated and could be quantitatively recovered. This pentafluorophenol byproduct showed the characteristic 3 peaks in the 19F NMR of pentafluorophenol and a single peak in the GCMS with a mass of 184. The filtrate was extracted with sodium bicarbonate, water and was dried with MgSO4. The solvent was evaporated in vacuo and the product was recrystallized (ethyl acetate/hexane mixture) to give MTC-C6F5 as a white crystalline powder. The GCMS had a single peak with mass of 326 g/mol. The calculated molecular weight for C12H7F5O5 was consistent with the assigned structure. 1H-NMR (400 MHz in CDCl3): delta 4.85 (d, J=10.8 Hz, 2H, CHaHb), 4.85 (d, J=10.8 Hz, 2H, CHaHb), 1.55 (s, 3H, CCH3).
 Preparation of MTC-BnCl (MW 298.7)
+<img> id-US20180117162A1-20180503-C00125.TIF </img>
 A flask was charged with MTC-C6F5 (10 g, 30.6 mmol), p-chloromethyl benzyl alcohol (4.8 g, 30.6 mmol), PROTON SPONGE (2 g, 9.3 mmol) and THF (30 mL). The reaction mixture was stirred for 12 hours then added directly to a silica gel column. The product was isolated using diethyl ether as the eluent to yield 7.45 g (81%) white crystalline powder.
 Preparation of MTC-PrCl (MW 236.65)
+<img> id-US20180117162A1-20180503-C00126.TIF </img>
 MTCOH (8.82 g, 55 mmol) was converted to MTCOCl using standard procedures with oxalyl chloride. In a dry 250 mL round bottom flask equipped with a stir bar, the formed intermediate was dissolved in 150 mL of dry methylene chloride. Under nitrogen flow an addition funnel was attached in which 3-chloropropanol (4.94 g, 4.36 mL, 52.25 mmol), pyridine (3.95 g, 4.04 mL, 55 mmol), and 50 mL of dry methylene chloride was charged. The flask was cooled to 0° C. using an ice bath and the top solution was added drop wise during a period of 30 minutes. The formed solution was stirred for an additional 30 minutes before the ice bath was removed and the solution was stirred for an additional 16 hours under nitrogen. The crude product MTC-PrCl was directly applied onto a silica gel column and the product was separated by eluting with 100% methylene chloride. The product fractions were removed and the solvent was evaporated, yielding the product as off-white oil, which crystallized upon standing. Yield 11 g (85%). 1H-NMR (CDCl3) delta: 4.63 (d, 2H, CH2), 4.32 (t, 2H, CH2), 4.16 (d, 2H, CH2), 3.55 (t, 2H, CH2), 2.09 (m, 2H, CH2), 1.25 (s, 3H, CH3).
 Preparation of 5-methyl-5-(3-bromopropyl)oxycarboxyl-1,3-dioxan-2-one, (MTC-PrBr), (MW 281.10)
+<img> id-US20180117162A1-20180503-C00127.TIF </img>
 MTCOPrBr was prepared by the procedure for MTCOPrCl on a 45 mmol scale using 3-bromo-1-propanol as the alcohol. The product was purified by column chromatography, and subsequently recrystallized to yield white crystals (6.3 g, 49%). 1H NMR (400 MHz, CDCl3): delta 4.69 (d, 2H; CH2OCOO), 4.37 (t, 2H; OCH2), 4.21 (d, 2H; CH2OCOO), 3.45 (t, 2H; CH2Br), 2.23 (m, 2H; CH2), 1.33 (s, 3H; CH3). 13C NMR (100 MHz, CDCl3): delta 171.0, 147.3, 72.9, 63.9, 40.2, 31.0, 28.9, 17.3.
 Preparation of MTC-VitE Monomer
+<img> id-US20180117162A1-20180503-C00128.TIF </img>
 MTC-OH (3.08 g, 19.3 mmol) was dissolved in anhydrous THF (50 mL) with a few drops of DMF. Oxalyl chloride (3.3 mL, 39.4 mmol) was then added dropwise and the reaction mixture stirred under a flow of nitrogen for 1 hour before volatiles were removed under vacuum. The resultant off-white solid was heated to 65° C. for 2-3 minutes to remove any residual reagent and solvent to give the acyl chloride intermediate, MTC-C1. The solid was redissolved in dry dichloromethane (50 mL) and chilled to 0° C. using an ice bath. A solution of alpha-tocopherol (8.30 g, 19.3 mmol) and dry triethylamine (3 mL, 21.6 mmol) in dry dichloromethane (50 mL) was subsequently added dropwise over 30 min. The mixture was allowed to warm up to ambient temperature and stirred for an additional 18 hours. A crude solid was obtained after removal of solvent, and was subjected to purification by column chromatography using silica gel. Hexane was initially used as the eluent before gently increasing the polarity to finally end with 50% ethyl acetate. A second chromatography separation was carried out using dichloromethane/ethyl acetate (4:1) in order to obtain the desired product in high purity as a white solid (6.05 g, 53%). 1H NMR (400 MHz, CDCl3): delta 4.92 (d, 2H, J=10.8 Hz, MTC-CH2), 4.34 (d, 2H, J=10.8 Hz, MTC-CH2), 2.59 (d, 2H, J=6.7 Hz, tetrahydropyrano-CH2), 2.09 (s, 3H, Ar-CH3), 2.00 (s, 3H, Ar-CH3), 1.96 (s, 3H, ArCH3), 1.70-1.90 (m, 2H), 1.00-1.60 (overlapping peaks, 27H), 0.80-0.90 (m, 12H, 4×CH3 on hydrophobic tail).
 Preparation of MTC-VitD2 Monomer
+<img> id-US20180117162A1-20180503-C00129.TIF </img>
 MTC-VitD2 was prepared according to the general procedure used to prepare MTC-VitE above. 1H NMR (400 MHz, CDCl3): δ 6.20 (d, 1H, VitD-C═CH-), 6.01 (d, 1H, VitD-C═CH-), 5.21 (t, 2H, VitD-CH═CH-), 5.08 (s, 2H, VitD-C═CH2), 4.86 (s, 1H, -OCH- of VitD), 4.66 (d, 2H, MTC CH2-), 4.17 (d, 2H, MTC-CH2-), 1.15 2.90 (m, 24H, H of VitD and MTC-CH3), 1.02 (d, 3H, VitD-CH3), 0.91 (d, 3H, VitD-CH3), 0.84 (t, 6H, VitD-CH3), 0.55 (s, 3H, Vit-CH3).
 Preparation of Cationic Polymers
 Examples 1 to 8
 Random cationic copolymers were prepared using MTC-PrBr and MTC-BnCl precursors for the cationic subunits, MTC-VitE as the hydrophobic comonomer, benzyl alcohol (BnOH) initiator, and DBU/thiourea as catalysts. Quarternization was performed with trimethylamine. The reaction sequence is shown in Scheme 1.
+<img> id-US20180117162A1-20180503-C00130.TIF </img><img> id-US20180117162A1-20180503-C00131.TIF </img>
 The preparation of cationic polymer VE/BnCl (1:30) (i.e., m':n' is 1:30) is representative. In a 20 mL vial containing a magnetic stir bar in the glove box, MTC-BnCl (608.8 mg, 2.04 mmol, 30 equiv.), MTC-VitE (40.0 mg, 68 micromoles, 1.0 equiv.) and TU (25.2 mg, 68 micromoles, 1.0 equiv.) were dissolved in dichloromethane (3 mL). To this solution, benzyl alcohol (BnOH) (7.0 microliters, 68 micromoles, 1.0 equiv.) followed by DBU (10.2 microliters, 68 micromoles, 1.0 equiv.) were added to initiate polymerization. The reaction mixture was stirred at room temperature for 20 minutes and quenched by the addition of excess (˜20 mg) of benzoic acid. The mixture was then precipitated into ice-cold methanol (50 mL) and centrifuged at −5° C. for 30 minutes. The resultant semi-transparent oil was dried under vacuum until a foamy white solid was obtained. GPC analysis of the intermediate was carried out and the polymer was used without further purification. The polymer was subsequently dissolved in acetonitrile, transferred to a Teflon-plug sealable tube and chilled to 0° C. Trimethylamine was added to start the quaternization process. The reaction mixture was stirred at room temperature for 18 hours in the sealed tube. Precipitation of an oily material was observed during the course of reaction. The mixture was evacuated to dryness under vacuum and freeze-dried to finally yield a white crisp-foamy solid. The final polymer is characterized by 1H NMR to determine the final composition and purity.
 The polymerizations to form the cationic polymers was generally efficient and gave moderately high yields. In the case of MTC-BnCl, the reaction was quenched within 30 minutes. MTC-PrBr reactions typically required up to 4 hours. All pre-quaternized polymers were subjected to GPC analysis and all of them were unimodal with PDI<1.3, indicating well-controlled polymerization. Proton NMR analysis of the final quaternized polymers was also consistent with the formulations.
 Table 6 lists the cationic random copolymers prepared with MTC-VitE and BnOH initiator, their degree of polymerization (DP), quaternizing agent, CMC, and the total number of carbons of each cationic subunit. For each polymer in Table 6, m'=1.
@@ -881,6 +1004,7 @@ a GPC was performed on pre-quaternized polymers
 </table>
 Preparation of Triblock Copolymers
 The organocatalytic ring opening polymerization (ROP) of MTC-VitE, initiated by poly(ethylene glycol) (HO-PEG-OH) was achieved using DBU/thiourea catalysts combination according to the Scheme 2.
+<img> id-US20180117162A1-20180503-C00132.TIF </img>
 The ring opening polymerizations (ROP) with MTC-VitE were incomplete and the conversion efficiency was around 60%. The excess monomers and reagents were removed by repeated precipitation with diethyl ether. The final compositions of the polymers were confirmed by comparison of the OCH2-CH2 peak of PEG to the four CH3 peaks on the MTC-VitE hydrophobic tail. The hydrophobicity of the polymer can be adjusted by varying the amount of MTC-VitE moiety. The hydrophilicity can be adjusted by varying the HO-PEG-OH length. The triblock copolymers was not endcapped.
 Examples 9 to 14
 The formation of Example 11, VitE1.25-PEG(20k)-VitE1.25, is representative. In a 20-mL vial containing a magnetic stir bar in the glove box, MTC-VitE (58.9 mg, 100 micromoles, 4.0 equivalent), HO-PEG-OH (Mn=20 kDa, 500 mg, 25 micromoles, 1.0 equivalent) and TU (9.3 mg, 25 micromoles, 1.0 equivalent) were dissolved in dichloromethane (4 mL). To this solution, DBU (3.7 microliters, 25 micromoles, 1.0 equivalent) was added to initiate polymerization. The reaction mixture was allowed to stir at room temperature and aliquots of samples were taken to monitor the monomer conversion and evolution of molecular weight by 1H NMR spectroscopy and SEC. After 120 minutes, the reaction mixture was quenched by the addition of excess (˜20 mg) of benzoic acid and was precipitated into ice-cold diethyl ether (2×50 mL). The resultant polymer was dried in a vial for about 1-2 days until a constant sample mass was obtained, as white powder.
@@ -983,6 +1107,7 @@ Example 24
 The antibody herceptin was dissolved in HPLC grade water at a concentration of 10 g/L. This solution (1 mL) was then added to VitE1.25-PEG(20k)-VitE1.25 (40 mg) at ambient temperature to form a hydrogel containing 4 wt. % VitE1.25-PEG(20k)-VitE1.25 and 1.0 wt. % herceptin based on total weight of the hydrogel.
 Example 25
 The antibody herceptin was dissolved in HPLC grade water at a concentration of 10 g/L. This solution (1 mL) was then added to VitE2.5-PEG(20k)-VitE2.5 (40 mg) at 25° C., to form a hydrogel containing 4 wt. % VitE2.5-PEG(20k)-VitE2.5 and 1.0 wt. % herceptin based on total weight of the hydrogel. Preparation of antimicrobial ABA triblock/doxycycline organogels
+<img> id-US20180117162A1-20180503-C00133.TIF </img>
 To prepare the antimicrobial organogels, the triblock copolymer was first dissolved in KOLLIPHOR RH40 by heating at 85° C. Doxycycline was separately dissolved in filtered HPLC water in a cell culture hood. The two solutions were then mixed together at room temperature for the formation of organogels.
 Example 26
 VitE6.5-PEG(20k)-VitE6.5 (20 mg) was dissolved in KOLLIPHOR RH40 (200 microliters), heating at 85° C. and stirring at 1400 rpm for 1 hour. After that, a doxycycline solution (200 g/L in HPLC grade water) (10 microliters) was added and stirred to form an organogel containing 10 wt. % VitE6.5-PEG(20k)-VitE6.5 and 1 wt. % doxycycline based on total weight of the hydrogel.
@@ -1143,6 +1268,7 @@ Example & nent 1 & nent 2 & nent 3 & Wt. % & Wt. % & Wt. % & Solvent
 Preparation of Herceptin Solutions
 For cell culture studies, herceptin was dissolved using sterile HPLC grade water at the following concentrations, 0.005, 0.02, 0.1, 0.5, 1 and 5 g/L.
 Preparation of Fluconazole Solutions
+<img> id-US20180117162A1-20180503-C00134.TIF </img>
 For antimicrobial studies, fluconazole was dissolved using sterile HPLC grade water at the appropriate concentrations. For example, a solution containing 5 mg/L fluconazole was formed by adding sterile HPLC grate water to a stock solution (1 g/L) of fluconazole.
 Rheological Characterization
 Rheological analysis of the hydrogels was performed on an ARES-G2 rheometer (TA Instruments, USA) equipped with a plate-plate geometry of 8 mm diameter. Measurements were taken by equilibrating the hydrogels at 25° C. between the plates at a gap of 1.0 mm. The data were collected under controlled strain of 0.2% and a frequency scan of 1.0 to 100 rad/sec. The shear storage modulus (G') and loss modulus (G″) of hydrogels were measured at each point. For shear-thinning studies, the viscosity of the hydrogels was monitored as a function of shear rate from 0.1 to 10 sec−1. From the storage modulus G', the molar weight between the effective cross-links, Mc, was calculated using the following equation:
@@ -1303,6 +1429,7 @@ Nuclear Magnetic Resonance (NMR) Spectroscopy. The 1H NMR spectra of monomers an
 Gel permeation chromatography (GPC). GPC analysis for polymers was carried out on a GPC system (Waters 2690, MA, U.S.A.) with an Optilab rEX differential refractometer detector (Wyatt Technology Corporation, U.S.A.) and Waters HR-4E column. The mobile phase used was THF with a flow rate of 1 mL/min. Number-average molecular weights and polydispersity indices were calculated from a calibration curve obtained using a series of polystyrene standards (Polymer Laboratories Inc., MA, U.S.A., with molecular weight ranging from 1,350 to 151,700).
 Rheological experiments. The hydrogels were prepared by dissolving the polymers (4.0 wt %, 5.0 wt %, 6.0 wt % and 8.0 wt %) in DI water at 25° C. The rheological analysis of the hydrogels was performed on an ARES-G2 rheometer (TA Instruments, U.S.A.) equipped with a plate-plate geometry of 8 mm diameter. Measurements were taken by equilibrating the gels at 25° C. between the plates at a gap of 1.0 mm. The data were collected under a controlled strain of 3.0% and a frequency scan of 1.0 to 100 rad/second. Gelation properties of the polymer solutions was monitored by measuring the shear storage modulus (G'), as well as the loss modulus (G″), at each point. To investigate the shear-thinning properties, the viscosity of the hydrogels was monitored as a function of shear rate from 0.1 to 10 sec−1.
 The PEG-diamine-based block copolymers were prepared according to the following general reaction scheme using PEG10DA or PEG20DA.
+<img> id-US20180117162A1-20180503-C00135.TIF </img>
 The degree of polymerization (DP) of the central poly(ethylene oxide) block is designated by the subscript n, where n has an average value of about 250 (corresponding to the DP of PEG10DA) or 500 (corresponding to the DP of PEG20DA). The DP of each peripheral polycarbonate block is designated by the subscript m, which can have an average value of about 1 to about 10. The degree of conjugation of the cyclic carbonate monomer after the ROP is designated by the value 2×m.
 Example 45
 Preparation of VitE1.05-PEG10DA-VitE1.05, m=1.05, n=250. The following procedure is representative. PEG10DA (Mn 10,790 Da, 0.216 g, 0.02 mmol) and MTC-VitE (0.115 g, 0.2 mmol) were added to a small vessel and mixed evenly. The vessel was connected to an oil pump and the reaction mixture was stirred slowly under high vacuum for 10 minutes. Then, the vessel was heated to 120° C. with stirring. Heating was continued for 36 hours, at which time the vessel was cooled to room temperature. The resulting mixture was dissolved in dichloromethane (DCM, 2 mL). The resulting solution was poured into diethyl ether (40 mL) to precipitate the product. The precipitate was centrifuged and washed three times with diethyl ether. Finally, the wet solid was dried in vacuo, giving Vit1.05-PEG10DA-VitE1.05 as a white powder (0.21 g, 94%). PDI, 1.10. 1H NMR (400 MHz, CDCl3): δ 4.58 (dd, 8H, MTC-CH2-), 3.64 (s, 909H, H of PEG), 2.60 (s, 4H, Ph-CH2CH2- of VitE), 1.70-2.25 (m, br, 23H, Ph-CH3 and Ph-CH2CH2- of VitE), 1.00-1.70 (m, 57H, H of VitE and MTC-CH3), 0.87 (t, 25H, 4×-CH3 on the hydrophobic tail of VitE).

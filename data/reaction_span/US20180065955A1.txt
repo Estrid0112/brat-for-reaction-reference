@@ -15,6 +15,7 @@ Glucagon antagonism may provide therapeutic agents to control Type II diabetes m
 Thus there remains a need for novel glucagon antagonists for the treatment of metabolic disorders such as Type II diabetes mellitus and obesity.
 SUMMARY OF THE INVENTION
 The present invention is directed to indole derivatives, compounds of formula (I)
+<img> id-US20180065955A1-20180308-C00001.TIF </img>
 wherein
 R1 is selected from the group consisting of phenyl, -(C1-2alkyl)-phenyl, naphthyl, thienyl, benzofuranyl, benzothienyl, indazolyl, quinolinyl, pyrazolyl and pyridyl;
 wherein the phenyl, naphthyl, thienyl, benzofuranyl, benzothienyl, indazolyl, quinolinyl, pyrazolyl or pyridyl whether alone or as part of a substituent group is optionally substituted with one to more (preferably one to two) substituents independently selected from the group consisting of halogen, C1-6alkyl, fluorinated C1-4alkyl, C1-4alkoxy and fluorinated C1-4alkoxy;
@@ -25,6 +26,7 @@ wherein the phenyl, whether alone or as part of a substituent group is optionall
 Z is selected from the group consisting of C and N;
 and stereoisomers and pharmaceutically acceptable salts thereof.
 The present invention is further directed to compounds of formula (II)
+<img> id-US20180065955A1-20180308-C00002.TIF </img>
 wherein
 R1 is selected from the group consisting of phenyl, -(C1-2alkyl)-phenyl, naphthyl, thienyl, benzofuranyl, benzothienyl, indazolyl, quinolinyl, pyrazolyl and pyridyl;
 wherein the phenyl, naphthyl, thienyl, benzofuranyl, benzothienyl, indazolyl, quinolinyl, pyrazolyl or pyridyl whether alone or as part of a substituent group is optionally substituted with one to more (preferably one to two) substituents independently selected from the group consisting of halogen, C1-6alkyl, fluorinated C1-4alkyl, C1-4alkoxy and fluorinated C1-4alkoxy;
@@ -41,10 +43,13 @@ In an embodiment, the present invention is directed to a compound of formula (I)
 Another example of the invention is the use of any of the compounds described herein in the preparation of a medicament for treating: (a) Type I diabetes, (b) Type II diabetes mellitus (c) obesity, (d) renal disease, in a subject in need thereof. In another example, the present invention is directed to a compound as described herein for use in a methods for treating a disorder selected from the group consisting of Type I diabetes, Type II diabetes mellitus, obesity, renal disease (for example renal failure as a complication of diabetes), in a subject in need thereof.
 DETAILED DESCRIPTION OF THE INVENTION
 The present invention is directed to compounds of formula (I)
+<img> id-US20180065955A1-20180308-C00003.TIF </img>
 wherein R1, a, R2, R4 and Z are as herein defined. The compounds of the present invention are useful in the treatment of conditions and disorders which are meliorated by antagonizing glucagon receptors, including but not limited to Type I diabetes, Type II diabetes mellitus, obesity and renal disease.
 The present invention is further directed to compounds of formula (II)
+<img> id-US20180065955A1-20180308-C00004.TIF </img>
 wherein R1, a, R2, R4 and Z are as herein defined. The compounds of the present invention are useful in the treatment of conditions and disorders which are meliorated by antagonizing glucagon receptors, including but not limited to Type I diabetes, Type II diabetes mellitus, obesity and renal disease.
 One skilled in the art will recognize that the compounds of formula (I) and the compounds of formula (II) are regio-isomers, wherein the
+<img> id-US20180065955A1-20180308-C00005.TIF </img>
 substituent group is alternatively bound to the 1-position nitrogen atom or 2-position nitrogen atom on the indazole core.
 One skilled in the art will recognize that some substituent variables (e.g. R1, a, R2, R4, Z, etc.) appear in both the compounds of formula (I) and the compounds of formula (II). One skilled in the art will further recognize that wherein a particular substituent is selected for a given variable for a compound of formula (I), said selection is not intended to limit the scope of said variable for compounds of formula (II). Similarly, the selection of a particular substituent for a given variable for a compound of formula (II), is not intended to limit the scope of said variable for compounds of formula (I).
 In certain embodiments, the present invention is directed to compounds of formula (I) and/or compounds of formula (II) wherein the scope (or Markush group of possible substituents) for each variable of the compounds of formula (I) (e.g. a, R1, R2, R3, R4) is independently selected from the lists defined in the embodiments which follow hereinafter.
@@ -85,6 +90,7 @@ Representative compounds of formula (I) of the present invention are as listed i
 TABLE 1
 </header>
 Representative Compounds of Formula (I)
+<img> id-US20180065955A1-20180308-C00006.TIF </img>
  &  &  &  &  & Ster-
 ID No. & (R2)a & R1 & R4 & Z & eo
 1 & a = 0 & 4-t-butyl-phenyl & isobutyl & C & 
@@ -321,6 +327,7 @@ ID No. & (R2)a & R1 & R4 & Z & eo
 TABLE 2
 </header>
 Representative Compounds of Formula (II)
+<img> id-US20180065955A1-20180308-C00007.TIF </img>
 ID No. & (R2)a & R1 & R4 & Z & Stereo
 2 & a = 0 & 4-t-butyl-phenyl & isobutyl & N & 
 8 & a = 0 & 2-methyl-4-chloro- & 3,3,3-trifluoro- & C & 
@@ -558,6 +565,7 @@ Representative acids which may be used in the preparation of pharmaceutically ac
 Representative bases which may be used in the preparation of pharmaceutically acceptable salts include, but are not limited to, the following: bases including ammonia, L-arginine, benethamine, benzathine, calcium hydroxide, choline, deanol, diethanolamine, diethylamine, 2-(diethylamino)-ethanol, ethanolamine, ethylenediamine, N-methyl-glucamine, hydrabamine, 1H-imidazole, L-lysine, magnesium hydroxide, 4-(2-hydroxyethyl)-morpholine, piperazine, potassium hydroxide, 1-(2-hydroxyethyl)-pyrrolidine, secondary amine, sodium hydroxide, triethanolamine, tromethamine and zinc hydroxide.
 General Synthesis Methods
 Compounds of formula (I) and formula (II) may be prepared according to the process outlined in Scheme 1.
+<img> id-US20180065955A1-20180308-C00008.TIF </img><img> id-US20180065955A1-20180308-C00009.TIF </img>
 Accordingly, a suitably substituted compound of formula (V), wherein LG1 is a suitably selected leaving group such as Br, I, OTf (i.e. -OSO2CF3), acetyloxy, Cl, and the like and wherein A1 is selected from the group consisting of C1-4alkyl, preferably methyl or ethyl, a known compound or compound prepared by known methods, is reacted with a suitably selected compound of formula (VI), a known compound or compound prepared by known methods; in the presence of a suitably selected coupling catalyst such as Pd(PPh3)4, Pd2(dba)3, Pd(OAc)2; in a suitably selected organic solvent such as THF, 1,4-dioxane, toluene, and the like; to yield the corresponding compound of formula (VII).
 The compound of formula (VII) is reacted with a suitably selected brominating agent such as NBS, Br2, HBr, and the like; in the presence of a radical initiator such as benzoyl peroxide, AIBN, and the like; in a suitably selected organic solvent such as carbon tetrachloride, DCM, ClCH2CH2Cl, and the like; to yield the corresponding compound of formula (VIII).
 The compound of formula (VIII) is reacted with a suitably substituted compound of formula (IX), a known compound or compound prepared by known methods (for example, by reacting 5-bromo-indazole with a suitably substituted boronic acid, a compound of the formula R1-B(OH)2, a known compound or compound prepared by known method; in the presence of a suitably selected coupling agent such as Pd(PPh3)4, and the like, in the presence of suitably selected base such as K2CO3, in a suitably selected solvent or mixture of solvent such as 1,4-dioxane/water), in the presence of a suitably selected base such as Cs2CO3, K2CO3, NaH, and the like; in a suitably selected organic solvent such as DMF, acetonitrile, NMP (N-methyl-2-pyrrolidone), and the like; to yield a mixture of the corresponding compound of formula (X) and the corresponding compound of formula (XI).
@@ -567,12 +575,14 @@ The mixture of compounds of formula (XV) and formula (XVI) is de-protected accor
 One skilled in the art will recognize that in an alternative, the compounds of formula (X) and formula (XI) are separated, according to known methods (for example by flash chromatography on silica gel or HPLC) and the individual compounds of formula (X) and formula (XI) are then reacted as described above (to sequentially (a) remove the A1 group, (b) react with the compound of formula (XIV) to attach the protected β-alanine and (c) remove the β-alanine PG1 protecting group) to individually prepare the corresponding compounds of formula (I) and formula (II).
 One skilled in the art will further recognize that wherever a reaction step yields a mixture of regio-isomers, said mixture of regio-isomers may be separated into its individual compounds, which individual compounds may be further reacted as described above, to yield the corresponding compound of formula (I) or formula (II).
 Compounds of formula (I) and formula (II) may alternatively be prepared according to the process outlined in Scheme 2.
+<img> id-US20180065955A1-20180308-C00010.TIF </img><img> id-US20180065955A1-20180308-C00011.TIF </img>
 Accordingly, a suitably substituted compound of formula (VIII), prepared for example as describe in Scheme 1 above, is hydrolyzed according to known methods, to convert the A1-alkyl ester to the corresponding carboxylic acid; to yield the corresponding compound of formula (XVII). For example, wherein A1 is methyl, the compound of formula (VIII) is reacted with LiOH/THF in an alcohol such as methanol. In another example, the compound of formula (VIII) is reacted with a suitably selected acid or base such as NaOH, TFA, and the like; in a suitably selected solvent or mixture of solvents such as THF/methanol, DCE, DCM, and the like.
 The compound of formula (XVII) is reacted with a suitably protected beta-alanine, a compound of formula (XIV), wherein PG1 is a suitably selected protecting group such as C1-4alkyl (preferably methyl or ethyl), tert-butyl, and the like, a known compound; in the presence of a suitably selected organic base such as DIPEA, TEA, pyridine, and the like, preferably DIPEA; in the presence of a suitably selected coupling agent such as HATU, HOBt in combination with EDCI, and the like; to yield the corresponding compound of formula (XVIII).
 The compound of formula (XVIII) is reacted with a suitably substituted compound of formula (IX), a known compound or compound prepared for example as described in Scheme 1 above, in the presence of a suitably selected base such as Cs2CO3, K2CO3, NaH, and the like; in a suitably selected organic solvent such as DMF, acetonitrile, NMP, and the like; to yield a mixture of the corresponding compound of formula (XV) and the corresponding compound of formula (XVI).
 The mixture of compounds of formula (XV) and formula (XVI) is de-protected according to known methods, to yield the corresponding compounds of formula (I) and formula (II), respectively. For example, wherein the PG1 group is t-butyl, the mixture of compounds of formula (XV) and (XVI) is de-protected by reacting with a suitably selected acid such as TFA, (CH3)3SiI, HCl, and the like; in a suitably selected organic solvent such as DCM, Et2O, H2O, and the like. In another example, wherein PG1 is C1-4alkyl, the mixture of compounds of formula (XV) and (XVI) is de-protected by hydrolysis with a suitably selected base such as NaOH, LiOH, KOH, and the like; in a suitably selected organic solvent or mixture of solvents such as MeOH/THF, MeOH/1,4-dioxane, and the like.
 Alternatively, the mixture of the compounds of formula (XV) and formula (XVI) is separated into its individual compounds, each of which is then reacted to remove the PG1 group, as described herein; to yield the corresponding compound of formula (I) and formula (II), respectively.
 Compounds of formula (I) and formula (II) may alternatively be prepared according to the process outlined in Scheme 3.
+<img> id-US20180065955A1-20180308-C00012.TIF </img><img> id-US20180065955A1-20180308-C00013.TIF </img><img> id-US20180065955A1-20180308-C00014.TIF </img>
 Accordingly, a suitably substituted compound of formula (VIII), prepared for example as described in Scheme 1 above, is reacted with a suitably substituted compound of formula (XIX), wherein LG2 is a suitably selected leaving group such as Br, I, OTf, and the like, a known compound or compound prepared by known methods, in the presence of a suitably selected base such as Cs2CO3, K2CO3, NaH, and the like; in a suitably selected organic solvent such as DMF, acetonitrile, NMP, and the like; to yield a mixture of the corresponding compound of formula (XX) and the corresponding compound of formula (XXI).
 The mixture of compounds of formula (XX) and formula (XXI) is hydrolyzed according to known methods, to convert the A1-alkyl ester to the corresponding carboxylic acid; to yield a mixture of the corresponding compound of formula (XXII) and the corresponding compound of formula (XXIII). For example, wherein A1 is methyl, the mixture of compounds of formula (XX) and formula (XXI) is reacted with LiOH/THF in an alcohol such as methanol. In another example, the mixture of compounds of formula (XX) and formula (XXI) is reacted with a suitably selected acid or base such as NaOH, TFA, and the like; in a suitably selected solvent or mixture of solvents such as THF/methanol, DCE, DCM, and the like.
 The mixture of compounds of formula (XXII) and formula (XXIII) is reacted with a suitably protected beta-alanine, a compound of formula (XIV) wherein PG1 is a suitably selected protecting group such as C1-4alkyl (preferably methyl or ethyl), tert-butyl, and the like, a known compound; in the presence of a suitably selected organic base such as DIPEA, TEA, pyridine, and the like, preferably DIPEA; in the presence of a suitably selected coupling agent such as HATU, HOBt in combination with EDCI, and the like; to yield a mixture of the corresponding compound of formula (XXIV) and the corresponding compound of formula (XXV).
@@ -580,14 +590,17 @@ The mixture of compounds of formula (XXIV) and formula (XXV) is reacted with a s
 The mixture of compounds of formula (XV) and formula (XVI) is de-protected according to known methods, to yield the corresponding compounds of formula (I) and formula (II), respectively. For example, wherein the PG1 group is t-butyl, the mixture of compounds of formula (XV) and (XVI) is de-protected by reacting with a suitably selected acid such as TFA, (CH3)3SiI, HCl, and the like; in a suitably selected organic solvent such as DCM, Et2O, H2O, and the like. In another example, wherein PG1 is C1-4alkyl, the mixture of compounds of formula (XV) and (XVI) is de-protected by hydrolysis with a suitably selected base such as NaOH, LiOH, KOH, and the like; in a suitably selected organic solvent or mixture of solvents such as MeOH/THF, MeOH/1,4-dioxane, and the like.
 One skilled in the art will recognize that whenever a reaction step as described in Scheme 3 above yields a mixture of regio-isomers, said mixture of regio-isomers may be separated into its individual compounds, and the individual compounds may then be further reacted as described above, to yield the corresponding compound of formula (I) or formula (II), as desired.
 Compounds of formula (VIII) are known compounds or compounds which may be prepared according to known methods. Compounds of formula (VIII) may be prepared as described in Scheme 1 above. Alternatively, compounds of formula (VIII) may be prepared according to the process as outlined in Scheme 4.
+<img> id-US20180065955A1-20180308-C00015.TIF </img>
 Accordingly, a suitably substituted compound of formula (XXVII), wherein LG3 is a suitably selected leaving group such as Br, I, OTf, and the like and wherein A1 is C1-4alkyl, preferably methyl or ethyl, a known compound or compound prepared by known methods, is reacted with a suitably substituted compound of formula (XXVIII), wherein LG4 is a suitably selected leaving group such as Br, I, OTf, and the like, a known compound or compound prepared by known methods; in the presence of a suitably selected catalyst such as NiI2.H2O, and the like; in the presence of a suitably selected ligand such as 1,2-bis(diphenylphosphino)benzene (dppBz), and the like; in the presence of a suitably selected nitrogen based bidentated ligand such as 4,4-di-t-butyl-2,2'-dipyridyl, and the like; in the presence of metal such as manganese (Mn); to yield the corresponding compound of formula (VII).
 Alternatively, a suitably substituted compound of formula (XXVII) wherein LG3 is a suitably selected leaving groups such as Br, I, OTf, and the like, and wherein A1 is C1-4alkyl, preferably methyl or ethyl, a known compound or compound prepared by known methods, is reacted with a suitably substituted compound of formula (XXVIII) wherein LG4 is BF3-K+, and the like, a known compound or compound prepared by known methods; in the presence of a suitably selected catalyst such as Pd(dppf)Cl2, Pd(PPh3)4, and the like; in the presence of a suitably selected base such as Cs2CO3, K2CO3, Na3PO4, and the like; in a suitably selected organic solvent such as DMF, 1,4-dioxane, toluene, and the like; to yield the corresponding compound of formula (VII).
 The compound of formula (VII) is reacted with a suitably selected brominating agent such as NBS, Br2, HBr, and the like; in the presence of a radical initiator such as benzoyl peroxide, AIBN, and the like; in a suitably selected organic solvent such as carbon tetrachloride, DCM, ClCH2CH2Cl, and the like; to yield the corresponding compound of formula (VIII).
 Compounds of formula (VIII) may alternatively be prepared according to the process as outlined in Scheme 5.
+<img> id-US20180065955A1-20180308-C00016.TIF </img>
 Accordingly, a suitably substituted compound of formula (XXIX), wherein LG3 is a suitably selected leaving group such as Br, I, OTf, and the like and wherein A1 is C1-4alkyl, preferably methyl or ethyl, a known compound or compound prepared by known methods, is reacted with a suitably substituted boronic acid, a compound of the formula (XXX), a known compound or compound prepared by known methods; in the presence of a suitably selected coupling agent such as Pd(PPh3)4, Pd(dppf)Cl2, and the like; in the presence of a suitably selected base such as CsF, and the like; in a suitably selected solvent or mixture of solvents, such as THF/water, 1,4-dioxane/water, ethanol/toluene, DME/water, and the like; to yield the corresponding compound of formula (VII).
 The compound of formula (VII) is reacted with a suitably selected brominating agent such as NBS, Br2, HBr, and the like; in the presence of a radical initiator such as benzoyl peroxide, AIBN, and the like; in a suitably selected organic solvent such as carbon tetrachloride, DCM, ClCH2CH2Cl, and the like; to yield the corresponding compound of formula (VIII).
 Compounds of formula (VIII) may alternatively be prepared according to the procedures as described in the Examples which follow herein, modifying reagents, starting materials and conditions, as would be readily recognized and understood by those skilled in the art.
 Compounds of formula (I) and formula (II), particularly enantiomerically enriched compounds of formula (I) and formula (II) may be prepared according to the process as outlined in Scheme 6.
+<img> id-US20180065955A1-20180308-C00017.TIF </img><img> id-US20180065955A1-20180308-C00018.TIF </img>
 Accordingly, a suitably substituted compound of formula (XXXI), wherein LG5 is ZnBr or ZnI, a known compound or compound prepared by known methods, is reacted with a suitably substituted acid chloride, a compound of formula (XXXII), a known compound or compound prepared by known methods; in the presence of a suitably selected coupling agent such as PdCl2(dppf); in a suitably selected organic solvent such as THF, 1,4-dioxane, and the like; to yield the corresponding compound of formula (XXXIII).
 The compound of formula (XXXIII) is reacted with a suitably selected enantioselective reducing agent such as a mixture of (S)-methyl-CBS and BH3Me2S, and the like; in a suitably selected organic solvent such as THF, toluene, and the like; to yield the corresponding enantiomerically enriched compound of formula (XXXIV).
 The compound of formula (XXXIV) is reacted with mesyl chloride, a known compound; in the presence of a suitably selected organic base such as TEA, DIPEA, pyridine, and the like; in a suitably selected organic solvent such as DCM, toluene, THF, and the like; to yield the corresponding compound of formula (XXXV).
@@ -595,9 +608,12 @@ The compound of formula (XXXV) is reacted with a suitably substituted compound o
 The mixture of compounds of formula (XXXVI) and formula (XXXVII) are substituted, for example, for the compounds of formula (X) and formula (XI) in Scheme 1, and reacted as described therein; to yield the corresponding, enantiomerically enriched compounds of formula (Ia) and formula (IIa).
 One skilled in the art will recognize that the reactions on the enantiomerically enriched compound of formula (XXXIV) and subsequent compounds are not expected to result in any significant amount of racemization. Therefore the process of Scheme 6 results in enantiomerically enriched compounds of formula (I) and formula (II).
 One skilled in the art will further recognize that the compound of formula (XXXIII) may alternatively be reacted with, for example, a mixture of (R)-methyl-CBS and BH3Me2S as described above, to yield the corresponding compound of formula (XXXIV) of the opposite stereo-orientation, i.e. a compound of formula (XXXIV-A)
+<img> id-US20180065955A1-20180308-C00019.TIF </img>
 which compound of formula (XXXIV-A) is then reacted as described in Scheme 6, to yield the corresponding compounds of formula (Ib) and (lib):
+<img> id-US20180065955A1-20180308-C00020.TIF </img>
 One skilled in the art will further recognize that whenever a reaction step as described in Scheme 6 above yields a mixture of regio-isomers, said mixture of regio-isomers may be separated into its individual compounds, and the individual compounds may then be further reacted as described above, to yield the corresponding enantiomerically enriched compound of formula (I) or formula (II), as desired.
 Compounds of formula (XXXIII) may alternatively be prepared according to the process as outlined in Scheme 7.
+<img> id-US20180065955A1-20180308-C00021.TIF </img>
 Accordingly, a suitably substituted compound of formula (XXXVIII), wherein A1 is C1-4alkyl, preferably methyl or ethyl, a known compound or compound prepared by known methods; is reacted with a suitably substituted compound of formula (XXXIX), a known compound or compound prepared by known methods; under Grignard conditions (in a suitably selected anhydrous solvent such as THF); to yield the corresponding compound of formula (XL).
 The compound of formula (XL) is reacted with a suitably selected oxidants such as PCC, Martin's reagent, MnO2, and the like; in a suitably selected organic solvent such as DCM, acetonitrile, and the like; to yield the corresponding compound of formula (XLI).
 The compound of formula (XLI) is reacted with chloro((1R,2R,3S,5R)-2,6,6-trimethylbicyclo[3.1.1]heptan-3-yl)((1R,2S,3S,5R)-2,6,6-trimethylbicyclo[3.1.1]heptan-3-yl)borane (also known as (+)-diisopinocampheyl chloroborane), a known compound; in a suitably selected organic solvent such as THF, toluene, Et2O, and the like; to yield the corresponding, enantiomerically enriched compound of formula (XXXIII).
@@ -623,6 +639,7 @@ In the Examples which follow, some synthesis products are listed as having been 
 In the Examples which follow, some synthesis step result in the coupling of a substituent group to a N-atom on the indazole core of the compounds of the present invention. One skilled in the art will recognize that such coupling reactions generally result in the preparation of two regio-isomers, bound at the N-1 and N-2 nitrogen atoms of the indazole. Said regio-isomers are denoted in the Examples which follow as the “N-1 substituted compound” and the N-2 substituted compound” respectively.
 Example 1-Compound #1
 3-(4-(1-(5-(4-(tert-Butyl)phenyl)-1H-indazol-1-yl)-3-methylbutyl)benzamido)propanoic acid
+<img> id-US20180065955A1-20180308-C00022.TIF </img>
 Step A:
 A reaction mixture of 5-bromo-1H-indazole (1.00 g, 5.08 mmol), (4-(tert-butyl)phenyl)boronic acid (1.08 g, 6.09 mmol), K2CO3 (1.68 g, 12.18 mmol) and tetrakis(triphenylphosphine)palladium (0.59 g, 0.51 mmol) in 1,4-dioxane (15 mL) and H2O (5 mL) was heated under N2 at 120° C. in a microwave for 3 h. The cooled mixture was diluted with EtOAc and washed with H2O. The organic phase was dried over Na2SO4. Filtration and concentration yielded a solid. The solid was triturated with 10 mL of CH2Cl2 and filtered. The resulting off-white solid was collected. The filtrate was purified by chromatography on silica gel (20% to 30% EtOAc in heptane) to yield a white solid. The solid collected after filtration and after column (5-(4-tert-butyl-phenyl)-indazole) were combined and used in the next step. 1H NMR (CDCl3, 400 MHz) δ 10.06 (br s, 1H)), 8.13 (s, 1H), 7.94 (s, 1H), 7.67 (d, J=8.5 Hz, 1H), 7.58 (d, J=8.3 Hz, 2H), 7.56 (d, J=8.5 Hz, 1H), 7.49 (d, J=8.3 Hz, 2H), 1.38 (s, 9H).
 Step B:
@@ -638,6 +655,7 @@ A solution of the white solid prepared in Step D (272 mg, 0.48 mmol) in 4 N HCl/
 Separation, by chiral HPLC, of the material prepared in Example 1 yielded the corresponding enantiomerically enriched Compound #37, which was assigned an R* orientation, and the corresponding enantiomerically enriched Compound #163, which was assigned the S* orientation.
 Example 2-Compound #34
 3-(4-(1-(5-(4-(tert-butyl)phenyl)-2H-indazol-2-yl)-3-methylbutyl)benzamido)propanoic acid
+<img> id-US20180065955A1-20180308-C00023.TIF </img>
 Step A:
 A solution of the N-2 substituted white foam solid prepared in Example 1, Step B (104 mg, 0.23 mmol) in THF/MeOH/H2O (4:1:1 v/v/v) (12 mL) was treated with LiOH (1 M in H2O) (2 mL, 2 mmol). The mixture was stirred at room temperature for 2 h and then at 50° C. for 1 h. After neutralization with 1N HCl, brine was added and the mixture was extracted with EtOAc thrice. The combined extracts were washed with brine and dried over Na2SO4. Filtration and concentration of the filtrate to yield an off-white foam solid. 1H NMR (CHLOROFORM-d) δ 8.00-8.10 (m, 3H), 7.76-7.82 (m, 2H), 7.54-7.59 (m, 3H), 7.42-7.50 (m, 4H), 5.76 (br dd, J=8.8, 6.6 Hz, 1H), 2.53-2.62 (m, 1H), 2.09-2.18 (m, 1H), 1.40-1.53 (m, 1H), 1.37 (s, 9H), 1.02 (d, J=6.6 Hz, 3H), 0.98 (d, J=6.6 Hz, 3H).
 Step B:
@@ -647,6 +665,7 @@ A solution of the white solid prepared in Step B above (143 mg, 0.25 mmol) in 4 
 1H NMR (METHANOL-d4) δ 8.44 (s, 1H), 7.87 (s, 1H), 7.77 (d, J=7.3 Hz, 2H), 7.65-7.69 (m, 1H), 7.54-7.62 (m, 3H), 7.43-7.52 (m, 4H), 5.85 (dd, J=10.0, 5.9 Hz, 1H), 3.60 (t, J=6.8 Hz, 2H), 2.53-2.63 (m, 3H), 2.12 (ddd, J=14.1, 8.2, 5.9 Hz, 1H), 1.33-1.41 (m, 10H), 1.02 (d, J=6.6 Hz, 3H), 0.96 (d, J=6.6 Hz, 3H); MS (ES, m/z) 512 [M+H+].
 Example 3-Compound #68
 3-(4-(1-(5-(4-(tert-Butyl)phenyl)-1H-indazol-1-yl)ethyl)benzamido) propanoic acid
+<img> id-US20180065955A1-20180308-C00024.TIF </img>
 Step A:
 To a mixture of the 4-(1-bromoethyl)benzoic acid (2.29 g, 10.0 mmol) and N-(3-dimethylaminopropyl)-N'-ethylcarbodiimide hydrochloride (2.01 g, 10.5 mmol) in CH2Cl2 (30 mL) at room temperature were added methyl 3-aminopropanoate hydrochloride (1.40 g, 10.0 mmol) and diisopropylethylamine (1.95 mL, 11.0 mmol). The solution was stirred at room temperature for 16 h. The resulting mixture was diluted with CH2Cl2 and washed successively with 1 N aqueous HCl, H2O (twice), brine and then dried over Na2SO4. Filtration and concentration of the filtrate resulted in a residue which was purified by chromatography on silica gel (20% to 50% EtOAc in heptane) to yield a white solid. 1H NMR (CDCl3, 400 MHz) δ 7.75 (d, J=8.3 Hz, 0.9H), 7.74 (d, J=8.1 Hz, 1.1H) (two rotamers 0.9H+1.1H=2H), 7.49 (d, J=8.1 Hz, 1.1H), 7.48 (d, J=8.3 Hz, 0.9H) (two rotamers 0.9H+1.1H=2H), 6.86 (br s, 1H), 5.20 (q, J=6.9 Hz, 0.55H), 5.20 (q, J=6.9 Hz, 0.45H) (two rotamers 0.55H+0.45H=1H), 3.73 (t, J=5.9 Hz, 2H), 3.71 (s, 3H), 2.66 (t, J=5.9 Hz, 2H), 2.04 (d, J=6.9 Hz, 1.65H), 1.84 (d, J=6.9 Hz, 1.35H) (two rotamers 1.65H+1.35H=3H); MS (ES, m/z) 314, 316 [M+H+].
 Step B:
@@ -657,10 +676,12 @@ The off-white foam solid prepared in Step B (the N-1 substituted compound 199 mg
 1H NMR (CDCl3, 400 MHz) δ 8.11 (s, 1H), 7.89 (s, 1H), 7.67 (d, J=8.1 Hz, 2H), 7.44-7.56 (m, 5H), 7.27-7.32 (m, 3H), 6.79 (br t, J=5.9 Hz, 1H), 5.85 (q, J=6.8 Hz, 1H), 3.67 (dt, J=5.8 Hz, 2H), 2.65 (br t, J=5.8 Hz, 2H), 2.04 (d, J=6.8 Hz, 3H), 1.36 (s, 9H).
 Example 4-Compound #161
 3-(4-(1-(5-(4-(tert-butyl)phenyl)-2H-indazol-2-yl)ethyl)benzamido) propanoic acid
+<img> id-US20180065955A1-20180308-C00025.TIF </img>
 The colorless film prepared in Example 3, Step B (the N-2 substituted compound, 108 mg, 0.22 mmol) in THF/MeOH/H2O (4:1:1 v/v/v) (12 mL) was treated with LiOH (1 M in H2O) (2 mL, 2 mmol). The mixture was stirred at room temperature for 3 h. Saturated NH4Cl aqueous solution was added and the resulting mixture was extracted with EtOAc thrice. The combined extracts were washed with brine and dried over Na2SO4. Filtration and concentration of the filtrate resulted in a residue, which was purified by chromatography on silica-gel (10% MeOH in CH2Cl2) to yield the title compound as a yellowish foam solid.
 1H NMR (CDCl3, 400 MHz) δ8.00 (s, 1H), 7.67-7.81 (m, 4H), 7.45-7.60 (m, 5H), 7.29 (br d, J=8.1 Hz, 2H), 6.90 (br s, 1H), 5.89 (q, J=7.0 Hz, 1H), 3.68 (br dt, J=4.9 Hz, 2H), 2.65 (t, J=4.9 Hz, 2H), 2.04 (br d, J=7.0 Hz, 3H), 1.37 (s, 9H).
 Example 5-Compound #9
 3-(4-(1-(5-(2,4-Dichlorophenyl)-1H-indazol-1-yl)-3-methylbutyl)benzamido)propanoic acid
+<img> id-US20180065955A1-20180308-C00026.TIF </img>
 Step A:
 A mixture of 5-bromo-1H-indazole (2.10 g, 10.68 mmol), methyl 4-(1-bromo-3-methylbutyl)benzoate (3.05 g, 10.68 mmol), and Cs2CO3 (4.18 g, 12.82 mmol) in DMF (40 mL) under N2 was heated in an oil bath at 68° C. for 6 hr. The reaction mixture was diluted with CH2CO2 and filtered through CELITE. The filtrate was concentrated under high vacuum to yield a residue, which was purified by chromatography on silica gel (heptane to 10% EtOAc in heptane) to yield the N-1 substituted compound as a yellow oil. 1H NMR (CHLOROFORM-d) δ 8.02 (s, 1H), 7.95 (d, J=8.3, 2H), 7.87 (d, J=1.7 Hz, 1H), 7.39 (dd, J=8.8, 1.7 Hz, 1H), 7.35 (d, J=8.3 Hz, 2H), 7.25 (d, J=8.8 Hz, 1H), 5.67 (dd, J=9.9, 5.5 Hz, 1H), 3.88 (s, 3H), 2.66 (ddd, J=14.0, 9.9, 5.5 Hz, 1H), 2.06 (ddd, J=14.0, 8.5, 5.5 Hz, 1H), 1.35-1.47 (m, 1H), 0.96 (d, J=6.6 Hz, 3H), 0.94 (d, J=6.6 Hz, 3H);
 followed by the N-2 substituted compound as a brownish oil. 1H NMR (CHLOROFORM-d) δ 7.99 (d, J=8.3 Hz, 2H), 7.93 (s, 1H), 7.79 (d, J=1.7 Hz, 1H), 7.61 (d, J=9.3 Hz, 1H), 7.40 (d, J=8.3 Hz, 2H), 7.33 (dd, J=9.3, 1.7 Hz, 1H), 5.70 (dd, J=9.3, 6.6 Hz, 1H), 3.89 (s, 3H), 2.48-2.57 (m, 1H), 2.12 (dt, J=14.0, 7.1 Hz, 1H), 1.35-1.46 (m, 1H), 0.99 (d, J=6.6 Hz, 3H), 0.96 (d, J=6.6 Hz, 3H).
@@ -675,6 +696,7 @@ A solution of the white solid prepared in Step D (72 mg, 0.12 mmol) in TFA/CH2CO
 1H NMR (CHLOROFORM-d) δ 8.12 (s, 1H), 7.73 (s, 1H), 7.67 (d, J=8.1 Hz, 2H), 7.49 (s, 1H), 7.35-7.44 (m, 4H), 7.24-7.31 (m, 2H), 6.79 (br t, J=5.6 Hz, 1H), 5.73 (dd, J=9.5, 5.9 Hz, 1H), 3.67 (q, J=5.5 Hz, 2H), 2.61-2.70 (m, 3H), 2.08 (ddd, J=14.0, 8.0, 5.9 Hz, 1H), 1.46 (dt, J=13.4, 6.6 Hz, 1H), 0.98 (d, J=6.6 Hz, 3H), 0.96 (d, J=6.6 Hz, 3H); MS (ES, m/z) 524 [M+H+].
 Example 6-Compound #226
 3-(4-(1-(5-(2,4-Dichlorophenyl)-2H-indazol-2-yl)-3-methylbutyl)benzamido)propanoic acid
+<img> id-US20180065955A1-20180308-C00027.TIF </img>
 Step A:
 A solution of the brownish oil prepared in Example 5, Step A (the N-2 substituted compound, 0.71 g, 1.77 mmol) in THF/MeOH/H2O (4:1:1 v/v/v, 12 mL) was treated with LiOH aqueous solution (1 M in H2O, 2 mL, 2 mmol). The reaction mixture was stirred in an oil bath at 50° C. for 2 h. Hydrochloric acid (1 M in H2O) was added to neutralize the mixture. Brine was added and the resulting mixture was extracted with EtOAc thrice. The combined extracts were washed with brine and dried over Na2SO4. Filtration and concentration of the filtrate yielded a yellowish foam solid. 1H NMR (CHLOROFORM-d) δ 8.02 (br d, J=7.8 Hz, 2H), 7.93 (s, 1H), 7.79 (s, 1H), 7.62 (d, J=9.3 Hz, 1H), 7.39 (br d, J=7.8 Hz, 2H), 7.33 (dd, J=9.3, 1.7 Hz, 1H), 5.70 (dd, J=8.8, 6.6 Hz, 1H), 2.51 (ddd, J=14.2, 8.8, 6.1 Hz, 1H), 2.10 (dt, J=14.2, 7.2 Hz, 1H), 1.34-1.45 (m, 1H), 0.99 (br d, J=6.6 Hz, 3H), 0.95 (br d, J=6.6 Hz, 3H).
 Step B:
@@ -687,33 +709,43 @@ The white solid prepared in Step C (23 mg, 0.04 mmol) in THF/MeOH/H2O (4:1:1 v/v
 The following compounds (as shown in Examples 7-15 below) were similarly prepared according to the procedures described in Examples 5 and 6, selecting and substituting a suitably substituted boronic acid in the Suzuki coupling step.
 Example 7-Compound #39
 3-(4-(1-(5-(4-Chloro-2-methylphenyl)-1H-indazol-1-yl)-3-methylbutyl)benzamido)propanoic acid
+<img> id-US20180065955A1-20180308-C00028.TIF </img>
 1H NMR (CHLOROFORM-d) δ 8.10 (s, 1H), 7.68 (br d, J=8.1 Hz, 2H), 7.59 (s, 1H), 7.37-7.43 (m, 3H), 7.13-7.24 (m, 4H), 6.78 (br t, J=5.5 Hz, 1H), 5.73 (dd, J=9.5, 5.9 Hz, 1H), 3.63-3.73 (m, 2H), 2.61-2.72 (m, 3H), 2.23 (s, 3H), 2.09 (ddd, J=13.9, 8.2, 6.0 Hz, 1H), 1.47 (dt, J=13.9, 6.7 Hz, 1H), 0.98 (d, J=5.9 Hz, 3H), 0.96 (d, J=5.9 Hz, 3H).
 Example 8-Compound #168
 3-(4-(1-(5-(4-Chloro-2-methylphenyl)-2H-indazol-2-yl)-3-methylbutyl)benzamido)propanoic acid
+<img> id-US20180065955A1-20180308-C00029.TIF </img>
 1H NMR (CHLOROFORM-d) δ 8.03 (s, 1H), 7.73 (br d, J=7.8 Hz, 3H), 7.40-7.52 (m, 3H), 7.14-7.26 (m, 4H), 6.97 (br t, J=5.6 Hz, 1H), 5.81 (br dd, J=8.3, 7.1 Hz, 1H), 3.70 (q, J=5.5 Hz, 2H), 2.67 (br t, J=5.5 Hz, 2H), 2.46-2.55 (m, 1H), 2.23 (s, 3H), 2.06-2.20 (m, J=14.0, 7.1, 7.1 Hz, 1H), 1.37-1.49 (m, 1H), 1.00 (br d, J=6.6 Hz, 3H), 0.96 (br d, J=6.6 Hz, 3H); MS (ES, m/z) 504 [M+H+].
 Example 9-Compound #41
 3-(4-(1-(5-(2-Chloro-4-(trifluoromethyl)phenyl)-1H-indazol-1-yl)-3-methylbutyl)benzamido)propanoic acid
+<img> id-US20180065955A1-20180308-C00030.TIF </img>
 1H NMR (CHLOROFORM-d) δ: 8.15 (s, 1H), 7.77 (s, 1H), 7.75 (s, 1H), 7.68 (br d, J=8.1 Hz, 2H), 7.57 (br d, J=8.1 Hz, 1H), 7.37-7.49 (m, 5H), 6.80 (br t, J=5.6 Hz, 1H), 5.74 (br dd, J=9.7, 5.7 Hz, 1H), 3.68 (q, J=5.2 Hz, 2H), 2.62-2.71 (m, 3H), 2.04-2.13 (m, 1H), 1.41-1.51 (m, 1H), 0.98 (d, J=5.9 Hz, 3H), 0.97 (d, J=5.9 Hz, 3H); MS (ES, m/z) 558 [M+H+].
 Example 10-Compound #225
 3-(4-(1-(5-(2-Chloro-4-(trifluoromethyl)phenyl)-2H-indazol-2-yl)-3-methylbutyl)benzamido)propanoic acid
+<img> id-US20180065955A1-20180308-C00031.TIF </img>
 1H NMR (CHLOROFORM-d) δ 8.08 (s, 1H), 7.66-7.80 (m, 5H), 7.53-7.60 (m, 1H), 7.48 (d, J=8.1 Hz, 1H), 7.44 (d, J=8.1 Hz, 2H), 7.35 (d, J=9.8 Hz, 1H), 6.93 (br t, J=5.5 Hz, 1H), 5.77-5.83 (m, 1H), 3.70 (q, J=5.4 Hz, 2H), 2.68 (br t, J=5.4 Hz, 2H), 2.52 (ddd, J=14.4, 8.6, 5.9 Hz, 1H), 2.13 (dt, J=14.4, 7.2 Hz, 1H), 1.38-1.48 (m, 1H), 1.00 (d, J=6.6 Hz, 3H), 0.96 (d, J=6.6 Hz, 3H); MS (ES, m/z) 558 [M+H+].
 Example 11-Compound #84
 3-((4-(3-Methyl-1-(5-(2-methyl-4-(trifluoromethyl)phenyl)-1H-indazol-1-yl)butyl)benzyl)amino)propanoic acid
+<img> id-US20180065955A1-20180308-C00032.TIF </img>
 1H NMR (CHLOROFORM-d) δ 8.14 (br s, 1H), 7.65-7.73 (m, 2H), 7.63 (s, 1H), 7.39-7.54 (m, 5H), 7.28-7.36 (m, 2H), 6.73-6.81 (m, 1H), 5.75 (br dd, J=9.0, 5.6 Hz, 1H), 3.70 (br d, J=5.4 Hz, 2H), 2.64-2.75 (m, 3H), 2.30 (s, 3H), 2.05-2.14 (m, 1H), 1.43-1.53 (m, 1H), 0.99 (t, J=6.0 Hz, 3H), 0.98 (t, J=6.0 Hz, 3H); MS (ES, m/z) 538 [M+H+].
 Example 12-Compound #189
 3-(4-(3-Methyl-1-(5-(2-methyl-4-(trifluoromethyl)phenyl)-2H-indazol-2-yl)butyl)benzamido)propanoic acid
+<img> id-US20180065955A1-20180308-C00033.TIF </img>
 1H NMR (CHLOROFORM-d) δ 8.05 (s, 1H), 7.68-7.80 (m, 3H), 7.43-7.55 (m, 5H), 7.34 (d, J=8.1 Hz, 1H), 7.23 (d, J=8.9 Hz, 1H), 6.94 (br t, J=5.7 Hz, 1H), 5.81 (br t, J=7.7 Hz, 1H), 3.70 (q, J=5.8 Hz, 2H), 2.68 (br t, J=5.8 Hz, 2H), 2.47-2.57 (m, 1H), 2.32 (s, 3H), 2.14 (dt, J=13.8, 7.0 Hz, 1H), 1.37-1.50 (m, 1H), 1.01 (d, J=6.4 Hz, 3H), 0.97 (d, J=6.6 Hz, 3H); MS (ES, m/z) 538 [M+H+].
 Example 13-Compound #38
 3-((4-(1-(5-(4-Methoxyphenyl)-1H-indazol-1-yl)-3-methylbutyl)benzyl)amino)propanoic acid
+<img> id-US20180065955A1-20180308-C00034.TIF </img>
 1H NMR (CHLOROFORM-d) δ 8.11 (s, 1H), 7.84 (s, 1H), 7.66 (d, J=8.1 Hz, 2H), 7.47-7.56 (m, 3H), 7.34-7.42 (m, 3H), 6.98 (d, J=8.8 Hz, 2H), 6.78 (br t, J=6.0 Hz, 1H), 5.73 (dd, J=9.8, 5.6 Hz, 1H), 3.85 (s, 3H), 3.61-3.73 (m, 2H), 2.61-2.71 (m, 3H), 2.06 (ddd, J=13.8, 8.4, 5.7 Hz, 1H), 1.45 (dt, J=13.8, 6.7 Hz, 1H), 0.97 (t, J=6.6 Hz, 3H), 0.95 (t, J=6.6 Hz, 3H); MS (ES, m/z) 486 [M+H+].
 Example 14-Compound #10
 3-((4-(3-Methyl-1-(5-(4-(trifluoromethoxy)phenyl)-1H-indazol-1-yl)butyl)benzyl)amino)propanoic acid
+<img> id-US20180065955A1-20180308-C00035.TIF </img>
 1H NMR (CHLOROFORM-d) δ 8.13 (s, 1H), 7.86 (s, 1H), 7.67 (d, J=8.3 Hz, 2H), 7.51-7.60 (m, 3H), 7.41-7.46 (m, 1H), 7.38 (d, J=8.3 Hz, 2H), 7.28 (dd, J=8.8, 2H), 6.74 (t, J=6.1 Hz, 1H), 5.73 (dd, J=9.8, 5.6 Hz, 1H), 3.67 (q, J=6.0 Hz, 2H), 2.62-2.71 (m, 3H), 2.07 (ddd, J=14.0, 8.5, 5.6 Hz, 1H), 1.40-1.51 (m, 1H), 0.98 (t, J=6.5 Hz, 3H) 0.96 (t, J=6.5 Hz, 3H); MS (ES, m/z) 540 [M+H+].
 Example 15-Compound #118
 3-((4-(1-(5-(3,5-Dichlorophenyl)-1H-indazol-1-yl)-3-methylbutyl)benzyl)amino)propanoic acid
+<img> id-US20180065955A1-20180308-C00036.TIF </img>
 1H NMR (CHLOROFORM-d) δ 8.13 (s, 1H), 7.87 (s, 1H), 7.65-7.71 (m, 2H), 7.36-7.52 (m, 6H), 7.32 (t, J=1.8 Hz, 1H), 6.66-6.74 (m, 1H), 5.73 (dd, J=9.4, 5.5 Hz, 1H), 3.64-3.75 (m, 2H), 2.62-2.74 (m, 3H), 2.03-2.13 (m, 1H), 1.41-1.51 (m, 1H), 0.98 (t, J=6.0 Hz, 3H), 0.97 (t, J=6.0 Hz, 3H); MS (ES, m/z) 524 [M+H+].
 Example 16-Compound #113
 3-(5-(1-(5-(2,4-Dichlorophenyl)-1H-indazol-1-yl)-3-methylbutyl)picolinamido)propanoic acid
+<img> id-US20180065955A1-20180308-C00037.TIF </img>
 Step A:
 A mixture of 5-bromo-1H-indazole (2.69 g, 13.65 mmol), methyl 5-(1-bromo-3-methylbutyl)picolinate (3.55 g, 12.42 mmol), and Cs2CO3 (5.34 g, 16.38 mmol) in DMF (50 mL) under N2 was heated in an oil bath at 68° C. for 60 hr. The reaction mixture was diluted with CH2CO2 and filtered through CELITE. The filtrate was concentrated under high vacuum to yield a residue, which was purified by chromatography on silica gel (10% to 40% EtOAc in heptane) to yield a yellow oil (the N-1 substituted compound). 1H NMR (CHLOROFORM-d) δ 8.71 (d, J=2.2 Hz, 1H), 8.03 (s, 1H), 8.04 (d, J=8.6 Hz, 1H), 7.88 (d, J=1.5 Hz, 1H), 7.79 (dd, J=8.6, 2.2 Hz, 1H), 7.43 (dd, J=8.9, 1.5 Hz, 1H), 7.28 (d, J=8.9 Hz, 1H), 5.71 (dd, J=10.0, 5.6 Hz, 1H), 3.98 (s, 3H), 2.68 (ddd, J=13.9, 10.0, 5.6 Hz, 1H), 2.04 (ddd, J=14.0, 8.4, 5.6 Hz, 1H), 1.35-1.47 (m, 1H), 0.97 (d, J=5.4 Hz, 3H), 0.95 (d, J=5.4 Hz, 3H);
 followed by a second yellow oil (the N-2 substituted compound). 1H NMR (CHLOROFORM-d) δ 8.75 (d, J=2.2 Hz, 1H), 8.09 (d, J=8.3 Hz, 1H), 7.97 (s, 1H), 7.87 (dd, J=8.3, 2.2 Hz, 1H), 7.80 (d, J=1.8 Hz, 1H), 7.60 (d, J=9.2 Hz, 1H), 7.34 (dd, J=9.2, 1.8 Hz, 1H), 5.68-5.75 (m, 1H), 3.99 (s, 3H), 2.58 (ddd, J=13.9, 9.4, 6.0 Hz, 1H), 2.04-2.15 (m, 1H), 1.34-1.43 (m, 1H), 1.01 (d, J=6.6 Hz, 3H), 0.96 (d, J=6.6 Hz, 3H);
@@ -728,6 +760,7 @@ A solution of the white solid prepared in Step D (78 mg, 0.13 mmol) in 4 N HCl i
 1H NMR (METHANOL-d4) δ 8.66 (br s, 1H), 8.19 (s, 1H), 7.95-8.06 (m, 2H), 7.74-7.81 (m, 2H), 7.56 (s, 1H), 7.34-7.48 (m, 3H), 6.07 (br dd, J=10.4, 4.5 Hz, 1H), 3.64 (br t, J=6.6 Hz, 2H), 2.68-2.79 (m, 1H), 2.61 (br t, J=6.6 Hz, 2H), 2.05 (ddd, J=13.8, 8.9, 5.0 Hz, 1H), 1.28-1.46 (m, 1H), 1.01 (d, J=6.6 Hz, 3H), 0.96 (d, J=6.6 Hz, 3H); MS (ES, m/z) 525, 527 [M+H+].
 Example 17-Compound #83
 3-(5-(1-(5-(2,4-Dichlorophenyl)-2H-indazol-2-yl)-3-methylbutyl)picolinamido)propanoic acid
+<img> id-US20180065955A1-20180308-C00038.TIF </img>
 Step A:
 A solution of the second yellow oil prepared in Example 16, Step A (the N-2 substituted compound, 1.08 g, 2.69 mmol) in THF/MeOH/H2O (4:1:1 v/v/v, 18 mL) was treated with LiOH aqueous solution (1 M in H2O, 3 mL, 3 mmol). The reaction mixture was stirred in an oil bath at 50° C. for 2 h. Hydrochloric acid (1 M in H2O) was added to neutralize the mixture. Brine was added and the resulting mixture was extracted with EtOAc thrice. The combined extracts were washed with brine and dried over Na2SO4. Filtration and concentration of the filtrate yielded a yellow foam solid. 1H NMR (CHLOROFORM-d) δ 8.64 (s, 1H), 8.19 (d, J=8.1 Hz, 1H), 8.01 (s, 1H), 7.98 (d, J=8.1 Hz, 1H), 7.81 (s, 1H), 7.61 (d, J=9.0 Hz, 1H), 7.36 (dd, J=9.0, 1.7 Hz, 1H), 5.74 (dd, J=9.7, 6.0 Hz, 1H), 2.57-2.66 (m, 1H), 2.03-2.13 (m, 1H), 1.34-1.45 (m, 1H), 1.02 (d, J=6.6 Hz, 3H), 0.97 (d, J=6.6 Hz, 3H).
 Step B:
@@ -740,36 +773,47 @@ The white solid prepared in Step C (43 mg, 0.08 mmol) in THF/MeOH/H2O (4:1:1 v/v
 The following compounds (as shown in Examples 18-27 below) were similarly prepared according to the procedures described in Examples 16 and 17, selecting and substituting a suitably substituted boronic acid in the Suzuki coupling step.
 Example 18-Compound #36
 3-(5-(1-(5-(4-(tert-Butyl)phenyl)-1H-indazol-1-yl)-3-methylbutyl)picolinamido)propanoic acid
+<img> id-US20180065955A1-20180308-C00039.TIF </img>
 1H NMR (METHANOL-d4) δ 8.63 (s, 1H), 8.17 (s, 1H), 7.90-8.02 (m, 3H), 7.63-7.77 (m, 2H), 7.56 (br d, J=8.3 Hz, 2H), 7.46 (br d, J=8.1 Hz, 2H), 6.03 (br dd, J=10.5, 4.6 Hz, 1H), 3.63 (br t, J=6.6 Hz, 2H), 2.65-2.76 (m, 1H), 2.60 (br t, J=6.6 Hz, 2H), 2.04 (ddd, J=13.6, 8.7, 5.0 Hz, 1H), 1.34 (s, 10H), 1.00 (br d, J=6.4 Hz, 3H), 0.94 (br d, J=6.6 Hz, 3H); MS (ES, m/z) 513 [M+H+].
 Example 19-Compound #14
 3-(5-(1-(5-(4-Chloro-2-methylphenyl)-1H-indazol-1-yl)-3-methylbutyl)picolinamido)propanoic acid
+<img> id-US20180065955A1-20180308-C00040.TIF </img>
 1H NMR (CHLOROFORM-d) δ 8.55 (d, J=2.0 Hz, 1H), 8.39 (t, J=6.2 Hz, 1H), 8.11 (s, 1H), 8.12 (d, J=7.5 Hz, 1H), 7.87 (dd, J=8.1, 2.2 Hz, 1H), 7.61 (s, 1H), 7.42 (d, J=8.8 Hz, 1H), 7.23-7.29 (m, 3H), 7.18-7.23 (m, 1H), 7.14-7.18 (m, 1H), 5.77 (dd, J=9.8, 5.6 Hz, 1H), 3.74 (q, J=6.3 Hz, 2H), 2.67-2.76 (m, 3H), 2.22 (s, 3H), 1.99-2.13 (m, 1H), 1.42-1.55 (m, 1H), 1.00 (d, J=7.1 Hz, 3H) 0.98 (d, J=7.1 Hz, 3H); MS (ES, m/z) 505 [M+H+].
 Example 20-Compound #252
 3-(5-(1-(5-(4-Chloro-2-methylphenyl)-2H-indazol-2-yl)-3-methylbutyl)picolinamido)propanoic acid
+<img> id-US20180065955A1-20180308-C00041.TIF </img>
 1H NMR (CHLOROFORM-d) δ 8.61 (s, 1H), 8.45 (br t, J=6.0 Hz, 1H), 8.15 (d, J=8.1 Hz, 1H), 8.05 (s, 1H), 7.89 (br d, J=8.1 Hz, 1H), 7.74 (d, J=8.8 Hz, 1H), 7.49 (s, 1H), 7.15-7.24 (m, 4H), 5.80 (dd, J=9.0, 6.4 Hz, 1H), 3.75 (q, J=6.0 Hz, 2H), 2.71 (br t, J=6.0 Hz, 2H), 2.53-2.66 (m, 1H), 2.25 (s, 3H), 2.07-2.20 (m, 1H), 1.39-1.51 (m, 1H), 1.03 (d, J=6.4 Hz, 3H), 0.98 (d, J=6.6 Hz, 3H); MS (ES, m/z) 505 [M+H+].
 Example 21-Compound #43
 3-(5-(1-(5-(2-Chloro-4-(trifluoromethyl)phenyl)-1H-indazol-1-yl)-3-methylbutyl)picolinamido)propanoic acid
+<img> id-US20180065955A1-20180308-C00042.TIF </img>
 1H NMR (METHANOL-d4) δ: 8.69 (s, 1H), 8.22 (s, 1H), 8.06 (br s, 2H), 7.79-7.87 (m, 3H), 7.65-7.71 (m, 1H), 7.59-7.65 (m, 1H), 7.51 (d, J=8.9 Hz, 1H), 6.10 (br dd, J=10.4, 4.8 Hz, 1H), 3.61-3.68 (m, 2H), 2.70-2.80 (m, 1H), 2.59-2.65 (m, 2H), 2.01-2.11 (m, 1H), 1.33-1.46 (m, 1H), 0.99-1.06 (m, 3H), 0.96 (dd, J=6.6, 1.7 Hz, 3H); MS (ES, m/z) 559 [M+H+].
 Example 22-Compound #53
 3-(5-(1-(5-(2-Chloro-4-(trifluoromethyl)phenyl)-2H-indazol-2-yl)-3-methylbutyl)picolinamido)pr-opanoic acid
+<img> id-US20180065955A1-20180308-C00043.TIF </img>
 1H NMR (CHLOROFORM-d) δ 8.57-8.62 (m, 1H), 8.44 (br t, J=6.0 Hz, 1H), 8.15 (br d, J=8.9 Hz, 1H), 8.11 (s, 1H), 7.89 (br d, J=8.2 Hz, 1H), 7.79 (d, J=8.9 Hz, 1H), 7.75 (s, 1H), 7.68 (s, 1H), 7.54-7.59 (m, 1H), 7.50 (d, J=8.2 Hz, 1H), 7.36 (d, J=9.3 Hz, 1H), 5.77-5.83 (m, 1H), 3.69-3.79 (m, 2H), 2.66-2.75 (m, 2H), 2.55-2.67 (m, 1H), 2.08-2.17 (m, 1H), 1.39-1.49 (m, 1H), 1.03 (d, J=6.4 Hz, 3H), 0.98 (d, J=6.6 Hz, 3H); MS (ES, m/z) 559 [M+H+].
 Example 23-Compound #79
 3-(5-(1-(5-(Benzofuran-2-yl)-1H-indazol-1-yl)-3-methylbutyl)picolinamido)propanoic acid
+<img> id-US20180065955A1-20180308-C00044.TIF </img>
 1H NMR (CHLOROFORM-d) δ 8.52-8.58 (m, 1H), 8.40 (br t, J=6.1 Hz, 1H), 8.26 (s, 1H), 8.16 (s, 1H), 8.12 (d, J=7.6 Hz, 1H), 7.81-7.89 (m, 2H), 7.58 (d, J=7.2 Hz, 1H), 7.52 (d, J=8.2 Hz, 1H), 7.45 (d, J=8.8 Hz, 1H), 7.21-7.31 (m, 3H), 6.98 (s, 1H), 5.76 (dd, J=9.9, 5.5 Hz, 1H), 3.73 (q, J=6.0 Hz, 2H), 2.64-2.75 (m, 3H), 2.06 (ddd, J=14.1, 8.3, 5.5 Hz, 1H), 1.38-1.51 (m, 1H), 0.97 (br d, J=8.3 Hz, 3H), 0.98 (br d, J=8.3 Hz, 3H); MS (ES, m/z) 497 [M+H+].
 Example 24-Compound #260
 3-(5-(1-(5-(Benzofuran-2-yl)-2H-indazol-2-yl)-3-methylbutyl)picolinamido)propanoic acid
+<img> id-US20180065955A1-20180308-C00045.TIF </img>
 1H NMR (CHLOROFORM-d) δ 8.60 (br s, 1H), 8.44 (br s, 1H), 8.11-8.21 (m, 2H), 8.09 (s, 1H), 7.88 (br d, J=7.6 Hz, 1H), 7.70-7.81 (m, 2H), 7.58 (d, J=7.3 Hz, 1H), 7.52 (d, J=8.1 Hz, 1H), 7.27-7.30 (m, 1H), 7.20-7.25 (m, 1H), 6.99 (s, 1H), 5.77 (br dd, J=8.6, 6.8 Hz, 1H), 3.66-3.81 (m, 2H), 2.71 (br s, 2H), 2.44-2.66 (m, 1H), 2.07-2.21 (m, 1H), 1.36-1.48 (m, 1H), 1.02 (d, J=6.4 Hz, 3H), 0.97 (d, J=6.6 Hz, 3H); MS (ES, m/z) 497 [M+H+].
 Example 25-Compound #262
 3-(5-(3-Methyl-1-(5-(2-methyl-4-(trifluoromethyl)phenyl)-1H-indazol-1-yl)butyl)picolinamido)propanoic acid
+<img> id-US20180065955A1-20180308-C00046.TIF </img>
 1H NMR (CHLOROFORM-d) δ 8.61 (d, J=2.0 Hz, 1H), 8.44 (br t, J=6.2 Hz, 1H), 8.16 (d, J=8.3 Hz, 1H), 8.07 (s, 1H), 7.90 (dd, J=8.1, 2.2 Hz, 1H), 7.77 (d, J=9.0 Hz, 1H), 7.53 (s, 2H), 7.49 (br d, J=8.1 Hz, 1H), 7.35 (d, J=7.8 Hz, 1H), 7.24 (d, J=8.9 Hz, 1H), 5.81 (dd, J=9.4, 6.2 Hz, 1H), 3.75 (q, J=6.2 Hz, 2H), 2.71 (t, J=6.2 Hz, 2H), 2.55-2.67 (m, 1H), 2.32 (s, 3H), 2.08-2.18 (m, 1H), 1.40-1.51 (m, 1H), 1.03 (d, J=6.6 Hz, 3H), 0.99 (d, J=6.6 Hz, 3H); MS (ES, m/z) 539 [M+H+].
 Example 26-Compound #114
 3-(5-(3-Methyl-1-(5-(4-(trifluoromethoxy)phenyl)-1H-indazol-1-yl)butyl)picolinamido)propanoic acid
+<img> id-US20180065955A1-20180308-C00047.TIF </img>
 1H NMR (CHLOROFORM-d) δ 8.55 (d, J=2.0 Hz, 1H), 8.46 (br t, J=6.2 Hz, 1H), 8.16 (s, 1H), 8.11 (d, J=8.3 Hz, 1H), 7.84-7.90 (m, 2H), 7.55-7.61 (m, 3H), 7.47 (d, J=8.8 Hz, 1H), 7.27-7.30 (m, 2H), 5.78 (dd, J=10.0, 5.6 Hz, 1H), 3.74 (q, J=6.2 Hz, 2H), 2.67-2.76 (m, 3H), 2.07 (ddd, J=14.1, 8.6, 5.5 Hz, 1H), 1.39-1.51 (m, 1H), 0.99 (d, J=6.6 Hz, 3H), 0.97 (br d, J=6.8 Hz, 3H); MS (ES, m/z) 541 [M+H+].
 Example 27-Compound #70
 3-(5-(3-Methyl-1-(5-(4-(trifluoromethyl)phenyl)-1H-indazol-1-yl)butyl)picolinamido)propanoic acid
+<img> id-US20180065955A1-20180308-C00048.TIF </img>
 1H NMR (METHANOL-d4) δ 8.76 (br s, 1H), 8.21-8.26 (m, 2H), 8.08-8.17 (m, 2H), 7.82-7.87 (m, 3H), 7.72-7.79 (m, 3H), 6.15 (br dd, J=10.4, 4.3 Hz, 1H), 3.65 (br t, J=6.5 Hz, 2H), 2.66-2.78 (m, 1H), 2.60-2.66 (m, 2H), 2.06 (ddd, J=13.8, 9.0, 4.9 Hz, 1H), 1.32-1.43 (m, 1H), 1.02 (d, J=6.6 Hz, 3H), 0.95 (d, J=6.6 Hz, 3H); MS (ES, m/z) 525 [M+H+].
 Example 28-Compound #47
 3-(4-(1-(5-(4-(tert-Butyl)phenyl)-4-methyl-1H-indazol-1-yl)-3-methylbutyl)benzamido)propanoic acid
+<img> id-US20180065955A1-20180308-C00049.TIF </img>
 Step A:
 A mixture of 5-bromo-4-methyl-1H-indazole (0.49 g, 2.31 mmol), methyl 4-(1-bromo-3-methylbutyl)benzoate (0.59 g, 2.08 mmol) and Cs2CO3 (0.90 g, 2.77 mmol) in DMF (9 mL) under N2 was heated in an oil bath at 68° C. for 16 h. The reaction mixture was diluted with CH2Cl2 and filtered. The filtrate was concentrated under high vacuum. The residue was purified by chromatography on silica gel (heptane to 10% EtOAc in heptane) to yield a yellowish solid (the N-1 substituted compound). 1H NMR (CHLOROFORM-d) δ: 8.07 (s, 1H), 7.94 (d, J=8.3 Hz, 2H), 7.43 (d, J=8.8 Hz, 1H), 7.34 (d, J=8.3 Hz, 2H), 7.08 (d, J=8.8 Hz, 1H), 5.66 (dd, J=9.9, 5.5 Hz, 1H), 3.87 (s, 3H), 2.63-2.70 (m, 1H), 2.62 (s, 3H), 2.00-2.09 (m, 1H), 1.34-1.47 (m, 1H), 0.95 (d, J=6.5 Hz, 3H), 0.94 (d, J=6.5 Hz, 3H);
 followed a second yellowish solid (the N-2 substituted compound). 1H NMR (CHLOROFORM-d) δ: 7.93-8.02 (m, 3H), 7.35-7.50 (m, 4H), 5.69 (dd, J=9.0, 6.6 Hz, 1H), 3.90 (s, 3H), 2.49-2.56 (m, 1H), 2.53 (s, 3H), 2.13 (dt, J=14.2, 7.1 Hz, 1H), 1.36-1.48 (m, 1H), 1.00 (d, J=6.6 Hz, 3H), 0.96 (d, J=6.8 Hz, 3H).
@@ -784,6 +828,7 @@ A solution of the yellowish solid prepared in Step D (36 mg, 0.06 mmol) in TFA/C
 1H NMR (CHLOROFORM-d) δ 8.13 (s, 1H), 7.67 (d, J=8.3 Hz, 2H), 7.43 (br d, J=8.1 Hz, 2H), 7.40 (br d, J=8.1 Hz, 2H), 7.28 (s, 1H), 7.22-7.28 (m, 3H), 6.72 (br t, J=6.0 Hz, 1H), 5.72 (dd, J=10.1, 5.5 Hz, 1H), 3.69 (q, J=6.0 Hz, 2H), 2.63-2.73 (m, 3H), 2.53 (s, 3H), 2.02-2.11 (m, 1H), 1.42-1.53 (m, 1H), 1.37 (s, 9H), 0.98 (t, J=6.0 Hz, 3H), 0.97 (t, J=6.0 Hz, 3H); MS (ES, m/z) 526 [M+H+].
 Example 29-Compound #78
 3-(4-(1-(5-(4-(tert-Butyl)phenyl)-4-methyl-2H-indazol-2-yl)-3-methylbutyl)benzamido)propanoic acid
+<img> id-US20180065955A1-20180308-C00050.TIF </img>
 Step A:
 A solution of the second yellowish solid prepared in Example 28, Step A (the N-2 substituted compound, 0.18 g, 0.44 mmol) in THF/MeOH/H2O (4:1:1 v/v/v, 12 mL) was treated with LiOH aqueous solution (1 M in H2O, 2 mL, 2 mmol). The reaction mixture was stirred at room temperature for 16 h. Hydrochloric acid (1 M in H2O) was added to neutralize the mixture. Brine was added and the resulting mixture was extracted with EtOAc thrice. The combined extracts were washed with brine and dried over Na2SO4. Filtration and concentration of the filtrate yielded an off-white solid.
 Step B:
@@ -796,117 +841,155 @@ A solution of the yellowish solid prepared in Step C (41 mg, 0.07 mmol) in TFA/C
 The following compounds (as shown in Examples 30-66 below) were similarly prepared according to the procedures described in Examples 28 and 29, selecting and substituting a suitably substituted indazoles as the starting material.
 Example 30-Compound #55
 3-(4-(1-(5-(2-Chloro-4-(trifluoromethyl)phenyl)-4-methyl-1H-indazol-1-yl)-3-methylbutyl)benzamido)propanoic acid
+<img> id-US20180065955A1-20180308-C00051.TIF </img>
 1H NMR (CHLOROFORM-d) δ: 8.15 (s, 1H), 7.73-7.77 (m, 1H), 7.65-7.70 (m, 2H), 7.53-7.59 (m, 1H), 7.25-7.44 (m, 4H), 707-7.12 (m, 1H), 6.83 (br t, J=5.7 Hz, 1H), 5.71 (dd, J=9.3, 5.9 Hz, 1H), 3.67 (q, J=5.6 Hz, 2H), 2.60-2.71 (m, 3H), 2.35 (d, J=1.7 Hz, 3H), 2.00-2.14 (m, 1H), 1.38-1.54 (m, 1H), 0.92-1.01 (m, 6H); MS (ES, m/z) 572 [M+H+].
 Example 31-Compound #18
 3-(4-(1-(5-(2-Chloro-4-(trifluoromethyl)phenyl)-4-methyl-2H-indazol-2-yl)-3-methylbutyl)benzamido)propanoic acid
+<img> id-US20180065955A1-20180308-C00052.TIF </img>
 1H NMR (CHLOROFORM-d) δ: 8.04 (d, J=5.1 Hz, 1H), 7.71-7.78 (m, 3H), 7.61 (br d, J=8.8 Hz, 1H), 7.57 (br d, J=7.8 Hz, 1H), 7.47 (d, J=8.3 Hz, 2H), 7.38 (br d, J=7.8 Hz, 1H), 7.06 (d, J=8.3 Hz, 1H), 6.97 (br t, J=6.0 Hz, 1H), 5.82 (br t, J=7.8 Hz, 1H), 3.71 (q, J=5.9 Hz, 2H), 2.68 (t, J=5.9 Hz, 2H), 2.47-2.57 (m, 1H), 2.27 (s, 3H), 2.09-2.19 (m, 1H), 1.40-1.51 (m, 1H), 1.01 (d, J=6.6 Hz, 3H), 0.97 (d, J=6.6 Hz, 3H); MS (ES, m/z) 572 [M+H+].
 Example 32-Compound #21
 3-(4-(3-Methyl-1-(4-methyl-5-(2-methyl-4-(trifluoromethyl)phenyl)-1H-indazol-1-yl)butyl)benzamido)propanoic acid
+<img> id-US20180065955A1-20180308-C00053.TIF </img>
 1H NMR (CHLOROFORM-d) δ: 8.13 (s, 1H), 7.65-7.72 (m, 2H), 7.38-7.54 (m, 4H), 7.17-7.28 (m, 2H), 7.03-7.08 (m, 1H), 6.77-6.85 (m, 1H), 5.72 (br dd, J=9.5, 5.9 Hz, 1H), 3.63-3.72 (m, 2H), 2.61-2.72 (m, 3H), 2.28 (s, 3H), 2.02-2.15 (m, 4H), 1.39-1.54 (m, 1H), 0.94-1.02 (m, 6H); MS (ES, m/z) 552 [M+H+].
 Example 33-Compound #63
 3-(4-(3-Methyl-1-(4-methyl-5-(2-methyl-4-(trifluoromethyl)phenyl)-2H-indazol-2-yl)butyl)benzamido)propanoic acid
+<img> id-US20180065955A1-20180308-C00054.TIF </img>
 1H NMR (CHLOROFORM-d) δ 8.03 (br d, J=3.4 Hz, 1H), 7.75 (br d, J=7.8 Hz, 2H), 7.61 (br d, J=8.6 Hz, 1H), 7.53 (s, 1H), 7.48 (br d, J=7.8 Hz, 3H), 7.18-7.25 (m, 1H), 7.05 (d, J=8.6 Hz, 1H), 6.86-6.93 (m, 1H), 5.82-5.89 (m, 1H), 3.69-3.76 (m, 2H), 2.67-2.73 (m, 2H), 2.47-2.57 (m, 1H), 2.18-2.24 (m, 4H), 2.12 (s, 3H), 1.43-1.53 (m, 1H), 1.02 (d, J=6.6 Hz, 3H), 0.99 (d, J=6.6 Hz, 3H); MS (ES, m/z) 552 [M+H+].
 Example 34-Compound #127
 3-(4-(1-(5-(2,4-Dichlorophenyl)-4-methyl-1H-indazol-1-yl)-3-methylbutyl)benzamido)propanoic acid
+<img> id-US20180065955A1-20180308-C00055.TIF </img>
 1H NMR (CHLOROFORM-d) δ 8.14 (s, 1H), 7.67 (br d, J=5.1 Hz, 2H), 7.49 (br d, J=5.6 Hz, 1H), 7.42 (br d, J=7.8 Hz, 1H), 7.38 (br d, J=8.1 Hz, 1H), 7.07-7.32 (m, 4H), 6.76-6.85 (m, 1H), 5.67-5.75 (m, 1H), 3.67 (br d, J=5.4 Hz, 2H), 2.60-2.71 (m, 3H), 2.34 (s, 3H), 2.07 (tt, J=14.8, 7.3 Hz, 1H), 1.36-1.54 (m, 1H), 0.92-1.01 (m, 6H); MS (ES, m/z) 538, 540 [M+H+].
 Example 35-Compound #20
 3-(4-(1-(5-(4-Chloro-2-methylphenyl)-4-methyl-2H-indazol-2-yl)-3-methylbutyl)benzamido)propanoic acid
+<img> id-US20180065955A1-20180308-C00056.TIF </img>
 1H NMR (CHLOROFORM-d) δ 7.96-8.04 (m, 1H), 7.74 (br d, J=7.8 Hz, 2H), 7.53-7.61 (m, 1H), 7.48 (br d, J=7.8 Hz, 2H), 7.27 (s, 1H), 7.20 (dd, J=8.2, 2.1 Hz, 1H), 7.01-7.07 (m, 2H), 6.85-6.91 (m, 1H), 5.79-5.87 (m, 1H), 3.72 (br d, J=6.1 Hz, 2H), 2.67-2.73 (m, 2H), 2.48-2.57 (m, 1H), 2.12-2.24 (m, 4H), 2.04 (s, 3H), 1.42-1.52 (m, 1H), 1.02 (d, J=6.6 Hz, 3H), 0.98 (d, J=6.6 Hz, 3H); MS (ES, m/z) 518 [M+H+].
 Example 36-Compound #135
 3-(4-(1-(4-Chloro-5-(2-methyl-4-(trifluoromethyl)phenyl)-1H-indazol-1-yl)-3-methylbutyl)benzamido)propanoic acid
+<img> id-US20180065955A1-20180308-C00057.TIF </img>
 1H NMR (CHLOROFORM-d) δ: 8.20 (s, 1H), 7.70 (dd, J=8.2, 4.8 Hz, 2H), 7.21-7.55 (m, 7H), 7.13 (dd, J=8.6, 3.7 Hz, 1H), 6.73-6.80 (m, 1H), 5.71 (dd, J=9.7, 5.7 Hz, 1H), 3.70 (q, J=5.9 Hz, 2H), 2.63-2.73 (m, 3H), 2.04-2.20 (m, 4H), 1.39-1.50 (m, 1H), 0.94-1.02 (m, 6H); MS (ES, m/z) 572 [M+H+].
 Example 37-Compound #232
 3-(4-(1-(4-Chloro-5-(2-chloro-4-(trifluoromethyl)phenyl)-2H-indazol-2-yl)-3-methylbutyl)benzamido)propanoic acid
+<img> id-US20180065955A1-20180308-C00058.TIF </img>
 1H NMR (CHLOROFORM-d) δ: 8.11 (d, J=2.7 Hz, 1H), 7.75 (d, J=8.1 Hz, 2H), 7.67 (d, J=8.8 Hz, 1H), 7.44-7.57 (m, 4H), 7.26-7.30 (m, 1H), 7.08 (d, J=8.8 Hz, 1H), 6.89 (br t, J=4.8 Hz, 1H), 5.77 (br t, J=6.8 Hz, 1H), 3.65-3.77 (m, 2H), 2.69 (br t, J=5.5 Hz, 2H), 2.53 (dt, J=13.9, 7.2 Hz, 1H), 2.11-2.21 (m, 4H), 1.39-1.50 (m, 1H), 1.02 (br d, J=6.4 Hz, 3H), 0.98 (br d, J=6.6 Hz, 3H); MS (ES, m/z) 572 [M+H+].
 Example 38-Compound #67
 3-(4-(1-(4-Chloro-5-(4-(trifluoromethyl)phenyl)-1H-indazol-1-yl)-3-methylbutyl)benzamido)propanoic acid
+<img> id-US20180065955A1-20180308-C00059.TIF </img>
 1H NMR (CHLOROFORM-d) δ 8.22 (s, 1H), 7.65-7.75 (m, 4H), 7.56 (d, J=8.1 Hz, 2H), 7.27-7.41 (m, 4H), 6.75-6.83 (m, 1H), 5.71 (dd, J=10.0, 5.6 Hz, 1H), 3.63-3.72 (m, 1H), 2.59-2.74 (m, 3H), 2.03-2.11 (m, 1H), 1.39-1.50 (m, 1H), 0.98 (t, J=5.9 Hz, 3H), 0.96 (t, J=5.9 Hz, 3H).
 Example 39-Compound #147
 3-(4-(1-(4-Chloro-5-(4-(trifluoromethyl)phenyl)-2H-indazol-2-yl)-3-methylbutyl)benzamido)prop-anoic acid
+<img> id-US20180065955A1-20180308-C00060.TIF </img>
 1H NMR (CHLOROFORM-d) δ: 8.14 (s, 1H), 7.67-7.76 (m, 6H), 7.59 (d, J=8.1 Hz, 2H), 7.45 (d, J=8.3 Hz, 2H), 7.23-7.26 (m, 1H), 6.90 (br t, J=5.9 Hz, 1H), 5.76 (dd, J=8.8, 6.8 Hz, 1H), 3.70 (q, J=5.9 Hz, 2H), 2.68 (br t, J=5.9 Hz, 2H), 2.45-2.57 (m, 1H), 2.15 (dt, J=14.0, 7.1 Hz, 1H), 1.37-1.49 (m, 1H), 1.01 (d, J=6.6 Hz, 3H), 0.97 (d, J=6.6 Hz, 3H).
 Example 40-Compound #141
 3-(4-(1-(4-Chloro-5-(2-chloro-4-(trifluoromethyl)phenyl)-1H-indazol-1-yl)-3-methylbutyl)benzamido)propanoic acid
+<img> id-US20180065955A1-20180308-C00061.TIF </img>
 1H NMR (CHLOROFORM-d) δ: 8.21 (s, 1H), 7.77 (d, J=5.6 Hz, 1H), 7.69 (dd, J=8.1, 4.2 Hz, 2H), 7.56-7.62 (m, 1H), 7.32-7.48 (m, 4H), 7.19 (dd, J=8.5, 5.6 Hz, 1H), 6.73-6.81 (m, 1H), 5.71 (dd, J=9.5, 5.6 Hz, 1H), 3.62-3.72 (m, 2H), 2.61-2.72 (m, 3H), 2.02-2.14 (m, 1H), 1.36-1.54 (m, 1H), 0.92-1.01 (m, 6H); MS (ES, m/z) 592, 594 [M+H+].
 Example 41-Compound #29
 3-(4-(1-(4-Methoxy-5-(2-methyl-4-(trifluoromethyl)phenyl)-1H-indazol-1-yl)-3-methylbutyl)benzamido)propanoic acid
+<img> id-US20180065955A1-20180308-C00062.TIF </img>
 1H NMR (CHLOROFORM-d) δ 8.27 (s, 1H), 7.70 (d, J=8.3 Hz, 2H), 7.51 (s, 1H), 7.38-7.49 (m, 3H), 7.23-7.32 (m, 1H), 7.07 (s, 2H), 6.71-6.80 (m, 1H), 5.69 (dd, J=9.7, 5.7 Hz, 1H), 4.00 (s, 3H), 3.70 (br d, J=5.9 Hz, 2H), 2.62-2.73 (m, 3H), 2.02-2.25 (m, 4H), 1.40-1.59 (m, 1H), 0.96-1.02 (m, 6H); MS (ES, m/z) 568 [M+H+].
 Example 42-Compound #233
 3-(4-(1-(4-Methoxy-5-(2-methyl-4-(trifluoromethyl)phenyl)-2H-indazol-2-yl)-3-methylbutyl)benz-amido)propanoic acid
+<img> id-US20180065955A1-20180308-C00063.TIF </img>
 1H NMR (CHLOROFORM-d) δ 8.14 (s, 1H), 7.74 (d, J=8.1 Hz, 2H), 7.43-7.54 (m, 5H), 7.34 (d, J=7.8 Hz, 1H), 7.02 (d, J=8.8 Hz, 1H), 6.89 (br s, 1H), 5.73-5.80 (m, 1H), 3.69-3.76 (m, 2H), 3.73 (s, 3H), 2.69 (br s, 2H), 2.48-2.58 (m, 1H), 2.23 (s, 3H), 2.11-2.21 (m, 1H), 1.41-1.51 (m, 1H), 1.01 (d, J=6.6 Hz, 3H), 0.98 (d, J=6.6 Hz, 3H); MS (ES, m/z) 568 [M+H+].
 Example 43-Compound #103
 3-(4-(1-(5-(2-Chloro-4-(trifluoromethyl)phenyl)-4-methoxy-1H-indazol-1-yl)-3-methylbutyl)benzamido)propanoic acid
+<img> id-US20180065955A1-20180308-C00064.TIF </img>
 1H NMR (CHLOROFORM-d) δ 8.28 (s, 1H), 7.73 (s, 1H), 7.67 (br d, J=7.8 Hz, 2H), 7.54 (br d, J=8.1 Hz, 1H), 7.35-7.45 (m, 3H), 7.05-7.13 (m, 2H), 6.75-6.84 (m, 1H), 5.68 (dd, J=9.7, 6.0 Hz, 1H), 4.09 (s, 3H), 3.60-3.72 (m, 2H), 2.57-2.69 (m, 3H), 2.01-2.12 (m, 1H), 1.39-1.54 (m, 1H), 0.91-1.00 (m, 6H); MS (ES, m/z) 588 [M+H+].
 Example 44-Compound #137
 3-(4-(1-(5-(2-Chloro-4-(trifluoromethyl)phenyl)-4-methoxy-2H-indazol-2-yl)-3-methylbutyl)benzamido)propanoic acid
+<img> id-US20180065955A1-20180308-C00065.TIF </img>
 1H NMR (CHLOROFORM-d) δ: 8.17 (s, 1H), 7.69-7.77 (m, 3H), 7.56 (d, J=7.8 Hz, 1H), 7.41-7.49 (m, 4H), 7.07 (d, J=8.8 Hz, 1H), 6.84-6.96 (m, 1H), 5.73 (br t, J=7.8 Hz, 1H), 3.86 (s, 3H), 3.63-3.72 (m, 2H), 2.58-2.73 (m, 2H), 2.47-2.58 (m, 1H), 2.08-2.19 (m, 1H), 1.39-1.50 (m, 1H), 1.00 (d, J=6.6 Hz, 3H), 0.97 (d, J=6.6 Hz, 3H); MS (ES, m/z) 588 [M+H+].
 Example 45-Compound #99
 3-(4-(1-(5-(4-Chloro-2-methylphenyl)-4-methoxy-1H-indazol-1-yl)-3-methylbutyl)benzamido)propanoic acid
+<img> id-US20180065955A1-20180308-C00066.TIF </img>
 1H NMR (CHLOROFORM-d) δ 8.25 (s, 1H), 7.69 (br d, J=7.8 Hz, 2H), 7.37-7.46 (m, 2H), 7.02-7.28 (m, 5H), 6.78-6.84 (m, 1H), 5.68 (br dd, J=8.6, 5.9 Hz, 1H), 3.96 (s, 3H), 3.63-3.74 (m, 2H), 2.59-2.73 (m, 3H), 2.01-2.16 (m, 4H), 1.40-1.54 (m, 1H), 0.98 (br d, J=4.2 Hz, 6H); MS (ES, m/z) 534 [M+H+].
 Example 46-Compound #64
 3-(4-(1-(5-(4-Chloro-2-methylphenyl)-4-methoxy-2H-indazol-2-yl)-3-methylbutyl)benzamido)propanoic acid
+<img> id-US20180065955A1-20180308-C00067.TIF </img>
 1H NMR (CHLOROFORM-d) δ 8.12 (s, 1H), 7.74 (br d, J=8.1 Hz, 2H), 7.47 (br d, J=8.1 Hz, 2H), 7.43 (br d, J=8.8 Hz, 1H), 7.13-7.23 (m, 3H), 7.02 (d, J=8.8 Hz, 1H), 6.91-6.98 (m, 1H), 5.77 (br t, J=7.7 Hz, 1H), 3.70 (s, 3H), 3.67-3.75 (m, 2H), 2.68 (br s, 2H), 2.46-2.57 (m, 1H), 2.10-2.18 (m, 1H), 2.15 (s, 3H), 1.40-1.50 (m, 1H), 1.01 (d, J=6.6 Hz, 3H), 0.97 (d, J=6.6 Hz, 3H); MS (ES, m/z) 534 [M+H+].
 Example 47-Compound #258
 3-(5-(3-Methyl-1-(4-methyl-5-(2-methyl-4-(trifluoromethyl)phenyl)-1H-indazol-1-yl)butyl)picolinamido)propanoic acid
+<img> id-US20180065955A1-20180308-C00068.TIF </img>
 1H NMR (METHANOL-d4) δ: 8.60-8.72 (m, 1H), 8.24 (s, 1H), 7.93-8.04 (m, 2H), 7.49-7.62 (m, 3H), 7.25-7.34 (m, 1H), 7.11-7.16 (m, 1H), 6.04 (dd, J=10.5, 4.9 Hz, 1H), 3.64 (t, J=6.7 Hz, 2H), 2.70-2.79 (m, 1H), 2.61 (t, J=6.7 Hz, 2H), 2.30 (s, 3H), 1.98-2.16 (m, 4H), 1.35-1.49 (m, 1H), 0.93-1.05 (m, 6H); MS (ES, m/z) 553 [M+H+].
 Example 48-Compound #155
 3-(5-(3-Methyl-1-(4-methyl-5-(2-methyl-4-(trifluoromethyl)phenyl)-2H-indazol-2-yl)butyl)picolinamido)propanoic acid
+<img> id-US20180065955A1-20180308-C00069.TIF </img>
 1H NMR (CHLOROFORM-d) δ 8.63 (br s, 1H), 8.51-8.42 (m, 1H), 8.16 (br d, J=7.8 Hz, 1H), 8.04 (d, J=4.2 Hz, 1H), 7.86-7.94 (m, 1H), 7.45-7.61 (m, 3H), 7.22-7.28 (m, 1H), 7.02 (d, J=9.0 Hz, 1H), 5.77-5.86 (m, 1H), 3.70-3.82 (m, 2H), 2.65-2.78 (m, 2H), 2.55-2.65 (m, 1H), 2.21 (s, 3H), 2.08-2.18 (m, 4H), 1.40-1.53 (m, 1H), 1.04 (br d, J=6.4 Hz, 3H), 0.99 (br d, J=6.6 Hz, 3H).
 Example 49-Compound #198
 3-(5-(1-(5-(2-Chloro-4-(trifluoromethyl)phenyl)-4-methyl-1H-indazol-1-yl)-3-methylbutyl)picolinamido)propanoic acid
+<img> id-US20180065955A1-20180308-C00070.TIF </img>
 1H NMR (METHANOL-d4) δ: 8.58-8.74 (br s, 1H), 8.26 (s, 1H), 7.92-8.06 (m, 2H), 7.84 (d, J=5.5 Hz, 1H), 7.45-7.70 (m, 3H), 7.17 (dd, J=8.7, 4.5 Hz, 1H), 6.04 (dd, J=10.5, 4.9 Hz, 1H), 3.64 (t, J=6.7 Hz, 2H), 2.69-2.79 (m, 1H), 2.61 (t, J=6.7 Hz, 2H), 2.35 (s, 3H), 2.00-2.10 (m, 1H), 1.31-1.49 (m, 1H), 0.93-1.05 (m, 6H); MS (ES, m/z) 573 [M+H+].
 Example 50-Compound #154
 3-(5-(1-(5-(2-Chloro-4-(trifluoromethyl)phenyl)-4-methyl-2H-indazol-2-yl)-3-methylbutyl)picolinamido)propanoic acid
+<img> id-US20180065955A1-20180308-C00071.TIF </img>
 1H NMR (CHLOROFORM-d) δ: 8.62 (br s, 1H), 8.43-8.49 (m, 1H), 8.16 (br d, J=8.1 Hz, 1H), 8.07 (d, J=4.2 Hz, 1H), 7.91 (br d, J=8.1 Hz, 1H), 7.76 (s, 1H), 7.55-7.64 (m, 2H), 7.39 (t, J=7.2 Hz, 1H), 7.07 (d, J=9.0 Hz, 1H), 5.81 (br t, J=7.7 Hz, 1H), 3.72-3.80 (m, 2H), 2.71 (br t, J=5.0 Hz, 2H), 2.55-2.67 (m, 1H), 2.28 (s, 3H), 2.10-2.19 (m, 1H), 1.41-1.53 (m, 1H), 1.03 (br d, J=6.6 Hz, 3H), 0.99 (br d, J=6.6 Hz, 3H); MS (ES, m/z) 573 [M+H+].
 Example 51-Compound #250
 3-(5-(1-(5-(2-Chloro-4-(trifluoromethyl)phenyl)-4-methoxy-1H-indazol-1-yl)-3-methylbutyl)picolinamido)propanoic acid
+<img> id-US20180065955A1-20180308-C00072.TIF </img>
 1H NMR (METHANOL-d4) δ 8.67 (br s, 1H), 8.43 (s, 1H), 7.94-8.05 (m, 2H), 7.78 (s, 1H), 7.62 (br d, J=7.8 Hz, 1H), 7.51 (br s, 1H), 7.40 (br d, J=8.6 Hz, 1H), 7.19 (d, J=8.6 Hz, 1H), 6.02 (br dd, J=10.5, 4.9 Hz, 1H), 4.11 (s, 3H), 3.64 (br t, J=6.6 Hz, 2H), 2.67-2.78 (m, 1H), 2.61 (br t, J=6.6 Hz, 2H), 1.97-2.08 (m, 1H), 1.36-1.51 (m, 1H), 1.01 (br d, J=6.4 Hz, 3H), 0.97 (br d, J=6.6 Hz, 3H); MS (ES, m/z) 589 [M+H+].
 Example 52-Compound #178
 3-(5-(1-(5-(2-Chloro-4-(trifluoromethyl)phenyl)-4-methoxy-2H-indazol-2-yl)-3-methylbutyl)picolinamido)propanoic acid
+<img> id-US20180065955A1-20180308-C00073.TIF </img>
 1H NMR (CHLOROFORM-d) δ 8.62 (s, 1H), 8.44 (br t, J=6.1 Hz, 1H), 8.15-8.22 (m, 2H), 7.93 (br d, J=7.8 Hz, 1H), 7.75 (s, 1H), 7.56 (d, J=8.1 Hz, 1H), 7.47 (br d, J=8.8 Hz, 2H), 7.09 (d, J=8.8 Hz, 1H), 5.76 (dd, J=9.0, 6.6 Hz, 1H), 3.86 (s, 3H), 3.75 (q, J=5.9 Hz, 2H), 2.71 (t, J=5.9 Hz, 2H), 2.55-2.65 (m, 1H), 2.14 (dt, J=13.9, 7.1 Hz, 2H), 1.40-1.50 (m, 1H), 1.03 (d, J=6.6 Hz, 3H), 0.99 (d, J=6.6 Hz, 3H); MS (ES, m/z) 589 [M+H+].
 Example 53-Compound #213
 3-(5-(1-(4-Methoxy-5-(2-methyl-4-(trifluoromethyl)phenyl)-1H-indazol-1-yl)-3-methylbutyl)picolinamido)propanoic acid
+<img> id-US20180065955A1-20180308-C00074.TIF </img>
 1H NMR (METHANOL-d4) δ: 8.67 (br s, 1H), 8.40 (s, 1H), 7.95-8.05 (m, 2H), 7.45-7.55 (m, 2H), 7.41 (br d, J=8.6 Hz, 1H), 7.27-7.36 (m, 1H), 7.15 (d, J=8.6 Hz, 1H), 6.02 (dd, J=10.5, 4.9 Hz, 1H), 4.00 (s, 3H), 3.64 (t, J=6.6 Hz, 2H), 2.69-2.79 (m, 1H), 2.61 (t, J=6.6 Hz, 2H), 2.12-2.23 (m, 3H), 1.98-2.12 (m, 1H), 1.38-1.50 (m, 1H), 1.02 (d, J=6.4 Hz, 3H), 0.97 (br d, J=6.4 Hz, 3H); MS (ES, m/z) 569 [M+H+].
 Example 54-Compound #236
 3-(5-(1-(4-Methoxy-5-(2-methyl-4-(trifluoromethyl)phenyl)-2H-indazol-2-yl)-3-methylbutyl)picolinamido)propanoic acid
+<img> id-US20180065955A1-20180308-C00075.TIF </img>
 1H NMR (METHANOL-d4) δ 8.76 (s, 1H), 8.72 (br s, 1H), 8.06 (br s, 2H), 7.55 (br s, 1H), 7.49 (br s, 1H), 7.34-7.41 (m, 2H), 7.03-7.08 (m, 1H), 5.95-6.02 (m, 1H), 3.86 (br s, 3H), 3.61-3.69 (m, 2H), 2.58-2.72 (m, 3H), 2.22 (br s, 3H), 2.09-2.19 (m, 1H), 1.31-1.42 (m, 1H), 1.03-1.09 (m, 3H), 0.93-1.03 (m, 3H); MS (ES, m/z) 569 [M+H+].
 Example 55-Compound #179
 3-(5-(1-(5-(2-Chloro-4-(trifluoromethyl)phenyl)-4-ethoxy-1H-indazol-1-yl)-3-methylbutyl)picolinamido)propanoic acid
+<img> id-US20180065955A1-20180308-C00076.TIF </img>
 1H NMR (METHANOL-d4) δ 8.66 (s, 1H), 8.35 (s, 1H), 7.95-8.04 (m, 2H), 7.79 (s, 1H), 7.63 (br d, J=8.1 Hz, 1H), 7.49-7.58 (m, 1H), 7.41 (d, J=8.6 Hz, 1H), 7.20 (d, J=8.6 Hz, 1H), 6.02 (dd, J=10.5, 4.9 Hz, 1H), 4.31-4.42 (m, 2H), 3.64 (t, J=6.7 Hz, 2H), 2.69-2.78 (m, 1H), 2.61 (t, J=6.7 Hz, 2H), 2.00-2.08 (m, 1H), 1.39-1.50 (m, 1H), 1.23 (t, J=7.0 Hz, 3H), 1.02 (d, J=6.6 Hz, 3H), 0.97 (d, J=6.6 Hz, 3H); MS (ES, m/z) 603 [M+H+].
 Example 56-Compound #205
 3-(5-(1-(5-(2-Chloro-4-(trifluoromethyl)phenyl)-4-ethoxy-2H-indazol-2-yl)-3-methylbutyl)picolinamido)propanoic acid
+<img> id-US20180065955A1-20180308-C00077.TIF </img>
 1H NMR (METHANOL-d4) δ 8.76 (s, 1H), 8.70 (s, 1H), 8.05 (s, 2H), 7.80 (s, 1H), 7.64 (d, J=8.1 Hz, 1H), 7.55 (d, J=8.1 Hz, 1H), 7.38 (d, J=8.8 Hz, 1H), 7.10 (d, J=8.8 Hz, 1H), 5.98 (dd, J=10.1, 5.5 Hz, 1H), 4.18-4.28 (m, 2H), 3.65 (t, J=6.6 Hz, 2H), 2.64-2.71 (m, 1H), 2.62 (t, J=6.6 Hz, 2H), 2.13 (ddd, J=13.9, 8.1, 5.9 Hz, 1H), 1.29-1.39 (m, 1H), 1.19 (t, J=7.0 Hz, 3H), 1.05 (d, J=6.6 Hz, 3H), 0.97 (d, J=6.4 Hz, 3H); MS (ES, m/z) 603 [M+H+].
 Example 57-Compound #197
 3-(5-(1-(4-Ethoxy-5-(2-methyl-4-(trifluoromethyl)phenyl)-1H-indazol-1-yl)-3-methylbutyl)picolinamido)propanoic acid
+<img> id-US20180065955A1-20180308-C00078.TIF </img>
 1H NMR (METHANOL-d4) δ 8.66 (br s, 1H), 8.31 (s, 1H), 7.95-8.04 (m, 2H), 7.54 (s, 1H), 7.27-7.50 (m, 3H), 7.16 (d, J=8.6 Hz, 1H), 6.02 (br dd, J=10.4, 4.8 Hz, 1H), 4.13-4.28 (m, 2H), 3.64 (t, J=6.6 Hz, 2H), 2.69-2.78 (m, 1H), 2.61 (t, J=6.6 Hz, 2H), 2.14-2.26 (m, 3H), 1.99-2.09 (m, 1H), 1.36-1.50 (m, 1H), 1.16 (t, J=6.8 Hz, 3H), 1.02 (d, J=6.6 Hz, 3H), 0.97 (br d, J=6.6 Hz, 3H); MS (ES, m/z) 583 [M+H+].
 Example 58-Compound #207
 3-(5-(1-(4-Ethoxy-5-(2-methyl-4-(trifluoromethyl)phenyl)-2H-indazol-2-yl)-3-methylbutyl)picolinamido)propanoic acid
+<img> id-US20180065955A1-20180308-C00079.TIF </img>
 1H NMR (METHANOL-d4) δ 8.71 (s, 1H), 8.70 (br s, 1H), 8.06 (s, 2H), 7.47-7.57 (m, 2H), 7.35-7.41 (m, 2H), 7.07 (d, J=8.8 Hz, 1H), 5.99 (br dd, J=10.1, 5.5 Hz, 1H), 3.96-4.15 (m, 2H), 3.65 (br t, J=6.6 Hz, 2H), 2.64-2.71 (m, 1H), 2.62 (br t, J=6.6 Hz, 2H), 2.23 (br s, 3H), 2.14 (ddd, J=13.8, 8.3, 5.6 Hz, 1H), 1.30-1.40 (m, 1H), 1.13 (t, J=7.0 Hz, 3H), 1.06 (br d, J=6.4 Hz, 3H), 0.98 (br d, J=6.4 Hz, 3H); MS (ES, m/z) 583 [M+H+].
 Example 59-Compound #263
 3-(5-(1-(5-(2-Chloro-4-(trifluoromethyl)phenyl)-4-(trifluoromethyl)-1H-indazol-1-yl)-3-methylbut-yl)picolinamido)propanoic acid
+<img> id-US20180065955A1-20180308-C00080.TIF </img>
 1H NMR (CHLOROFORM-d) δ 8.56 (s, 1H), 8.39 (br t, J=5.5 Hz, 1H), 8.21 (s, 1H), 8.14 (d, J=8.3 Hz, 1H), 7.89 (br d, J=7.6 Hz, 1H), 7.82 (s, 1H), 7.64 (s, 2H), 7.51 (d, J=7.1 Hz, 1H), 7.34 (d, J=7.1 Hz, 1H), 5.75 (dd, J=8.9, 6.5 Hz, 1H), 3.69-3.77 (br d, J=5.4 Hz, 2H), 2.65-2.77 (m, 2H), 2.48-2.58 (m, 1H), 2.04-2.16 (m, 1H), 1.33-1.42 (m, 1H), 1.21 (t, J=7.1 Hz, 2H), 0.99 (d, J=6.6 Hz, 3H), 0.93 (d, J=6.4 Hz, 3H); MS (ES, m/z) 627 [M+H+].
 Example 60-Compound #246
 3-(5-(3-Methyl-1-(5-(2-methyl-4-(trifluoromethyl)phenyl)-4-(trifluoromethyl)-2H-indazol-2-yl)butyl)picolinamido)propanoic acid
+<img> id-US20180065955A1-20180308-C00081.TIF </img>
 1H NMR (MeOH) δ 8.73 (d, J=1.5 Hz, 1H), 8.70 (d, J=1.2 Hz, 1H), 8.00-8.06 (m, 2H), 7.64 (s, 1H), 7.53-7.61 (m, 2H), 7.43-7.53 (m, 2H), 7.27 (d, J=7.1 Hz, 1H), 6.02 (dd, J=10.1, 5.7 Hz, 1H), 3.63 (t, J=6.7 Hz, 2H), 2.56-2.64 (m, 3H), 2.17 (s, 3H), 2.08 (ddd, J=14.1, 8.2, 5.6 Hz, 1H), 1.21-1.36 (m, 1H), 1.01 (d, J=6.6 Hz, 3H), 0.91 (d, J=6.6 Hz, 3H).
 Example 61-Compound #190
 3-(4-(1-(5-(2,4-Dichlorophenyl)-4-methyl-2H-indazol-2-yl)-3-methylbutyl)benzamido)propanoic acid
+<img> id-US20180065955A1-20180308-C00082.TIF </img>
 1H NMR (400 MHz, CHLOROFORM-d) δ 8.01 (d, J=5.1 Hz, 1H), 7.74 (d, J=8.1 Hz, 2H), 7.58 (d, J=8.8 Hz, 1H), 7.43-7.53 (m, 3H), 7.23-7.34 (m, 1H), 7.18 (dd, J=2.3, 8.2 Hz, 1H), 7.05 (d, J=8.8 Hz, 1H), 6.83-6.95 (m, 1H), 5.73-5.86 (m, 1H), 3.72 (q, J=6.0 Hz, 2H), 2.70 (t, J=5.6 Hz, 2H), 2.43-2.60 (m, 1H), 2.26 (s, 3H), 2.14 (d, J=7.1 Hz, 1H), 1.46 (br. s., 1H), 0.98 (d, J=6.6 Hz, 3H), 1.01 (d, J=6.6 Hz, 3H) (The proton of carboxylic acid is not shown.); MS: 539 (M++1).
 Example 62-Compound #148
 3-(4-(1-(5-(2-Chloro-4-methylphenyl)-4-methyl-2H-indazol-2-yl)-3-methylbutyl)benzamido)propanoic acid
+<img> id-US20180065955A1-20180308-C00083.TIF </img>
 1H NMR (400 MHz, CHLOROFORM-d) δ 8.01 (s, 1H), 7.73 (d, J=8.1 Hz, 2H), 7.57 (d, J=8.8 Hz, 1H), 7.45 (d, J=8.1 Hz, 2H), 7.32 (s, 1H), 7.22-7.30 (m, 1H), 7.08-7.22 (m, 2H), 6.92 (t, J=6.1 Hz, 1H), 5.81 (dd, J=6.6, 9.0 Hz, 1H), 3.71 (q, J=5.8 Hz, 2H), 2.69 (t, J=5.6 Hz, 2H), 2.46-2.59 (m, 1H), 2.34-2.46 (m, 6H), 2.14 (dt, J=6.9, 13.8 Hz, 1H), 1.36-1.53 (m, 1H), 0.97 (d, J=6.6 Hz, 3H), 1.01 (d, J=6.6 Hz, 3H) (The proton of carboxylic acid is not shown.); MS: 519 (M++1).
 Example 63-Compound #143
 3-(4-(1-(5-(2,4-Dimethylphenyl)-4-methyl-2H-indazol-2-yl)-3-methylbutyl)benzamido)propanoic acid
+<img> id-US20180065955A1-20180308-C00084.TIF </img>
 1H NMR (400 MHz, CHLOROFORM-d) δ 7.98 (d, J=4.6 Hz, 1H), 7.74 (d, J=8.1 Hz, 2H), 7.40-7.62 (m, 3H), 6.88-7.16 (m, 5H), 5.71-5.92 (m, 1H), 3.71 (q, J=5.6 Hz, 2H), 2.68 (t, J=5.5 Hz, 2H), 2.44-2.59 (m, 1H), 2.37 (s, 3H), 2.21 (s, 3H), 2.08-2.19 (m, 1H), 2.03 (s, 3H), 1.36-1.55 (m, 1H), 0.97 (d, J=6.6 Hz, 3H), 1.01 (d, J=6.6 Hz, 3H) (The proton of carboxylic acid is not shown.); MS: 499 (M++1).
 Example 64-Compound #149
 3-(4-(1-(5-(3-Chloro-4-(trifluoromethyl)phenyl)-4-methyl-2H-indazol-2-yl)-3-methylbutyl)benzamido)propanoic acid
+<img> id-US20180065955A1-20180308-C00085.TIF </img>
 1H NMR (400 MHz, CHLOROFORM-d) δ 8.04 (s, 1H), 7.73 (d, J=7.6 Hz, 3H), 7.62 (d, J=8.8 Hz, 1H), 7.40-7.55 (m, 3H), 7.33 (d, J=8.1 Hz, 1H), 7.16 (d, J=8.8 Hz, 1H), 6.88 (t, J=5.7 Hz, 1H), 5.71-5.86 (m, 1H), 3.71 (q, J=5.8 Hz, 2H), 2.69 (t, J=5.5 Hz, 2H), 2.46-2.62 (m, 1H), 2.44 (s, 3H), 2.15 (dt, J=7.1, 14.2 Hz, 1H), 1.35-1.53 (m, 1H), 1.01 (d, J=6.6 Hz, 3H), 0.97 (d, J=6.6 Hz, 3H) (The proton of carboxylic acid is not shown.); MS: 573 (M++1).
 Example 65-Compound #105
 3-(4-(1-(5-(2-Chloro-4-methylphenyl)-4-methyl-1H-indazol-1-yl)-3-methylbutyl)benzamido)propanoic acid
+<img> id-US20180065955A1-20180308-C00086.TIF </img>
 1H NMR (400 MHz, CHLOROFORM-d) δ 8.13 (s, 1H), 7.62-7.74 (m, J=8.3 Hz, 2H), 7.33-7.43 (m, J=8.1 Hz, 2H), 7.15-7.33 (m, 4H), 7.10 (d, J=7.6 Hz, 1H), 6.68-6.78 (m, 1H), 5.71 (dd, J=5.6, 10.0 Hz, 1H), 3.68 (q, J=6.0 Hz, 2H), 2.60-2.76 (m, 3H), 2.50 (s, 3H), 2.42 (s, 3H), 2.01-2.12 (m, 1H), 1.45 (d, J=8.1 Hz, 1H), 0.97 (t, J=6.1 Hz, 6H); MS: 519 (M++1).
 Example 66-Compound #177
 3-(4-(1-(5-(2,4-Dimethylphenyl)-4-methyl-1H-indazol-1-yl)-3-methylbutyl)benzamido)propanoic acid
+<img> id-US20180065955A1-20180308-C00087.TIF </img>
 1H NMR (400 MHz, CHLOROFORM-d) δ 8.11 (s, 1H), 7.68 (dd, J=5.6, 7.8 Hz, 2H), 7.40 (d, J=8.3 Hz, 1H), 7.44 (d, J=8.3 Hz, 1H), 7.16-7.23 (m, 1H), 7.06-7.14 (m, 2H), 6.99-7.06 (m, 2H), 6.75 (d, J=4.9 Hz, 1H), 5.71 (dd, J=5.6, 9.8 Hz, 1H), 3.69 (q, J=5.8 Hz, 2H), 2.68 (t, J=5.6 Hz, 3H), 2.23-2.44 (m, 6H), 2.05-2.16 (m, 1H), 2.03-1.97 (m, 3H), 1.50 (br. s., 1H), 0.92-1.04 (m, 6H) (The proton of carboxylic acid is not shown.); MS: 499 (M++1).
 Example 67-Compound #223
 3-(4-(1-(5-(2-Chloro-4-fluorophenyl)-1H-indazol-1-yl)-4,4,4-trifluorobutyl)benzamido)propanoic acid
+<img> id-US20180065955A1-20180308-C00088.TIF </img>
 Step A: Methyl 4-(4,4,4-trifluorobutyl)benzoate
 NiI2.xH2O (87.7 mg, 0.198 mol), 1,2-bis(diphenylphosphino)benzene (42.6 mg, 0.093 mmol), 4,4-di-tert-butyl-2,2'-dipyridyl (25.4 mg, 0.093 mol), methyl 4-iodobenzoate (500 mg, 1.85 mmol), 1-iodo-4,4,4-trifluorobutane (454.1 mg, 1.85 mmol) were transferred to a 5 ml microwave vial equipped with a magnetic stir bar. The vial was then capped with a rubber septum and purged with argon gas. DMPU (2 ml), pyridine (1 drop) were injected into the vial. Manganese powder (204 mg, 3.7 mmol) was added and the vial was placed under microwave irradiation at 120° C. for 60 min. The mixture was diluted with water, extracted with ethyl acetate. The organic layer was concentrated and the residue was purified by flash column chromatography on silica gel (EtOAc/heptane: 0>>>10%>>>20%) to yield a white solid. 1H NMR (CHLOROFORM-d) δ: 7.98 (d, J=8.1 Hz, 2H), 7.24 (s, 2H), 3.91 (s, 3H), 2.75 (t, J=7.6 Hz, 2H), 2.00-2.19 (m, 2H), 1.85-1.98 (m, 2H).
 Step B: Methyl 4-(1-bromo-4,4,4-trifluorobutyl)benzoate
@@ -927,96 +1010,127 @@ To a solution of tert-butyl 3-(4-(1-(5-(2-chloro-4-fluorophenyl)-1H-indazol-1-yl
 The following compounds (as shown in Examples 68-97 below) were similarly prepared according to the procedures described above, selecting and substituting a suitably substituted boronic acid in the Suzuki coupling step.
 Example 68-Compound #8
 3-[[4-[1-[5-(4-Chloro-2-methyl-phenyl)indazol-2-yl]-4,4,4-trifluorobutyl]benzoyl]amino]propanoic acid
+<img> id-US20180065955A1-20180308-C00089.TIF </img>
 1H NMR (CHLOROFORM-d) δ: 9.79-10.09 (m, 1H), 8.01 (s, 1H), 7.73 (br dd, J=8.4, 4.5 Hz, 3H), 7.37-7.56 (m, 4H), 7.11-7.32 (m, 4H), 5.71 (br dd, J=9.5, 5.9 Hz, 1H), 3.67 (br d, J=5.4 Hz, 2H), 2.85-3.05 (m, 1H), 2.61-2.73 (m, 2H), 2.54 (td, J=14.5, 6.1 Hz, 1H), 2.22 (s, 3H), 2.05-2.15 (m, 2H). m/z (MH+): 544.2.
 Example 69-Compound #111
 3-[[4-[1-[5-[3-Chloro-4-(trifluoromethyl)phenyl]indazol-1-yl]-4,4,4-trifluorobutyl]benzoyl]amino]propanoic acid
+<img> id-US20180065955A1-20180308-C00090.TIF </img>
 1H NMR (CHLOROFORM-d) δ: 8.18 (s, 1H), 7.92 (s, 1H), 7.65-7.77 (m, 5H), 7.51-7.59 (m, 2H), 7.40 (d, J=8.8 Hz, 1H), 7.34 (d, J=8.1 Hz, 2H), 6.94 (br s, 1H), 5.70 (br d, J=4.9 Hz, 1H), 3.65 (br d, J=5.6 Hz, 2H), 2.90-3.06 (m, 1H), 2.63 (br t, J=5.4 Hz, 2H), 2.48-2.59 (m, 1H), 2.08-2.23 (m, 2H). m/z (MH+): 598.0.
 Example 70-Compound #40
 3-[[4-[1-[5-(4-Chloro-2-methyl-phenyl)indazol-1-yl]-4,4,4-trifluorobutyl]benzoyl]amino]propanoic acid
+<img> id-US20180065955A1-20180308-C00091.TIF </img>
 1H NMR (CHLOROFORM-d) δ: 8.57-8.91 (m, 1H), 8.13 (s, 1H), 7.69 (br d, J=8.1 Hz, 2H), 7.61 (s, 1H), 7.35 (br dd, J=8.1, 5.9 Hz, 3H), 7.26 (br dd, J=5.6, 1.7 Hz, 2H), 7.19 (br dd, J=8.1, 2.0 Hz, 1H), 7.11-7.16 (m, 1H), 6.98 (br d, J=5.1 Hz, 1H), 5.59-5.85 (m, 1H), 3.66 (br d, J=4.9 Hz, 2H), 2.91-3.07 (m, 1H), 2.65 (br d, J=4.9 Hz, 2H), 2.48-2.59 (m, 1H), 2.21 (s, 3H), 2.09-2.19 (m, 2H). m/z (MH+): 544.2.
 Example 71-Compound #167
 3-[[4-[1-[5-[2-Chloro-4-(trifluoromethyl)phenyl]indazol-1-yl]-4,4,4-trifluorobutyl]benzoyl]amino]propanoic acid
+<img> id-US20180065955A1-20180308-C00092.TIF </img>
 1H NMR (CHLOROFORM-d) δ: 8.18 (s, 1H), 7.80 (s, 1H), 7.75 (s, 1H), 7.69 (br d, J=8.1 Hz, 2H), 7.57 (br d, J=8.1 Hz, 1H), 7.33-7.50 (m, 5H), 7.06-7.22 (m, 1H), 6.92 (br t, J=5.7 Hz, 1H), 5.71 (br dd, J=10.3, 5.1 Hz, 1H), 3.67 (br d, J=5.4 Hz, 2H), 2.92-3.08 (m, 1H), 2.62-2.72 (m, 2H), 2.55 (td, J=13.6, 7.3 Hz, 1H), 2.08-2.25 (m, 2H). m/z (MH+): 598.0.
 Example 72-Compound #112
 3-[[4-[1-[5-(2,4-Dichlorophenyl)indazol-1-yl]-4,4,4-trifluorobutyl]benzoyl]amino]propanoic acid
+<img> id-US20180065955A1-20180308-C00093.TIF </img>
 1H NMR (CHLOROFORM-d) δ: 8.16 (s, 1H), 7.75 (s, 1H), 7.69 (br d, J=8.1 Hz, 2H), 7.49 (br d, J=2.0 Hz, 1H), 7.34-7.45 (m, 4H), 7.26-7.32 (m, 2H), 6.76-6.99 (m, 1H), 5.69 (br dd, J=9.9, 5.0 Hz, 1H), 3.68 (br d, J=5.4 Hz, 2H), 2.94-3.12 (m, 1H), 2.67 (br d, J=5.4 Hz, 2H), 2.48-2.61 (m, 1H), 2.10-2.27 (m, 2H). m/z (MH+): 564.0.
 Example 73-Compound #224
 3-[[4-[1-[5-(2,4-Dichlorophenyl)indazol-2-yl]-4,4,4-trifluorobutyl]benzoyl]amino]propanoic acid
+<img> id-US20180065955A1-20180308-C00094.TIF </img>
 1H NMR (CHLOROFORM-d) δ: 9.72 (br s, 1H), 8.01 (s, 1H), 7.74 (br dd, J=18.7, 8.4 Hz, 4H), 7.62 (s, 1H), 7.48 (br d, J=0.7 Hz, 1H), 7.32-7.45 (m, 3H), 7.27-7.31 (m, 1H), 7.01-7.17 (m, 1H), 5.68 (br dd, J=9.7, 5.7 Hz, 1H), 3.67 (br d, J=5.4 Hz, 2H), 2.83-3.03 (m, 1H), 2.65 (br t, J=5.4 Hz, 2H), 2.53 (td, J=14.5, 6.0 Hz, 1H), 2.02-2.17 (m, 2H). m/z (MH+): 564.0.
 Example 74-Compound #75
 3-[[4-[4,4,4-Trifluoro-1-[5-[4-(trifluoromethyl)phenyl]indazol-1-yl]butyl]benzoyl]amino]propanoic acid
+<img> id-US20180065955A1-20180308-C00095.TIF </img>
 1H NMR (CHLOROFORM-d) δ: 8.18 (s, 1H), 7.93 (s, 1H), 7.64-7.72 (m, 6H), 7.54-7.61 (m, 1H), 7.32-7.43 (m, 3H), 6.82-6.92 (m, 1H), 5.69 (dd, J=10.3, 5.1 Hz, 1H), 3.66 (q, J=5.9 Hz, 2H), 2.88-3.09 (m, 1H), 2.64 (br t, J=5.7 Hz, 2H), 2.46-2.60 (m, 1H), 2.07-2.21 (m, 2H). m/z (MH+): 564.2.
 Example 75-Compound #44
 3-[[4-[4,4,4-Trifluoro-1-[5-[2-methyl-4-(trifluoromethyl)phenyl]indazol-1-yl]butyl]benzoyl]amino]propanoic acid
+<img> id-US20180065955A1-20180308-C00096.TIF </img>
 1H NMR (CHLOROFORM-d) δ: 8.15 (s, 1H), 7.62-7.74 (m, 3H), 7.53 (s, 1H), 7.48 (br d, J=8.1 Hz, 1H), 7.37 (br d, J=8.3 Hz, 3H), 7.30 (br dd, J=13.2, 8.3 Hz, 2H), 6.83-6.97 (m, 1H), 5.60-5.80 (m, 1H), 3.67 (q, J=5.5 Hz, 2H), 2.92-3.10 (m, 1H), 2.66 (br t, J=5.5 Hz, 2H), 2.49-2.61 (m, 1H), 2.29 (s, 3H), 2.08-2.23 (m, 2H). m/z (MH+): 578.2.
 Example 76-Compound #11
 3-[[4-[1-[5-(Benzofuran-2-yl)indazol-1-yl]-4,4,4-trifluorobutyl]benzoyl]amino]propanoic acid
+<img> id-US20180065955A1-20180308-C00097.TIF </img>
 1H NMR (CHLOROFORM-d) δ: 8.24 (s, 1H), 8.15 (s, 1H), 7.78 (d, J=8.8 Hz, 1H), 7.65 (br d, J=8.1 Hz, 2H), 7.54 (dd, J=21.2, 7.5 Hz, 2H), 7.19-7.36 (m, 5H), 6.96 (s, 1H), 6.82-6.90 (m, 1H), 5.63 (br dd, J=10.0, 4.9 Hz, 1H), 3.63 (br d, J=5.4 Hz, 2H), 2.89-3.03 (m, 1H), 2.61 (br s, 2H), 2.50 (br d, J=7.6 Hz, 1H), 2.06-2.20 (m, 2H). m/z (MH+): 536.2.
 Example 77-Compound #115
 3-[[4-[1-[5-(Benzothiophen-2-yl)indazol-1-yl]-4,4,4-trifluorobutyl]benzoyl]amino]propanoic acid
+<img> id-US20180065955A1-20180308-C00098.TIF </img>
 1H NMR (CHLOROFORM-d) δ: 8.17 (s, 1H), 8.05 (s, 1H), 7.81 (br s, 1H), 7.74-7.79 (m, 1H), 7.70 (br d, J=8.1 Hz, 3H), 7.50 (s, 1H), 7.30-7.39 (m, 5H), 6.66-6.80 (m, 1H), 5.68 (br s, 1H), 4.12 (q, J=7.0 Hz, 2H), 3.70 (br d, J=6.1 Hz, 2H), 3.00 (br s, 1H), 2.69 (br s, 2H), 2.55 (br d, J=7.3 Hz, 1H), 2.16 (br d, J=8.8 Hz, 2H). m/z (MH+): 552.2.
 Example 78-Compound #76
 3-[[4-[4,4,4-Trifluoro-1-[5-[4-(trifluoromethoxy)phenyl]indazol-1-yl]butyl]benzoyl]amino]propanoic acid
+<img> id-US20180065955A1-20180308-C00099.TIF </img>
 1H NMR (CHLOROFORM-d) δ: 7.87 (s, 1H), 7.67 (d, J=8.1 Hz, 2H), 7.50-7.60 (m, 3H), 7.31-7.40 (m, 3H), 7.25-7.30 (m, 2H), 6.87 (br t, J=6.0 Hz, 1H), 5.68 (dd, J=10.1, 5.0 Hz, 1H), 3.65 (q, J=5.8 Hz, 2H), 2.92-3.07 (m, 1H), 2.63 (br t, J=5.6 Hz, 2H), 2.46-2.59 (m, 1H), 2.07-2.21 (m, 2H). m/z (MH+): 580.2.
 Example 79-Compound #45
 3-[[4-[1-[5-(3,5-Dichlorophenyl)indazol-1-yl]-4,4,4-trifluorobutyl]benzoyl]amino]propanoic acid
+<img> id-US20180065955A1-20180308-C00100.TIF </img>
 1H NMR (CHLOROFORM-d) δ: 8.16 (s, 1H), 7.87 (d, J=1.0 Hz, 1H), 7.68 (d, J=8.3 Hz, 2H), 7.46-7.52 (m, 1H), 7.43 (d, J=1.7 Hz, 2H), 7.30-7.40 (m, 4H), 6.89 (br t, J=6.0 Hz, 1H), 5.68 (dd, J=10.1, 5.3 Hz, 1H), 3.66 (q, J=5.9 Hz, 2H), 2.89-3.05 (m, 1H), 2.64 (br t, J=5.6 Hz, 2H), 2.47-2.59 (m, 1H), 2.08-2.22 (m, 2H). m/z (MH+): 564.0.
 Example 80-Compound #50
 3-[[4-[4,4,4-Trifluoro-1-[5-[2-methyl-4-(trifluoromethyl)phenyl]indazol-2-yl]butyl]benzoyl]amino]propanoic acid
+<img> id-US20180065955A1-20180308-C00101.TIF </img>
 1H NMR (CHLOROFORM-d) δ: 8.03 (s, 1H), 7.72-7.82 (m, 3H), 7.53 (s, 2H), 7.46 (br d, J=8.3 Hz, 3H), 7.34 (d, J=7.8 Hz, 1H), 7.26-7.29 (m, 1H), 7.02-7.13 (m, 1H), 6.94-7.01 (m, 1H), 5.73 (dd, J=9.5, 5.9 Hz, 1H), 3.70 (q, J=5.9 Hz, 2H), 2.87-3.02 (m, 1H), 2.68 (t, J=5.7 Hz, 2H), 2.52-2.64 (m, 1H), 2.32 (s, 3H), 2.07-2.18 (m, 2H). m/z (MH+): 578.2.
 Example 81-Compound #16
 3-[[4-[1-[5-[2-Chloro-4-(trifluoromethyl)phenyl]indazol-2-yl]-4,4,4-trifluorobutyl]benzoyl]amino]propanoic acid
+<img> id-US20180065955A1-20180308-C00102.TIF </img>
 1H NMR (CHLOROFORM-d) δ: 8.05 (s, 1H), 7.80 (d, J=8.8 Hz, 1H), 7.74 (d, J=8.1 Hz, 3H), 7.67 (s, 1H), 7.56 (s, 1H), 7.42-7.51 (m, 3H), 7.38 (dd, J=8.9, 1.6 Hz, 1H), 6.97 (t, J=6.0 Hz, 1H), 5.71 (dd, J=9.8, 5.9 Hz, 1H), 5.51-5.67 (m, 1H), 3.70 (q, J=6.0 Hz, 2H), 2.84-3.02 (m, 1H), 2.68 (t, J=5.7 Hz, 2H), 2.49-2.62 (m, 1H), 2.04-2.19 (m, 2H). m/z (MH+): 598.0.
 Example 82-Compound #122
 3-[[4-[1-[5-(Benzothiophen-2-yl)indazol-2-yl]-4,4,4-trifluorobutyl]benzoyl]amino]propanoic acid
+<img> id-US20180065955A1-20180308-C00103.TIF </img>
 1H NMR (METHANOL-d4) δ: 8.45 (s, 1H), 8.05 (s, 1H), 7.75-7.86 (m, 5H), 7.70-7.75 (m, 1H), 7.66 (s, 1H), 7.54 (d, J=8.3 Hz, 2H), 7.25-7.38 (m, 2H), 5.87 (dd, J=9.8, 5.9 Hz, 1H), 3.60 (t, J=7.0 Hz, 2H), 2.85-3.00 (m, 1H), 2.53-2.66 (m, 3H), 2.16-2.34 (m, 1H), 1.97-2.12 (m, 1H). m/z (MH+): 552.2.
 Example 83-Compound #25
 3-[[4-[3-Methyl-1-[6-methyl-5-[4-(trifluoromethyl)phenyl]indazol-1-yl]butyl]benzoyl]amino]propanoic acid
+<img> id-US20180065955A1-20180308-C00104.TIF </img>
 1H NMR (CHLOROFORM-d) δ: 8.07 (s, 1H), 7.67 (br t, J=8.7 Hz, 4H), 7.52 (s, 1H), 7.39 (br dd, J=16.8, 7.9 Hz, 4H), 6.99 (br t, J=5.7 Hz, 1H), 5.72 (br dd, J=9.8, 5.4 Hz, 1H), 3.66 (br d, J=5.6 Hz, 2H), 2.60-2.72 (m, 3H), 2.30 (s, 3H), 2.01-2.07 (m, 1H), 1.39-1.54 (m, 1H), 0.97 (br t, J=7.5 Hz, 6H). m/z (MH+): 538.2.
 Example 84-Compound #134
 3-[[4-[3-Methyl-1-[6-methyl-5-[4-(trifluoromethyl)phenyl]indazol-2-yl]butyl]benzoyl]amino]propanoic acid
+<img> id-US20180065955A1-20180308-C00105.TIF </img>
 1H NMR (CHLOROFORM-d) δ: 8.00 (s, 1H), 7.72 (d, J=8.3 Hz, 2H), 7.66 (d, J=8.3 Hz, 2H), 7.59 (s, 1H), 7.39-7.47 (m, 5H), 7.06 (br t, J=5.9 Hz, 1H), 5.81 (dd, J=9.0, 6.6 Hz, 1H), 3.69 (q, J=5.8 Hz, 2H), 2.67 (t, J=5.7 Hz, 2H), 2.44-2.54 (m, 1H), 2.26 (s, 3H), 2.09-2.15 (m, 1H), 1.38-1.50 (m, 1H), 0.97 (dd, J=15.9, 6.6 Hz, 6H). m/z (MH+): 538.2.
 Example 85-Compound #93
 3-[[4-[3-Methyl-1-[6-methyl-5-[2-methyl-4-(trifluoromethyl)phenyl]indazol-1-yl]butyl]benzoyl]amino]propanoic acid
+<img> id-US20180065955A1-20180308-C00106.TIF </img>
 1H NMR (CHLOROFORM-d) δ: 9.58-10.35 (m, 1H), 8.06 (s, 1H), 7.70 (dd, J=8.1, 5.6 Hz, 2H), 7.36-7.54 (m, 5H), 7.15-7.36 (m, 2H), 6.99 (br d, J=2.7 Hz, 1H), 5.72 (dd, J=9.7, 5.7 Hz, 1H), 3.62-3.74 (m, 2H), 2.62-2.74 (m, 3H), 2.04-2.10 (m, 7H), 1.42-1.58 (m, 1H), 0.94-1.04 (m, 6H). m/z (MH+): 552.15.
 Example 86-Compound #174
 3-[[4-[1-[5-(Benzothiophen-2-yl)-6-methyl-indazol-1-yl]-3-methyl-butyl]benzoyl]amino]propanoic acid
+<img> id-US20180065955A1-20180308-C00107.TIF </img>
 1H NMR (CHLOROFORM-d) δ: 8.07 (s, 1H), 7.75-7.84 (m, 3H), 7.68 (d, J=8.3 Hz, 2H), 7.26-7.40 (m, 6H), 7.19 (s, 1H), 6.93 (br t, J=6.0 Hz, 1H), 5.71 (dd, J=10.0, 5.4 Hz, 1H), 3.67 (q, J=5.9 Hz, 2H), 2.62-2.73 (m, 3H), 2.51 (s, 3H), 2.01-2.07 (m, 1H), 1.43-1.52 (m, 1H), 0.91-1.01 (m, 6H). m/z (MH+): 526.0.
 Example 87-Compound #158
 3-[[4-[1-[5-(5-Fluorobenzothiophen-2-yl)-6-methyl-indazol-1-yl]-3-methyl-butyl]benzoyl]amino]propanoic acid
+<img> id-US20180065955A1-20180308-C00108.TIF </img>
 1H NMR (CHLOROFORM-d) δ: 8.07 (s, 1H), 7.79 (s, 1H), 7.71-7.77 (m, 1H), 7.68 (d, J=8.3 Hz, 2H), 7.43 (dd, J=9.5, 2.4 Hz, 1H), 7.37 (d, J=8.3 Hz, 2H), 7.27 (s, 1H), 7.15 (s, 1H), 7.05-7.11 (m, 1H), 6.90 (t, J=6.0 Hz, 1H), 5.71 (dd, J=9.9, 5.5 Hz, 1H), 3.63-3.72 (m, 2H), 2.63-2.68 (m, 3H), 2.48-2.54 (m, 3H), 2.02-2.06 (m, 1H), 1.43-1.51 (m, 1H), 0.95-1.02 (m, 6H). m/z (MH+): 544.2.
 Example 88-Compound #94
 3-[[4-[1-[5-[2-Chloro-4-(trifluoromethyl)phenyl]-6-methyl-indazol-1-yl]-3-methyl-butyl]benzoyl]amino]propanoic acid
+<img> id-US20180065955A1-20180308-C00109.TIF </img>
 1H NMR (CHLOROFORM-d) δ: 8.06 (s, 1H), 7.72-7.76 (m, 1H), 7.65-7.72 (m, 2H), 7.53-7.61 (m, 1H), 7.31-7.48 (m, 4H), 7.25-7.29 (m, 1H), 6.86 (br s, 1H), 5.70 (br dd, J=8.9, 6.0 Hz, 1H), 3.68 (br d, J=5.4 Hz, 2H), 2.67 (br t, J=5.5 Hz, 2H), 2.60-2.72 (m, 1H), 2.18 (d, J=5.9 Hz, 3H), 2.06-2.12 (m, 1H), 1.42-1.57 (m, 1H), 0.94-1.03 (m, 6H). m/z (MH+): 572.10.
 Example 89-Compound #95
 3-[[4-[1-[5-[2-Chloro-4-(trifluoromethyl)phenyl]-6-methyl-indazol-2-yl]-3-methyl-butyl]benzoyl]amino]propanoic acid
+<img> id-US20180065955A1-20180308-C00110.TIF </img>
 1H NMR (CHLOROFORM-d) δ: 9.41-9.94 (m, 1H), 7.92-8.08 (m, 1H), 7.67-7.77 (m, 3H), 7.61 (s, 2H), 7.33-7.45 (m, 4H), 7.04-7.17 (m, 1H), 5.80 (br t, J=7.2 Hz, 1H), 3.69 (br d, J=5.1 Hz, 2H), 2.67 (br t, J=5.1 Hz, 2H), 2.48 (dt, J=13.6, 6.8 Hz, 1H), 2.14 (m, 4H), 1.43 (dt, J=13.0, 6.2 Hz, 1H), 0.97 (dd, J=14.4, 6.6 Hz, 6H). m/z (MH+): 572.10.
 Example 90-Compound #54
 3-[[4-[3-Methyl-1-[6-methyl-5-[2-methyl-4-(trifluoromethyl)phenyl]indazol-2-yl]butyl]benzoyl]amino]propanoic acid
+<img> id-US20180065955A1-20180308-C00111.TIF </img>
 1H NMR (CHLOROFORM-d) δ: 8.84-9.42 (m, 1H), 7.94-8.03 (m, 1H), 7.73 (br d, J=7.6 Hz, 2H), 7.59 (s, 1H), 7.52 (s, 1H), 7.40-7.49 (m, 3H), 7.32 (s, 1H), 7.22 (d, J=7.6 Hz, 1H), 7.12-7.19 (m, 1H), 5.69-5.91 (m, 1H), 3.69 (br d, J=4.4 Hz, 2H), 2.66 (br s, 2H), 2.44-2.56 (m, 1H), 2.05-2.15 (m, 7H), 1.40-1.49 (m, 1H), 0.97 (dd, J=14.9, 6.6 Hz, 6H). m/z (MH+): 552.15.
 Example 91-Compound #261
 3-[[4-[1-[6-Chloro-5-[2-methyl-4-(trifluoromethyl)phenyl]indazol-1-yl]-3-methyl-butyl]benzoyl]amino]propanoic acid
+<img> id-US20180065955A1-20180308-C00112.TIF </img>
 1H NMR (CHLOROFORM-d) δ: 9.55 (br s, 1H), 8.09 (s, 1H), 7.67-7.76 (m, 2H), 7.36-7.57 (m, 6H), 7.19-7.30 (m, 1H), 6.95 (br s, 1H), 5.67 (dd, J=9.4, 5.7 Hz, 1H), 3.69 (br d, J=5.1 Hz, 2H), 2.60-2.73 (m, 3H), 2.08-2.20 (m, 4H), 1.40-1.58 (m, 1H), 0.88-1.04 (m, 6H). m/z (MH+): 572.10.
 Example 92-Compound #30
 3-[[4-[1-[6-Chloro-5-[2-methyl-4-(trifluoromethyl)phenyl]indazol-2-yl]-3-methyl-butyl]benzoyl]amino]propanoic acid
+<img> id-US20180065955A1-20180308-C00113.TIF </img>
 1H NMR (CHLOROFORM-d) δ: 8.04 (br s, 1H), 7.87 (s, 1H), 7.74 (br d, J=7.6 Hz, 2H), 7.40-7.55 (m, 5H), 7.21-7.26 (m, 1H), 6.99-7.15 (m, 1H), 5.76 (br t, J=6.6 Hz, 1H), 3.69 (br d, J=4.2 Hz, 2H), 2.67 (br s, 2H), 2.45-2.57 (m, 1H), 2.10-2.20 (m, 4H), 1.36-1.50 (m, 1H), 0.98 (dd, J=14.4, 6.6 Hz, 6H). m/z (MH+): 572.10.
 Example 93-Compound #33
 3-[[5-[1-[6-Chloro-5-[2-chloro-4-(trifluoromethyl)phenyl]indazol-2-yl]-3-methyl-butyl]pyridine-2-carbonyl]amino]propanoic acid
+<img> id-US20180065955A1-20180308-C00114.TIF </img>
 1H NMR (CHLOROFORM-d) δ: 8.60 (t, J=1.8 Hz, 1H), 8.46 (t, J=6.2 Hz, 1H), 8.16 (d, J=8.1 Hz, 1H), 8.09 (dd, J=3.2, 1.0 Hz, 1H), 7.86-7.94 (m, 2H), 7.75 (s, 1H), 7.55-7.62 (m, 1H), 7.53 (s, 1H), 7.37-7.45 (m, 1H), 5.78 (br d, J=3.4 Hz, 1H), 3.75 (q, J=6.3 Hz, 2H), 2.71 (t, J=6.1 Hz, 2H), 2.59 (ddd, J=14.4, 9.1, 5.9 Hz, 1H), 2.11-2.19 (m, 1H), 1.37-1.48 (m, 1H), 0.95-1.08 (m, 6H). m/z (MH+): 593.0.
 Example 94-Compound #140
 3-[[5-[1-[6-Chloro-5-(4-chloro-2-methyl-phenyl)indazol-2-yl]-3-methyl-butyl]pyridine-2-carbonyl]amino]propanoic acid
+<img> id-US20180065955A1-20180308-C00115.TIF </img>
 1H NMR (CHLOROFORM-d) δ: 8.60 (s, 1H), 8.46 (t, J=6.4 Hz, 1H), 8.16 (d, J=8.1 Hz, 1H), 8.04 (dd, J=2.4, 0.7 Hz, 1H), 7.90 (ddd, J=8.0, 5.4, 2.2 Hz, 1H), 7.85 (s, 1H), 7.45 (s, 1H), 7.20 (dt, J=8.1, 2.3 Hz, 2H), 7.03-7.10 (m, 1H), 5.78 (dt, J=9.4, 5.7 Hz, 1H), 3.75 (q, J=6.3 Hz, 2H), 2.71 (t, J=6.1 Hz, 2H), 2.58 (dddd, J=13.8, 9.7, 5.9, 3.7 Hz, 1H), 2.07-2.18 (m, 4H), 1.36-1.51 (m, 1H), 0.93-1.06 (m, 6H). m/z (MH+): 539.2.
 Example 95-Compound #102
 3-[[5-[1-[6-Chloro-5-(4-chloro-2-methyl-phenyl)indazol-1-yl]-3-methyl-butyl]pyridine-2-carbonyl]amino]propanoic acid
+<img> id-US20180065955A1-20180308-C00116.TIF </img>
 1H NMR (CHLOROFORM-d) δ: 9.52-10.58 (m, 1H), 8.54-8.64 (m, 1H), 8.45-8.52 (m, 1H), 8.05-8.17 (m, 2H), 7.81-7.93 (m, 1H), 7.50-7.58 (m, 2H), 7.16-7.31 (m, 2H), 7.00-7.13 (m, 1H), 5.57-5.85 (m, 1H), 3.74 (q, J=6.0 Hz, 2H), 2.65-2.75 (m, 3H), 2.07-2.14 (m, 4H), 1.41-1.58 (m, 1H), 0.99 (dt, J=8.6, 6.7 Hz, 6H). m/z (MH+): 541.2.
 Example 96-Compound #176
 3-[[5-[1-[6-Chloro-5-[2-methyl-4-(trifluoromethyl)phenyl]indazol-2-yl]-3-methyl-butyl]pyridine-2-carbonyl]amino]propanoic acid
+<img> id-US20180065955A1-20180308-C00117.TIF </img>
 1H NMR (CHLOROFORM-d) δ: 8.61 (br s, 1H), 8.49 (br t, J=5.9 Hz, 1H), 8.16 (br d, J=8.1 Hz, 1H), 8.07 (d, J=2.4 Hz, 1H), 7.83-7.95 (m, 2H), 7.42-7.55 (m, 3H), 7.25-7.29 (m, 1H), 5.68-5.89 (m, 3H), 3.75 (q, J=5.9 Hz, 2H), 2.71 (t, J=5.9 Hz, 2H), 2.52-2.65 (m, 1H), 2.17 (d, J=7.6 Hz, 3H), 1.43 (dsxt, J=13.2, 6.5 Hz, 1H), 0.93-1.07 (m, 6H). m/z (MH+): 573.2.
 Example 97-Compound #146
 3-[[5-[1-[6-Chloro-5-[2-methyl-4-(trifluoromethyl)phenyl]indazol-1-yl]-3-methyl-butyl]pyridine-2-carbonyl]amino]propanoic acid
+<img> id-US20180065955A1-20180308-C00118.TIF </img>
 1H NMR (CHLOROFORM-d) δ: 8.81 (br s, 1H), 8.49-8.65 (m, 2H), 8.08-8.20 (m, 2H), 7.90 (ddd, J=20.9, 8.2, 1.7 Hz, 1H), 7.43-7.60 (m, 4H), 7.19-7.31 (m, 1H), 5.63-5.83 (m, 1H), 3.75 (q, J=6.1 Hz, 2H), 2.64-2.81 (m, 3H), 2.05-2.21 (m, 4H), 1.48 (br dd, J=13.3, 6.7 Hz, 1H), 0.91-1.06 (m, 6H). m/z (MH+): 573.2.
 Example 98-Compound #253
 3-[[4-[(1S)-3-Methyl-1-[6-methyl-5-[2-methyl-4-(trifluoromethyl)phenyl]indazol-1-yl]butyl]benzoyl]amino]propanoic acid
+<img> id-US20180065955A1-20180308-C00119.TIF </img>
 Step A: Ethyl 4-(3-methylbutanoyl)benzoate
 4-(Ethoxycarbonyl)phenyl-zinc iodide (100 mlL of a 0.5 M solution in THF, 50 mmol) was added slowly to a stirred solution of dichlorbis(triphenylphosphine)palladium (11) (1403 mg) in THF (50 mL) at 0° C. under argon. After 20 min, 3-methylbutanoyl chloride (6.03 g, 50 mmol) was added dropwise and the resulting mixture was stirred at 0° C. for 2 hours, then poured into 1N HCl and extracted with EtOAc three times. The combined extracts were washed with aq. NaHCO3, brine, dried (Na2SO4), filtered and concentrated under reduced pressure. The resulting residue was purified by flash column chromatography on silica gel (EtOAc/heptane: 0>>>5%) to yield a colorless oil initially, which upon standing became a white solid. 1H NMR (CHLOROFORM-d) δ: 8.10-8.14 (m, 2H), 7.99 (d, J=8.6 Hz, 2H), 4.41 (q, J=7.2 Hz, 2H), 2.86 (d, J=6.8 Hz, 2H), 2.30 (dquin, J=13.4, 6.7 Hz, 1H), 1.42 (t, J=7.2 Hz, 3H), 1.01 (d, J=6.6 Hz, 6H).
 Step B: (R)-Ethyl 4-(1-hydroxy-3-methylbutyl)benzoate
@@ -1036,12 +1150,15 @@ To a solution of (S)-Methyl 3-(4-(3-methyl-1-(6-methyl-5-(2-methyl-4-(trifluorom
 The following compounds (as shown in Examples 99-100 below) was similarly prepared according to the procedure described in Examples 98, selecting and substituting a suitably substituted indazole starting material.
 Example 99-Compound #248
 3-[[4-[(1S)-3-Methyl-1-[6-methyl-5-[2-methyl-4-(trifluoromethyl)phenyl]indazol-2-yl]butyl]benzoyl]amino]propanoic acid
+<img> id-US20180065955A1-20180308-C00120.TIF </img>
 1H NMR (CHLOROFORM-d) δ: 7.98 (d, J=4.9 Hz, 1H), 7.73 (d, J=7.8 Hz, 2H), 7.59 (s, 1H), 7.51 (s, 1H), 7.40-7.49 (m, 3H), 7.32 (s, 1H), 7.21 (d, J=7.8 Hz, 1H), 7.15 (br t, J=5.1 Hz, 1H), 5.83 (br s, 1H), 3.61-3.77 (m, 2H), 2.66 (br t, J=5.6 Hz, 2H), 2.44-2.63 (m, 1H), 2.07 (d, J=17.1 Hz, 7H), 1.44 (dquin, J=13.2, 6.5 Hz, 1H), 0.97 (dd, J=15.0, 6.5 Hz, 6H). m/z (MH+): 552.40.
 Example 100-Compound #241
 (S)-3-(4-(1-(5-(2-Chloro-4-(trifluoromethyl)phenyl)-4-methyl-1H-indazol-1-yl)-3-methylbutyl)benzamido)propanoic acid
+<img> id-US20180065955A1-20180308-C00121.TIF </img>
 1H NMR (METHANOL-d4) δ: 8.24 (s, 1H), 7.84 (d, J=4.6 Hz, 1H), 7.63-7.77 (m, 3H), 7.40-7.56 (m, 4H), 7.14 (dd, J=8.7, 3.5 Hz, 1H), 5.93 (dd, J=10.3, 5.1 Hz, 1H), 3.54-3.66 (m, 2H), 2.66-2.78 (m, 1H), 2.60 (t, J=7.0 Hz, 2H), 2.35 (s, 3H), 1.98-2.13 (m, 1H), 1.35-1.55 (m, 1H), 0.98 (dt, J=14.8, 7.3 Hz, 6H). m/z (MH+): 571.80.
 Example 101-Compound #85
 3-[[4-[(1R)-1-[5-[2-Chloro-4-(trifluoromethyl)phenyl]indazol-1-yl]-3-methyl-butyl]benzoyl]amino]propanoic acid
+<img> id-US20180065955A1-20180308-C00122.TIF </img>
 Step A: Methyl 4-(1-hydroxy-3-methylbutyl)benzoate
 To a solution of methyl 4-formylbenzoate (9.32 g, 56.8 mmol) in 40 ml of anhydrous THF was added isobutylmagnesium bromide (2N, 31.2 ml) at 0° C. under nitrogen and the mixture was stirred for 2 hours. The resulting mixture was quenched with aqueous NH4Cl, extracted with ethyl acetate. The organic layer was washed with brine, dried over Na2SO4, filtered, and concentrated. The resulting residue was purified by flash column chromatography on silica gel (EtOAc/heptane: 0>>>20%) to yield a colorless oil.
 Step B: Methyl 4-(3-methylbutanoyl)benzoate
@@ -1058,61 +1175,80 @@ Step F: 3-[[4-[(1R)-1-[5-[2-Chloro-4-(trifluoromethyl)phenyl]indazol-1-yl]-3-met
 The following compounds (as shown in Examples 102-111 below) were similarly prepared according to the procedures described in Examples 98 and 101, selecting and substituting a suitably substituted indazole starting material.
 Example 102-Compound 145
 (R)-3-(4-(1-(4-Methoxy-5-(2-methyl-4-(trifluoromethyl)phenyl)-1H-indazol-1-yl)-3-methylbutyl)benzamido)propanoic acid
+<img> id-US20180065955A1-20180308-C00123.TIF </img>
 1H NMR (CHLOROFORM-d) δ: 8.28 (s, 1H), 7.69 (br d, J=6.6 Hz, 2H), 7.37-7.54 (m, 4H), 7.26-7.33 (m, 1H), 7.07 (s, 2H), 6.89 (br s, 1H), 5.70 (br dd, J=9.3, 5.6 Hz, 1H), 3.99 (s, 3H), 3.68 (br s, 2H), 2.66 (br s, 3H), 2.19 (br d, J=7.8 Hz, 4H), 1.48 (br s, 1H), 0.98 (br d, J=5.6 Hz, 6H). m/z (MH+): 568.20.
 Example 103-Compound #229
 3-[[4-[(1R)-3-Methyl-1-[6-methyl-5-[4-(trifluoromethyl)phenyl]indazol-1-yl]butyl]benzoyl]amino]propanoic acid
+<img> id-US20180065955A1-20180308-C00124.TIF </img>
 1H NMR (CHLOROFORM-d) δ: 8.06 (s, 1H), 7.67 (t, J=7.7 Hz, 4H), 7.53 (s, 1H), 7.40 (dd, J=13.6, 7.9 Hz, 4H), 6.81 (br t, J=5.7 Hz, 1H), 5.71 (dd, J=9.8, 5.4 Hz, 1H), 3.69 (q, J=5.7 Hz, 2H), 2.60-2.74 (m, 3H), 2.31 (s, 3H), 2.01-2.13 (m, 1H), 1.42-1.54 (m, 1H), 0.98 (t, J=6.5 Hz, 6H). m/z (MH+): 538.2.
 Example 104-Compound #90
 3-[[4-[(1S)-1-[5-[2-Chloro-4-(trifluoromethyl)phenyl]indazol-1-yl]-3-methyl-butyl]benzoyl]amino]propanoic acid
+<img> id-US20180065955A1-20180308-C00125.TIF </img>
 1H NMR (CHLOROFORM-d) δ: 8.15 (s, 1H), 7.73-7.79 (m, 2H), 7.68 (d, J=8.3 Hz, 2H), 7.54-7.59 (m, 1H), 7.46 (d, J=13.2 Hz, 2H), 7.38-7.43 (m, 3H), 6.84-6.92 (m, 1H), 5.74 (dd, J=9.8, 5.6 Hz, 1H), 3.67 (q, J=6.0 Hz, 2H), 2.60-2.72 (m, 3H), 2.09-2.13 (m, 1H), 1.43-1.52 (m, 1H), 0.97 (t, J=6.2 Hz, 6H). m/z (MH+): 558.2.
 Example 105-Compound #191
 3-[[4-[(1R)-1-[5-[2-Chloro-4-(trifluoromethyl)phenyl]-4-methoxy-indazol-2-yl]-3-methyl-butyl]benzoyl]amino]propanoic acid
+<img> id-US20180065955A1-20180308-C00126.TIF </img>
 1H NMR (CHLOROFORM-d) δ: 8.13-8.33 (m, 1H), 7.71-7.80 (m, 3H), 7.57 (br d, J=8.1 Hz, 1H), 7.44-7.52 (m, 4H), 7.17 (d, J=8.6 Hz, 1H), 7.02 (br s, 1H), 5.91 (br t, J=7.6 Hz, 1H), 3.84 (s, 3H), 3.74 (br s, 2H), 2.72 (br s, 2H), 2.41-2.53 (m, 1H), 2.20 (dt, J=14.0, 7.1 Hz, 1H), 1.44-1.54 (m, 1H), 1.01 (br t, J=7.7 Hz, 6H). m/z (MH+): 588.2.
 Example 106-Compound #150
 3-[[4-[(1S)-1-[5-[2-Chloro-4-(trifluoromethyl)phenyl]-4-methoxy-indazol-2-yl]-3-methyl-butyl]benzoyl]amino]propanoic acid
+<img> id-US20180065955A1-20180308-C00127.TIF </img>
 1H NMR (CHLOROFORM-d) δ: 8.10-8.31 (m, 1H), 7.67-7.79 (m, 3H), 7.40-7.61 (m, 6H), 6.97-7.16 (m, 2H), 5.70-5.90 (m, 1H), 3.85 (s, 3H), 3.67 (br s, 2H), 2.61-2.72 (m, 2H), 2.43-2.56 (m, 1H), 2.09-2.21 (m, 1H), 1.36-1.54 (m, 1H), 0.99 (br dd, J=13.0, 6.4 Hz, 6H). m/z (MH+): 588.2.
 Example 107-Compound #201
 3-[[4-[(1S)-1-[5-[2-Chloro-4-(trifluoromethyl)phenyl]-4-methoxy-indazol-1-yl]-3-methyl-butyl]benzoyl]amino]propanoic acid
+<img> id-US20180065955A1-20180308-C00128.TIF </img>
 1H NMR (CHLOROFORM-d) δ: 8.30 (s, 1H), 7.73 (s, 3H), 7.51-7.57 (m, 1H), 7.41 (br d, J=5.6 Hz, 3H), 7.10 (br d, J=9.3 Hz, 2H), 6.71-6.87 (m, 1H), 5.69 (br dd, J=9.3, 5.9 Hz, 1H), 4.09 (s, 3H), 3.69 (br s, 2H), 2.58-2.75 (m, 3H), 2.09 (br d, J=6.1 Hz, 1H), 1.48 (br s, 1H), 0.98 (br d, J=5.9 Hz, 6H). m/z (MH+): 588.2.
 Example 108-Compound #192
 3-[[4-[(1S)-1-[4-Methoxy-5-[2-methyl-4-(trifluoromethyl)phenyl]indazol-1-yl]-3-methyl-butyl]benzoyl]amino]propanoic acid
+<img> id-US20180065955A1-20180308-C00129.TIF </img>
 1H NMR (CHLOROFORM-d) δ: 8.28 (s, 1H), 7.69 (br d, J=7.6 Hz, 2H), 7.37-7.54 (m, 4H), 7.27-7.34 (m, 1H), 7.07 (s, 2H), 6.87 (br s, 1H), 5.69 (br dd, J=9.4, 5.7 Hz, 1H), 3.99 (s, 3H), 3.68 (br s, 2H), 2.59-2.74 (m, 3H), 2.06-2.27 (m, 4H), 1.49 (br s, 1H), 0.98 (br d, J=6.1 Hz, 6H). m/z (MH+): 568.2.
 Example 109-Compound #180
 3-[[4-[(1S)-1-[5-[2-Chloro-4-(trifluoromethyl)phenyl]-4-methyl-indazol-2-yl]-3-methyl-butyl]benzoyl]amino]propanoic acid
+<img> id-US20180065955A1-20180308-C00130.TIF </img>
 1H NMR (CHLOROFORM-d) δ: 9.67 (br s, 1H), 8.07 (d, J=4.9 Hz, 1H), 7.67-7.78 (m, 3H), 7.58 (dd, J=15.3, 8.4 Hz, 2H), 7.34-7.44 (m, 3H), 7.23 (br s, 1H), 7.04 (d, J=8.8 Hz, 1H), 5.77 (br s, 1H), 3.63 (br d, J=5.1 Hz, 2H), 2.60 (br s, 2H), 2.50 (dt, J=13.3, 6.5 Hz, 1H), 2.27 (s, 3H), 2.11 (dt, J=13.8, 6.9 Hz, 1H), 1.37-1.51 (m, 1H), 0.96 (dd, J=16.1, 6.6 Hz, 6H). m/z (MH+): 572.2.
 Example 110-Compound #196
 3-[[4-[(1S)-1-[5-[2-Chloro-4-(trifluoromethyl)phenyl]-6-methyl-indazol-1-yl]-3-methyl-butyl]benzoyl]amino]propanoic acid
+<img> id-US20180065955A1-20180308-C00131.TIF </img>
 1H NMR (CHLOROFORM-d) δ: 8.06 (s, 1H), 7.65-7.77 (m, 3H), 7.57 (t, J=8.3 Hz, 1H), 7.31-7.49 (m, 4H), 7.25 (br s, 1H), 6.76 (br s, 1H), 5.67-5.73 (m, 1H), 3.70 (q, J=5.5 Hz, 2H), 2.61-2.72 (m, 3H), 2.18 (d, J=5.6 Hz, 3H), 2.05 (m, 1H), 1.40-1.59 (m, 1H), 0.93-1.04 (m, 6H). m/z (MH+): 572.2.
 Example 111-Compound #156
 3-[[4-[(1S)-3-Methyl-1-[4-methyl-5-[2-methyl-4-(trifluoromethyl)phenyl]indazol-2-yl]butyl]benzoyl]amino]propanoic acid
+<img> id-US20180065955A1-20180308-C00132.TIF </img>
 1H NMR (CHLOROFORM-d) δ: 9.97-10.54 (m, 1H), 8.09 (d, J=3.7 Hz, 1H), 7.75 (d, J=7.8 Hz, 2H), 7.59 (d, J=8.8 Hz, 1H), 7.53 (s, 1H), 7.48 (br d, J=7.8 Hz, 3H), 7.17-7.28 (m, 2H), 7.04 (d, J=8.8 Hz, 1H), 5.87 (br s, 1H), 3.63-3.74 (m, 2H), 2.66 (br t, J=5.6 Hz, 2H), 2.47-2.59 (m, 1H), 2.21 (s, 3H), 2.13-2.19 (m, 1H), 2.11 (s, 3H), 1.40-1.51 (m, 1H), 0.99 (dd, J=14.4, 6.6 Hz, 6H). m/z (MH+): 552.3.
 The following compounds (as shown in Examples 112-120 below) were similarly prepared according to the procedures described in Examples 5 and 6, selecting and substituting a suitably substituted arylalkyl bromides and indazoles as starting materials.
 Example 112-Compound #214
 3-[[5-[3-Methyl-1-[6-methyl-5-[2-methyl-4-(trifluoromethyl)phenyl]indazol-1-yl]butyl]pyridine-2-carbonyl]amino]propanoic acid
+<img> id-US20180065955A1-20180308-C00133.TIF </img>
 1H NMR (CHLOROFORM-d) δ: 9.98 (br s, 1H), 8.43-8.64 (m, 2H), 8.14 (t, J=7.1 Hz, 1H), 8.06 (s, 1H), 7.88 (br dd, J=20.5, 8.1 Hz, 1H), 7.44-7.57 (m, 2H), 7.42 (s, 1H), 7.15-7.34 (m, 2H), 5.76 (br dd, J=8.9, 6.0 Hz, 1H), 3.75 (q, J=5.8 Hz, 2H), 2.65-2.78 (m, 3H), 2.05-2.15 (m, 7H), 1.43-1.59 (m, 1H), 0.95-1.08 (m, 6H). m/z (MH+): 553.2.
 Example 113-Compound #187
 3-[[5-[3-Methyl-1-[6-methyl-5-[2-methyl-4-(trifluoromethyl)phenyl]indazol-2-yl]butyl]pyridine-2-carbonyl]amino]propanoic acid
+<img> id-US20180065955A1-20180308-C00134.TIF </img>
 1H NMR (CHLOROFORM-d) δ: 8.62 (s, 1H), 8.50 (br t, J=6.0 Hz, 1H), 8.16 (d, J=8.1 Hz, 1H), 8.01 (d, J=4.2 Hz, 1H), 7.88 (br d, J=8.1 Hz, 1H), 7.60 (s, 1H), 7.46-7.55 (m, 2H), 7.33 (s, 1H), 7.15-7.26 (m, 1H), 5.83 (br s, 1H), 3.76 (q, J=5.7 Hz, 2H), 2.71 (br t, J=5.9 Hz, 2H), 2.52-2.64 (m, 1H), 2.07-2.17 (m, 7H), 1.40-1.53 (m, 1H), 1.00 (dd, J=16.9, 6.6 Hz, 6H). m/z (MH+): 553.2.
 Example 114-Compound #259
 3-[[5-[1-[5-[2-Chloro-4-(trifluoromethyl)phenyl]-6-methyl-indazol-1-yl]-3-methyl-butyl]pyridine-2-carbonyl]amino]propanoic acid
+<img> id-US20180065955A1-20180308-C00135.TIF </img>
 1H NMR (CHLOROFORM-d) δ: 10.01 (br s, 1H), 8.57 (br d, J=15.9 Hz, 1H), 8.49 (br d, J=4.4 Hz, 1H), 8.01-8.20 (m, 2H), 7.87 (br dd, J=26.4, 8.1 Hz, 1H), 7.74 (br d, J=6.6 Hz, 1H), 7.57 (br t, J=8.2 Hz, 1H), 7.47 (s, 1H), 7.26-7.42 (m, 2H), 5.76 (br dd, J=9.0, 5.9 Hz, 1H), 3.75 (br d, J=5.6 Hz, 2H), 2.61-2.81 (m, 3H), 2.20 (br d, J=4.6 Hz, 3H), 2.10 (s, 1H), 1.38-1.62 (m, 1H), 0.93-1.08 (m, 6H). m/z (MH+): 573.2.
 Example 115-Compound #242
 3-[[5-[1-[5-[2-Chloro-4-(trifluoromethyl)phenyl]-6-methyl-indazol-2-yl]-3-methyl-butyl]pyridine-2-carbonyl]amino]propanoic acid
+<img> id-US20180065955A1-20180308-C00136.TIF </img>
 1H NMR (CHLOROFORM-d) δ: 10.31-11.33 (m, 1H), 8.62 (br s, 1H), 8.51 (br s, 1H), 8.15 (br d, J=8.1 Hz, 1H), 8.04 (br s, 1H), 7.88 (br d, J=7.8 Hz, 1H), 7.74 (br s, 1H), 7.52-7.66 (m, 2H), 7.31-7.49 (m, 2H), 5.74-5.98 (m, 1H), 3.76 (br d, J=5.6 Hz, 2H), 2.72 (br d, J=4.9 Hz, 2H), 2.51-2.64 (m, 1H), 2.10-2.27 (m, 4H), 1.44 (br d, J=6.8 Hz, 1H), 0.99 (br dd, J=17.0, 6.2 Hz, 6H). m/z (MH+): 573.2.
 Example 116-Compound #56
 3-(4-(1-(5-(4-(tert-Butyl)phenyl)-1H-indazol-1-yl)butyl)benzamido)propanoic acid
+<img> id-US20180065955A1-20180308-C00137.TIF </img>
 1H NMR (400 MHz, CDCl3) δ 8.17 (s, 1H), 7.91 (s, 1H), 7.71-7.73 (m, 2H), 7.50-7.63 (m, 5H), 7.41-7.47 (m, 2H), 6.80-6.81 (m, 1H), 5.65-5.71 (m, 1H), 3.71-3.77 (m, 2H), 2.65-2.73 (m, 3H), 2.27-2.33 (m, 1H), 1.33 (s, 9H), 0.97-1.02 (m, 3H). (ES, m/z) 498 [M+H]+.
 Example 117-Compound #22
 3-(4-(1-(5-(4-(tert-Butyl)phenyl)-2H-indazol-2-yl)butyl)benzamido)propanoic acid
+<img> id-US20180065955A1-20180308-C00138.TIF </img>
 1H NMR (400 MHz, CDCl3) δ 8.11 (s, 1H), 7.81-7.84 (m, 2H), 7.58-7.73 (m, 3H), 7.46-7.55 (m, 6H), 6.93-6.94 (m, 1H), 5.85 (s, 1H), 3.74 (s, 2H), 2.72 (s, 2H), 2.54 (s, 1H), 2.32 (s, 1H), 1.39 (s, 9H), 1.01 (t, J=6.6 Hz, 3H). (ES, m/z) 498 [M+H]+.
 Example 118-Compound #23
 3-(4-(1-(5-(4-(tert-Butyl)phenyl)-1H-indazol-1-yl)-4-methylpentyl)benzamido)propanoic acid
+<img> id-US20180065955A1-20180308-C00139.TIF </img>
 1H NMR (300 MHz, CDCl3) δ 8.16 (s, 1H), 7.91 (s, 1H), 7.69-7.72 (m, 2H), 7.40-7.62 (m, 8H), 6.75 (s, 1H), 5.60 (m, 1H), 3.71-3.73 (m, 2H), 2.65-2.73 (m, 3H), 2.29-2.36 (m, 1H), 1.62-1.64 (m, 1H), 1.39 (s, 9H), 1.19-1.24 (m, 2H), 0.90 (dd, J=3.6 Hz, 6.3 Hz, 6H). (ES, m/z) 526 [M+H]+.
 Example 119-Compound #227
 3-(4-(1-(5-(4-(tert-Butyl)phenyl)-2H-indazol-2-yl)-4-methylpentyl)benzamido)propanoic acid
+<img> id-US20180065955A1-20180308-C00140.TIF </img>
 1H NMR (300 MHz, CDCl3) δ 8.22 (s, 1H), 7.87 (s, 1H), 7.70-7.80 (m, 4H), 7.42-7.57 (m, 7H), 7.03 (s, 1H), 5.76-5.79 (m, 1H), 3.71-3.72 (m, 2H), 2.70 (s, 2H), 1.62-1.66 (m, 1H), 1.38 (s, 9H), 1.17-1.28 (m, 2H), 0.88-0.91 (m, 6H). (ES, m/z) 526 [M+H]+.
 Example 120-Compound #24
 3-(4-(1-(5-(4-(tert-Butyl)phenyl)-1H-indazol-1-yl)-2-cyclohexylethyl)benzamido)propanoic acid
+<img> id-US20180065955A1-20180308-C00141.TIF </img>
 Step A:
 Into a 250-mL 3-necked round-bottom flask purged and maintained with an inert atmosphere of nitrogen, was placed magnesium (420 mg, 17.50 mmol, 1.10 equiv), a solution of (2-bromoethyl)cyclohexane (3 g, 15.71 mmol, 1.00 equiv) in tetrahydrofuran (50 mL). The solution was refluxed for 3 hours, then cooled to room temperature. Into another 250-mL 3-necked round-bottom flask purged and maintained with an inert atmosphere of nitrogen, was placed a solution of trimethyl borate (2.46 g, 23.65 mmol, 1.50 equiv) in tetrahydrofuran (50 mL) with stirring at −78° C. To this mixture was added the above prepared solution. The resulting mixture was stirred for 3 hours at room temperature. To the resulting mixture was then added KHF2 (4.926 g, 63.15 mmol, 4.00 equiv) and water (80 mL). The resulting solution was stirred overnight at room temperature. The solvent was removed under reduced pressure. The residue was washed with 3×100 mL of propan-2-one and the resulting filtrate was then concentrated under vacuum to yield potassium (2-cyclohexylethyl)trifluoroborate as a white solid.
 Step B:
@@ -1131,15 +1267,19 @@ Into a 25-mL round-bottom flask, was placed a solution of ethyl 3-(4-(1-(5-(4-te
 The following compounds (as shown in Examples 121-123 below) were similarly prepared according to the procedure described in Examples 120, selecting and substituting a suitably substituted arylalkyl bromide starting material.
 Example 121-Compound #228
 3-(4-(1-(5-(4-(tert-Butyl)phenyl)-2H-indazol-2-yl)-2-cyclohexylethyl)benzamido)propanoic acid
+<img> id-US20180065955A1-20180308-C00142.TIF </img>
 1H NMR (400 MHz, CDCl3) δ (ppm): 8.05 (s, 1H), 7.78-7.81 (m, 2H), 7.72-7.74 (m, 2H), 7.56-7.60 (m, 2H), 7.48-7.50 (m, 2H), 7.42-7.44 (m, 2H), 6.90-6.93 (m, 1H), 5.83-5.87 (m, 1H), 3.71-3.74 (m, 2H), 2.68-2.71 (m, 2H), 2.47-2.54 (m, 1H), 2.13-2.20 (m, 1H), 1.86-1.89 (m, 1H), 1.62-1.78 (m, 4H), 1.39 (s, 9H), 1.16-1.37 (m, 6H). LC-MS (ES, m/z) 552 [M+H]+
 Example 122-Compound #239
 3-(4-(3-Cyclobutyl-1-(5-(4-(trifluoromethyl)phenyl)-1H-indazol-1-yl)propyl)benzamido)propanoic acid
+<img> id-US20180065955A1-20180308-C00143.TIF </img>
 1H NMR (300 MHz, CD3OD) δ: 8.21 (s, 1H), 8.09 (s, 1H), 7.85 (d, J=8.1 Hz, 2H), 7.72-7.76 (m, 6H), 7.44 (d, J=8.1 Hz, 2H), 5.82-5.86 (m, 1H), 3.60 (t, J=6.9 Hz, 2H), 2.59-2.64 (m, 3H), 2.15-2.45 (m, 2H), 2.05-2.10 (m, 2H), 1.79-1.90 (m, 2H), 1.25-1.50 (m, 4H). LC-MS (ES, m/z) 550 [M+H]+.
 Example 123-Compound #215
 3-(4-(3-Cyclobutyl-1-(5-(4-(trifluoromethyl)phenyl)-2H-indazol-2-yl)propyl)benzamido)propanoic acid
+<img> id-US20180065955A1-20180308-C00144.TIF </img>
 1H NMR (300 MHz, CD3OD) δ: 8.50 (s, 1H), 8.03 (s, 1H), 7.73-7.88 (m, 7H), 7.65-7.68 (m, 1H), 7.51 (d, J=8.1 Hz, 2H), 5.72-5.77 (m, 1H), 3.61 (t, J=6.9 Hz, 2H), 2.62 (t, J=6.9 Hz, 2H), 2.41-2.54 (m, 1H), 2.27-2.41 (m, 2H), 2.08-2.18 (m, 2H), 1.78-1.90 (m, 2H), 1.57-1.63 (m, 2H), 1.40-1.50 (m, 1H), 1.25-1.35 (m, 1H). LC-MS (ES, m/z) 550 [M+H]+.
 Example 124-Compound #185
 3-(4-(3-Fluoro-3-methyl-1-(5-(4-(trifluoromethyl)phenyl)-1H-indazol-1-yl)butyl)benzamido)propanoic acid
+<img> id-US20180065955A1-20180308-C00145.TIF </img>
 Step A:
 Into a 1000-mL round-bottom flask, was placed a solution of 4-formylbenzoic acid (22 g, 146.67 mmol, 2.00 equiv) in tetrahydrofuran (650 mL), dimethyl 2-oxopropylphosphonate (10 g, 60.24 mmol, 1.00 equiv), a solution of potassium carbonate (27.6 g, 200.00 mmol, 2.00 equiv) in water (160 mL). The resulting solution was stirred overnight at room temperature and the reaction was then quenched by the addition of 250 mL of water. The pH value of the solution was adjusted to 2 with 2 N HCl. The resulting solution was extracted with 2×150 mL of ethyl acetate. The combined organic layers were washed with 3×100 mL of brine, dried over anhydrous sodium sulfate and concentrated under vacuum to yield (E)-4-(3-oxobut-1-enyl)benzoic acid as a white solid.
 Step B:
@@ -1164,9 +1304,11 @@ Into a 10-mL round-bottom flask, was placed a solution of ethyl 3-(4-(3-fluoro-3
 The following compound (as shown in Example 125 below) was similarly prepared according to the procedure described in Examples 124 STEPS G-J, reacting methyl 4-(3-hydroxy-3-methyl-1-(5-(4-(trifluoromethyl)phenyl)-2H-indazol-2-yl)butyl)benzoate (the N-2 substituted compound prepared in STEP F as the second light yellow oil).
 Example 125-Compound #256
 3-(4-(3-Fluoro-3-methyl-1-(5-(4-(trifluoromethyl)phenyl)-2H-indazol-2-yl)butyl)benzamido)propanoic acid
+<img> id-US20180065955A1-20180308-C00146.TIF </img>
 1H NMR (400 MHz, CD3OD) δ: 8.58 (s, 1H), 8.02 (s, 1H), 7.81-7.87 (m, 2H), 7.74-7.93 (m, 4H), 7.65-7.68 (m, 1H), 7.55-7.56 (m, 2H), 6.10-6.13 (m, 1H), 3.60 (t, J=6.8 Hz, 2H), 3.25-3.32 (m, 2H), 2.59-2.68 (m, 3H), 1.35 (d, J=16.2 Hz, 3H), 1.19 (d, J=16.2 Hz, 3H). LC-MS (ES, m/z) 542 [M+H]+.
 Example 126-Compound #101
 3-(4-((4-(Trifluoromethyl)phenyl)(5-(4-(trifluoromethyl)phenyl)-1H-indazol-1-yl)methyl)benzamido)propanoic acid
+<img> id-US20180065955A1-20180308-C00147.TIF </img>
 Step A:
 Into a 500-mL round-bottom flask purged and maintained with an inert atmosphere of nitrogen, was placed a solution of 4-(trifluoromethyl)phenylboronic acid (3.72 g, 19.580 mmol, 1.50 equiv) in 1,4-dioxane (90 mL), methyl 4-(bromomethyl)benzoate (3.00 g, 13.100 mmol, 1.00 equiv), Pd(PPh3)4 (1.50 g, 1.300 mmol, 0.10 equiv), a solution of CsF (5.00 g, 32.890 mmol, 2.50 equiv) in water (45 mL). The resulting solution was stirred overnight at 105° C. in an oil bath and the reaction was then quenched by the addition of 200 mL of water. The resulting solution was extracted with 3×100 mL of EtOAc. The combined organic layers were washed with 3×200 mL of brine, dried over anhydrous sodium sulfate and concentrated under vacuum. The residue was applied onto a silica gel column and eluted with ethyl acetate/petroleum ether (50:1) to yield methyl 4-(4-(trifluoromethyl)benzyl)benzoate as a light yellow oil. LC-MS: (ES, m/z): 295.1 [M+H]+.
 Step B:
@@ -1184,10 +1326,12 @@ Into a 50-mL round-bottom flask, was placed a solution of ethyl 3-(4-((4-(triflu
 The following compound (as shown in Example 127 below) was similarly prepared according to the procedures described in Examples 126 STEP D-F, substituting methyl 4-((4-(trifluoromethyl)phenyl)(5-(4-(trifluoromethyl)phenyl)-2H-indazol-2-yl)methyl)benzoate (the N-2substituted compound, prepared as the second white solid in STEP C.
 Example 127-Compound #66
 3-(4-((4-(Trifluoromethyl)phenyl)(5-(4-(trifluoromethyl)phenyl)-2H-indazol-2-yl)methyl)benzamido)propanoic acid
+<img> id-US20180065955A1-20180308-C00148.TIF </img>
 1H NMR (300 MHz, CD3OD) δ 8.31 (s, 1H), 8.03 (s, 1H), 7.80-7.88 (m, 4H), 7.67-7.76 (m, 6H), 7.34-7.43 (m, 5H), 3.64 (t, J=6.7 Hz, 2H), 2.64 (t, J=6.7 Hz, 2H). LC-MS: (ES, m/z) 612.2 [M+H]+.
 The following compound (as shown in Example 128 below) was similarly prepared according to the procedures described in Examples 5, substituting 1-methyl-4-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)-1H-pyrazole in the Suzuki coupling step.
 Example 128-Compound #12
 3-(4-(3-Methyl-1-(5-(1-methyl-1H-pyrazol-4-yl)-1H-indazol-1-yl)butyl)benzamido)propanoic acid
+<img> id-US20180065955A1-20180308-C00149.TIF </img>
 1H NMR (CHLOROFORM-d) δ: 8.10 (s, 1H), 7.81-7.93 (m, 1H), 7.60-7.81 (m, 4H), 7.30-7.46 (m, 4H), 6.89 (br t, J=6.0 Hz, 1H), 5.72 (dd, J=10.0, 5.6 Hz, 1H), 4.00 (s, 3H), 3.68 (q, J=5.9 Hz, 2H), 2.60-2.72 (m, 3H), 2.01-2.12 (m, 1H), 1.44 (dquin, J=13.5, 6.7 Hz, 1H), 0.96 (t, J=6.5 Hz, 6H). MS (m/z): 460.2
 Additional compounds of the present invention were similarly prepared according to the general synthesis schemes and examples described herein, selecting and substituting suitable reagents, starting materials and reactants, as would be readily recognized by those skilled in the art.
 Biological Example 1-Prophetic Example

@@ -5,12 +5,15 @@ Field of the Invention
 The present invention relates to an improved process for the preparation of Ethacrynic acid and a novel salt of Ethacrynic acid that is employed during the preparation of Ethacrynic acid. The present invention further relates to provide a process for the preparation of crystalline form of novel salt of Ethacrynic acid.
 Description of Related Art
 Ethacrynic acid is chemically known as [2,3-dichloro-4-(2-methylene-1-oxobutyl) phenoxy] acetic acid and is represented by a compound of structural formula I as mentioned below.
+<img> id-US20180111890A1-20180426-C00001.TIF </img>
 Ethacrynic acid is a potent diuretic and is marketed under the brand name ‘Edecrin’. Ethacrynic acid was first disclosed in U.S. Pat. No. 3,255,241 and the process for preparing Ethacrynic acid was disclosed in this Patent is shown below:
+<img> id-US20180111890A1-20180426-C00002.TIF </img>
 The above-mentioned process for preparing Ethacrynic acid involves the steps of hydrolysing the intermediate 2,3-dichloro-4-[2-dimethylaminomethyl]butyryl-phenoxy acetic acid hydrochloride with sodium bicarbonate solution to obtain sodium ethacrynate; followed by acidification of the solution containing sodium ethacrynate by hydrochloric acid to yield Ethacrynic acid.
 The Patents U.S. Pat. No. 3,322,821 and U.S. Pat. No. 3,479,402 also discloses the preparation of Ethacrynic acid involving the acidification of the solution containing sodium ethacrynate to yield Ethacrynic acid.
 The Publication entitled “A New Lead for Nonpeptidic Active-Site-Directed Inhibitors of the Severe Acute Respiratory Syndrome Coronavirus Main Protease Discovered by a Combination of Screening and Docking Methods” by Ulrich Kaeppler et al, Journal of Medicinal Chemistry, 2005, Vol. 1, No. 4 discloses the potassium carbonate instead sodium bicarbonate during the hydrolysis of 2,3-dichloro-4-[2-dimethylaminomethyl]butyryl-phenoxy acetic acid hydrochloride resulting potassium Ethacrynate followed by acidification to yield Ethacrynic acid.
 The above processes employ potassium carbonate or sodium bicarbonate as a base for hydrolysis of [2,3-dichloro-4-[2-dimethylaminomethyl butyrylphenoxy acetic acid hydrochloride to ethacrynic acid.
 The publication entitled “Liquid chromatographic analysis of ethacrynic acid and degradation products in pharmaceutical systems” by Journal of Pharmaceutical Sciences Vol. 74, No. 2, 1985 states that heating ethacrynic acid in alkali medium results in dimeric derivative of ethacrynic acid as shown below:
+<img> id-US20180111890A1-20180426-C00003.TIF </img>
 The inventors of present invention have also observed that the Ethacrynic acid formed with processes reported in literature results in high level of dimeric impurity. The dimeric impurity could be formed during the hydrolysis of intermediate 2,3-dichloro-4-[2-dimethylaminomethyl]butyryl-phenoxy acetic acid hydrochloride in the alkali medium due to degradation. The formation of this impurity decreases the quality and yields of the final Ethacrynic acid API.
 Hence there is need to improve the process for the preparation of Ethacrynic acid that would be more convenient and suitable for large scale manufacture with better yield and desired quality.
 SUMMARY OF THE INVENTION
@@ -19,27 +22,33 @@ Another objective of the present invention is to provide a novel process for pre
 Yet another objective of the present invention is to provide a crystalline t-butylamine salt of Ethacrynic acid.
 Yet another objective of the present invention is to provide Ethacrynic acid having a purity of greater than or equal to 99% w/w and a dimer impurity in an amount less than 0.2% w/w by HPLC or preferably less than 0.1% w/w by HPLC and a composition comprising the high purity Ethacrynic acid.
 The main aspect of the present invention is to provide an improved process for preparing Ethacrynic acid of formula I,
-comprising the steps of:(a) reacting 4-butyryl-2,3-dichloro-phenoxy acetic acid of formula II,
-with dimethylamine or its salt to obtain [2,3-dichloro-4-[2-dimethylaminomethyl butyryl phenoxy acetic acid of formula III or its salt,
-(b) hydrolysing [2,3-dichloro-4-[2-dimethylaminomethyl butyrylphenoxy acetic acid hydrochloride of formula III obtained in step a) with t-butyl amine to obtain t-butyl amine salt of Ethacrynic acid;(c) acidifying the t-butyl amine salt of Ethacrynic acid formed in step b) to obtain Ethacrynic acid of formula I; and(d) optionally purifying the obtained Ethacrynic acid with a solvent mixture of alkyl acetate and hydrocarbon solvent.
+<img> id-US20180111890A1-20180426-C00004.TIF </img>comprising the steps of:(a) reacting 4-butyryl-2,3-dichloro-phenoxy acetic acid of formula II,
+<img> id-US20180111890A1-20180426-C00005.TIF </img>with dimethylamine or its salt to obtain [2,3-dichloro-4-[2-dimethylaminomethyl butyryl phenoxy acetic acid of formula III or its salt,
+<img> id-US20180111890A1-20180426-C00006.TIF </img>(b) hydrolysing [2,3-dichloro-4-[2-dimethylaminomethyl butyrylphenoxy acetic acid hydrochloride of formula III obtained in step a) with t-butyl amine to obtain t-butyl amine salt of Ethacrynic acid;(c) acidifying the t-butyl amine salt of Ethacrynic acid formed in step b) to obtain Ethacrynic acid of formula I; and(d) optionally purifying the obtained Ethacrynic acid with a solvent mixture of alkyl acetate and hydrocarbon solvent.
 Another aspect of the present invention is to provide a process for preparing t-butyl amine salt of Ethacrynic acid comprising the step of hydrolysing [2,3-dichloro-4-[2-dimethylaminomethyl butyrylphenoxy acetic acid hydrochloride of formula III or its salt,
+<img> id-US20180111890A1-20180426-C00007.TIF </img>
 with t-butyl amine to obtain t-butyl amine salt of ethacrynic acid.
 Yet another aspect of the present invention is to provide a process for preparing Ethacrynic acid of formula I,
+<img> id-US20180111890A1-20180426-C00008.TIF </img>
 comprising the step of acidifying the t-butyl amine salt of Ethacrynic acid to obtain Ethacrynic acid of formula I.
 Still another aspect of the present invention is to provide a process for preparing crystalline Ethacrynic acid of formula I,
-comprising the steps of:(a) dissolving the ethacrynic acid with a solvent mixture of ester solvent and hydrocarbon solvent;(b) optionally heating the solution; and(c) cooling the solution obtained in step (a) or step (b) till the crystallization or the precipitation of the solid.
+<img> id-US20180111890A1-20180426-C00009.TIF </img>comprising the steps of:(a) dissolving the ethacrynic acid with a solvent mixture of ester solvent and hydrocarbon solvent;(b) optionally heating the solution; and(c) cooling the solution obtained in step (a) or step (b) till the crystallization or the precipitation of the solid.
 The above ester solvent is selected from a group comprising ethylacetate, isopropyl acetate, butyl acetate and mixtures thereof.
 The above said hydrocarbon solvent is selected from a group comprising toluene, xylene, ethyl benzene and mixtures thereof.
 Yet another aspect of the present invention is to provide a crystalline form of t-butylamine salt of Ethacrynic acid of formula I.
+<img> id-US20180111890A1-20180426-C00010.TIF </img>
 The crystalline form of t-butylamine salt of Ethacrynic acid of formula I is characterized by 2θ peaks in the powder X-ray diffraction (PXRD) spectrum at about 6.6, 10.6, 12.9, 17.8, 18.3, 19.5, 24.4, 26.6, 27.9, and 31.2±0.2° degrees.
 The crystalline form of t-butylamine salt of Ethacrynic acid of formula I is characterized by PXRD spectrum as shown in FIG. 1.
 In another aspect the invention provides Ethacrynic acid having a purity of greater than or equal to 99% w/w and a dimer impurity in an amount less than 0.2% w/w by HPLC. In another aspect the invention provides Ethycrynic acid having a purity of greater than or equal to 99% w/w and a dimer impurity in an amount less than 0.1% w/w by HPLC.
 In a further aspect, the invention provides a composition comprising above highly pure Ethacrynic acid.
 DESCRIPTION OF THE INVENTION
 In one embodiment of the present invention is to provide a process to preparing Ethacrynic acid of formula I,
+<img> id-US20180111890A1-20180426-C00011.TIF </img>
 comprising the steps of:
 (a) reacting 4-butyryl-2,3-dichloro-phenoxy acetic acid of formula II,
+<img> id-US20180111890A1-20180426-C00012.TIF </img>
 with dimethylamine or its salt to obtain [2,3-dichloro-4-[2-dimethylaminomethyl butyrylphenoxy acetic acid of formula III or its salt;
+<img> id-US20180111890A1-20180426-C00013.TIF </img>
 (b) hydrolysing [2,3-dichloro-4-[2-dimethylaminomethyl butyrylphenoxy acetic acid hydrochloride of formula III obtained in step (a) with t-butyl amine to obtain t-butyl amine salt of ethacrynic acid;
 (c) acidifying the t-butyl amine salt of ethacrynic acid formed in step (b) to obtain Ethacrynic acid of formula I; and
 (d) optionally purifying the obtained Ethacrynic acid with a solvent mixture of alkyl acetate and hydrocarbon solvent.
@@ -50,15 +59,19 @@ The use of t-butylamine to form a t-butylamine salt of ethacrynic acid during th
 Ethacrynic acid prepared by one of the processes described in the present invention, is characterized by its purity ≥99% w/w by HPLC, preferably ≥99.5% w/w.
 Commercially available ethacrynic acid samples and ethacrynic acid prepared by prior art processes contain the dimer impurity more than 1.3% w/w. Ethacrynic acid prepared by one of the processes described in the present invention contains less than 0.2% w/w of dimer impurity by HPLC, preferably less than 0.1% w/w of dimer impurity.
 Another embodiment of the present invention is to provide a process for preparing t-butyl amine salt of ethacrynic acid of formula-I,
+<img> id-US20180111890A1-20180426-C00014.TIF </img>
 comprising the step of hydrolysing [2,3-dichloro-4-[2-dimethylaminomethyl butyrylphenoxy acetic acid hydrochloride of formula III or its salts,
+<img> id-US20180111890A1-20180426-C00015.TIF </img>
 with t-butyl amine to obtain t-butyl amine salt of ethacrynic acid.
 The step of obtaining t-butyl amine salt of ethacrynic acid from [2,3-dichloro-4-[2-dimethylaminomethyl butyrylphenoxy acetic acid hydrochloride may be carried out in suitable solvent or its mixtures selected from the polar aprotic solvent such as dichloromethane, dichloroethane, N,N-dimethylformamide, N-methylpyrrolidone, dimethyl sulfoxide or an aromatic hydrocarbon such as toluene, xylene and ethylbenzene.
 Yet another embodiment of the present invention is to provide a crystalline form of t-butylamine salt of Ethacrynic acid of formula I characterized by 2θ peaks in the powder X-ray diffraction spectrum at about 6.6, 10.6, 12.9, 17.8, 18.3, 19.5, 24.4, 26.6, 27.9, and 31.2±0.2° degrees. The X-ray diffractogram of the crystalline t-butylamine salt of Ethacrynic acid is depicted in FIG. 1.
 Still another embodiment of the present invention is to provide a process for preparing Ethacrynic acid of formula I
+<img> id-US20180111890A1-20180426-C00016.TIF </img>
 comprising the step of acidifying t-butyl amine salt of ethacrynic acid to obtain Ethacrynic acid of formula I.
 The step of acidifying t-butyl amine salt of ethacrynic acid may be done adding any inorganic acid. Said inorganic acid are selected from the group including hydrochloric acid, sulphuric acid or nitric acid.
 The preparation of ethacrynic acid from the t-butyl amine salt of ethacrynic acid is carried out in suitable polar solvent. The polar solvent is selected from the group comprising ethyl acetate, water, methanol, ethanol, n-propanol or isopropanol or its mixtures thereof.
 Still another embodiment of the present invention is to provide a process for preparing crystalline ethacrynic acid of formula I,
+<img> id-US20180111890A1-20180426-C00017.TIF </img>
 comprising the steps of:(a) dissolving the ethacrynic acid with a solvent mixture of ester solvent and hydrocarbon solvent;(b) optionally heating the solution; and(c) cooling the solution obtained in step (a) or step (b) till the crystallization or the precipitation of the solid.
 The ester solvent as mentioned the step (a) for dissolving of ethacrynic acid is selected from the group including ethyl acetate, isopropyl acetate, butyl acetate and mixtures thereof. The hydrocarbon solvent as mentioned the step (a) for dissolving of ethacrynic acid is selected from the group including toluene, xylene, and ethylbenzene and mixtures thereof.
 The dissolving the ethacrynic acid with a solvent mixture of ester solvent and hydrocarbon solvent to get a clear solution may be done by heating to temperature of about 30° C. to 80° C., preferably at 35-70° C.

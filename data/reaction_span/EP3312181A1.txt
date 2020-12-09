@@ -17,12 +17,12 @@ Therefore, a compound that stimulates a dopamine D1 receptor but has no side eff
 A G-protein-coupled receptor has been long researched as an important target for drug discovery. In recent years, it has been revealed that many G-protein-coupled receptors also have allosteric sites different from orthosteric ligand sites (ACS Chemical Biology, 2008, vol. 3(9), p. 530-541). Here, research for drug discovery, in which allosteric sites in G-protein-coupled receptors are targets for drug discovery, has actively been made (British Journal of Pharmacology, 2012, vol. 165(6), p. 1659-1669).
 A positive allosteric modulator (hereinafter, referred to as PAM) is a compound that binds to a site different from a binding site of an endogenous ligand to enhance a receptor function. PAM does not enhance a receptor function in itself, but enhances the receptor function in the presence of a ligand.
 Therefore, it is expected that a dopamine D1 receptor PAM (hereinafter, referred to as D1 PAM) has a PAM action on a dopamine D1 receptor, can be used for preventing and/or treating cognitive impairment, schizophrenia negative symptom, CIAS, Parkinson's disease, Alzheimer's disease, Huntington's disease, depression, ADHD, drug dependency, or the like, and is useful as a drug with less side effects compared to a dopamine D1 receptor agonist.
-It is reported in Patent Document 1 that a compound of the formula (A) has a benzodiazepine ω3 receptor agonist action. In claims, an anti-anxiety agent or antidepressant agent is described.(In the formula, R1 and R2 form a saturated heterocyclic group which may be substituted together with a nitrogen atom to which they are bonded. However, (1) in the case of the following (a) or (b), R1 and R2 do not form a saturated heterocyclic group which may be substituted together with a nitrogen atom to which they are bonded. In (a), all of R5, R6, R7, and R8 are hydrogen atoms. In (b), one or two of R5, R6, R7, and R8 are each independently halogen atoms, and the others are hydrogen atoms. X represents O, S, NR10, or CR11R12. Refer to this publication for the other symbols.)
-It is reported in Patent Document 2 that a compound of the formula (B) has urotensin II antagonist and inhibition actions, and is useful in congestive heart failure or the like.
+It is reported in Patent Document 1 that a compound of the formula (A) has a benzodiazepine ω3 receptor agonist action. In claims, an anti-anxiety agent or antidepressant agent is described.<img> id-imgb0001.tif </img><img> id-imgb0002.tif </img>(In the formula, R1 and R2 form a saturated heterocyclic group which may be substituted together with a nitrogen atom to which they are bonded. However, (1) in the case of the following (a) or (b), R1 and R2 do not form a saturated heterocyclic group which may be substituted together with a nitrogen atom to which they are bonded. In (a), all of R5, R6, R7, and R8 are hydrogen atoms. In (b), one or two of R5, R6, R7, and R8 are each independently halogen atoms, and the others are hydrogen atoms. X represents O, S, NR10, or CR11R12. Refer to this publication for the other symbols.)
+It is reported in Patent Document 2 that a compound of the formula (B) has urotensin II antagonist and inhibition actions, and is useful in congestive heart failure or the like.<img> id-imgb0003.tif </img>
 (Refer to this publication for the other symbols.)
-It is reported in Patent Document 3 that a compound of the formula (C) has cannabinoid 1 antagonist and/or inverse-agonist actions, and is useful as a central functional agent or the like.(In the formula, each of R1 and R2 is alkyl, cycloalkyl, aryl, aryl-alkyl, heteroaryl, heteoaryl-alkyl, or the like. Refer to this publication for the other symbols.)
-It is reported in Patent Document 4 that a compound of the formula (D) is useful in the treatment and/or prevention of dyskinesia and/or movement fluctuation.(In the formula, each of R3 and R3a is H or unsubstituted C1-4 alkyl. Refer to this publication for the other symbols.)
-It is reported in Patent Document 5 that a compound of the formula (E) is useful in the treatment and/or prevention of schizophrenia.(Refer to this publication for the other symbols.)
+It is reported in Patent Document 3 that a compound of the formula (C) has cannabinoid 1 antagonist and/or inverse-agonist actions, and is useful as a central functional agent or the like.<img> id-imgb0004.tif </img><img> id-imgb0005.tif </img>(In the formula, each of R1 and R2 is alkyl, cycloalkyl, aryl, aryl-alkyl, heteroaryl, heteoaryl-alkyl, or the like. Refer to this publication for the other symbols.)
+It is reported in Patent Document 4 that a compound of the formula (D) is useful in the treatment and/or prevention of dyskinesia and/or movement fluctuation.<img> id-imgb0006.tif </img>(In the formula, each of R3 and R3a is H or unsubstituted C1-4 alkyl. Refer to this publication for the other symbols.)
+It is reported in Patent Document 5 that a compound of the formula (E) is useful in the treatment and/or prevention of schizophrenia.<img> id-imgb0007.tif </img>(Refer to this publication for the other symbols.)
 Related Art
 Patent Document
 Patent Document 1: WO 2005/080334Patent Document 2: WO 2008/011551Patent Document 3: WO 03/077847Patent Document 4: WO 2005/118561Patent Document 5: WO 2014/171528
@@ -31,7 +31,7 @@ Problems to Be Solved by the Invention
 There is provided a compound which has a PAM action on a dopamine D1 receptor, and which is expected to be an active ingredient of pharmaceutical compositions, particularly, pharmaceutical compositions for preventing and/or treating cognitive impairment, schizophrenia negative symptom, CIAS, Parkinson's disease, Alzheimer's disease, Huntington's disease, depression, ADHD, or drug dependency.
 Means for Solving the Problems
 The present inventors have intensively studied a compound having a PAM action on a dopamine D1 receptor. As a result, they have found that the imidazodiazepine compound of the present invention has a PAM action on a dopamine D1 receptor, thereby completing the present invention.
-That is, the present invention relates to a compound of the formula (I) or a salt thereof, as well as a pharmaceutical composition comprising a compound of the formula (I) or a salt thereof and an excipient:(in the formula,R1, R2, and R3 are the same as or different from each other, and are H, halogen, lower alkyl, or halo-lower alkyl;R4 is H, halogen, lower alkyl, or halo-lower alkyl;R5 is H;R6 is phenyl which may be substituted; orR5 and R6 may form a benzene ring which may be substituted, together with carbon atoms to which they are bonded; and---- is a single bond or a double bond.)
+That is, the present invention relates to a compound of the formula (I) or a salt thereof, as well as a pharmaceutical composition comprising a compound of the formula (I) or a salt thereof and an excipient:<img> id-imgb0008.tif </img>(in the formula,R1, R2, and R3 are the same as or different from each other, and are H, halogen, lower alkyl, or halo-lower alkyl;R4 is H, halogen, lower alkyl, or halo-lower alkyl;R5 is H;R6 is phenyl which may be substituted; orR5 and R6 may form a benzene ring which may be substituted, together with carbon atoms to which they are bonded; and---- is a single bond or a double bond.)
 In addition, unless otherwise specified, when symbols in a certain chemical formula in the present specification are also used in another chemical formula, the same symbol represents the same meaning.
 Further, the present invention relates to a pharmaceutical composition for preventing and/or treating cognitive impairment, schizophrenia negative symptom, CIAS, Parkinson's disease, Alzheimer's disease, Huntington's disease, depression, ADHD, or drug dependency, which comprises a compound of the formula (I) or a salt thereof.
 Further, said pharmaceutical composition includes an agent for preventing and/or treating cognitive impairment, schizophrenia negative symptom, CIAS, Parkinson's disease, Alzheimer's disease, Huntington's disease, depression, ADHD, or drug dependency, which comprises a compound of the formula (I) or a salt thereof.
@@ -76,39 +76,45 @@ Brine = saturated NaCl aqueous solution, saturated aqueous sodium bicarbonate = 
 In structural formulae and groups in the present specification, the following abbreviations are used.
 Ac = acetyl, BOC = tert-butoxycarbonyl, t-Bu = tert-butyl, Et = ethyl, Halo = halogen, Me = methyl, MsO = methanesulfonyloxy, MOM = methoxymethyl, TBDMS = tert-butyldimethylsilyl, TsO = p-toluenesulfonyloxy.
 (First preparation method)
+<img> id-imgb0009.tif </img>
 The compound of the formula (I) can be prepared from a compound (1) and a compound (2).
 In this reaction, the compound (1) and the compound (2) are used in equivalent amounts or either thereof in an excess amount, and the mixture thereof is generally stirred in a solvent inert to the reaction in the presence of a condensing agent for 0.1 hours to 5 days under cooling to heating, preferably at -20°C to 60°C. Examples of the solvent include aromatic hydrocarbons, such as toluene or the like; halogenated hydrocarbons, such as dichloromethane or the like; ethers, such as THF or the like; DMF; NMP; DMSO; EtOAc; MeCN; water; and mixtures thereof. Examples of the condensing agent include HATU, WSC, WSC·HCl, DCC, CDI, DPPA, and the like. There is a case that the use of an additive (for example, HOBt) is preferable for the reaction. There is a case that this reaction is further smoothly performed by the presence of an organic base, such as TEA, DIPEA, NMM, or the like, or an inorganic base, such as K2CO3, Na2CO3, KOH, or the like.
 Further, a method of converting the compound (1) into a reactive derivative and then reacting the reactive derivative with the compound (2) can be used. Examples of the reactive derivative of carboxylic acid include acid halides obtained by the reaction with a halogenating agent, such as POCl3, SOCl2, (COCl)2, or the like; mixed acid anhydrides obtained by the reaction with isobutyl chloroformate and the like; and active esters obtained by the condensation with HOBt and the like. If a small amount of DMF is used as an additive in the synthesis of acid halide, the reaction proceeds more easily. As the additive, a base, such as DMAP, can be used. The reaction of the reactive derivative with the compound (2) can be performed in a solvent inert to the reaction, such as halogenated hydrocarbons, aromatic hydrocarbons, or ethers under cooling to heating, preferably at -78°C to 60°C. [Literature] "Organic Functional Group Preparations", written by SR Sandler and W. Karo al., second edition, vol. 1, Academic Press Inc., 1991; "Courses in Experimental Chemistry (fifth edition)", edited by Japan Chemical Society, vol. 16, 2005, Maruzen.
 (Second preparation method)
+<img> id-imgb0010.tif </img><img> id-imgb0011.tif </img>
 (In the formula, Halo represents a halogen. The same shall apply hereinafter.)
 A compound (1-1) can be prepared from a compound (3).
 This reaction is a halogenation of a hydroxyl group. In a solvent inert to the reaction, PPh3 and a halogen source are added to the compound (3), followed by stirring for 0.5 hours to 8 hours at 20°C to 100°C. As the solvent, for example, an ether-based solvent, such as THF or the like, is exemplified. Examples of the halogen source include bis(2-methoxyethyl) aminosulfur trifluoride, CCl4, CBr4, and I2. Here, the chlorination using PPh3 and CCl4 is a so-called Appel reaction.
 [Literature] Angewandte Chemie International Edition, p. 801, vol. 14, 1975.
 (Starting material preparation method 1)
+<img> id-imgb0012.tif </img>
 (In the formulae, R4a represents H, halogen, lower alkyl, halo-lower alkyl, or -O-lower alkyl. As shown in the formula (5a), R4a may be substituted to any carbon atom of a propylene chain. Pg1 represents a protective group. Each of Lv1 and Lv2 represents a leaving group. The same shall apply hereinafter.)
 A starting compound (2a) can be prepared from a compound (4) and a compound (5a). A starting compound (2b) can be prepared from a compound (4) and a compound (5b). Examples of the leaving group include Hal (hereinafter, Hal represents as Cl, Br, or I), an MsO group, a TsO group, and the like. Examples of Pg1 include a benzyl group and a BOC group.
 In this reaction, the compound (4) and the compound (5a) are used equivalent amounts or either thereof in an excess amount, and the mixture thereof is generally stirred in a solvent inert to the reaction or without solvent for 0.1 hours to 5 days under cooling to under heating to reflux, prefearbly at 0°C to 80°C. Examples of the solvent include aromatic hydrocarbons, ethers, halogenated hydrocarbons, DMF, DMSO, EtOAc, MeCN, and mixtures thereof. There is a case that this reaction is further smoothly performed by the presence of an organic base, such as TEA, DIPEA, NMM, or the like, or an inorganic base, such as KOtBu, K2CO3, Na2CO3, NaOH, or the like.
 [Literature] "Organic Functional Group Preparations", written by SR Sandler and W. Karo, second edition, vol. 1, Academic Press Inc., 1991; "Courses in Experimental Chemistry", fifth edition, edited by Japan Chemical Society, vol. 14, 2005, Maruzen.
 (Starting material preparation method 2)
+<img> id-imgb0013.tif </img>
 (In the formula, Hal represents Cl, Br, or I. Pg2 represents a protective group. The same shall apply hereinafter.)
 A compound (8) can be prepared from a compound (6) and a compound (7). As Pg2, BOC or the like is exemplified.
-This reaction can be performed in the same method as in the starting material preparation method 1. The compound (6) is added to the compound (7) in a solvent inert to the reaction, followed by stirring for 1 hour to 2 days at room temperature or higher in the presence of a base. As the base, an inorganic base is used, and examples thereof include K2CO3, Na2CO3, Cs2CO3, KOH, and the like. As the solvent, MeCN or the like is exemplified.
+This reaction can be performed in the same method as in the starting material preparation method 1. The compound (6) is added to the compound (7) in a solvent inert to the reaction, followed by stirring for 1 hour to 2 days at room temperature or higher in the presence of a base. As the base, an inorganic base is used, and examples thereof include K2CO3, Na2CO3, Cs2CO3, KOH, and the like. As the solvent, MeCN or the like is exemplified.<img> id-imgb0014.tif </img><img> id-imgb0015.tif </img>
 (In the formula, RL represents lower alkyl. The same shall apply hereinafter.)
 A compound (4) can be prepared from a compound (8) and a compound (9).
 In this reaction, the compound (8) and the compound (9) are stirred in a solvent inert to the reaction for 12 hours to 3 days at 100°C or higher or under a reflux condition. Examples of the solvent include aromatic hydrocarbons, such as toluene or the like.
 (Starting material preparation method 3)
+<img> id-imgb0016.tif </img>
 (In the formula, Lv represents a leaving group. n represents an integer of 1 to 4. The same shall apply hereinafter.)
 A compound (13) can be prepared from a compound (11) and a compound (12).
 The leaving group Lv, for example, is halogen or -OSO2CF3.
 In this reaction, a metal, such as palladium or the like, and a ligand, such as PPh3 or the like, are added to the compound (11) and the compound (12) as a catalyst in the presence of a base in a solvent inert to the reaction, followed by stirring for 5 hours to 4 days at 20°C to 140°C. Examples of the catalyst include Pd2dba3 and the like. Examples of the base include bis(trimethylsilyl)sodium amide, NaOtBu and the like. Examples of the solvent include dioxane and the like. This is so-called Buchwald-Hartwig Cross Coupling.
-[Literature] Journal of the American Chemical Society, p. 5969, vol. 116, 1994; Journal of the American Chemical Society, p. 7901, vol. 116, 1994; Angewandte Chemie International Edition, p. 1348, vol. 34, 1995; Tetrahedron Letters, p.3609, vol. 36, 1995.
+[Literature]Journal of the American Chemical Society, p. 5969, vol. 116, 1994;Journal of the American Chemical Society, p. 7901, vol. 116, 1994;Angewandte Chemie International Edition, p. 1348, vol. 34, 1995;Tetrahedron Letters, p.3609, vol. 36, 1995.<img> id-imgb0017.tif </img><img> id-imgb0018.tif </img>
 A compound (2c) is prepared by the reduction of a compound (13).
 This reaction is a general method of reducing a nitro group. In this reaction, iron, tin, or the like is added to the compound (13) in a solvent, such as hydrochloric acid, acetic acid, or the like, followed by stirring for 0.5 hours to 3 days at 50°C to 140°C.
 (Starting material preparation method 4)
+<img> id-imgb0019.tif </img>
 (In the formula, (RP, RP') represents a combination of (imidazolyl, imidazolyl), (Cl3C-O-, -O-CCl3), (Cl, -O-CCl3) (Cl, -O-phenyl), (Cl, -O-paranitrophenyl).)
 A compound (16) can be prepared from a compound (14) and a compound (15).
 In this reaction, the compound (14) is added to an equivalent amount or an excess amount of the compound (15) in a solvent inert to the reaction, and, preferably, the mixture thereof is stirred for 0.1 hours to 1 day under cooling to under heating, preferably at 50°C to 150°C. Examples of the solvent include halogenated hydrocarbons, aromatic hydrocarbons, ethers, DMF, DMSO, EtOAc, MeCN, and mixed solvents thereof. The compound (15) is also known as a carbonyl reagent, and examples thereof include 4-nitrophenyl chloroformate and phenyl chloroformate as well as CDI, diphosgene, and triphosgene. In the case where a phenyl carbonate form, which is an intermediate, is stable (for example, in the case where 4-nitrophenyl chloroformate or phenyl chloroformate is used), this intermediate is once isolated, and the reaction can be carried out again.
-[Literature] "Organic Functional Group Preparations", written by S.R. Sandler and W. Karo, second edition, Academic Press Inc., vol. 2, 1991.
+[Literature] "Organic Functional Group Preparations", written by S.R. Sandler and W. Karo, second edition, Academic Press Inc., vol. 2, 1991.<img> id-imgb0020.tif </img>
 (In the formula, Pg3 represents a protective group. The same shall apply hereinafter.)
 A compound (1) can be prepared from a compound (16) and a compound (17).
 A Pg3 ester form of the compound (1) can be prepared from the compound (16) and the compound (17). As the leaving group, for example, an MsO group, a TsO group, or the like can be used in addition to Hal. Examples of the protective group Pg3 include a Me group, an Et group, a tBu group, and the like.
@@ -290,54 +296,54 @@ To a mixture ofdichloromethane (1 mL) and4,5-difluoro-3-[2-(6-hydroxy-2-phenyl-6
 <header>
 No. & Str & No. & Str
 </header>
-Pr1 &  & Pr5 & 
-Pr1-1 &  & Pr6 & 
-Pr2 &  & Pr7 & 
-Pr3 &  & Pr7-1 & 
-Pr3-1 &  & Pr7-2 & 
-Pr3-2 &  & Pr8 & 
-Pr3-3 &  & Pr8-1 & 
-Pr4 &  & Pr8-2 & 
+Pr1 & <img> id-imgb0021.tif </img> & Pr5 & <img> id-imgb0022.tif </img>
+Pr1-1 & <img> id-imgb0023.tif </img> & Pr6 & <img> id-imgb0024.tif </img>
+Pr2 & <img> id-imgb0025.tif </img> & Pr7 & <img> id-imgb0026.tif </img>
+Pr3 & <img> id-imgb0027.tif </img> & Pr7-1 & <img> id-imgb0028.tif </img>
+Pr3-1 & <img> id-imgb0029.tif </img> & Pr7-2 & <img> id-imgb0030.tif </img>
+Pr3-2 & <img> id-imgb0031.tif </img> & Pr8 & <img> id-imgb0032.tif </img>
+Pr3-3 & <img> id-imgb0033.tif </img> & Pr8-1 & <img> id-imgb0034.tif </img>
+Pr4 & <img> id-imgb0035.tif </img> & Pr8-2 & <img> id-imgb0036.tif </img>
 </table>
 <table>
 <header>
 No. & Str & No. & Str
 </header>
-Pr9 &  & Pr11 & 
-Pr9-1 &  & Pr12 & 
-Pr9-2 &  & Pr13 & 
-Pr10 &  & Pr14 & 
- & Pr15 & 
+Pr9 & <img> id-imgb0037.tif </img> & Pr11 & <img> id-imgb0038.tif </img>
+Pr9-1 & <img> id-imgb0039.tif </img> & Pr12 & <img> id-imgb0040.tif </img>
+Pr9-2 & <img> id-imgb0041.tif </img> & Pr13 & <img> id-imgb0042.tif </img>
+Pr10 & <img> id-imgb0043.tif </img> & Pr14 & <img> id-imgb0044.tif </img>
+ & Pr15 & <img> id-imgb0045.tif </img>
 </table>
 <table>
 <header>
 No. & Str
 </header>
-Pr16 & 
-Ex1 & 
-Ex2 & 
-Ex3 & 
-Ex4 & 
-Ex5 & 
-Ex6 & 
+Pr16 & <img> id-imgb0046.tif </img>
+Ex1 & <img> id-imgb0047.tif </img>
+Ex2 & <img> id-imgb0048.tif </img>
+Ex3 & <img> id-imgb0049.tif </img>
+Ex4 & <img> id-imgb0050.tif </img>
+Ex5 & <img> id-imgb0051.tif </img>
+Ex6 & <img> id-imgb0052.tif </img>
 </table>
 <table>
 <header>
 No. & Str
 </header>
-Ex7 & 
-Ex8 & 
-Ex9 & 
-Ex10 & 
-Ex11 & 
-Ex12 & 
+Ex7 & <img> id-imgb0053.tif </img>
+Ex8 & <img> id-imgb0054.tif </img>
+Ex9 & <img> id-imgb0055.tif </img>
+Ex10 & <img> id-imgb0056.tif </img>
+Ex11 & <img> id-imgb0057.tif </img>
+Ex12 & <img> id-imgb0058.tif </img>
 </table>
 <table>
 <header>
 No. & Str
 </header>
-Exl3 & 
-Ex14 & 
+Exl3 & <img> id-imgb0059.tif </img>
+Ex14 & <img> id-imgb0060.tif </img>
 </table>
 <table>
 <header>

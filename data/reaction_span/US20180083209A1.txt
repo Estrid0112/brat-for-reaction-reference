@@ -7,12 +7,15 @@ Embodiments relate to an amine compound and an organic electroluminescence devic
 Developments on an organic electroluminescence display as an image display are being actively conducted. An organic electroluminescence display is a self-luminescent display which accomplishes display by recombining holes and electrons injected from a first electrode and a second electrode in an emission layer and emitting light from a luminescent material such as an organic compound included in the emission layer.
 SUMMARY
 Embodiments are directed to an amine compound represented by the following Formula 1.
+<img> id-US20180083209A1-20180322-C00002.TIF </img>
 In Formula 1, Ar is a substituted or unsubstituted aryl group having 6 to 30 carbon atoms for forming a ring, L is a substituted or unsubstituted arylene group having 6 to 30 carbon atoms for forming a ring, or a substituted or unsubstituted heteroarylene group having 2 to 30 carbon atoms for forming a ring, R1 to R7 are each independently a hydrogen atom, a deuterium atom, a halogen atom, an amino group, a substituted or unsubstituted silyl group, a substituted or unsubstituted alkyl group having 1 to 20 carbon atoms, a substituted or unsubstituted aryl group having 6 to 30 carbon atoms for forming a ring, or a substituted or unsubstituted heteroaryl group having 2 to 30 carbon atoms for forming a ring, where R1 to R7 may be combined with an adjacent group to form a ring, “a,” “b,” “e,” “f,” and “g” are each independently an integer of 1 to 5, “c” is an integer of 1 to 4, and “d” is an integer of 1 to 3.
 In an embodiment, Ar may be a substituted or unsubstituted monocyclic aryl group.
 In an embodiment, Ar may be an unsubstituted phenyl group.
 In an embodiment, Formula 1 may be represented by the following Formula 2.
+<img> id-US20180083209A1-20180322-C00003.TIF </img>
 In Formula 2, Ar, L, R1 to R7, and “a” to “g” are the same as described above.
 In an embodiment, Formula 1 may be represented by the following Formula 3.
+<img> id-US20180083209A1-20180322-C00004.TIF </img>
 In Formula 3, L, R1 to R7, and “a” to “g” are the same as described above.
 In an embodiment, L may be a substituted or unsubstituted arylene group having 6 to 30 carbon atoms for forming a ring.
 In an embodiment, L may be a substituted or unsubstituted phenylene group, a substituted or unsubstituted biphenylene (divalent biphenyl) group, or a substituted or unsubstituted fluorenylene group.
@@ -20,12 +23,15 @@ In an embodiment, L may be a substituted or unsubstituted polycyclic heteroaryle
 In an embodiment, L may be a substituted or unsubstituted dibenzofuranylene (divalent dibenzofuranyl) group, or a substituted or unsubstituted dibenzothiophenylene (divalent dibenzothiophenyl) group.
 In an embodiment, “a” and “b” may be each independently 2 or more, and at least one of R1 and R2 may be combined with an adjacent R1 or R2 to form a ring.
 In an embodiment, Formula 1 may be represented by the following Formula 4.
+<img> id-US20180083209A1-20180322-C00005.TIF </img>
 In Formula 4, “p” is 0 or 1, and Ar, L, R3 to R7, and “c” to “g” are the same as described above.
 In an embodiment, Formula 1 may be represented by the following Formula 5.
+<img> id-US20180083209A1-20180322-C00006.TIF </img>
 In Formula 5, “q” is 0 or 1, and Ar, L, R1 to R5, R7, “a” to “e”, and “g” are the same as described above.
 In an embodiment, Ar may be an unsubstituted phenyl group, L may be a substituted or unsubstituted, divalent biphenyl group, and “a” to “g” may be each independently 0.
 In an embodiment, “c” may be 1, and R3 may be a substituted or unsubstituted phenyl group.
 In an embodiment, Formula 1 may be represented by the following Formula 6.
+<img> id-US20180083209A1-20180322-C00007.TIF </img>
 In Formula 6, Ar, L, R1, R2, R4 to R7, “a”, “b”, and “d” to “g” are the same as described above.
 In an embodiment, an organic electroluminescence device includes a first electrode, a hole transport region provided on the first electrode, an emission layer provided on the hole transport region, an electron transport region provided on the emission layer, and a second electrode provided on the electron transport region, wherein the hole transport region includes an amine compound according to an embodiment.
 DETAILED DESCRIPTION
@@ -33,6 +39,7 @@ Example embodiments will now be described more fully hereinafter with reference 
 It will be understood that, although the terms first, second, etc. may be used herein to describe various elements, these elements should not be limited by these terms. These terms are only used to distinguish one element from another element. For example, a first element discussed below could be termed a second element, and similarly, a second element could be termed a first element. As used herein, the singular forms are intended to include the plural forms as well, unless the context clearly indicates otherwise.
 It will be further understood that the terms “comprises,” “includes,” “comprising,” or “including,” when used in this specification, specify the presence of stated features, numerals, steps, operations, elements, parts, or a combination thereof, but do not preclude the presence or addition of one or more other features, numerals, steps, operations, elements, parts, or a combination thereof. It will also be understood that when a layer, a film, a region, a plate, etc. is referred to as being ‘on’ another part, it can be directly on the other part, or intervening layers may also be present. On the contrary, when a layer, a film, a region, a plate, etc. is referred to as being ‘under’ another part, it can be directly under the other part, or intervening layers may also be present.
 In the present disclosure,
+<img> id-US20180083209A1-20180322-C00008.TIF </img>
 means a position to be connected.
 In the present disclosure, “substituted or unsubstituted” may mean substituted with or including at least one substituent selected from the group of deuterium, halogen, cyano, nitro, amino, silyl, boron, phosphine oxide, phosphine sulfide, alkyl, alkenyl, aryl, and heteroaryl or unsubstituted. In addition, each of the substituent illustrated above may be substituted or unsubstituted. For example, biphenyl may be interpreted as aryl, or phenyl substituted with phenyl.
 In the present disclosure, the description of forming a ring by combining adjacent groups with each other may mean forming a substituted or unsubstituted hydrocarbon ring, or a substituted or unsubstituted heterocycle by combining adjacent groups with each other. The hydrocarbon ring may include an aliphatic hydrocarbon ring and an aromatic hydrocarbon ring. The heterocycle may include an aliphatic heterocycle and aromatic heterocycle. The hydrocarbon ring and heterocycle may be a monocycle or polycycle. In addition, the ring formed by combining adjacent groups may be connected with another ring to form a spiro structure.
@@ -50,13 +57,16 @@ In the present disclosure, the alkenyl may be linear or branched. The carbon num
 In the present disclosure, the carbon number of the amino may be, for example, 1 to 30. The amino may include alkylamino and arylamino. Examples of the amino may include methylamino, dimethylamino, phenylamino, diphenylamino, naphthylamino, 9-methyl-anthracenylamino, triphenylamino, etc., without limitation.
 Hereinafter, the amine compound according to an embodiment will be described.
 The amine compound according to an embodiment is represented by the following Formula 1.
+<img> id-US20180083209A1-20180322-C00009.TIF </img>
 In Formula 1, Ar may be a substituted or unsubstituted aryl group having 6 to 30 carbon atoms for forming a ring, L may be a substituted or unsubstituted arylene group having 6 to 30 carbon atoms for forming a ring, or a substituted or unsubstituted heteroarylene group having 2 to 30 carbon atoms for forming a ring, R1 to R7 may each independently be a hydrogen atom, a deuterium atom, a halogen atom, an amino group, a substituted or unsubstituted silyl group, a substituted or unsubstituted alkyl group having 1 to 20 carbon atoms, a substituted or unsubstituted aryl group having 6 to 30 carbon atoms for forming a ring, or a substituted or unsubstituted heteroaryl group having 2 to 30 carbon atoms for forming a ring. In an implementation, R1 to R7 may be combined with an adjacent group to form a ring. In an implementation, “a” to “c” and “e” to “g” may each independently be an integer of 0 to 4, and “d” may be an integer of 0 to 3. In an implementation, “a,” “b,” “e,” “f,” and “g” may each independently be an integer of 1 to 5, “c” may be an integer of 1 to 4, and “d” may be an integer of 1 to 3.
 In Formula 1, in the case where “a” is 2 or more, a plurality of R1 may be the same or different. In Formula 1, in the case where “b” is 2 or more, a plurality of R2 may be the same or different. In Formula 1, in the case where “c” is 2 or more, a plurality of R3 may be the same or different. In Formula 1, in the case where “d” is 2 or more, a plurality or R4 may be the same or different. In Formula 1, in the case where “e” is 2 or more, a plurality of R5 may be the same or different. In Formula 1, in the case where “f” is 2 or more, a plurality of R6 may be the same or different. In Formula 1, in the case where “g” is 2 or more, a plurality of R7 may be the same or different. In the case where a plurality of R1 is the same or different, and R1 are three, a case where three R1s are different from each other, a case where three R1s are the same, and a case where two of the three R1s are the same and the remaining one is different, may be possible.
 In Formula 1, Ar may be a substituted or unsubstituted monocyclic aryl group. In an example embodiment, in Formula 1, Ar may be an unsubstituted phenyl group.
 The fluorenyl moiety in Formula 1 may be combined with a nitrogen atom at position 2. For example, Formula 1 may be represented by the following Formula 2.
+<img> id-US20180083209A1-20180322-C00010.TIF </img>
 In Formula 2, Ar, L, R1 to R7, and “a” to “g” are the same as defined in Formula 1.
 In Formula 2, Ar may be unsubstituted phenyl group, and L may be substituted or unsubstituted arylene having 6 to 30 carbon atoms for forming a ring.
 For example, Formula 1 may be represented by the following Formula 3.
+<img> id-US20180083209A1-20180322-C00011.TIF </img>
 In Formula 3, L, R1 to R7, and “a” to “g” are the same as defined in Formula 1.
 In Formula 1, L may be substituted or unsubstituted arylene having 6 to 30 carbon atoms for forming a ring. For example, L may be substituted or unsubstituted phenylene, substituted or unsubstituted, divalent biphenyl, or substituted or unsubstituted fluorenylene.
 In Formula 1, L may be substituted or unsubstituted, divalent biphenyl group. In Formula 1, L may be a divalent biphenyl group substituted with alkyl having 1 to 20 carbon atoms or 1 to 10 carbon atoms, or an unsubstituted divalent biphenyl group. In Formula 1, L may be a divalent biphenyl group substituted with at least one methyl. In Formula 1, L may be an unsubstituted divalent biphenyl group.
@@ -64,11 +74,13 @@ In Formula 1, L may be a substituted or unsubstituted phenylene group. In an exa
 In Formula 1, L may be a substituted or unsubstituted fluorenylene group. In Formula 1, L may be a fluorenyl group substituted with alkyl group having 1 to 20 carbon atoms, or aryl group having 6 to 30 carbon atoms for forming a ring, or an unsubstituted fluorenyl group. In Formula 1, L may be a fluorenylene group substituted with at least one methyl.
 In Formula 1, L may be substituted or unsubstituted polycyclic heteroarylene. In Formula 1, L may be substituted or unsubstituted tricyclic heteroarylene. In Formula 1, L may be substituted or unsubstituted, divalent dibenzofuranyl, or substituted or unsubstituted, divalent dibenzothiophenyl. In Formula 1, L may be unsubstituted divalent dibenzofuranyl. In Formula 1, L may be unsubstituted divalent dibenzothiophenyl.
 In Formula 1, L may be one selected from the following structures.
+<img> id-US20180083209A1-20180322-C00012.TIF </img>
 Each of the above structures may be substituted, and the substituent may be, for example, a substituted or unsubstituted alkyl group having 1 to 10 carbon atoms, or substituted or unsubstituted aryl group having 6 to 30 carbon atoms for forming a ring.
 In Formula 1, all “a” to “g” may be 0 or R1 to R7 may be hydrogen. For example, in Formula 1, “a” and “b” may be each independently 2 or more, and two or more R1 may be combined with an adjacent group to form a ring, or two or more R2 may be combined with an adjacent group to form a ring. In addition, two or more R1 may be combined with an adjacent group to form a ring, and two or more R2 may be combined with an adjacent group to form a ring at the same time.
 For example, two or more R1 may be combined with an adjacent group to form an aliphatic hydrocarbon ring, an aromatic hydrocarbon ring, or an aromatic heterocycle. For example, two or more R1 may be combined with an adjacent group to form an aromatic hydrocarbon ring.
 For example, two or more R2 may be combined with an adjacent group to form an aliphatic hydrocarbon ring, an aromatic hydrocarbon ring, or an aromatic heterocycle. For example, two or more R2 may be combined with an adjacent group to form an aromatic hydrocarbon ring.
 Formula 1 may be represented by the following Formula 4.
+<img> id-US20180083209A1-20180322-C00013.TIF </img>
 In Formula 4, “p” may be 0 or 1, and Ar, L, R3 to R7, and “c” to “g” are the same as defined in Formula 1. “p” means the number of rings where “p” is written in Formula 4. For example, in the case where “p” is 0, the ring where “p” is written in Formula 4 is not present.
 In Formula 4, all “c” to “g” may be 0.
 In Formula 4, “p” may be 1, and L may be substituted or unsubstituted, divalent biphenyl group.
@@ -76,16 +88,19 @@ In Formula 4, Ar may be unsubstituted phenyl group, and L may be substituted or 
 In Formula 1, all “e” to “g” may be 0. At least one of “e” to “g” may be 1 or 2 or more. In this case, at least one of 1 or more R5, 1 or more R6 and 1 or more R7 may be a halogen atom. For example, at least one of 1 or more R5, 1 or more R6, and 1 or more R7 may be a fluorine atom.
 In the case where at least one of “e” to “g” is 2 or more, at least a portion of 2 or more R5, 2 or more R6, and 2 or more R7 may be combined with an adjacent group to from a ring. For example, in the case where “f” is 2 or more, 2 or more R6 may be combined with an adjacent group to form an aliphatic hydrocarbon ring, an aromatic hydrocarbon ring, or an aromatic heterocycle, and may preferably form an aromatic hydrocarbon ring.
 Formula 1 may be represented by the following Formula 5.
+<img> id-US20180083209A1-20180322-C00014.TIF </img>
 In Formula 5, “q” may be 0 or 1, and Ar, L, R1 to R5, R7, “a” to “e”, and “g” are the same as defined in Formula 1. “q” means the number of rings where “q” is written in Formula 5; the “q” ring may be joined to the phenyl ring at various positions. For example, in the case where “q” is 0, a ring where “q” is written in Formula 5 is not present. The opposite fused ring may be joined with the phenyl ring at various positions, as in compounds 5 and 6 herein.
 In Formula 5, in the case where “q” is 1, an Si atom of Formula 5 may be substituted with phenanthryl or anthracenyl.
 In Formula 5, Ar may be unsubstituted phenyl group, and L may be substituted or unsubstituted phenylene or substituted or unsubstituted, divalent biphenyl group.
 In Formula 1, Ar may be unsubstituted phenyl group, L may be substituted or unsubstituted, divalent biphenyl group, and “a” to “g” may be each independently 0.
 In Formula 1, “c” may be 1, and R3 may be substituted or unsubstituted phenyl group.
 Formula 1 may be represented by, for example, the following Formula 6. The compound represented by Formula 6 is characterized in specifying the substitution position of fluorenyl group, and in the case where the compound is used in an organic electroluminescence device, life increasing effect may be attained.
+<img> id-US20180083209A1-20180322-C00015.TIF </img>
 In Formula 6, Ar, L, R1, R2, R4 to R7, “a”, “b”, and “d” to “g” are the same as defined in Formula 1.
 The amine compound represented by Formula 1 may be a monoamine compound.
 The amine compound represented by Formula 1 may be used as a material for an organic electroluminescence device. For example, the amine compound represented by Formula 1 may be used as a hole transport material.
 The amine compound represented by Formula 1 may be at least one selected from the compounds represented in the following Compound Group 1.
+<img> id-US20180083209A1-20180322-C00016.TIF </img><img> id-US20180083209A1-20180322-C00017.TIF </img><img> id-US20180083209A1-20180322-C00018.TIF </img><img> id-US20180083209A1-20180322-C00019.TIF </img>
 The amine compound according to an embodiment may be, for example, Compound 3.
 When the amine compound according to an embodiment may be used in an organic electroluminescence device, high efficiency, long life and/or a low driving voltage may be accomplished.
 Hereinafter, an organic electroluminescence device according to an embodiment will be described. The description will be mainly given with difference features of the amine compound according to an embodiment, and unexplained part will follow the above-description on the amine compound according to an embodiment.
@@ -96,6 +111,7 @@ The first electrode EL1 may have conductivity. The first electrode EL1 may be, f
 The hole transport region HTR may be provided on the first electrode EL1. The hole transport region HTR may include at least one of a hole injection layer HIL, a hole transport layer HTL, a hole buffer layer, or an electron blocking layer. The thickness of the hole transport region HTR may be, for example, from about 1,000 Å to about 1,500 Å.
 Hereinafter, an embodiment of including an amine compound according to an embodiment in a hole transport region HTR will be explained. In various embodiments, an amine compound according to an embodiment may be included in at least one organic layer provided between a first electrode EL1 and a second electrode EL2. For example, the amine compound according to an embodiment may be included in an emission layer EML.
 The hole transport region HTR may include an amine compound according to an embodiment. For example, the hole transport region HTR may include an amine compound represented by the following Formula 1.
+<img> id-US20180083209A1-20180322-C00020.TIF </img>
 Particular explanation on Ar, L, R1 to R7, and “a” to “g” is the same as described above, and will not be repeated.
 The hole transport region HTR may have a single layer formed using a single material, a single layer formed using a plurality of different materials, or a multilayer structure including a plurality of layers formed using a plurality of different materials.
 For example, the hole transport region HTR may have a single layer structure of a hole injection layer HIL or a hole transport layer HTL, or may have a single layer structure formed using a hole injection material and a hole transport material. In addition, the hole transport region HTR may have a single layer structure formed using a plurality of different materials, or a laminated structure from the first electrode EL1 of hole injection layer HIL/hole transport layer HTL, hole injection layer HIL/hole transport layer HTL/hole buffer layer, hole injection layer HIL/hole buffer layer, hole transport layer HTL/hole buffer layer, or hole injection layer HIL/hole transport layer HTL/electron blocking layer, without limitation.
@@ -109,8 +125,10 @@ As described above, the hole transport region HTR may further include at least o
 The emission layer EML may be provided on the hole transport region HTR. The emission layer 150 may be a layer emitting light via fluorescence, or phosphorescence and may be formed to a thickness of, for example, from about 100 Å to about 600 Å.
 The emission layer EML may have a single layer formed using a single material, a single layer formed using a plurality of different materials, or a multilayer structure having a plurality of layers formed using a plurality of different materials.
 As the material for an emission layer EML, a general luminescent material may be used, for example, fluoranthene derivatives, pyrene derivatives, arylacetylene derivatives, fluorene derivatives, perylene derivatives, chrysene derivatives, etc., may be used, without specific limitation. For example, the pyrene derivatives, the perylene derivatives, the anthracene derivatives may be used. For example, as the host material of the emission layer EML, anthracene derivatives represented by the following Formula 7 may be used.
+<img> id-US20180083209A1-20180322-C00021.TIF </img>
 In Formula 7, Z1 to Z4 are each independently a hydrogen atom, a deuterium atom, a halogen atom, a substituted or unsubstituted silyl group, a substituted or unsubstituted alkyl group having 1 to 20 carbon atoms, a substituted or unsubstituted aryl group having 6 to 30 carbon atoms for forming a ring, or a substituted or unsubstituted heteroaryl group having 2 to 30 carbon atoms for forming a ring, m1 and m2 are each independently an integer of 0 to 4, and m3 and m4 are each independently an integer of 0 to 5. In Formula 7, Z3 and Z4 may be each independently combined with an adjacent group to form a saturated or unsaturated ring.
 The compound represented by Formula 7 may be, for example, a compound represented by the following structure.
+<img> id-US20180083209A1-20180322-C00022.TIF </img><img> id-US20180083209A1-20180322-C00023.TIF </img><img> id-US20180083209A1-20180322-C00024.TIF </img>
 The emission layer EML may include a fluorescent material including one selected from the group of spiro-DPVBi, spiro-6P, 2,2',7,7'-tetrakis(biphenyl-4-yl)-9,9'-spirobifluorene (spiro-sexiphenyl), distyryl-benzene (DSB), distyryl-arylene (DSA), a polyfluorene (PFO)-based polymer, and a poly(p-phenylene vinylene)-based polymer (PPV).
 The emission layer EML may further include a dopant, and the dopant may use a general material. For example, styryl derivatives such as 1,4-bis[2-(3-N-ethylcarbazoryl)vinyl]benzene (BCzVB), 4-(di-p-tolylamino)-4″-[(di-p-tolylamino]styryl]stilbene (DPAVB), and N-(4-((E)-2-(6-((E)-4-(diphenylamino)styryl)naphthalene-2-yl)vinyl)phenyl)-N-phenylbenzenamine (N-BDAVBi), perylene and derivatives thereof such as 2,5,8,11-tetra-t-butylperylene (TBPe), pyrene and derivatives thereof such as 1,1-dipyrene, 1,4-dipyrenylbenzene, 1,4-bis(N,N-diphenylamino)pyrene), 2,5,8,11-tetra-t-butylperylene (TBP), and 1,3,5-tris(N-phenylbenzimidazole-2-yl)benzene (TPBi) may be used as the dopant.
 The emission layer EML may further include, for example, tris(8-hydroxyquinolino)aluminum (Alq3), 4,4'-bis(N-carbazolyl)-1,1'-biphenyl (CBP), poly(N-vinylcarbazole) (PVK), 9,10-di(naphthalene-2-yl)anthracene (ADN), 4,4',4″-tris(carbazol-9-yl)-triphenylamine (TCTA), 1,3,5-tris(N-phenylbenzimidazole-2-yl)benzene (TPBi), 3-tert-butyl-9,10-di(naphth-2-yl)anthracene (TBADN), distyrylarylene (DSA), 4,4'-bis(9-carbazolyl)-2,2'-dimethyl-biphenyl (CDBP), 2-methyl-9,10-bis(naphthalen-2-yl)anthracene (MADN), bis[2-(diphenylphosphino)phenyl]ether oxide (DPEPO), hexaphenyl cyclotriphosphazene (CP1), 1,4-bis(triphenylsilyl)benzene (UGH2), hexaphenylcyclotrisiloxane (DPSiO3), octaphenylcyclotetra siloxane (DPSiO4), 2,8-bis(diphenylphosphoryl)dibenzofuran (PPF), etc.
@@ -133,34 +151,43 @@ An amine compound according to an embodiment may be synthesized, for example, as
 1. Synthesis of Compound 1
 Compound 1, which is an amine compound according to an embodiment, may be synthesized by the following reaction.
 (Synthesis of Compound B)
+<img> id-US20180083209A1-20180322-C00025.TIF </img>
 Under an argon (Ar) atmosphere, 3.0 g of Compound A, 0.70 g of aniline, 0.22 g of Pd(dba)2, 0.73 g of NaOt-Bu, and 0.31 g of t-Bu3P were added to a 200 mL, three necked flask, followed by heating and refluxing in 75 mL of a toluene solvent for about 3 hours. After air cooling, water was added, an organic layer was separated, and solvents were distilled. The crude product thus obtained was separated by silica gel column chromatography (using hexane and toluene) to obtain 2.78 g (yield 90%) of Compound B as a white solid.
 The molecular weight of Compound B measured by FAB-MS was 409.
 (Synthesis of Compound 1)
+<img> id-US20180083209A1-20180322-C00026.TIF </img>
 Under an argon (Ar) atmosphere, 2.50 g of Compound B, 2.26 g of Compound C, 0.18 g of Pd(dba)2, 0.59 g of NaOt-Bu, and 0.25 g of t-Bu3P were added to a 100 mL, three necked flask, followed by heating and refluxing in 65 mL of a toluene solvent for about 4 hours. After air cooling, water was added, an organic layer was separated, and solvents were distilled. The crude product thus obtained was separated by silica gel column chromatography (using hexane and toluene) to obtain 4.31 g (yield 95%) of Compound 1 as a white solid.
 The molecular weight of the white solid compound, measured by FAB-MS was 743. Through the results, the white solid compound was identified as Compound 1.
 2. Synthesis of Compound 3
 Compound 3 was synthesized according to the same method of synthesizing Compound 1 except for using 4-(4-bromophenyl)tetraphenylsilane instead of Compound C in the synthetic method of Compound 1. The molecular weight of Compound 3 measured by FAB-MS was 819.
 3. Synthesis of Compound 4
 (Synthesis of Compound E)
+<img> id-US20180083209A1-20180322-C00027.TIF </img>
 15.0 g of Compound D, 4.60 g of phenylboronic acid, 126 ml of toluene, 63 mL of ethanol, and 32 ml of a 2 M aqueous tripotassium phosphate solution were added to a vessel, followed by filling the remaining space of the vessel with argon. Then, 2.18 g of Pd(PPh3)4 was added thereto, followed by refluxing for about 2 hours. After air cooling, water was added, an organic layer was separated, and solvents were distilled. The crude product thus obtained was separated using silica gel column chromatography (using hexane and toluene) to obtain 9.25 g (yield 62%) of Compound E as a white solid compound.
 The molecular weight of Compound E measured by FAB-MS was 472.
 (Synthesis of Compound F)
+<img> id-US20180083209A1-20180322-C00028.TIF </img>
 Compound F was synthesized according to the same method of synthesizing Compound B except for using Compound E instead of Compound A in the synthetic method of Compound B. The molecular weight of Compound F measured by FAB-MS was 485.
 (Synthesis of Compound 4)
+<img> id-US20180083209A1-20180322-C00029.TIF </img>
 Compound 4 was synthesized according to the same method of synthesizing Compound 1 except for using Compounds F and G instead of Compounds B and C in the synthetic method of Compound 1. The molecular weight of Compound 4 measured by FAB-MS was 895.
 4. Synthesis of Compound 6
 (Synthesis of Compound H)
+<img> id-US20180083209A1-20180322-C00030.TIF </img>
 20.0 g of 1-iodonaphthalene, and 240 ml of dehydrated THF were added to a reaction vessel filled with argon, followed by cooling to about −78° C. Then, 108.24 ml of n-butyl lithium, 1.6 M in hexane was added thereto dropwise. After finishing dropping, stirring was continued for about 1 hour. Then, 37.75 mL of dichlorodiphenylsilane was added thereto dropwise. After finishing dropping, the solution temperature was gradually elevated back to room temperature, and stirring was continued for about 2 hours. The solution thus obtained was referred to as solution “h”.
 To a separate reaction vessel, 24.56 g of 4,4'-dibromobiphenyl, 240 mL of dehydrated THF were added, followed by cooling to −78° C. Then, 49.20 mL of n-butyl lithium, 1.6 M in hexane was added dropwise. After finishing dropping, stirring was continued for about 1 hour. The solution “h” was added thereto dropwise, and the solution temperature was elevated back to room temperature, followed by stirring for about 2 hours. Water was added for quenching, and extraction was performed with ethyl acetate. An organic layer was separated, and solvents were distilled. The crude product thus obtained was separated using silica gel column chromatography (using hexane and toluene) to obtain 17.05 g (yield 40%) of Compound H as a white solid compound.
 The molecular weight of Compound E measured by FAB-MS was 540.
 (Synthesis of Compound 6)
+<img> id-US20180083209A1-20180322-C00031.TIF </img>
 Compound 6 was synthesized according to the same method for synthesizing Compound 1 except for using Compound H instead of Compound C in the synthetic method of Compound 1. The molecular weight of Compound 6 measured by FAB-MS was 869.
 The measuring of the molecular weight by FAB-MS was conducted using JMS-700V manufactured by JEOL CO.
 Device Manufacturing Examples
 Organic electroluminescence devices according to Examples 1 to 4 were manufactured using Compounds 1, 3, 4, and 6 as hole transport materials.
 Example Compounds
+<img> id-US20180083209A1-20180322-C00032.TIF </img>
 Organic electroluminescence devices according to Comparative Examples 1 to 8 were manufactured using Comparative Compounds X-1 to X-8, below, as hole transport materials.
 [Comparative Compounds]
+<img> id-US20180083209A1-20180322-C00033.TIF </img><img> id-US20180083209A1-20180322-C00034.TIF </img>
 Organic electroluminescence devices according to Examples 1 to 4 and Comparative Examples 1 to 8 were manufactured by forming a first electrode using ITO to a thickness of about 150 nm, a hole injection layer using 2-TNATA to a thickness of about 60 nm, a hole transport layer using the compound according to the example or the comparative example to a thickness of about 30 nm, an emission layer using 9,10-di(naphthalene-2-yl)anthracene (ADN) doped with 3% 2,5,8,11-tetra-t-butylperylene (TBP) to a thickness of about 25 nm, an electron transport layer using Alq3 to a thickness of about 25 nm, an electron injection layer using LiF to a thickness of about 1 nm, and a second electrode using Al to a thickness of about 100 nm. Each layer was formed by a vacuum deposition method.
 Then, the voltage, emission efficiency and half life of the organic electroluminescence devices thus manufactured were measured. Evaluation results are listed in Table 1 below. The evaluation of the emission properties of the organic electroluminescence devices was conducted using a C9920-11 brightness light distribution characteristics measurement system manufactured by HAMAMATSU Photonics Co.
 <table>

@@ -22,13 +22,17 @@ These and other objects, which will become apparent during the following detaile
 Thus, the present invention provides compounds of general formula I which, act both as muscarinic receptor antagonists and beta2 adrenergic receptor agonists, processes for the preparation of such a compound, compositions which contain such a compound, therapeutic uses of such a compound, and combinations of such a compound with other pharmaceutical active ingredients among which are, for instance, those currently used in the treatment of respiratory disorders, e.g. corticosteroids, P38 MAP kinase inhibitors, IKK2, HNE inhibitors, PDE4 inhibitors, leukotriene modulators, NSAIDs and mucus regulators.
 DETAILED DESCRIPTION OF THE PREFERRED EMBODIMENTS
 In particular, the present invention is directed to compounds of general formula I
+<img> id-US20180016267A1-20180118-C00001.TIF </img>
 wherein D is a cycloalkylene heterocycloalkylene or heteroarylene group selected from D0-D8
+<img> id-US20180016267A1-20180118-C00002.TIF </img>
 wherein at least one of X1, X2, X3, and X4 is at each occurrence independently selected from N, NR7, O, and S and the others are CH groups;
 Y is a divalent group of formula
+<img> id-US20180016267A1-20180118-C00003.TIF </img>
 wherein
 A1 and A2 are independently absent or selected from (C1-C12)alkylene, (C3-C8)cycloalkylene and (C3-C8)heterocycloalkylene optionally substituted by one or more substituents selected from (C1-C6)alkyl, aryl(C1-C6)alkyl and heteroaryl(C1-C6)alkyl;
 B is absent or is selected from (C3-C8)cycloalkylene, (C3-C8)heterocycloalkylene, arylene or heteroarylene optionally substituted by one or more groups selected from -OH, halogens, -CN, (C1-C6)alkyl, (C1-C6)alkoxy, (C1-C6)haloalkyl, (C1-C6)haloalkoxy and aryl(C1-C6)alkyl;
 C is absent or is selected from -O-, -C(O)-, -OC(O)-, -(O)CO-, -S-, -S(O)-, -S(O)2- and -N(R7)-, or is one of the following groups C1-C5
+<img> id-US20180016267A1-20180118-C00004.TIF </img>
 wherein
 R7 is in each occurrence independently H or selected from linear or branched (C1-C8)alkyl, aryl(C1-C6)alkyl, arylsulfanyl, arylsulfinyl, arylsulfonyl, (C3-C8)cycloalkyl, (C3-C8)heterocycloalkyl, aryl and heteroaryl;
 R8 is in each occurrence independently H or (C1-C8)alkyl;
@@ -37,7 +41,9 @@ m, m', t, t', v and v' are at each occurrence independently an integer from 1 to
 G is arylene optionally substituted by one or more substituents selected from halogen atoms, -OH, oxo (═O), -SH, -NO2, -CN, -CON(R6)2, -NH2, -NHCOR6, -CO2R6, (C1-C10)alkylsulfanyl, (C1-C10)alkylsulfinyl, (C1-C10)alkylsulfonyl, (C1-C10)alkyl, aryl, haloaryl, heteroaryl and (C1-C10)alkoxy;
 L is a bond or (C1-C8)alkylene;
 R2 is a nitrogen containing group which may be selected from J1-J8
+<img> id-US20180016267A1-20180118-C00005.TIF </img>
 R5 is a group of formula K
+<img> id-US20180016267A1-20180118-C00006.TIF </img>
 wherein p is 0 or an integer from 1 to 4; q is 0 or an integer from 1 to 4;
 P is absent or is selected from the divalent group consisting of O, S, SO, SO2, CO, NR6 CH═CH, N(R6)SO2, N(R6)COO, N(R6)C(O), SO2N(R6), OC(O)N(R6) and C(O)N(R6);
 W is selected from H, (C1-C6)alkyl, (C3-C8)cycloalkyl, aryl and heteroaryl, optionally substituted by one or more substituents selected independently from halogen atoms, -OH, oxo (═O), -SH, -NO2, -CN, -CON(R6)2, -NH2, -NHCOR6, -CO2R6, (C1-C10)alkylsulfanyl, (C1-C10)alkylsulfinyl, (C1-C10)alkylsulfonyl, (C1-C10)alkyl and (C1-C10)alkoxy;
@@ -83,16 +89,22 @@ As used herein an oxo moiety is represented by (0) as an alternative to other co
 Whenever basic amino or quaternary ammonium groups are present in the compounds of formula I, as above said, physiological acceptable anions, selected among chloride, bromide, iodide, trifluoroacetate, formate, sulfate, phosphate, methanesulfonate, nitrate, maleate, acetate, citrate, fumarate, tartrate, oxalate, succinate, benzoate, p-toluenesulfonate, pamoate and naphthalene disulfonate may be present. Likewise, in the presence of acidic groups such as -COOH groups, corresponding physiological cation salts may be present as well, for instance including alkaline or alkaline earth metal ions.
 Compounds of general formula (I) contain at least two stereogenic centers. Therefore, the invention also includes any of the optical stereoisomers, diastereoisomers and mixtures thereof, in any proportion.
 In particular, the carbon atom (2) linked to phenyl, -OH, G and C═O groups, and the carbon atom (1) linked to the carbostiryl moiety
+<img> id-US20180016267A1-20180118-C00007.TIF </img>
 -OH and the rest of the molecule, are stereogenic centers.
+<img> id-US20180016267A1-20180118-C00008.TIF </img>
 Thus, compounds of the invention, having at least two stereogenic centers, may accordingly exist as at least four diastereoisomers. Where the compounds of the present invention possess more than two stereogenic centers, they will exist as 2n diastereoisomers (wherein n here refers to the number of stereogenic centers). It is to be understood that all such isomers and mixtures thereof in any proportion are encompassed within the scope of the present invention.
 In a preferred embodiment, the invention is directed to compounds of formula (I)', which are compounds of formula (I) as above defined where the absolute configuration of carbon (1) is that shown herebelow:
+<img> id-US20180016267A1-20180118-C00009.TIF </img>
 The absolute configuration for a chiral carbon is determined via X ray and assigned on the basis of Cahn-Ingold-Prelog nomenclature based on groups' priorities. Thus, in one preferred embodiment, for compounds of formula (I), absolute configuration at carbon (1) is (R).
 As above said, compounds of formula (I) may exist as at least four diastereoisomers (Ia), (Ib), (Ic) and (Id) herebelow represented, which are comprised within the scope of the present invention; each diastereoisomer (Ia), (Ib), (Ic), (Id) may be constituted by a mixture of corresponding epimers when a third stereogenic center is present in the molecule.
+<img> id-US20180016267A1-20180118-C00010.TIF </img>
 In a further preferred embodiment, the invention is directed to compounds of formula (Ia) or (Ib), which are respectively compounds of formula (I) as above defined wherein the absolute configuration at carbon (1) is (R) and at carbon (2) is (S); or wherein the absolute configuration at carbon (1) is (R) and at carbon (2) is (R).
 Preferred are compounds of general formula (I), (Ia), or (Ib) wherein L is a (C1-C8)alkylene which is -(CH2)s-; wherein s is 0 or an integer from 1-3.
 More preferred are compounds of general formula I″
+<img> id-US20180016267A1-20180118-C00011.TIF </img>
 It is to be understood that all preferred groups or embodiments described herebelow and hereabove for compounds of formula (I) may be combined among each other and apply to compounds of formula (Ia), (Ib), (Ic), (Id) and (I)' as well mutatis mutandis.
 In a first preferred embodiment the invention is directed to group of compounds of general formula I wherein R2 is a group of formula J3:
+<img> id-US20180016267A1-20180118-C00012.TIF </img>
 wherein R5 is a group of formula K, wherein p is 0 or 1, P is absent or is CO, q is absent or is 1 and W is H or is selected from (C1-C6)alkyl and aryl, and all the other variables are as defined above.
 In a more preferred embodiment, R2 is a group of formula J3, R5 is methyl or benzyl, R9 is H or methyl and all the other variables are as defined above.
 In another preferred embodiment, G is arylene.
@@ -109,6 +121,7 @@ G is arylene which is meta-phenylene or para-phenylene;
 L is a bond or (C1-C8)alkylene which is -CH(CH3)- or -(CH2)-;
 R2 is a group of formula J1, J2, J3, J4, J5, J6, J7 or J8
 R5 is a group of formula K
+<img> id-US20180016267A1-20180118-C00013.TIF </img>
 wherein p is 0 or 1; q is 0;
 P is absent
 W is selected from (C1-C6)alkyl which is methyl, (C3-C8)cycloalkyl which is cyclobutyl or cyclopentyl, aryl which is phenyl optionally substituted by (C1-C10)alkoxy which is methoxy;
@@ -429,6 +442,8 @@ Cpd. & Structure
 </table>
 The compounds of the present invention can be prepared from readily available starting materials using the following general methods and procedures or by using other information readily available to those of ordinary skill in the art. Although a particular embodiment of the present invention may be shown or described herein, those skilled in the art will recognize that all embodiments or aspects of the invention can be prepared using the methods described herein or by using other known methods, reagents and starting materials. When typical or preferred process conditions (i.e., reaction temperatures, times, mole ratios of reactants, solvents, pressures, etc.) are given, other process conditions can also be used unless stated otherwise. While the optimum reaction conditions may vary depending on the particular reactants or solvent used, such conditions can be readily determined by one skilled in the art by routine optimization procedures.
 Compounds of general formula I may be prepared according to the following synthetic Scheme.
+<img> id-US20180016267A1-20180118-C00014.TIF </img><img> id-US20180016267A1-20180118-C00015.TIF </img>
+<img> id-US20180016267A1-20180118-C00016.TIF </img>
 General Procedure for the Preparation of Compounds of Formula I
 Compounds of formula I are compounds in which Y is a divalent group -A1-B-A2-C-(CH2)n-.
 The synthesis of compounds of formula I may require the protection of potential reactive functionalities in addition to those methods herewith described. Examples of compatible protecting groups (PG) and their particular methods of protection and deprotection are described in “Protecting groups in organic Synthesis” by T. W. Green and P. Wutz (Wiley-Interscience publication, 1999), which is incorporated herein by reference in its entirety.
@@ -453,6 +468,7 @@ Compounds of formula VII, wherein LG1 is triflate can be obtained from a compoun
 Compounds IV, VII and IX are all suitable intermediates for the preparation of single stereoisomers of compound of formula I. For example, the racemic mixtures or mixtures in any proportion of isomers of anyone of these three intermediates can be separated by mean of chiral chromatographic separation. In case, for example, R2 is enantiomerically pure J1, J2 or J5, a compound VII is a mixture of diastereoisomers that can be separated by mean of a normal chromatographic separation.
 The absolute configuration of the stereogenic center present in VII is conserved unmodified within the synthetic pathway applied for the conversion of VII or IX into the final compound I.
 Compounds of formula I wherein L is -(CH2)s-, s is 0 and R2 is J1, J2 or J5 contain three stereogenic centers, as indicated below (wherein e.g. J=J2) with the symbol *. Therefore the structure of formula I is characterized by different stereoisomers.
+<img> id-US20180016267A1-20180118-C00017.TIF </img>
 Each diastereoisomer can be obtained theoretically by chromatographic separation of the mixture obtained by reacting racemic mixtures of the required intermediates. It is clear that this approach it is not convenient and that it can be used only for the separation of mixtures containing few diastereoisomers.
 In a more convenient approach, the synthesis of each single stereoisomer can be accomplished using, in the reactions described above, only enantiomerically pure intermediates.
 The enantiomerically pure alcohol required for the preparation of compounds I wherein R2 is J1, J2, J5 or J6 are commercially available.
@@ -674,20 +690,27 @@ NMR
 Alternatively a Bruker instrument was used (either Bruker Avance 400 MHz or Bruker Avance III 400 MHz) operating at 400 MHz using the stated solvent at around room temperature unless stated otherwise, or on a Bruker AVANCE III HD 600 spectrometer operating at 600 MHz (proton frequency). The spectrometer is equipped with a 5 mm TCI INVERSE TRIPLE RESONACE CRYOPROBE H-C/N-D-0.5-Z ATMA. The probe is fitted with an actively shielded single axis Z-gradient and allows simultaneous decoupling on multiple X-nuclei such as 13C and 15N as well as automatic tuning and matching. Standard sample temperature range is comprised between 0° C. and 80° C.
 In all cases, NMR data were consistent with the proposed structures. Chemical shift are reported as δ values in ppm relative to trimethyl silane (TMS) as an internal standard. Coupling constants (J values) if given are in hertz (Hz) and multiplicities are reported using the following abbreviation (s=singlet, d=doublet, t=triplet, q=quartet, m=multiplet, br=broad, nd=not determined).
 Procedure A
+<img> id-US20180016267A1-20180118-C00018.TIF </img>
 Preparation of (R)-4-(((tert-butoxycarbonyl)(2-((tert-butyldimethylsilyl)oxy)-2-(8-hydroxy-2-oxo-1,2-dihydroquinolin-5-yl)ethyl)amino)methyl)benzoic acid
+<img> id-US20180016267A1-20180118-C00019.TIF </img>
 Step 1: (R)-5-(2-Amino-1-((tert-butyldimethylsilyl)oxy)ethyl)-8-(benzyloxy)quinolin-2(1H)-one
+<img> id-US20180016267A1-20180118-C00020.TIF </img>
 A solution of (R)-5-(2-azido-1-((tert-butyldimethylsilyl)oxy)ethyl)-8-(benzyloxy)quinolin-2(1H)-one (9.4 g, 21.0 mmol) in THF/water (80 mL/4 mL) was added with triphenylphosphine (6.03 g, 23.0 mmol). The reaction mixture was refluxed for 18 hours. The solvent was evaporated and residue was purified by flash column chromatography (eluent-100% DCM to 25:1 DCM/methanol) to afford the title compound (8.30 g, 93%).
 1H NMR (400 MHz, CDCl3); δ 9.19-9.17 (m, 1H), 8.23 (d, J=9.9 Hz, 1H), 7.44-7.42 (m, 5H), 7.14 (d, J=8.3 Hz, 1H), 7.01 (d, J=8.2 Hz, 1H), 6.67 (d, J=9.9 Hz, 1H), 5.17 (s, 2H), 4.98 (dd, J=4.4, 7.2 Hz, 1H), 2.99-2.85 (m, 2H), 1.36-1.35 (m, 2H), 0.90 (s, 9H), 0.08 (s, 3H), −0.14 (s, 3H).
 Step 2: (R)-Methyl 4-(((2-(8-(benzyloxy)-2-oxo-1,2-dihydroquinolin-5-yl)-2-((tert-butyldimethylsilyl)oxy)ethyl)amino)methyl)benzoate
+<img> id-US20180016267A1-20180118-C00021.TIF </img>
 A stirred mixture of (R)-5-(2-amino-1-((tert-butyldimethylsilyl)oxy)ethyl)-8-(benzyloxy)quinolin-2(1H)-one (2.9 g, 6.83 mmol) and methyl 4-formylbenzoate (1.23 g, 7.49 mmol) in DCM (30 mL) was added with anhydrous magnesium sulfate and the mixture stirred at room temperature for 18 hours. The suspension was filtered through a plug of anhydrous magnesium sulfate, the filter cake was washed with further DCM and the filtrate was evaporated under reduced pressure. The residue was dissolved in methanol (30 mL) and the mixture cooled to 0° C. Sodium borohydride (0.517 g, 13.7 mmol) was added portion wise and the reaction mixture stirred at 0° C. for 30 minutes. The coolant was removed and the mixture stirred at room temperature for a further 2 hours. The mixture was quenched with 10% aqueous potassium carbonate and extracted with DCM (×2). The combined DCM extracts were washed with brine, dried over anhydrous magnesium sulfate and the filtrate was evaporated under reduced pressure. The residue was purified by flash column chromatography (eluent-100% DCM to 25:1 DCM/methanol) to afford the title compound (3.26 g, 83%).
 1H NMR (400 MHz, DMSO-d6); δ 10.51 (s, 1H), 8.20 (d, J=9.9 Hz, 1H), 7.81 (d, J=8.3 Hz, 2H), 7.52 (d, J=7.2 Hz, 2H), 7.36-7.31 (m, 4H), 7.29-7.25 (m, 1H), 7.15 (d, J=8.3 Hz, 1H), 7.07 (d, J=8.4 Hz, 1H), 6.46 (d, J=9.9 Hz, 1H), 5.23 (s, 2H), 5.13 (dd, J=4.7, 7.2 Hz, 1H), 3.80-3.78 (m, 3H), 3.73 (s, 2H), 2.72 (dd, J=7.8, 12.0 Hz, 1H), 2.63-2.55 (m, 1H), 0.77 (s, 9H), 0.00 (s, 3H), −0.21 (s, 3H).
 Step 3: (R)-Methyl 4-(((2-(8-(benzyloxy)-2-oxo-1,2-dihydroquinolin-5-yl)-2-((tert-butyldimethylsilyl)oxy)ethyl)(tert-butoxycarbonyl)amino)methyl)benzoate
+<img> id-US20180016267A1-20180118-C00022.TIF </img>
 A stirred solution of (R)-methyl 4-(((2-(8-(benzyloxy)-2-oxo-1,2-dihydroquinolin-5-yl)-2-((tert-butyldimethylsilyl)oxy)ethyl)amino)methyl)benzoate (3.25 g, 5.67 mmol) in DCM (25 mL) was added with a solution of di-tert-butyl dicarbonate (1.49 g, 6.83 mmol) in DCM (5 mL). The reaction mixture was stirred at room temperature for 18 hours. The solvent was evaporated under reduced pressure and the residue purified by flash column chromatography (eluent-100% iso-hexane to 3:2 iso-hexane/ethyl acetate) to afford the title compound (2.84 g, 75%).
 LCMS (Method 1); Rt 4.33 min; M+1 673.4
 Step 4: (R)-4-(((2-(8-(Benzyloxy)-2-oxo-1,2-dihydroquinolin-5-yl)-2-((tert-butyldimethylsilyl)oxy)ethyl)(tert-butoxycarbonyl)amino)methyl)benzoic acid
+<img> id-US20180016267A1-20180118-C00023.TIF </img>
 A stirred solution of (R)-methyl 4-(((2-(8-(benzyloxy)-2-oxo-1,2-dihydroquinolin-5-yl)-2-((tert-butyldimethylsilyl)oxy)ethyl)(tert-butoxycarbonyl)-amino)methyl)benzoate (2.84 g, 4.22 mmol) in methanol (10 mL) was added with aqueous 2M sodium hydroxide (10 mL). The reaction mixture was then stirred at room temperature for 18 hours. The solvent was evaporated under reduced pressure and the residue partitioned between DCM and 10% aqueous potassium hydrogen sulfate. The organic phase was removed and the aqueous phase extracted with further DCM. The combined DCM extracts were washed with brine, dried over anhydrous magnesium sulfate and the filtrate was evaporated under reduced pressure to afford the title compound (2.58 g, 93%).
 LCMS (Method 1); Rt 4.05 min; M+1 659
 Step 5: (R)-4-(((tert-Butoxycarbonyl)(2-((tert-butyldimethylsilyl)oxy)-2-(8-hydroxy-2-oxo-1,2-dihydroquinolin-5-yl)ethyl)amino)methyl)benzoic acid
+<img> id-US20180016267A1-20180118-C00024.TIF </img>
 10% Palladium on carbon (2 g) was added to a stirred solution of (R)-4-(((2-(8-(benzyloxy)-2-oxo-1,2-dihydroquinolin-5-yl)-2-((tert-butyldimethylsilyl)oxy)ethyl)(tert-butoxycarbonyl)amino)methyl)benzoic acid (2.06 g, 3.12 mmol) in ethanol (25 mL) under an inert nitrogen atmosphere. 1-Methyl-1,4-cyclohexadiene (1.75 mL, 15.6 mmol) was added and the reaction mixture was carefully heated to reflux [Care-vigorous evolution of gas]. The reaction mixture was heated under reflux for 1 hour. The suspension was filtered, the filter cake washed with further ethanol and the filtrate was evaporated under reduced pressure to afford the title compound (1.66 g, 94%).
 LCMS (Method 1); Rt 3.61 min; M+1 569.5.
 Analogously prepared were:
@@ -704,22 +727,22 @@ Structure & unless stated otherwise) & Starting material
 <header>
 
 </header>
- & Rt 3.75 min; ES+ 599.4 & methyl 4-formyl- 3-methoxybenzoate
- & Rt 3.61 min; ES+ 599.4 & methyl 4-formyl- 2-methoxybenzoate
- & Rt 3.68 min; ES+ 569.4 & methyl 3- formylbenzoate
- & Rt 3.64 min; ES+ 587.3 & methyl 2-fluoro- 4-formylbenzoate
- & Rt 3.70 min; ES+ 587.4 & methyl 3-fluoro- 4-formylbenzoate
- & Rt 3.70 min; ES+ 587.4 & methyl 4-formyl- 3-methylbenzoate
- & Rt 3.79 min; ES+ 637.3 & methyl 3- trifluoromethyl- 4-formylbenzoate
- & Rt 3.66 min; ES+ 605/607 & methyl 2,3-difluoro- 4-formylbenzoate
- & Rt 3.76 min; ES+ 613.7 & ethyl 3-ethoxy- 4-formylbenzoate
- & Rt 3.82 min; ES+ 627.6 & isopropoxy 3- isopropoxy- 4-formylbenzoate
- & Rt 2.83 min; ES+ 570.4 (Method 2) & methyl 6- formylnicotinate
- & Rt 3.66 min; ES+ 617.6 & methyl 2-fluoro- 4-formyl-5- methoxybenzoate
- & Rt 2.93 min; ES+ 583.4 & methyl 2-(4- formylphenyl)acetate
- & Rt 3.69 min; ES+ 583 & methyl 4-formyl- 3-methylbenzoate
- & Rt 3.60 min; ES+ 575 & methyl 5- formylthiophene- 2-carboxylate
- & Rt 3.66 min; ES− 603 & methyl 2,3- difluoro-4- formylbenzoate
+<img> id-US20180016267A1-20180118-C00025.TIF </img> & Rt 3.75 min; ES+ 599.4 & methyl 4-formyl- 3-methoxybenzoate
+<img> id-US20180016267A1-20180118-C00026.TIF </img> & Rt 3.61 min; ES+ 599.4 & methyl 4-formyl- 2-methoxybenzoate
+<img> id-US20180016267A1-20180118-C00027.TIF </img> & Rt 3.68 min; ES+ 569.4 & methyl 3- formylbenzoate
+<img> id-US20180016267A1-20180118-C00028.TIF </img> & Rt 3.64 min; ES+ 587.3 & methyl 2-fluoro- 4-formylbenzoate
+<img> id-US20180016267A1-20180118-C00029.TIF </img> & Rt 3.70 min; ES+ 587.4 & methyl 3-fluoro- 4-formylbenzoate
+<img> id-US20180016267A1-20180118-C00030.TIF </img> & Rt 3.70 min; ES+ 587.4 & methyl 4-formyl- 3-methylbenzoate
+<img> id-US20180016267A1-20180118-C00031.TIF </img> & Rt 3.79 min; ES+ 637.3 & methyl 3- trifluoromethyl- 4-formylbenzoate
+<img> id-US20180016267A1-20180118-C00032.TIF </img> & Rt 3.66 min; ES+ 605/607 & methyl 2,3-difluoro- 4-formylbenzoate
+<img> id-US20180016267A1-20180118-C00033.TIF </img> & Rt 3.76 min; ES+ 613.7 & ethyl 3-ethoxy- 4-formylbenzoate
+<img> id-US20180016267A1-20180118-C00034.TIF </img> & Rt 3.82 min; ES+ 627.6 & isopropoxy 3- isopropoxy- 4-formylbenzoate
+<img> id-US20180016267A1-20180118-C00035.TIF </img> & Rt 2.83 min; ES+ 570.4 (Method 2) & methyl 6- formylnicotinate
+<img> id-US20180016267A1-20180118-C00036.TIF </img> & Rt 3.66 min; ES+ 617.6 & methyl 2-fluoro- 4-formyl-5- methoxybenzoate
+<img> id-US20180016267A1-20180118-C00037.TIF </img> & Rt 2.93 min; ES+ 583.4 & methyl 2-(4- formylphenyl)acetate
+<img> id-US20180016267A1-20180118-C00038.TIF </img> & Rt 3.69 min; ES+ 583 & methyl 4-formyl- 3-methylbenzoate
+<img> id-US20180016267A1-20180118-C00039.TIF </img> & Rt 3.60 min; ES+ 575 & methyl 5- formylthiophene- 2-carboxylate
+<img> id-US20180016267A1-20180118-C00040.TIF </img> & Rt 3.66 min; ES− 603 & methyl 2,3- difluoro-4- formylbenzoate
 </table>
 Representative synthesis of the required substituted formylbenzoate esters are highlighted below.
 Synthesis of methyl 3-trifluoromethyl-4-formylbenzoate
@@ -734,7 +757,9 @@ Synthesis of methyl 2-fluoro-4-formyl-5-methoxybenzoate
 A solution of methyl 2-fluoro-5-methoxy-4-methylbenzoate (0.576 g, 2.91 mmol) in carbon tetrachloride (20 mL) was added with N-bromosuccinimide (0.57 g, 3.2 mmol) and benzoyl peroxide (cat). The reaction mixture was heated at 70° C. for 6 hours and then allowed to cool. The suspension was filtered and the filtrate evaporated at reduced pressure. The residue was dissolved in DCM and washed with water, 1M aqueous sodium thiosulfate and the organic phase passed through a hydrophobic frit. The filtrate was concentrated at reduced pressure and the residue purified by flash column chromatography (eluent-100% i-hexane to 4:1 i-hexane/ethyl acetate) to afford methyl 4-(bromomethyl)-2-fluoro-5-methoxybenzoate (0.591 g, 2.13 mmol). This material was dissolved in acetonitrile (20 mL) and treated with pyridine N-oxide (0.203 g, 2.13 mmol) and silver (I) oxide (0.247 g, 1.07 mmol) and the mixture stirred at room temperature for 18 hours. The suspension was filtered through a pad of celite and the filter pad washed with further acetonitrile. The filtrate was evaporated and the residue dissolved in DCM. The DCM solution was washed with water and then passed through a hydrophobic frit and the solvent was evaporated. The residue purified by flash column chromatography (eluent-100% i-hexane to 4:1 i-hexane/ethyl acetate) to afford the title compound (0.230 g, 37%).
 1H NMR (400 MHz, CDCl3); δ 10.45-10.44 (m, 1H), 7.39-7.52 (m, 2H), 3.98 (s, 3H), 3.97 (s, 3H).
 Procedure B
+<img> id-US20180016267A1-20180118-C00041.TIF </img>
 (R)-5-(((tert-Butoxycarbonyl)(2-((tert-butyldimethylsily)oxy)-2-(8-hydroxy-2-oxo-1,2-dihydroquinolin-5-yl)ethyl)amino)methyl)picolinic acid
+<img> id-US20180016267A1-20180118-C00042.TIF </img>
 A solution of tert-butyl (R)-(2-(8-(benzyloxy)-2-oxo-1,2-dihydroquinolin-5-yl)-2-((tert-butyldimethylsilyl)oxy)ethyl)((6-bromopyridin-3-yl)methyl)carbamate (prepared as described in Procedure A using 2-bromo-5-formylpyridine in Step 2) (1.47 g, 2.12 mmol) in toluene (50 mL) was added with phenyl formate (1.03 g, 8.47 mmol), 4,5-bis(diphenylphosphino)-9,9-dimethylxanthene (0.294 g, 0.24 mmol), triethylamine (0.59 mL, 4.24 mmol) and the mixture was de-gassed for 15 minutes with nitrogen. Palladium acetate (0.057 g, 0.25 mmol) was added and the mixture was heated at 80° C. for 18 hours. Further phenyl formate (1.03 g, 8.47 mmol), 4,5-bis(diphenylphosphino)-9,9-dimethylxanthene (0.294 g, 0.24 mmol), triethylamine (0.59 mL, 4.24 mmol) and palladium acetate (0.057 g, 0.25 mmol) was added and the reaction heated at 80° C. for a further 24 hours. The reaction mixture was evaporated at reduced pressure to about ⅓ of the initial volume and then diluted with ethyl acetate. The organic phase was washed with water, brine, dried over anhydrous magnesium sulfate, filtered and the filtrate evaporated at reduced pressure. The residue was purified by flash column chromatography (eluent-100% iso-hexane to 100% ethyl acetate) to afford the major component. This material was dissolved in methanol (20 mL) and 2M aqueous sodium hydroxide added (2 mL) added. The reaction mixture was stirred at room temperature for 18 hours. The reaction mixture was concentrated and water added. The aqueous was washed with ether and then the aqueous pH adjusted to 5. The aqueous was extracted with DCM (×3), the combined DCM extracts were passed through a hydrophobic frit and evaporated at reduced pressure. The residue was dissolved in ethanol (30 mL) and 10% Pd-C(0.064 g) added followed by 1-methyl-1,4-cyclohexadiene (0.282 g, 3.00 mmol). The reaction mixture was heated to reflux and refluxed for three hours. The reaction mixture was filtered and the filtrate evaporated at reduced pressure to afford the title compound (0.314 g, 26%).
 LCMS Method 1; Rt 3.37 min; ES+ 570.6
 Analogously prepared were:
@@ -751,20 +776,24 @@ Structure & unless stated otherwise) & Starting material
 <header>
 
 </header>
- & Rt 3.02 min; ES+ 635.2 method 2 & methyl 4-formyl- 3-methoxybenzoate
- & Rt 2.93 min; ES+ 617.4 & 4-bromo-3-fluoro- 2-methoxybenzaldehyde
- & Rt 3.75 min; ES+ 617.4 & 4-bromo-2-fluoro- 6-methoxybenzaldehyde
- & Rt 3.65 min; ES+ 601.6 & 4-bromo-5-fluoro- 2-methylbenzaldehyde
- & Rt 3.69 min; ES+ 605.6 & 4-bromo-2,5- difluorobenzaldehyde
- & Rt 3.59 min; ES+ 617.6 & 4-bromo-3-fluoro- 5-methoxybenzaldehyde
- & Rt 3.58 min; ES+ 594.3 & 4-bromo- 3-cyanobenzaldehyde
+<img> id-US20180016267A1-20180118-C00043.TIF </img> & Rt 3.02 min; ES+ 635.2 method 2 & methyl 4-formyl- 3-methoxybenzoate
+<img> id-US20180016267A1-20180118-C00044.TIF </img> & Rt 2.93 min; ES+ 617.4 & 4-bromo-3-fluoro- 2-methoxybenzaldehyde
+<img> id-US20180016267A1-20180118-C00045.TIF </img> & Rt 3.75 min; ES+ 617.4 & 4-bromo-2-fluoro- 6-methoxybenzaldehyde
+<img> id-US20180016267A1-20180118-C00046.TIF </img> & Rt 3.65 min; ES+ 601.6 & 4-bromo-5-fluoro- 2-methylbenzaldehyde
+<img> id-US20180016267A1-20180118-C00047.TIF </img> & Rt 3.69 min; ES+ 605.6 & 4-bromo-2,5- difluorobenzaldehyde
+<img> id-US20180016267A1-20180118-C00048.TIF </img> & Rt 3.59 min; ES+ 617.6 & 4-bromo-3-fluoro- 5-methoxybenzaldehyde
+<img> id-US20180016267A1-20180118-C00049.TIF </img> & Rt 3.58 min; ES+ 594.3 & 4-bromo- 3-cyanobenzaldehyde
 </table>
 Procedure C
+<img> id-US20180016267A1-20180118-C00050.TIF </img>
 (R)-4-(((tert-Butoxycarbonyl)(2-((tert-butyldimethylsilyl)oxy)-2-(8-hydroxy-2-oxo-1,2-dihydroquinolin-5-yl)ethyl)amino)methyl)-3-chlorobenzoic acid
+<img> id-US20180016267A1-20180118-C00051.TIF </img>
 Step 1: (R)-5-(2-Amino-1-((tert-butyldimethylsilyl)oxy)ethyl)-8-hydroxyquinolin-2(1H)-one
+<img> id-US20180016267A1-20180118-C00052.TIF </img>
 A solution of (R)-5-(2-azido-1-((tert-butyldimethylsilyl)oxy)ethyl)-8-(benzyloxy)quinolin-2(1H)-one (8.5 g, 18.9 mmol) in ethanol (120 mL) was added with 10% palladium on charcoal (8.5 g) followed by 1-methyl-1,4-cyclohexadiene (21 mL, 186.9 mmol) and the reaction mixture heated to 60° C. for one hour. The reaction was allowed to cool to room temperature and the suspension was filtered. The filter cake was washed with further ethanol and the filtrate evaporated at reduced pressure. The residue was triturated with iso-hexane, the solid recovered by filtration and subsequently dried under vacuum to afford the title compound (5.55 g, 88%).
 1H NMR (400 MHz, CDCl3); δ 8.22 (d, J=9.8 Hz, 1H), 7.04 (d, J=8.0 Hz, 1H), 6.91 (d, J=7.9 Hz, 1H), 6.63 (d, J=9.3 Hz, 1H), 5.03 (dd, J=4.9, 4.9 Hz, 1H), 3.04-2.93 (m, 2H), 0.92-0.85 (m, 9H), 0.20 (s, 3H), −0.18 (s, 3H).
 Step 2: (R)-4-(((tert-Butoxycarbonyl)(2-((tert-butyldimethylsilyl)oxy)-2-(8-hydroxy-2-oxo-1,2-dihydroquinolin-5-yl)ethyl)amino)methyl)-3-chlorobenzoic acid
+<img> id-US20180016267A1-20180118-C00053.TIF </img>
 The title compound was prepared as in Procedure A using Steps 2, 3 and 4 using methyl 3-chloro-4-formyl benzoate in Step 2.
 LCMS Method 1; Rt 3.76; ES+ 603.3/605.4.
 Analogously prepared were:
@@ -781,44 +810,56 @@ Structure & unless stated otherwise) & Starting material
 <header>
 
 </header>
- & Rt 3.70; ES+ 603.3/605.4 & methyl 2-chloro- 4-formylbenzoate
- & Rt 3.88; ES+ 633.5/635.6 & phenyl 2-chloro- 4-formyl-5- methoxybenzoate
- & Rt 3.70 min; ES+ 621.4 & 4-bromo-3-fluoro- 5-chlorobenzaldehyde
+<img> id-US20180016267A1-20180118-C00054.TIF </img> & Rt 3.70; ES+ 603.3/605.4 & methyl 2-chloro- 4-formylbenzoate
+<img> id-US20180016267A1-20180118-C00055.TIF </img> & Rt 3.88; ES+ 633.5/635.6 & phenyl 2-chloro- 4-formyl-5- methoxybenzoate
+<img> id-US20180016267A1-20180118-C00056.TIF </img> & Rt 3.70 min; ES+ 621.4 & 4-bromo-3-fluoro- 5-chlorobenzaldehyde
 </table>
 Synthesis of phenyl 2-chloro-4-formyl-5-methoxybenzoate
 A stirred solution of 4-bromo-2-methoxybenzaldehyde (1.0 g, 4.56 g) in acetonitrile (15 mL) was added with N-chlorosuccinimide (0.731 g, 5.48 mmol) and the reaction mixture was heated at 80° C. for 18 hours. The reaction mixture was diluted with ethyl acetate and washed with water and brine (×2). The organic phase was dried over anhydrous magnesium sulfate, filtered and the solvent evaporated at reduced pressure. The residue was dissolved in toluene (20 mL) and phenyl formate (2 mL, 18.3 mmol), 4,5-bis(diphenylphosphino)-9,9-dimethylxanthene (0.642 g, 1.11 mmol), triethylamine (1.27 mL, 9.13 mmol) was added and the mixture was de-gassed for 15 minutes with nitrogen. Palladium acetate (0.122 g, 0.54 mmol) was added and the mixture was heated at 80° C. for 18 hours. The reaction mixture was evaporated at reduced pressure to about ⅓ of the initial volume and then diluted with ethyl acetate. The organic phase was washed with water, brine, dried over anhydrous magnesium sulfate, filtered and the filtrate evaporated at reduced pressure. The residue was purified by flash column chromatography (eluent-100% iso-hexane to 100% ethyl acetate) to afford the title compound (0.554 g, 42%).
 1H NMR (400 MHz, CDCl3) δ 10.47 (s, 1H), 7.93 (s, 1H), 7.58 (s, 1H), 7.46-7.31 (m, 5H), 4.02 (s, 3H).
 Procedure D
 Preparation of (R)-4-(2-((tert-butoxycarbonyl)(2-((tert-butyldimethylsilyl)oxy)-2-(8-hydroxy-2-oxo-1,2-dihydroquinolin-5-yl)ethyl)amino)ethyl)benzoic acid
+<img> id-US20180016267A1-20180118-C00057.TIF </img>
 Step 1: (R)-8-(Benzyloxy)-5-(1-((tert-butyldimethylsilyl)oxy)-2-((4-hydroxyphenethyl)amino)ethyl)quinolin-2(1H)-one
+<img> id-US20180016267A1-20180118-C00058.TIF </img>
 A mixture of (R)-8-(benzyloxy)-5-(2-bromo-1-((tert-butyldimethylsilyl)oxy)ethyl)quinolin-2(1H)-one (1.0 g, 2.05 mmol) in NMP (2 mL) was added with tyramine (1.41 g, 10.2 mmol). The mixture was heated at 80° C. for 18 hours. The mixture was diluted with ethyl acetate and washed sequentially with 10% aqueous potassium hydrogen sulfate and brine (×2). The organic phase was dried over anhydrous magnesium sulfate and the filtrate was evaporated under reduced pressure to afford the title compound (2.58 g, 93%).
 1H NMR (400 MHz, CDCl3); δ 9.30-9.30 (m, 1H), 8.27 (d, J=9.9 Hz, 1H), 7.46-7.38 (m, 6H), 7.08 (d, J=8.3 Hz, 1H), 6.97 (dd, J=4.8, 8.4 Hz, 3H), 6.71 (d, J=8.5 Hz, 2H), 6.65 (d, J=9.9 Hz, 1H), 5.16 (s, 2H), 5.14-5.07 (m, 1H), 2.97-2.82 (m, 3H), 2.78-2.68 (m, 3H), 1.65 (br s, 1H), 0.82 (s, 9H), 0.00 (s, 3H), −0.22 (s, 3H).
 Step 2: (R)-tert-Butyl (2-(8-(benzyloxy)-2-oxo-1,2-dihydroquinolin-5-yl)-2-((tert-butyldimethylsilyl)oxy)ethyl)(4-hydroxyphenethyl)carbamate
+<img> id-US20180016267A1-20180118-C00059.TIF </img>
 A stirred solution of (R)-8-(benzyloxy)-5-(1-((tert-butyldimethylsilyl)oxy)-2-((4-hydroxyphenethyl)amino)ethyl)quinolin-2(1H)-one (6.0 g, 11.02 mmol) in DCM (75 mL) was added with a solution of di-tert-butyldicarbonate (2.18 g, 16.5 mmol) in DCM (15 mL). The reaction mixture was stirred at room temperature for 2 hours. The solvent was evaporated under reduced pressure and the residue purified by flash column chromatography (eluent-100% iso-hexane to 3:2 iso-hexane/ethyl acetate) to afford the title compound (6.30 g, 89%).
 1H NMR (400 MHz, DMSO-d6, 100° C.); δ 9.94-9.92 (m, 1H), 8.74 (s, 1H), 8.29 (d, J=9.9 Hz, 1H), 7.56 (d, J=7.2 Hz, 2H), 7.44-7.35 (m, 3H), 7.24 (d, J=8.3 Hz, 1H), 7.14 (d, J=8.4 Hz, 1H), 6.92 (d, J=8.4 Hz, 2H), 6.70-6.67 (m, 2H), 6.56 (d, J=9.9 Hz, 1H), 5.31 (s, 3H), 3.37-3.23 (m, 4H), 2.66-2.55 (m, 2H), 1.39 (s, 9H), 0.86 (s, 9H), 0.04 (s, 3H), −0.13 (s, 3H).
 Step 3: (R)-4-(2-((2-(8-(Benzyloxy)-2-oxo-1,2-dihydroquinolin-5-yl)-2-((tert-butyldimethylsilyl)oxy)ethyl)(tert-butoxycarbonyl)amino)ethyl)phenyl trifluoromethanesulfonate
+<img> id-US20180016267A1-20180118-C00060.TIF </img>
 A cooled solution of (R)-tert-butyl (2-(8-(benzyloxy)-2-oxo-1,2-dihydroquinolin-5-yl)-2-((tert-butyldimethylsilyl)oxy)ethyl)(4-hydroxyphenethyl)carbamate (6.3 g, 9.78 mmol) in DCM (100 mL) at 0° C. was added with triethylamine (2.72 mL, 19.56 mmol) followed by 2-[N,N-bis(trifluoromethanesulfonyl)amino]-5-chloropyridine (4.21 g, 10.76 mmol) and the mixture was stirred at 0° C. for 2 hours. The coolant was removed and 2M aqueous sodium hydroxide (25 mL) was added to the reaction mixture, and the mixture was stirred for 15 minutes. The organic phase was separated, dried over anhydrous magnesium sulfate, filtered and the filtrate evaporated under reduced pressure to afford the title compound (7.3 g, 96%).
 1H NMR (400 MHz, DMSO-d6, 100° C.); δ 8.74 (s, 1H), 8.29 (d, J=9.9 Hz, 1H), 7.56 (d, J=7.2 Hz, 2H), 7.44-7.35 (m, 3H), 7.24 (d, J=8.3 Hz, 1H), 7.14 (d, J=8.4 Hz, 1H), 6.92 (d, J=8.4 Hz, 2H), 6.70-6.67 (m, 2H), 6.56 (d, J=9.9 Hz, 1H), 5.31 (s, 3H), 2.96 (s, 4H), 2.66-2.55 (m, 2H), 1.39 (s, 9H), 0.86 (s, 9H), 0.04 (s, 3H), −0.13 (s, 3H).
 Step 4: (R)-Phenyl 4-(2-((2-(8-(benzyloxy)-2-oxo-1,2-dihydroquinolin-5-yl)-2-((tert-butyldimethylsilyl)oxy)ethyl)(tert-butoxycarbonyl)amino)ethyl)benzoate
+<img> id-US20180016267A1-20180118-C00061.TIF </img>
 A solution of (R)-4-(2-((2-(8-(benzyloxy)-2-oxo-1,2-dihydroquinolin-5-yl)-2-((tert-butyldimethylsilyl)oxy)ethyl)(tert-butoxycarbonyl)amino)ethyl)phenyl trifluoromethanesulfonate (7.29 g, 9.4 mmol) in toluene (75 mL) was added with phenyl formate (4 mL, 37.57 mmol), 4,5-bis(diphenylphosphino)-9,9-dimethylxanthene (1.3 g, 2.25 mmol), triethylamine (2.61 mL, 18.81 mmol) and the mixture was de-gassed for 15 minutes with nitrogen. Palladium acetate (0.242 g, 1.12 mmol) was added and the mixture was heated at 80° C. for 6 hours. The reaction mixture was evaporated under reduced pressure to about ⅓ of the initial volume and then diluted with ethyl acetate. The organic phase was washed with water, brine, dried over anhydrous magnesium sulfate, filtered and the filtrate evaporated under reduced pressure. The residue was purified by flash column chromatography (eluent-100% iso-hexane to 100% ethyl acetate) to afford the title compound (4.5 g, 64%).
 1H NMR (400 MHz, DMSO-d6, 100° C.); δ 9.98-9.96 (m, 1H), 8.29 (d, J=9.9 Hz, 1H), 8.05 (d, J=8.3 Hz, 2H), 7.56 (d, J=7.2 Hz, 2H), 7.51-7.46 (m, 2H), 7.43-7.27 (m, 8H), 7.24 (s, 1H), 7.17 (d, J=8.3 Hz, 1H), 6.57 (d, J=9.9 Hz, 1H), 5.35 (d, J=1.9 Hz, 1H), 5.32 (s, 2H), 3.49-3.34 (m, 4H), 2.90-2.80 (m, 2H), 1.39 (s, 9H), 0.87 (s, 9H), 0.06 (s, 3H), −0.12 (s, 3H).
 Step 5: (R)-4-(2-((2-(8-(Benzyloxy)-2-oxo-1,2-dihydroquinolin-5-yl)-2-((tert-butyldimethylsilyl)oxy)ethyl)(tert-butoxycarbonyl)amino)ethyl)benzoic acid
+<img> id-US20180016267A1-20180118-C00062.TIF </img>
 A solution of (R)-phenyl 4-(2-((2-(8-(benzyloxy)-2-oxo-1,2-dihydroquinolin-5-yl)-2-((tert-butyldimethylsilyl)oxy)ethyl)(tert-butoxycarbonyl)amino)ethyl)benzoate (4.5 g, 6.0 mmol) in THF (30 mL) was added with 2M aqueous sodium hydroxide (30 mL) and the mixture was stirred at room temperature for 16 hours. The solvent was evaporated under reduced pressure to half the initial volume and then diluted with water (25 mL). The resulting mixture was acidified to pH 3 using 2M aqueous hydrochloric acid and then extracted with ethyl acetate (×3). The combined organic phases were washed sequentially with water, brine (25 ml), dried over anhydrous magnesium sulfate, filtered and the filtrate evaporated under reduced pressure to afford the title compound (4 g, 100%). Material used directly in the next step.
 Step 6: (R)-4-(2-((tert-Butoxycarbonyl)(2-((tert-butyldimethylsilyl)oxy)-2-(8-hydroxy-2-oxo-1,2-dihydroquinolin-5-yl)ethyl)amino)ethyl)benzoic acid
+<img> id-US20180016267A1-20180118-C00063.TIF </img>
 A solution of (R)-4-(2-((2-(8-(benzyloxy)-2-oxo-1,2-dihydroquinolin-5-yl)-2-((tert-butyldimethylsilyl)oxy)ethyl)(tert-butoxycarbonyl)amino)ethyl)benzoic acid (4 g, 5.95 mmol) in ethanol (100 mL) was added with 10% Pd-C(2 g) and 1-methyl-1,4-cyclohexadiene (3.29 ml, 29.76 mmol) and the mixture was heated at 80° C. for 3.5 hours. The reaction mixture was filtered through celite and the celite washed with further ethanol. The filtrate was evaporated under reduced pressure to afford the title compound (3.5 g, 100%).
 LCMS Method 1; Rt 3.65 ES+583.6
 Procedure D1
 Analogously prepared was 2-((tert-butoxycarbonyl)((R)-2-((tert-butyldimethylsilyl)oxy)-2-(8-hydroxy-2-oxo-1,2-dihydroquinolin-5-yl)ethyl)amino)-2,3-dihydro-1H-indene-5-carboxylic acid starting with 5-bromo-2,3-dihydro-1H-inden-2-amine (in place of tyramine) and omitting Step 3.
+<img> id-US20180016267A1-20180118-C00064.TIF </img>
 The key intermediate (phenyl 2-(((R)-2-(8-(benzyloxy)-2-oxo-1,2-dihydroquinolin-5-yl)-2-((tert-butyldimethylsilyl)oxy)ethyl)(tert-butoxycarbonyl)-amino)-2,3-dihydro-1H-indene-5-carboxylate) was separated into the individual stereoisomers by SFC (YMC Cellulose-SC column, eluent 40/60 IPA (0.1% DEA)/carbon dioxide; flow rate 100.0 mL/min, 120 bar pressure, 40° C., GLS 60PSI, system 4500 PSI). Individual isomers observed at retention time of 5.11 minutes and 6.43 minutes.
+<img> id-US20180016267A1-20180118-C00065.TIF </img>
 LCMS Method 1; Rt 4.59; ES+ 761.5 enantiomer 1
 LCMS Method 1; Rt 4.58; ES+ 761.5 enantiomer 2
 Procedure E
 Preparation of Chiral Intermediate
+<img> id-US20180016267A1-20180118-C00066.TIF </img>
 Step 1: Methyl 2-(3-(benzyloxy)phenyl)-2-hydroxy-2-phenylacetate
+<img> id-US20180016267A1-20180118-C00067.TIF </img>
 Magnesium turnings (40.9 g, 1.71 mol) were placed in the three necked round bottom flask under argon. Anhydrous THF (1800 mL) and crystals of iodine (6.18 g, 0.024 mol) were added then 1-(benzyloxy)-3-bromobenzene (384.69 g, 1.46 mol) was added in portions. The internal temperature rose to 60° C. and the reaction foamed. The reaction was stirred for 2.5 hours at reflux. In another flask, a solution of methyl benzylformate (200.00 g, 1.22 mol) in anhydrous THF (2000 mL) was cooled to −70° C. under argon and to this the Grignard reagent was added dropwise over 3 hours. The reaction was allowed to slowly warm to room temperature and stirred at this temperature for 18 hours. The reaction was quenched with ammonium chloride solution. Layers were separated and the aqueous layer was extracted with ethyl acetate. The combined organic fractions were washed with brine and dried over anhydrous magnesium sulfate. The filtrate was evaporated at reduced pressure to afford an oil. The resultant oil was evaporated with hexane twice to afford a solid (473.15 g).
 The solid was refluxed with 4730 ml hexane (10 ml/g) for 5 min, then allowed to cool to room temperature and stirred for 1 hour, then filtered and washed with hexane to obtain 386.34 g (HPLC: 83.85%). The product was crystallized in 3930 ml iPrOH (13 ml/g). The mixture was milky at reflux, was filtered (solid: 5.85 g, HPLC: 95.95%) and the filtrate was allowed to crystallized for 18 hours. The resulting precipitate was stirred for 1.5 hour at 10° C., then filtered and washed with hexane to afford the title product (180.54 g, 42%).
 1H NMR (400 MHz, DMSO-d6); δ 7.44-7.22 (m, 11H), 6.98-6.93 (m, 2H), 6.92-6.88 (m, 1H), 6.68 (s, 1H, OH), 5.05 (s, 2H), 3.70 (s, 3H).
 Step 2: Methyl 2-hydroxy-2-(3-hydroxyphenyl)-2-phenylacetate
+<img> id-US20180016267A1-20180118-C00068.TIF </img>
 180.00 g of methyl 2-(3-(benzyloxy)phenyl)-2-hydroxy-2-phenylacetate (0.52 mol) was divided into 6 parts: 30.00 g each. 30.00 g of methyl 2-(3-(benzyloxy)phenyl)-2-hydroxy-2-phenylacetate was dissolved in MeOH (1380 mL) and degassed. The Pd/C catalyst (wet, 20% wt) was added and the reaction mixture was stirred under a hydrogen atmosphere (via balloon) for 2.5 hours. The reaction mixture was filtered through a Celite pad and washed with MeOH. The filtrate was concentrated and the residue was adsorbed on silica (22 g, 1 g SiO2/1 g crude) and purified via dry flash chromatography (820 g SiO2, 5 g SiO2/1 g ther. yield, AcOEt/hex=1/1). The resulting oil residue was evaporated with hexane/toluene and product obtained as a solid (157.82 g, 96%).
 1H NMR (400 MHz, DMSO-d6); δ 9.36 (s, 1H, OH), 7.35-7.29 (m, 4H), 7.31-7.24 (m, 1H), 7.11 (t, J=7.8 Hz, 1H), 6.78-6.70 (m, 2H), 6.67 (ddd, J=7.9, 2.2, 1.0 Hz, 1H), 6.56 (s, 1H, OH), 3.70 (s, 3H).
 The individual enantiomers were separated by preparative chromatography.
@@ -829,38 +870,51 @@ Detection: UV 280 nm
 Temperature: 25° C.
 Pressure: 130 bars
 Procedure F
+<img> id-US20180016267A1-20180118-C00069.TIF </img><img> id-US20180016267A1-20180118-C00070.TIF </img>
 Preparation of (1-benzylpiperidin-4-yl)methyl (S)-2-(4-(5-(aminomethyl)thiophen-2-yl)phenyl)-2-hydroxy-2-phenylacetate dihydrochloride
+<img> id-US20180016267A1-20180118-C00071.TIF </img>
 Step 1: Benzyl 4-((tosyloxy)methyl)piperidine-1-carboxylate
+<img> id-US20180016267A1-20180118-C00072.TIF </img>
 A stirred solution of benzyl 4-(hydroxymethyl)piperidine-1-carboxylate (49.86 g, 200 mmol) in anhydrous pyridine (200 mL) at 0° C. under nitrogen was added with portionwise p-toluenesulfonyl chloride (41.94 g, 220 mmol). The reaction was stirred at 0° C. for 100 minutes before warming to room temperature. After 18 hours the reaction mixture was re-cooled to 0° C. and aqueous saturated aqueous sodium hydrogen carbonate was cautiously added. The resultant suspension was stirred at room temperature for 4 hours. The suspension was filtered and the filter cake washed with water. The solid was dried under vacuum in the presence of P2O5 to afford the title compound (76.47 g, 95%). 1H NMR (400 MHz, CDCl3); δ 7.77 (d, J=8.3 Hz, 2H), 7.37-7.29 (m, 7H), 5.10 (s, 2H), 4.17 (m, 2H), 3.85 (d, J=6.5 Hz, 2H), 2.74-2.73 (m, 2H), 2.45 (s, 3H), 1.92-1.80 (m, 1H), 1.67 (d, J=13.1 Hz, 2H), 1.18-1.06 (m, 2H).
 Step 2: Benzyl 4-((2-oxo-2-phenylacetoxy)methyl)piperidine-1-carboxylate
+<img> id-US20180016267A1-20180118-C00073.TIF </img>
 A solution of phenylglyoxylic acid (8.64 g, 56.3 mmol) in DMF (100 mL) was added with potassium hydrogen carbonate (11.52 g, 112.6 mmol) and stirred at room temperature for 10 minutes. Benzyl 4-((tosyloxy)methyl)piperidine-1-carboxylate (25.5 g, 62.0 mmol) was added and the reaction mixture heated at 60° C. for 18 hours. The reaction mixture was cooled and diluted with ethyl acetate. The mixture was washed with saturated aqueous sodium hydrogen carbonate and brine. The organic phase was dried over anhydrous magnesium sulfate, filtered and the filtrate evaporated under reduced pressure. The residue was purified by flash column chromatography (eluent-100% iso-hexane to 1:4 ethyl acetate/iso-hexane) to afford the title compound (13.2 g, 61%).
 1H NMR (400 MHz, CDCl3); δ 8.01-7.98 (m, 2H), 7.68 (dd, J=7.5, 7.5 Hz, 1H), 7.53 (dd, J=7.8, 7.8 Hz, 2H), 7.36 (d, J=3.8 Hz, 5H), 5.13 (s, 2H), 4.25 (d, J=6.6 Hz, 4H), 2.80-2.80 (m, 2H), 2.05-1.94 (m, 1H), 1.79 (dd, J=2.0, 10.9 Hz, 2H), 1.32-1.16 (m, 2H).
 Step 3: Benzyl 4-((2-(4-(benzyloxy)phenyl)-2-hydroxy-2-phenylacetoxy)methyl)piperidine-1-carboxylate
+<img> id-US20180016267A1-20180118-C00074.TIF </img>
 A stirred solution of benzyl 4-((2-oxo-2-phenylacetoxy)methyl)piperidine-1-carboxylate 10.59 g, 27.8 mmol) in THF (120 mL) cooled to −78° C. was added with a solution of (4-(benzyloxy)phenyl)magnesium bromide (0.8 M in THF, 38 mL, 30.6 mmol). The reaction mixture was slowly allowed to warm to 10° C. over 18 hours. The reaction mixture was stirred at room temperature for 2 hours. The reaction mixture was diluted with ethyl acetate and washed with aqueous 1M hydrochloric acid and brine. The organic phase was dried over anhydrous magnesium sulfate, filtered and the filtrate evaporated under reduced pressure. The residue was purified by flash column chromatography (eluent-100% iso-hexane to 1:4 ethyl acetate/iso-hexane) to afford the title compound
 (8.67 g, 55%).
 1H NMR (400 MHz, CDCl3); δ 7.42-7.42 (m, 17H), 6.94-6.91 (m, 2H), 5.09 (d, J=18.7 Hz, 4H), 4.15-4.07 (m, 5H), 2.68-2.65 (m, 2H), 1.82-1.73 (m, 1H), 1.53-1.44 (m, 2H), 1.10-1.06 (m, 2H).
 Step 4: Piperidin-4-ylmethyl 2-hydroxy-2-(4-hydroxyphenyl)-2-phenylacetate
+<img> id-US20180016267A1-20180118-C00075.TIF </img>
 The title compound was prepared as described in Procedure A Step 5.
 1H NMR (400 MHz, CDCl3); δ 7.43 (dd, J=1.6, 8.0 Hz, 2H), 7.35-7.30 (m, 3H), 7.20 (d, J=8.6 Hz, 2H), 6.67 (d, J=8.8 Hz, 2H), 4.15 (dd, J=6.4, 10.7 Hz, 1H), 4.00 (dd, J=6.1, 10.9 Hz, 1H), 3.57-3.56 (m, 3H), 3.05 (d, J=12.4 Hz, 2H), 2.58-2.48 (m, 2H), 1.79-1.69 (m, 1H), 1.54-1.46 (m, 2H), 1.27-1.05 (m, 2H).
 Step 5: Benzyl 4-((2-hydroxy-2-(4-hydroxyphenyl)-2-phenylacetoxy)methyl)piperidine-1-carboxylate
+<img> id-US20180016267A1-20180118-C00076.TIF </img>
 A cooled (0° C.) solution of piperidin-4-ylmethyl 2-hydroxy-2-(4-hydroxyphenyl)-2-phenylacetate (12.8 g, 37.5 mmol) and triethylamine (21 mL, 150 mmol) in DCM (375 mL) was added with dropwise benzyl chloroformate (10.7 mL, 75 mmol). The reaction mixture was allowed to warm slowly to room temperature over 18 hours. The reaction mixture was washed with saturated aqueous sodium hydrogen carbonate and the organic phase was dried over anhydrous magnesium sulfate, filtered and the filtrate evaporated under reduced pressure. The residue was dissolved in DCM (190 mL) and N-methylpiperazine (42.1 mL, 379 mmol) and the reaction mixture stirred at room temperature for 18 hours. The reaction mixture was washed with saturated aqueous sodium hydrogen carbonate and the organic phase was dried over anhydrous magnesium sulfate, filtered and the filtrate evaporated under reduced pressure. The residue was purified by flash column chromatography (eluent-100% DCM to 20:1 DCM/methanol). This reaction was performed twice on the same scale to afford the title compound (28.2 g, 79%).
 1H NMR (400 MHz, CDCl3); δ 7.39-7.31 (m, 9H), 7.26 (s, 3H), 7.24 (s, 1H), 6.76 (d, J=8.8 Hz, 2H), 5.30-5.26 (m, 1H), 5.12 (s, 1H), 4.16-4.07 (m, 5H), 2.67-2.66 (m, 2H), 1.80-1.71 (m, 1H), 1.50-1.44 (m, 2H), 1.11-0.99 (m, 2H).
 The material was separated into the individual enantiomers using SFC (LUX Cellulose-4 column, eluent 40/60 methanol/carbon dioxide; flow rate 100.0 mL/min, 120 bar pressure, 40° C., GLS 40PSI, system 4200 PSI). Individual isomers observed at retention time of 2.3 minutes and 3.4 minutes.
 Step 6: Piperidin-4-ylmethyl (S)-2-hydroxy-2-(4-hydroxyphenyl)-2-phenylacetate×HCOOH
+<img> id-US20180016267A1-20180118-C00077.TIF </img>
 Benzyl (S)-4-((2-hydroxy-2-(4-hydroxyphenyl)-2-phenylacetoxy)methyl)piperidine-1-carboxylate (3 g, 6.31 mmol) was dissolved in methanol (20 ml). Formic acid (0.476 ml, 12.62 mmol) and Pd-C 10% wet (0.631 mmol) were added and the mixture was hydrogenated for 2 h at room temperature under balloon pressure of H2. The solid was filtered off and the filtered was concentrated under reduced pressure to afford the title compound (2.15 g, 100%) as a transparent oil.
 UPLC-MS Method 3; Rt 0.37 min, ES+ 342.02
 Step 7: 1-benzylpiperidin-4-yl)methyl (S)-2-hydroxy-2-(4-hydroxyphenyl)-2-phenylacetate
+<img> id-US20180016267A1-20180118-C00078.TIF </img>
 A stirred solution of piperidin-4-ylmethyl (S)-2-hydroxy-2-(4-hydroxyphenyl)-2-phenylacetate (2.15 g, 8.20 mmol) in acetonitrile (20 ml) and DCM (20 ml) benzaldehyde (1.125 ml, 11.07 mmol) acetic acid (0.633 ml, 11.07 mmol) and sodium triacetoxyborohydride (2.39 g, 10.79 mmol) were added and the mixture was stirred overnight at room temperature. Reaction mixture was partitioned between ethyl acetate/sat NaHCO3, washed twice with brine. The organic layer was dried over Na2SO4 and dried under reduced pressure to afford the title compound (4 g, 9.27 mmol, 113%). UPLC-MS Method 3; Rt 0.56 min, ES+ 431.85
 Step 8: (1-benzylpiperidin-4-yl)methyl (S)-2-hydroxy-2-phenyl-2-(4-(((trifluoromethyl)sulfonyl)oxy)phenyl)acetate
+<img> id-US20180016267A1-20180118-C00079.TIF </img>
 A stirred solution of (1-benzylpiperidin-4-yl)methyl (S)-2-hydroxy-2-(4-hydroxyphenyl)-2-phenylacetate (3 g, 6.95 mmol), pyridine (2 ml, 24.83 mmol) was added with and the solution was cooled to 0° C. in an ice bath. A solution of trifluoromethanesulfonic anhydride (0.351 ml, 2.086 mmol) in DCM dry (5 ml) was added dropwise and the mixture was slowly warmed up to room temperature and then kept stirring for 30 min. Aliquots of pyridine (1 ml, 0.5 ml) and trifluoromethanesulfonic anhydride (0.351 ml, 0.1 ml) in DCM (5 ml×2) were added. After 30 min stirring the mixture was diluted with DCM and washed with 1M HCl, dried over Na2SO4 and concentrated under reduced pressure to give the crude (2.88 g) as an orange solid. An aliquot (2.38 g) was purified by flash chromatography (eluent-0 to 10% MEOH in DCM) to obtain the title compound (2.1 g, 53.6%) as an orange oil.
 UPLC-MS Method 3; Rt 0.84 min, ES+ 563.81
 Step 9: (1-benzylpiperidin-4-yl)methyl (S)-2-hydroxy-2-phenyl-2-(4-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)phenyl)acetate
+<img> id-US20180016267A1-20180118-C00080.TIF </img>
 (1-benzylpiperidin-4-yl)methyl (S)-2-hydroxy-2-phenyl-2-(4-(((trifluoromethyl)sulfonyl)oxy)-phenyl) acetate (2.1 g, 3.73 mmol), 4,4,4',4',5,5,5',5'-octamethyl-2,2'-bi(1,3,2-dioxaborolane) (1.892 g, 7.45 mmol) and potassium acetate (1.097 g, 11.18 mmol) were mixed in dioxane dry (9 ml). The mixture was degassed bubbling nitrogen for 5 min before adding [1,1'-Bis(diphenylphosphino)-ferrocene]dichloropalladium(II) (0.273 g, 0.373 mmol). The mixture was degassed again for 5 min and stirred overnight at 85° C. After being cooled to room temperature the mixture was diluted with ethyl acetate and washed by water The organic layer was dried over Na2SO4, filtered and concentrated under reduced pressure to afford the title compound (3 g, 5.54 mmol, 149%) as a dark red oil.
 UPLC-MS Method 3; Rt 0.85 min, ES+ 541.93
 Step 10: (1-benzylpiperidin-4-yl)methyl (S)-2-(4-(5-(((tert-butoxycarbonyl)amino)methyl)thiophen-2-yl)phenyl)-2-hydroxy-2-phenylacetate
+<img> id-US20180016267A1-20180118-C00081.TIF </img>
 (1-Benzylpiperidin-4-yl)methyl (S)-2-hydroxy-2-phenyl-2-(4-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)phenyl)acetate (300 mg, 0.554 mmol), tert-butyl ((5-bromothiophen-2-yl)methyl)carbamate (178 mg, 0.609 mmol) and potassium carbonate 2N aqueous solution (0.831 ml) were mixed in 1,4-dioxane (2 ml). The solution was degassed with N2 for 3 min before adding ([1,1'-Bis(diphenylphosphino)ferrocene]dichloropalladium(II) (40.5 mg, 0.055 mmol). The mixture was degassed again for 5 min and then heated at 70° C. for 3 hours. The cooled-down mixture was treated with water and ethyl acetate (5 ml), the organic layer was dried over Na2SO4 then concentrated under reduced pressure. The crude was purified by flash chromatography (eluent-0 to 100% ethyl acetate in heptane) to obtain the title compound (75 mg, 47%) as a transparent oil.
 UPLC-MS Method 3; Rt 0.87 min, ES+ 627.01
 Step 11: (1-benzylpiperidin-4-yl)methyl (S)-2-(4-(5-(aminomethyl)thiophen-2-yl)phenyl)-2-hydroxy-2-phenylacetate
+<img> id-US20180016267A1-20180118-C00082.TIF </img>
 (1-Benzylpiperidin-4-yl)methyl (S)-2-(4-(5-(((tert-butoxycarbonyl)amino)-methyl)thiophen-2-yl)phenyl)-2-hydroxy-2-phenylacetate (52 mg, 0.083 mmol) was dissolved in 1,4-dioxane\HCl 4 N (0.8 ml), then the mixture was stirred for 3 h. Diethyl ether (5 ml) was added and the precipitate that had formed was filtered off and washed with ethyl ether to give the titled compound as a white solid hydrochloric salt (59 mg, 96%).
 UPLC-MS Method 3; Rt 0.43 min, ES+ 527.68
 Analogously prepared were also:
@@ -880,25 +934,33 @@ Structure (×2 HCl) & od 3) & Commercially available starting material
 <header>
 
 </header>
- & Rt 0.69 min, ES+ 528 & 
- & Rt 0.43 min, ES+ 527.68 & 
- & Rt 0.40 min, ES+ 527.75 & 
+<img> id-US20180016267A1-20180118-C00083.TIF </img> & Rt 0.69 min, ES+ 528 & <img> id-US20180016267A1-20180118-C00084.TIF </img>
+<img> id-US20180016267A1-20180118-C00085.TIF </img> & Rt 0.43 min, ES+ 527.68 & <img> id-US20180016267A1-20180118-C00086.TIF </img>
+<img> id-US20180016267A1-20180118-C00087.TIF </img> & Rt 0.40 min, ES+ 527.75 & <img> id-US20180016267A1-20180118-C00088.TIF </img>
 </table>
 Procedure G
+<img> id-US20180016267A1-20180118-C00089.TIF </img>
 Preparation of (1-benzylpiperidin-4-yl)methyl (S)-2-(4-(6-(aminomethyl)pyridin-3-yl)phenyl)-2-hydroxy-2-phenylacetate dihydrochloride
+<img> id-US20180016267A1-20180118-C00090.TIF </img>
 Step 1: (1-benzylpiperidin-4-yl)methyl (S)-2-(4-(6-(((tert-butoxycarbonyl)amino)methyl)pyridin-3-yl)phenyl)-2-hydroxy-2-phenylacetate
+<img> id-US20180016267A1-20180118-C00091.TIF </img>
 (1-Benzylpiperidin-4-yl)methyl (S)-2-hydroxy-2-phenyl-2-(4-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)phenyl)acetate (300 mg, 0.554 mmol), prepared as described in Procedure A Step 1-3, tert-butyl ((5-bromopyridin-2-yl)methyl)carbamate (106 mg, 0.369 mmol) and Na2CO3 (157 mg, 1.477 mmol) were mixed in toluene/ethanol/water (4.9 ml, 4:2:1). The mixture was degassed bubbling nitrogen inside the solution for 5 min before adding Tetrakis(triphenylphosphine)palladium(0) (Pd(PPh3)4)(42.7 mg, 0.037 mmol). The reaction mixture was irradiated by microwaves at 100° C. for 15 min×3 times. The mixture was diluted with Ethyl acetate and washed by water and brine. The organic layer was dried over Na2SO4 filtered and concentrated under reduced pressure to get a crude (1 g). The crude was dissolved in DMF (1 ml) and purified by reverse phase column chromatography (C18 cartridge, gradient elution from 100:0 to 0:100 A/B, A: water/MeCN 95:5+0.1% HCOOH, B: MeCN/water 95:5+0.1% HCOOH) to afford the title compound (122 mg, 53.1% yield) as a red oil.
 UPLC-MS Method 3; Rt 0.75 min, ES+ 621.81
 Step 2: (1-benzylpiperidin-4-yl)methyl (S)-2-(4-(6-(aminomethyl)pyridin-3-yl)phenyl)-2-hydroxy-2-phenylacetate dihydrochloride
+<img> id-US20180016267A1-20180118-C00092.TIF </img>
 The title compound was prepared as in Procedure F using Step 11.
 UPLC-MS Method 3; Rt 0.49 min, ES+ 858.20
 Procedure H
+<img> id-US20180016267A1-20180118-C00093.TIF </img>
 Preparation of (1-benzylpiperidin-4-yl)methyl (S)-2-hydroxy-2-phenyl-2-(4-(1,2,3,6-tetrahydropyridin-4-yl)phenyl)acetate
+<img> id-US20180016267A1-20180118-C00094.TIF </img>
 Step 1: Tert-butyl (S)-4-(4-(2-((1-benzylpiperidin-4-yl)methoxy)-1-hydroxy-2-oxo-1-phenylethyl)phenyl)-3,6-dihydropyridine-1(2H)-carboxylate
+<img> id-US20180016267A1-20180118-C00095.TIF </img>
 Tert-butyl 4-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)-5,6-dihydropyridine-1(2H)-carboxylate (91 mg, 0.293 mmol), prepared as described in Procedure A Step 1-2, and K2CO3 2 M (0.399 ml, 0.798 mmol) were added to (1-benzylpiperidin-4-yl)methyl 2-hydroxy-2-phenyl-2-(4-(((trifluoromethyl)sulfonyl)oxy)phenyl)acetate (150 mg, 0.266 mmol) in 1,4-dioxane (2 ml, 0.266 mmol). The solution was degassed with N2 for 10 min. PdCl2(dppf) (19.47 mg, 0.027 mmol) was added and the mixture was stirred under N2 at 80° C. After ½ hour boronate (20 mg) and catalyst (6 mg) were added.
 After a further 1 hour the mixture was diluted ethyl acetate (30 ml) and washed with brine (10 ml), the organic layer was dried over Na2SO4, filtered and concentrated under reduced pressure to obtain a dark oil. The residue was purified by flash column chromatography (eluent-0 to 100% ethyl acetate in heptane) to obtain the title compound (101 mg, 64%) as a dark oil.
 UPLC-MS Method 1; Rt 1.10 min, ES+ 1076.84
 Step 2: (1-benzylpiperidin-4-yl)methyl (S)-2-hydroxy-2-phenyl-2-(4-(1,2,3,6-tetrahydropyridin-4-yl)phenyl)acetate dihydrochloride
+<img> id-US20180016267A1-20180118-C00096.TIF </img>
 The title compound was prepared as in Procedure F using Step 11.
 UPLC-MS Method 3; Rt 0.38 min, ES+ 497.32
 Analogously prepared was also:
@@ -915,34 +977,45 @@ Starting (×2 HCl) & (Method 3) & Starting material
 <header>
 
 </header>
- & Rt 0.38 min, ES+ 497.32 & 
+<img> id-US20180016267A1-20180118-C00097.TIF </img> & Rt 0.38 min, ES+ 497.32 & <img> id-US20180016267A1-20180118-C00098.TIF </img>
 </table>
+<img> id-US20180016267A1-20180118-C00099.TIF </img><img> id-US20180016267A1-20180118-C00100.TIF </img>
 Example 1-(1-Benzylpiperidin-4-yl)methyl (S)-2-(3-(5-((2-chloro-4-((((R)-2-hydroxy-2-(8-hydroxy-2-oxo-1,2-dihydroquinolin-5-yl)ethyl)amino)methyl)benzamido-)methyl)thiophen-2-yl)phenyl)-2-hydroxy-2-phenylacetate (Compound 1)
+<img> id-US20180016267A1-20180118-C00101.TIF </img>
 Step 1: (S)-2-Hydroxy-2-(3-hydroxyphenyl)-2-phenylacetic acid
+<img> id-US20180016267A1-20180118-C00102.TIF </img>
 A stirred solution of methyl (S)-2-hydroxy-2-(3-hydroxyphenyl)-2-phenylacetate (2.58 g, 10.0 mmol) in THF (25 mL) and methanol (25 mL) was added with a solution of aqueous sodium hydroxide (2M, 25 mL). The reaction mixture was stirred at 30° C. for 2 hours and the solvent evaporated at reduced pressure. The residue was diluted with ethyl acetate and the mixture cooled to 0° C. The reaction mixture was cautiously acidified with aqueous hydrochloric acid (2M) to a pH of 2. The mixture was separated and the organic phase was extracted with further ethyl acetate (×2). The combined organic extracts were washed with brine, dried (magnesium sulfate), filtered and evaporated under reduced pressure. The residue was azeotroped sequentially with toluene and acetonitrile to afford the title compound (2.34 g, 97%).
 1H NMR (400 MHz, DMSO-d6): δ 13.14 (s, 1H), 9.32 (s, 1H), 7.40-7.37 (m, 2H), 7.34-7.26 (m, 3H), 7.12 (dd, J=8.0, 8.0 Hz, 1H), 6.83-6.80 (m, 2H), 6.68-6.65 (m, 1H), 6.23 (m, 1H).
 Step 2: (S)-tert-Butyl 4-((2-hydroxy-2-(3-hydroxyphenyl)-2-phenylacetoxy)methyl)-piperidine-1-carboxylate
+<img> id-US20180016267A1-20180118-C00103.TIF </img>
 A stirred solution of (S)-2-hydroxy-2-(3-hydroxyphenyl)-2-phenylacetic acid (10.69 g, 43.77 mmol) in DMF (30 mL) was added with potassium hydrogen carbonate (8.76 g, 87.5 mmol) and the mixture stirred at room temperature for 10 minutes. A solution of tert-butyl 4-(tosyloxymethyl)piperidine-1-carboxylate (16.17 g, 43.77 mmol) in DMF (55 mL) was added and the reaction mixture heated at 60° C. for 27 hours. Diluted with ethyl acetate and washed with aqueous sodium hydrogen carbonate (×2), brine and dried over anhydrous magnesium sulfate. The filtrate was evaporated under reduced pressure and the residue purified by flash column chromatography (eluent-100% iso-hexane to 2:3 iso-hexane/ethyl acetate) to afford the title compound (13.42 g, 69%).
 1H NMR (400 MHz, DMSO-d6); δ 9.35 (s, 1H), 7.33 (d, J=4.4 Hz, 4H), 7.31-7.26 (m, 1H), 7.12 (dd, J=7.8, 7.8 Hz, 1H), 6.77-6.73 (m, 2H), 6.69-6.66 (m, 1H), 6.50 (s, 1H), 4.07-3.99 (m, 2H), 3.87 (d, J=11.4 Hz, 2H), 2.68-2.63 (m, 2H), 1.76-1.67 (m, 1H), 1.48 (d, J=12.0 Hz, 2H), 1.38 (s, 9H), 1.10-0.83 (m, 2H).
 Step 3: (S)-Piperidin-4-ylmethyl 2-hydroxy-2-(3-hydroxyphenyl)-2-phenylacetate hydrochloride
+<img> id-US20180016267A1-20180118-C00104.TIF </img>
 A solution of (S)-tert-butyl 4-((2-hydroxy-2-(3-hydroxyphenyl)-2-phenylacetoxy)methyl)piperidine-1-carboxylate (7.07 g, 16.01 mmol) in 1,4-dioxane (20 mL) was added with a solution of HCl in dioxane (4M, 80 mL) and the reaction mixture was stirred at room temperature for 90 minutes. The solvent was evaporated under reduced pressure to afford the title compound (5.9 g, 97%).
 1H NMR (400 MHz, DMSO-d6); δ 9.38 (s, 1H), 8.69-8.68 (m, 1H), 8.39 (s, 1H), 7.34 (d, J=4.0 Hz, 4H), 7.32-7.27 (m, 1H), 7.13 (dd, J=7.8, 7.8 Hz, 1H), 6.78-6.74 (m, 2H), 6.70-6.67 (m, 1H), 6.52 (s, 1H), 4.02 (d, J=6.5 Hz, 2H), 3.21 (d, J=12.4 Hz, 2H), 2.86-2.77 (m, 2H), 1.92-1.84 (m, 1H), 1.68 (d, J=13.9 Hz, 2H), 1.35-1.25 (m, 2H).
 Step 4: (S)-(1-Benzylpiperidin-4-yl)methyl 2-hydroxy-2-(3-hydroxyphenyl)-2-phenylacetate
+<img> id-US20180016267A1-20180118-C00105.TIF </img>
 A stirred suspension of (S)-piperidin-4-ylmethyl 2-hydroxy-2-(3-hydroxyphenyl)-2-phenylacetate hydrochloride (5.9 g, 15.61 mmol) in DCM (160 mL) was added with benzaldehyde (2.38 mL, 23.4 mmol) and stirred at 30° C. for 1 hour. Sodium triacetoxyborohydride (6.62 g, 31.2 mmol) was added and the reaction mixture stirred at 30° C. for 2 hours. Further sodium triacetoxyborohydride (1.65 g, 7.8 mmol) was added and the mixture stirred at 30° C. for 18 hours. The reaction mixture was quenched with saturated aqueous sodium hydrogen carbonate and the organic phase removed. The aqueous phase was extracted with further DCM. The combined organic phases were washed with brine, dried over anhydrous magnesium sulfate, filtered and the filtrate evaporated under reduced pressure. The residue was purified by flash column chromatography (eluent-100% DCM to 9:1 DCM/methanol) to afford the title compound (13.42 g, 69%).
 1H NMR (400 MHz, DMSO-d6); δ 9.33 (s, 1H), 7.34-7.25 (m, 9H), 7.11 (dd, J=7.8, 7.8 Hz, 1H), 6.76-6.73 (m, 2H), 6.68-6.65 (m, 1H), 6.48 (s, 1H), 5.77 (s, 1H), 3.99 (d, J=6.3 Hz, 2H), 3.40 (s, 2H), 2.72 (d, J=11.4 Hz, 2H), 1.86-1.79 (m, 2H), 1.54-1.43 (m, 3H), 1.12 (q, J=11.8 Hz, 2H).
 Step 5: (1-Benzylpiperidin-4-yl)methyl (S)-2-hydroxy-2-phenyl-2-(3-(((trifluoromethyl)sulfonyl)oxy)phenyl)acetate
+<img> id-US20180016267A1-20180118-C00106.TIF </img>
 A stirred solution of (S)-(1-benzylpiperidin-4-yl)methyl 2-hydroxy-2-(3-hydroxyphenyl)-2-phenylacetate (1.00 g, 2.32 mmol) and triethylamine (0.42 mL, 3.02 mmol) in anhydrous DCM (4 mL) was added with N-(5-chloro-2-pyridyl)bis(trifluoromethanesulfonimide) (1.09 g, 2.79 mmol). The reaction mixture was stirred at room temperature for 18 hours. The reaction mixture was quenched with saturated aqueous sodium hydrogen carbonate and the mixture extracted with DCM (×2). The combined DCM extracts were passed through a hydrophobic frit and solvent evaporated at reduced pressure. The residue was dissolved in acetonitrile and applied to an SCX-2 cartridge. The cartridge was washed with further acetonitrile (3 column volumes) and then with a 10% triethylamine/acetonitrile solution (4 column volumes). The combined 10% triethylamine/acetonitrile extracts were evaporated at reduced pressure to afford the title compound (1.17 g, 89%).
 1H NMR (400 MHz, CDCl3); δ 7.53-7.51 (m, 1H), 7.44-7.39 (m, 2H), 7.37-7.27 (m, 9H), 7.25-7.21 (m, 2H), 4.32 (s, 1H), 4.12 (d, J=6.6 Hz, 2H), 3.45 (s, 2H), 2.81 (d, J=11.4 Hz, 2H), 1.92-1.84 (m, 2H), 1.67-1.59 (m, 1H), 1.51-1.43 (m, 2H), 1.27-1.15 (m, 2H).
 Step 6: (1-Benzylpiperidin-4-yl)methyl (S)-2-(3-(5-(((tert-butoxycarbonyl)amino)methyl)thiophen-2-yl)phenyl)-2-hydroxy-2-phenylacetate
+<img> id-US20180016267A1-20180118-C00107.TIF </img>
 A stirred solution of (1-benzylpiperidin-4-yl)methyl (S)-2-hydroxy-2-phenyl-2-(3-(((trifluoromethyl)sulfonyl)oxy)phenyl)acetate (0.529 g, 0.94 mmol) in anhydrous 1,4-dioxane (7 mL) was added with (5-(((tert-butoxycarbonyl)amino)methyl)thiophen-2-yl)boronic acid (0.265 g, 1.03 mmol) and a solution of aqueous potassium carbonate (1.8 M, 1.57 mL, 2.82 mmol). This mixture was thoroughly degassed with nitrogen and Pd(dppf)Cl2 (0.077 g, 0.09 mmol) added. The mixture was degassed again and then heated at 80° C. for 3 hours. The reaction mixture was diluted with ethyl acetate and washed with brine. The organic phase was dried over anhydrous magnesium sulfate, filtered and the filtrate evaporated at reduced pressure. The residue was purified by flash column chromatography (eluent-100% DCM to 9:1 DCM/methanol) to afford the title compound (0.38 g, 63%).
 1H NMR (400 MHz, DMSO-d6); δ 7.63-7.51 (m, 3H), 7.43-7.32 (m, 9H), 7.31-7.26 (m, 4H), 6.94 (d, J=3.5 Hz, 1H), 6.78 (s, 1H), 4.30 (d, J=5.8 Hz, 2H), 4.07 (d, J=6.1 Hz, 2H), 3.44 (s, 2H), 2.75 (d, J=10.6 Hz, 2H), 1.87 (dd, J=11.1, 11.1 Hz, 2H), 1.63-1.51 (m, 3H), 1.45 (s, 9H), 1.22-1.12 (m, 2H).
 Step 7: (1-Benzylpiperidin-4-yl)methyl (S)-2-(3-(5-(aminomethyl)thiophen-2-yl)phenyl)-2-hydroxy-2-phenylacetate dihydrochloride
+<img> id-US20180016267A1-20180118-C00108.TIF </img>
 A stirred solution of (1-benzylpiperidin-4-yl)methyl (S)-2-(3-(5-(((tert-butoxycarbonyl)amino)methyl)thiophen-2-yl)phenyl)-2-hydroxy-2-phenylacetate (0.383 g, 0.61 mmol) in anhydrous 1,4-dioxane (1.4 mL) was added with a solution of HCl in dioxane (4M, 3 mL) and the mixture stirred at room temperature for 1 hour. The solvent was evaporated at reduced pressure to afford the title compound (quantitative yield).
 LCMS Method 1; Rt 2.47 min; ES+ 583.6
 Step 8: (1-Benzylpiperidin-4-yl)methyl (S)-2-(3-(5-((4-(((tert-butoxycarbonyl)((R)-2-((tert-butyldimethylsilyl)oxy)-2-(8-hydroxy-2-oxo-1,2-dihydroquinolin-5-yl)ethyl)amino)methyl)-2-chlorobenzamido)methyl)thiophen-2-yl)phenyl)-2-hydroxy-2-phenylacetate
+<img> id-US20180016267A1-20180118-C00109.TIF </img>
 DMF (4 mL) was added to (R)-4-(((tert-butoxycarbonyl)(2-((tert-butyldimethylsilyl)oxy)-2-(8-hydroxy-2-oxo-1,2-dihydroquinolin-5-yl)ethyl)amino)methyl)-2-chlorobenzoic acid (0.154 g, 0.25 mmol), EDCI (0.049 g, 0.24 mmol), HOBT (0.034 g, 0.26 mmol) and 4-DMAP (0.031 g, 0.26 mmol). The reaction mixture was stirred at room temperature for 5 minutes and then a solution of (1-benzylpiperidin-4-yl)methyl (S)-2-(3-(5-(aminomethyl)thiophen-2-yl)phenyl)-2-hydroxy-2-phenylacetate dihydrochloride (0.122 g, 0.20 mmol) in DMF (1 mL) was added followed by DIPEA (0.142 mL, 0.82 mmol). The reaction mixture was stirred at room temperature for 18 hours. The reaction mixture was diluted with ethyl acetate and washed with saturated sodium hydrogen carbonate and brine. The organic phase was dried over anhydrous magnesium sulfate, filtered and the filtrate evaporated at reduced pressure. The residue was purified by reverse phase column chromatography to afford the title compound (0.18 g, 62%).
 LCMS Method 1; Rt 3.33 min; ES+ 1112
 Step 9: (1-Benzylpiperidin-4-yl)methyl (S)-2-(3-(5-((2-chloro-4-((((R)-2-hydroxy-2-(8-hydroxy-2-oxo-1,2-dihydroquinolin-5-yl)ethyl)amino)methyl)benzamido)-methyl)thiophen-2-yl)phenyl)-2-hydroxy-2-phenylacetate (Compound 1)
+<img> id-US20180016267A1-20180118-C00110.TIF </img>
 A stirred solution of (1-benzylpiperidin-4-yl)methyl (S)-2-(3-(5-((4-(((tert-butoxycarbonyl)((R)-2-((tert-butyldimethylsilyl)oxy)-2-(8-hydroxy-2-oxo-1,2-dihydroquinolin-5-yl)ethyl)amino)methyl)-2-chlorobenzamido)methyl)thiophen-2-yl)phenyl)-2-hydroxy-2-phenylacetate (0.18 g, 0.14 mmol) in 1,4-dioxane (1 mL) was added with a solution of HCl in dioxane (1 mL). The reaction mixture was stirred at room temperature for 1 hour. The solvent was evaporated at reduced pressure. The residue was purified by reverse phase column chromatography to afford the title compound.
 The following compounds were prepared as described in Example 1 with the appropriate acid used in Step 8.
 <table>
@@ -953,76 +1026,83 @@ Com- &
 pound & 
 num- & 
 ber & Appropriate acid
-1A & 
-1B & 
-1C & 
-1D & 
-1E & 
-1F & 
-1G & 
-1H & 
-1I & 
-1J & 
-1K & 
-1L & 
-1M & 
-1N & 
-1O & 
-1P & 
-1Q & 
-1R & 
-1S & 
-1T & 
-1U & 
-1V & 
-1W & 
-1X & 
+1A & <img> id-US20180016267A1-20180118-C00111.TIF </img>
+1B & <img> id-US20180016267A1-20180118-C00112.TIF </img>
+1C & <img> id-US20180016267A1-20180118-C00113.TIF </img>
+1D & <img> id-US20180016267A1-20180118-C00114.TIF </img>
+1E & <img> id-US20180016267A1-20180118-C00115.TIF </img>
+1F & <img> id-US20180016267A1-20180118-C00116.TIF </img>
+1G & <img> id-US20180016267A1-20180118-C00117.TIF </img>
+1H & <img> id-US20180016267A1-20180118-C00118.TIF </img>
+1I & <img> id-US20180016267A1-20180118-C00119.TIF </img>
+1J & <img> id-US20180016267A1-20180118-C00120.TIF </img>
+1K & <img> id-US20180016267A1-20180118-C00121.TIF </img>
+1L & <img> id-US20180016267A1-20180118-C00122.TIF </img>
+1M & <img> id-US20180016267A1-20180118-C00123.TIF </img>
+1N & <img> id-US20180016267A1-20180118-C00124.TIF </img>
+1O & <img> id-US20180016267A1-20180118-C00125.TIF </img>
+1P & <img> id-US20180016267A1-20180118-C00126.TIF </img>
+1Q & <img> id-US20180016267A1-20180118-C00127.TIF </img>
+1R & <img> id-US20180016267A1-20180118-C00128.TIF </img>
+1S & <img> id-US20180016267A1-20180118-C00129.TIF </img>
+1T & <img> id-US20180016267A1-20180118-C00130.TIF </img>
+1U & <img> id-US20180016267A1-20180118-C00131.TIF </img>
+1V & <img> id-US20180016267A1-20180118-C00132.TIF </img>
+1W & <img> id-US20180016267A1-20180118-C00133.TIF </img>
+1X & <img> id-US20180016267A1-20180118-C00134.TIF </img>
 Com- & 
 pound & 
 num- & 
 ber & Structure
-1A & 
-1B & 
-1C & 
-1D & 
-1E & 
-1F & 
-1G & 
-1H & 
-1I & 
-1J & 
-1K & 
-1L & 
-1M & 
-1N & 
-1O & 
-1P & 
-1Q & 
-1R & 
-1S & 
-1T & 
-1U & 
-1V & 
-1W & 
-1X & 
+1A & <img> id-US20180016267A1-20180118-C00135.TIF </img>
+1B & <img> id-US20180016267A1-20180118-C00136.TIF </img>
+1C & <img> id-US20180016267A1-20180118-C00137.TIF </img>
+1D & <img> id-US20180016267A1-20180118-C00138.TIF </img>
+1E & <img> id-US20180016267A1-20180118-C00139.TIF </img>
+1F & <img> id-US20180016267A1-20180118-C00140.TIF </img>
+1G & <img> id-US20180016267A1-20180118-C00141.TIF </img>
+1H & <img> id-US20180016267A1-20180118-C00142.TIF </img>
+1I & <img> id-US20180016267A1-20180118-C00143.TIF </img>
+1J & <img> id-US20180016267A1-20180118-C00144.TIF </img>
+1K & <img> id-US20180016267A1-20180118-C00145.TIF </img>
+1L & <img> id-US20180016267A1-20180118-C00146.TIF </img>
+1M & <img> id-US20180016267A1-20180118-C00147.TIF </img>
+1N & <img> id-US20180016267A1-20180118-C00148.TIF </img>
+1O & <img> id-US20180016267A1-20180118-C00149.TIF </img>
+1P & <img> id-US20180016267A1-20180118-C00150.TIF </img>
+1Q & <img> id-US20180016267A1-20180118-C00151.TIF </img>
+1R & <img> id-US20180016267A1-20180118-C00152.TIF </img>
+1S & <img> id-US20180016267A1-20180118-C00153.TIF </img>
+1T & <img> id-US20180016267A1-20180118-C00154.TIF </img>
+1U & <img> id-US20180016267A1-20180118-C00155.TIF </img>
+1V & <img> id-US20180016267A1-20180118-C00156.TIF </img>
+1W & <img> id-US20180016267A1-20180118-C00157.TIF </img>
+1X & <img> id-US20180016267A1-20180118-C00158.TIF </img>
 </table>
+<img> id-US20180016267A1-20180118-C00159.TIF </img><img> id-US20180016267A1-20180118-C00160.TIF </img>
 Example 2-1-Methylpiperidin-4-yl (S)-2-hydroxy-2-(3-(5-((4-((((R)-2-hydroxy-2-(8-hydroxy-2-oxo-1,2-dihydroquinolin-5-yl)ethyl)amido)methyl)-thiophen-2-yl)phenyl)-2-phenylacetate (Compound 2)
 Step 1: Methyl (S)-2-hydroxy-2-phenyl-2-(3-(((trifluoromethyl)sulfonyl)oxy)-phenyl)acetate
+<img> id-US20180016267A1-20180118-C00161.TIF </img>
 A stirred solution of (S)-2-hydroxy-2-(3-hydroxyphenyl)-2-phenylacetic acid (2.5 g, 9.68 mmol) in DCM (50 mL) was added with 2-[N,N-bis(trifluoromethanesulfonyl)-amino]-5-chloropyridine (4.55 g, 11.6 mmol) and triethylamine (2.69 mL 19.4 mmol) and the reaction mixture stirred at room temperature for 18 hours. The reaction mixture was washed with saturated aqueous sodium hydrogen carbonate (×2) and brine (×2). The organic phase was dried over anhydrous magnesium sulfate, filtered and the filtrate evaporated at reduced pressure. The residue was purified by flash column chromatography (eluent-100% iso-hexane to 2:1 iso-hexane/ethyl acetate) to afford the title compound (3.7 g, 98%).
 LCMS Method 1; Rt 3.59 min; ES+ 389.
 Step 2: Methyl (S)-2-(3-(5-(((tert-butoxycarbonyl)amino)methyl)thiophen-2-yl)phenyl)-2-hydroxy-2-phenylacetate
+<img> id-US20180016267A1-20180118-C00162.TIF </img>
 The title compound was prepared as described in Example 1 Step 6
 LCMS Method 1; Rt 3.64 min; ES+M+Na 476.
 Step 3: (S)-2-(3-(5-(((tert-Butoxycarbonyl)amino)methyl)thiophen-2-yl)phenyl)-2-hydroxy-2-phenylacetic acid
+<img> id-US20180016267A1-20180118-C00163.TIF </img>
 A solution of methyl (S)-2-(3-(5-(((tert-butoxycarbonyl)amino)methyl)thiophen-2-yl)phenyl)-2-hydroxy-2-phenylacetate (3.8 g, 8.38 mmol) in THF/methanol (20 mL/20 mL) was added with a solution of aqueous 2M sodium hydroxide (25 mL) and the reaction mixture was stirred at room temperature for 2 hours. The reaction mixture was concentrated to ⅓ volume and the pH adjusted to 3 with 2M aqueous hydrochloric acid. The aqueous phase was extracted with ethyl acetate (×3). The combined organic phases were washed with brine, dried over anhydrous magnesium sulfate, filtered and the filtrate evaporated at reduced pressure to afford the title compound (3.2 g, 87%).
 LCMS Method 1; Rt 3.44 min; ES− 438.
 Step 4: 1-Methylpiperidin-4-yl (S)-2-(3-(5-(((tert-butoxycarbonyl)amino)-methyl)thiophen-2-yl)phenyl)-2-hydroxy-2-phenylacetate
+<img> id-US20180016267A1-20180118-C00164.TIF </img>
 A solution of (S)-2-(3-(5-(((tert-butoxycarbonyl)amino)methyl)thiophen-2-yl)phenyl)-2-hydroxy-2-phenylacetic acid (0.20 g, 0.46 mmol) in DMF (3 mL) was added with 1,1'-carbonyldiimidazole (0.221 g, 1.36 mmol) and the mixture stirred at room temperature for 15 minutes. 1-Methyl-4-piperidinol (0.209 g, 1.82 mmol) was added and the mixture stirred at 60° C. for 18 hours. The reaction mixture was diluted with ethyl acetate and washed with saturated aqueous sodium carbonate (×2) and brine (×2). The organic phase was dried over anhydrous magnesium sulfate, filtered and the filtrate evaporated at reduced pressure to afford the title compound (0.29 g, 0.100%).
 LCMS Method 1; Rt 2.86 min; ES+ 537.
 Step 5: 1-Methylpiperidin-4-yl (S)-2-(3-(5-((4-(((tert-butoxycarbonyl)((R)-2-((tert-butyldimethylsilyl)oxy)-2-(8-hydroxy-2-oxo-1,2-dihydroquinolin-5-yl)ethyl)amino)methyl)benzamido)methyl)thiophen-2-yl)phenyl)-2-hydroxy-2-phenylacetate
+<img> id-US20180016267A1-20180118-C00165.TIF </img>
 The title compound was prepared as described in Example 1 Step 7 and Step 8.
 LCMS Method 1; Rt 3.21 min; ES+ 987.
 Step 6: 1-Methylpiperidin-4-yl (S)-2-hydroxy-2-(3-(5-((4-((((R)-2-hydroxy-2-(8-hydroxy-2-oxo-1,2-dihydroquinolin-5-yl)ethyl)amino)methyl)benzamido)-methyl)thiophen-2-yl)phenyl)-2-phenylacetate (Compound 2)
+<img> id-US20180016267A1-20180118-C00166.TIF </img>
 The title compound was prepared as described in Example 1 Step 9.
 The following compounds were prepared as described in Example 2 with the appropriate alcohol used in Step 4.
 <table>
@@ -1030,27 +1110,28 @@ The following compounds were prepared as described in Example 2 with the appropr
 
 </header>
 Compound No. & Appropriate alcohol
-2A & 
-2B & 
-2C & 
-2D & 
-2E & 
-2F & 
-2G & 
-2H & 
+2A & <img> id-US20180016267A1-20180118-C00167.TIF </img>
+2B & <img> id-US20180016267A1-20180118-C00168.TIF </img>
+2C & <img> id-US20180016267A1-20180118-C00169.TIF </img>
+2D & <img> id-US20180016267A1-20180118-C00170.TIF </img>
+2E & <img> id-US20180016267A1-20180118-C00171.TIF </img>
+2F & <img> id-US20180016267A1-20180118-C00172.TIF </img>
+2G & <img> id-US20180016267A1-20180118-C00173.TIF </img>
+2H & <img> id-US20180016267A1-20180118-C00174.TIF </img>
 Com- & 
 pound & 
 No. & Structure
-2A & 
-2B & 
-2C & 
-2D & 
-2E & 
-2F & 
-2G & 
-2H & 
+2A & <img> id-US20180016267A1-20180118-C00175.TIF </img>
+2B & <img> id-US20180016267A1-20180118-C00176.TIF </img>
+2C & <img> id-US20180016267A1-20180118-C00177.TIF </img>
+2D & <img> id-US20180016267A1-20180118-C00178.TIF </img>
+2E & <img> id-US20180016267A1-20180118-C00179.TIF </img>
+2F & <img> id-US20180016267A1-20180118-C00180.TIF </img>
+2G & <img> id-US20180016267A1-20180118-C00181.TIF </img>
+2H & <img> id-US20180016267A1-20180118-C00182.TIF </img>
 </table>
 Example 3-(1-Benzylpiperidin-4-yl)methyl (S)-2-hydroxy-2-(3-(1-(4-(2-(((R)-2-hydroxy-2-(8-hydroxy-2-oxo-1,2-dihydroquinolin-5-yl)ethyl)amino)ethyl)benzoyl)-1,2,3,6-tetrahydropyridin-4-yl)phenyl)-2-phenylacetate (Compound no. 3)
+<img> id-US20180016267A1-20180118-C00183.TIF </img>
 The title compounds was prepared according to Example 1 with tert-butyl 4-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)-3,6-dihydropyridine-1(2H)-carboxylate used in Step 6 and (R)-4-(2-((tert-butoxycarbonyl)(2-((tert-butyldimethylsilyl)oxy)-2-(8-hydroxy-2-oxo-1,2-dihydroquinolin-5-yl)ethyl)amino)ethyl)benzoic acid used in Step 8.
 The following compounds were prepared as described in Example 3 with the appropriate boronate species and acid in the relevant steps.
 <table>
@@ -1058,34 +1139,37 @@ The following compounds were prepared as described in Example 3 with the appropr
 
 </header>
 Compound No. & Appropriate boronate & Acid
-3A &  & 
-3B &  & 
-3C &  & 
-3D &  & 
-3E &  & 
-3F &  & 
-3G &  & 
-3H &  & 
-3I &  & 
-3J &  & 
+3A & <img> id-US20180016267A1-20180118-C00184.TIF </img> & <img> id-US20180016267A1-20180118-C00185.TIF </img>
+3B & <img> id-US20180016267A1-20180118-C00186.TIF </img> & <img> id-US20180016267A1-20180118-C00187.TIF </img>
+3C & <img> id-US20180016267A1-20180118-C00188.TIF </img> & <img> id-US20180016267A1-20180118-C00189.TIF </img>
+3D & <img> id-US20180016267A1-20180118-C00190.TIF </img> & <img> id-US20180016267A1-20180118-C00191.TIF </img>
+3E & <img> id-US20180016267A1-20180118-C00192.TIF </img> & <img> id-US20180016267A1-20180118-C00193.TIF </img>
+3F & <img> id-US20180016267A1-20180118-C00194.TIF </img> & <img> id-US20180016267A1-20180118-C00195.TIF </img>
+3G & <img> id-US20180016267A1-20180118-C00196.TIF </img> & <img> id-US20180016267A1-20180118-C00197.TIF </img>
+3H & <img> id-US20180016267A1-20180118-C00198.TIF </img> & <img> id-US20180016267A1-20180118-C00199.TIF </img>
+3I & <img> id-US20180016267A1-20180118-C00200.TIF </img> & <img> id-US20180016267A1-20180118-C00201.TIF </img>
+3J & <img> id-US20180016267A1-20180118-C00202.TIF </img> & <img> id-US20180016267A1-20180118-C00203.TIF </img>
 Compound & 
 No. & Structure
-3A & 
-3B & 
-3C & 
-3D & 
-3E & 
-3F & 
-3G & 
-3H & 
-3I & 
-3J & 
+3A & <img> id-US20180016267A1-20180118-C00204.TIF </img>
+3B & <img> id-US20180016267A1-20180118-C00205.TIF </img>
+3C & <img> id-US20180016267A1-20180118-C00206.TIF </img>
+3D & <img> id-US20180016267A1-20180118-C00207.TIF </img>
+3E & <img> id-US20180016267A1-20180118-C00208.TIF </img>
+3F & <img> id-US20180016267A1-20180118-C00209.TIF </img>
+3G & <img> id-US20180016267A1-20180118-C00210.TIF </img>
+3H & <img> id-US20180016267A1-20180118-C00211.TIF </img>
+3I & <img> id-US20180016267A1-20180118-C00212.TIF </img>
+3J & <img> id-US20180016267A1-20180118-C00213.TIF </img>
 </table>
 Example 4-(1-Benzylpiperidin-4-yl)methyl (S)-2-hydroxy-2-(3-(2-((4-((((R)-2-hydroxy-2-(8-hydroxy-2-oxo-1,2-dihydroquinolin-5-yl)ethyl)amino)methyl)benzamido)-methyl)pyrimidin-5-yl)phenyl)-2-phenylacetate (Compound 4)
+<img> id-US20180016267A1-20180118-C00214.TIF </img>
 Step 1: (1-Benzylpiperidin-4-yl)methyl (S)-2-(3-(2-(((tert-butoxycarbonyl)amino)-methyl)pyrimidin-5-yl)phenyl)-2-hydroxy-2-phenylacetate
+<img> id-US20180016267A1-20180118-C00215.TIF </img>
 A solution of (1-benzylpiperidin-4-yl)methyl (S)-2-hydroxy-2-phenyl-2-(3-(((trifluoromethyl)sulfonyl)oxy)phenyl)acetate (0.3 g, 0.53 mmol) in 1,4-dioxane (5 mL) was added with potassium carbonate (0.16 g, 1.59 mmol and bis(pinacolato)diboron (0.15 g, 0.58 mmol). The mixture was thoroughly de-gassed and then treated with Pd(dppf)Cl2 (0.043 g. 0.053 mmol). The resultant mixture was heated at 80° C. for 1 hour. An additional portion of Pd(dppf)Cl2 (0.043 g. 0.053 mmol) was added and heating continued for a further 1 hour. The reaction mixture was cooled to room temperature. A solution of tert-butyl ((5-chloropyrimidin-2-yl)methyl)carbamate (0.25 g, 0.87 mmol) in 1,4-dioxane (2 mL) was added followed by an aqueous solution of potassium carbonate (1.8M, 0.8 mL, 1.4 mmol). The reaction mixture was thoroughly de-gassed and then treated with Pd(dppf)Cl2 (0.043 g. 0.053 mmol). The resultant mixture was heated at 80° C. for 1 hour. An additional portion of Pd(dppf)Cl2 (0.043 g. 0.053 mmol) was added and heating continued for a further 1 hour. The mixture was diluted with ethyl acetate and washed with brine. The organic phase was dried over anhydrous magnesium sulfate, filtered and the filtrate evaporated at reduced pressure. The residue was purified by flash column chromatography (eluent-100% DCM to 9:1 DCM/methanol) to afford the title compound (0.17 g, 52%).
 1H NMR (400 MHz, CDCl3); δ 8.84 (s, 2H), 7.63 (s, 1H), 7.53-7.24 (m, 14H), 5.6 (s, 1H), 4.64-4.62 (m, 2H), 4.14 (s, 2H), 3.46 (s, 2H), 2.84-2.77 (m, 2H), 1.92-1.88 (m, 2H), 1.66-1.52 (m, 14H).
 Step 2: 1-Benzylpiperidin-4-yl)methyl (S)-2-hydroxy-2-(3-(2-((4-((((R)-2-hydroxy-2-(8-hydroxy-2-oxo-1,2-dihydroquinolin-5-yl)ethyl)amino)methyl)benzamido)-methyl)pyrimidin-5-yl)phenyl)-2-phenylacetate (Compound 4)
+<img> id-US20180016267A1-20180118-C00216.TIF </img>
 The title compounds was prepared according to Example 1 with (1-benzylpiperidin-4-yl)methyl (S)-2-(3-(2-(((tert-butoxycarbonyl)amino)methyl)pyrimidin-5-yl)phenyl)-2-hydroxy-2-phenylacetate used in Step 7 and (R)-4-(2-((tert-butoxycarbonyl)(2-((tert-butyldimethylsilyl)oxy)-2-(8-hydroxy-2-oxo-1,2-dihydroquinolin-5-yl)ethyl)amino)methyl)benzoic acid used in Step 8
 The following compounds were prepared as described in Example 4 with the appropriate chloride in Step 1 and acid in Step 2.
 <table>
@@ -1093,31 +1177,34 @@ The following compounds were prepared as described in Example 4 with the appropr
 
 </header>
 Compound No. & Appropriate chloride & Acid
-4A &  & 
-4B &  & 
-4C &  & 
-4D &  & 
-4E &  & 
-4F &  & 
-4G &  & 
-4H &  & 
+4A & <img> id-US20180016267A1-20180118-C00217.TIF </img> & <img> id-US20180016267A1-20180118-C00218.TIF </img>
+4B & <img> id-US20180016267A1-20180118-C00219.TIF </img> & <img> id-US20180016267A1-20180118-C00220.TIF </img>
+4C & <img> id-US20180016267A1-20180118-C00221.TIF </img> & <img> id-US20180016267A1-20180118-C00222.TIF </img>
+4D & <img> id-US20180016267A1-20180118-C00223.TIF </img> & <img> id-US20180016267A1-20180118-C00224.TIF </img>
+4E & <img> id-US20180016267A1-20180118-C00225.TIF </img> & <img> id-US20180016267A1-20180118-C00226.TIF </img>
+4F & <img> id-US20180016267A1-20180118-C00227.TIF </img> & <img> id-US20180016267A1-20180118-C00228.TIF </img>
+4G & <img> id-US20180016267A1-20180118-C00229.TIF </img> & <img> id-US20180016267A1-20180118-C00230.TIF </img>
+4H & <img> id-US20180016267A1-20180118-C00231.TIF </img> & <img> id-US20180016267A1-20180118-C00232.TIF </img>
 Com- & 
 pound & 
 No. & Structure
-4A & 
-4B & 
-4C & 
-4D & 
-4E & 
-4F & 
-4G & 
-4H & 
+4A & <img> id-US20180016267A1-20180118-C00233.TIF </img>
+4B & <img> id-US20180016267A1-20180118-C00234.TIF </img>
+4C & <img> id-US20180016267A1-20180118-C00235.TIF </img>
+4D & <img> id-US20180016267A1-20180118-C00236.TIF </img>
+4E & <img> id-US20180016267A1-20180118-C00237.TIF </img>
+4F & <img> id-US20180016267A1-20180118-C00238.TIF </img>
+4G & <img> id-US20180016267A1-20180118-C00239.TIF </img>
+4H & <img> id-US20180016267A1-20180118-C00240.TIF </img>
 </table>
 Example 5-(1-Benzylpiperidin-4-yl)methyl (S)-2-hydroxy-2-(3-(5-((4-((((R)-2-hydroxy-2-(8-hydroxy-2-oxo-1,2-dihydroquinolin-5-yl)ethyl)amino)methyl)benzamido)methyl)-thiophen-3-yl)phenyl)-2-phenylacetate (Compound 5)
+<img> id-US20180016267A1-20180118-C00241.TIF </img>
 Step 1: (1-Benzylpiperidin-4-yl)methyl (S)-2-(3-(5-(((tert-butoxycarbonyl)amino)methyl)thiophen-3-yl)phenyl)-2-hydroxy-2-phenylacetate
+<img> id-US20180016267A1-20180118-C00242.TIF </img>
 A solution of (1-benzylpiperidin-4-yl)methyl (S)-2-hydroxy-2-phenyl-2-(3-(((trifluoromethyl)sulfonyl)oxy)phenyl)acetate (0.25 g, 0.45 mmol) in ethanol (8 mL) was added with tert-butyl ((4-bromothiophen-2-yl)methyl)carbamate (0.143 g, 0.50 mmol), X-Phos-Pd-G2 (0.035 g, 0.05 mmol), X-Phos (0.043 g, 0.088 mmol), potassium acetate (0.13 g, 1.33 mmol) and hypodiboric acid (0.12 g, 1.33 mmol). The reaction was thoroughly de-gassed and then heated at 80° C. for 1.5 hour. An aqueous solution of potassium carbonate (1.8 M, 0.29 mL) was added the reaction thoroughly de-gassed and then heated at 80° C. for 1 hour. The reaction mixture was diluted with ethyl acetate and washed with brine. The organic phase was dried over anhydrous magnesium sulphate, filtered and the filtrate evaporated at reduced pressure. The residue was purified by flash column chromatography (eluent-0% iso-hexane to 100% ethyl acetate) to afford the title compound (0.13 g, 46%).
 1H NMR (400 MHz, DMSO-d6); δ 7.63-7.51 (m, 3H), 7.43-7.24 (m, 12H), 6.72 (s, 1H), 4.30 (d, J=5.8 Hz, 2H), 4.07 (d, J=6.1 Hz, 2H), 3.44 (s, 2H), 2.75 (d, J=10.6 Hz, 2H), 1.87 (dd, J=11.1, 11.1 Hz, 2H), 1.63-1.51 (m, 3H), 1.45 (s, 9H), 1.22-1.12 (m, 2H).
 Step 2: (1-Benzylpiperidin-4-yl)methyl (S)-2-hydroxy-2-(3-(5-((4-((((R)-2-hydroxy-2-(8-hydroxy-2-oxo-1,2-dihydroquinolin-5-yl)ethyl)amino)methyl)benzamido)methyl)-thiophen-3-yl)phenyl)-2-phenylacetate (Compound 5)
+<img> id-US20180016267A1-20180118-C00243.TIF </img>
 The title compounds was prepared according to Example 1 with (1-Benzylpiperidin-4-yl)methyl (S)-2-(3-(5-(((tert-butoxycarbonyl)amino)methyl)thiophen-3-yl)phenyl)-2-hydroxy-2-phenylacetate used in Step 7 and (R)-4-(2-((tert-butoxycarbonyl)(2-((tert-butyldimethylsilyl)oxy)-2-(8-hydroxy-2-oxo-1,2-dihydroquinolin-5-yl)ethyl)amino)methyl)benzoic acid used in Step 8.
 The following compounds were prepared as described in Example 5 with the appropriate halide in Step 1 and acid in Step 2.
 <table>
@@ -1125,36 +1212,43 @@ The following compounds were prepared as described in Example 5 with the appropr
 
 </header>
 Compound No. & Appropriate bromide & Acid
-5A &  & 
-5B &  & 
-5C &  & 
-5D &  & 
-5E &  & 
+5A & <img> id-US20180016267A1-20180118-C00244.TIF </img> & <img> id-US20180016267A1-20180118-C00245.TIF </img>
+5B & <img> id-US20180016267A1-20180118-C00246.TIF </img> & <img> id-US20180016267A1-20180118-C00247.TIF </img>
+5C & <img> id-US20180016267A1-20180118-C00248.TIF </img> & <img> id-US20180016267A1-20180118-C00249.TIF </img>
+5D & <img> id-US20180016267A1-20180118-C00250.TIF </img> & <img> id-US20180016267A1-20180118-C00251.TIF </img>
+5E & <img> id-US20180016267A1-20180118-C00252.TIF </img> & <img> id-US20180016267A1-20180118-C00253.TIF </img>
 Com- & 
 pound & 
 No. & Structure
-5A & 
-5B & 
-5C & 
-5D & 
-5E & 
+5A & <img> id-US20180016267A1-20180118-C00254.TIF </img>
+5B & <img> id-US20180016267A1-20180118-C00255.TIF </img>
+5C & <img> id-US20180016267A1-20180118-C00256.TIF </img>
+5D & <img> id-US20180016267A1-20180118-C00257.TIF </img>
+5E & <img> id-US20180016267A1-20180118-C00258.TIF </img>
 </table>
 Example 6-(1-Benzylpiperidin-4-yl)methyl (S)-2-hydroxy-2-(3-(4-(4-((((R)-2-hydroxy-2-(8-hydroxy-2-oxo-1,2-dihydroquinolin-5-yl)ethyl)amino)methyl)piperidine-1-carbonyl)pyridin-2-yl)phenyl)-2-phenylacetate (Compound 6)
+<img> id-US20180016267A1-20180118-C00259.TIF </img>
 Step 1: (R)-8-(Benzyloxy)-5-(2-(((1-benzylpiperidin-4-yl)methyl)amino)-1-((tert-butyldimethylsilyl)oxy)ethyl)quinolin-2(1H)-one
+<img> id-US20180016267A1-20180118-C00260.TIF </img>
 A mixture of (R)-8-(benzyloxy)-5-(2-bromo-1-((tert-butyldimethylsilyl)oxy)ethyl)quinolin-2(1H)-one (2.39 g, 4.90 mmol) in NMP (4 mL) was added with (1-benzylpiperidin-4-yl)methanamine (5 g, 24.5 mmol). The mixture was heated at 80° C. for 18 hours. The mixture was diluted with ethyl acetate and washed sequentially with water (×2) and brine (×2). The organic phase was dried over anhydrous magnesium sulfate and the filtrate was evaporated. The residue was purified by flash column chromatography (eluent-100% DCM to 40:1 DCM/7M NH3/MeOH) to afford the title compound (2.65 g, 88%).
 1H NMR (400 MHz, CDCl3); δ 9.19-9.15 (m, 1H), 8.30-8.28 (s, 1H), 7.43-7.41 (m, 5H), 7.31 (d, J=4.4 Hz, 5H), 7.12 (d, J=8.3 Hz, 1H), 7.00 (d, J=8.3 Hz, 1H), 6.66 (d, J=9.9 Hz, 1H); 5.16 (s, 2H), 5.15-5.10 (m, 1H), 3.49 (s, 2H), 2.95-2.84 (m, 3H), 2.71 (dd, J=4.0, 12.2 Hz, 1H), 2.56-2.43 (m, 2H), 1.94 (dd, J=11.7, 11.7 Hz, 2H), 1.51-1.39 (m, 2H), 1.30-1.22 (m, 3H), 0.87 (s, 9H), 0.06 (s, 3H), −0.19 (s, 3H).
 Step 2: (R)-tert-Butyl (2-(8-(benzyloxy)-2-oxo-1,2-dihydroquinolin-5-yl)-2-((tert-butyldimethylsilyl)oxy)ethyl)((1-benzylpiperidin-4-yl)methyl)carbamate
+<img> id-US20180016267A1-20180118-C00261.TIF </img>
 A stirred solution of (R)-8-(benzyloxy)-5-(2-(((1-benzylpiperidin-4-yl)methyl)amino)-1-((tert-butyldimethylsilyl)oxy)ethyl)quinolin-2(1H)-one (2.65 g, 4.33 mmol) in DCM (25 mL) was added with a solution of di-tert-butyldicarbonate (1.13 g, 5.18 mmol) in DCM (5 mL). The reaction mixture was stirred at room temperature for 16 hours. The solvent was evaporated under reduced pressure and the residue purified by flash column chromatography (eluent-100% DCM to 30:1 DCM/7M NH3/MeOH) to afford the title compound (2.83 g, 92%).
 1H NMR (400 MHz, DMSO-d6, 100° C.); δ 9.96 (s, 1H), 8.30 (d, J=9.9 Hz, 1H), 7.55 (d, J=7.3 Hz, 2H), 7.42-7.21 (m, 9H), 7.14 (d, J=8.3 Hz, 1H), 6.55 (d, J=9.9 Hz, 1H), 5.40-5.33 (m, 1H), 5.30 (s, 2H), 3.44 (s, 2H), 3.38 (d, J=6.1 Hz, 2H), 3.12-2.97 (m, 2H), 2.95 (s, 2H), 2.78-2.73 (m, 2H), 2.00-1.88 (m, 2H), 1.40 (s, 10H), 1.22-1.09 (m, 2H), 0.87 (s, 9H), 0.06 (s, 3H), −0.13 (s, 3H).
 Step 3: (R)-tert-Butyl (2-((tert-butyldimethylsilyl)oxy)-2-(8-hydroxy-2-oxo-1,2-dihydroquinolin-5-yl)ethyl)(piperidin-4-ylmethyl)carbamate
+<img> id-US20180016267A1-20180118-C00262.TIF </img>
 A stirred solution of (R)-tert-butyl (2-(8-(benzyloxy)-2-oxo-1,2-dihydroquinolin-5-yl)-2-((tert-butyldimethylsilyl)oxy)ethyl)((1-benzylpiperidin-4-yl)methyl)carbamate (2.80 g, 4.33 mmol) in ethanol (30 mL) was added with 10% Pd/C (2.8 g) and 1-methyl-1,4-cyclohexadiene (4.86 mL, 43.3 mmol). The reaction mixture was heated to reflux [Care-vigorous evolution of gas] and heated under reflux for 1 hour. The suspension was filtered and the filtrate evaporated under reduced pressure to afford the title compound (2.26 g, 98%).
 1H NMR (400 MHz, DMSO-d6, 100° C.); δ 8.26 (d, J=9.9 Hz, 1H), 7.05 (d, J=8.2 Hz, 1H), 7.01 (d, J=8.0 Hz, 1H), 6.53-6.49 (m, 1H), 5.37-5.35 (m, 1H), 3.22 (d, J=12.8 Hz, 2H), 3.08 (ddd, J=7.0, 14.3, 17.8 Hz, 2H), 2.83-2.72 (m, 2H), 1.84-1.76 (m, 1H), 1.71-1.61 (m, 2H), 1.43-1.41 (m, 14H), 0.87-0.85 (m, 9H), 0.02 (s, 3H), −0.14 (d, J=2.1 Hz, 3H).
 Step 4: tert-Butyl (S)-6-(3-(2-((1-benzylpiperidin-4-yl)methoxy)-1-hydroxy-2-oxo-1-phenylethyl)phenyl)pyrazine-2-carboxylate
+<img> id-US20180016267A1-20180118-C00263.TIF </img>
 The title compound was prepared as described in Example 5 Step 1 with tert-butyl 2-chloropyridine-4-carboxylate replacing tert-butyl ((4-bromothiophen-2-yl)methyl)carbamate.
 1H NMR (400 MHz, CDCl3); δ 8.74 (d, J=5.0 Hz, 1H), 8.30 (d, J=2.4 Hz, 1H), 8.17 (d, J=4.0 Hz, 2H), 8.00-7.98 (m, 1H), 7.70 (dd, J=1.3, 5.0 Hz, 1H), 7.52-7.40 (m, 4H), 7.35-7.30 (m, 7H), 4.23-4.07 (m, 2H), 3.76 (s, 2H), 3.08 (d, J=11.0 Hz, 2H), 2.18 (d, J=11.5 Hz, 2H), 1.78-1.71 (m, 1H), 1.61 (s, 9H), 1.59-1.46 (m, 4H).
 Step 5: (S)-2-(3-(2-((1-Benzylpiperidin-4-yl)methoxy)-1-hydroxy-2-oxo-1-phenylethyl)phenyl)isonicotinic acid
+<img> id-US20180016267A1-20180118-C00264.TIF </img>
 tert-Butyl (S)-6-(3-(2-((1-benzylpiperidin-4-yl)methoxy)-1-hydroxy-2-oxo-1-phenylethyl)phenyl)pyrazine-2-carboxylate (0.08 g, 0.13 mmol) was added with a solution of HCl in dioxane (4M, 10 mL) and stirred at room temperature for 18 hours. The solvent was evaporated at reduced pressure to afford the title compound which was used in the next step without characterization.
 Step 6: (1-Benzylpiperidin-4-yl)methyl (S)-2-hydroxy-2-(3-(4-(4-((((R)-2-hydroxy-2-(8-hydroxy-2-oxo-1,2-dihydroquinolin-5-yl)ethyl)amino)methyl)piperidine-1-carbonyl)pyridin-2-yl)phenyl)-2-phenylacetate (Compound 6)
+<img> id-US20180016267A1-20180118-C00265.TIF </img>
 The title compound was prepared as in Example 1 Step 8 and Step 9.
 The following compounds were prepared as described in Example 6 with the appropriate halide in Step 1.
 <table>
@@ -1162,28 +1256,32 @@ The following compounds were prepared as described in Example 6 with the appropr
 
 </header>
  & Compound No. & Appropriate bromide
- & 6A & 
- & 6B & 
- & 6C & 
- & 6D & 
- & 6E & 
- & 6F & 
+ & 6A & <img> id-US20180016267A1-20180118-C00266.TIF </img>
+ & 6B & <img> id-US20180016267A1-20180118-C00267.TIF </img>
+ & 6C & <img> id-US20180016267A1-20180118-C00268.TIF </img>
+ & 6D & <img> id-US20180016267A1-20180118-C00269.TIF </img>
+ & 6E & <img> id-US20180016267A1-20180118-C00270.TIF </img>
+ & 6F & <img> id-US20180016267A1-20180118-C00271.TIF </img>
 Compound No. & Structure
-6A & 
-6B & 
-6C & 
-6D & 
-6E & 
-6F & 
+6A & <img> id-US20180016267A1-20180118-C00272.TIF </img>
+6B & <img> id-US20180016267A1-20180118-C00273.TIF </img>
+6C & <img> id-US20180016267A1-20180118-C00274.TIF </img>
+6D & <img> id-US20180016267A1-20180118-C00275.TIF </img>
+6E & <img> id-US20180016267A1-20180118-C00276.TIF </img>
+6F & <img> id-US20180016267A1-20180118-C00277.TIF </img>
 </table>
 Example 7-(1-Benzylpiperidin-4-yl)methyl (S)-2-hydroxy-2-(3-(1-(4-((((R)-2-hydroxy-2-(8-hydroxy-2-oxo-1,2-dihydroquinolin-5-yl)ethyl)amino)methyl)benzoyl)piperidin-4-yl)phenyl)-2-phenylacetate (Compound 7)
+<img> id-US20180016267A1-20180118-C00278.TIF </img>
 Step 1: tert-Butyl (S)-4-(3-(1-hydroxy-2-methoxy-2-oxo-1-phenylethyl)phenyl)-3,6-dihydropyridine-1 (2H)-carboxylate
+<img> id-US20180016267A1-20180118-C00279.TIF </img>
 The title compound was prepared as described in Example 2 Step 1 and 2.
 1H NMR (400 MHz, CDCl3); δ 7.44-7.28 (m, 10H), 5.99 (brs, 1H), 4.05 (s, 2H), 3.87 (s, 3H), 3.62-3.57 (m, 2H), 2.48 (br s, 2H), 1.48 (s, 9H).
 Step 2: tert-butyl (S)-4-(3-(1-hydroxy-2-methoxy-2-oxo-1-phenylethyl)phenyl)piperidine-1-carboxylate
+<img> id-US20180016267A1-20180118-C00280.TIF </img>
 A solution of tert-butyl (S)-4-(3-(1-hydroxy-2-methoxy-2-oxo-1-phenylethyl)phenyl)-3,6-dihydropyridine-1(2H)-carboxylate (4.9 g, 11.58 mmol) in ethanol (100 mL) was added with palladium on carbon (2.5 g) and 1-methyl-1,4-cyclohexadiene (6.50 mL, 57.9 mmol). The reaction mixture heated to reflux and heated at this temperature for two hours. The suspension was filtered and the filtrate evaporated at reduced pressure to afford the title compound (3.2 g, 65%).
 1H NMR (400 MHz, CDCl3); δ 7.43-7.39 (m, 2H), 7.36-7.27 (m, 6H), 7.24-7.22 (m, 1H), 7.16 (d, J=7.3 Hz, 1H), 4.17 (s, 2H), 3.86 (s, 3H), 3.72 (dd, J=6.1, 6.1 Hz, 1H), 2.77 (dd, J=12.0, 12.0 Hz, 2H), 2.67-2.58 (m, 1H), 2.44 (dd, J=6.1, 6.1 Hz, 1H), 1.79 (d, J=12.9 Hz, 2H), 1.48 (s, 9H).
 Step 3: (1-Benzylpiperidin-4-yl)methyl (S)-2-hydroxy-2-(3-(1-(4-((((R)-2-hydroxy-2-(8-hydroxy-2-oxo-1,2-dihydroquinolin-5-yl)ethyl)amino)methyl)benzoyl)piperidin-4-yl)phenyl)-2-phenylacetate (Compound 7)
+<img> id-US20180016267A1-20180118-C00281.TIF </img>
 The title compound was prepared as described in Example 2 Step 3, 4, 5 and Step 6.
 The following compounds were prepared as described in Example 7.
 <table>
@@ -1202,16 +1300,19 @@ No. & Structure
 <header>
 
 </header>
-7A & 
-7B & 
-7C & 
-7D & 
+7A & <img> id-US20180016267A1-20180118-C00282.TIF </img>
+7B & <img> id-US20180016267A1-20180118-C00283.TIF </img>
+7C & <img> id-US20180016267A1-20180118-C00284.TIF </img>
+7D & <img> id-US20180016267A1-20180118-C00285.TIF </img>
 </table>
 Example 8-(1-Benzylpiperidin-4-yl)methyl (S)-2-hydroxy-2-(3-(1-((4-(2-(((R)-2-hydroxy-2-(8-hydroxy-2-oxo-1,2-dihydroquinolin-5-yl)ethyl)amino)ethyl)benzoyl)-glycyl)-1,2,3,6-tetrahydropyridin-4-yl)phenyl)-2-phenylacetate (Compound 8)
+<img> id-US20180016267A1-20180118-C00286.TIF </img>
 Step 1: (1-Benzylpiperidin-4-yl)methyl (S)-2-(3-(1-((tert-butoxycarbonyl)glycyl)-1,2,3,6-tetrahydropyridin-4-yl)phenyl)-2-hydroxy-2-phenylacetate
+<img> id-US20180016267A1-20180118-C00287.TIF </img>
 The title compounds was prepared according to Example 1 with tert-butyl 4-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)-3,6-dihydropyridine-1(2H)-carboxylate used in Step 6 and Boc-glycine used in Step 8.
 1H NMR (400 MHz, CDCl3); δ 7.45 (d, J=5.5 Hz, 1H), 7.42-7.38 (m, 2H), 7.34-7.27 (m, 11H), 7.25-7.22 (m, 1H), 6.02 and 5.94 (s, 1H, combined), 5.55 (s, 1H), 4.26-4.20 (m, 2H), 4.15-4.09 (m, 3H), 4.03-3.96 (m, 3H), 3.80 (dd, J=5.8, 5.8 Hz, 1H), 3.55 (dd, J=5.6, 5.6 Hz, 1H), 3.45 (s, 2H), 2.80 (d, J=11.7 Hz, 2H), 2.50-2.50 (m, 2H), 1.91-1.83 (m, 2H), 1.46 (s, 9H), 1.28-0.83 (m, 3H).
 Step 2: (1-Benzylpiperidin-4-yl)methyl (S)-2-hydroxy-2-(3-(1-((4-(2-(((R)-2-hydroxy-2-(8-hydroxy-2-oxo-1,2-dihydroquinolin-5-yl)ethyl)amino)ethyl)benzoyl)glycyl)-1,2,3,6-tetrahydropyridin-4-yl)phenyl)-2-phenylacetate (Compound 8)
+<img> id-US20180016267A1-20180118-C00288.TIF </img>
 The title compound was prepared as described in Example 1 with (1-benzylpiperidin-4-yl)methyl (S)-2-(3-(1-((tert-butoxycarbonyl)glycyl)-1,2,3,6-tetrahydropyridin-4-yl)phenyl)-2-hydroxy-2-phenylacetate used in Step 7 and the subsequent product used in Step 8 (coupling with (R)-4-(2-((tert-butoxycarbonyl)(2-((tert-butyldimethylsilyl)oxy)-2-(8-hydroxy-2-oxo-1,2-dihydroquinolin-5-yl)ethyl)amino)ethyl)benzoic acid) and Step 9.
 The following compounds were prepared as described in Example 8.
 <table>
@@ -1227,35 +1328,46 @@ No. & Structure
 <header>
 
 </header>
-8A & 
-8B & 
-8C & 
-8D & 
-8E & 
-8F & 
+8A & <img> id-US20180016267A1-20180118-C00289.TIF </img>
+8B & <img> id-US20180016267A1-20180118-C00290.TIF </img>
+8C & <img> id-US20180016267A1-20180118-C00291.TIF </img>
+8D & <img> id-US20180016267A1-20180118-C00292.TIF </img>
+8E & <img> id-US20180016267A1-20180118-C00293.TIF </img>
+8F & <img> id-US20180016267A1-20180118-C00294.TIF </img>
 </table>
 Example 9-(1-Benzylpiperidin-4-yl)methyl (S)-2-hydroxy-2-(3-(6-(((1R,3S)-3-(4-((((R)-2-hydroxy-2-(8-hydroxy-2-oxo-1,2-dihydroquinolin-5-yl)ethyl)amino)methyl)-benzamido)cyclobutyl)carbamoyl)pyrazin-2-yl)phenyl)-2-phenylacetate (Compound 9)
+<img> id-US20180016267A1-20180118-C00295.TIF </img>
 Step 1: tert-Butyl ((trans)-3-(6-chloropyrazine-2-carboxamido)cyclobutyl)carbamate
+<img> id-US20180016267A1-20180118-C00296.TIF </img>
 A stirred solution of 6-chloropyrazine-2-carboxylic acid (0.25 g, 1.58 mmol) in DMF (3 mL) was added with DIPEA (0.42 mL, 2.37 mmol) and HATU (0.72 g, 1.9 mmol). The reaction mixture was stirred at room temperature for 20 minutes. A solution of tert-butyl (trans-3-aminocyclobutyl)carbamate (0.32 g, 1.74 mmol) in DMF (3 mL) was added and the reaction mixture was stirred at room temperature for 18 hours. The reaction mixture was diluted with ethyl acetate and was washed sequentially with saturated aqueous sodium hydrogen carbonate (×2) and brine. The organic phase was dried over anhydrous magnesium sulfate, filtered and the filtrate evaporated at reduced pressure to afford the title compound (0.530 g, 93%).
 1H NMR (400 MHz, DMSO-d6); δ 9.18 (d, J=7.5 Hz, 1H), 9.11 (s, 1H), 9.01 (s, 1H), 7.30 (d, J=7.0 Hz, 1H), 4.54-4.49 (m, 1H), 4.08-4.01 (m, 1H), 2.70 (s, 1H), 2.48-2.39 (m, 2H), 2.27-2.19 (m, 2H), 1.40 (s, 9H).
 Step 2: tert-Butyl (trans-3-(6-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)pyrazine-2-carboxamido)cyclobutyl)carbamate
+<img> id-US20180016267A1-20180118-C00297.TIF </img>
 A solution of tert-butyl ((trans)-3-(6-chloropyrazine-2-carboxamido)cyclobutyl)carbamate (0.196 g, 0.66 mmol), bis-pinacolatodiboronate ester (0.168 g, 0.66 mmol) and potassium carbonate (0.177 g, 1.8 mmol) in 1,4-dioxane (5 mL) was degassed with nitrogen for 5 minutes. Pd(dppf)Cl2 DCM adduct (0.049 g, 0.06 mmol) was added and the reaction degassed for a further 5 minutes. The reaction mixture was heated at 80° C. for 3 hours. The reaction mixture was diluted with ethyl acetate and was washed sequentially with saturated aqueous sodium hydrogen carbonate (×2) and brine. The organic phase was dried over anhydrous magnesium sulfate, filtered and the filtrate evaporated at reduced pressure to afford the title compound which was used directly in the next step.
 Step 3: (1-Benzylpiperidin-4-yl)methyl (S)-2-hydroxy-2-(3-(6-(((1R,3S)-3-(4-((((R)-2-hydroxy-2-(8-hydroxy-2-oxo-1,2-dihydroquinolin-5-yl)ethyl)amino)methyl)benzamido)cyclobutyl)carbamoyl)pyrazin-2-yl)phenyl)-2-phenylacetate (Compound 9)
+<img> id-US20180016267A1-20180118-C00298.TIF </img>
 The title compound was prepared as described in Example 1 with tert-butyl (trans-3-(6-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)pyrazine-2-carboxamido)cyclobutyl)carbamate used in place of (5-(((tert-butoxycarbonyl)amino)methyl)thiophen-2-yl)boronic acid in Step 6 and the product from this step used in the subsequent steps in Example 1.
 Example 10-(1-Benzylpiperidin-4-yl)methyl (S)-2-hydroxy-2-(3-(6-((3-(((R)-2-hydroxy-2-(8-hydroxy-2-oxo-1,2-dihydroquinolin-5-yl)ethyl)amino)propyl)carbamoyl)pyrazin-2-yl)phenyl)-2-phenylacetate (Compound 10)
+<img> id-US20180016267A1-20180118-C00299.TIF </img>
 Step 1: 6-Chloro-N-(3,3-diethoxypropyl)pyrazine-2-carboxamide
+<img> id-US20180016267A1-20180118-C00300.TIF </img>
 The title compound was prepared as described in Example 9 Step 1.
 1H NMR (400 MHz, CDCl3); δ 9.30-9.28 (m, 1H), 8.75-8.72 (m, 1H), 8.37-8.28 (m, 1H), 4.66 (dd, J=4.9, 4.9 Hz, 1H), 3.78-3.69 (m, 2H), 3.65-3.50 (m, 4H), 1.99-1.93 (m, 2H), 1.29 (dd, J=7.1, 7.1 Hz, 6H).
 Step 2: N-(3,3-Diethoxypropyl)-6-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)pyrazine-2-carboxamide
+<img> id-US20180016267A1-20180118-C00301.TIF </img>
 The title compound was prepared as described in Example 9 Step 2 and used immediately with no purification.
 Step 3: (1-Benzylpiperidin-4-yl)methyl (S)-2-(3-(6-((3,3-diethoxypropyl)carbamoyl)-pyrazin-2-yl)phenyl)-2-hydroxy-2-phenylacetate
+<img> id-US20180016267A1-20180118-C00302.TIF </img>
 The title compound was prepared as described in Example 1 Step 6 with N-(3,3-diethoxypropyl)-6-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)pyrazine-2-carboxamide used in place of added (5-(((tert-butoxycarbonyl)amino)methyl)thiophen-2-yl)boronic acid. The product was used in the next step with no purification.
 Step 4: (R)-5-(2-Amino-1-hydroxyethyl)-8-hydroxyquinolin-2(1H)-one hydrochloride
+<img> id-US20180016267A1-20180118-C00303.TIF </img>
 A solution of (R)-5-(2-azido-1-((tert-butyldimethylsilyl)oxy)ethyl)-8-(benzyloxy)quinolin-2(1H)-one (4.50 g, 10.0 mmol) in ethanol (50 mL) was added with 10% palladium on charcoal (4.50 g) followed by 1-methyl-1,4-cyclohexadiene (11.0 mL, 97.9 mmol). The reaction was warmed to 60° C. and then stirred at 60° C. for 2 hours. The reaction mixture was allowed to cool and filtered through a pad of celite. The filtercake was washed with further ethanol and the filtrate was evaporated under reduced pressure. The residue was evaporated from iso-propanol (×2) and dissolved in iso-propanol (30 mL). HCl in dioxane (4M, 50 mL, 200 mmol) was added and the reaction mixture stirred at room temperature for 18 hours. The resulting suspension was filtered, the filtercake washed with di ethyl ether and the solid dried under vacuum in the presence of P2O5 to afford the title compound (1.65 g, 62%).
 1H NMR (400 MHz, MeOD): δ 7.71 (d, J=9.8 Hz, 1H), 6.57 (d, J=8.2 Hz, 1H), 6.31 (d, J=8.2 Hz, 1H), 6.02 (dd, J=9.8, 6.5 Hz, 1H), 4.58 (dd, J=9.6, 3.5 Hz, 1H), 2.47-2.31 (m, 2H).
 Step 5: (1-Benzylpiperidin-4-yl)methyl (S)-2-hydroxy-2-(3-(6-((3-(((R)-2-hydroxy-2-(8-hydroxy-2-oxo-1,2-dihydroquinolin-5-yl)ethyl)amino)propyl)carbamoyl)pyrazin-2-yl)phenyl)-2-phenylacetate (Compound 10)
+<img> id-US20180016267A1-20180118-C00304.TIF </img>
 A stirred solution of (1-benzylpiperidin-4-yl)methyl (S)-2-(3-(6-((3,3-diethoxypropyl)carbamoyl)pyrazin-2-yl)phenyl)-2-hydroxy-2-phenylacetate (0.66 g, 0.90 mmol) in THF (5 mL) was added with 10% aqueous hydrochloric acid (5 mL). The resulting mixture was stirred at room temperature for 2 hours. The mixture was added with 10% aqueous potassium carbonate and then extracted with ethyl acetate (×2). The combined organic phases were dried and the filtrate was evaporated under reduced pressure. The residue was dissolved in methanol (3 mL) and added to a pre-stirred (10 minutes) mixture of (R)-5-(2-amino-1-hydroxyethyl)-8-hydroxyquinolin-2(1H)-one hydrochloride (0.30 g, 1.18 mmol, 80% purity) and triethylamine (0.20 g, 2 mmol) in methanol (3 mL). This mixture was stirred at room temperature for 1 hour and then sodium triacetoxyborohydride (0.63 g, 3.0 mmol) followed by acetic acid (0.15 mL, 4.0 mmol) were added. The reaction mixture was stirred for a further 1 hour. The reaction mixture was diluted with iso-butanol and washed with water. The aqueous phase was extracted with further iso-butanol. The combined iso-butanol extracts were evaporated under reduced pressure. The residue was purified by reverse phase preparative HPLC to afford the title compound.
 Example 11-(1-Benzyl-4-methylpiperidin-4-yl)methyl (S)-2-(3-(5-((2-chloro-4-((((R)-2-hydroxy-2-(8-hydroxy-2-oxo-1,2-dihydroquinolin-5-yl)ethyl)amino)methyl)-5-methoxybenzamido)methyl)thiophen-2-yl)phenyl)-2-hydroxy-2-phenylacetate (Compound 11)
+<img> id-US20180016267A1-20180118-C00305.TIF </img>
 The title compound was prepared as described in Example 2 with the requisite alcohol in Step 4 and the requisite acid in Step 5.
 <table>
 <header>
@@ -1267,9 +1379,10 @@ Requisite acid & Requisite alcohol
 <header>
 
 </header>
- & 
+<img> id-US20180016267A1-20180118-C00306.TIF </img> & <img> id-US20180016267A1-20180118-C00307.TIF </img>
 </table>
 Example 12-(1-Benzylpiperidin-4-yl)methyl (S)-2-hydroxy-2-(3-(5-((5-((((R)-2-hydroxy-2-(8-hydroxy-2-oxo-1,2-dihydroquinolin-5-yl)ethyl)amino)methyl)-1,3-dioxoisoindolin-2-yl)methyl)thiophen-2-yl)phenyl)-2-phenylacetate (Compound 12)
+<img> id-US20180016267A1-20180118-C00308.TIF </img>
 The title compound was prepared as described in Example 1 with the requisite acid used in Step 8. The compound was formed by an acid promoted cyclisation of the amide onto the nitrile in the final de-protection step.
 <table>
 <header>
@@ -1281,25 +1394,35 @@ Requisite acid
 <header>
 
 </header>
+<img> id-US20180016267A1-20180118-C00309.TIF </img>
 </table>
 Example 13-(1-Benzylpiperidin-4-yl)methyl (S)-2-hydroxy-2-(3-(1-((4-(2-(((R)-2-hydroxy-2-(8-hydroxy-2-oxo-1,2-dihydroquinolin-5-yl)ethyl)amino)ethyl)benzoyl)-glycyl)piperidin-4-yl)phenyl)-2-phenylacetate (Compound 13)
+<img> id-US20180016267A1-20180118-C00310.TIF </img>
 The title compound was prepared as described in Example 7 and Example 8.
 Example 14-(1-Benzylpiperidin-4-yl)methyl (S)-2-hydroxy-2-(3-(3-((4-((((R)-2-hydroxy-2-(8-hydroxy-2-oxo-1,2-dihydroquinolin-5-yl)ethyl)amino)methyl)-benzyl)carbamoyl)-1-methyl-1H-pyrazol-5-yl)phenyl)-2-phenylacetate (Compound 14)
+<img> id-US20180016267A1-20180118-C00311.TIF </img>
 Step 1: N-(4-(1,3-Dioxolan-2-yl)benzyl)-5-bromo-1-methyl-1H-pyrazole-3-carboxamide
+<img> id-US20180016267A1-20180118-C00312.TIF </img>
 The title compound was prepared as described in Example 9 Step 1.
 1H NMR (400 MHz, CDCl3); δ 7.46 (d, J=8.0 Hz, 2H), 7.37-7.33 (m, 2H), 7.05 (s, 1H), 6.84 (s, 1H), 5.81 (s, 1H), 4.60 (d, J=6.0 Hz, 2H), 4.14-4.01 (m, 4H), 3.86 (s, 3H).
 Step 2: N-(4-(1,3-Dioxolan-2-yl)benzyl)-1-methyl-5-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)-1H-pyrazole-3-carboxamide
+<img> id-US20180016267A1-20180118-C00313.TIF </img>
 The title compound was prepared as described in Example 9 Step 2. The material used directly in the next step.
 Step 3: (1-Benzylpiperidin-4-yl)methyl (S)-2-(3-(3-((4-(1,3-dioxolan-2-yl)benzyl)carbamoyl)-1-methyl-1H-pyrazol-5-yl)phenyl)-2-hydroxy-2-phenylacetate
+<img> id-US20180016267A1-20180118-C00314.TIF </img>
 The title compound was prepared as described in Example 1 Step 6 with N-(4-(1,3-dioxolan-2-yl)benzyl)-1-methyl-5-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)-1H-pyrazole-3-carboxamide used in place of added (5-(((tert-butoxycarbonyl)amino)methyl)thiophen-2-yl)boronic acid.
 LCMS Method 1; Rt 2.86 min; ES+ 701.3.
 Step 4: (1-Benzylpiperidin-4-yl)methyl (S)-2-hydroxy-2-(3-(3-((4-((((R)-2-hydroxy-2-(8-hydroxy-2-oxo-1,2-dihydroquinolin-5-yl)ethyl)amino)methyl)benzyl)carbamoyl)-1-methyl-1H-pyrazol-5-yl)phenyl)-2-phenylacetate (Compound 14)
+<img> id-US20180016267A1-20180118-C00315.TIF </img>
 The title compound was prepared as described in Example 10 Step 5.
+<img> id-US20180016267A1-20180118-C00316.TIF </img>
 Example 15-(1-benzylpiperidin-4-yl)methyl (S)-2-hydroxy-2-(4-(5-((4-((((R)-2-hydroxy-2-(8-hydroxy-2-oxo-1,2-dihydroquinolin-5-yl)ethyl)amino)methyl)benzamido)methyl)-thiophen-2-yl)phenyl)-2-phenylacetate×2 HCOOH (Compound 15)
 Step 1: (1-benzylpiperidin-4-yl)methyl (S)-2-(4-(5-((4-(((tert-butoxycarbonyl)((R)-2-((tert-butyldimethylsilyl)oxy)-2-(8-hydroxy-2-oxo-1,2-dihydroquinolin-5-yl)ethyl)amino)methyl)benzamido)methyl)thiophen-2-yl)phenyl)-2-hydroxy-2-phenylacetate
+<img> id-US20180016267A1-20180118-C00317.TIF </img>
 (1-Benzylpiperidin-4-yl)methyl (S)-2-(4-(5-(aminomethyl)thiophen-2-yl)phenyl)-2-hydroxy-2-phenylacetate×2 HCl (42 mg, 0.080 mmol)-prepared as described in Procedure F steps 6-11- and (R)-4-(((tert-butoxycarbonyl)(2-((tert-butyldimethylsilyl)-oxy)-2-(8-hydroxy-2-oxo-1,2-dihydroquinolin-5-yl)ethyl)amino)methyl)benzoic acid -prepared as described in Procedure A steps 1-5-(45.4 mg, 0.80 mmol), DIEA (0.042 ml, 0.24 mmol), TBTU (28.2 mg, 0.88 mmol) were dissolved in DMF (1.5 ml) and stirred overnight at rt. Reaction mixture was partitioned between ethyl acetate and saturated NaHCO3 aq, washed twice with saturated NaClaq, organic layer anhydrified with Na2SO4 and evaporated to dryness to give an oil that was purified on reverse phase to give the title compound (39 mg, 45%) as a white solid.
 UPLC-MS Method 3; Rt 1.10 min, ES+ 1076.84
 Step 2: (1-benzylpiperidin-4-yl)methyl (S)-2-hydroxy-2-(4-(5-((4-((((R)-2-hydroxy-2-(8-hydroxy-2-oxo-1,2-dihydroquinolin-5-yl)ethyl)amino)methyl)benzamido)methyl)-thiophen-2-yl)phenyl)-2-phenylacetate×2 HCOOH
+<img> id-US20180016267A1-20180118-C00318.TIF </img>
 (1-Benzylpiperidin-4-yl)methyl (S)-2-(4-(5-((4-(((tert-butoxycarbonyl)((R)-2-((tert-butyldimethylsilyl)oxy)-2-(8-hydroxy-2-oxo-1,2-dihydroquinolin-5-yl)ethyl)amino)methyl)benzamido)methyl)thiophen-2-yl)phenyl)-2-hydroxy-2-phenylacetate (39 mg, 0.036 mmol) was dissolved in MeCN (0.7 ml) and HClaq 6 M (1.2 ml) was added. The mixture was stirred for 1 h at room temperature and then submitted to reversed phase flash chromatography (100:0 to 0:100 A/B, A: water/MeCN 95:5+0.1% HCOOH, B: MeCN/water 95:5+0.1% HCOOH) to afford the title compound (19.4 mg, 62%).
 1H NMR (400 MHz, DMSO-d6) δ ppm 10.28 (br. s., 1H), 9.12 (s, 1H), 8.05-8.25 (m, 3H), 7.84 (d, J=8.2 Hz, 2H), 7.56 (d, J=8.6 Hz, 2H), 7.44 (d, J=8.2 Hz, 2H), 7.14-7.38 (m, 14H), 7.06 (d, J=8.2 Hz, 1H), 7.01 (d, J=3.5 Hz, 1H), 6.91 (d, J=8.2 Hz, 1H), 6.63 (br. s., 1H), 6.48 (d, J=9.7 Hz, 1H), 5.11 (dd, J=7.7, 4.4 Hz, 1H), 4.62 (d, J=5.7 Hz, 2H), 4.00 (d, J=6.2 Hz, 2H), 3.87 (s, 2H), 3.40 (s, 2H), 2.62-2.82 (m, 4H), 1.69-1.93 (m, 2H), 1.46 (d, J=13.5 Hz, 3H), 1.12 (dd, J=12.0, 3.0 Hz, 2H)
 UPLC-MS Method 4; Rt 4.69 min, ES+ 863.1
@@ -1310,42 +1433,51 @@ Compounds also prepared in the same fashion using the appropriate acid and base 
 </header>
 Cpd. &  & 
 No. & Appropriate acid & Appropriate amine
-15A &  & 
-15B &  & 
-15C &  & 
-15D &  & 
-15E &  & 
-15F &  & 
+15A & <img> id-US20180016267A1-20180118-C00319.TIF </img> & <img> id-US20180016267A1-20180118-C00320.TIF </img>
+15B & <img> id-US20180016267A1-20180118-C00321.TIF </img> & <img> id-US20180016267A1-20180118-C00322.TIF </img>
+15C & <img> id-US20180016267A1-20180118-C00323.TIF </img> & <img> id-US20180016267A1-20180118-C00324.TIF </img>
+15D & <img> id-US20180016267A1-20180118-C00325.TIF </img> & <img> id-US20180016267A1-20180118-C00326.TIF </img>
+15E & <img> id-US20180016267A1-20180118-C00327.TIF </img> & <img> id-US20180016267A1-20180118-C00328.TIF </img>
+15F & <img> id-US20180016267A1-20180118-C00329.TIF </img> & <img> id-US20180016267A1-20180118-C00330.TIF </img>
 Cpd. & 
 No. & Final compound
-15A & 
-15B & 
-15C & 
-15D & 
-15E & 
-15F & 
+15A & <img> id-US20180016267A1-20180118-C00331.TIF </img>
+15B & <img> id-US20180016267A1-20180118-C00332.TIF </img>
+15C & <img> id-US20180016267A1-20180118-C00333.TIF </img>
+15D & <img> id-US20180016267A1-20180118-C00334.TIF </img>
+15E & <img> id-US20180016267A1-20180118-C00335.TIF </img>
+15F & <img> id-US20180016267A1-20180118-C00336.TIF </img>
 </table>
+<img> id-US20180016267A1-20180118-C00337.TIF </img>
 Example 16-(1-benzylpiperidin-4-yl)methyl (S)-2-hydroxy-2-(4-(5-((4-(2-(((R)-2-hydroxy-2-(8-hydroxy-2-oxo-1,2-dihydroquinolin-5-yl)ethyl)amino)ethyl)benzyl)-carbamoyl)thiophen-2-yl)phenyl)-2-phenylacetate×2 HCOOH (Compound 16)
+<img> id-US20180016267A1-20180118-C00338.TIF </img>
 Step 1: (R)-4-(2-((2-(8-(benzyloxy)-2-oxo-1,2-dihydroquinolin-5-yl)-2-((tert-butyldimethylsilyl)oxy)ethyl)amino)ethyl)benzonitrile
+<img> id-US20180016267A1-20180118-C00339.TIF </img>
 4-(2-aminoethyl)benzonitrile (7.30 g, 50.0 mmol, 1.6 eq) and DIPEA (6 ml, 30.7 mmol, 2.5 eq) were mixed in NMP (60.0 ml, 10 vol.) and stirred for 60 min at room temperature under Ar. (R)-8-(benzyloxy)-5-(2-bromo-1-((tert-butyldimethylsilyl)-oxy)ethyl)quinolin-2(1H)-one (15.54 g, 31.8 mmol, 1.0 eq) was added and the reaction was heated to 80° C. and stirred for 2 days under Ar. After cooling to room temperature reaction was quenched with water (150 ml). Mixture was extracted with AcOEt (3×100 ml). Combined organic layers were washed with brine (100 ml), dried over MgSO4, filtrated and evaporated to give crude product, which was purified via flash chromatography (SiO2, 0%-100% AcOEt in hexane, 5%-12% MeOH in AcOEt) to give the title compound (16.19 g, 92%).
 1H NMR (400 MHz, DMSO-d6) δ 10.59 (s, 1H), 8.25 (d, 1H), 7.72 (d, 2H), 7.58 (d, 2H), 7.47-7.28 (m, 5H), 7.18 (d, 1H), 7.08 (d, 1H), 6.54 (d, 1H), 5.28 (s, 2H), 5.10 (dd, 1H), 2.83-2.72 (m, 4H), 2.64 (dd, 2H), 0.77 (s, 9H), −0.02 (s, 3H), −0.22 (s, 3H).
 Step 2: tert-butyl (R)-(2-(8-(benzyloxy)-2-oxo-1,2-dihydroquinolin-5-yl)-2-((tert-butyldimethylsilyl)oxy)ethyl)(4-cyanophenethyl)carbamate
+<img> id-US20180016267A1-20180118-C00340.TIF </img>
 (R)-4-(2-((2-(8-(benzyloxy)-2-oxo-1,2-dihydroquinolin-5-yl)-2-((tert-butyldimethylsilyl)oxy)ethyl)amino)ethyl)benzonitrile (16.19 g, 29.2 mmol, 1.0 eq) was dissolved in DCM (46 ml, 6 vol.) and NaHCO3 (4.91 g, 58.5 mmol, 2.0 eq) was added. A solution of Boc2O (7.02 g, 32.2 mmol, 1.1 eq) in DCM (65 ml, 4 vol) was added dropwise. The mixture was stirred at room temperature overnight. TLC showed full conversion. Water (160 ml) was added and the product was extracted with DCM (2×150 ml). Organic layers were combined, washed with brine (300 ml), dried over MgSO4 and evaporated to give crude product, which was purified via flash chromatography (SiO2, 10-50% AcOEt in hexane) to afford the title compound (17.93 g, 94%).
 1H NMR (400 MHz, DMSO-d6) δ 10.66 (d, 1H), 8.28 (s, 1H), 7.73 (t, 2H), 7.58 (t, 2H), 7.42-7.30 (m, 5H), 7.28-7.06 (m, 2H), 6.58 (dd, 9.9 Hz, 1H), 5.53-5.32 (m, 1H), 5.29 (s, 2H), 2.79 (t, 2H), 1.65-1.31 (m, 2H), 1.31-1.22 (m, 9H), 0.85-075 (m, 11H), −0.01 (s, 3H), −0.19 (s, 3H).
 Step 3: tert-butyl (R)-(2-((tert-butyldimethylsilyl)oxy)-2-(8-hydroxy-2-oxo-1,2-dihydroquinolin-5-yl)ethyl)(4-cyanophenethyl)carbamate
+<img> id-US20180016267A1-20180118-C00341.TIF </img>
 Pd/C (30% wt, 3.59 g) was added to a solution of tert-butyl (R)-(2-(8-(benzyloxy)-2-oxo-1,2-dihydroquinolin-5-yl)-2-((tert-butyldimethylsilyl)oxy)ethyl)(4-cyanophenethyl)carbamate (17.9 g, 27.0 mmol, 1.0 eq) in MeOH (269 ml, 15 vol). Mixture was degassed and filled with hydrogen. The hydrogenation was performed under H2 balloon at room temperature. After 3 h TLC showed full conversion. Row material was filtered through the celite and filtrate was evaporated to give crude, which was purified via dry flash chromatography (DCM:MeOH) giving the title product (14.02 g, 96%).
 1H NMR (400 MHz, DMSO-d6) δ 10.37 (s, 1H), 8.25 (s, 1H), 7.73 (t, 7 Hz, 2H), 7.35 (d, 2H), 7.19-7.02 (m, 1H), 6.95 (d, 1H), 6.53 (dd, 1H), 5.45-5.00 (m, 1H), 3.74-3.45 (m, 2H), 2.79 (t, 2H), 1.30 (d, 9H), 1.26-1.22 (m, 2H), 0.80 (d, 9H), −0.02 (d, 3H), −0.18 (s, 3H).
 Step 4: tert-butyl (R)-(4-(aminomethyl)phenethyl)(2-((tert-butyldimethylsilyl)oxy)-2-(8-hydroxy-2-oxo-1,2-dihydroquinolin-5-yl)ethyl)carbamate
+<img> id-US20180016267A1-20180118-C00342.TIF </img>
 Tert-butyl (R)-(2-((tert-butyldimethylsilyl)oxy)-2-(8-hydroxy-2-oxo-1,2-dihydroquinolin-5-yl)ethyl)(4-cyanophenethyl)carbamate (13.92 g, 25 mmol, 1.0 eq) was dissolved in THF (278 ml, 20 vol.). 25% aqueous NH3 solution (139 ml, 10 vol.) and Raney Ni (4.18 g, 30 wt %) were added. Row material was degassed, refilled with hydrogen and stirred overnight. UPLC showed full conversion. Row material was filtered over Celite and filtrate was evaporated to give crude (36 g). Crude was purified via reverse phase column chromatography (15 g of gel/1 g crude; ACN:NH3 aq 5% to 25%) to afford the title compound (5.89 g, 43%).
 UPLC-MS Method 3; Rt 0.85 min, ES+ 568.52
 1H NMR (400 MHz, DMSO-d6) δ ppm 8.01-8.39 (m, 1H), 6.76-7.27 (m, 6H), 6.38-6.59 (m, 2H), 4.89-5.55 (m, 1H), 3.47-3.71 (s, 2H), 2.50-2.80 (m, 4 JH), 2.55-2.77 (m, 2H), 1.25 (s, 9H), 0.94 (s, 9H), −0.02 (br. s., 3H), −0.18 (br. s., 3H)
 Step 5: (R)-(5-((4-(2-((tert-butoxycarbonyl)(2-((tert-butyldimethylsilyl)oxy)-2-(8-hydroxy-2-oxo-1,2-dihydroquinolin-5-yl)ethyl)amino)ethyl)benzyl)carbamoyl)thiophen-2-yl)boronic acid
+<img> id-US20180016267A1-20180118-C00343.TIF </img>
 HBTU (100 mg, 0.264 mmol) was dissolved in DMF (0.8 ml) and 5-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)thiophene-2-carboxylic acid (67.1 mg, 0.264 mmol) was added and the mixture was stirred for ½ h. The reaction was added with (R)-tert-butyl 4-(aminomethyl)phenethyl(2-((tert-butyldimethylsilyl)oxy)-2-(8-hydroxy-2-oxo-1,2-dihydroquinolin-5-yl)ethyl)carbamate (150 mg, 0.264 mmol) and DIPEA (0.138 ml, 0.793 mmol) and the mixture was stirred for 5 hr at rt. After add of water (50 ml) a solid precipitated, the solid was filtered on gooch, then dissolved in ethyl acetate, dried over Na2SO4 and the solvent was evaporated under vacuum to give a white solid of (R)-(5-((4-(2-((tert-butoxycarbonyl)(2-((tert-butyldimethylsilyl)oxy)-2-(8-hydroxy-2-oxo-1,2-dihydroquinolin-5-yl)ethyl)amino)ethyl)benzyl)carbamoyl)thiophen-2-yl)boronic acid (166 mg, 87%).
 UPLC-MS Method 3; Rt 1.27 min, ES+ 721.68
 Step 6: (1-benzylpiperidin-4-yl)methyl (S)-2-(4-(5-((4-(2-((tert-butoxycarbonyl)((R)-2-((tert-butyldimethylsilyl)oxy)-2-(8-hydroxy-2-oxo-1,2-dihydroquinolin-5-yl)ethyl)amino)ethyl)benzyl)carbamoyl)thiophen-2-yl)phenyl)-2-hydroxy-2-phenylacetate
+<img> id-US20180016267A1-20180118-C00344.TIF </img>
 A solution of (R)-(5-((4-(2-((tert-butoxycarbonyl)(2-((tert-butyldimethylsilyl)-oxy)-2-(8-hydroxy-2-oxo-1,2-dihydroquinolin-5-yl)ethyl)amino)ethyl)-benzyl)carbamoyl)thiophen-2-yl)boronic acid (35 mg, 0.048 mmol) in DMF (2 ml) was added with (1-benzylpiperidin-4-yl)methyl 2-hydroxy-2-phenyl-2-(4-(((trifluoromethyl)sulfonyl)oxy)phenyl)acetate (24.85 mg, 0.044 mmol), prepared as described in Procedure A Steps 1-2, followed by a solution K2CO3 2 M (16 ml). After stirring for 10 minutes, tetrakistriphenylphosphinepalladium (50 mg, 0.044 mmol) was added, and the resulting mixture was heated to 120° C. for 4 hours. The cooled-down mixture was treated with water and ethyl acetate (5 ml), the organic layer was dried over Na2SO4 then concentrated under reduced pressure. The crude was purified by flash chromatography (eluent-0 to 100% Ethyl acetate in Heptane) to obtain (1-benzylpiperidin-4-yl)methyl (S)-2-(4-(5-((4-(2-((tert-butoxycarbonyl)((R)-2-((tert-butyldimethylsilyl)oxy)-2-(8-hydroxy-2-oxo-1,2-dihydroquinolin-5-yl)ethyl)amino)ethyl)benzyl)carbamoyl)thiophen-2-yl)phenyl)-2-hydroxy-2-phenylacetate (47 mg, 19%).
 UPLC-MS Method 3; Rt 1.14 min, ES+ 1090.80
 Step 7: (1-benzylpiperidin-4-yl)methyl (S)-2-hydroxy-2-(4-(5-((4-(2-(((R)-2-hydroxy-2-(8-hydroxy-2-oxo-1,2-dihydroquinolin-5-yl)ethyl)amino)ethyl)benzyl)carbamoyl)-thiophen-2-yl)phenyl)-2-phenylacetate×2 HCOOH (Compound 16)
+<img> id-US20180016267A1-20180118-C00345.TIF </img>
 The title compound was prepared as in Example 15, following Step 2.
 1H NMR (400 MHz, DMSO-d6) δ ppm 9. 9.03 (t, J=6.0 Hz, 1H), 8.21 (m, 3H), 7.79 (d, J=4.0 Hz, 1H), 7.67 (d, J=8.4 Hz, 2H), 7.51 (d, J=3.7 Hz, 1H), 6.89-7.43 (m, 16H), 6.69 (d, J=8.4 Hz, 1H), 6.50 (d, J=9.9 Hz, 1H), 4.92-5.23 (m, 1H), 4.42 (d, J=5.5 Hz, 2 H), 4.02 (d, J=6.2 Hz, 2H), 3.30-3.60 (m, 4H), 2.66-3.00 (m, 8H), 1.79-1.98 (m, 2H), 1.37-1.65 (m, 2H), 1.03-1.31 (m, 5H)
 UPLC-MS Method 4; Rt 4.94 min, ES+ 877.1

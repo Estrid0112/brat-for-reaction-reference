@@ -13,6 +13,7 @@ Aspects of the present disclosure provide an ink composition for an organic ligh
 Additional aspects will be set forth in part in the description which follows and, in part, will be apparent from the description, or may be learned by practice of the presented embodiments.
 The inventors of the subject matter of the present application found that the above problems could be solved by using at least one compound selected from an aromatic ether, an aromatic ester, and an aromatic ketone, with respect to an organic host material having a certain structure.
 An aspect of the present disclosure provides an ink composition for an organic light-emitting device, the ink composition including a luminescent host material and a solvent, wherein the luminescent host material includes at least one compound represented by Formula (1), and wherein the solvent includes at least one selected from an aromatic ether, an aromatic ester, and an aromatic ketone:
+<img> id-US20180019411A1-20180118-C00002.TIF </img>
 In Formula (1),
 L1 to L3 may each independently be selected from a single bond, *-O-*', *-S-*', *-N(R5)-*', a substituted or unsubstituted C2-C60 alkylene group, a substituted or unsubstituted C3-C10 cycloalkylene group, a substituted or unsubstituted C1-C10 heterocycloalkylene group, a substituted or unsubstituted C3-C10 cycloalkenylene group, a substituted or unsubstituted C1-C10 heterocycloalkenylene group, a substituted or unsubstituted C6-C60 arylene group, a substituted or unsubstituted C1-C60 heteroarylene group, a substituted or unsubstituted divalent non-aromatic condensed polycyclic group, and a substituted or unsubstituted divalent non-aromatic condensed heteropolycyclic group,
 a1 to a3 may each independently be an integer from 1 to 10,
@@ -61,6 +62,7 @@ The luminescent host material may be used in an organic layer of an organic ligh
 For example, the luminescent host material may be used for a luminescent host in an emission layer of an organic light-emitting device.
 The luminescent host may have a function of transporting holes and electrons injected into the emission layer.
 The luminescent host material may include at least one compound represented by Formula (1):
+<img> id-US20180019411A1-20180118-C00003.TIF </img>
 In Formula (1),
 L1 to L3 may each independently be selected from a single bond, *-O-*', *-S-*', *-N(R5)-*', a substituted or unsubstituted C2-C60 alkylene group, a substituted or unsubstituted C3-C10 cycloalkylene group, a substituted or unsubstituted C1-C10 heterocycloalkylene group, a substituted or unsubstituted C3-C10 cycloalkenylene group, a substituted or unsubstituted C1-C10 heterocycloalkenylene group, a substituted or unsubstituted C6-C60 arylene group, a substituted or unsubstituted C1-C60 heteroarylene group, a substituted or unsubstituted divalent non-aromatic condensed polycyclic group, and a substituted or unsubstituted divalent non-aromatic condensed heteropolycyclic group,
 a1 to a3 may each independently be an integer from 1 to 10,
@@ -106,6 +108,7 @@ a diphenylaminophenyl group.
 When a group containing a specified number of carbon atoms is substituted with any of the groups listed in the preceding paragraph, the number of carbon atoms in the resulting “substituted” group is defined as the sum of the carbon atoms contained in the original (unsubstituted) group and the carbon atoms (if any) contained in the substituent. For example, when the term “substituted C1-C30 alkyl” refers to a C1-C30 alkyl group substituted with C6-C30 aryl group, the total number of carbon atoms in the resulting aryl substituted alkyl group is C7-C60.
 Also, when A1 to A3 are each independently an alkyl group, an alkenyl group, or an alkynyl group, an aryl group or a heteroaryl group may be a substituent. Also, when A1 to A3 are each independently an aryl group, for example, an alkyl group, an alkenyl group, an alkynyl group, an aryl group, or a heteroaryl group may be a substituent. Also, when A1 to A3 are each independently a heteroaryl group, for example, an alkyl group, an alkenyl group, an alkynyl group, an aryl group, or a heteroaryl group may be a substituent.
 In an embodiment, at least one of A1 to A3 in the at least one compound represented by Formula (1), which is included in the luminescent host material, may be a group represented by Formula (2-A):
+<img> id-US20180019411A1-20180118-C00004.TIF </img>
 In Formula (2-A),
 X1 may be N, carbon linked to *-(L11)a11-(R11), or carbon linked to L13; X2 may be N, carbon linked to *-(L11)a11-(R11), or carbon linked to L13; X3 may be N, carbon linked to *-(L11)a11-(R11), or carbon linked to L13; X4 may be N, carbon linked to *-(L11)a11-(R11), or carbon linked to L13; X5 may be N, carbon linked to *-(L11)a11-(R11), or carbon linked to L13; and X6 may be N, carbon linked to *-(L11)a11-(R11), or carbon linked to L13,
 at least one of X1 to X6 may be N,
@@ -116,15 +119,19 @@ two or more neighboring groups selected from a plurality of groups R11 may optio
 b4 may be an integer from 0 to 4, and
 * indicates a binding site to a neighboring atom.
 In an embodiment, the group represented by Formula (2-A) may be selected from groups represented by Formulae (2)-1 to (2)-7:
+<img> id-US20180019411A1-20180118-C00005.TIF </img>
 In Formulae (2)-1 to (2)-7, L11, L13, a11, a13, R11, and (L11)a11-(R11) are the same as described herein, b4 may be an integer from 0 to 4, b3 may be an integer from 0 to 3, b2 may be an integer from 0 to 2, and * indicates a binding site to a neighboring atom.
 In an embodiment, the group represented by Formula (2-A) may be selected from groups represented by Formulae (2)-A to (2)-F:
+<img> id-US20180019411A1-20180118-C00006.TIF </img>
 In Formulae (2)-A to (2)-F, L11, L13, a11, a13, R11, and (L11)a11-(R11) are the same as described herein, L16, a16, R16, and (L16)a16-(R16) are the same as described in connection with L11, a11, R11, and (L11)a11-(R11), and * indicates a binding site to a neighboring atom.
 In one or more embodiments, the luminescent host material may include at least one component represented by Formula (2):
+<img> id-US20180019411A1-20180118-C00007.TIF </img>
 L1 to L3, a1 to a3, and A1 to A3 in Formula (2) are the same as described herein.
 For example, at least one of A1 to A3 in Formula (2) may be the group represented by Formula (2-A).
 For example, at least of A1 and A2 in Formula (2) may be the group represented by Formula (2-A), but embodiments of the present disclosure are not limited thereto.
 In one or more embodiments, the luminescent host material may include at least one compound having a biscarbazole backbone.
 For example, the luminescent host material may include at least one compound represented by Formula (3):
+<img> id-US20180019411A1-20180118-C00008.TIF </img>
 Formula (3) corresponds to a compound in which one of groups L3 in the number of a3 in Formula (1) is “a carbazole group”.
 In Formula (3), L1, L2, a2, a3, A1, and A2 are the same as described herein, and L63, a63, and A3 are the same as described in connection with L3, a3, and A3.
 For example, in Formula (3),
@@ -143,6 +150,7 @@ A1, A2, and A63 may each independently be selected from:
 hydrogen, deuterium, -CD3, -CD2H, -CDH2, a C1-C20 alkyl group, and a C1-C20 alkoxy group; and
 a phenyl group, a fluorenyl group, a spiro-bifluorenyl group, a carbazolyl group, a dibenzofuranyl group, and a dibenzothiophenyl group, each substituted or unsubstituted with at least one selected from deuterium, -CD3, -CD2H, -CDH2, a C1-C20 alkyl group, a C1-C20 alkoxy group, a phenyl group, a biphenyl group, a fluorenyl group, a spiro-bifluorenyl group, a dimethylfluorenyl group, a diphenylfluorenyl group, a carbazolyl group, a phenylcarbazolyl group, a biphenylcarbazolyl group, a dibenzofuranyl group, a phenyldibenzofuranyl group, a diphenyldibenzofuranyl group, a dibenzothiophenyl group, a phenyldibenzothiophenyl group, and a diphenyldibenzothiophenyl group.
 For example, L1 to L3, L63, L11, and L13 in Formulae (1) to (3) and (2-A) may each independently be selected from a single bond and groups represented by Formulae 6-1 to 6-27, but embodiments of the present disclosure are not limited thereto:
+<img> id-US20180019411A1-20180118-C00009.TIF </img><img> id-US20180019411A1-20180118-C00010.TIF </img><img> id-US20180019411A1-20180118-C00011.TIF </img><img> id-US20180019411A1-20180118-C00012.TIF </img>
 In Formulae 6-1 to 6-27,
 Y2 may be O, S, C(Z3)(Z4), or N(Z5),
 Z1 to Z5 may each independently be hydrogen, deuterium, -CD3, -CD2H, -CDH2, a C1-C20 alkyl group, a C1-C20 alkoxy group, a phenyl group, a biphenyl group, a trimethylsilyl group, or a triphenylsilyl group,
@@ -151,11 +159,14 @@ d3 may be 1, 2, or 3,
 d4 may be 1, 2, 3, or 4, and
 * and *' each indicate a binding site to a neighboring atom.
 In one or more embodiments, L1 to L3, L63, L11, and L13 in Formulae (1) to (3) and (2-A) may each independently be selected from a single bond and groups represented by Formulae 6(1) to 6(10), but embodiments of the present disclosure are not limited thereto:
+<img> id-US20180019411A1-20180118-C00013.TIF </img><img> id-US20180019411A1-20180118-C00014.TIF </img>
 In Formulae 6(1) to 6(10), Z1, Z3, and Z5 may each independently be hydrogen, deuterium, -CD3, -CD2H, -CDH2, a C1-C20 alkyl group, a C1-C20 alkoxy group, a phenyl group, a biphenyl group, a trimethylsilyl group, or a triphenylsilyl group, and * and *' each indicate a binding site to a neighboring atom.
 a1, a2, a3, a63, a11, and a13 respectively indicate the number of groups L1, the number of groups L2, the number of groups L3, the number of groups L63, the number of groups L11, and the number of groups L13, and may each independently be an integer from 1 to 10 or an integer from 1 to 5, but embodiments of the present disclosure are not limited thereto. When a1 is two or more, two or more groups L1 may be identical to or different from each other, and the same applies to a2 and L2, a3 and L3, a63 and L63, a11 and L11, and a13 and L13.
 In an embodiment, A1 to A3, R5, and R11 in Formulae (1) to (3), (2-A), (2)-1 to (2)-7, (2)-A to (2)-F, and (3)-1 to (3)-11 may each independently be selected from hydrogen, deuterium, a C1-C10 alkyl group, groups represented by Formulae 7-1 to 7-57, and groups represented by Formulae 8-1 to 8-7:
+<img> id-US20180019411A1-20180118-C00015.TIF </img><img> id-US20180019411A1-20180118-C00016.TIF </img><img> id-US20180019411A1-20180118-C00017.TIF </img><img> id-US20180019411A1-20180118-C00018.TIF </img><img> id-US20180019411A1-20180118-C00019.TIF </img><img> id-US20180019411A1-20180118-C00020.TIF </img><img> id-US20180019411A1-20180118-C00021.TIF </img><img> id-US20180019411A1-20180118-C00022.TIF </img><img> id-US20180019411A1-20180118-C00023.TIF </img><img> id-US20180019411A1-20180118-C00024.TIF </img><img> id-US20180019411A1-20180118-C00025.TIF </img><img> id-US20180019411A1-20180118-C00026.TIF </img>
 In Formulae 8-1 to 8-7, “Ph” indicates a phenyl group, and “*” indicates a binding site to a neighboring atom.
 Specific examples of the compound represented by Formula (1) will be described below. However, the compound according to one or more embodiments is not limited to the structures provided below:
+<img> id-US20180019411A1-20180118-C00027.TIF </img><img> id-US20180019411A1-20180118-C00028.TIF </img><img> id-US20180019411A1-20180118-C00029.TIF </img><img> id-US20180019411A1-20180118-C00030.TIF </img><img> id-US20180019411A1-20180118-C00031.TIF </img><img> id-US20180019411A1-20180118-C00032.TIF </img><img> id-US20180019411A1-20180118-C00033.TIF </img><img> id-US20180019411A1-20180118-C00034.TIF </img><img> id-US20180019411A1-20180118-C00035.TIF </img><img> id-US20180019411A1-20180118-C00036.TIF </img><img> id-US20180019411A1-20180118-C00037.TIF </img><img> id-US20180019411A1-20180118-C00038.TIF </img><img> id-US20180019411A1-20180118-C00039.TIF </img><img> id-US20180019411A1-20180118-C00040.TIF </img><img> id-US20180019411A1-20180118-C00041.TIF </img><img> id-US20180019411A1-20180118-C00042.TIF </img><img> id-US20180019411A1-20180118-C00043.TIF </img><img> id-US20180019411A1-20180118-C00044.TIF </img><img> id-US20180019411A1-20180118-C00045.TIF </img><img> id-US20180019411A1-20180118-C00046.TIF </img><img> id-US20180019411A1-20180118-C00047.TIF </img><img> id-US20180019411A1-20180118-C00048.TIF </img><img> id-US20180019411A1-20180118-C00049.TIF </img><img> id-US20180019411A1-20180118-C00050.TIF </img><img> id-US20180019411A1-20180118-C00051.TIF </img><img> id-US20180019411A1-20180118-C00052.TIF </img><img> id-US20180019411A1-20180118-C00053.TIF </img><img> id-US20180019411A1-20180118-C00054.TIF </img><img> id-US20180019411A1-20180118-C00055.TIF </img><img> id-US20180019411A1-20180118-C00056.TIF </img><img> id-US20180019411A1-20180118-C00057.TIF </img><img> id-US20180019411A1-20180118-C00058.TIF </img><img> id-US20180019411A1-20180118-C00059.TIF </img><img> id-US20180019411A1-20180118-C00060.TIF </img><img> id-US20180019411A1-20180118-C00061.TIF </img><img> id-US20180019411A1-20180118-C00062.TIF </img><img> id-US20180019411A1-20180118-C00063.TIF </img><img> id-US20180019411A1-20180118-C00064.TIF </img><img> id-US20180019411A1-20180118-C00065.TIF </img>
 The luminescent host material may be one compound belonging to Formula (1) or a mixture of two or more different compounds belonging to Formula (1) (for example, a mixture of two different compounds belonging to Formula (1)).
 In an embodiment, the luminescent host material may be a compound represented by Formula (2) or a compound represented by Formula (3).
 In one or more embodiments, the luminescent host material may be a mixture of at least one compound represented by Formula (1), in which at least one of A1 to A3 is each independently represented by Formula (2-A), and at least one compound may have a biscarbazole backbone.
@@ -174,12 +185,15 @@ Examples of the luminescent impurities may include a perylene and a derivative t
 Solvent
 The ink composition for an organic light-emitting device may include at least one solvent selected from an aromatic ether, an aromatic ester, and an aromatic ketone.
 Although not particularly limited, the aromatic ether may use a compound represented by Formula (4):
+<img> id-US20180019411A1-20180118-C00066.TIF </img>
 In Formula (4), X1 may be a C1-C6 alkyl group, and X2 may be a hydrogen atom, a methyl group, an ethyl group, or a propyl group.
 Specific examples of the aromatic ether may include an anisole, a 4-methoxy toluene, a p-ethyl anisole, a p-propyl anisole, a p-butyl anisole, a phenetole, a 1-propyl-4-methoxybenzene, an iso-propyl phenyl ether, a phenyl propyl ether, a butyl phenyl ether, and a pentyl phenyl ether.
 Although not particularly limited, the aromatic ester may use a compound represented by Formula (5):
+<img> id-US20180019411A1-20180118-C00067.TIF </img>
 In Formula (5), Y1 may be a C1-C3 alkyl group, and Y2 may be a hydrogen atom, a methyl group, or an ethyl group.
 Specific examples of the aromatic ester may include a methyl benzoate, a methyl 4-methyl benzoate, an ethyl benzoate, and an iso-propyl benzoate.
 Although not particularly limited, the aromatic ketone may use a compound represented by Formula (6):
+<img> id-US20180019411A1-20180118-C00068.TIF </img>
 In Formula (6), Z1 may be a C1-C4 alkyl group, and Z2 may be a hydrogen atom, a methyl group, or an ethyl group.
 Specific examples of the aromatic ketone may include an acetophenone, a 4'-methylacetophenone, a propiophenone, a 4'-methylpropiophenone, a butylophenone, and a 4'-methylbutylophenone.
 In an embodiment, the ink composition for an organic light-emitting device may include an aromatic ether and/or an aromatic ester so as to improve luminescent efficiency and inkjet discharge stability of the organic light-emitting device.
@@ -250,6 +264,7 @@ The cathode may be formed by deposition or sputtering.
 Although not particularly limited, a film thickness of the cathode may be in a range of about 10 nm to about 1,000 nm, for example, about 10 nm to about 200 nm.
 Other Layers
 Also, the organic light-emitting device may include layers other than the above-described layers. For example, the organic light-emitting device may include a hole blocking layer and an electron blocking layer. The hole blocking layer is a layer for blocking movement of holes from each layer such as the emission layer and is generally disposed on a side of the emission layer closer to the cathode. Also, the electron blocking layer is a layer for blocking movement of electrons from each layer such as the emission layer and is generally disposed on a side of the emission layer closer to the cathode. Although not particularly limited, various known materials may be used for forming the hole blocking layer and the electron blocking layer. Also, a material for forming the hole blocking layer may be HBL-1 represented by the following structural formula.
+<img> id-US20180019411A1-20180118-C00069.TIF </img>
 Method of Manufacturing Organic Light-Emitting Device
 According to one or more embodiments, a method of manufacturing an organic light-emitting device is provided. The method of manufacturing an organic light-emitting device includes a process (hereinafter, referred to as an emission layer forming process) of forming an emission layer by coating the ink composition for an organic light-emitting device on a support by inkjet printing.
 Emission Layer Forming Process
@@ -290,6 +305,7 @@ The coating of the ink composition for an organic light-emitting device on the c
 EXAMPLES
 Hereinafter, embodiments of the present disclosure are described with reference to Examples, but are not limited thereto. Also, “%” means “weight percent” (“wt %”), unless otherwise defined in the Examples.
 Synthesis Example 1: Synthesis of Compound 2-7
+<img> id-US20180019411A1-20180118-C00070.TIF </img><img> id-US20180019411A1-20180118-C00071.TIF </img>
 Synthesis of Intermediate a-1 (5-phenyl-2-nitroaniline)
 190.10 grams (g) (1.10 moles, mol) of 5-chloro-2-nitroaniline, 161.05 g (1.32 mol, 1.2 equivalents, eq) of phenylboronic acid, 2.2 liters (L) of potassium carbonate aqueous solution, and 2.2 L of toluene were stirred under nitrogen atmosphere. The resulting mixture was purged with nitrogen gas for 20 minutes, and 63.56 g (55 mmol, 0.05 eq) of tetrakis-triphenylphosphine palladium(0) was added thereto. The resulting mixture was heated under reflux for 6 hours. After the reaction was completed, the resultant obtained therefrom was cooled, 500 milliliters (mL) of water was added thereto, an extraction process was performed thereon three times by using 500 mL of toluene, a washing process was performed thereon twice by using 500 mL of water and 500 mL of brine, and water was removed therefrom by using sodium sulfate. The resultant obtained therefrom was filtered and concentrated to obtain 410.2 g of a crude product. The crude product was dissolved in toluene, adsorbed on 800 g of amine functionalized silica gel, which is about twice the amount of the crude product (eluent: ethyl acetate/toluene=1/5 (volume to volume, v/v)), and purified by column chromatography using 2,870 g of amine functionalized silica gel, which is about seven times the amount of the crude product, thereby obtaining Intermediate a-1 (yellow solid) (synthesized amount: 210 g, yield: 89%, purity (GC): 98%).
 Synthesis of Intermediate a-2 (3-Iodo-4-nitro-1,1'-biphenyl)
@@ -300,6 +316,7 @@ Synthesis of Intermediate a-4 (5-bromo-3-phenyl-9H-carbazole)
 18.15 g (51.24 mmol) of Intermediate a-3 (2-bromo-6″-nitro-1,1″:3″,1-terphenyl) was dissolved in 110 mL of o-dichlorobenzene in an inert atmosphere, and 32.0 g (122.0 mmol) of triphenylphosphine was added thereto. The resulting mixture was stirred at a temperature of 180° C. for 20 hours. The outside temperature and pressure were respectively adjusted to 80° C. and 1 torr or less, and the stirring of the solvent was stopped to obtain 54.9 g of a viscous crude product. A mixture of hexane/toluene (=1/1 (v/v)) was added thereto to precipitate the target material. The target material was then filtered under reduced pressure and washed by using a mixture of hexane/toluene (=1/1 (v/v)). The filtrate obtained therefrom was concentrated to obtain 45.0 g of a crude product. The crude product was purified by column chromatography using 900 g of silica gel (eluent: hexane/toluene=1/1 (v/v)), and the solvent was removed therefrom to obtain 14.1 g of a light yellow viscous liquid. 50 mL of hexane was added to the light yellow viscous liquid, heated to a temperature of 60° C., and stirred to recover a precipitated target material. After drying for 15 hours under reduced pressure, Intermediate a-4 (light yellow solid) was obtained (synthesized amount: 13.5 g, yield: 81%, purity (HPLC): 99.1%).
 Synthesis of Intermediate a (5-bromo-3, 9-diphenyl-9H-carbazole)
 13.46 g (41.78 mmol) of Intermediate a-4 (5-bromo-3-phenyl-9H-carbazole) and 9.50 g (46.57 mmol) of iodobenzene were mixed with 41 mL of 1,4-dioxane, and 0.40 g (2.09 mmol) of CuI, 0.96 g (8.41 mmol) of trans-1,2-diaminocyclohexane, and 2.02 g (21.02 mmol) of tert-BuONa were added thereto in this order. The resulting mixture was stirred at a temperature of 105° C. for 20 hours. The resulting mixture was cooled to room temperature, filtered under reduced pressure by using 10 g of celite, and washed by using dioxane to obtain a filtrate. The solvent was removed from the filtrate to obtain 25.30 g of a crude product. The crude product was dissolved in dichloromethane and adsorbed on 100 g of silica gel to remove the solvent. The crude product was then purified by column chromatography by using 400 g of the adsorption silica gel and an eluent of hexane/toluene (=1/1 (v/v)), and the solvent was removed therefrom. The resultant was vacuum-dried to obtain 14.6 g of Intermediate a (colorless solid) (yield: 88%, purity (HPLC): 99.0%).
+<img> id-US20180019411A1-20180118-C00072.TIF </img><img> id-US20180019411A1-20180118-C00073.TIF </img>
 Synthesis of Intermediate b-1 (2, 4-dichloro-6-phenyl-1,3,5-triazine)
 30.0 g (162.7 mmol) of cyanuric acid was added to a 2-L round bottom flask, and the flask was evacuated and filled with argon three times by using a vacuum pump. 975 mL of dried toluene was then added to the flask and cooled to a temperature of 0° C. by using an ice bath. 29.5 g (162.3 mmol) of phenyl magnesium bromide and 54.2 mL of a dried diethyl ether solution were then added thereto dropwise under argon atmosphere. The mixture obtained therefrom was slowly warmed to room temperature and stirred for 2 hours, the reaction was terminated at a temperature of 0° C. by using 200 mL of 6 normal (N) HCl (aq.), and toluene was extracted therefrom. The organic layer collected therefrom was dried by using MgSO4 and concentrated in a vacuum to obtain a crude product. The crude product was dissolved in THF and added to 200 mL of excess methanol to reprecipitate the crude product. This process was repeated twice. The crude product obtained therefrom was dissolved in THF and added to 100 mL of hexane to reprecipitate the crude product. The resultant obtained therefrom was vacuum-dried at a temperature of 40° C. for 5 hours to obtain Intermediate b-1 (light yellow-white solid) (synthesized amount 33.4 g, yield: 60%, purity (HPLC): 98.7%).
 Synthesis of Intermediate b-2 (2-chloro-4-phenyl-6-(5'-phenyl-[1,1':3',1″-terphenyl]-3-yl)-1,3,5-triazine)
@@ -308,12 +325,14 @@ Synthesis of Intermediate b-3 (2-(3-chlorophenyl)-4-phenyl-6-(5'-phenyl-[1,1':3'
 19.5 g (39.3 mmol) of Intermediate b-3, 6.15 g (39.3 mmol) of (3-chlorophenyl)boronic acid, 0.91 g (0.79 mmol) of Pd(PPh3)4, and 12.5 g (118 mmol) of sodium carbonate were dissolved in 160 mL of toluene, mixed with 80 mL of ethanol and 160 mL of ultra-pure water in a 500-mL round bottom flask, and refluxed for 2 hours under argon atmosphere. After the reaction was completed, the mixture was added to 300 mL of pure water, and a precipitate was filtered and washed by methanol. The crude solid obtained therefrom was dissolved in toluene, and excess methanol was added thereto to reprecipitate the crude solid. The resultant obtained therefrom was dried at a temperature of 40° C. in a vacuum for 5 hours to obtain Intermediate b-3 (synthesized amount: 21.0 g, yield: 93%, purity (HPLC): 97.1%).
 Synthesis of Intermediate b (2-phenyl-4-(5'-phenyl-[1,1':3',1″-terphenyl]-3-yl)-6-(3-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)phenyl)-1,3,5-triazine)
 20.0 g (35.0 mmol) of Intermediate b-3, 17.8 g (69.9 mmol) of bis-(pinacolate)-diboron, 1.60 g (1.75 mmol) of Pd2(dba)3, 1.67 g (3.50 mmol) of XPhos, and 10.3 g (105 mmol) of potassium acetate were mixed with 350 mL of 1,4-dioxane in a round bottom flask and refluxed under argon atmosphere for 2 hours. After the reaction was completed, the mixture was filtered through celite and concentrated by a rotary evaporator to obtain a crude product. The crude product was purified by Si-gel column chromatography (a mixture of toluene and hexane was used as an eluent, and a mixing ratio thereof was gradually changed from 1/4 to 1/0 (only toluene)) to obtain Intermediate b (white solid) (synthesized amount: 18.0 g, yield: 78%, purity (HPLC): 99.9%).
+<img> id-US20180019411A1-20180118-C00074.TIF </img>
 Synthesis of Compound 2-7
 Under argon atmosphere, 2.20 g (5.52 mmol) of Intermediate a, 3.30 g (4.97 mmol) of Intermediate b, 0.078 g (0.11 mmol) of dichlorobis(triphenylphosphine)dipalladium 55 ml of dioxane, and 28 mL of 0.5 N sodium carbonate aqueous solution were added to a reaction vessel and stirred at a temperature of 90° C. for 8 hours. After the reaction was completed, the mixture was cooled to room temperature and filtered through celite to obtain an organic layer. The organic layer was then concentrated and purified by column chromatography to obtain 2.97 g (yield: 69.9%) of Compound 2-7 (the structure thereof was identified by LC-MS). A glass transition temperature (Tg) was measured by using SII DSC6220 (manufactured by Seiko Instruments Inc.) based on JIS K 7121.
 LC-MS, calcd for C63H42N4=855, found m/z=855 (M+).
 Tg: 145.5° C.
 Synthesis Example 2: Synthesis of Compound 3-5
 Compound 3-5 was synthesized according to the Reaction Scheme below.
+<img> id-US20180019411A1-20180118-C00075.TIF </img>
 Synthesis of Intermediate c
 Under argon atmosphere, 6.8 g (17.1 mmol) of 3-bromo-6,9-diphenylcarbazole(3-bromo-6,9-diphenylcarbazole), 5.0 g (17.1 mmol) of 3-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)-9H-carbazole, 52 mL of toluene, 17 mL of ethanol, and 25 mL of 2 N sodium carbonate aqueous solution (Na2CO3 aq.) were mixed and stirred. 0.60 g (0.51 mmol) of tetrakistriphenylphosphine palladium (Pd(PPh3)4)) was then added thereto, and the mixture was refluxed for 8 hours. After the reaction was completed, the mixture was cooled to room temperature, and the product was extracted with toluene/water. The resultant was then purified by column chromatography to obtain 3.0 g (yield: 36%) of Intermediate c.
 Synthesis of Compound 3-5
@@ -322,6 +341,7 @@ LCMS, calcd for C60H40N2=789, found m/z=789 (M+).
 Tg: 156.6° C.
 Synthesis Example 3: Synthesis of Compound 3-35
 Compound 3-35 was synthesized according to the Reaction Scheme below.
+<img> id-US20180019411A1-20180118-C00076.TIF </img>
 1.9 g (yield: 38%) of Compound 3-35 (the structure thereof was identified by LC-MS) was obtained in the same manner as Intermediate c in Synthesis Example 2, except that Compounds 3-35A and 3-35B were respectively used instead of 3-bromo-6,9-diphenylcarbazole and 3-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)-9H-carbazole).
 LCMS, calcd for C60H40N2=597, found m/z=597 (M+)
 Tg: 136.0° C.
@@ -359,6 +379,7 @@ Manufacture and Evaluation of Organic Light-Emitting Device
 A cleaned ITO substrate was exposed to UV/O3, and poly(3,4-ethylenedioxythiophene)-poly(styrene sulfonic acid) (PEDOT-PSS) (manufactured by Sigma-Aldrich) was deposited by spin coating and heated in an atmosphere to a temperature of 180° C. for 15 minutes to form a hole injection layer having a thickness of 45 nanometers (nm). Then, 0.6 wt % of a xylene solution of HT-1 (Japanese Patent Publication No. 2014-001349, polymer Compound 8, additional test synthetic polymer Mn=28,000, Mw=122,000) was deposited on the hole injection layer by spin coating and dried under nitrogen atmosphere at a temperature of 230° C. for 30 minutes to form a hole transport layer having a thickness of 20 nm.
 Then, each of the ink compositions for an organic light-emitting device according to Examples 1 to 9 and Comparative Example 1 was deposited on the hole transport layer by spin coating. After a pressure was reduced to 10−1 pascals (Pa), the ink composition was dried at a temperature of 0° C. for 15 minutes to form an emission layer having a thickness of 30 nm.
 Then, HBL-1 was deposited in a vacuum condition of 5×10−3 Pa HBL-1 to form a hole blocking layer having a thickness of 10 nm, (8-quinolinolato)lithium (LiQ) and KLET-03 (manufactured by Chemipro Kasei) were co-deposited on the hole blocking layer to form an electron transport layer having a thickness of 45 nm, and LiF was deposited on the electron transport layer to form an electron injection layer having a thickness of 0.5 nm. Then, aluminum was deposited on the electron injection layer to form a cathode having a thickness of 100 nm. Then, the substrate was loaded into a glove box and encapsulated by a glass substrate, thereby completing the manufacture of an organic light-emitting device.
+<img> id-US20180019411A1-20180118-C00077.TIF </img>
 External power was connected to the organic light-emitting device, light emitted from the organic light-emitting device was measured by BM-9 (manufactured by Topcon Inc.), and luminescent efficiency was calculated from a current value at 6,000 candelas per square meter (cd/m2). Evaluation results are shown in Table 1.
 <table>
 <header>
@@ -392,6 +413,17 @@ Example 9 & 2-7:3-5 & ethyl benzoate:butyl & 0.18 & 78 & ⊚
  &  & phenyl ether &  &  & 
 Comparative & 2-7:3-5 & diethylene glycol ethyl & 0.96 & 32 & X
 Example 1 &  & methyl ether
+<img> id-US20180019411A1-20180118-C00078.TIF </img>
+
+
+
+
+<img> id-US20180019411A1-20180118-C00079.TIF </img>
+
+
+
+
+<img> id-US20180019411A1-20180118-C00080.TIF </img>
 </table>
 Referring to Table 1, it has been determined that the ink compositions prepared according to Examples 1 to 9 have excellent inkjet discharge stability, as compared with the ink composition prepared by using a non-aromatic solvent according to Comparative Example 1. Also, it is confirmed that high luminescent efficiency is exhibited when an aromatic solvent having a vapor pressure of about 1 mmHg is used.
 As described above, the ink composition for an organic light-emitting device has excellent inkjet discharge stability, and accordingly, an organic light-emitting device, which includes a film formed by using the ink composition, may have high luminescent efficiency.

@@ -12,6 +12,7 @@ Technical Problem
 The present specification provides a hetero-cyclic compound and an organic light emitting device including the same.
 Technical Solution
 An exemplary embodiment of the present application provides a hetero-cyclic compound represented by the following Chemical Formula 1.
+<img> id-US20180037547A1-20180208-C00001.TIF </img>
 In Chemical Formula 1,
 L1 is a direct bond; a substituted or unsubstituted arylene group; or a substituted or unsubstituted heteroarylene group,
 Ar1 is hydrogen; deuterium; a nitrile group; a nitro group; a hydroxy group; a carbonyl group; an ester group; an imide group; an amide group; a substituted or unsubstituted alkyl group; a substituted or unsubstituted cycloalkyl group; a substituted or unsubstituted alkoxy group; a substituted or unsubstituted aryloxy group; a substituted or unsubstituted alkylthioxy group; a substituted or unsubstituted arylthioxy group; a substituted or unsubstituted alkylsulfoxy group; a substituted or unsubstituted arylsulfoxy group; a substituted or unsubstituted silyl group; a substituted or unsubstituted boron group; a substituted or unsubstituted amine group; a substituted or unsubstituted arylphosphine group; a substituted or unsubstituted phosphine oxide group; a substituted or unsubstituted aryl group; a substituted or unsubstituted pyridyl group; a substituted or unsubstituted pyrimidyl group; a substituted or unsubstituted triazinyl group; a substituted or unsubstituted pyridazinyl group; a substituted or unsubstituted pyrazinyl group; or a substituted or unsubstituted polycyclic heteroaryl group,
@@ -32,12 +33,17 @@ In the present specification, examples of the substituents will be described bel
 The term “substitution” means that a hydrogen atom bonded to a carbon atom of a compound is changed into another substituent, and a position to be substituted is not limited as long as the position is a position at which the hydrogen atom is substituted, that is, a position at which the substituent may be substituted, and when two or more are substituted, the two or more substituents may be the same as or different from each other.
 In the present specification, the term “substituted or unsubstituted” means being substituted with one or two or more substituents selected from the group consisting of deuterium; a halogen group; a nitrile group; a nitro group; an imide group; an amide group; a carbonyl group; an ester group; a hydroxy group; a substituted or unsubstituted alkyl group; a substituted or unsubstituted cycloalkyl group; a substituted or unsubstituted alkoxy group; a substituted or unsubstituted aryloxy group; a substituted or unsubstituted alkylthioxy group; a substituted or unsubstituted arylthioxy group; a substituted or unsubstituted alkylsulfoxy group; a substituted or unsubstituted arylsulfoxy group; a substituted or unsubstituted alkenyl group; a substituted or unsubstituted silyl group; a substituted or unsubstituted boron group; a substituted or unsubstituted amine group; a substituted or unsubstituted arylphosphine group; a substituted or unsubstituted phosphine oxide group; a substituted or unsubstituted aryl group; and a substituted or unsubstituted hetero-cyclic group or being substituted with a substituent to which two or more substituents are linked among the substituents exemplified above, or having no substituent. For example, “the substituent to which two or more substituents are linked” may be a biphenyl group. That is, the biphenyl group may also be an aryl group, and may be interpreted as a substituent to which two phenyl groups are linked.
 In the present specification,
+<img> id-US20180037547A1-20180208-C00002.TIF </img>
 means a moiety bonded to another substituent or a binding portion.
 In the present specification, the halogen group may be fluorine, chlorine, bromine, or iodine.
 In the present specification, the number of carbon atoms of an imide group is not particularly limited, but is preferably 1 to 30. Specifically, the imide group may be a compound having the following structures, but is not limited thereto.
+<img> id-US20180037547A1-20180208-C00003.TIF </img>
 In the present specification, for the amide group, the nitrogen of the amide group may be substituted with hydrogen, a straight-chained, branch-chained, or cyclic alkyl group having 1 to 30 carbon atoms. Specifically, the amide group may be a compound having the following structural formulae, but is not limited thereto.
+<img> id-US20180037547A1-20180208-C00004.TIF </img>
 In the present specification, the number of carbon atoms of a carbonyl group is not particularly limited, but is preferably 1 to 30. Specifically, the carbonyl group may be a compound having the following structures, but is not limited thereto.
+<img> id-US20180037547A1-20180208-C00005.TIF </img>
 In the present specification, for the ester group, the oxygen of the ester group may be substituted with a straight-chained, branch-chained, or cyclic alkyl group having 1 to 25 carbon atoms, or an aryl group having 6 to 30 carbon atoms. Specifically, the ester group may be a compound having the following structural formulae, but is not limited thereto.
+<img> id-US20180037547A1-20180208-C00006.TIF </img>
 In the present specification, the alkyl group may be straight-chained or branch-chained, and the number of carbon atoms thereof is not particularly limited, but is preferably 1 to 30. Specific examples thereof include methyl, ethyl, propyl, n-propyl, isopropyl, butyl, n-butyl, isobutyl, tert-butyl, sec-butyl, 1-methyl-butyl, 1-ethyl-butyl, pentyl, n-pentyl, isopentyl, neopentyl, tert-pentyl, hexyl, n-hexyl, 1-methylpentyl, 2-methylpentyl, 4-methyl-2-pentyl, 3,3-dimethylbutyl, 2-ethylbutyl, heptyl, n-heptyl, 1-methylhexyl, cyclopentylmethyl, cyclohexylmethyl, octyl, n-octyl, tert-octyl, 1-methylheptyl, 2-ethylhexyl, 2-propylpentyl, n-nonyl, 2,2-dimethylheptyl, 1-ethyl-propyl, 1,1-dimethyl-propyl, isohexyl, 2-methylpentyl, 4-methylhexyl, 5-methylhexyl, and the like, but are not limited thereto.
 In the present specification, the cycloalkyl group is not particularly limited, but a cyclohexyl group having 3 to 30 carbon atoms is preferred, and specific examples thereof include cyclopropyl, cyclobutyl, cyclopentyl, 3-methylcyclopentyl, 2,3-dimethylcyclopentyl, cyclohexyl, 3-methylcyclohexyl, 4-methylcyclohexyl, 2,3-dimethylcyclohexyl, 3,4,5-trimethylcyclohexyl, 4-tert-butylcyclohexyl, cycloheptyl, cyclooctyl, and the like, but are not limited thereto.
 In the present specification, the alkoxy group may be straight-chained, branch-chained, or cyclic. The number of carbon atoms of the alkoxy group is not particularly limited, but is preferably 1 to 30. Specific examples thereof include methoxy, ethoxy, n-propoxy, isopropoxy, i-propyloxy, n-butoxy, isobutoxy, tert-butoxy, sec-butoxy, n-pentyloxy, neopentyloxy, isopentyloxy, n-hexyloxy, 3,3-dimethylbutyloxy, 2-ethylbutyloxy, n-octyloxy, n-nonyloxy, n-decyloxy, benzyloxy, p-methylbenzyloxy, and the like, but are not limited thereto.
@@ -55,6 +61,7 @@ When the aryl group is a monocyclic aryl group, the number of carbon atoms there
 When the aryl group is a polycyclic aryl group, the number of carbon atoms thereof is not particularly limited, but is preferably 10 to 30. Specific examples of the polycyclic aryl group include a naphthyl group, an anthracenyl group, a phenanthryl group, a triphenyl group, a pyrenyl group, a perylenyl group, a chrysenyl group, a fluorenyl group, and the like, but are not limited thereto.
 In the present specification, the fluorenyl group may be substituted, and adjacent substituents may combine with each other to form a ring.
 When the fluorenyl group is substituted, the fluorenyl group may be
+<img> id-US20180037547A1-20180208-C00007.TIF </img>
 and the like. However, the fluorenyl group is not limited thereto.
 In the present specification, the “adjacent” group may mean a substituent substituted with an atom directly linked to an atom in which the corresponding substituent is substituted, a substituent disposed sterically closest to the corresponding substituent, or another substituent substituted with an atom in which the corresponding substituent is substituted. For example, two substituents substituted at the ortho position in a benzene ring and two substituents substituted with the same carbon in an aliphatic ring may be interpreted as groups which are “adjacent” to each other.
 In the present specification, the aryl group in the aryloxy group, the arylthioxy group, the arylsulfoxy group, the N-arylalkylamine group, the N-arylheteroarylamine group, and the arylphosphine group is the same as the above-described examples of the aryl group. Specifically, examples of the aryloxy group include a phenoxy group, a p-tolyloxy group, an m-tolyloxy group, a 3,5-dimethyl-phenoxy group, a 2,4,6-trimethylphenoxy group, a p-tert-butylphenoxy group, a 3-biphenyloxy group, a 4-biphenyloxy group, a 1-naphthyloxy group, a 2-naphthyloxy group, a 4-methyl-1-naphthyloxy group, a 5-methyl-2-naphthyloxy group, a 1-anthryloxy group, a 2-anthryloxy group, a 9-anthryloxy group, a 1-phenanthryloxy group, a 3-phenanthryloxy group, a 9-phenanthryloxy group, and the like, examples of the arylthioxy group include a phenylthioxy group, a 2-methylphenylthioxy group, a 4-tert-butylphenylthioxy group, and the like, and examples of the arylsulfoxy group include a benzenesulfoxy group, a p-toluenesulfoxy group, and the like, but are not limited thereto.
@@ -79,6 +86,7 @@ According to an exemplary embodiment of the present specification, in Chemical F
 According to an exemplary embodiment of the present specification, in Chemical Formula 1, R2 and R3 combine with each other to form a benzene ring.
 According to an exemplary embodiment of the present specification, in Chemical Formula 1, R3 and R4 combine with each other to form a benzene ring.
 According to an exemplary embodiment of the present specification, Chemical Formula 1 is represented by any one of the following Chemical Formulae 1-1 to 1-3.
+<img> id-US20180037547A1-20180208-C00008.TIF </img>
 In Chemical Formulae 1-1 to 1-3,
 the definitions of L1, Ar1, and R1 to R7 are the same as those in Chemical Formula 1.
 According to an exemplary embodiment of the present specification, in Chemical Formula 1, L1 is a direct bond; a substituted or unsubstituted monocyclic or polycyclic arylene group having 6 to 30 carbon atoms; or a substituted or unsubstituted monocyclic or polycyclic heteroarylene group having 2 to 30 carbon atoms.
@@ -87,9 +95,12 @@ According to an exemplary embodiment of the present specification, in Chemical F
 According to an exemplary embodiment of the present specification, in Chemical Formula 1, L1 is a direct bond; a phenylene group; a biphenylene group; a triazinylene group; a quinazolinylene group; or a carbazolylene group.
 According to an exemplary embodiment of the present specification, in Chemical Formula 1, Ar1 is selected from the group consisting of a substituted or unsubstituted diarylamine group; a substituted or unsubstituted diheteroaryl amine group; a substituted or unsubstituted silyl group; a substituted or unsubstituted phosphine oxide group; a substituted or unsubstituted monocyclic or polycyclic aryl group having 6 to 30 carbon atoms; and a substituted or unsubstituted monocyclic or polycyclic heteroaryl group having 2 to 30 carbon atoms.
 According to an exemplary embodiment of the present specification, Ar1 is selected from the group consisting of a substituted or unsubstituted phenyl group; a substituted or unsubstituted biphenyl group; a substituted or unsubstituted phenanthrenyl group; a substituted or unsubstituted naphthyl group; a substituted or unsubstituted terphenyl group; a substituted or unsubstituted fluorenyl group; a substituted or unsubstituted anthracenyl group; a substituted or unsubstituted chrysenyl group; a substituted or unsubstituted quarterphenyl group; a substituted or unsubstituted spirobifluorenyl group; a substituted or unsubstituted pyrenyl group; a substituted or unsubstituted triphenylenyl group; a substituted or unsubstituted perylenyl group; a substituted or unsubstituted triazinyl group; a substituted or unsubstituted pyrimidyl group; a substituted or unsubstituted pyridyl group; a substituted or unsubstituted quinolinyl group; a substituted or unsubstituted quinazolinyl group; a substituted or unsubstituted benzoquinolinyl group; a substituted or unsubstituted phenanthrolinyl group; a substituted or unsubstituted quinoxalinyl group; a substituted or unsubstituted dibenzofuranyl group; a substituted or unsubstituted dibenzothiophene group; a substituted or unsubstituted benzonaphthofuranyl group; a substituted or unsubstituted benzonaphthothiophene group; a substituted or unsubstituted dimethylphosphine oxide group; a substituted or unsubstituted diphenylphosphine oxide group; a substituted or unsubstituted dinaphthylphosphine oxide group; a substituted or unsubstituted benzoxazolyl group; a substituted or unsubstituted benzothiazolyl group; a substituted or unsubstituted benzimidazolyl group; a substituted or unsubstituted triphenylsilyl group; a substituted or unsubstituted phenothiazinyl group; a substituted or unsubstituted phenoxazinyl group; a substituted or unsubstituted thiophene group; a substituted or unsubstituted diphenylamine group; a substituted or unsubstituted N-phenylnaphthylamine group; a substituted or unsubstituted N-phenylbiphenylamine group; a substituted or unsubstituted N-phenylphenanthrenylamine group; a substituted or unsubstituted N-biphenylnaphthylamine group; a substituted or unsubstituted dibiphenylamine group; a substituted or unsubstituted N-biphenylphenanthrenylamine group; a substituted or unsubstituted dinaphthylamine group; a substituted or unsubstituted N-quarterphenylfluorenylamine group; a substituted or unsubstituted N-terphenylfluorenylamine group; a substituted or unsubstituted N-biphenyl terphenylamine group; a substituted or unsubstituted N-biphenylfluorenylamine group; a substituted or unsubstituted N-phenylfluorenylamine group; a substituted or unsubstituted N-naphthylfluorenylamine group; a substituted or unsubstituted N-phenanthrenylfluorenylamine group; a substituted or unsubstituted difluorenylamine group; a substituted or unsubstituted N-phenyl terphenylamine group; a substituted or unsubstituted N-phenylcarbazolylamine group; a substituted or unsubstituted N-biphenylcarbazolylamine group; a substituted or unsubstituted N-phenylbenzocarbazolylamine group; a substituted or unsubstituted N-biphenylbenzocarbazolylamine group; a substituted or unsubstituted N-fluorenylcarbazolylamine group; a substituted or unsubstituted benzocarbazolyl group; a substituted or unsubstituted dibenzocarbazolyl group; a substituted or unsubstituted carbazolyl group; substituted or unsubstituted
+<img> id-US20180037547A1-20180208-C00009.TIF </img>
 substituted or unsubstituted
+<img> id-US20180037547A1-20180208-C00010.TIF </img>
 and a structure represented by the following Chemical Formula a,
 ---- means a moiety bonded to Chemical Formula 1 via L1.
+<img> id-US20180037547A1-20180208-C00011.TIF </img>
 In Chemical Formula a,
 at least one of X1 to X12 is a moiety bonded to Chemical Formula 1 via L1, and the others are the same as or different from each other, and are each independently hydrogen; a substituted or unsubstituted alkyl group; a substituted or unsubstituted aryl group; or a substituted or unsubstituted heteroaryl group, or adjacent groups are linked to each other to form a substituted or unsubstituted ring.
 According to an exemplary embodiment of the present specification, in Chemical Formula a, one of X1 to X12 is a moiety bonded to Chemical Formula 1 via L1, and the others are hydrogen.
@@ -98,16 +109,22 @@ According to an exemplary embodiment of the present specification, in Chemical F
 According to an exemplary embodiment of the present specification, in Chemical Formula a, X11 and X12 are linked to each other to form a substituted or unsubstituted benzene ring.
 According to an exemplary embodiment of the present specification, in Chemical Formula a, X11 and X12 are linked to each other to form a benzene ring.
 According to an exemplary embodiment of the present specification, Ar1 is selected from the group consisting of a phenyl group; a biphenyl group; a phenanthrenyl group; a naphthyl group; a terphenyl group; a fluorenyl group; an anthracenyl group; a chrysenyl group; a quarterphenyl group; a spirobifluorenyl group; a pyrenyl group; a triphenylenyl group; a perylenyl group; a triazinyl group; a pyrimidyl group; a pyridyl group; a quinolinyl group; a quinazolinyl group; a benzoquinolinyl group; a phenanthrolinyl group; a quinoxalinyl group; a dibenzofuranyl group; a dibenzothiophene group; benzonaphthofuranyl group; a benzonaphthothiophene group; a dimethylphosphine oxide group; diphenylphosphine oxide group; dinaphthylphosphine oxide group; a benzoxazolyl group; a benzothiazolyl group; a benzimidazolyl group; a triphenylsilyl group; a phenothiazinyl group; a phenoxazinyl group; a thiophene group; a diphenylamine group; an N-phenylnaphthylamine group; an N-phenylbiphenylamine group; an N-phenylphenanthrenylamine group; an N-biphenylnaphthylamine group; a dibiphenylamine group; an N-biphenylphenanthrenylamine group; a dinaphthylamine group; an N-quarterphenylfluorenylamine group; an N-terphenylfluorenylamine group; an N-biphenyl terphenylamine group; an N-biphenylfluorenylamine group; a substituted or unsubstituted N-phenylfluorenylamine group; an N-naphthylfluorenylamine group; an N-phenanthrenylfluorenylamine group; a difluorenylamine group; an N-phenyl terphenylamine group; an N-phenylcarbazolylamine group; an N-biphenylcarbazolylamine group; an N-phenylbenzocarbazolylamine group; an N-biphenylbenzocarbazolylamine group; an N-fluorenylcarbazolylamine group; a benzocarbazolyl group; a dibenzocarbazolyl group; a carbazolyl group;
+<img> id-US20180037547A1-20180208-C00012.TIF </img><img> id-US20180037547A1-20180208-C00013.TIF </img>
 and
 Ar1 may be unsubstituted or substituted with one or more selected from the group consisting of deuterium; a fluorine group; a nitrile group; a methyl group; a t-butyl group; a phenyl group; a biphenyl group; a naphthyl group; a fluorenyl group; a phenanthrenyl group; a carbazolyl group; a benzocarbazolyl group; a pyridyl group; a triazinyl group; a triphenylenyl group; a pyrimidyl group; a quinolinyl group; a dibenzofuranyl group; a dibenzothiophene group; a benzimidazolyl group; a benzothiazolyl group; a benzoxazolyl group; a thiophene group; a dimethylphosphine oxide group; a diphenylphosphine oxide group; a dinaphthylphosphine oxide group; a trimethylsilyl group; a triphenylsilyl group; a diphenylamine group; a dibiphenylamine group; an N-phenylbiphenylamine group; an N-phenylnaphthylamine group; an N-biphenylnaphthylamine group; an N-naphthylfluorenylamine group; an N-phenylphenanthrenylamine group; an N-biphenylphenanthrenylamine group; an N-phenylfluorenylamine group; an N-phenyl terphenylamine group; an N-phenanthrenylfluorenylamine group; an N-biphenylfluorenylamine group; and
+<img> id-US20180037547A1-20180208-C00014.TIF </img>
 ---- means a moiety bonded to Chemical Formula 1 via L1.
 According to an exemplary embodiment of the present specification, in Chemical Formula 1, Ar1 is represented by any one of the following Structural Formulae [A-1] to [A-5].
 [A-1]
+<img> id-US20180037547A1-20180208-C00015.TIF </img><img> id-US20180037547A1-20180208-C00016.TIF </img><img> id-US20180037547A1-20180208-C00017.TIF </img><img> id-US20180037547A1-20180208-C00018.TIF </img><img> id-US20180037547A1-20180208-C00019.TIF </img><img> id-US20180037547A1-20180208-C00020.TIF </img><img> id-US20180037547A1-20180208-C00021.TIF </img><img> id-US20180037547A1-20180208-C00022.TIF </img><img> id-US20180037547A1-20180208-C00023.TIF </img><img> id-US20180037547A1-20180208-C00024.TIF </img><img> id-US20180037547A1-20180208-C00025.TIF </img><img> id-US20180037547A1-20180208-C00026.TIF </img><img> id-US20180037547A1-20180208-C00027.TIF </img><img> id-US20180037547A1-20180208-C00028.TIF </img><img> id-US20180037547A1-20180208-C00029.TIF </img><img> id-US20180037547A1-20180208-C00030.TIF </img><img> id-US20180037547A1-20180208-C00031.TIF </img><img> id-US20180037547A1-20180208-C00032.TIF </img><img> id-US20180037547A1-20180208-C00033.TIF </img><img> id-US20180037547A1-20180208-C00034.TIF </img><img> id-US20180037547A1-20180208-C00035.TIF </img><img> id-US20180037547A1-20180208-C00036.TIF </img><img> id-US20180037547A1-20180208-C00037.TIF </img><img> id-US20180037547A1-20180208-C00038.TIF </img><img> id-US20180037547A1-20180208-C00039.TIF </img><img> id-US20180037547A1-20180208-C00040.TIF </img><img> id-US20180037547A1-20180208-C00041.TIF </img><img> id-US20180037547A1-20180208-C00042.TIF </img><img> id-US20180037547A1-20180208-C00043.TIF </img><img> id-US20180037547A1-20180208-C00044.TIF </img><img> id-US20180037547A1-20180208-C00045.TIF </img><img> id-US20180037547A1-20180208-C00046.TIF </img><img> id-US20180037547A1-20180208-C00047.TIF </img><img> id-US20180037547A1-20180208-C00048.TIF </img><img> id-US20180037547A1-20180208-C00049.TIF </img><img> id-US20180037547A1-20180208-C00050.TIF </img><img> id-US20180037547A1-20180208-C00051.TIF </img><img> id-US20180037547A1-20180208-C00052.TIF </img><img> id-US20180037547A1-20180208-C00053.TIF </img><img> id-US20180037547A1-20180208-C00054.TIF </img><img> id-US20180037547A1-20180208-C00055.TIF </img><img> id-US20180037547A1-20180208-C00056.TIF </img><img> id-US20180037547A1-20180208-C00057.TIF </img><img> id-US20180037547A1-20180208-C00058.TIF </img><img> id-US20180037547A1-20180208-C00059.TIF </img><img> id-US20180037547A1-20180208-C00060.TIF </img><img> id-US20180037547A1-20180208-C00061.TIF </img><img> id-US20180037547A1-20180208-C00062.TIF </img><img> id-US20180037547A1-20180208-C00063.TIF </img><img> id-US20180037547A1-20180208-C00064.TIF </img><img> id-US20180037547A1-20180208-C00065.TIF </img><img> id-US20180037547A1-20180208-C00066.TIF </img><img> id-US20180037547A1-20180208-C00067.TIF </img><img> id-US20180037547A1-20180208-C00068.TIF </img><img> id-US20180037547A1-20180208-C00069.TIF </img><img> id-US20180037547A1-20180208-C00070.TIF </img><img> id-US20180037547A1-20180208-C00071.TIF </img><img> id-US20180037547A1-20180208-C00072.TIF </img>
 In the structural formulae, ---- means a moiety bonded to Chemical Formula 1 via L1.
 According to an exemplary embodiment of the present specification, Chemical Formula 1 is represented by any one of the following compounds.
+<img> id-US20180037547A1-20180208-C00073.TIF </img><img> id-US20180037547A1-20180208-C00074.TIF </img><img> id-US20180037547A1-20180208-C00075.TIF </img><img> id-US20180037547A1-20180208-C00076.TIF </img><img> id-US20180037547A1-20180208-C00077.TIF </img><img> id-US20180037547A1-20180208-C00078.TIF </img><img> id-US20180037547A1-20180208-C00079.TIF </img><img> id-US20180037547A1-20180208-C00080.TIF </img><img> id-US20180037547A1-20180208-C00081.TIF </img><img> id-US20180037547A1-20180208-C00082.TIF </img><img> id-US20180037547A1-20180208-C00083.TIF </img><img> id-US20180037547A1-20180208-C00084.TIF </img><img> id-US20180037547A1-20180208-C00085.TIF </img><img> id-US20180037547A1-20180208-C00086.TIF </img><img> id-US20180037547A1-20180208-C00087.TIF </img><img> id-US20180037547A1-20180208-C00088.TIF </img><img> id-US20180037547A1-20180208-C00089.TIF </img><img> id-US20180037547A1-20180208-C00090.TIF </img><img> id-US20180037547A1-20180208-C00091.TIF </img><img> id-US20180037547A1-20180208-C00092.TIF </img><img> id-US20180037547A1-20180208-C00093.TIF </img><img> id-US20180037547A1-20180208-C00094.TIF </img><img> id-US20180037547A1-20180208-C00095.TIF </img><img> id-US20180037547A1-20180208-C00096.TIF </img><img> id-US20180037547A1-20180208-C00097.TIF </img><img> id-US20180037547A1-20180208-C00098.TIF </img><img> id-US20180037547A1-20180208-C00099.TIF </img><img> id-US20180037547A1-20180208-C00100.TIF </img><img> id-US20180037547A1-20180208-C00101.TIF </img><img> id-US20180037547A1-20180208-C00102.TIF </img><img> id-US20180037547A1-20180208-C00103.TIF </img><img> id-US20180037547A1-20180208-C00104.TIF </img><img> id-US20180037547A1-20180208-C00105.TIF </img><img> id-US20180037547A1-20180208-C00106.TIF </img><img> id-US20180037547A1-20180208-C00107.TIF </img><img> id-US20180037547A1-20180208-C00108.TIF </img><img> id-US20180037547A1-20180208-C00109.TIF </img><img> id-US20180037547A1-20180208-C00110.TIF </img><img> id-US20180037547A1-20180208-C00111.TIF </img><img> id-US20180037547A1-20180208-C00112.TIF </img><img> id-US20180037547A1-20180208-C00113.TIF </img><img> id-US20180037547A1-20180208-C00114.TIF </img><img> id-US20180037547A1-20180208-C00115.TIF </img><img> id-US20180037547A1-20180208-C00116.TIF </img><img> id-US20180037547A1-20180208-C00117.TIF </img><img> id-US20180037547A1-20180208-C00118.TIF </img><img> id-US20180037547A1-20180208-C00119.TIF </img><img> id-US20180037547A1-20180208-C00120.TIF </img><img> id-US20180037547A1-20180208-C00121.TIF </img><img> id-US20180037547A1-20180208-C00122.TIF </img><img> id-US20180037547A1-20180208-C00123.TIF </img><img> id-US20180037547A1-20180208-C00124.TIF </img><img> id-US20180037547A1-20180208-C00125.TIF </img><img> id-US20180037547A1-20180208-C00126.TIF </img><img> id-US20180037547A1-20180208-C00127.TIF </img>
 Chemical Formula 1 according to an exemplary embodiment of the present specification may be represented by Chemical Formula 1-1, and the core of the compound represented by Chemical Formula 1-1 may be prepared through the following Reaction Formula 1, but the preparation method is not limited thereto.
+<img> id-US20180037547A1-20180208-C00128.TIF </img><img> id-US20180037547A1-20180208-C00129.TIF </img>
 In Reaction Formula 1, X is a halogen group, and the definitions of L1 and Ar1 are the same as those in Chemical Formula 1.
 Chemical Formula 1 according to an exemplary embodiment of the present specification may be represented by Chemical Formula 1-3, and the core of the compound represented by Chemical Formula 1-3 may be prepared through the following Reaction Formula 2, but the preparation method is not limited thereto.
+<img> id-US20180037547A1-20180208-C00130.TIF </img><img> id-US20180037547A1-20180208-C00131.TIF </img>
 In Reaction Formula 2, X is a halogen group, and the definitions of L1 and Ar1 are the same as those in Chemical Formula 1.
 An exemplary embodiment of the present specification provides an organic light emitting device including: a first electrode; a second electrode provided to face the first electrode; and one or more organic material layers provided between the first electrode and the second electrode, in which one or more layers of the organic material layers include the hetero-cyclic compound represented by Chemical Formula 1.
 The organic material layer of the organic light emitting device of the present specification may also be composed of a single-layered structure, but may be composed of a multi-layered structure in which two or more organic material layers are stacked. For example, the organic light emitting device of the present invention may have a structure including a hole injection layer, a hole transport layer, an electron blocking layer, a light emitting layer, a hole blocking layer, an electron transport layer, an electron injection layer, and the like as organic material layers. However, the structure of the organic light emitting device is not limited thereto, and may include a fewer number of organic layers.
@@ -124,6 +141,7 @@ According to an exemplary embodiment of the present specification, the organic m
 According to an exemplary embodiment of the present specification, the organic material layer includes an electron transport layer, an electron injection layer, or a layer which transports and injects electrons simultaneously, and the electron transport layer, the electron injection layer, or the layer which transports and injects electrons simultaneously includes the hetero-cyclic compound.
 According to an exemplary embodiment of the present specification, the organic material layer further includes a hole injection layer or a hole transport layer, which includes a compound including an arylamino group, a carbazole group, or a benzocarbazole group, in addition to the organic material layer including the hetero-cyclic compound represented by Chemical Formula 1.
 According to an exemplary embodiment of the present specification, the organic material layer includes a light emitting layer, and the light emitting layer includes a compound represented by the following Chemical Formula 1-A.
+<img> id-US20180037547A1-20180208-C00132.TIF </img>
 In Chemical Formula 1-A,
 n1 is an integer of 1 or more,
 Ar7 is a substituted or unsubstituted monovalent or more benzofluorene group; a substituted or unsubstituted monovalent or more fluoranthene group; a substituted or unsubstituted monovalent or more pyrene group; or a substituted or unsubstituted monovalent or more chrysene group,
@@ -140,9 +158,12 @@ According to an exemplary embodiment of the present specification, Ar8 and Ar9 a
 According to an exemplary embodiment of the present specification, Ar8 and Ar9 are the same as or different from each other, and are each independently a substituted or unsubstituted phenyl group.
 According to an exemplary embodiment of the present specification, Ar8 and Ar9 are a phenyl group which is unsubstituted or substituted with a trimethylgermanium group.
 According to an exemplary embodiment of the present specification, Chemical Formula 1-A is represented by the following compound.
+<img> id-US20180037547A1-20180208-C00133.TIF </img>
 According to an exemplary embodiment of the present specification, the organic material layer includes a light emitting layer, and the light emitting layer includes a compound represented by the following Chemical Formula 2-A.
+<img> id-US20180037547A1-20180208-C00134.TIF </img>
 In Chemical Formula 2-A,
 G11 is a 1-naphthyl group, a 2-naphthyl group, a 1-anthryl group, a 2-anthryl group, a 1-phenanthryl group, a 2-phenanthryl group, a 3-phenanthryl group, a 4-phenanthryl group, a 9-phenanthryl group, a 1-naphthacenyl group, a 2-naphthacenyl group, a 9-naphthacenyl group, a 1-pyrenyl group, a 2-pyrenyl group, a 4-pyrenyl group, a 3-methyl-2-naphthyl group, a 4-methyl-1-naphthyl group, or the following Chemical Formula
+<img> id-US20180037547A1-20180208-C00135.TIF </img>
 G12 is a phenyl group, a 1-naphtyl group, a 2-naphtyl group, a 1-anthryl group, a 2-anthryl group, a 9-anthryl group, a 1-phenanthryl group, a 2-phenanthryl group, a 3-phenanthryl group, a 4-phenanthryl group, a 9-phenanthryl group, a 1-naphthacenyl group, a 2-naphthacenyl group, a 9-naphthacenyl group, a 1-pyrenyl group, a 2-pyrenyl group, a 4-pyrenyl group, a 2-biphenylyl group, a 3-biphenylyl group, a 4-biphenylyl group, a p-terphenyl-4-yl group, a p-terphenyl-3-yl group, a p-terphenyl-2-yl group, an m-terphenyl-4-yl group, an m-terphenyl-3-yl group, an m-terphenyl-2-yl group, an o-tolyl group, an m-tolyl group, a p-tolyl group, a p-t-butylphenyl group, a p-(2-phenylpropyl)phenyl group, a 3-methyl-2-naphthyl group, a 4-methyl-1-naphthyl group, a 4-methyl-1-anthryl group, a 4'-methylbiphenylyl group, a 4″-t-butyl-p-terphenyl-4-yl group, or a 3-fluoranthenyl group,
 G13 and G14 are the same as or different from each other, and are each independently hydrogen; a substituted or unsubstituted alkyl group; a substituted or unsubstituted alkoxy group; a substituted or unsubstituted aryl group; or a substituted or unsubstituted heteroaryl group,
 g12 is an integer of 1 to 5,
@@ -153,6 +174,7 @@ According to an exemplary embodiment of the present specification, G11 is a 1-na
 According to an exemplary embodiment of the present specification, G12 is a 2-naphthyl group.
 According to an exemplary embodiment of the present specification, G13 and G14 are hydrogen.
 According to an exemplary embodiment of the present specification, Chemical Formula 2-A is represented by the following compound.
+<img> id-US20180037547A1-20180208-C00136.TIF </img>
 The organic light emitting device of the present specification may be manufactured by the materials and methods known in the art, except that one or more layers of the organic material layers include the hetero-cyclic compound of the present specification, that is, the hetero-cyclic compound represented by Chemical Formula 1.
 When the organic light emitting device includes a plurality of organic material layers, the organic material layers may be formed of the same material or different materials.
 For example, the organic light emitting device of the present specification may be manufactured by sequentially stacking a first electrode, an organic material layer, and a second electrode on a substrate. In this case, the organic light emitting device may be manufactured by depositing a metal or a metal oxide having conductivity, or an alloy thereof on a substrate to form a first electrode, forming an organic material layer including a hole injection layer, a hole transport layer, a light emitting layer, and an electron transport layer thereon, and then depositing a material, which may be used as a second electrode, thereon, by using a physical vapor deposition (PVD) method such as sputtering or e-beam evaporation. In addition to the method as described above, an organic light emitting device may be made by sequentially depositing a negative electrode material, an organic material layer, and a first electrode material on a substrate. Further, the compound represented by Chemical Formula 1 may be formed as an organic material layer by not only a vacuum deposition method, but also a solution application method when an organic light emitting device is manufactured. Here, the solution application method means spin coating, dip coating, doctor blading, inkjet printing, screen printing, a spray method, roll coating, and the like, but is not limited thereto.
@@ -175,106 +197,141 @@ The organic light emitting device according to the present specification may be 
 According to an exemplary embodiment of the present specification, the compound represented by Chemical Formula 1 may be included in an organic solar cell or an organic transistor in addition to the organic light emitting device.
 Hereinafter, the present specification will be described in detail with reference to Examples in order to specifically explain the present specification. However, the Examples according to the present specification may be modified in various forms, and it is not interpreted that the scope of the present specification is limited to the Examples described below in detail. The Examples of the present specification are provided to more completely explain the present specification to a person with ordinary skill in the art.
 <Preparation Example 1> Preparation of Compound 1
+<img> id-US20180037547A1-20180208-C00137.TIF </img>
 Compound A (10 g, 31.53 mmol), bromobenzene (3.41 g, 34.69 mmol), and NaOt-Bu (3.94 g, 40.99 mmol) were put into 250 ml of toluene, and then the temperature was increased while stirring the mixture. The mixture was warmed and then, when the reflux started, bis(tri-tert-butylphosphine)palladium (0.16 g, 0.32 mmol) was slowly added dropwise thereto. After 3 hours, the reaction was terminated, the temperature was lowered to normal temperature, and the resulting product was concentrated under reduced pressure, and then column-purified at a ratio of n-hexane:ethyl acetate=10:1 to prepare 10.84 g (87%) of Compound 1.
 MS[M+H]+=394
 <Preparation Example 2> Preparation of Compound 2
+<img> id-US20180037547A1-20180208-C00138.TIF </img>
 11.56 g of Compound 2 was prepared in the same manner as in Preparation Example 1, except that Compound A (10 g, 31.53 mmol) and para-bromobenzonitrile (4.24 g, 34.69 mmol) were used. (88%)
 MS[M+H]+=419
 <Preparation Example 3> Preparation of Compound 3
+<img> id-US20180037547A1-20180208-C00139.TIF </img>
 9.46 g of Compound 3 was prepared in the same manner as in Preparation Example 1, except that Compound A (10 g, 31.53 mmol) and para-bromobenzene-D5 (4.59 g, 34.69 mmol) were used. (75%)
 MS[M+H]+=399
 <Preparation Example 4> Preparation of Compound 4
+<img> id-US20180037547A1-20180208-C00140.TIF </img>
 12.51 g of Compound 4 was prepared in the same manner as in Preparation Example 1, except that Compound A (10 g, 31.53 mmol) and 4-bromo-1,1'-biphenyl (4.01 g, 34.69 mmol) were used. (84%)
 MS[M+H]+=470
 <Preparation Example 5> Preparation of Compound 5
+<img> id-US20180037547A1-20180208-C00141.TIF </img>
 15.15 g of Compound 5 was prepared in the same manner as in Preparation Example 1, except that Compound A (10 g, 31.53 mmol) and 9-bromophenanthrene (5.88 g, 34.69 mmol) were used. (97%)
 MS[M+H]+=494
 <Preparation Example 6> Preparation of Compound 6
+<img> id-US20180037547A1-20180208-C00142.TIF </img>
 14.41 g of Compound 6 was prepared in the same manner as in Preparation Example 1, except that Compound A (10 g, 31.53 mmol) and 2-bromo-9,9-dimethyl-9H-fluorene (4.43 g, 34.69 mmol) were used. (90%)
 MS[M+H]+=510
 <Preparation Example 7> Preparation of Compound 7
+<img> id-US20180037547A1-20180208-C00143.TIF </img>
 12.12 g of Compound 7 was prepared in the same manner as in Preparation Example 1, except that Compound A (10 g, 31.53 mmol) and 2-bromonaphthalene (4.15 g, 34.69 mmol) were used. (87%)
 MS[M+H]+=444
 <Preparation Example 8> Preparation of Compound 8
+<img> id-US20180037547A1-20180208-C00144.TIF </img>
 Compound A (10 g, 31.53 mmol), 4-bromo-N,N-diphenylaniline (10.21 g, 34.69 mmol), and sodium t-butoxide (3.94 g, 40.99 mmol) were put into 300 ml of toluene, and then the temperature was increased while stirring the mixture. The mixture was warmed and then, when the reflux started, bis(tri-tert-butylphosphine)palladium (0.16 g, 0.32 mmol) was slowly added dropwise thereto. After 5 hours, the reaction was terminated, the temperature was lowered to normal temperature, and the resulting product was concentrated under reduced pressure, and then column-purified at a ratio of n-hexane:ethyl acetate=15:1 to prepare 15.01 g of Compound 8. (85%)
 MS[M+H]+=561
 <Preparation Example 9> Preparation of Compound 9
+<img> id-US20180037547A1-20180208-C00145.TIF </img>
 17.84 g of Compound 9 was prepared in the same manner as in Preparation Example 8, except that Compound A (10 g, 31.53 mmol) and N-(4-bromophenyl)-N-phenyl-[1,1'-biphenyl]-4-amine (10.88 g, 34.69 mmol) were used. (89%)
 MS[M+H]+=637
 <Preparation Example 10> Preparation of Compound 10
+<img> id-US20180037547A1-20180208-C00146.TIF </img>
 19.51 g of Compound 10 was prepared in the same manner as in Preparation Example 8, except that Compound A (10 g, 31.53 mmol) and N-([1,1'-biphenyl]-4-yl)-N-(4-bromophenyl)-[1,1'-biphenyl]-4-amine (11.48 g, 34.69 mmol) were used. (87%)
 MS[M+H]+=713
 <Preparation Example 11> Preparation of Compound 11
+<img> id-US20180037547A1-20180208-C00147.TIF </img>
 16.14 g of Compound 11 was prepared in the same manner as in Preparation Example 8, except that Compound A (10 g, 31.53 mmol) and N-(4-bromophenyl)-9,9-dimethyl-N-phenyl-9H-fluoren-2-amine (10.15 g, 34.69 mmol) were used. (81%)
 MS[M+H]+=677
 <Preparation Example 12> Preparation of Compound 12
+<img> id-US20180037547A1-20180208-C00148.TIF </img>
 12.51 g of Compound 12 was prepared in the same manner as in Preparation Example 8, except that Compound A (10 g, 31.53 mmol) and N-([1,1'-biphenyl]-4-yl)-N-(4-bromophenyl)-9,9-dimethyl-9H-fluoren-2-amine (11.48 g, 34.69 mmol) were used. (58%)
 MS[M+H]+=753
 <Preparation Example 13> Preparation of Compound 13
+<img> id-US20180037547A1-20180208-C00149.TIF </img>
 Compound A (10 g, 31.53 mmol), 9-(4-bromophenyl)-9H-carbazole (8.14 g, 34.69 mmol), and sodium t-butoxide (3.49 g, 40.99 mol) were put into 300 ml of toluene, and then the temperature was increased while stirring the mixture. The mixture was warmed and then, when the reflux started, bis(tri-tert-butylphosphine)palladium (0.16 g, 0.32 mmol) was slowly added dropwise thereto. After 8 hours, the reaction was terminated, the temperature was lowered to normal temperature, and the resulting product was concentrated under reduced pressure, and then column-purified to prepare 14.15 g of Compound 13 (80%).
 MS[M+H]+=559
 <Preparation Example 14> Preparation of Compound 14
+<img> id-US20180037547A1-20180208-C00150.TIF </img>
 12.77 g of Compound 14 was prepared in the same manner as in Preparation Example 13, except that Compound A (10 g, 31.53 mmol) and 9-(3-bromophenyl)-9H-carbazole (8.14 g, 34.69 mmol) were used. (72%)
 MS[M+H]+=559
 <Preparation Example 15> Preparation of Compound 15
+<img> id-US20180037547A1-20180208-C00151.TIF </img>
 16.24 g of Compound 15 was prepared in the same manner as in Preparation Example 13, except that Compound A (10 g, 31.53 mmol) and 3-bromo-9-phenyl-9H-carbazole (8.14 g, 34.69 mmol) were used. (92%)
 MS[M+H]+=559
 <Preparation Example 16> Preparation of Compound 16
+<img> id-US20180037547A1-20180208-C00152.TIF </img>
 14.01 g of Compound 16 was prepared in the same manner as in Preparation Example 13, except that Compound A (10 g, 31.53 mmol) and 2-bromo-9-phenyl-9H-carbazole (8.14 g, 34.69 mmol) were used. (79%)
 MS[M+H]+=559
 <Preparation Example 17> Preparation of Compound 17
+<img> id-US20180037547A1-20180208-C00153.TIF </img>
 7.2 g of Compound 17 was prepared in the same manner as in Preparation Example 13, except that Compound A (10 g, 31.53 mmol) and 3-(4-bromophenyl)-9-phenyl-9H-carbazole (8.97 g, 34.69 mmol) were used. (92%)
 MS[M+H]+=725
 <Preparation Example 18> Preparation of Compound 18
+<img> id-US20180037547A1-20180208-C00154.TIF </img>
 7.2 g of Compound 18 was prepared in the same manner as in Preparation Example 13, except that Compound A (10 g, 31.53 mmol) and 3-bromo-9-(naphthalen2-yl)-9H-carbazole (8.67 g, 34.69 mmol) were used. (92%)
 MS[M+H]+=609
 <Preparation Example 19> Preparation of Compound 19
+<img> id-US20180037547A1-20180208-C00155.TIF </img>
 Compound A (10 g, 31.53 mmol), 2-(4-bromophenyl)dibenzo[b,d]thiophene (7.13 g, 12.8 mmol), and sodium t-butoxide (3.94 g, 40.99 mmol) were put into 250 ml of toluene, and then the temperature was increased while stirring the mixture. The mixture was warmed and then, when the reflux started, bis(tri-tert-butylphosphine)palladium (0.16 g, 0.32 mmol) was slowly added dropwise thereto. After 3 hours, the reaction was terminated, the temperature was lowered to normal temperature, and the resulting product was concentrated under reduced pressure, and then column-purified at a ratio of n-hexane:ethyl acetate=10:1 to prepare 6.5 g of Compound 19.
 MS[M+H]+=576
 <Preparation Example 20> Preparation of Compound 20
+<img> id-US20180037547A1-20180208-C00156.TIF </img>
 Compound A (10 g, 31.53 mmol), 2-(4-bromophenyl)dibenzo[b,d]furan (7.98 g, 12.8 mmol), and sodium t-butoxide (3.94 g, 40.99 mmol) were put into 250 ml of toluene, and then the temperature was increased while stirring the mixture. The mixture was warmed and then, when the reflux started, bis(tri-tert-butylphosphine)palladium (0.16 g, 0.32 mmol) was slowly added dropwise thereto. After 3 hours, the reaction was terminated, the temperature was lowered to normal temperature, and the resulting product was concentrated under reduced pressure, and then column-purified at a ratio of n-hexane:ethyl acetate=10:1 to prepare 6.1 g of Compound 20.
 MS[M+H]+=560
 <Preparation Example 21> Preparation of Compound 21
+<img> id-US20180037547A1-20180208-C00157.TIF </img>
 Compound A (10 g, 31.53 mmol), 2-chloro-4,6-diphenyl-1,3,5-triazine (7.53 g, 34.69 mmol), and K3PO4 (4.88 g, 23 mmol) were put into 21 ml of xylene and 7 ml of N,N-dimethylacetamide, and then the temperature was increased while stirring the mixture. The mixture was warmed and then, 7 hours after the mixture started to be refluxed, the reaction was terminated, the temperature was lowered to normal temperature, and the resulting product was concentrated under reduced pressure, and then column-purified to prepare 6.7 g of Compound 21.
 MS[M+H]+=549
 <Preparation Example 22> Preparation of Compound 22
+<img> id-US20180037547A1-20180208-C00158.TIF </img>
 Compound A (10 g, 31.53 mmol), 2-chloro-4,6-diphenylpyridine (7.37 g, 12.7 mmol), and K3PO4 (4.88 g, 23 mmol) were put into 21 ml of xylene and 7 ml of N,N-dimethylacetamide, and then the temperature was increased while stirring the mixture. The mixture was warmed and then, 9 hours after the mixture started to be refluxed, the reaction was terminated, the temperature was lowered to normal temperature, and the resulting product was concentrated under reduced pressure, and then column-purified to prepare 6.4 g of Compound 22.
 MS[M+H]+=547
 <Preparation Example 23> Preparation of Compound 23
+<img> id-US20180037547A1-20180208-C00159.TIF </img>
 Compound A (10 g, 31.53 mmol), 2-(4-bromophenyl)4,6-diphenyl-1,3,5-triazine (9.15 g, 12.7 mmol), and sodium t-butoxide (1.3 g, 13.8 mmol) were put into 40 ml of toluene, and then the temperature was increased while stirring the mixture. The mixture was warmed and then, when the reflux started, bis(tri-tert-butylphosphine)palladium (0.11 g, 0.23 mmol) was slowly added dropwise thereto. After 6 hours, the reaction was terminated, the temperature was lowered to normal temperature, and the resulting product was concentrated under reduced pressure, and then column-purified to prepare 7.3 g of Compound 23.
 MS[M+H]+=625
 <Preparation Example 24> Preparation of Compound 24
+<img> id-US20180037547A1-20180208-C00160.TIF </img>
 Compound A (10 g, 31.53 mmol), 2-(4-bromophenyl)4,6-diphenylpyrimidine (9.15 g, 34.69 mmol), and sodium t-butoxide (1.3 g, 13.8 mmol) were put into 40 ml of toluene, and then the temperature was increased while stirring the mixture. The mixture was warmed and then, when the reflux started, bis(tri-tert-butylphosphine)palladium (0.11 g, 0.23 mmol) was slowly added dropwise thereto. After 8 hours, the reaction was terminated, the temperature was lowered to normal temperature, and the resulting product was concentrated under reduced pressure, and then column-purified to prepare 7.0 g of Compound 24.
 MS[M+H]+=624
 <Preparation Example 25> Preparation of Compound 25
+<img> id-US20180037547A1-20180208-C00161.TIF </img>
 6.8 g of Compound 25 was prepared in the same manner as in the preparation of Compound 23, except that Compound A (10 g, 31.53 mmol) and 2-(4-bromophenyl)4,6-diphenylpyridine (9.15 g, 34.69 mmol) were used.
 MS[M+H]+=713
 <Preparation Example 26> Preparation of Compound 26
+<img> id-US20180037547A1-20180208-C00162.TIF </img>
 7.2 g of Compound 26 was prepared in the same manner as in the preparation of Compound 23, except that Compound A (10 g, 31.53 mmol) and 2-(3-bromophenyl)4,6-diphenyl-1,3,5-triazine (9.14 g, 34.69 mmol) were used.
 MS[M+H]+=625
 <Preparation Example 27> Preparation of Compound 27
+<img> id-US20180037547A1-20180208-C00163.TIF </img>
 7.0 g of Compound 27 was prepared in the same manner as in the preparation of Compound 23, except that Compound A (10 g, 31.53 mmol) and 2-(3-bromophenyl)4,6-diphenylpyrimidine (9.64 g, 34.69 mmol) were used.
 MS[M+H]+=624
 <Preparation Example 28> Preparation of Compound 28
+<img> id-US20180037547A1-20180208-C00164.TIF </img>
 6.8 g of Compound 28 was prepared in the same manner as in the preparation of Compound 23, except that Compound A (10 g, 31.53 mmol) and 4-(3-bromophenyl)-2,6-diphenylpyrimidine (9.63 g, 34.69 mmol) were used.
 MS[M+H]+=623
 <Preparation Example 29> Preparation of Compound 29
+<img> id-US20180037547A1-20180208-C00165.TIF </img>
 Compound A (10 g, 31.53 mmol), 2-chloro-4-phenylquinazoline (9.05 g, 34.69 mmol), and K3PO4 (4.88 g, 23 mmol) were put into 21 ml of xylene and 7 ml of N,N-dimethylacetamide, and then the temperature was increased while stirring the mixture. The mixture was warmed and then, 5 hours after the mixture started to be refluxed, the reaction was terminated, the temperature was lowered to normal temperature, and the resulting product was concentrated under reduced pressure, and then column-purified to prepare 6.0 g of Compound 29.
 MS[M+H]+=522
 <Preparation Example 30> Preparation of Compound 30
+<img> id-US20180037547A1-20180208-C00166.TIF </img>
 6.7 g of Compound 30 was prepared in the same manner as in Compound 29, except that Compound A (10 g, 31.53 mmol) and 2-chloro-4-(naphthalene-2-yl)quinazoline (10.68 g, 34.69 mmol) were used.
 MS[M+H]+=572
 <Preparation Example 31> Preparation of Compound 31
+<img> id-US20180037547A1-20180208-C00167.TIF </img>
 6.8 g of Compound 31 was prepared in the same manner as in Compound 29, except that Compound A (10 g, 31.53 mmol) and 4-([1,1'-biphenyl]-4-yl)2-chloroquinazoline (10.01 g, 34.69 mmol) were used.
 MS[M+H]+=598
 <Preparation Examples 32 to 62> Preparation of Compounds 32 to 62
 The following Compounds 32 to 62 were prepared in the same manner as in Preparation Examples 1 to 31, except that Compound B was used instead of Compound A as a starting material in Preparation Examples 1 to 31.
+<img> id-US20180037547A1-20180208-C00168.TIF </img><img> id-US20180037547A1-20180208-C00169.TIF </img><img> id-US20180037547A1-20180208-C00170.TIF </img><img> id-US20180037547A1-20180208-C00171.TIF </img><img> id-US20180037547A1-20180208-C00172.TIF </img><img> id-US20180037547A1-20180208-C00173.TIF </img><img> id-US20180037547A1-20180208-C00174.TIF </img><img> id-US20180037547A1-20180208-C00175.TIF </img><img> id-US20180037547A1-20180208-C00176.TIF </img><img> id-US20180037547A1-20180208-C00177.TIF </img>
 Experimental Example 1-1
 A glass substrate thinly coated with indium tin oxide (ITO) to have a thickness of 1,000 Å was put into distilled water in which a detergent was dissolved, and ultrasonically washed. In this case, a product manufactured by Fischer Co., was used as the detergent, and distilled water twice filtered using a filter manufactured by Millipore Co., was used as the distilled water. After the ITO was washed for 30 minutes, ultrasonic washing was conducted twice repeatedly using distilled water for 10 minutes. After the washing using distilled water was completed, ultrasonic washing was conducted using isopropyl alcohol, acetone, and methanol solvents, and drying was conducted, and then the substrate was transferred to a plasma cleaner. In addition, the substrate was cleaned using oxygen plasma for 5 minutes, and then transferred to a vacuum evaporator.
 Hexanitrile hexaazatriphenylene (HAT) of the following Chemical Formula was thermally vacuum deposited to have a thickness of 500 Å on the transparent ITO electrode, which was thus prepared, thereby forming a hole injection layer.
+<img> id-US20180037547A1-20180208-C00178.TIF </img>
 The following compound 4-4'-bis[N-(1-naphthyl)-N-phenylamino]biphenyl (NPB) (300 Å), which is a material for transporting holes, was vacuum deposited on the hole injection layer, thereby forming a hole transport layer.
+<img> id-US20180037547A1-20180208-C00179.TIF </img>
 Subsequently, the following Compound 1 was vacuum deposited to have a film thickness of 100 Å on the hole transport layer, thereby forming an electron blocking layer.
 Subsequently, the following BH and BD were vacuum deposited at a weight ratio of 25:1 to have a film thickness of 300 Å on the electron blocking layer, thereby forming a light emitting layer.
+<img> id-US20180037547A1-20180208-C00180.TIF </img><img> id-US20180037547A1-20180208-C00181.TIF </img>
 Compound ET1 and Compound LiQ (lithium quinolate) were vacuum deposited at a weight ratio of 1:1 on the light emitting layer, thereby forming an electron injection and transport layer having a thickness of 300 Å. Lithium fluoride (LiF) and aluminum were sequentially deposited to have a thickness of 12 Å and 2,000 Å, respectively, on the electron injection and transport layer, thereby forming a negative electrode.
 In the aforementioned procedure, the deposition rate of the organic material was maintained at 0.4 to 0.7 Å/sec, the deposition rates of lithium fluoride and aluminum of the negative electrode were maintained at 0.3 Å/sec and at 2 Å/sec, respectively, and the degree of vacuum during the deposition was maintained at 2×10−7 to 5×10−6 torr, thereby manufacturing an organic light emitting device.
 Experimental Example 1-2
@@ -309,8 +366,10 @@ Experimental Example 1-16
 An organic light emitting device was manufactured in the same manner as in Experimental Example 1-1, except that Compound 43 was used instead of Compound 1 in Experimental Example 1-1.
 Comparative Example 1-1
 An organic light emitting device was manufactured in the same manner as in Experimental Example 1-1, except that EB 1 (TCTA) was used instead of Compound 1 in Experimental Example 1-1.
+<img> id-US20180037547A1-20180208-C00182.TIF </img>
 Comparative Example 1-2
 An organic light emitting device was manufactured in the same manner as in Experimental Example 1-1, except that EB 2 was used instead of Compound 1 in Experimental Example
+<img> id-US20180037547A1-20180208-C00183.TIF </img>
 When current was applied to the organic light emitting devices manufactured in Experimental Examples 1-1 to 1-16 and Comparative Examples 1-1 and 1-2, the results of Table 1 were obtained.
 <table>
 <header>
@@ -378,8 +437,10 @@ Experimental Examples 2-1 to 2-16
 An experiment was performed in the same manner as in Experimental Example 1-1, except that EB 1 was used as the electron blocking layer, and the compounds in Experimental Examples 1-1 to 1-16 were used instead of NPB as the hole transport layer.
 Comparative Example 2-1
 An experiment was performed in the same manner as in Experimental Example 1-1, except that EB 1 was used as the electron blocking layer, and HT 1 was used as the hole transport layer.
+<img> id-US20180037547A1-20180208-C00184.TIF </img>
 Comparative Example 2-2
 An experiment was performed in the same manner as in Experimental Example 1-1, except that EB 1 was used as the electron blocking layer, and HT 2 was used as the hole transport layer.
+<img> id-US20180037547A1-20180208-C00185.TIF </img>
 When current was applied to the organic light emitting devices manufactured in Experimental Examples 2-1 to 2-16 and Comparative Examples 2-1 and 2-2, the results of Table 2 were obtained.
 <table>
 <header>
@@ -448,6 +509,7 @@ The compounds prepared in the Preparation Examples were subjected to high-purity
 A glass substrate thinly coated with indium tin oxide (ITO) to have a thickness of 1,000 Å was put into distilled water in which a detergent was dissolved, and ultrasonically washed. In this case, a product manufactured by Fischer Co., was used as the detergent, and distilled water twice filtered using a filter manufactured by Millipore Co., was used as the distilled water. After the ITO was washed for 30 minutes, ultrasonic washing was conducted twice repeatedly using distilled water for 10 minutes. After the washing using distilled water was completed, ultrasonic washing was conducted using isopropyl alcohol, acetone, and methanol solvents, and drying was conducted, and then the substrate was transferred to a plasma cleaner. In addition, the substrate was cleaned using oxygen plasma for 5 minutes, and then transferred to a vacuum evaporator.
 An organic EL device was manufactured by configuring the light emitting device in the order of m-MTDATA (60 nm)/TCTA (80 nm)/Compound 21+10% Ir(ppy)3 (300 nm)/BCP (10 nm)/Alq3 (30 nm)/LiF (1 nm)/Al (200 nm) on the thus prepared ITO transparent electrode by using Compound 21 as a host.
 The structures of m-MTDATA, TCTA, Ir(ppy)3, and BCP are as follows.
+<img> id-US20180037547A1-20180208-C00186.TIF </img>
 Experimental Example 3-2
 An organic light emitting device was manufactured in the same manner as in Experimental Example 3-1, except that Compound 22 was used instead of Compound 21 in Experimental Example 3-1.
 Experimental Example 3-3
@@ -472,10 +534,13 @@ Experimental Example 3-12
 An organic light emitting device was manufactured in the same manner as in Experimental Example 3-1, except that Compound 54 was used instead of Compound 21 in Experimental Example 3-1.
 Comparative Example 3-1
 An organic light emitting device was manufactured in the same manner as in Experimental Example 3-1, except that GH 1 (CBP) was used instead of Compound 21 in Experimental Example 3-1.
+<img> id-US20180037547A1-20180208-C00187.TIF </img>
 Comparative Example 3-2
 An organic light emitting device was manufactured in the same manner as in Experimental Example 3-1, except that GH 2 was used instead of Compound 21 in Experimental Example 3-1.
+<img> id-US20180037547A1-20180208-C00188.TIF </img>
 Comparative Example 3-3
 An organic light emitting device was manufactured in the same manner as in Experimental Example 3-1, except that GH 3 was used instead of Compound 21 in Experimental Example 3-1.
+<img> id-US20180037547A1-20180208-C00189.TIF </img>
 When current was applied to the organic light emitting devices manufactured in Experimental Examples 3-1 to 3-12 and Comparative Examples 3-1 to 3-3, the results of Table 3 were obtained.
 <table>
 <header>
@@ -532,6 +597,7 @@ Experimental Example 4-1
 The compounds prepared in the Preparation Examples were subjected to high-purity sublimation purification by a typically known method, and then red organic light emitting devices were manufactured by the following method.
 An ITO glass was patterned and then washed, such that the light emitting area of the ITO glass became 2 mm×2 mm. The substrate was mounted on a vacuum chamber, and then the base pressure was allowed to be 1×10−6 torr, and then for the organic material, DNTPD (700 Å), a-NPB (300 Å), and Compound 29 were used as hosts (90 wt %) on the ITO, the following (piq)2Ir(acac) (10 wt %) was co-deposited as a dopant, films were formed in the order of Alq3 (350 Å), LiF (5 Å), and Al (1,000 Å), and measurements were made at 0.4 mA.
 The structures of DNTPD, α-NPB, (piq)2Ir(acac), and Alq3 are as follows.
+<img> id-US20180037547A1-20180208-C00190.TIF </img>
 Experimental Example 4-2
 An organic light emitting device was manufactured in the same manner as in Experimental Example 4-1, except that Compound 30 was used instead of Compound 29 in Experimental Example 4-1.
 Experimental Example 4-3
@@ -544,6 +610,7 @@ Experimental Example 4-6
 An organic light emitting device was manufactured in the same manner as in Experimental Example 4-1, except that Compound 61 was used instead of Compound 29 in Experimental Example 4-1.
 Comparative Example 4-1
 An organic light emitting device was manufactured in the same manner as in Experimental Example 4-1, except that RH 1 (CBP) was used instead of Compound 26 in Experimental Example 4-1.
+<img> id-US20180037547A1-20180208-C00191.TIF </img>
 For the organic light emitting devices manufactured according to Experimental Examples 4-1 to 4-6 and Comparative Example 4-1, the voltages, current densities, luminances, color coordinates, and lifetimes were measured, and the results are shown in the following Table 4. T95 means the time taken for the luminance to be reduced to 95% of the initial luminance (5,000 nit).
 <table>
 <header>

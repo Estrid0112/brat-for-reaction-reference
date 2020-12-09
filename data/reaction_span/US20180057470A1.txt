@@ -7,6 +7,7 @@ Recent studies have shown that a ketamine metabolite, (2R,6R)-hydroxynorketamine
 These observations highlight the need for alternative ketamine therapeutics useful in treating depression, pain, and other CNS disorders. The present disclosure meets these and other needs in the art by disclosing chemical entities, including compounds, which can act through HNK-mediated pathways.
 SUMMARY
 Disclosed are chemical entities of Formula (I):
+<img> id-US20180057470A1-20180301-C00002.TIF </img>
 including the various stereoisomers and enantiomers, wherein R1 is as described herein. Also disclosed are compositions comprising the compounds of Formula (I); methods of making the compounds and compositions; and their use in a wide range of methods that include treating pain, depression, and other neurological disorders, as well as enhancing cognitive function.
 DETAILED DESCRIPTION
 The embodiments may be more fully appreciated by reference to the following description, including the examples. Unless otherwise defined, all technical and scientific terms used herein have the same meaning as commonly understood by one of ordinary skill in the art. Although methods and materials similar or equivalent to those described herein can be used in the practice or testing of the present embodiments, suitable methods and materials are described herein. In addition, the materials, methods, and examples are illustrative only and not intended to be limiting.
@@ -76,7 +77,7 @@ The presence of broadening words and phrases such as “one or more,” “at le
 Chemistry
 The term “substituted,” as used herein, means that at least one hydrogen on the designated atom or group is replaced with a selection from the indicated group, provided that the designated atom's normal valence is not exceeded. When a substituent is keto (i.e., ═O), then 2 hydrogen atoms on the atom are replaced.
 A dash (“-”) that is not between two letters or symbols is used to indicate a point of covalent attachment for a substituent. For example, -(CH2)C3-C7cycloalkyl is attached through carbon of the methylene (CH2) group.
-The term “alkyl” refers to a fully saturated aliphatic hydrocarbon group. The alkyl moiety may be a straight- or branched-chain alkyl group having from 1 to 12 carbon atoms in the chain. Examples of alkyl groups include, but are not limited to, methyl (Me, which also may be structurally depicted by the symbol, “”), ethyl (Et), n-propyl, isopropyl, butyl, isobutyl, sec-butyl, tert-butyl (tBu), pentyl, isopentyl, tert-pentyl, hexyl, isohexyl, and groups that in light of the ordinary skill in the art and the teachings provided herein would be considered equivalent to any one of the foregoing examples. Alkyl groups may be optionally substituted with one or more substituents including, but not limited to, halo, hydroxyl, alkoxy, thioalkoxy, amino, and aminoalkyl.
+The term “alkyl” refers to a fully saturated aliphatic hydrocarbon group. The alkyl moiety may be a straight- or branched-chain alkyl group having from 1 to 12 carbon atoms in the chain. Examples of alkyl groups include, but are not limited to, methyl (Me, which also may be structurally depicted by the symbol, “<img> id-US20180057470A1-20180301-P00001.TIF </img>”), ethyl (Et), n-propyl, isopropyl, butyl, isobutyl, sec-butyl, tert-butyl (tBu), pentyl, isopentyl, tert-pentyl, hexyl, isohexyl, and groups that in light of the ordinary skill in the art and the teachings provided herein would be considered equivalent to any one of the foregoing examples. Alkyl groups may be optionally substituted with one or more substituents including, but not limited to, halo, hydroxyl, alkoxy, thioalkoxy, amino, and aminoalkyl.”), ethyl (Et), n-propyl, isopropyl, butyl, isobutyl, sec-butyl, tert-butyl (tBu), pentyl, isopentyl, tert-pentyl, hexyl, isohexyl, and groups that in light of the ordinary skill in the art and the teachings provided herein would be considered equivalent to any one of the foregoing examples. Alkyl groups may be optionally substituted with one or more substituents including, but not limited to, halo, hydroxyl, alkoxy, thioalkoxy, amino, and aminoalkyl.
 The term “alkenyl” refers to optionally substituted unsaturated aliphatic moieties having at least one carbon-carbon double bond and including E and Z isomers of said alkenyl moiety. Examples of alkenyl radicals include ethenyl, propenyl, butenyl, 1,4-butadienyl, cyclopentenyl, cyclohexenyl and the like.
 The term “alkynyl” refers to optionally substituted unsaturated aliphatic moieties having at least one carbon-carbon triple bond and includes straight and branched chain alkynyl groups. Examples of alkynyl radicals include ethynyl, propynyl, butynyl and the like.
 The term “haloalkyl” refers to a straight- or branched-chain alkyl group having from 1 to 12 carbon atoms in the chain, substituting one or more hydrogens with halogens. Examples of haloalkyl groups include, but are not limited to, -CF3, -CHF2, -CH2CF3, -CH2CHF2, -CH2CH2F, -CH2CH2Cl, -CH2CF2CF3 and other groups that in light of the ordinary skill in the art and the teachings provided herein, would be considered equivalent to any one of the foregoing examples.
@@ -85,10 +86,14 @@ The term “haloalkoxy” refer to alkoxy groups substituting one or more hydrog
 The term “amino” refers to the -NH2 group.
 The term “heteroatom” used herein refers to, for example, O (oxygen), S (sulfur), N (nitrogen), and Selenium (Se).
 The term “aryl” refers to a monocyclic, or fused or spiro polycyclic, aromatic carbocycle (ring structure having ring atoms that are all carbon), having from 3 to 12 ring atoms per ring (carbon atoms in aryl groups are sp2 hybridized). Illustrative examples of aryl groups include the following moieties:
+<img> id-US20180057470A1-20180301-C00003.TIF </img>
 and the like.
 The term “cycloalkyl” refers to a saturated or partially saturated carbocycle, such as monocyclic, fused polycyclic, bridged monocyclic, bridged polycyclic, spirocyclic, or spiro polycyclic carbocycle having from 3 to 12 ring atoms per carbocycle. Where the term cycloalkyl is qualified by a specific characterization, such as monocyclic, fused polycyclic, bridged polycyclic, spirocyclic, and spiro polycyclic, then such term cycloalkyl refers only to the carbocycle so characterized. Illustrative examples of cycloalkyl groups include the following entities, in the form of properly bonded moieties:
+<img> id-US20180057470A1-20180301-C00004.TIF </img>
 “Heterocycloalkyl” means a saturated cyclic group containing from 1 to about 3 heteroatoms chosen from N, O, S, and Se with remaining ring atoms being carbon. Heterocycloalkyl groups have from 3 to about 8 ring atoms, and more typically have from 5 to 7 ring atoms. Examples of heterocycloalkyl groups include morpholinyl, piperazinyl, piperidinyl, and pyrrolidinyl groups. A nitrogen in a heterocycloalkyl group may optionally be quaternized. A “heterocycloalkyl” refers to a monocyclic, or fused, bridged, or spiro polycyclic ring structure that is saturated or partially saturated and has from 3 to 12 ring atoms per ring structure selected from carbon atoms and up to three heteroatoms selected from nitrogen, oxygen, selenium, and sulfur. The ring structure may optionally contain up to two oxo groups on carbon or sulfur ring members. Illustrative (but not limiting) entities, in the form of properly bonded moieties, include:
+<img> id-US20180057470A1-20180301-C00005.TIF </img>
 The term “heteroaryl” refers to a monocyclic, fused bicyclic, or fused polycyclic aromatic heterocycle (ring structure having ring atoms selected from carbon atoms and up to four heteroatoms selected from nitrogen, oxygen, and sulfur) having from 3 to 12 ring atoms per heterocycle. Illustrative examples of heteroaryl groups include the following entities, in the form of properly bonded moieties:
+<img> id-US20180057470A1-20180301-C00006.TIF </img>
 Those skilled in the art will recognize that the species of cycloalkyl, aryl, heterocycloalkyl, and heteroaryl groups listed or illustrated above are not exhaustive, and that additional species within the scope of these defined terms may also be selected.
 The term “halogen” represents chlorine, fluorine, bromine or iodine; and the term “halo” represents chloro, fluoro, bromo or iodo.
 The terms “optional” and “optionally” refer to the subsequently described event or circumstance and mean that it may or may not occur, and that the description includes instances where the event or circumstance occurs and instances or circumstances where it does not. For example, “optionally substituted alkyl” encompasses both “unsubstituted alkyl” and “substituted alkyl” as defined below. It will be understood by those skilled in the art, with respect to any group containing one or more substituents, that such groups are not intended to introduce any substitution or substitution patterns that are sterically impractical, synthetically non-feasible and/or inherently unstable.
@@ -140,9 +145,11 @@ Reference will now be made to the embodiments of the present invention, examples
 Compounds and Chemical Entities
 The disclosure relates to compounds and chemical entities of Formula (I), and their use in the disclosed methods.
 In some embodiments, the disclosure provides a chemical entity of Formula (I):
-wherein:R1 is -H; orR1 is -C1-6alkyl, optionally substituted with one or more members, each independently selected from the group consisting of: -halo, -hydroxy, -alkoxy, -amino and -carboxyl; orR1 is -C3-8alkenyl or -C3-8alkynyl, each optionally substituted with one or more members, each independently selected from the group consisting of: -halo, -hydroxy, -C1-4 alkyl, -C1-4alkoxy, and amino; orR1 is -(CH2)naryl, -(CH2)nheteroaryl, -(CH2)ncycloalkyl, or -(CH2)nheterocycloalkyl, each optionally substituted with one or more members, each independently selected from the group consisting of: -halo, -hydroxy, -C1-4 alkyl, -C1-4alkoxy, and -amino, wherein n is independently an integer selected from 0, 1, 2, 3, and 4; orR1 is -COR2, -CONR3R4, -CR5R6NR7R8, -CHR9R10, or -C(OH)R11R12,wherein R2, R3, R4, R7 and R8 are each independently selected from the group consisting of: -H, -C1-8alkyl, and -C1-8haloalkyl;R5 and R6 are each independently selected from the group consisting of: -H, -halo, -NH2, -C1-8alkyl, -C1-8haloalkyl, -(CH2)nCONH2, -(CH2)nCOOH, -(CH2)naryl, -(CH2)nheteroaryl, -(CH2)ncycloalkyl, and -(CH2)nheterocycloalkyl, each optionally substituted with one or more members, each independently selected from the group consisting of: -guanidyl, -urea, -halo, -alkyl, -hydroxy, -amino, -alkoxy, -2,3-dihydro-1H-pyrrole-1-carboxamide, -(CH2)nCONR1AR1B, -(CH2)nNHC(═O)R1A, -(CH2)nNR1AR1B, -(CH2)nOR1C, -(CH2)nSR1C and -(CH2)nSeR1C, wherein n is independently an integer selected from 0, 1, 2, 3, and 4;each R1A is independently selected from the group consisting of: -H -C1-8alkyl, -C1-8haloalkyl, -(CH2)nCONH2, -(CH2)nCOOH, -(CH2)naryl, -(CH2)nheteroaryl, -(CH2)ncycloalkyl, and -(CH2)nheterocycloalkyl, said -(CH2)naryl, -(CH2)nheteroaryl, -(CH2)ncycloalkyl, and -(CH2)nheterocycloalkyl each optionally substituted with one or more members, each independently selected from the group consisting of: -halo, -hydroxy, -C1-4 alkyl, -C1-4alkoxy, and -amino, wherein n is independently an integer selected from 0, 1, 2, 3, and 4;each R1B is independently selected from the group consisting of: -H-C1-8alkyl, -C1-8haloalkyl, -(CH2)nCONH2, -(CH2)nCOOH, -(CH2)naryl, -(CH2)nheteroaryl, -(CH2)ncycloalkyl, and -(CH2)nheterocycloalkyl, wherein n is independently an integer selected from 0, 1, 2, 3, and 4;each R1C is independently selected from the group consisting of: -H-C1-8alkyl, -C1-8haloalkyl, -(CH2)nCONH2, -(CH2)nCOOH, -(CH2)naryl, -(CH2)nheteroaryl, -(CH2)ncycloalkyl, and -(CH2)nheterocycloalkyl, wherein n is independently an integer selected from 0, 1, 2, 3, and 4;R9 and R10 are each independently selected from the group consisting of: -H, -C1-8alkyl, and -C1-8haloalkyl, said alkyl optionally substituted with up to 3 members, each independently selected from the group consisting of: -amino, -hydroxy and -carboxyl; or optionally R9 and R10 taken together with the carbon to which they are attached can form an optionally substituted five membered heteroaryl or heterocycloalkyl ring; andand R11 and R12 are each independently selected from the group consisting of: -H, -C1-6alkyl, and -C1-6haloalkyl, said -C1-6alkyl, and -C1-6haloalkyl optionally substituted with up to 3 members, each independently selected from the group consisting of:-hydroxy and amino.
+<img> id-US20180057470A1-20180301-C00007.TIF </img>wherein:R1 is -H; orR1 is -C1-6alkyl, optionally substituted with one or more members, each independently selected from the group consisting of: -halo, -hydroxy, -alkoxy, -amino and -carboxyl; orR1 is -C3-8alkenyl or -C3-8alkynyl, each optionally substituted with one or more members, each independently selected from the group consisting of: -halo, -hydroxy, -C1-4 alkyl, -C1-4alkoxy, and amino; orR1 is -(CH2)naryl, -(CH2)nheteroaryl, -(CH2)ncycloalkyl, or -(CH2)nheterocycloalkyl, each optionally substituted with one or more members, each independently selected from the group consisting of: -halo, -hydroxy, -C1-4 alkyl, -C1-4alkoxy, and -amino, wherein n is independently an integer selected from 0, 1, 2, 3, and 4; orR1 is -COR2, -CONR3R4, -CR5R6NR7R8, -CHR9R10, or -C(OH)R11R12,wherein R2, R3, R4, R7 and R8 are each independently selected from the group consisting of: -H, -C1-8alkyl, and -C1-8haloalkyl;R5 and R6 are each independently selected from the group consisting of: -H, -halo, -NH2, -C1-8alkyl, -C1-8haloalkyl, -(CH2)nCONH2, -(CH2)nCOOH, -(CH2)naryl, -(CH2)nheteroaryl, -(CH2)ncycloalkyl, and -(CH2)nheterocycloalkyl, each optionally substituted with one or more members, each independently selected from the group consisting of: -guanidyl, -urea, -halo, -alkyl, -hydroxy, -amino, -alkoxy, -2,3-dihydro-1H-pyrrole-1-carboxamide, -(CH2)nCONR1AR1B, -(CH2)nNHC(═O)R1A, -(CH2)nNR1AR1B, -(CH2)nOR1C, -(CH2)nSR1C and -(CH2)nSeR1C, wherein n is independently an integer selected from 0, 1, 2, 3, and 4;each R1A is independently selected from the group consisting of: -H -C1-8alkyl, -C1-8haloalkyl, -(CH2)nCONH2, -(CH2)nCOOH, -(CH2)naryl, -(CH2)nheteroaryl, -(CH2)ncycloalkyl, and -(CH2)nheterocycloalkyl, said -(CH2)naryl, -(CH2)nheteroaryl, -(CH2)ncycloalkyl, and -(CH2)nheterocycloalkyl each optionally substituted with one or more members, each independently selected from the group consisting of: -halo, -hydroxy, -C1-4 alkyl, -C1-4alkoxy, and -amino, wherein n is independently an integer selected from 0, 1, 2, 3, and 4;each R1B is independently selected from the group consisting of: -H-C1-8alkyl, -C1-8haloalkyl, -(CH2)nCONH2, -(CH2)nCOOH, -(CH2)naryl, -(CH2)nheteroaryl, -(CH2)ncycloalkyl, and -(CH2)nheterocycloalkyl, wherein n is independently an integer selected from 0, 1, 2, 3, and 4;each R1C is independently selected from the group consisting of: -H-C1-8alkyl, -C1-8haloalkyl, -(CH2)nCONH2, -(CH2)nCOOH, -(CH2)naryl, -(CH2)nheteroaryl, -(CH2)ncycloalkyl, and -(CH2)nheterocycloalkyl, wherein n is independently an integer selected from 0, 1, 2, 3, and 4;R9 and R10 are each independently selected from the group consisting of: -H, -C1-8alkyl, and -C1-8haloalkyl, said alkyl optionally substituted with up to 3 members, each independently selected from the group consisting of: -amino, -hydroxy and -carboxyl; or optionally R9 and R10 taken together with the carbon to which they are attached can form an optionally substituted five membered heteroaryl or heterocycloalkyl ring; andand R11 and R12 are each independently selected from the group consisting of: -H, -C1-6alkyl, and -C1-6haloalkyl, said -C1-6alkyl, and -C1-6haloalkyl optionally substituted with up to 3 members, each independently selected from the group consisting of:-hydroxy and amino.
 In some embodiments, a chemical entity corresponds to the (1R,5R) enantiomer of Formula (I):
+<img> id-US20180057470A1-20180301-C00008.TIF </img>
 In some embodiments, a chemical entity corresponds to the (1S,5S) enantiomer of Formula (I):
+<img> id-US20180057470A1-20180301-C00009.TIF </img>
 In some embodiments, R1 is -H; orR1 is -C1-6alkyl, optionally substituted with one or more members, each independently selected from the group consisting of: -halo, -hydroxy, -alkoxy, -amino and -carboxyl; orR1 is -C3-8alkenyl or -C3-8alkynyl, each optionally substituted with one or more members, each independently selected from the group consisting of: -halo, -hydroxy, -C1-4 alkyl, -C1-4alkoxy, and amino; orR1 is -(CH2)naryl, -(CH2)nheteroaryl, -(CH2)ncycloalkyl, or -(CH2)nheterocycloalkyl, each optionally substituted with one or more members, each independently selected from the group consisting of: -halo, -hydroxy, -C1-4 alkyl, -C1-4alkoxy, and -amino, wherein n is independently an integer selected from 0, 1, 2, 3, and 4; orR1 is -CR5R6NR7R8, -CHR9R10, or -C(OH)R11R12,wherein R7 and R8 are independently selected from the group consisting of: -H, -C1-8alkyl, and -C1-8haloalkyl;R5 and R6 are each independently selected from the group consisting of: -H, -halo, -NH2, -C1-8alkyl, -C1-8haloalkyl, -(CH2)nCONH2, -(CH2)nCOOH, -(CH2)naryl, -(CH2)nheteroaryl, -(CH2)ncycloalkyl, and -(CH2)nheterocycloalkyl, each optionally substituted with one or more members, each independently selected from the group consisting of: -guanidyl, -urea, -halo, -alkyl, -hydroxy, -amino, -alkoxy, -2,3-dihydro-1H-pyrrole-1-carboxamide, wherein n is independently an integer selected from 0, 1, 2, 3, and 4;R9 and R10 are each independently selected from the group consisting of: -H, -C1-8alkyl, and -C1-8haloalkyl, said alkyl optionally substituted with up to 3 members, each independently selected from the group consisting of -amino, -hydroxy, and -carboxyl; or optionally R9 and R10 taken together with the carbon to which they are attached can form an optionally substituted five membered heteroaryl or heterocycloalkyl ring; andR11 and R12 are independently selected from the group consisting of: -H, -C1-6alkyl, and -C1-6haloalkyl, said -C1-6alkyl, and -C1-6haloalkyl optionally substituted with up to 3 members, each independently selected from the group consisting of: -hydroxy and -amino.
 In some embodiments, R1 is -H; or-C1-6alkyl, optionally substituted with one or more members, each independently selected from the group consisting of: -halo, -hydroxy, -alkoxy, -amino and -carboxyl; or-C3-8alkenyl or -C3-8alkynyl, each optionally substituted with one or more members, each independently selected from the group consisting of: -halo, -hydroxy, -C1-4 alkyl, -C1-4alkoxy, and amino; or-(CH2)naryl, -(CH2)nheteroaryl, -(CH2)ncycloalkyl, or -(CH2)nheterocycloalkyl, each optionally substituted with one or more members, each independently selected from the group consisting of: -halo, -hydroxy, -C1-4 alkyl, -C1-4alkoxy, and -amino, wherein n is independently an integer selected from 0, 1, 2, 3, and 4; or-COR2, -CONR3R4, -CR5R6NR7R8, -CHR9R10, and -C(OH)R11R12,wherein R2, R3, R4, R7 and R8 are independently selected from the group consisting of: -H, -C1-8alkyl, and -C1-8haloalkyl;R5 and R6 are independently selected from the group consisting of: -H, -halo, -NH2, -C1-8alkyl, -C1-8haloalkyl, -(CH2)nCONH2, -(CH2)nCOOH, -(CH2)naryl, -(CH2)nheteroaryl, -(CH2)ncycloalkyl, and -(CH2)nheterocycloalkyl, each optionally substituted with one or more members, each independently selected from the group consisting of: -guanidyl, -urea, -halo, -alkyl, -hydroxy, -amino, -alkoxy, -2,3-dihydro-1H-pyrrole-1-carboxamide, wherein n is independently an integer selected from 0, 1, 2, 3, and 4;R9 and R10 are independently selected from the group consisting of: -H, -C1-8alkyl, and -C1-8haloalkyl, said alkyl optionally substituted with up to 3 members, each independently selected from the group consisting of: -amino, -hydroxy and -carboxyl; or optionally R9 and R10 taken together with the carbon to which they are attached can form a five membered heteroaryl or heterocycloalkyl ring; andR11 and R12 are independently selected from the group consisting of: -H, -C1-6alkyl, and -C1-6haloalkyl, optionally substituted with up to 3 members, each independently selected from the group consisting of: -hydroxy and amino.
 In some embodiments, R1 is -CR5R6NR7R8 or -CR9R10,wherein R5 and R6 are independently selected from the group consisting of: -H, -F, -Cl, -Br, -NH2, -methyl, -ethyl, -n-propyl, -isopropyl, -butyl, -pentyl, -NH2, -C1-8haloalkyl, -(CH2)nCONH2, -(CH2)nCOOH, -(CH2)naryl, -(CH2)nbenzyl, -(CH2)nheteroaryl, -(CH2)indole, -(CH2)imidazole, -(CH2)ncycloalkyl, -(CH2)nheterocycloalkyl, -(CH2)npyrrolidine, -(CH2)furan, and -(CH2)nthiophene, optionally substituted with up to 3 members, each independently selected from the group consisting of: -guanidyl, -urea, -halo, -alkyl, -hydroxy, -amino, -alkoxy, -2,3-dihydro-1H-pyrrole-1-carboxamide, -(CH2)nNR1AR1B, -(CH2)nOR1C, -(CH2)nSR1C and -(CH2)nSeR1C, wherein n is independently an integer selected from 0, 1, 2, 3, and 4;each R1A is independently selected from the group consisting of: -H-C1-8alkyl, -C1-8haloalkyl, -(CH2)naryl, -(CH2)nheteroaryl, -(CH2)ncycloalkyl, and -(CH2)nheterocycloalkyl, wherein n is independently an integer selected from 0, 1, 2, 3, and 4;each R1B is independently selected from the group consisting of: -H-C1-8alkyl, -C1-8haloalkyl, -(CH2)naryl, -(CH2)nheteroaryl, -(CH2)ncycloalkyl, and -(CH2)nheterocycloalkyl, wherein n is independently an integer selected from 0, 1, 2, 3, and 4;each R1C is independently selected from the group consisting of: -H-C1-8alkyl, -C1-8haloalkyl, -(CH2)naryl, -(CH2)nheteroaryl, -(CH2)ncycloalkyl, and -(CH2)nheterocycloalkyl, wherein n is independently an integer selected from 0, 1, 2, 3, and 4;R7 and R8 are -H; andR9 and R10 are independently selected from the group consisting of: -H, -C1-8alkyl, and -C1-8haloalkyl; or optionally R9 and R10 taken together with the carbon to which they are attached can form an optionally substituted five membered heteroaryl or heterocycloalkyl ring.
@@ -324,25 +331,31 @@ The present disclosure is further illustrated by the following non-limiting Exam
 Exemplary compounds can be described by reference to the illustrative synthetic schemes for their general preparation below and the specific examples to follow.
 One skilled in the art will recognize that, to obtain the various compounds herein, starting materials may be suitably selected so that the ultimately desired substituents will be carried through the reaction scheme with or without protection as appropriate to yield the desired product. Alternatively, it may be necessary or desirable to employ, in the place of the ultimately desired substituent, a suitable group that may be carried through the reaction scheme and replaced as appropriate with the desired substituent. Unless otherwise specified, the variables are as defined above in reference to Formula (I). Reactions may be performed between −100° C. and the reflux temperature of the solvent. Reactions may be heated employing conventional heating or microwave heating. Reactions may also be conducted in sealed pressure vessels above the normal reflux temperature of the solvent.
 Synthetic Schemes
+<img> id-US20180057470A1-20180301-C00010.TIF </img>
 In accordance with Scheme A, hydroxylimine compounds can undergo a thermal rearrangement to give 2-aminocyclohexanones when heated in the presence of a heat transfer fluid such as Dowtherm-A at temperatures ranging from 100 to 240° C.
 Subsequent halogenation, under conditions known to one skilled in the art, provides the haloketone. For example, treatment of compounds of formula (II) with bromine in 48% hydrobromic acid at temperatures ranging from 40 to 100° C. affords bromoketones of formula (III) as the hydrobromide salt.
 Subsequent dehalogenation under basic conditions known to one skilled in the art affords the enone. For example, treatment of compounds of formula (III) in the presence of a base such as DBN, DBU and the like, in a solvent such as ACN, at reflux, affords compounds of formula (IV).
+<img> id-US20180057470A1-20180301-C00011.TIF </img>
 In accordance with Scheme B, compounds of formula (IX) can be synthesized in five steps from a compound of formula (II):
 Treatment of compounds of formula (II) with an alkyl chloroformate, under basic conditions known to one skilled in the art, provides compounds of formula (V). For instance, treatment of the 2-aminocyclohexanone of formula (II) with methyl chloroformate in the presence of a base, such as Na2CO3 or the like, in a solvent such a benzene, toluene, or the like, at temperatures ranging from 65-110° C., affords the methyl carbamate of formula (V).
 Subsequent treatment with a base, such as LDA or the like, followed by a silylating agent such as TMSCl, or the like, in a solvent, such as THF, and at temperatures between −78° C. and 22° C. affords the corresponding trimethylsilyl enol ether.
 Oxidation with an oxidizing agent, such as mCPBA, in the presence of a base, such as Na2CO3, and a solvent, such as hexanes, at room temperature affords the hydroxyketone of formula (VII).
 Subsequent treatment with BSTFA in the presence of a base, such as pyridine or the like, in a solvent, such as DCM, chloroform or the like, at temperatures ranging from 30 to 80° C. affords the trimethylsilyl ether.
 Deprotection of the carbamate protecting group and of the trimethylsilyl ether affords compounds of formula (IX). For example, treatment of trimethylsilyl ether (VIII) with TMSI in a solvent, such as DCM, chloroform or the like, and methanol at room temperature affords the amino alcohol of formula (IX).
+<img> id-US20180057470A1-20180301-C00012.TIF </img>
 In accordance with Scheme C, imidates of Formula (XI) can be synthesized in two steps from a 2-amino-6-bromocyclohexanone of formula (III):
 Treatment of compounds of formula (III) with an acid chloride in the presence of a base, under conditions known to one skilled in the art, provides compounds of formula (X). Alternatively, treatment of the 2-amino-6-bromocyclohexanone with a carboxylic acid and a coupling reagent, in the presence of a base, under conditions known to one skilled in the art, also provides the amide of formula (X). For example, treatment of compounds of formula (III) with an acid chloride, in the presence of a base, such as TEA or the like, in a solvent such as chloroform, DCM or the like affords an amide of formula (X).
 Subsequent treatment with a base, such as NaH or the like, in a solvent such as DMF, DMA or the like, affords an imidate of formula (XI), wherein, Ra=-H, -C1-6-C1-6haloalkyl, -C3-8alkenyl, -C3-8alkynyl, -(CH2)naryl, -(CH2)nheteroaryl, -(CH2)ncycloalkyl, -(CH2)nheterocycloalkyl, -COR2, -CONR3R4, -CR5R6NR7R8, -CHR9R10, or -C(OH)R11R12.
+<img> id-US20180057470A1-20180301-C00013.TIF </img>
 In accordance with Scheme D, imidates of Formula (XI) can be synthesized in three steps from a 6-aminocyclohex-2-enone of Formula (IV):
 Treatment of compounds of formula (IV) with an acid chloride in the presence of a base, under conditions known to one skilled in the art, provides the amide of Formula (XII). Alternatively, treatment of the 6-aminocyclohex-2-enone with a carboxylic acid and a coupling reagent, in the presence of a base, under conditions known to one skilled in the art, also provides the amide of Formula (XII). For example, treatment of compounds of formula (IV) with an acid chloride, in the presence of a base, such as TEA or the like, in a solvent such as chloroform, DCM or the like, affords an amide of formula (XII).
 Subsequent treatment with a halogenation reagent, such as NIS or the like, in the presence of a base, such as Et3N or the like, in a solvent, such as DCM or chloroform, affords the iodinated imidate of formula (XIII).
 Subsequent treatment with Bu3SnH in a solvent, such as DCM or the like, at temperatures ranging from 20 to 60° C. provides an imidate of formula (XI), wherein, Ra=-H, -C1-6alkyl, -C1-6haloalkyl, -C3-8alkenyl, -C3-8alkynyl, -(CH2)naryl, -(CH2)nheteroaryl, -(CH2)ncycloalkyl, -(CH2)nheterocycloalkyl, -COR2, -CONR3R4, -CR5R6NR7R8, -CHR9R10, or -C(OH)R11R12.
+<img> id-US20180057470A1-20180301-C00014.TIF </img>
 In accordance with Scheme E, imidates of Formula (XI) can be synthesized in two steps from a 2-amino-6-hydroxy-cyclohexanone of Formula (IX).
 Treatment of compounds of formula (IX) with an acid chloride in the presence of a base, under conditions known to one skilled in the art, provides the amide of Formula (XIV). Alternatively, treatment of the 2-amino-6-hydroxycyclohexanone derivative with a carboxylic acid and a coupling reagent, in the presence of a base, under conditions known to one skilled in the art, also provides the amide of Formula (IX). For example, treatment of the 2-amino-6-hydroxy-2-(2-chlorophenyl)cyclohexanone of Formula (IX) with an acid chloride, in the presence of a base, such as TEA or the like, in a solvent such as chloroform, DCM or the like affords an amide of formula (XIV).
 Subsequent treatment with ethylene glycol in the presence of a base, such as NaOH or the like, at temperatures ranging from 150-220° C. provides an imidate of formula (XI), wherein, Ra=-H, -C1-6alkyl, -C1-6haloalkyl, -C3-8alkenyl, -C3-8alkynyl, -(CH2)naryl, -(CH2)nheteroaryl, -(CH2)ncycloalkyl, -(CH2)nheterocycloalkyl, -COR2, -CONR3R4, -CR5R6NR7R8, -CHR910, or -C(OH)R11R12. Alternatively, heating intermediates of formula (XIV) at a temperature ranging between 180-250° C. and a pressure less than 0.5 mmHg for a period of 1-5 h, followed by cooling to room temperature then treatment with a solution of tetraethylammonium hydroxide in a solvent, such as DCM or the like, then subsequent removal of solvent and heating again at reduced pressure as previously described, affords imidate compounds of formula (XI).
+<img> id-US20180057470A1-20180301-C00015.TIF </img>
 In accordance with Scheme E, deprotection of a nitrogen protecting group is performed under the appropriate conditions known to one skilled in the art, depending on which protecting group is used. In one instance, deprotection of carbamate intermediates of formula (XV), wherein the carbamate protecting group is 9-fluorenylmethyl carbamate (Fmoc), 2-trimethylsilylethyl carbamate (TeOC), t-butyl carbamate (Boc), allyl carbamate (Alloc), benzyl carbamate (Cbz) or the like, can be achieved under conditions known to one skilled in the art. For example, FMC deprotection with piperidine provides a compounds of formula (XVI), wherein each Rb independently=-H, -halo, -NH2, -C1-8alkyl, -C1-8haloalkyl, -(CH2)nCONH2, -(CH2)nCOOH, -(CH2)naryl, -(CH2)nheteroaryl, -(CH2)ncycloalkyl, and -(CH2) heterocycloalkyl, each optionally substituted, wherein n is independently an integer selected from 0, 1, 2, 3, and 4; and Rc=-H, -C1-4alkyl, and -C1-4haloalkyl. Alternatively, deprotection of sulfonamide intermediates of formula (XV), wherein the sulfonamide protecting group is p-toluenesulfonyl (Ts), trifluoromethanesulfonyl, trimethylsilylethanesulfonamide (SES), tert-butylsulfonyl (Bus) or the like, can be achieved under conditions known to one skilled in the art. For example, treatment of a Ts protected compound of formula (XV) with a strong acid, such as HBr or the like, in a solvent, such as acetic acid or the like, provides a compound of formula (XVI), wherein Rb and Rc are described above.
 Chemistry:
 In some embodiments, the following experimental and analytical protocols, unless otherwise indicated, can be used to obtain the resulting compounds.
@@ -356,156 +369,223 @@ Preparative SFC-MS is run on a Waters Prep100 SFC-MS system equipped with a Viri
 Nuclear magnetic resonance (NMR) spectra can be obtained in a Varian 400 MHz or Bruker 400 MHz NMR.
 Chemical names can be generated using ChemBioDraw Ultra 12.0 (CambridgeSoft Corp., Cambridge, Mass.) or ChemAxon (Budapest, Hungary).
 Intermediate 1. 2-amino-6-bromo-2-(2-chlorophenyl)cyclohexanone hydrobromide.
+<img> id-US20180057470A1-20180301-C00016.TIF </img>
 This compound may be prepared in the manner described in J. Org. Chem., 1981, 46, 5055-5060, for example, in accordance with the following:
 Step 1. 2-Amino-2-(2-chlorophenyl)cyclohexanone. A solution of 655 g (2.93 mol) of 1-((2-chlorophenyl)(imino)methyl)cyclopentanol in 750 mL of i-PrOH is saturated with anhydrous HCl and then diluted to 1.5 L with anhydrous Et2O. The crystals that form are removed by filtration and dried to give 1-((2-chlorophenyl)(imino)methyl)cyclopentanol as the hydrochloride salt. To 3 L of Dowtherm-A at 200° C. is added 379 g (1.46 mol) of 1-((2-chlorophenyl)(imino)methyl)cyclopentanol (hydrochloride salt) which causes the temperature to fall to 180° C., where it is maintained for 7 min. The reaction mixture is cooled to 10° C., and the solid is removed by filtration and dissolved in H2O. The filtrate is diluted to 3 L with Et2O and extracted with H2O. The combined aqueous fractions are washed with Et2O, made basic with 50% aqueous NaOH, and extracted with Et2O. The ether layer is washed with water, dried, de-colorized with charcoal, filtered through Celite, and concentrated. The residue is distilled to give the title compound.
 Step 2: 2-Bromo-6-amino-6-(2-chlorophenyl)cyclohexanone Hydrobromide. A solution of 298 g (1.33 mol) of 2-Amino-2-(2-chlorophenyl)cyclohexanone in 1.2 L of 48% aqueous HBr is heated to 70° C., and 216 g (1.35 mol) of bromine is added dropwise. The mixture is stirred for 10 min after the addition is complete and cooled to 5° C. The crystals are removed by filtration, washed copiously with acetone, and dried to give 408 g of the title compound, mp 142-145° C. A second crop (30 g, mp 142-145° C.) is obtained by decolorizing and concentrating the acetone washes. An NMR is run in D2O and shows the presence of excess protons in the HOD peak. The entire yield of 441 g is azeotroped in 500 mL of xylene, with the recovery being 420 g (82%; mp 209-210° C.) and the water collected in a Dean-Stark trap corresponding to a monohydrate.
 Intermediate 2. 1-amino-2'-chloro-5,6-dihydro-2(1H)-one hydrobromide.
+<img> id-US20180057470A1-20180301-C00017.TIF </img>
 This compound may be prepared in the manner described in J. Org. Chem., 1981, 46, 5055-5060, for example, in accordance with the following:
 6-Amino-6-(2-chlorophenyl)-2-cyclohexen-1-one. A solution of 35 g (0.28 mol) of1,5-diazabicyclo[3.3.1]non-5-ene, 200 mL of acetonitrile, and 74 g (0.25 mol) of 2-Bromo-6-amino-6-(2-chlorophenyl)cyclohexanone (free base) is refluxed for 20 h. The solvent is evaporated and the residue diluted with ether and 5% aqueous NaOH. The layers are separated, and the organic layer is extracted with 5% aqueous HCl. The combined acid-water layers are decolorized with charcoal, filtered through Celite, and made basic with 50% aqueous NaOH. The crystalline precipitate is removed by filtration, is washed with water, and is dried to give 31 g (57%) of the title compound, mp 120-123° C.
 Intermediate 3. 2-amino-2-(2-chlorophenyl)-6-hydroxycyclohexanone.
+<img> id-US20180057470A1-20180301-C00018.TIF </img>
 This compound may be prepared in the manner described in J. Med. Chem., 1986, 29, 2396-2399, for example, in accordance with the follows:
 Step 1. 2-(o-Chlorophenyl)-2-[(methoxycarbonyl)-aminocyclohexanone. To a mixture of 2-amino-2-(2-chlorophenyl)cyclohexanone (3.0 g, 14 mmol) in anhydrous benzene (100 mL) and Na2CO3 (4.5 g) is added a solution of methyl chloroformate (3.0 mL, 40 mmol) in anhydrous benzene (10 mL). After heating under reflux for 3 h, the reaction mixture is cooled to room temperature and washed in turn with H2O, 10% Na2CO3, and H2O again. The product is diluted with either, dried (MgSO4), and concentrated under reduced pressure, wherein the title compound precipitates as a white solid.
 Step 2. 2-(o-Chlorophenyl)-2-[(methoxycarbonyl)amino]-6-hydroxycyclohexanone. To a cooled (0° C.) mixture of diisopropylamine (4 mL, 28 mmol) and dry THF (30 mL) is added a solution of n-butyllithium in hexane (1.6 M, 17 mL, 28 mmol). The reaction mixture is stirred at 0° C. for 1 h, cooled to −78° C., and treated dropwise with a solution of 2-(o-Chlorophenyl)-2-[(methoxycarbonyl)-aminocyclohexanone (3.2 g, 11 mmol) in dry THF (20 mL). After stirring for a period of 2 h, Me3SiCl (4 mL, 28 mmol) is added, and the reaction mixture is stirred for 20 min before warming to room temperature over 45 min. Hexane is then added, and the resulting solution is washed with 10% NaHCO3 and H2O and dried (MgSO4), and the solvent is removed in vacuo to afford the crude product as a yellow oil. Purification by column chromatography on silica gel (75 g, 70-325 mesh, EtOAc as eluent) gives methyl (2'-chloro-6-((trimethylsilyl)oxy)-1,2,3,4-tetrahydro-[1,1'-biphenyl]-1-yl)carbamate as a clear yellow oil, yield 4.5 g (100%). To a mixture of methyl (2'-chloro-6-((trimethylsilyl)oxy)-1,2,3,4-tetrahydro-[1,1'-biphenyl]-1-yl)carbamate (4.46 g, 12.6 mmol) in hexane (60 mL) and Na2CO3 (2.5 g) is added mCPBA (4.5 g, 20.8 mmol). The reaction mixture is stirred at room temperature for 3 h, and the product is washed (10% Na2SO3, then H2O), dried (MgSO4), and evaporated to give a white solid. Column chromatography on silica gel (75 g, 70-325 mesh, 5% CH3CN in CH2Cl2 as eluent) gives the title compound as an oil.
 Step 3. 2-(o-Chlorophenyl)-2-amino-6-hydroxycyclohexanone (6-Hydroxynorketamine). To a solution of 2-(o-Chlorophenyl)-2-[(methoxycarbonyl)amino]-6-hydroxycyclohexanone (3.5 g, 12 mmol) in anhydrous CH2Cl2 (80 mL) is added BSTFA (4 mL, 15 mmol) and dry pyridine (0.2 mL). The mixture is heated under reflux for 1 h, and excess reagents are removed in vacuo to give methyl (1-(2-chlorophenyl)-2-oxo-3-((trimethylsilyl)oxy)cyclohexyl)carbamate as a white solid: A solution of methyl (1-(2-chlorophenyl)-2-oxo-3-((trimethylsilyl)oxy)cyclohexyl)carbamate (4.5 g, 12 mmol) in dry CH2Cl2 (80 mL) is treated dropwise with Me3SiI (3 mL, 17 mmol), and the resulting mixture is stirred at room temperature for 30 min. Methanol (80 mL) is then added, the mixture is washed (10% Na2SO3, then H2O) and dried (Na2SO4), and the solvent is evaporated to give the crude product as a yellow oil (1.0 g). Column chromatography on silica gel (10 g, 70-325 mesh, EtOAc as eluent) gives the title compounds as a pure oil.
 Intermediate 4. N-(3-bromo-1-(2-chlorophenyl)-2-oxocyclohexyl)formamide.
+<img> id-US20180057470A1-20180301-C00019.TIF </img>
 To a suspension of 2-amino-6-bromo-2-(2-chlorophenyl)cyclohexanone hydrobromide (Intermediate 1, 1.0 equiv) in DMF (0.2 M) is added DIEA (3 equiv.), HATU (1.2 equiv) and formic acid (1.5 equiv.) then the reaction mixture is stirred at room temperature for 2 h, and then the reaction is quenched with a saturated solution of NaHCO3. The aqueous layer is extracted with EtOAc (3×). The combined organic layer is dried (Na2SO4) and evaporated. The residue is purified to give the title compound.
 Intermediate 5. (1S,5R,8S)-5-(2-chlorophenyl)-8-iodo-3-(1-((4-methoxybenzyl)oxy)ethyl)-2-oxa-4-azabicyclo[3.3.1]non-3-en-9-one.
+<img> id-US20180057470A1-20180301-C00020.TIF </img>
 This compound may be prepared by methods known in the art, such as that described in Molecules, 2011, 16, 7691-7705.
 Step 1. To a suspension of 1-amino-2'-chloro-5,6-dihydro-[1,1'-biphenyl]-2(1H)-one hydrobromide (Intermediate 2, 1.0 equiv.) in CHCl3 (0.26 M) is added Et3N (2 equiv.) and 2-((4-methoxybenzyl)oxy)propanoyl chloride (1.15 equiv.) and the reaction mixture is stirred at room temperature for 2 h, and then washed with H2O two times. The aqueous layer is extracted with EtOAc three times. The combined organic layer is dried (Na2SO4) and evaporated, and the residue is recrystallized to give N-((R)-2'-chloro-6-oxo-1,2,3,6-tetrahydro-[1,1'-biphenyl]-1-yl)-2-((4-methoxybenzyl)oxy)propanamide.
 Step 2. A solution of N-((R)-2'-chloro-6-oxo-1,2,3,6-tetrahydro-[1, 1'-biphenyl]-1-yl)-2-((4-methoxybenzyl)oxy)propanamide (1.0 equiv) in CH2Cl2 (0.13 M) is treated with NIS (1.0 equiv) and subsequently stirred for 14 h at room temperature. When the reaction is complete, the mixture is washed with 10% NaOH solution three times. The aqueous solution is extracted with CH2Cl2 three times and the combined organic phase is dried (Na2SO4) and evaporated to give the title compound.
 Intermediate 6. N-(1-(2-chlorophenyl)-3-hydroxy-2-oxocyclohexyl)acetamide.
+<img> id-US20180057470A1-20180301-C00021.TIF </img>
 This compound may be prepared in a manner analogous to that described in J. Med. Chem, 2007, 50, 5311-5323, for example, as follows.
 To a solution of 2-amino-2-(2-chlorophenyl)-6-hydroxycyclohexanone (Intermediate 3, 1.0 equiv) in methanol (0.05 M) is added acetic anhydride (1.1 equiv.) and the reaction mixture is stirred at room temperature for 4 h. Upon completion of the reaction, the solution is neutralized with a 10% sodium bicarbonate solution (pH=8) then made basic with a 10% ammonia solution (pH=10). The organic layer is extracted with dichloromethane, washed with brine, dried (Na2SO4) and then the solvent is evaporated. The crude residue is purified by column chromatography to give the title compound.
 Example 1
 (1R,5R)-5-(2-chlorophenyl)-2-oxa-4-azabicyclo[3.3.1]non-3-en-9-one
+<img> id-US20180057470A1-20180301-C00022.TIF </img>
 This compound may be prepared in a manner analogous to that described in J. Org. Chem., 2007, 72, 8656-8670, 1 J. Org. Chem., 2011, 76, 680-683, and Org. Lett., 2016, 18, 948-951, for example, as follows.
 A solution of N-(3-bromo-1-(2-chlorophenyl)-2-oxocyclohexyl)formamide (Intermediate 4, 1.0 equiv) in dry DMF (0.06 M) is treated with NaH (1.0 equiv) at 0° C. The reaction mixture is stirred at 0° C. for 15 min and then at room temperature until TLC or LCMS reveals the disappearance of the starting material. Next, the reaction mixture is quenched with H2O and extracted three times with Et2O. The combined organic layers are washed with H2O three times and dried over Na2SO4. Flash chromatography on silica gel affords the desired compound.
 Example 2
 (1R,5R)-5-(2-chlorophenyl)-3-(1-hydroxyethyl)-2-oxa-4 azabicyclo[3.3.1]non-3-en-9-one
+<img> id-US20180057470A1-20180301-C00023.TIF </img>
 This compound may be prepared in a manner analogous to that described in Molecules, 2011, 16, 7691-7705, as follows.
 Step 1. Bu3SnH (2.1 equiv.) is added to a solution of (1S,5R,8S)-5-(2-chlorophenyl)-8-iodo-3-(1-((4-methoxybenzyl)oxy)ethyl)-2-oxa-4-azabicyclo[3.3.1]non-3-en-9-one (Intermediate 5, 1.0 equiv) in dry CH2Cl2 (0.1 M) under Ar. After stirring for 20 h at 40° C., the solvent is evaporated off and the residue is purified by column chromatography on silica gel (n-hexane:EtOAc 10:1) to afford (1R,5R)-5-(2-chlorophenyl)-3-(1-((4-methoxybenzyl)oxy)ethyl)-2-oxa-4-azabicyclo[3.3.1]non-3-en-9-one.
 Step 2. To a solution of (1R,5R)-5-(2-chlorophenyl)-3-(1-((4-methoxybenzyl)oxy)ethyl)-2-oxa-4-azabicyclo[3.3.1]non-3-en-9-one (1.0 equiv) in a mixture of dichloromethane/water (100:1, 0.06 M) at 0° C. is added DDQ (1.2 equiv) and the resulting mixture is stirred at room temperature for several hours. Upon completion of the reaction, the reaction mixture is washed with a 40% aqueous sodium hydrogencarbonate solution, followed by brine. The organic layer is dried (Na2SO4) and solvent is removed under reduced pressure. The crude product is purified to give the title compound.
 Example 3
 (1R,5R)-5-(2-chlorophenyl)-3-methyl-2-oxa-4-azabicyclo[3.3.1]non-3-en-9-one
+<img> id-US20180057470A1-20180301-C00024.TIF </img>
 This compound may be prepared in a manner analogous to that described in J Med. Chem., 2007, 50, 5311-5323, as follows.
 Step 1. To a suspension of N-(1-(2-chlorophenyl)-3-hydroxy-2-oxocyclohexyl)acetamide (Intermediate 6, 1.0 equiv) in freshly distilled ethylene glycol (0.02 M) is added sodium hydroxide (0.2 equiv). After heating at 215° C. for 6 h, the mixture is then made basic with a 10% ammonia solution (pH=10) and extracted with dichloromethane. The organic layer is dried over Na2SO4 and filtered, and the solvent is evaporated to give the title compound.
 The compounds of Examples 4-61, corresponding to the (1R,5R) enantiomers, may each be prepared in a manner analogous to those of Examples 1-3, with appropriate starting material substitutions and protection or deprotection steps as would be appreciated by those of skill in the art. In addition, the corresponding (1S,5S) enantiomers of Examples 1-61 can be synthesized in a manner similar to that described using the appropriate starting material substitutions and synthetic procedures as known to one skilled in the art.
 Example 4
 (1R,5R)-3-((S)-1-amino-2-methylpropyl)-5-(2-chlorophenyl)-2-oxa-4-azabicyclo[3.3.1]non-3-en-9-one
+<img> id-US20180057470A1-20180301-C00025.TIF </img>
 Example 5
 (1R,5R)-3-(aminomethyl)-5-(2-chlorophenyl)-2-oxa-4-azabicyclo[3.3.1]on-3-en-9-one
+<img> id-US20180057470A1-20180301-C00026.TIF </img>
 Example 6
 (1R,5R)-5-(2-chlorophenyl)-3-fluorocarbonyl-2-oxa-4-azabicyclo[3.3.1]non-3-en-9-one
+<img> id-US20180057470A1-20180301-C00027.TIF </img>
 Example 7
 (1R,5R)-5-(2-chlorophenyl)-3-((S)-1,5-diaminopentyl)-2-oxa-4-azabicyclo[3.3.1]non-3-en-9-one
+<img> id-US20180057470A1-20180301-C00028.TIF </img>
 Example 8
 (1R,5R)-3-((S)-1-aminoethyl)-5-(2-chlorophenyl)-2-oxa-4-azabicyclo[3.3.1]non-3-en-9-one
+<img> id-US20180057470A1-20180301-C00029.TIF </img>
 Example 9
 (1R,5R)-5-(2-chlorophenyl)-3-phenyl-2-oxa-4-azabicyclo[3.3.1]non-3-en-9-one
+<img> id-US20180057470A1-20180301-C00030.TIF </img>
 Example 10
 (1R,5R)-3-((1S,2R)-1-amino-2-methylbutyl)-5-(2-chlorophenyl)-2-oxa-4-azabicyclo[3.3.1]non-3-en-9-one
+<img> id-US20180057470A1-20180301-C00031.TIF </img>
 Example 11
 (1R,5R)-3-((S)-1-amino-3-methylbutyl)-5-(2-chlorophenyl)-2-oxa-4-azabicyclo[3.3.1]non-3-en-9-one
+<img> id-US20180057470A1-20180301-C00032.TIF </img>
 Example 12
 (1R,5R)-3-((S)-1-amino-2-phenylethyl)-5-(2-chlorophenyl)-2-oxa-4-azabicyclo[3.3.1]non-3-en-9-one
+<img> id-US20180057470A1-20180301-C00033.TIF </img>
 Example 13
 (1R,5R)-3-((S)-1-amino-2-(4-hydroxyphenyl)ethyl)-5-(2-chlorophenyl)-2-oxa-4-azabicyclo[3.3.1]non-3-en-9-one
+<img> id-US20180057470A1-20180301-C00034.TIF </img>
 Example 14
 (1R,5R)-3-((S)-1-amino-2-(1H-indol-3-yl)ethyl)-5-(2-chlorophenyl)-2-oxa-4-azabicyclo[3.3.1]non-3-en-9-one
+<img> id-US20180057470A1-20180301-C00035.TIF </img>
 Example 15
 (1R,5R)-3-((S)-1-amino-2-(1H-imidazol-4-yl)ethyl)-5-(2-chlorophenyl)-2-oxa-4-azabicyclo[3.3.1]non-3-en-9-one
+<img> id-US20180057470A1-20180301-C00036.TIF </img>
 Example 16
 (1R,5R)-5-(2-chlorophenyl)-3-(pyrrolidin-2-yl)-2-oxa-4-azabicyclo[3.3.1]non-3-en-9-one
+<img> id-US20180057470A1-20180301-C00037.TIF </img>
 Example 17
 (S)-3-amino-3-((1R,5R)-5-(2-chlorophenyl)-9-oxo-2-oxa-4-azabicyclo[3.3.1]non-3-en-3-yl)propanoic acid
+<img> id-US20180057470A1-20180301-C00038.TIF </img>
 Example 18
 (S)-4-amino-4-((1R,5R)-5-(2-chlorophenyl)-9-oxo-2-oxa-4-azabicyclo[3.3.1]non-3-en-3-yl)butanoic acid
+<img> id-US20180057470A1-20180301-C00039.TIF </img>
 Example 19
 (S)-4-amino-4-((1R,5R)-5-(2-chlorophenyl)-9-oxo-2-oxa-4-azabicyclo[3.3.1]non-3-en-3-yl)butanamide
+<img> id-US20180057470A1-20180301-C00040.TIF </img>
 Example 20
 (S)-3-amino-3-((1R,5R)-5-(2-chlorophenyl)-9-oxo-2-oxa-4-azabicyclo[3.3.1]non-3-en-3-yl)propanamide
+<img> id-US20180057470A1-20180301-C00041.TIF </img>
 Example 21
 (1R,5R)-3-((S)-1-amino-3-(methylthio)propyl)-5-(2-chlorophenyl)-2-oxa-4-azabicyclo[3.3.1]non-3-en-9-one
+<img> id-US20180057470A1-20180301-C00042.TIF </img>
 Example 22
 (1R,5R)-3-((R)-1-amino-2-mercaptoethyl)-5-(2-chlorophenyl)-2-oxa-4-azabicyclo[3.3.1]non-3-en-9-one
+<img> id-US20180057470A1-20180301-C00043.TIF </img>
 Example 23
 (1R,5R)-3-((S)-1-amino-2-hydroxethyl)-5-(2-chlorophenyl)-2-oxa-4-azabicyclo[3.3.1]non-3-en-9-one
+<img> id-US20180057470A1-20180301-C00044.TIF </img>
 Example 24
 (1R,5R)-3-((S)-1-amino-2-methoxyethyl)-5-(2-chlorophenyl)-2-oxa-4-azabicyclo[3.3.1]non-3-en-9-one
+<img> id-US20180057470A1-20180301-C00045.TIF </img>
 Example 25
 1-((S)-4-amino-4-((1R,5R)-5-(2-chlorophenyl)-9-oxo-2-oxa-4-azabicyclo[3.3.1]non-3-en-3-yl)butyl)guanidine
+<img> id-US20180057470A1-20180301-C00046.TIF </img>
 Example 26
 (1R,5R)-5-(2-chlorophenyl)-3-ethyl-2-oxa-4-azabicyclo[3.3.1]non-3-en-9-one
+<img> id-US20180057470A1-20180301-C00047.TIF </img>
 Example 27
 3-((1R,5R)-5-(2-chlorophenyl)-9-oxo-2-oxa-4-azabicyclo[3.3.1]non-3-en-3-yl)-2-hydroxypropanoic acid
+<img> id-US20180057470A1-20180301-C00048.TIF </img>
 Example 28
 2-(((1R,5R)-5-(2-chlorophenyl)-9-oxo-2-oxa-4-azabicyclo[3.3.1]non-3-en-3-yl)methyl)-2-hydroxysuccinic acid
+<img> id-US20180057470A1-20180301-C00049.TIF </img>
 Example 29
 5-((1R,5R)-5-(2-chlorophenyl)-9-oxo-2-oxa-4-azabicyclo[3.3.1]non-3-en-3-yl)pentanoic acid
+<img> id-US20180057470A1-20180301-C00050.TIF </img>
 Example 30
 3-((1R,5R)-5-(2-chlorophenyl)-9-oxo-2-oxa-4-azabicyclo[3.3.1]non-3-en-3-yl)-2,3-dihydroxypropanoic acid
+<img> id-US20180057470A1-20180301-C00051.TIF </img>
 Example 31
 3-((1R,5R)-5-(2-chlorophenyl)-9-oxo-2-oxa-4-azabicyclo[3.3.1]non-3-en-3-yl)propanoic acid
+<img> id-US20180057470A1-20180301-C00052.TIF </img>
 Example 32
 (1R,5R)-5-(2-chlorophenyl)-3-heptyl-2-oxa-4-azabicyclo[3.3.1]non-3-en-9-one
+<img> id-US20180057470A1-20180301-C00053.TIF </img>
 Example 33
 (1R,5R)-3-(1-amino-2-hydroselenoethyl)-5-(2-chlorophenyl)-2-oxa-4-azabicyclo[3.3.1]non-3-en-9-one
+<img> id-US20180057470A1-20180301-C00054.TIF </img>
 Example 34
 (1R,5R)-5-(2-chlorophenyl)-3-(2-(methylamino)ethyl)-2-oxa-4-azabicyclo[3.3.1]non-3-en-9-one
+<img> id-US20180057470A1-20180301-C00055.TIF </img>
 Example 35
 (1R,5R)-5-(2-chlorophenyl)-3-(1,2-diaminoethyl)-2-oxa-4-azabicyclo[3.3.1]non-3-en-9-one
+<img> id-US20180057470A1-20180301-C00056.TIF </img>
 Example 36
 (1R,5R)-3-(2-amino-1-hydroxyethyl)-5-(2-chlorophenyl)-2-oxa-4-azabicyclo[3.3.1]non-3-en-9-one
+<img> id-US20180057470A1-20180301-C00057.TIF </img>
 Example 37
 (1R,5R)-3-(3-aminopropyl)-5-(2-chlorophenyl)-2-oxa-4-azabicyclo[3.3.1]non-3-en-9-one
+<img> id-US20180057470A1-20180301-C00058.TIF </img>
 Example 38
 (1R,5R)-3-(4-aminobutyl)-5-(2-chlorophenyl)-2-oxa-4-azabicyclo[3.3.1]non-3-en-9-one
+<img> id-US20180057470A1-20180301-C00059.TIF </img>
 Example 39
 (1R,5R)-3-(3-aminopentyl)-5-(2-chlorophenyl)-2-oxa-4-azabicyclo[3.3.1]non-3-en-9-one
+<img> id-US20180057470A1-20180301-C00060.TIF </img>
 Example 40
 (1R,5R)-3-(1-amino-3-hydroxypropyl)-5-(2-chlorophenyl)-2-oxa-4-azabicyclo[3.3.1]non-3-en-9-one
+<img> id-US20180057470A1-20180301-C00061.TIF </img>
 Example 41
 (1R,5R)-5-(2-chlorophenyl)-3-(1,4-diaminobutyl)-2-oxa-4-azabicyclo[3.3.1]non-3-en-9-one
+<img> id-US20180057470A1-20180301-C00062.TIF </img>
 Example 42
 4-amino-4-((1R,5R)-5-(2-chlorophenyl)-9-oxo-2-oxa-4-azabicyclo[3.3.1]non-3-en-3-yl)-N-ethylbutanamide
+<img> id-US20180057470A1-20180301-C00063.TIF </img>
 Example 43
 (1R,5R)-5-(2-chlorophenyl)-3-(1,5-diamino-4-hydroxypentyl)-2-oxa-4-azabicyclo[3.3.1]non-3-en-9-one
+<img> id-US20180057470A1-20180301-C00064.TIF </img>
 Example 44
 1-(4-amino-4-((1R,5R)-5-(2-chlorophenyl)-9-oxo-2-oxa-4-azabicyclo[3.3.1]non-3-en-3-yl)butyl)urea
+<img> id-US20180057470A1-20180301-C00065.TIF </img>
 Example 45
 1-(5-amino-5-((1R,5R)-5-(2-chlorophenyl)-9-oxo-2-oxa-4-azabicyclo[3.3.1]non-3-en-3-yl)pentyl)urea
+<img> id-US20180057470A1-20180301-C00066.TIF </img>
 Example 46
 1-(5-amino-5-((1R,5R)-5-(2-chlorophenyl)-9-oxo-2-oxa-4-azabicyclo[3.3.1]non-3-en-3-yl)pentyl)guanidine
+<img> id-US20180057470A1-20180301-C00067.TIF </img>
 Example 47
 1-(2-((1R,5R)-5-(2-chlorophenyl)-9-oxo-2-oxa-4-azabicyclo[3.3.1]non-3-en-3-yl)ethyl)guanidine
+<img> id-US20180057470A1-20180301-C00068.TIF </img>
 Example 48
 (1R,5R)-3-)1-amino-2-methylbutyl)-5-(2-chlorophenyl)-2-oxa-4-azabicyclo[3.3.1]non-3-en-9-one
+<img> id-US20180057470A1-20180301-C00069.TIF </img>
 Example 49
 (1R,5R)-3-(1-amino-2-(5-hydroxy-1H-indol-3-yl)ethyl)-5-(2-chlorophenyl)-2-oxa-4-azabicyclo[3.3.1]non-3-en-9-one
+<img> id-US20180057470A1-20180301-C00070.TIF </img>
 Example 50
 (1R,5R)-3-(1-amino-2-(5-methyl-1H-indol-3-yl)ethyl)-5-(2-chlorophenyl)-2-oxa-4-azabicyclo[3.3.1]non-3-en-9-one
+<img> id-US20180057470A1-20180301-C00071.TIF </img>
 Example 51
 (1R,5R)-3-(2-(1H-indol-3-yl)-1-(methylamino)ethyl)-5-(2-chlorophenyl)-2-oxa-4-azabicyclo[3.3.1]non-3-en-9-one
+<img> id-US20180057470A1-20180301-C00072.TIF </img>
 Example 52
 (1R,5R)-5-(2-chlorophenyl)-3-(4-hydroxypyrrolidin-2-yl)-2-oxa-4-azabicyclo[3.3.1]non-3-en-9-one
+<img> id-US20180057470A1-20180301-C00073.TIF </img>
 Example 53
 (1R,5R)-3-(1-amino-2-hydroxy-3-methylbutyl)-5-(2-chlorophenyl)-2-oxa-4-azabicyclo[3.3.1]non-3-en-9-one
+<img> id-US20180057470A1-20180301-C00074.TIF </img>
 Example 54
 (1R,5R)-5-(2-chlorophenyl)-3-(1-(methylamino)ethyl)-2-oxa-4-azabicyclo[3.3.1]non-3-en-9-one
+<img> id-US20180057470A1-20180301-C00075.TIF </img>
 Example 55
 (1R,5R)-3-(2-aminopropyl)-5-(2-chlorophenyl)-2-oxa-4-azabicyclo[3.3.1]non-3-en-9-one
+<img> id-US20180057470A1-20180301-C00076.TIF </img>
 Example 56
 N-(5-amino-5-((1R,5R)-5-(2-chlorophenyl)-9-oxo-2-oxa-4-azabicyclo[3.3.1]non-3-en-3-yl)pentyl)-3-methyl-3,4-dihydro-2H-pyrrole-2-carboxamide
+<img> id-US20180057470A1-20180301-C00077.TIF </img>
 Example 57
 (1R,5R)-3-(1-amino-3-hydroxy-2-methylbutyl)-5-(2-chlorophenyl)-2-oxa-4-azabicyclo[3.3.1]non-3-en-9-one
+<img> id-US20180057470A1-20180301-C00078.TIF </img>
 Example 58
 (1R,5R)-3-(1-amino-2,2-dimethylpropyl)-5-(2-chlorophenyl)-2-oxa-4-azabicyclo[3.3.1]non-3-en-9-one
+<img> id-US20180057470A1-20180301-C00079.TIF </img>
 Example 59
 (1R,5R)-3-(amino(3-amino-4-hydroxyphenyl)methyl)-5-(2-chlorophenyl)-2-oxa-4-azabicyclo[3.3.1]non-3-en-9-one
+<img> id-US20180057470A1-20180301-C00080.TIF </img>
 Example 60
 (1R,5R)-3-(1-amino-2-hydroxy-2-phenylethyl)-5-(2-chlorophenyl)-2-oxa-4-azabicyclo[3.3.1]non-3-en-9-one
+<img> id-US20180057470A1-20180301-C00081.TIF </img>
 Example 61
 (1R,5R)-3-(1-amino-2-(4-methoxyphenyl)ethyl)-5-(2-chlorophenyl)-2-oxa-4-azabicyclo[3.3.1]non-3-en-9-one
+<img> id-US20180057470A1-20180301-C00082.TIF </img>
 Models for Evaluating Anti-Depressant Activity
 In this prophetic example, animal behavioral tests known in the art are used to evaluate the antidepressant efficacy of exemplary compounds of Formula (I). Such tests may be based on various attributes of depression, such as behavioral despair (e.g., Forced Swim), anxiety (e.g., Novelty Suppressed Feeding test), or exposure to uncontrollable stressors (e.g., Learned Helplessness).
 Forced Swim Test
@@ -534,6 +614,8 @@ Under the dosing duration of 3 weeks (21 days), there is evidence of Formula (I)
 In another prophetic example, comparable results are obtained from a similarly-designed clinical trial evaluating the efficacy of Formula (I) compounds in treating male and female patients with treatment-resistant depression (as defined by the American Psychiatry Association Diagnostic and Statistical Manual of Mental Disorders (5th Edition).
 Conversion of Formula (I) Compositions
 In this prophetic example, exemplary compounds of Formula (I) yield HNK upon administration to a subject, such as a patient in a clinical trial, in one or more steps. For example, in one possible pathway illustrated in the following schematic, exemplary compounds of Formula (I) may yield HNK in a two-step process, consisting of hydrolysis in Step 1 under acid conditions, such as those in the stomach, and subsequent enzymatic conversion by esterase action.
+<img> id-US20180057470A1-20180301-C00083.TIF </img>
 As a more specific example, a compound of Example 2 may give rise to HNK and lactic acid by the proposed two-step process, as illustrated in the following schematic.
+<img> id-US20180057470A1-20180301-C00084.TIF </img>
 The preceding schematics are for illustration purposes only and not intended to be limited to a particular mechanism or pathway, as other scenarios are also possible.
 While certain embodiments are described herein, it is understood that the described embodiments are not intended to limit the scope of the disclosure as defined by the appended claims. On the contrary, the present disclosure is intended to cover alternatives, modifications and equivalents that may be included within the spirit and scope of the invention as defined by the appended claims. Furthermore, certain details in the present disclosure are provided to convey a thorough understanding of the invention defined by the appended claims. However, it will be apparent to those skilled in the art that certain embodiments may be practiced without these details. In certain instances, well-known methods, procedures, or other specific details have not been described to avoid unnecessarily obscuring aspects of the invention defined by the appended claims.

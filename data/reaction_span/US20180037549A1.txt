@@ -2,36 +2,52 @@ FIELD OF THE DISCLOSURE
 The present disclosure relates to novel, safe and efficient processes for the synthesis of Pimavanserin and salts thereof, as well as novel intermediates that can be used in these processes.
 BACKGROUND OF THE DISCLOSURE
 Pimavanserin tartrate, 1-(4-fluorobenzyl)-3-(4-isobutoxybenzyl)-1-(1-methylpiperidin-4-yl)urea L-hemi-tartrate, has the following chemical structure:
+<img> id-US20180037549A1-20180208-C00002.TIF </img>
 Pimavanserin tartrate was developed by Acadia Pharmaceuticals and was approved under the trade name NUPLAZID® for use in patients with Parkinson's disease psychosis.
 Pimavanserin free base and its synthesis are disclosed in U.S. Pat. No. 7,601,740 (referred to herein as US '740 or the '740 patent) and U.S. Pat. No. 7,790,899 (referred to herein as US '899 or the '899 patent). US '740 discloses the synthesis of Pimavanserin free base (also referred to herein as “Compound A”), which includes O-alkylation followed by ester hydrolysis, and then in situ azidation. This process suffers from low process safety, and utilizes the hazardous reagent diphenylphosphoryl azide. The process is illustrated by the following Scheme 1.
+<img> id-US20180037549A1-20180208-C00003.TIF </img>
 US '899 describes another process, which includes O-alkylation followed by aldehyde reductive amination to obtain an intermediate which is then reacted with the hazardous reagent phosgene. This process is illustrated by the following Scheme 2:
+<img> id-US20180037549A1-20180208-C00004.TIF </img>
 Both of the above processes for the preparation of Pimavanserin include a reaction between 1-isobutoxy-4-(isocyanatomethyl)benzene, a benzyl isocyanate intermediate, and N-(4-fluorobenzyl)-1-methylpiperidin-4-amine. Processes for preparing benzyl isocyanate derivatives are generally described in the literature, such as in US '740; US '899; Bioorganic & Medicinal Chemistry, 21(11), 2960-2967, 2013; JP 2013087107; Synthesis (12), 1955-1958, 2005; and Turkish Journal of Chemistry, 31(1), 35-43, 2007. These processes often use the hazardous reagents like phosgene derivatives or diphenylphosphoryl azide.
 Accordingly, there is a need for additional processes allowing the efficient and safe synthesis of Pimavanserin.
 SUMMARY OF THE DISCLOSURE
 The present disclosure relates to novel, safe and efficient processes and intermediates for the synthesis of Pimavanserin and salts thereof. Coupling of carbamate derivatives to amines are typically performed using secondary amines. It was surprisingly found that such a reaction for the preparation of Pimavanserin failed to produce the desired compound, while a reaction with a primary amine intermediate provided the desired compound with great efficiency and quality.
 In a first aspect, the present disclosure relates to a process for preparing the compound of formula XVII
+<img> id-US20180037549A1-20180208-C00005.TIF </img>
 comprising reacting a compound of formula XI-a:
+<img> id-US20180037549A1-20180208-C00006.TIF </img>
 wherein R1 is a 2-methylpropan-oxy (“isobutoxy”) group or a group that can be converted into an isobutoxy group, or a salt thereof, with 1,1'-carbonyldiimidazole (CDI).
 In another, related aspect, the present disclosure relates to the compound of formula XVII:
+<img> id-US20180037549A1-20180208-C00007.TIF </img>
 wherein R1 is as defined above. The compound of formula XVII may be employed as a useful intermediate in the synthesis of Pimavanserin or a salt thereof.
 The present disclosure also relates to the use of the compound of formula XVII in the preparation of Pimavanserin or a salt thereof.
 The present disclosure further provides a process comprising reacting the compound of formula XVII with a compound of formula V.
+<img> id-US20180037549A1-20180208-C00008.TIF </img>
 or a salt thereof, to obtain Pimavanserin, or a salt thereof.
 In another aspect, the present disclosure provides a process for preparing the compound of formula Z.
+<img> id-US20180037549A1-20180208-C00009.TIF </img>
 comprising reacting a compound of formula XI-a:
+<img> id-US20180037549A1-20180208-C00010.TIF </img>
 wherein R1 is a 2-methylpropan-oxy (“isobutoxy”) group or a group that can be converted into an isobutoxy group, or a salt thereof, with 4-nitrophenyl chloroformate.
 The present disclosure also relates to the compound of formula Z:
+<img> id-US20180037549A1-20180208-C00011.TIF </img>
 wherein R1 is as defined above. The compound of formula Z may also be employed as a useful intermediate in the synthesis of Pimavanserin or a salt thereof.
 The use of said compound of formula Z in the preparation of Pimavanserin, or a salt thereof represents another aspect of the present disclosure.
 In a related aspect, the present disclosure provides a process comprising reacting the compound of formula Z with a compound of formula V
+<img> id-US20180037549A1-20180208-C00012.TIF </img>
 or a salt thereof, to obtain Pimavanserin or salts thereof.
 The present disclosure also relates to the compound of the formula XVIII:
+<img> id-US20180037549A1-20180208-C00013.TIF </img>
 or of formula XIX:
+<img> id-US20180037549A1-20180208-C00014.TIF </img>
 wherein R1 is a 2-methylpropan-oxy (“isobutoxy”) group or a group that can be converted into an isobutoxy group. The compounds of formula XVIII and formula XIX, respectively, may likewise be employed as useful intermediates in the synthesis of Pimavanserin or a salt thereof.
 Thus, another aspect of the present disclosure relates to the use of the compound of formula XVIII or the compound of formula XIX in the preparation of Pimavanserin or salts thereof.
 In yet another, related aspect, the present disclosure relates to a process comprising reacting a compound of formula XVIII
+<img> id-US20180037549A1-20180208-C00015.TIF </img>
 wherein R1 is as defined above, with 1,1'-carbonyldiimidazole (CDI) to obtain a compound of formula XIX
+<img> id-US20180037549A1-20180208-C00016.TIF </img>
 and further reacting the compound of formula XIX with a compound of formula V
+<img> id-US20180037549A1-20180208-C00017.TIF </img>
 or a salt thereof, to obtain Pimavanserin or a salt thereof.
 DETAILED DESCRIPTION OF THE DISCLOSURE
 Definitions
@@ -55,36 +71,52 @@ Salts of Pimavanserin can for example be formed with an acid wherein the corresp
 Salts of Pimavanserin are preferably pharmaceutically acceptable salts. The term “pharmaceutically acceptable salt” refers to a salt of a compound that does not cause significant irritation to an organism to which it is administered and does not abrogate the biological activity and properties of the compound. Pharmaceutical acceptable salts can be obtained by reacting Pimavanserin with inorganic acids such as hydrohalic acid (e.g., hydrochloric acid or hydrobromic acid), sulfuric acid, phosphoric acid and the like. Pharmaceutically acceptable salts may also be obtained by reacting a compound with an organic acid such as aliphatic or aromatic carboxylic or sulfonic acids, for example tartaric, acetic, succinic, lactic, malic, tartaric, citric, ascorbic, nicotinic, methanesulfonic, ethanesulfonic, p-toluensulfonic, salicylic or naphthalenesulfonic acid. A particularly preferred salt of Pimavanserin is the hemi-tartrate salt as this is the currently marketed form of the drug.
 The present disclosure also relates to certain compounds useful as intermediates in the synthesis of Pimavanserin. Such intermediates may employed either in their free base (or free acid) form, or in the form of their acid addition salts (in case of a basic group such as an amino group being present), or in the form of their base addition salts (in case an acidic functional group is present), with the possible choices including the examples listed above.
 In a first aspect, the present disclosure relates to a process for preparing a compound of the following formula XVII.
+<img> id-US20180037549A1-20180208-C00018.TIF </img>
 wherein said process comprises reacting a compound of formula XI-a:
+<img> id-US20180037549A1-20180208-C00019.TIF </img>
 or a salt thereof, with 1,1'-carbonyldiimidazole (CDI). R1 is a 2-methylpropan-oxy (“isobutoxy”) group or a group that can be converted into an isobutoxy group. Suitable groups that can be converted into an isobutoxy group are apparent to those of skill in the art and include, for example, a hydroxyl group, a halogen, a mesylate or triflate group, or an alcohol protecting group. In certain embodiments, R1 may be a halogen, a silyl ether or an alkoxy group. Preferably, R1 is an isobutoxy group resulting in a compound of formula VI-a:
+<img> id-US20180037549A1-20180208-C00020.TIF </img>
 Thus, in one embodiment, the process comprises reacting a compound of formula XI, or a salt thereof, such as a hydrochloric acid addition salt, and 1,1'-carbonyldiimidazole (“CDI”) to give the compound of formula VI-a, or a salt thereof, as illustrated by the following Scheme 3 (exemplified with R1=isobutoxy).
+<img> id-US20180037549A1-20180208-C00021.TIF </img>
 This process may generally be performed in the presence of suitable organic solvent, such as dimethylformamide (DMF), acetonitrile, N-methyl-2-pyrrolidone (NMP), dimethylformamide (DMA), dimethyl sulfoxide (DMSO), tetrahydrofuran (THF), 2-methyl tetrahydrofuran (2-Me-THF), toluene or mixtures thereof. Preferably, the solvent may be DMF, acetonitrile, toluene or a mixture thereof.
 Compound XVII may in some embodiments be isolated prior to the reaction with Compound V or a salt thereof, while in other embodiments, Compound XVII is used without isolation directly in the next step, i.e. in a “one-pot” reaction, with Compound V, or a salt thereof, to obtain Pimavanserin or the corresponding precursor of Pimavanserin, wherein R1 is a group that is converted into an isobutoxy group in a subsequent step.
 Compounds of formula XVII, such as compound of formula VI-a, which are another aspect of the present disclosure, can be used as an intermediate in the synthesis of Pimavanserin, or salts thereof.
 The intermediate compound of formula XVII may be converted to Pimavanserin or salts thereof by a process comprising reacting Compound XVII with Compound V, or a salt thereof, as illustrated by Scheme 4 (in Scheme 4 below, R1 in formula XVII is isobutoxy, i.e. compound of formula VI-a, although the same reaction can of course also be carried out with other R1 substituents that may later be converted to an isobutoxy group).
+<img> id-US20180037549A1-20180208-C00022.TIF </img>
 The reaction depicted in Scheme 4 can be carried out in a suitable organic solvent such as acetone at rather mild conditions (e.g. 40-50° C.). If necessary, the R1 substituent may subsequently be converted to an isobutoxy group to obtain Pimavanserin or a salt thereof.
 An overview about certain processes for preparation of Pimavanserin is shown in Scheme 5 below.
+<img> id-US20180037549A1-20180208-C00023.TIF </img>
 Alternatively, the compound of formula XI-a, or a salt thereof, may also be reacted with 4-nitrophenyl chloroformate to yield a compound of formula Z:
+<img> id-US20180037549A1-20180208-C00024.TIF </img>
 wherein R1 is as defined above. This process step is illustrated in Scheme 6 (the Scheme depicts the reaction with compounds of formula XI and Y, respectively, i.e. with R1=isobutoxy, although it can of course also be carried out with other groups that may later be converted into an isobutoxy group.
+<img> id-US20180037549A1-20180208-C00025.TIF </img>
 This reaction may be carried out in a suitable organic solvent such as THF in the presence of a base, for example triethylamine, methylamine, N,N-diisopropylethylamine (“DIPEA”), 4-Dimethylaminopyridine (DMAP), potassium carbonate, sodium carbonate, cesium carbonate, or mixtures thereof. In some embodiments, the base is trimethylamine and/or the solvent is THF.
 The compound of formula Z
+<img> id-US20180037549A1-20180208-C00026.TIF </img>
 is a useful intermediate in the synthesis of Pimavanserin or salts thereof, and thus represents another aspect of the present disclosure.
 As explained before, R1 may in some embodiments be a 2-methylpropan-oxy (“isobutoxy”) group, or a group that can be converted into an isobutoxy group. Preferably, R1 is an isobutoxy group resulting in a compound of formula Y:
+<img> id-US20180037549A1-20180208-C00027.TIF </img>
 The use of a compound of formula Z (or Y) in the preparation of Pimavanserin or a salt thereof, such as the hemi-tartrate salt of Pimavanserin represents therefore another aspect of the disclosure.
 The conversion of compound of formula Z (or compound of formula Y) to Pimavanserin (or a precursor of Pimavanserin wherein R1 is converted into an isobutoxy group in a subsequent step), or a salt thereof, may be accomplished by a process that comprises reacting Compound Z (or Y) with a compound V as illustrated by Scheme 7 below (shown with the specific example Compound Y).
+<img> id-US20180037549A1-20180208-C00028.TIF </img>
 The reaction may be carried out in a suitable organic solvent, such as acetonitrile, and preferably includes a base, e.g. DMAP, as described for the analogous reaction of the compound of formula XVII with the compound of formula V.
 If necessary, the residue R1 may subsequently be converted to an isobutoxy group to obtain Pimavanserin, or a salt thereof. In one embodiment, the obtained Pimavanserin is further converted to the Pimavanserin hemi-tartrate salt.
 In both process variants described herein above, the 4-substituted benzylamine of formula XI-a, or a salt thereof, may conveniently be prepared by converting a compound of formula XIII-a
+<img> id-US20180037549A1-20180208-C00029.TIF </img>
 to said compound of formula XI-a, or a salt thereof, by reductive amination via catalytic hydrogenation, e.g. with Raney Nickel, methanolic ammonia solution under hydrogen atmosphere, optionally followed by conversion into its acid addition salt (e.g. with HCl).
 When R1 is isobutoxy, the starting compound of formula XIII may in turn be obtained by reacting the 4-hydroxy-substituted precursor with isobutyl bromide in the presence of a base and catalytic amounts of potassium iodide (KI) in a suitable organic solvent such as DMF.
 This process as depicted below in Scheme 8 (with R1 being an isobutoxy group, yielding a compound of formula XI as a hydrochloric acid salt).
+<img> id-US20180037549A1-20180208-C00030.TIF </img>
 Alternatively, the compound of formula XI or XI-a may be prepared according to Scheme 9:
+<img> id-US20180037549A1-20180208-C00031.TIF </img>
 The present disclosure also includes the compound of formula XI as a hydrochloride salt in a crystalline form. The crystalline form, designated Form I, can be characterized by data selected from one or more of the following: X-ray powder diffraction pattern having peaks at about 3.9, 7.8, 11.7, 19.5 and 22.8 degrees two theta ±0.2 degrees two theta; an X-ray powder diffraction pattern as depicted in FIG. 3; and combinations of this data.
 Crystalline Form I of Compound XI HCl can be further characterized by an X-ray powder diffraction pattern having peaks at 3.9, 7.8, 11.7, 19.5 and 22.8 degrees two theta ±0.2 degrees two theta and also having any one, any two, any three or more additional peaks selected from the group consisting of 15.6, 18.1, 20.5, 23.4 and 27.4 degrees two theta ±0.2 degrees two theta.
 The disclosure further relates to a process which utilizes a hydroxamic acid derivative as an intermediate for producing Pimavanserin. Hydroxamic acid is known from U.S. Pat. No. 3,479,396; and reactions for the conversion of hydroxamic acid derivative to isocyanates are known from P. Dube et al. Org. Lett., Vol. 11, No. 24, 2009, 5622; or Zhao et al. Org. Process Res. Dev 2 Apr. 2015 (Web).
 Thus, the present disclosure also relates to a novel N-hydroxy-2-(4-substituted)phenyl acetamide of the general formula XVIII:
+<img> id-US20180037549A1-20180208-C00032.TIF </img>
 wherein R1 is as defined above, i.e. a 2-methylpropan-oxy (“isobutoxy”) group or a group that can be converted into an isobutoxy group. Preferably, R1 is an isobutoxy group, and the resulting compound N-hydroxy-2-(4-isobutoxyphenyl)acetamide is referred to herein as “Compound 1”.
 In yet another aspect, the present disclosure provides a compound (referred to as Compound B) of the following formula:
+<img> id-US20180037549A1-20180208-C00033.TIF </img>
 wherein R1 is as defined above (preferably wherein R1 is isobutoxy), and wherein R2 may be alkyl, aryl or hydrogen. Preferably, R2 is C1-C6 alkyl, such as methyl or ethyl, or phenyl, or hydrogen.
 Compound B may be converted into a compound of formula XVIII. In some embodiments Compound B is reacted with hydroxylamine or hydroxylamine hydrochloride, in the presence of CDI, and a suitable solvent. In certain embodiments, R1 is isobutoxy and R2 is hydrogen.
 Preferably, the solvent is an organic solvent such as acetonitrile, tetrahydrofuran (THF) or methyl-tetrahydrofuran (Me-THF), or mixtures thereof. Most preferably, the solvent is acetonitrile.
@@ -99,16 +131,20 @@ Crystalline form II of Compound 1 can be further characterized by an X-ray powde
 Crystalline form II of Compound 1 may be characterized by each of the above characteristics alone and/or by all possible combinations.
 The compound of formula XVIII (such as Compound 1) can be converted to Pimavanserin, or a salt thereof, by reacting it with CDI to obtain an intermediate of formula XIX (as shown below) which is then converted to Pimavanserin (or the respective derivative where R1 is only converted to isobutoxy in a subsequent step), or a salt thereof.
 This process can be illustrated by the following Scheme 10 (Compound 1 is shown as an illustrative example):
+<img> id-US20180037549A1-20180208-C00034.TIF </img>
 Thus, in certain embodiments, the process comprisesa) reacting a compound of formula XVIII, such as Compound 1, with 1,1'-carbonyldiimidazole (CDI) to obtain 3-(4-substituted benzyl)-1,4,2-dioxazol-5-one (referred to herein as a compound of formula XIX); andb) reacting the obtained compound of formula XIX with Compound V or a salt thereof (e.g. the dihydrochloride salt) to obtain Pimavanserin, or a salt thereof.
 In certain embodiments, step a) is performed in the presence of a solvent. Suitable solvents include for example acetonitrile, tetrahydrofuran (THF) or methyl-tetrahydrofuran (Me-THF), or mixtures thereof. Preferably, the solvent is acetonitrile.
 The above reaction may be performed at a temperature of from about 20° C. to about 80° C. Preferably, the temperature is about 50° C. to about 70° C. More preferably, the temperature is about 60° C. to about 65° C.
 As can be seen from Scheme 10 above, the reaction of the compound of formula XVIII with CDI proceeds via the intermediate of formula XIX (5-([4-substituted]benzyl)-1,3,4-dioxazol-2-one):
+<img> id-US20180037549A1-20180208-C00035.TIF </img>
 The intermediate of formula XIX as well as the process for preparing it by reacting the compound of formula XVIII with CDI thus represent further aspect of the disclosure.
 As detailed above, R1 may be a 2-methylpropan-oxy (“isobutoxy”) group or a group that can be converted into an isobutoxy group. In embodiments where R1 is an isobutoxy group, the compound of formula XIX is referred to herein as Compound 2 (5-((4-isobutoxy)-benzyl)-1,3,4-dioxazol-2-one):
+<img> id-US20180037549A1-20180208-C00036.TIF </img>
 The intermediate of formula XIX (such as Compound 2) can be used in the preparation of Pimavanserin, or a salt thereof, which therefore represents yet another aspect of the present disclosure.
 In the process going through the intermediate of formula XIX/Compound 2 (typically starting form a compound of formula XVIII such as the specific Compound 1), the intermediate may be isolated before reacting it with the compound of formula V.
 Alternatively, the reaction is performed without the isolation of the intermediate of formula XIX/Compound 2, i.e. as a one-pot reaction.
 Compound V can be prepared according to US '740, or, alternatively, by reacting 4-fluorobenzaldehyde (referred to herein as compound of formula III) and 1-methylpiperidin-4-amine (referred to herein as compound of formula IV) in the presence of a reducing agent, as illustrated by Scheme 11:
+<img> id-US20180037549A1-20180208-C00037.TIF </img>
 This process represents another aspect of the present disclosure. In certain embodiments, the processes for preparing Pimavanserin, or a salt thereof include the step of preparing compound of formula V via the compounds of formula III and IV.
 The isobutoxy substituent in position R1 present in many compounds disclosed herein can for example be created by reacting (an optionally protected/derivatized) phenolic hydroxyl group with an alkylation agent, for example, 1-bromo-2-methylpropane, 1-iodo-2-methylpropane, or 1-chloro-2-methylpropane. Preferably, the alkylation agent for this reaction step is 1-bromo-2-methylpropane. The alkylation may be performed in the presence of a base. Preferably, the base is an inorganic base. More preferably, the base is potassium carbonate, sodium carbonate, or cesium carbonate, or a mixture thereof. Most preferably, the base is potassium carbonate. In other embodiments, this reaction may be performed in the presence of a solvent. Preferably, the solvent is a polar solvent. More preferably, the solvent is dimethylformamide (DMF), N-methyl-2-pyrrolidone (NMP), dimethylacetamide (DMA) or dimethyl sulfoxide (DMSO). Most preferably, the solvent is DMF.
 In the processes for preparing Pimavanserin as described herein, Pimavanserin may be obtained in a crystalline form.
@@ -118,48 +154,63 @@ Crystalline Pimavanserin form X may be characterized by each of the above charac
 In some embodiments, the obtained Pimavanserin may be further converted to a salt, preferably, a pharmaceutically acceptable salt. For example, Pimavanserin may be converted to its hemi-tartrate salt. The conversion can be done either directly, i.e. in a one-pot manner, or with isolation of Pimavanserin prior to the conversion into the respective salt.
 The present disclosure also describes the use of tetraalkylammonium isocyanate in the preparation of Pimavanserin and salts thereof.
 These processes comprise reacting said tetraalkylammonium isocyanate with (4-isobutoxyphenyl)methanol in the presence of 2,4,6-trichloro[1,3,5]triazine to obtain 1-isobutoxy-4-(isocyanatomethyl)benzene (referred to as Compound XVI). This step can be illustrated by Scheme 12.
+<img> id-US20180037549A1-20180208-C00038.TIF </img>
 In this scheme, R1, R2, R3 and R4 can be the same or different, and, independently, may be an alkyl, aryl or alkyl-aryl. In certain embodiments, R1, R2, R3, and R4 are, independently, alkyl. In other embodiments, R1, R2, R3, and R4 are, independently, C1-C6 alkyl. In further embodiments, R1, R2, R3, and R4 are, independently, C4 alkyl. In still further embodiments, R1, R2, R3, and R4 are, independently, n-butyl.
 Compound XVI can then be converted to Pimavanserin by reacting it with N-(4-fluorobenzyl)-1-methylpiperidin-4-amine (compound of formula V), as shown in Scheme 13.
+<img> id-US20180037549A1-20180208-C00039.TIF </img>
 An overview about synthetic routes to Pimavanserin via Compound XVI is shown in the following Scheme 14:
+<img> id-US20180037549A1-20180208-C00040.TIF </img>
 In this scheme, R1, R2, R3 and R4 are as defined above, with compound (A) being Pimavanserin.
 Further described herein is a compound of formula VI:
+<img> id-US20180037549A1-20180208-C00041.TIF </img>
 The compound of formula VI may be employed as a useful intermediate in the synthesis of Pimavanserin or a salt thereof. Such a process involves reacting the compound of formula VI with a compound of formula XI-a
+<img> id-US20180037549A1-20180208-C00042.TIF </img>
 wherein R1 is a 2-methylpropan-oxy (“isobutoxy”) group or a group that can be converted into an isobutoxy group, to obtain Pimavanserin or a salt thereof. Preferably, R1 is isobutoxy (referred herein as a compound of formula XI).
 Moreover, the compound of formula XI-a (such as XI) may be first converted to a salt, such as a hydrochloric acid addition salt, before reacting it with Compound VI.
 This process is illustrated in Scheme 15:
+<img> id-US20180037549A1-20180208-C00043.TIF </img>
 The compound of formula VI itself may be prepared by a process comprising reacting N-(4-fluorobenzyl)-1-methylpiperidin-4-amine (Compound of formula V) and 1,1'-carbonyldiimidazole (“CDI”), as illustrated by Scheme 16 below.
+<img> id-US20180037549A1-20180208-C00044.TIF </img>
 The reaction illustrated by Scheme 16 may be carried out in a polar solvent such as acetone, optionally in the presence of some additional imidazole and/or imidazole hydrochloride.
 An overview about certain processes for the preparation of Pimavanserin as described herein is shown in Scheme 17 below.
+<img> id-US20180037549A1-20180208-C00045.TIF </img>
 Powder X-Ray Diffraction (“XRPD” or “PXRD”) Method
 The sample, after being carefully powdered in a mortar and pestle, is applied directly on a silicon plate holder. The X-ray powder diffraction pattern was measured with a Philips X'Pert PRO X-ray powder diffractometer, equipped with Cu Kα irradiation source (wavelength 1.54184 Å) and X'Celerator (2.022° 2θ) detector. Scanning parameters: angle range: 3-40°, step size 0.0167, time per step 37 s, continuous scan.
 Having described the disclosure with reference to certain preferred embodiments, other embodiments will become apparent to one skilled in the art from consideration of the specification. The disclosure is further defined by reference to the following examples describing in detail the preparation of the composition and methods of use of the disclosure. It will be apparent to those skilled in the art that many modifications, both to materials and methods, may be practiced without departing from the scope of the disclosure.
 EXAMPLES
 Example 1
 Preparation of N-(4-fluorobenzyl)-1-methylpiperidin-4-amine Preparation (Option 1)
+<img> id-US20180037549A1-20180208-C00046.TIF </img>
 Methanol is added to an Erlenmeyer flask and acetic acid is added under stirring until pH 5. 4-Fluorobenzylamine and 1-methylpiperidin-4-one are added to a round-bottomed flask and dissolved in the methanol/acetic acid solution previously made. The reaction mixture is stirred for 5 min and NaCNBH3 is added slowly under stirring. After 20 hours, the reaction is concentrated and transferred to a separatory funnel containing dichloromethane and distilled water. The aqueous phase was made basic by addition of Na2CO3. The aqueous phase is extracted twice with dichloromethane. The combined organic layers are collected and dried with Na2SO4. Concentration afforded N-(4-fluorobenzyl)-1-methylpiperidin-4-amine.
 Example 2
 Preparation of N-(4-fluorobenzyl)-1-methylpiperidin-4-amine Preparation (Option 2)
 Reacting 4-fluorobenzaldehyde (1.25 g; 10 mmol; 1.0 eq) and 1-methylpiperidin-4-amine (1.13 g; 10 mmol; 1.0 eq) in the presence of NaCNBH3 (0.83 g; 12.2 mmol) in methanol/acetic acid mixture (40 ml) at pH 5 during about 20 hours under ambient conditions leads to N-(4-fluorobenzyl)-1-methylpiperidin-4-amine formation. The reaction mixture is concentrated and transferred to a separatory funnel containing dichloromethane and distilled water. The aqueous phase is made basic by addition of Na2CO3. The aqueous phase is extracted twice with dichloromethane. The combined organic layers are collected and dried with Na2SO4. Concentration afforded N-(4-fluorobenzyl)-1-methylpiperidin-4-amine.
 Example 3
 Preparation of N-(4-isobutoxybenzyl)-1H-imidazole-1-carboxamide
+<img> id-US20180037549A1-20180208-C00047.TIF </img>
 Reacting (4-isobutoxyphenyl)methanamine (9.14 g, 51 mmol; 1.0 eq) with 1,1'-Carbonyldiimidazole (CDI) (9.95 g: 61 mmol; 1.2 eq) in the presence of imidazole (0.175 g; 2 mmol; 0.05 eq) and imidazole hydrochloride (0.995 g; 9 mmol; 0.186 eq) in acetone (30 ml) at 10° C. during about 2 hours leads to formation of N-(4-isobutoxybenzyl)-1H-imidazole-1-carboxamide intermediate.
 Example 4
 Preparation of 1-(4-fluorobenzyl)-3-(4-isobutoxybenzyl)-1-(1-methylpiperidin-4-yl)urea (Compound A)
 Reacting N-(4-isobutoxybenzyl)-1H-imidazole-1-carboxamide intermediate (reaction mixture in acetone) obtained in Example 5 with N-(4-fluorobenzyl)-1-methylpiperidin-4-amine (9.56g, 43 mmol; 0.85 eq), obtained in Examples 1 or 2, in acetone (60 ml) at 40-50° C. during about 3 hours leads to 1-(4-fluorobenzyl)-3-(4-isobutoxybenzyl)-1-(1-methylpiperidin-4-yl)urea (Compound A) formation. The target product is precipitated and isolated by addition of water (100 ml), stirring under ambient temperature for about 20 hours, filtration and drying.
 Example 5
 Preparation of 4-isobutoxybenzonitrile
+<img> id-US20180037549A1-20180208-C00048.TIF </img>
 4-Hydroxybenzonitrile (59.6 g, 0.5 mol), potassium carbonate (276.4 g, 2.0 mol), potassium iodide (33.2 g, 0.2 mol) are mixed with dimethylformamide (1 L). 1-Bromo-2-methyl propane (217.5 ml, 2.0 mol) is added to the resulting suspension at 70° C. The alkylation reaction is performed at 70° C. for 6 hours. The resulting reaction mixture is filtered in order to remove inorganic salts from the reaction mixture. The filtrate is concentrated to about 300 ml. The residue is mixed with water and methyl tert-butyl ether. The organic phase is separated, washed with saturated brine and dried over magnesium sulfate. After concentrating the solution is purified by silica gel column chromatography (5-7% ethyl acetate/hexanes) to give 4-iso-butoxybenzonitrile (84.6 g, 96.5%).
 Example 6
 Preparation of (4-isobutoxyphenyl)methanamine (Option 1)
+<img> id-US20180037549A1-20180208-C00049.TIF </img>
 A solution of 4-isobutoxybenzonitrile (6.2 mmol) in ammonia in methanol (2 N) (30 ml) is charged with Raney Nickel (25 mg) and is stirred under hydrogen at 60° C. for 4 hrs, upon which LCMS indicated the disappearance of starting material. The reaction mixture is filtered through a pad of celite and the filtrate is concentrated in vacuo to afford (4-isobutoxyphenyl)methanamine.
 Example 7
 Preparation of 4-isobutoxybenzamide
+<img> id-US20180037549A1-20180208-C00050.TIF </img>
 Reacting 4-hydroxybenzonitrile with 1-bromo-2-methyl propane in the presence of potassium carbonate in DMF/toluene mixture for 3 hrs at about 80° C. leads to 4-iso-butoxybenzamide formation. 4-Iso-butoxybenzamide is isolated from the reaction mixture by hot filtration in order to remove inorganic salts. The filtrate is concentrated and mixed with water and methyl tert-butyl ether. The organic phase is separated, washed with saturated brine, dried over magnesium sulfate and evaporated to dryness to afford the target product.
 Example 8
 Preparation of (4-isobutoxyphenyl)methanamine (Option 2)
+<img> id-US20180037549A1-20180208-C00051.TIF </img>
 Sodium borohydride, diglyme (90 ml), 4-iso-butoxybenzamide and octadecane (1.5 ml) are reacted at 162° C. for about 1.5 hrs (GC monitoring). The reaction mixture is quenched with aqueous ammonium chloride (pH=8.5) and extracted into methylene chloride. (4-Isobutoxyphenyl)methanamine is isolated by removing solvent and distillation.
 Example 9
 Preparation of (4-Isobutoxyphenyl)methanol
+<img> id-US20180037549A1-20180208-C00052.TIF </img>
 A solution of 4-isobutoxybenzaldehyde (6.24g, 35 mmol) in THF (80 ml) is added dropwise to a stirred suspension of NaBH4 (2.65g, 70 mmol) in dry THF (70 ml) at 0° C. The reaction mixture is stirred at room temperature overnight and is quenched with a small amount of water (5 ml). The solid formed is removed by filtration and the filtrate is concentrated in vacuo. The residue is dissolved in CHCl3 (50 ml). The resulting solution is washed with brine (3×20 mL), dried over anhydrous Na2SO4, and concentrated in vacuo to give (4-isobutoxyphenyl)methanol.
 Example 10
 Preparation of 4-isobutoxybenzonitrile

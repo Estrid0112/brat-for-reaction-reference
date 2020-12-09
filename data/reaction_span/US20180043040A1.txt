@@ -10,34 +10,45 @@ In recent years, PKM2 has been explored as a potential target for cancer therapy
 SUMMARY
 The present disclosure encompasses embodiments of a non-invasive method for the detection of PKM2 expression in subcutaneous and orthotopic tumors through positron emission tomography (PET) imaging of the PKM2 activator, [18F]DASA-23. [18F]DASA-23 cell uptake correlates with PKM2 protein expression in cultured tumor cells and orthotopic tumors are delineated from the surrounding normal brain tissue in vivo. PET/MR imaging confirmed correspondence of the [18F]DASA-23 signal with the location of intracranial tumors. Together, these data provide the basis for imaging agents that target this important gatekeeper of tumor glycolysis.
 Accordingly, one aspect of the disclosure encompasses embodiments of a pyruvate kinase M2 activator precursor having the formula I:
+<img> id-US20180043040A1-20180215-C00001.TIF </img>
 wherein: at least one of R1 and R2 can be NO2; when R2 is NO2, R1 is F or NO2; and R3 is a substituted aryl, naphthalene, or 1,4 benzodioxane.
 In some embodiments of this aspect of the disclosure, R3 can be an alkoxyphenyl or an aminophenyl.
 In some embodiments of this aspect of the disclosure, R3 is 4-methoxyphenyl, 4-ethoxyphenyl, 4-propoxyphenyl, or 4-aminophenyl.
 In some embodiments of this aspect of the disclosure, the precursor has the formula II:
+<img> id-US20180043040A1-20180215-C00002.TIF </img>
 wherein R3 is a substituted aryl.
 In some embodiments of this aspect of the disclosure, R3 is 4-methoxyphenyl.
 Another aspect of the disclosure encompasses embodiments of a Positron Emission Tomography (PET)-detectable probe having the formula III:
+<img> id-US20180043040A1-20180215-C00003.TIF </img>
 wherein: R1 is F or 18F; and R3 can be a substituted aryl, naphthalene, or 1,4 benzodioxane.
 In some embodiments of this aspect of the disclosure, R3 is an alkoxyphenyl or an aminophenyl.
 In some embodiments of this aspect of the disclosure, R3 is 4-methoxyphenyl, 4-ethoxyphenyl, 4-propoxyphenyl, or 4-aminophenyl.
 In some embodiments of this aspect of the disclosure, the probe has the formula IV:
+<img> id-US20180043040A1-20180215-C00004.TIF </img>
 Still another aspect of the disclosure encompasses embodiments of a pharmaceutically acceptable probe composition comprising a Positron Emission Tomography (PET)-detectable radiolabelled probe having the formula III:
+<img> id-US20180043040A1-20180215-C00005.TIF </img>
 wherein: R1 is F or 18F; and R3 can be a substituted aryl, naphthalene, or 1,4 benzodioxane.
 In some embodiments of this aspect of the disclosure, the probe can have the formula IV:
+<img> id-US20180043040A1-20180215-C00006.TIF </img>
 In some embodiments of this aspect of the disclosure, the pharmaceutically acceptable probe composition can further comprise a pharmaceutically acceptable carrier.
 Still another aspect of the disclosure encompasses embodiments of a method of generating a pyruvate kinase M2 activator precursor, wherein said precursor is 1-((2-fluoro-6-nitrophenyl)sulfonyl)-4-((4-methoxyphenyl)sulfonyl)piperazine (10) having the formula II:
+<img> id-US20180043040A1-20180215-C00007.TIF </img>
 the method comprising the steps of: (a) reacting 1-Boc-piperazine, trimethylamine and 4-methoxybenzenesulfonyl chloride to generate tert-butyl 4-((4-methoxyphenyl)sulfonyl)piperazine-1-carboxylate (8); (b) quenching the reaction of step (a) with saturated aqueous ammonium chloride and purifying the first product; (c) reacting the product of step (b) with trifluoroacetic acid to generate a TFA salt of 1-((4-methoxyphenyl)sulfonyl)piperazine (9); and (d) reacting the TFA salt of 1-((4-methoxyphenyl)sulfonyl)piperazine (9) product of step (c) with 2-fluoro-6-nitrobenzenesulfonyl chloride to generate 1-((2-fluoro-6-nitrophenyl)sulfonyl)-4-((4-methoxyphenyl)sulfonyl)piperazine (10) or with 2-bromo-6-fluorobenzenesulfonyl chloride to generate 1-((2-bromo-6-fluorobenzenesulfonyl)-4-((4-methoxyphenyl)sulfonyl)piperazine
 In some embodiments of this aspect of the disclosure, the step (d) can comprise reacting the TFA salt of 1-((4-methoxyphenyl)sulfonyl)piperazine (9) product of step (c) with 2-fluoro-6-nitrobenzenesulfonyl chloride to generate 1-((2-fluoro-6-nitrophenyl)sulfonyl)-4-((4-methoxyphenyl)sulfonyl)piperazine (10).
 Still another aspect of the disclosure encompasses embodiments of a method of generating a radiolabelled probe, wherein the probe is 1-((2-fluoro-6-(fluoro-18F)phenyl)sulfonyl)-4-((4-methoxyphenyl)sulfonyl)piperazine, said method comprising the steps: (a) fluoridating 4,7,13,16,21,24-hexaoxa-1,10-diazabicyclo[8.8.8]hexacosan (K2.2.2) with 18F; and (b) reacting 1-((2-fluoro-6-nitrophenyl)sulfonyl)-4-((4-methoxyphenyl)sulfonyl)piperazine (10) or 1-((2-bromo-6-fluorobenzenesulfonyl)-4-((4-methoxyphenyl)sulfonyl)piperazine with the fluoridated product of step (a), thereby obtaining 1-((2-fluoro-6-(fluoro-18F)phenyl)sulfonyl)-4-((4-methoxyphenyl)sulfonyl)piperazine.
 In some embodiments of this aspect of the disclosure, the step (b) can comprise reacting 1-((2-fluoro-6-nitrophenyl)sulfonyl)-4-((4-methoxyphenyl)sulfonyl)piperazine (10) with the fluoridated product of step (a), thereby obtaining 1-((2-fluoro-6-(fluoro-18F)phenyl)sulfonyl)-4-(4-methoxyphenyl)sulfonyl)piperazine.
 Still another aspect of the disclosure encompasses embodiments of a method of detecting a cell or a population of cells expressing pyruvate kinase M2, said method comprising: (i) contacting a cell or population of cells with a pharmaceutically acceptable PET-detectable radiolabelled probe composition comprising at least one probe having a radionuclide and having the formula:
+<img> id-US20180043040A1-20180215-C00008.TIF </img>
 wherein R2 is 18F and R1 can be F or 18F; and R3 can be a substituted aryl, naphthalene, or 1,4 benzodioxane; and (ii) detecting pyruvate kinase M2-specific binding of the radionuclide-containing probe within the cell or population of cells by detecting the presence of the radionuclide in the cell or population of cells.
 In some embodiments of this aspect of the disclosure, the probe can have the formula IV:
+<img> id-US20180043040A1-20180215-C00009.TIF </img>
 In some embodiments of this aspect of the disclosure, the method can further comprise the step of delivering the pharmaceutically acceptable probe composition to a human or non-human animal.
 In some embodiments of this aspect of the disclosure, in step (ii) of said method, the detection of the radionuclide can be by Positron Emission Tomography (PET).
 Yet another aspect of the disclosure encompasses embodiments of a method of detecting in a human or non-human animal a localized population of cancer cells expressing pyruvate kinase M2 (PKM2), said method comprising the steps of: (i) administering to a human or non-human animal a pharmaceutically acceptable composition comprising a radiolabeled pyruvate kinase M2 (PKM2)-specific probe having the formula I:
+<img> id-US20180043040A1-20180215-C00010.TIF </img>
 wherein R2 is 18F and R1 is F or 18F; and R3 is a substituted aryl, naphthalene, or 1,4 benzodioxane; and (ii) identifying a tissue in the animal or human host, wherein the amount of the detectable label in the tissue is greater than in other tissues of the host, thereby identifying a population of cancer cells expressing pyruvate kinase M2.
 In some embodiments of this aspect of the disclosure, the probe can have the formula IV:
+<img> id-US20180043040A1-20180215-C00011.TIF </img>
 In some embodiments of this aspect of the disclosure, the radiolabeled pyruvate kinase M2 (PKM2)-specific probe can be detected by Positron Emission Tomography (PET) scanning.
 In some embodiments of this aspect of the disclosure, the tissue is a glioma of the brain.
 The probes and the methods of use thereof are advantageous for the detection and imaging of tumors, and are especially useful for the detection and imaging of tumors such as gliomas of the brain since the probes are able to traverse the blood-brain barrier.
@@ -99,34 +110,45 @@ The present disclosure provides, therefore, a novel synthetic procedure towards 
 Cell culture studies showed rapid cellular uptake of the tracer in HeLa tumor cells post addition of [18F]DASA-23. Removal of tracer from the cell media resulted in some efflux of the cell-associated radioactivity, but over 50% of the tracer is still retained 30 min after removal of the [18F]DASA-23 from media. Upon addition of TEPP-46, a structurally distinct class of PKM2 activator, significant blocking of tracer uptake was observed.
 In vivo, orthotopic U87 GBM tumors could be clearly delineated from the surrounding normal brain tissue by dynamic PET imaging (n=6 mice; FIGS. 12A and 12B). PET/MR co-registration confirmed precise correspondence of the [18F]DASA-23 signal with the location of the intracranial tumors, further confirmed ex vivo by autoradiography. The autoradiography results for selected coronal brain sections from both the baseline and blocking study (the latter of which was pre-treated with TEPP-46 prior to injection with [18F]DASA-23) are shown in FIGS. 12A and 12B. It is evident that [18F]DASA-23 accumulates in the tumor, with results from the blocking study clearly depicting a dramatic reduction in tumor uptake. These data highlight the specificity of [18F]DASA-23 for PKM2 and indicate that signal in the tumor is the result of tracer binding at PKM2. Together, these data demonstrate that [18F]DASA-23 successfully measures tumor-associated PKM2 in preclinical models of human GBM and provides the foundation for clinical translation of this imaging agent.
 Accordingly, one aspect of the disclosure encompasses embodiments of a pyruvate kinase M2 activator precursor having the formula I:
+<img> id-US20180043040A1-20180215-C00012.TIF </img>
 wherein at least one of R1 and R2 can be NO2; when R2 is NO2, R1 is F or NO2; and R3 is a substituted aryl, naphthalene, or 1,4 benzodioxane.
 In some embodiments of this aspect of the disclosure, R3 can be an alkoxyphenyl or an aminophenyl.
 In some embodiments of this aspect of the disclosure, R3 is 4-methoxyphenyl, 4-ethoxyphenyl, 4-propoxyphenyl, or 4-aminophenyl.
 In some embodiments of this aspect of the disclosure, the precursor has the formula II:
+<img> id-US20180043040A1-20180215-C00013.TIF </img>
 wherein R3 is a substituted aryl.
 In some embodiments of this aspect of the disclosure, R3 is 4-methoxyphenyl.
 Another aspect of the disclosure encompasses embodiments of a Positron Emission Tomography (PET)-detectable probe having the formula III:
+<img> id-US20180043040A1-20180215-C00014.TIF </img>
 wherein R1 is F or 18F; and R3 can be a substituted aryl, naphthalene, or 1,4 benzodioxane.
 In some embodiments of this aspect of the disclosure, R3 is an alkoxyphenyl or an aminophenyl.
 In some embodiments of this aspect of the disclosure, R3 is 4-methoxyphenyl, 4-ethoxyphenyl, 4-propoxyphenyl, or 4-aminophenyl.
 In some embodiments of this aspect of the disclosure, the probe has the formula IV:
+<img> id-US20180043040A1-20180215-C00015.TIF </img>
 Still another aspect of the disclosure encompasses embodiments of a pharmaceutically acceptable probe composition comprising a Positron Emission Tomography (PET)-detectable radiolabelled probe having the formula III:
+<img> id-US20180043040A1-20180215-C00016.TIF </img>
 wherein R1 is F or 18F; and R3 can be a substituted aryl, naphthalene, or 1,4 benzodioxane.
 In some embodiments of this aspect of the disclosure, the probe can have the formula IV:
+<img> id-US20180043040A1-20180215-C00017.TIF </img>
 In some embodiments of this aspect of the disclosure, the pharmaceutically acceptable probe composition can further comprise a pharmaceutically acceptable carrier.
 Still another aspect of the disclosure encompasses embodiments of a method of generating a pyruvate kinase M2 activator precursor, wherein said precursor is 1-((2-fluoro-6-nitrophenyl)sulfonyl)-4-((4-methoxyphenyl)sulfonyl)piperazine (10) having the formula II:
+<img> id-US20180043040A1-20180215-C00018.TIF </img>
 the method comprising the steps of: (a) reacting 1-Boc-piperazine, trimethylamine and 4-methoxybenzenesulfonyl chloride to generate tert-butyl 4-((4-methoxyphenyl)sulfonyl)piperazine-1-carboxylate (8); (b) quenching the reaction of step (a) with saturated aqueous ammonium chloride and purifying the first product; (c) reacting the product of step (b) with trifluoroacetic acid to generate a TFA salt of 1-((4-methoxyphenyl)sulfonyl)piperazine (9); and (d) reacting the TFA salt of 1-((4-methoxyphenyl)sulfonyl)piperazine (9) product of step (c) with 2-fluoro-6-nitrobenzenesulfonyl chloride to generate 1-((2-fluoro-6-nitrophenyl)sulfonyl)-4-((4-methoxyphenyl)sulfonyl)piperazine (10) or with 2-bromo-6-fluorobenzenesulfonyl chloride to generate 1-((2-bromo-6-fluorobenzenesulfonyl)-4-((4-methoxyphenyl)sulfonyl)piperazine
 In some embodiments of this aspect of the disclosure, the step (d) can comprise reacting the TFA salt of 1-((4-methoxyphenyl)sulfonyl)piperazine (9) product of step (c) with 2-fluoro-6-nitrobenzenesulfonyl chloride to generate 1-((2-fluoro-6-nitrophenyl)sulfonyl)-4-((4-methoxyphenyl)sulfonyl)piperazine (10).
 Still another aspect of the disclosure encompasses embodiments of a method of generating a radiolabelled probe, wherein the probe is 1-((2-fluoro-6-(fluoro-18F)phenyl)sulfonyl)-4-((4-methoxyphenyl)sulfonyl)piperazine, said method comprising the steps: (a) fluoridating 4,7,13,16,21,24-hexaoxa-1,10-diazabicyclo[8.8.8]hexacosan (K2.2.2) with 18F; and (b) reacting 1-((2-fluoro-6-nitrophenyl)sulfonyl)-4-((4-methoxyphenyl)sulfonyl)piperazine (10) or 1-((2-bromo-6-fluorobenzenesulfonyl)-4-((4-methoxyphenyl)sulfonyl)piperazine with the fluoridated product of step (a), thereby obtaining 1-((2-fluoro-6-(fluoro-18F)phenyl)sulfonyl)-4-((4-methoxyphenyl)sulfonyl)piperazine.
 In some embodiments of this aspect of the disclosure, the step (b) can comprise reacting 1-((2-fluoro-6-nitrophenyl)sulfonyl)-4-((4-methoxyphenyl)sulfonyl)piperazine (10) with the fluoridated product of step (a), thereby obtaining 1-(2-fluoro-6-(fluoro-18F)phenyl)sulfonyl)-4-(4-methoxyphenyl)sulfonyl)piperazine.
 Still another aspect of the disclosure encompasses embodiments of a method of detecting a cell or a population of cells expressing pyruvate kinase M2, said method comprising: (i) contacting a cell or population of cells with a pharmaceutically acceptable PET-detectable radiolabelled probe composition comprising at least one probe having a radionuclide and having the formula:
+<img> id-US20180043040A1-20180215-C00019.TIF </img>
 wherein R2 is 18F and R1 can be F or 18F; and R3 can be a substituted aryl, naphthalene, or 1,4 benzodioxane; and (ii) detecting pyruvate kinase M2-specific binding of the radionuclide-containing probe within the cell or population of cells by detecting the presence of the radionuclide in the cell or population of cells.
 In some embodiments of this aspect of the disclosure, the probe can have the formula IV:
+<img> id-US20180043040A1-20180215-C00020.TIF </img>
 In some embodiments of this aspect of the disclosure, the method can further comprise the step of delivering the pharmaceutically acceptable probe composition to a human or non-human animal.
 In some embodiments of this aspect of the disclosure, in step (ii) of said method the detection of the radionuclide can be by Positron Emission Tomography (PET).
 Yet another aspect of the disclosure encompasses embodiments of a method of detecting in a human or non-human animal a localized population of cancer cells expressing pyruvate kinase M2 (PKM2), said method comprising the steps of: (i) administering to a human or non-human animal a pharmaceutically acceptable composition comprising a radiolabeled pyruvate kinase M2 (PKM2)-specific probe having the formula I:
+<img> id-US20180043040A1-20180215-C00021.TIF </img>
 wherein R2 is 18F and R1 is F or 18F; and R3 is a substituted aryl, naphthalene, or 1,4 benzodioxane; and (ii) identifying a tissue in the animal or human host, wherein the amount of the detectable label in the tissue is greater than in other tissues of the host, thereby identifying a population of cancer cells expressing pyruvate kinase M2.
 In some embodiments of this aspect of the disclosure, the probe can have the formula IV:
+<img> id-US20180043040A1-20180215-C00022.TIF </img>
 In some embodiments of this aspect of the disclosure, the radiolabeled pyruvate kinase M2 (PKM2)-specific probe can be detected by Positron Emission Tomography (PET) scanning.
 In some embodiments of this aspect of the disclosure, the tissue is a glioma of the brain.
 It should be noted that ratios, concentrations, amounts, and other numerical data may be expressed herein in a range format. It is to be understood that such a range format is used for convenience and brevity, and thus, should be interpreted in a flexible manner to include not only the numerical values explicitly recited as the limits of the range, but also to include all the individual numerical values or sub-ranges encompassed within that range as if each numerical value and sub-range is explicitly recited. To illustrate, a concentration range of “about 0.1% to about 5%” should be interpreted to include not only the explicitly recited concentration of about 0.1wt % to about 5wt %, but also include individual concentrations (e.g., 1%, 2%, 3%, and 4%) and the sub-ranges (e.g., 0.5%, 1.1%, 2.2%, 3.3%, and 4.4%) within the indicated range. The term “about” can include ±1%, ±2%, ±3%, ±4%, ±5%, ±6%, ±7%, ±8%, ±9%, or ±10%, or more of the numerical value(s) being modified. In addition, the phrase “about ‘x’ to ‘y’” includes “about ‘x’ to about ‘y’”.
@@ -164,3 +186,4 @@ Scheme 2 (FIG. 3) describes the synthesis of cold DASA-23 standard (1) which is 
 Radiochemistry: [18F]DASA-23 (1) (Scheme 3) (FIG. 4) was prepared by nucleophilic displacement of the nitro group within 10 by the [18F]fluoride ion in DMF at 110° C. for 20 min. Subsequent purification by semi-preparative HPLC yielded pure [18F]DASA-23. The radiochemical yield was 2.61±1.54%, non-decay corrected at EOS, and the specific activity was 2.59±0.44 Ci/μmol (n=10). The identity of [18F]DASA-23 was confirmed by analytical HPLC coinjection with cold standard.
 Example 13
 General Scheme for Synthesis of Alternative Derivatives
+<img> id-US20180043040A1-20180215-C00023.TIF </img>

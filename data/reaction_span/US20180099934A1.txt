@@ -36,7 +36,9 @@ In some embodiments, the PSMA-targeted molecule is chosen from the group consist
 In some embodiments, X is a hydrophobic linker. In some embodiments, X is selected from the group consisting of a polyethylene glycol (PEG) sequence including 1, 2, 3, or 4 PEG monomers, a chain of 7 atoms, a linker 7 atoms in length, a chain from 7 to 24 atoms in length; a peptide comprising two aryl or aryl alkyl groups, each of which is optionally substituted, and where one aryl or aryl alkyl group is about 7 to about 11, or about 7 to about 14 atoms, and the other aryl or aryl alkyl group is about 10 to about 14, or about 10 to about 17 atoms. In another embodiment, the linker ccomprises about 1 to about 30 atoms, or about 2 to about 20 atoms. In some embodiments, the linker is 7 atoms in length. In some embodiments, the linker comprises PEG2. In some embodiments, the linker is variably charged. In some embodiments, X has a positive charge. In other embodiments, X has a negative charge.
 In some embodiments, Y is selected from the group consisting of: acidic (negatively charged) amino acids, such as aspartic acid and glutamic acid and derivative thereof; basic (positively charged) amino acids such as arginine, histidine, and lysine and derivative thereof; neutral polar amino acids, such as glycine, serine, threonine, cysteine, tyrosine, asparagine, and glutamine and derivative thereof; neutral nonpolar (hydrophobic) amino acids, such as alanine, leucine, isoleucine, valine, proline, phenylalanine, tryptophan, and methionine; and derivatives thereof. In some embodiments, Y is an aromatic amino acid and derivative thereof. In some embodiments, Y has a positive charge. In other embodiments, Y has a negative charge.
 In some embodiments, Z is selected from the group consisting of near-infra red dyes, including but not limited to,
+<img> id-US20180099934A1-20180412-C00002.TIF </img><img> id-US20180099934A1-20180412-C00003.TIF </img>
 and/or the dyes selected from group consisting of:
+<img> id-US20180099934A1-20180412-C00004.TIF </img><img> id-US20180099934A1-20180412-C00005.TIF </img>
 In certain embodiments, the Z is variably charged. In some embodiments, Z has a positive charge. In other embodiments, Z has a negative charge.
 In certain embodiments, compounds of the present invention have the formula:
 <in-line-formulae>B-X-Y-Z</in-line-formulae>
@@ -49,7 +51,7 @@ In some embodiments the present invention provides compounds of the form:
 Wherein, B is a PSMA-targeted compound; X is a linker; Y is an amino acid chosen from the group consisting of tyrosine, cysteine, lysine, or a derivative thereof; and Z is an NIR dye. In some embodiments, Y comprises a tyrosine or tyrosine derivative. In some embodiments, Y comprises a tyrosine and a carbon isotope is on the aromatic ring of tyrosine. In some embodiments, Y comprises an amino acid with an aromatic ring with a hydrogen isotope.
 In some embodiments the invention includes the compound B-X-Y-Z wherein B comprises DUPA or a derivative thereof, X comprises an EAOA, Y comprises tyrosine, and Z comprises S0456.
 The present invention also relates to a compound having the formula:
-or a pharmaceutically acceptable salt thereof, or isotopes thereof, wherein:R1 represents a hydrogen or SO3H;R2 represents a hydrogen, CH3, C3H6SO3−, C3H6SO3H or C4H8SO3−, or C4H8SO3H or C3H6N+(CH3)3;R3, and R5 each represents a carbon, optionally one or more sharing bonds,R4 represents a carbon with optionally one or more sharing bonds;R6 represents nitrogen, oxygen, or sulfur or no atom (direct C-C bond between aromatic ring and vinyl ring);R7 is optional and when present represents aromatic substitution group to enhance the spectral properties such as increase brightness and stability of the vinyl ether bridge;R8 is optional and when present represents linkers with aromatic amino acids such as Phe, Trp, His or derivative thereof, cationic amino acids such Arg, Lys, or derivative thereof, anionic amino acids such as Asp, Glu or derivative of them, unnatural amino acids of aromatic/cationic/anionic acids or derivative thereof;R9 is optional and when present represents a linear carbon chain, or polyethylene glycol linker, cationic linker, or derivative thereof;R10 represents a CO2H, PO3H2, SO3H, CH2SO3H, CH2CONHCH2SO3H, CH2CONHCH2CH2SO3H;R11 represents CO2H, SO3H, CH2CONHCH2SO3H, CH2CONHCH2CH2SO3H; andR12 represents a hydrogen, a methyl group, a CH2 and may optionally represent each a CH2 sharing a bond.
+<img> id-US20180099934A1-20180412-C00006.TIF </img>or a pharmaceutically acceptable salt thereof, or isotopes thereof, wherein:R1 represents a hydrogen or SO3H;R2 represents a hydrogen, CH3, C3H6SO3−, C3H6SO3H or C4H8SO3−, or C4H8SO3H or C3H6N+(CH3)3;R3, and R5 each represents a carbon, optionally one or more sharing bonds,R4 represents a carbon with optionally one or more sharing bonds;R6 represents nitrogen, oxygen, or sulfur or no atom (direct C-C bond between aromatic ring and vinyl ring);R7 is optional and when present represents aromatic substitution group to enhance the spectral properties such as increase brightness and stability of the vinyl ether bridge;R8 is optional and when present represents linkers with aromatic amino acids such as Phe, Trp, His or derivative thereof, cationic amino acids such Arg, Lys, or derivative thereof, anionic amino acids such as Asp, Glu or derivative of them, unnatural amino acids of aromatic/cationic/anionic acids or derivative thereof;R9 is optional and when present represents a linear carbon chain, or polyethylene glycol linker, cationic linker, or derivative thereof;R10 represents a CO2H, PO3H2, SO3H, CH2SO3H, CH2CONHCH2SO3H, CH2CONHCH2CH2SO3H;R11 represents CO2H, SO3H, CH2CONHCH2SO3H, CH2CONHCH2CH2SO3H; andR12 represents a hydrogen, a methyl group, a CH2 and may optionally represent each a CH2 sharing a bond.
 In some embodiments compounds of the present invention have an absorption and emission maxima between about 500 nm and about 900 nm. In some embodiments compounds of the present invention have an absorption and emission maxima between about 600 nm and 800 nm.
 In some embodiments compounds of the present invention are made to fluoresce after distribution thereof in the tissue cells. In some embodiments compounds of the present invention are made to fluoresce by subjecting the compounds to excitation light of near infrared wavelength. In some embodiments compounds of the present invention have a binding affinity to PSMA that is similar to the binding affinity of DUPA. In some embodiments compounds of the present invention are highly selective for targeting to a tumor cell. In particularly preferred embodiments, the compounds of the present invention are targeted to prostate cancer cells.
 In certain embodiments compounds of the present invention are administered to a subject in need thereof and in some embodiments the administered composition comprises, in addition to the compound, a pharmaceutically acceptable carrier, excipient or diluent.
@@ -81,7 +83,9 @@ In some embodiments, the PSMA-targeted compound is chosen from the group consist
 In some embodiments, X is a hydrophobic linker. In some embodoiments, X is selected from the group consisting of an eight aminooctonoic acid (EAOA), a chain of 7 atoms, polyethylene glycol linker, a linker 7 atoms in length, cationic linker, chain of 7 atoms, a chain from 7 to 24 atoms in length; a peptide comprising two aryl or aryl alkyl groups, each of which is optionally substituted, and where one aryl or aryl alkyl group is about 7 to about 11, or about 7 to about 14 atoms, and the other aryl or aryl alkyl group is about 10 to about 14, or about 10 to about 17 atoms. In another embodiment, the linker ccomprises about 1 to about 30 atoms, or about 2 to about 20 atoms. In some embodiments, the linker is 7 atoms in length. In some embodiments, the linker comprises EAOA. In some embodiments, the linker is variably charged. In some embodiments, X has a positive charge. In other embodiments, X has a negative charge.
 In some embodiments, Y is selected from the group consisting of: acidic (negatively charged) amino acids, such as aspartic acid and glutamic acid; basic (positively charged) amino acids such as arginine, histidine, and lysine; neutral polar amino acids, such as glycine, serine, threonine, cysteine, tyrosine, asparagine, and glutamine; neutral nonpolar (hydrophobic) amino acids, such as alanine, leucine, isoleucine, valine, proline, phenylalanine, tryptophan, and methionine; and derivatives thereof. In some embodiments, Y is an aromatic amino acid. In some embodiments, Y has a positive charge. In other embodiments, Y has a negative charge.
 In some embodiments, Z is selected from the group consisting of near-infra red dyes, including but not limited to,
+<img> id-US20180099934A1-20180412-C00007.TIF </img><img> id-US20180099934A1-20180412-C00008.TIF </img>
 and/or the dyes selected from group consisting of
+<img> id-US20180099934A1-20180412-C00009.TIF </img><img> id-US20180099934A1-20180412-C00010.TIF </img>
 In certain embodiments, the Z is variably charged. In some embodiments, Z has a positive charge. In other embodiments, Z has a negative charge.
 In certain embodiments, compounds of the present invention have the form:
 <in-line-formulae>B-X-Y-Z</in-line-formulae>
@@ -93,9 +97,11 @@ wherein B is a PSMA-targeted compound; X is a linker; Y is an amino acid chosen 
 In some embodiments, compounds of the present invention have the form:
 <in-line-formulae>B-X-Y-Z</in-line-formulae>
 wherein B is a PSMA-targeted compound; X is a linker; Z is an NIR dye; and Y comprises a derivative of tyrosine selected from the group consisting of:
+<img> id-US20180099934A1-20180412-C00011.TIF </img>
 or racemic mixtures thereof.
 In some embodiments the invention includes the compound B-X-Y-Z wherein B comprises DUPA or a derivative thereof, X comprises an EAOA, Y comprises tyrosine, and Z comprises S0456.
 In some embodiments the present invention a compound that has the formula:
+<img> id-US20180099934A1-20180412-C00012.TIF </img>
 In some embodiments compounds of the present invention have an absorption and emission maxima between about 500 nm and about 900 nm. In some embodiments compounds of the present invention have an absorption and emission maxima between about 600 nm and 800 nm.
 In some embodiments compounds of the present invention are made to fluoresce after distribution thereof in the tissue cells. In some embodiments compounds of the present invention are made to fluoresce by subjecting the compounds to excitation light of near infrared wavelength. In some embodiments compounds of the present invention have a binding affinity to PSMA that is similar to the binding affinity of DUPA. In some embodiments compounds of the present invention are highly selective for targeting to a tumor cell.
 In certain embodiments compounds of the present invention are administered to a subject in need thereof and in some embodiments the administered composition comprises, in addition to the compound, a pharmaceutically acceptable carrier, excipient or diluent.
@@ -132,52 +138,80 @@ In some embodiments, the PSMA-targeting compound is a ligand. In some embodiment
 The PSMA-targeting NIR dye of the present invention produces a tumor-to-background signal ratio that is higher than the tumor-to-background signal ratio of the PSMA-targeting compound conjugated to a non-NIR dye or non-targeted NIR dye. In some embodiments, the improvement is 10-fold. In some embodiments, the tumor-to-background signal ratio is at least a 4-fold improvement. In some embodiments, the tumor-to-background ratio is increased by at least 1.5-fold. In some embodiments, the PSMA-targeted NIR dye background signal is half the background signal of the PSMA-targeted compound conjugated to a fluorescent dye reactive to light less than 600 nm in wavelength. In some embodiments of the present invention, methods using the PSMA-targeted NIR dye on live cells produces a background signal less than half the background signal of the PSMA-targeted compound conjugated to a fluorescent dye reactive to light less than 600 nm in wavelength. In some embodiments of the present invention, methods using the PSMA-targeted NIR dye on live cells produces a background signal less than half the background signal of the PSMA-targeted compound conjugated to a fluorescent dye reactive to light less than 500 nm in wavelength. In some embodiments of the present invention, methods using the PSMA-targeted NIR dye on live cells produces a background signal less than one third of the background signal of the PSMA-targeted compound conjugated to a fluorescent dye reactive to light less than 600 nm in wavelength. In some embodiments of the present invention, methods using the PSMA-targeted NIR dye on live cells produces a background signal less than one third of the background signal of the PSMA-targeted compound conjugated to a fluorescent dye reactive to light less than 500 nm in wavelength. In some embodiments of the present invention, methods using the PSMA-targeted NIR dye on live cells produces a background signal less than one fourth the background signal of the PSMA-targeted compound conjugated to a fluorescent dye reactive to light less than 600 nm in wavelength. In some embodiments of the present invention, methods using the PSMA-targeted NIR dye on live cells produces a background signal less than one fourth the background signal of the PSMA-targeted compound conjugated to a fluorescent dye reactive to light less than 500 nm in wavelength. In some embodiments of the present invention, methods using the PSMA-targeted NIR dye on live cells produces a background signal less than one fifth the background signal of the PSMA-targeted compound conjugated to a fluorescent dye reactive to light less than 600 nm in wavelength. In some embodiments of the present invention, methods using the PSMA-targeted NIR dye on live cells produces a background signal less than one fifth the background signal of the PSMA-targeted compound conjugated to a fluorescent dye reactive to light less than 500 nm in wavelength. In some embodiments of the present invention, methods using the PSMA-targeted NIR dye on live cells produces a background signal less than one eighth the background signal of the PSMA-targeted compound conjugated to a fluorescent dye reactive to light less than 600 nm in wavelength. In some embodiments of the present invention, methods using the PSMA-targeted NIR dye on live cells produces a background signal less than one eighth the background signal of the PSMA-targeted compound conjugated to a fluorescent dye reactive to light less than 500 nm in wavelength. In some embodiments of the present invention, methods using the PSMA-targeted NIR dye on live cells produces a background signal less than one tenth the background signal of the PSMA-targeted compound conjugated to a fluorescent dye reactive to light less than 600 nm in wavelength. In some embodiments of the present invention, methods using the PSMA-targeted NIR dye on live cells produces a background signal less than one tenth the background signal of the PSMA-targeted compound conjugated to a fluorescent dye reactive to light less than 500 nm in wavelength.
 In some embodiments, the PSMA-targeting compound is a small molecule ligand that binds specifically PSMA. Such small molecule ligands may bind to the enzymatic site of PSMA in its native conformation. Also, such small molecule ligands may possess any one or more of the characteristics for PSMA antibody ligands.
 This disclosure also provides methods for synthesizing amino acid linking groups that are conjugated to a PSMA-targeting compound used for the targeted imaging of PSMA-expressing cells, tissues, or tumors. In certain embodiments, this disclosure relates to a compound or a salt derivative thereof, that comprises a PSMA-targeting compound, a linking group, and an NIR dye. In certain embodiments, the linking group can be an amino acid, an isomer, a derivative, or a racemic mixture thereof. In some aspects, the dye is selected from the group consisting of
+<img> id-US20180099934A1-20180412-C00013.TIF </img><img> id-US20180099934A1-20180412-C00014.TIF </img>
 and/or the dyes selected from group consisting of.
+<img> id-US20180099934A1-20180412-C00015.TIF </img><img> id-US20180099934A1-20180412-C00016.TIF </img>
 In some aspects, this disclosure provides a method of conjugating an amino acid linking group to an NIR dye, wherein the amino acid can be tyrosine, serine, theronine, lysine, arginine, asparagine, glutamine, cysteine, selenocysteine, isomers, and the derivatives thereof. In certain embodiments, the amino acid, isomers, or the derivatives thereof, contain an -OH, -NH2, or -SH functional group that upon addition of the fluorescent dye in slight molar excess produces the conjugation of fluorescent group with the amino acid, isomer, or the derivatives thereof. In other embodiments, the amino acid, isomers, or the derivatives thereof, contains an -OH functional group that upon synthesis generates an ether bond with the dye that increases the brightness and detection of the compound. In some embodiments, this disclosure relates to the conjugation of the amino acid linking group with the NIR dye, wherein the amino acid, isomers, or the derivatives thereof, contains an -SH, -SeH, -PoH, or -TeH functional group that upon synthesis generates a C-S, C-Se, C-Po, or C-Te bond with the dye. In some aspects, this disclosure relates to the conjugation of the amino acid linking group to a dye that has an absorption and emission maxima between about 500 nm and about 900 nm. In other aspects, the amino acid linking group is conjugated to a fluorescent dye that has an absorption and emission maxima between about 600 nm and about 800 nm.
 In additional embodiments, this disclosure provides a method for conjugating the amino acid linking group to a PSMA ligand, wherein the amino acid linking group is tyrosine, serine, threonine, lysine, arginine, asparagine, glutamine, cysteine, selenocysteine, isomers or the derivatives thereof, and is conjugated to folate through a dipeptide bond. In additional aspects, this disclosure provides a method of conjugating the linking group with a folate ligand, wherein the linking group is tyrosine, serine, threonine, lysine, arginine, asparagine, glutamine, cysteine, selenocysteine, isomers, or the derivatives thereof. In other embodiments, this disclosure relates to a method of conjugating a pteroyl ligand to an amino acid linking group, wherein the linking group is tyrosine, serine, threonine, lysine, arginine, asparagine, glutamine, cysteine, selenocysteine, isomers or the derivatives thereof. In certain aspects, the carboxylic acid of the linking group is bound to the alpha carbon of any amino acid, hence increasing the specificity of the compound for targeted receptors. In some embodiments, the charge of the linker contributes specificity to the compound, wherein the observed binding affinity of the compound to targeted receptors is at least 15 nM.
 In other embodiments, this disclosure relates to the use of a compound designated, DUPA-EAOA-Tyr-S0456, wherein EAOA is eight aminooctonoic acid, for image guided surgery, tumor imaging, prostate imaging, PSMA-expressing tissue imaging, PSMA-expressing tumor imaging, infection diseases, or forensic applications. In other aspects, the compound is a DUPA-EAOA-Tyr-S0456 derivative selected from the group consisting of DUPA-EAOA-(D)Tyr-S0456, DUPA-EAOA-homoTyr-S0456, DUPA-EAOA-beta-homo-Tyr-S0456, DU PA-EAOA-(N Me)-Tyr-S0456, DU PA-EAOA-Tyr(OMe)-S0456, DUPA-EAOA-Tyr(OBn)-S0456, DUPA-EAOA-NHNH-Tyr-OAc-S0456, salts, and derivatives thereof.
 In some embodiments, the PSMA-targeted compound of the present invention is a small molecule ligand of PSMA.
 Some embodiments include a method for synthesizing a compound of the formula:
+<img> id-US20180099934A1-20180412-C00017.TIF </img>
 or a racemic mixture thereof, wherein:
 R1 is selected from the group consisting of:
+<img> id-US20180099934A1-20180412-C00018.TIF </img>
 and
 a racemic mixture thereof: and
 R2 is represented by the formula:
+<img> id-US20180099934A1-20180412-C00019.TIF </img>
 comprising the steps of:
 (a) reacting a compound of formula I:
+<img> id-US20180099934A1-20180412-C00020.TIF </img>
 with a compound of formula:
+<img> id-US20180099934A1-20180412-C00021.TIF </img>
 in the presence of a polar organic solvent, 1-[Bis(dimethylamino)methylene]-1H-1,2,3-triazolo[4,5-b]pyridinium 3-oxid hexafluorophosphate and N,N-Diisopropylethylamine under argon to provide a compound of the formula:
+<img> id-US20180099934A1-20180412-C00022.TIF </img>
 or a racemic mixture thereof;
 (b) reacting the compound of formula:
+<img> id-US20180099934A1-20180412-C00023.TIF </img>
 or a racemic mixture thereof,
 with sodium carbonate and a dye compound of the formula:
+<img> id-US20180099934A1-20180412-C00024.TIF </img>
 (c) isolating the compound of the formula:
+<img> id-US20180099934A1-20180412-C00025.TIF </img>
 wherein n is 0, 1, 2, 3, or 4.
 In some embodiments, the polar organic solvent is selected from the group consisting of dimethyl sulfoxide, dimethylformamide, and water.
 Another embodiment includes a method for synthesizing a compound of the formula:
+<img> id-US20180099934A1-20180412-C00026.TIF </img>
 comprising the steps of:
 (a) reacting a compound of formula I:
+<img> id-US20180099934A1-20180412-C00027.TIF </img>
 with a compound of formula:
+<img> id-US20180099934A1-20180412-C00028.TIF </img>
 in the presence of a polar organic solvent, 1-[Bis(dimethylamino)methylene]-1H-1,2,3-triazolo[4,5-b]pyridinium 3-oxid hexafluorophosphate and N,N-Diisopropylethylamine under argon to provide a compound of the formula:
+<img> id-US20180099934A1-20180412-C00029.TIF </img>
 (b) reacting the compound of formula:
+<img> id-US20180099934A1-20180412-C00030.TIF </img>
 with sodium carbonate and a dye compound of the formula:
+<img> id-US20180099934A1-20180412-C00031.TIF </img>
 (c) isolating the compound of the formula:
+<img> id-US20180099934A1-20180412-C00032.TIF </img>
 wherein n is 0, 1, 2, 3, or 4, and wherein:
 R3, R4, R5, R6, R7, R8, and R9 are independently selected from the group consisting of H+, Na+, K+, and NH4+.
 Yet another embodiment includes a method for synthesizing an isotopic form of a compound of the formula:
+<img> id-US20180099934A1-20180412-C00033.TIF </img>
 wherein said isotopic form comprises one or more carbon and/or hydrogen isotopes selected from the group consisting of H2, H3, C13 and C14, and further wherein R3, R4, R5, R6, R7, R8, and R9 are independently selected from the group consisting of H+, Na+, K+, and NH4+; comprising the steps of:
 (a) reacting an isotopic form of a compound of formula:
+<img> id-US20180099934A1-20180412-C00034.TIF </img>
 wherein said isotopic form comprises one or more carbon and/or hydrogen isotopes selected from the group consisting of H2, H3, C13 and C14, with an isotopic form of a compound of formula:
+<img> id-US20180099934A1-20180412-C00035.TIF </img>
 wherein said isotopic form comprises one or more carbon and/or hydrogen isotopes selected from the group consisting of H2, H3, C13 and C14, in the presence of a polar organic solvent, 1-[Bis(dimethylamino)methylene]-1H-1,2,3-triazolo[4,5-b]pyridinium 3-oxid hexafluorophosphate and N,N-Diisopropylethylamine under argon to provide an isotopic form of a compound of the formula:
+<img> id-US20180099934A1-20180412-C00036.TIF </img>
 wherein said isotopic form comprises one or more carbon and/or hydrogen isotopes selected from the group consisting of H2, H3, C13 and C14, (b) reacting the isotopic form of the compound of formula:
+<img> id-US20180099934A1-20180412-C00037.TIF </img>
 with sodium carbonate and an isotopic form of a dye compound of the formula:
+<img> id-US20180099934A1-20180412-C00038.TIF </img>
 wherein said isotopic form comprises one or more carbon and/or hydrogen isotopes selected from the group consisting of H2, H3, C13 and C14, (c) isolating the isotopic form of the compound of the formula:
+<img> id-US20180099934A1-20180412-C00039.TIF </img>
 wherein n is 0, 1, 2, 3, or 4, and wherein:
 R3, R4, R5, R6, R7, R8, and R9 are independently selected from the group consisting of H+, Na+, K+, and NH4+.
 PSMA-Targeted NIR Dye Conjugates and Their Synthesis
 The following schemes show the synthesis of PSMA-targeted NIR dye conjugates of the present invention.
+<img> id-US20180099934A1-20180412-C00040.TIF </img>
 (a) Solid Phase Synthesis
+<img> id-US20180099934A1-20180412-C00041.TIF </img>
 (b) Solution Phase Synthesis
+<img> id-US20180099934A1-20180412-C00042.TIF </img><img> id-US20180099934A1-20180412-C00043.TIF </img>
 The examples that follow are merely provided for the purpose of illustrating particular embodiments of the disclosure and are not intended to be limiting to the scope of the appended claims. As discussed herein, particular features of the disclosed compounds and methods can be modified in various ways that are not necessary to the operability or advantages they provide. For example, the compounds can incorporate a variety of amino acids and amino acid derivatives as well as targeting ligands depending on the particular use for which the compound will be employed. One of skill in the art will appreciate that such modifications are encompassed within the scope of the appended claims.
 EXAMPLES
 General Methods: 22Rv1 cells (a human prostate cancer cells) were grown as a monolayer using RPMI medium (Gibco, NY) 10% heat-inactivated fetal bovine serum (Atlanta Biological, GA) and 1% penicillin streptomycin (Gibco, NY) in a 5% carbon dioxide: 95% air-humidified atmosphere at 37° C. for at least six passages before they were used for the assays.
@@ -193,6 +227,7 @@ Conclusion: The compound 1: OTL78 is excited at 776 nm and emits at 796 nm (FIG.
 Example (2)
 General Synthesis of DUPA_PEG2_Phe_Tyr-50456 (1: OTL78)
 Step I:
+<img> id-US20180099934A1-20180412-C00044.TIF </img>
 Reactants for Step I:
 <table>
 <header>
@@ -235,6 +270,7 @@ acetonitrile (ACN).
  & 
 </table>
 Step II: Carboxybenzyl (Cbz) Deprotection
+<img> id-US20180099934A1-20180412-C00045.TIF </img>
 Reactants for Step II:
 <table>
 <header>
@@ -259,6 +295,7 @@ A 50 mL rb flask was charged with a stir bar, CbzNH-Phe-Tyr-(OtBu)-OtBu [(8), 1.
 LC/MS method for crude compound 9 is the same as LC/MS method for crude compound 8. The detector is selected from the group consisting of 220 nm UV detector (FIG. 8A), 263 nm UV detector (FIG. 8B), a diode array (FIG. 8C) and a mass spectrometer (FIG. 8D).
 The reaction mixture was filtered through a Celite plug, washed with methanol (MeOH), and the filtrate was concentrated under vacuum to afford crude compound 9. Crude compound 9 was analyzed by LC/MS and used for the next step without further purification. Compound 9 was isolated with 92% yield. LC/MS method after purification of compound 9 is the same as LC/MS method for crude compound 9. The detector is selected from the group consisting of 220 nm UV detector (FIG. 9A), 263 nm UV detector (FIG. 9B), a diode array (FIG. 9C) and a mass spectrometer (FIG. 9D).
 Step III: PEG2 Addition
+<img> id-US20180099934A1-20180412-C00046.TIF </img>
 Reactants for Step III:
 <table>
 <header>
@@ -287,6 +324,7 @@ Filtered the gummy residue after decanting water and dissolved it in EtOAc (150 
 The crude product was purified using a silica-gel column using DCM:EtOAc as a mobile phase. Product was eluted between 20-40% EtOAc in DCM. The combined pure fractions were concentrated under vacuum and used in the next step (crystallization methods to avoid silica-gel column chromatography in progress).
 Purified compound 11 was isolated with 86% yield (reaction optimization in progress to improve yield). LC/MS method after purification of compound 11 is the same as LC/MS method for crude compound 9. The detector is selected from the group consisting of 220 nm UV detector (FIG. 11A), 263 nm UV detector (FIG. 11B), a diode array (FIG. 11C) and a mass spectrometer (FIG. 11D).
 Step IV: Carboxybenzyl (Cbz) Deprotection
+<img> id-US20180099934A1-20180412-C00047.TIF </img>
 Reactants for Step IV:
 <table>
 <header>
@@ -311,6 +349,7 @@ The reaction mixture was filtered through a Celite plug, washed with MeOH, and c
 The crude product was used for the next step without further purification.
 Compound 12 was isolated with quantitative yield.
 Step V: DUPA addition
+<img> id-US20180099934A1-20180412-C00048.TIF </img>
 Reactants for Step V:
 <table>
 <header>
@@ -336,6 +375,7 @@ DIPEA (0.33 mL, 1.9 mmol, 2.0 equiv.) was added slowly to reaction mixture at 23
 The reaction mixture was added drop wise to a stirred 18 mL of cold 5% citric acid-1 N NaCl solution (prepared by adding 5.85 g of NaCl to 100 mL of 5% Citric acid solution) to form a gummy solid. The residue gum was filtered and was dissolved in ethyl acetate (20 mL) and washed with water (15 mL), followed by brine (15 mL), and dried over anhydrous Na2SO4, filtered and concentrated.
 Crude product was purified by silica-gel column chromatography using 60-80% EtOAc in dichloromethane (DCM) followed by 5% methanol in DCM. Purified compound 13was isolated with 75% yield. The detector is selected from the group consisting of 220 nm UV detector (FIG. 14A), 263 nm UV detector (FIG. 14B), a diode array (FIG. 14C) and a mass spectrometer (FIG. 14D).
 Step VI: Tert-Butyl Deprotection
+<img> id-US20180099934A1-20180412-C00049.TIF </img>
 Reactants for Step VI:
 <table>
 <header>
@@ -358,6 +398,7 @@ TFA:TIPS:H2O &  &  & Excess &  & 3.0 mL &
 A 25 mL round bottom flask was charged with a stirring bar and compound 13 (DUPA-(OtBu)3-PEG2-Phe-Tyr-(OtBu)-OtBu [0.50 g, 0.56 mmol, 1 equiv]). A solution of TFA:TIPS:H2O (95:2.5:2.5, 3.0 mL) was added to the reaction flask at room temperature. The reaction mixture was stirred at room temperature for 1 hour and the progress of the reaction was monitored by LC/MS.
 The reaction mixture was evaporated under vacuum (rotavapor) and the concentrated reaction mixture was added drop wise to stirred cold ether (30 mL) to give white precipitate of compound 5 (DUPA_PEG2-Phe_Tyr-S0456). The precipitated product was centrifuged, washed with cold ether (2×20 mL), and dried under high vacuum to afford compound 5 as a white solid. The compound 10 was isolated in quantitative yield. The detector is selected from the group consisting of 220 nm UV detector (FIG. 15A), 263 nm UV detector (FIG. 15B), a diode array (FIG. 15C) and a mass spectrometer (FIG. 15D).
 Purification of compound 5
+<img> id-US20180099934A1-20180412-C00050.TIF </img>
 Sample Preparation:
 2 grams of crude compound 5 was suspended in sodium phosphate buffer (pH 7.1, 30 mL) and the pH was adjusted to 7.5 using aqueous saturated NaHCO3 under stirring to form clear pale yellow solution. The solution was filtered through 2 μm filter before injecting into HPLC.
 LC/MS method for compound 10 purification: Instrument: Acquity UPLC, Waters Column: BEH C18, 10 μm, 250×50 mm. 40%-98% 10 mM sodium phosphate aqueous at pH 7.1 including monosodium phosphate monohydrate (0.051%)+disodium phosphate heptahydrate (0.169%) with 2%-60% acetonitrile in 45 minutes following the gradient program shown in Table 2. Flow rate is 50 mL/min. Detector is selected from the group consisting of 220 nm UV detector (FIG. 7A), 275 nm UV detector (FIG. 7B), a diode array (FIG. 7C).
@@ -401,6 +442,7 @@ Eluent A: water; Eluent B: acetonitrile:
 </table>
 The combined pure fractions of 14 were evaporated under vacuum (on rotavapor @37° C. water bath temperature) to evaporate acetonitrile and to bring the total volume to 50 mL and injected on HPLC to remove phosphate salts. The pure fractions were concentrated under vacuum (on rotavapor @37° C. water bath temperature) and lyophilized after freezing to afford white solid of compound 10.
 Step VII: S0456 Addition
+<img> id-US20180099934A1-20180412-C00051.TIF </img>
 Reactants for Step VII:
 <table>
 <header>
@@ -462,9 +504,9 @@ FIG. 25 Peak Label/Retention time &
 <header>
 
 </header>
-A/3.38 & 
+A/3.38 & <img> id-US20180099934A1-20180412-C00052.TIF </img>
 B/3.25 & Unknown
-C/2.82 & 
+C/2.82 & <img> id-US20180099934A1-20180412-C00053.TIF </img>
 1.04 & compound 11
 3.06 & S0456
 </table>
@@ -490,7 +532,9 @@ phosphate heptahydrate (0.169%); Eluent B: acetonitrile:
 FIGS. 19A-D illustrate compound 1 detection at 220 nm (FIG. 19A), 490 nm (FIG. 19B), 550 nm (FIG. 19C), and 775 nm (FIG. 19D) wavelengths after Step VII LC/MS Method silica column purification and lyophilization. FIGS. 20A-D illustrate compound 1 detection at 490 nm (FIG. 20A), 550 nm (FIG. 20B), 775 nm (FIG. 20C), and 265 nm (FIG. 20D) wavelengths after UPLC/MS Method silica column purification and lyophilization. FIGS. 21A-C illustrate compound 1 detection at 490 nm (FIG. 21A), 550 nm (FIG. 21B), and 775 nm (FIG. 21C) wavelengths after HPLC purification. FIGS. 22A-C are magnified views of FIGS. 21A-C, respectively. FIGS. 23A-D illustrate compound 1 detection at 490 nm (FIG. 23A), 550 nm (FIG. 23B), 775 nm (FIG. 23C), and 265 nm (FIG. 20D) wavelengths after UPLC with HPLC column after HPLC purification. FIGS. 24A-C are magnified views of FIGS. 23A-C, respectively.
 Step VIII
 Synthesis of (S)-5-benzyl-1-tert-butyl 2-(3-((S)-1,5-di-tert-butoxy-1,5-dioxopentan-2-yl)ureido)pentanedioate (15)
+<img> id-US20180099934A1-20180412-C00054.TIF </img>
 A 500 mL round bottom flask was charged with compound 2, glutamic acid with tert-butyl protection groups on each hydroxyl group of each carboxylic acid group (6.0 g, 20.28 mmol, 1 equiv) and triphosgene (1.805 g, 6.69 mmol, 0.333 equiv) under an argon atmosphere. Approximatley 210 mL of dichloromethane was added under inert atmosphere to give a clear solution and cooled to −78° C. in dry ice/acetone bath (Suspension VIII-A). Triethylamine (9.9 mL, 8.19 mmol, 3.5 equiv) was added drop wise to the reaction mixture (Suspension VIII-A) in 10 minutes to form a thick white suspension. Reaction mixture was allowed to warm to room temperature and stirred for 3 hours at room temperature (Suspension VIII-A). Another 100 mL round bottom flask was charged with compound 15, glutamic acid with a tert-butyl protection group on the hydroxyl group of the alpha carboxylic acid group and a benzyl group on the hydroxyl of the side chain carboxylic acid (6.69 g, 20.28 mmol, 1.0 equiv) and dissolved in 40 mL of DCM (Solution VIII-B). Triethylamine (5.65 mL, 40.56 mmol, 2.0 equiv) was added to the suspension VIII-B in 2 minutes followed by drop wise addition of suspension VIII-B to suspension VIII-A via cannula over the period of 30 minutes to give a white suspension. The reaction was stirred at 23° C. for 12 hours. 400 mL of 1 M aqueous HCl was added to the reaction and stirred for additional 1 hour. The reaction mixture was extracted using EtOAc three 200 mL extractions.
 The combined organic extracts were washed with 100 mL of water two times followed by 100 mL of brine, dried over anhydrous Na2SO4, filtered, and concentrated under vacuum to obtain compound 3 as clear thick oil (14.10 g), which was subjected to the next step without further purification.
 Synthesis of (S)-5-(tert-butoxy)-4-(3-((S)-1,5-di-tert-butoxy-1,5-dioxopentan-2-yl)ureido)-5-oxopentanoic acid (compound 4, DUPA)
+<img> id-US20180099934A1-20180412-C00055.TIF </img>
 In a 500 mL round bottom flask, 14.1 grams of compound 3 was dissolved in 200 mL of DCM. 6 grams of 10% Pd/C was added under argon atmosphere. The reaction mixture was stirred under atmospheric hydrogen pressure for 7 hours. Reaction was monitored by TLC. Upon completion of the reaction, Pd/C was removed by filtration through a Celite pad and which was then washed with DCM and the filtrate was concentrated. The crude product was purified using flash chromatography (hexane:EtOAc, 40:60) to yield compound 4 as a colorless oil. Crystallized using hexane:DCM gave a white solid (8.01 g, 80% yield over two steps).

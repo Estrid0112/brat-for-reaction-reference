@@ -17,7 +17,7 @@ An object of the present invention is to provide a novel RET inhibitor comprisin
 Solution to Problem
 The present inventors conducted extensive research to achieve the above objects, and consequently found that a compound group represented by Formulas (I) and (I') below showed excellent inhibitory activity against. RET and kinase selectivity, and was useful as a pharmaceutical preparation for treating RET-related diseases, such as malignant tumors. Thus, the present invention has been completed.
 Specifically, the present invention provides a compound represented by Formula (I) below or a salt thereof:
-wherein A is pyrazolyl substituted with n-number of R1;R1 ishalogen,cyano,substituted or unsubstituted C1-C6 alkyl,substituted or unsubstituted C3-C7 cycloalkyl,substituted or unsubstituted C6-C14 aromatic hydrocarbon, ora substituted or unsubstituted C3-C10 monocyclic or polycyclic saturated, or unsaturated heterocyclic group containing 1 to 3 identical or different heteroatoms selected from nitrogen, oxygen, and sulfur;R2 issubstituted or unsubstituted C1-C10 alkyl,substituted or unsubstituted C3-C7 cycloalkyl,substituted or unsubstituted C2-C6 alkenyl,substituted or unsubstituted C3-C7 cycloalkenyl,substituted or unsubstituted C4-C12 bridged cycloalkyl,substituted or unsubstituted C6-C14 aromatic hydrocarbon, ora substituted or unsubstituted C3-C10 monocyclic or polycyclic saturated, or unsaturated heterocyclic group containing 1 to 3 identical or different heteroatoms selected from nitrogen, oxygen, and sulfur;X isN orCR3, wherein R3 is
+<img> id-US20180009817A1-20180111-C00002.TIF </img>wherein A is pyrazolyl substituted with n-number of R1;R1 ishalogen,cyano,substituted or unsubstituted C1-C6 alkyl,substituted or unsubstituted C3-C7 cycloalkyl,substituted or unsubstituted C6-C14 aromatic hydrocarbon, ora substituted or unsubstituted C3-C10 monocyclic or polycyclic saturated, or unsaturated heterocyclic group containing 1 to 3 identical or different heteroatoms selected from nitrogen, oxygen, and sulfur;R2 issubstituted or unsubstituted C1-C10 alkyl,substituted or unsubstituted C3-C7 cycloalkyl,substituted or unsubstituted C2-C6 alkenyl,substituted or unsubstituted C3-C7 cycloalkenyl,substituted or unsubstituted C4-C12 bridged cycloalkyl,substituted or unsubstituted C6-C14 aromatic hydrocarbon, ora substituted or unsubstituted C3-C10 monocyclic or polycyclic saturated, or unsaturated heterocyclic group containing 1 to 3 identical or different heteroatoms selected from nitrogen, oxygen, and sulfur;X isN orCR3, wherein R3 is
 hydrogen,
 halogen,
 cyano,
@@ -29,7 +29,7 @@ substituted or unsubstituted amino,
 substituted or unsubstituted C6-C14 aromatic hydrocarbon, or
 a substituted or unsubstituted C3-C10 monocyclic or polycyclic unsaturated heterocyclic group containing 1 to 3 identical or different heteroatoms selected from nitrogen, oxygen, and sulfur; andn is an integer of 0 to 3,wherein when n is 2 or 3, R1 may be identical or different from each other.
 The present invention also provides a compound represented by Formula (I') below or a salt thereof:
-wherein A is pyrazolyl substituted with n-number of R1;halogen,cyano,substituted or unsubstituted C1-C6 alkyl,substituted or unsubstituted C3-C7 cycloalkyl,substituted or unsubstituted C6-C14 aromatic hydrocarbon, ora substituted or unsubstituted C3-C10 monocyclic or polycyclicsaturated or unsaturated heterocyclic group containing 1 to 3 identical or different heteroatoms selected from nitrogen, oxygen, and sulfur;R2 issubstituted or unsubstituted C1-C10 alkyl,substituted or unsubstituted C3-C4 cycloalkyl,substituted or unsubstituted C2-C6 alkenyl,substituted or unsubstituted C3-C4 cycloalkenyl,substituted or unsubstituted C4-C12 bridged cycloalkyl,substituted or unsubstituted C6-C14 aromatic hydrocarbon, ora substituted or unsubstituted C3-C10 monocyclic or polycyclic saturated or unsaturated heterocyclic group containing 1 to 3 identical or different heteroatoms selected from nitrogen, oxygen, and sulfur;X is
+<img> id-US20180009817A1-20180111-C00003.TIF </img>wherein A is pyrazolyl substituted with n-number of R1;halogen,cyano,substituted or unsubstituted C1-C6 alkyl,substituted or unsubstituted C3-C7 cycloalkyl,substituted or unsubstituted C6-C14 aromatic hydrocarbon, ora substituted or unsubstituted C3-C10 monocyclic or polycyclicsaturated or unsaturated heterocyclic group containing 1 to 3 identical or different heteroatoms selected from nitrogen, oxygen, and sulfur;R2 issubstituted or unsubstituted C1-C10 alkyl,substituted or unsubstituted C3-C4 cycloalkyl,substituted or unsubstituted C2-C6 alkenyl,substituted or unsubstituted C3-C4 cycloalkenyl,substituted or unsubstituted C4-C12 bridged cycloalkyl,substituted or unsubstituted C6-C14 aromatic hydrocarbon, ora substituted or unsubstituted C3-C10 monocyclic or polycyclic saturated or unsaturated heterocyclic group containing 1 to 3 identical or different heteroatoms selected from nitrogen, oxygen, and sulfur;X is
 N orCR3, wherein R3 is
 hydrogen,
 halogen,
@@ -114,30 +114,38 @@ In Formulas (I) and (I'), examples of the “C6-C14 aromatic hydrocarbon” in t
 Examples of the “substituent” in the “substituted or unsubstituted C6-C14 aromatic hydrocarbon” represented by R1 include those mentioned above.
 The “substituted or unsubstituted C6-C14 aromatic hydrocarbon” represented by R1 is preferably phenyl.
 In Formulas (I) and (I'), the “C3-C10 monocyclic or polycyclic saturated or unsaturated heterocyclic group containing 1 to 3 identical or different heteroatoms selected from nitrogen, oxygen, and sulfur” in the “substituted or unsubstituted C3-C10 monocyclic or polycyclic saturated or unsaturated heterocyclic group containing 1 to 3 identical or different heteroatoms selected from nitrogen, oxygen, and sulfur” represented by R1 is preferably a C3-C6 monocyclic unsaturated heterocyclic group containing one oxygen atom or one sulfur atom; more preferably a C4-C5 monocyclic unsaturated heterocyclic group containing one oxygen atom or one sulfur atom; even more preferably thienyl and furanyl; still more preferably the following:
+<img> id-US20180009817A1-20180111-C00004.TIF </img>
 wherein * represents a bonding position (hereinafter the same) and further still more preferably the following:
+<img> id-US20180009817A1-20180111-C00005.TIF </img>
 Examples of the “substituent” in, the “substituted or unsubstituted C3-C10 monocyclic or polycyclic saturated or unsaturated heterocyclic group containing 1 to 3 identical or different heteroatoms selected from nitrogen, oxygen, and sulfur” represented by include those mentioned above.
 The “substituted or unsubstituted C3-C10 monocyclic or polycyclic saturated or unsaturated heterocyclic group containing 1 to 3 identical or different heteroatoms selected from nitrogen, oxygen, and sulfur” represented by R1 is preferably a C3-C6 monocyclic unsaturated heterocyclic group containing one oxygen atom or one sulfur atom; more preferably a C4-C5 monocyclic unsaturated heterocyclic group containing one oxygen atom or one sulfur atom; even more preferably thienyl or furanyl; still more preferably the following:
+<img> id-US20180009817A1-20180111-C00006.TIF </img>
 and further still more preferably the following:
+<img> id-US20180009817A1-20180111-C00007.TIF </img>
 In Formulas (I) and (I'), is preferablyhalogen,cyano,substituted or unsubstituted C1-C6 alkyl,substituted or unsubstituted C3-C7 cycloalkyl,substituted or unsubstituted C6-C14 aromatic hydrocarbon, ora substituted or unsubstituted C3-C10 monocyclic or polycyclic saturated or unsaturated heterocyclic group containing 1 to 3 identical or different heteroatoms selected from nitrogen, oxygen, and sulfur.R1 is more preferablyhalogen;cyano;C1-C6 alkyl that may be substituted with halogen or C1-C4 alkoxy;C3-C7 cycloalkyl;phenyl; ora C3-C6 monocyclic unsaturated heterocyclic group containing one oxygen atom or one sulfur atom.R1 is even more preferablyhalogen;cyano;C1-C6 alkyl that may be substituted with halogen;C3-C7 cycloalkyl;phenyl; ora C3-C6 monocyclic unsaturated heterocyclic group containing one oxygen atom or one sulfur atom.R1 is still more preferablyhalogen,cyano, orC1-C4 alkyl that may be substituted with halogen.R1 is further still more preferably halogen or C1-C4 alkyl.R1 is further still more preferably methyl.
 In Form as (I) and (I'), examples of the “C1-C10 alkyl” in the “substituted or unsubstituted C1-C10 alkyl” represented by R2 include those mentioned above; preferably linear C1-C6 alkyl or branched C3-C8 alkyl; more preferably linear C1-C4 alkyl or branched C3-C8 alkyl; even more preferably linear C1-C4 alkyl or branched C3-C6 alkyl; and still more preferably branched C3-C6 alkyl.
 The linear C1-C4 alkyl is preferably methyl, ethyl, or n-propyl; and more preferably methyl.
 The branched C3-C8 alkyl is preferably isobutyl, isopropyl, sec-butyl, tert-butyl, tert-pentyl, 1,1,2,2,-tetramethylpropyl, 1,1,2,2,-tetramethylethyl, or 1,1-diethylmethyl; and more preferably isopropyl or tert-butyl.
 In Formulas (I) and (I'), examples of the “substituent” in the “substituted or unsubstituted C1-C10 alkyl” represented by R2 include those mentioned above. The substituent is preferably halogen, C3-C7 cycloalkyl that may be substituted with C1-C4 alkyl, phenyl, C1-C6 alkoxy, or one or more C3-C10 monocyclic or polycyclic unsaturated heterocyclic groups containing 1 to 3 identical or different heteroatoms selected from nitrogen, oxygen, and sulfur;more preferably halogen, C3-C7 cycloalkyl that may be substituted with C1-C4 alkyl, phenyl, C1-C4 alkoxy, or one or more C3-C6 monocyclic unsaturated heterocyclic groups containing one oxygen atom or one sulfur atom; andeven more preferably fluorine, C3-C7 cycloalkyl that may be substituted with C1-C4 alkyl, phenyl, methoxy, or one or more C3-C6 monocyclic unsaturated heterocyclic groups containing one oxygen atom or one sulfur atom.
 Specific examples include fluorine, cyclopropyl, cyclopropyl substituted with methyl, cyclobutyl, cyclopentyl, phenyl, methoxy, thienyl, etc.; more preferably fluorine, cyclopropyl, cyclobutyl, cyclopentyl, methoxy, and the following:
+<img> id-US20180009817A1-20180111-C00008.TIF </img>
 and even more preferably fluorine and cyclopropyl.
 When the C1-C10 alkyl is substituted, the number of substituents is not particularly limited, but is preferably 1 to 3.
 When the C1-C10 alkyl is substituted with “halogen,” the number of substituents is preferably 1 to 3; when the C1-C10 alkyl is substituted with “C3-C7 cycloalkyl that may be substituted with C1-C4 alkyl,” the number of substituents is preferably 1; when the C1-C10 alkyl is substituted with “phenyl,” the number of substituents is preferably 1; when the C1-C10 alkyl is substituted with “C1-C6 alkoxy,” the number of substituents is preferably 1; and when the C1-C10 alkyl is substituted with a “C3-C10 monocyclic or polycyclic unsaturated heterocyclic group containing 1 to 3 identical or different heteroatoms selected from nitrogen, oxygen, and sulfur,” the number of substituents is preferably 1.
 The “substituted or unsubstituted C1-C10 alkyl” represented by R2 is preferably C1-C10 alkyl that may be substituted with halogen, C3-C7 cycloalkyl that may be substituted with C1-C4 alkyl, phenyl, C1-C6 alkoxy, or one or more C3-C10 monocyclic or polycyclic unsaturated heterocyclic groups containing 1 to 3 identical or different heteroatoms selected from nitrogen, oxygen, and sulfur;more preferably linear C1-C6 alkyl or branched C3-C8 alkyl that may be substituted with halogen, C3-C7 cycloalkyl that may be substituted with C1-C4 alkyl, phenyl, C1-C4 alkoxy, or one or more C3-C6 monocyclic unsaturated heterocyclic groups containing one oxygen atom or one sulfur atom;even more preferably linear C1-C4 alkyl that is substituted with fluorine or C3-C7 cycloalkyl that may be substituted with C1-C4 alkyl; orbranched C3-C8 alkyl that may be substituted with fluorine, C3-C7 cycloalkyl, one or more C3-C6 monocyclic unsaturated heterocyclic groups containing one oxygen atom or one sulfur atom, phenyl, or C1-C4 alkoxy.
 Specific examples include the following:
+<img> id-US20180009817A1-20180111-C00009.TIF </img>
 and the like.
 The “substituted or unsubstituted C1-C10 alkyl” represented by R2 is more preferably linear C1-C4 alkyl that is substituted with C3-C7 cycloalkyl, orbranched C3-C6 alkyl that may be substituted with halogen, C3-C7 cycloalkyl, one or more C3-C6 monocyclic unsaturated heterocyclic groups containing one sulfur atom, or C1-C4 alkoxy; and
 even more preferably linear C1-C4 alkyl that is substituted with C3-C7 cycloalkyl, orbranched C3-C6 alkyl that may be substituted with fluorine, C3-C7 cycloalkyl, one or more C3-C6 monocyclic unsaturated heterocyclic groups containing one sulfur atom, or C1-C4 alkoxy.
 Specific examples include the following:
+<img> id-US20180009817A1-20180111-C00010.TIF </img>
 and the like.
 The “substituted or unsubstituted C1-C10 alkyl” represented by R2 is more preferably branched C3-C6 alkyl that may be substituted with halogen or C3-C5 cycloalkyl;
 even more preferably branched C3-C6 alkyl that may be substituted with fluorine or C3-C5 cycloalkyl; and
 still more preferably isopropyl or tert-butyl that may be substituted with fluorine or cyclopropyl.
 Specific examples include the following:
+<img> id-US20180009817A1-20180111-C00011.TIF </img>
 and the like.
 In Formula (I), examples of the “C3-C7 cycloalkyl” in the “substituted or unsubstituted C3-C7 cycloalkyl” represented by R2 include those mentioned above.
 Specific examples include cyclopropyl, cyclobutyl, cyclopentyl, cyclohexyl, etc.; preferably C3-C5 cycloalkyl; more preferably C3-C4 cycloalkyl; and even more preferably cyclopropyl.
@@ -153,31 +161,38 @@ When the C3-C7 cycloalkyl is substituted with “halogeno C1-C4 alkyl,” the nu
 When the C3-C7 cycloalkyl is substituted with “C3-C5 cycloalkyl,” the number of substituents is preferably 1.
 In Formula (I), the “substituted or unsubstituted C3-C7 cycloalkyl” represented by R2 is preferably C3-C7 cycloalkyl that may be substituted with halogen, C1-C4 alkyl, halogeno C1-C4 alkyl, or C3-C5 cycloalkyl.
 Specific examples include the following:
+<img> id-US20180009817A1-20180111-C00012.TIF </img>
 and the like.
 The “substituted or unsubstituted C3-C7 cycloalkyl” represented by R2 is more preferably C3-C7 cycloalkyl that may be substituted with halogen, C1-C4 alkyl, or C3-C5 cycloalkyl; and even more preferably C3-C7 cycloalkyl that may be substituted with fluorine, C1-C4 alkyl, or C3-C5 cycloalkyl.
 Specific examples include the following:
+<img> id-US20180009817A1-20180111-C00013.TIF </img>
 and the like.
 The “substituted or unsubstituted C3-C7 cycloalkyl” represented by R2 is more preferably C3-C5 cycloalkyl that may be substituted with C1-C4 alkyl;
 even more preferably C3-C5 cycloalkyl that may be substituted with methyl;
 still more preferably cyclopropyl that may be substituted with methyl; and
 further still more preferably the following:
+<img> id-US20180009817A1-20180111-C00014.TIF </img>
 In Formula (I'), the “substituted or unsubstituted C3-C4 cycloalkyl” represented by R2 is preferably C3-C4 cycloalkyl that may be substituted with halogen, C1-C4 alkyl, halogeno C1-C4 alkyl, or C3-C5 cycloalkyl.
 Specific examples include the following:
+<img> id-US20180009817A1-20180111-C00015.TIF </img>
 and the like.
 The “substituted or unsubstituted C3-C4 cycloalkyl” represented by R2 is more preferably C3-C4 cycloalkyl that may be substituted with halogen, C1-C4 alkyl, or C3-C5 cycloalkyl; and
 even more preferably C3-C4 cycloalkyl that may be substituted with fluorine, C1-C4 alkyl, or C3-C5 cycloalkyl.
 Specific examples include the following:
+<img> id-US20180009817A1-20180111-C00016.TIF </img>
 and the like.
 The “substituted or unsubstituted C3-C4 cycloalkyl” represented by R2 is more preferably C3-C4 cycloalkyl that may be substituted with C1-C4 alkyl,
 even more preferably C3-C4 cycloalkyl that may be substituted with methyl,
 still more preferably cyclopropyl that may be substituted with methyl, and
 further still more preferably the following:
+<img> id-US20180009817A1-20180111-C00017.TIF </img>
 In Formulas (I) and (I'), examples of the “C2-C6 alkenyl” in the “substituted or unsubstituted C2-C6 alkenyl” represented by R2 include those mentioned above, preferably C2-C4 alkenyl, and more preferably isopropenyl.
 In Formulas (I) and (I'), examples of the “substituent” in the “substituted or unsubstituted C2-C6 alkenyl” represented by R2 include those mentioned above, preferably halogen, and more preferably fluorine.
 When the C2-C6 alkenyl is substituted, the number of substituents is not particularly limited, but is preferably 1 to 3. When the substituent is halogen, the number of substituents is preferably 1.
 In Formulas (I) and (I'), the “substituted or unsubstituted C2-C6 alkenyl” represented by R2 is preferably C2-C6 alkenyl that may be substituted with halogen;
 more preferably C2-C6 alkenyl that may be substituted with fluorine; and
 even more preferably the following:
+<img> id-US20180009817A1-20180111-C00018.TIF </img>
 In Formulas (I) and (I'), examples of the “C3-C7 cycloalkenyl” and “C3-C4 cycloalkenyl” in the “substituted or unsubstituted C3-C7 cycloalkenyl” and “substituted or unsubstituted C3-C4 cycloalkenyl” represented by R2 include those mentioned above, preferably C3-C4 cycloalkenyl, and more preferably cyclobutenyl.
 In Formulas (I) and (I'), examples of the “substituent” in the “substituted or unsubstituted C3-C7 cycloalkenyl” and “substituted or unsubstituted C3-C4 cycloalkenyl” represented by R2 include those mentioned above, preferably halogen, and more preferably fluorine.
 When the C3-C7 cycloalkenyl or C3-C4 cycloalkenyl is substituted, the number of substituents is not particularly limited, but is preferably 1 to 3. When the substituent is halogen, the number of substituents is preferably 1.
@@ -237,6 +252,7 @@ The “substituent” is still more preferablyC1-C4 alkyl that may be substitute
 The “substituent” is further still more preferablyisopropyl that may be substituted with hydroxy,C3-C5 cycloalkyl that may be substituted with hydroxy,one or more C4-C5 monocyclic saturated heterocyclic groups containing 1 to 3 identical or different heteroatoms selected from nitrogen and oxygen, orone or more C3-C6 monocyclic unsaturated heterocyclic groups that may be substituted with methyl and contains 1 to 3 nitrogen atoms.
 The “substituted or unsubstituted C2-C6 alkynyl” represented by R3 is preferably C2-C4 alkynyl that may be substituted withC1-C6 alkyl that may be substituted with hydroxy,C3-C7 cycloalkyl that may be substituted with hydroxy,one or more C3-C10 monocyclic saturated heterocyclic groups containing 1 to 3 identical or different heteroatoms selected from nitrogen, oxygen, and sulfur, orone or more C3-C10 monocyclic or polycyclic unsaturated heterocyclic groups that may be substituted with C1-C6 alkyl and contains 1 to 3 identical or different heteroatoms selected from nitrogen, oxygen, and sulfur.
 Specific examples include the following:
+<img> id-US20180009817A1-20180111-C00019.TIF </img>
 The “substituted or unsubstituted C2-C6 alkynyl” represented by R3 is more preferably C2-C4 alkynyl that may be substituted withC1-C6 alkyl that may be substituted with hydroxy,C3-C7 cycloalkyl that may be substituted with hydroxy,one or more C3-C6 monocyclic saturated heterocyclic groups containing 1 to 3 identical or different heteroatoms selected from nitrogen, oxygen, and sulfur, orone or more C3-C10 monocyclic or polycyclic unsaturated heterocyclic groups that may be substituted with C1-C6 alkyl and contains 1 to 3 identical or different heteroatoms selected from nitrogen, oxygen, and sulfur.
 The “substituted or unsubstituted C2-C6 alkynyl” represented by R3is even more preferably C2-C4 alkynyl that is substituted withC1-C6 alkyl that may be substituted with hydroxy,C3-C7 cycloalkyl that may be substituted with hydroxy,one or more C3-C6 monocyclic saturated heterocyclic groups containing 1 to 3 identical or different heteroatoms selected from nitrogen, oxygen, and sulfur, orone or more C3-C6 monocyclic unsaturated heterocyclic groups that may be substituted with C1-C4 alkyl and contains 1 to 3 identical or different heteroatoms selected from nitrogen, oxygen, and sulfur.
 The “substituted or unsubstituted C2-C6 alkynyl” represented by R3 is still more preferably ethynyl or propynyl that is substituted withC1-C4 alkyl that may be substituted with hydroxy,C3-C5 cycloalkyl that may be substituted with hydroxy,one or more C3-C6 monocyclic saturated heterocyclic groups containing 1 to 3 identical or different heteroatoms selected from nitrogen and oxygen, orone or more C3-C6 monocyclic unsaturated heterocyclic groups that may be substituted with methyl and contains 1 to 3 nitrogen atoms.
@@ -281,9 +297,13 @@ R3 is further still more preferably hydrogen.
 In Formulas (I) and (I'), n is an integer of 0 to 3, preferably 0 to 2, more preferably 1 or 2, and even more preferably 1.
 When n is 2 or 3, R1 may be identical or different from each other, and is preferably identical.
 In Formulas (I) and (I'), the bonding position between the amide structure and the pyrazolyl group is preferably as shown in Formulas (II) and (II') below.
+<img> id-US20180009817A1-20180111-C00020.TIF </img>
 Moreover, when n is 1, the bonding position between the substituent R1 and the pyrazolyl group is preferably as shown in Formulas (VIII) and (VIII') below.
+<img> id-US20180009817A1-20180111-C00021.TIF </img>
 When n is 1, the bonding position between the substituent R1 and the pyrazolyl group is more preferably as shown in Formulas (IX) and (IX') below:
+<img> id-US20180009817A1-20180111-C00022.TIF </img>
 [1] The present invention provides a compound represented by Formula (I) below or a salt thereof:
+<img> id-US20180009817A1-20180111-C00023.TIF </img>
 wherein A is pyrazolyl substituted with n-number of R1;R1 ishalogen,cyano,substituted or unsubstituted C1-C6 alkyl,substituted or unsubstituted C3-C7 cycloalkyl,substituted or unsubstituted C6-C14 aromatic hydrocarbon, ora substituted or unsubstituted C3-C10 monocyclic or polycyclic saturated or unsaturated heterocyclic group containing 1 to 3 identical or different heteroatoms selected from nitrogen, oxygen, and sulfur;R2 issubstituted or unsubstituted C1-C10 alkyl,substituted or unsubstituted C3-C7 cycloalkyl,substituted or unsubstituted C2-C6 alkenyl,substituted or unsubstituted C3-C7 cycloalkenyl,substituted or unsubstituted C4-C12 bridged cycloalkyl,substituted or unsubstituted C6-C14 aromatic hydrocarbon, ora substituted or unsubstituted C3-C10 monocyclic or polycyclic saturated or unsaturated heterocyclic group containing 1 to 3 identical or different heteroatoms selected from nitrogen, oxygen, and sulfur;X isN orCR3, wherein R3 is
 hydrogen,
 halogen,
@@ -309,7 +329,7 @@ C2-C4 alkynyl that may be substituted withC1-C6 alkyl that may be substituted wi
 C1-C4 alkoxy that may be substituted with one or more C3-C6 monocyclic saturated heterocyclic groups containing 1 to 3 identical or different heteroatoms selected from nitrogen, oxygen, and sulfur; andn is more preferably 1 or 2,wherein when n is 2, R1 may be identical or different from each other.
 In another embodiment of the present invention, a compound of Formula (I) wherein pyrazolyl is bonded to an amide structure at 3-position is preferable. Moreover, a preferred embodiment of the compound of Formula (I) wherein pyrazolyl is bonded to an amide structure at 3-position in the present invention is
 [4] a compound represented by Formula (II) below or a salt thereof:
-wherein R1 ishalogen,cyano,substituted or unsubstituted C1-C6 alkyl,substituted or unsubstituted C3-C7 cycloalkyl,substituted or unsubstituted C6-C14 aromatic hydrocarbon, ora substituted or unsubstituted C3-C10 monocyclic or polycyclic saturated or unsaturated heterocyclic group containing 1 to 3 identical or different heteroatoms selected from nitrogen, oxygen, and sulfur;R2 issubstituted or unsubstituted C1-C10 alkyl,substituted or unsubstituted C3-C7 cycloalkyl,substituted or unsubstituted C2-C6 alkenyl, orsubstituted or unsubstituted C4-C12 bridged cycloalkyl;X isN orCR3, wherein R3 is
+<img> id-US20180009817A1-20180111-C00024.TIF </img>wherein R1 ishalogen,cyano,substituted or unsubstituted C1-C6 alkyl,substituted or unsubstituted C3-C7 cycloalkyl,substituted or unsubstituted C6-C14 aromatic hydrocarbon, ora substituted or unsubstituted C3-C10 monocyclic or polycyclic saturated or unsaturated heterocyclic group containing 1 to 3 identical or different heteroatoms selected from nitrogen, oxygen, and sulfur;R2 issubstituted or unsubstituted C1-C10 alkyl,substituted or unsubstituted C3-C7 cycloalkyl,substituted or unsubstituted C2-C6 alkenyl, orsubstituted or unsubstituted C4-C12 bridged cycloalkyl;X isN orCR3, wherein R3 is
 hydrogen,
 halogen,
 substituted or unsubstituted C1-C6 alkyl,
@@ -333,7 +353,7 @@ hydrogen; or
 C2-C4 alkynyl that is substituted withC1-C6 alkyl that may be substituted with hydroxy,C3-C7 cycloalkyl that may be substituted with hydroxy,one or more C3-C6 monocyclic saturated heterocyclic groups containing 1 to 3 identical or different heteroatoms selected from nitrogen, oxygen, and sulfur, orone or more C3-C6 monocyclic unsaturated heterocyclic groups that may be substituted with C1-C4 alkyl and contains 1 to 3 identical or different heteroatoms selected from nitrogen, oxygen, and sulfur; andn is more preferably an integer of 1.
 Preferred in another embodiment of the present invention is
 [8] a compound represented by Formula (IX) below or a salt thereof:
-wherein R1 ishalogen;cyano;C1-C6 alkyl that may be substituted with halogen;C3-C7 cycloalkyl;phenyl; ora C3-C6 monocyclic unsaturated heterocyclic group containing one oxygen atom or one sulfur atom;R2 islinear C1-C6 alkyl or branched C3-C8 alkyl that may be substituted with halogen, C3-C7 cycloalkyl that may be substituted with C1-C4 alkyl, phenyl, C1-C4 alkoxy, or one or more C3-C6 monocyclic unsaturated heterocyclic groups containing one oxygen atom or one sulfur atom;C3-C7 cycloalkyl that may be substituted with halogen, C1-C4 alkyl, halogeno C1-C4 alkyl, or C3-C5 cycloalkyl;C2-C6 alkenyl that may be substituted with halogen; orC4-C12 bridged cycloalkyl;X isN orCR3, wherein R3 is
+<img> id-US20180009817A1-20180111-C00025.TIF </img>wherein R1 ishalogen;cyano;C1-C6 alkyl that may be substituted with halogen;C3-C7 cycloalkyl;phenyl; ora C3-C6 monocyclic unsaturated heterocyclic group containing one oxygen atom or one sulfur atom;R2 islinear C1-C6 alkyl or branched C3-C8 alkyl that may be substituted with halogen, C3-C7 cycloalkyl that may be substituted with C1-C4 alkyl, phenyl, C1-C4 alkoxy, or one or more C3-C6 monocyclic unsaturated heterocyclic groups containing one oxygen atom or one sulfur atom;C3-C7 cycloalkyl that may be substituted with halogen, C1-C4 alkyl, halogeno C1-C4 alkyl, or C3-C5 cycloalkyl;C2-C6 alkenyl that may be substituted with halogen; orC4-C12 bridged cycloalkyl;X isN orCR3, wherein R3 is
 hydrogen;
 halogen;
 C1-C4 alkyl;
@@ -376,7 +396,7 @@ Moreover, the present invention provides a method for preventing or treating a m
 Moreover, the present invention provides a method of inhibiting RET comprising administering the compound or a salt thereof according to any one of [1] to [18] to a mammal.
 Moreover, the present invention provides
 [19] a compound represented by Formula (I') below or a salt thereof:
-wherein A is pyrazolyl substituted with n-number of R1;R1 ishalogen,cyano,substituted or unsubstituted C1-C6 alkyl,substituted or unsubstituted C3-C7 cycloalkyl,substituted or unsubstituted C6-C14 aromatic hydrocarbon, ora substituted or unsubstituted C3-C10 monocyclic or polycyclic saturated or unsaturated heterocyclic group containing 1 to 3 identical or different heteroatoms selected from nitrogen, oxygen, and sulfur;R2 issubstituted or unsubstituted C1-C10 alkyl,substituted or unsubstituted C3-C4 cycloalkyl,substituted or unsubstituted C2-C6 alkenyl,substituted or unsubstituted C3-C4 cycloalkenyl,substituted or unsubstituted C4-C12 bridged cycloalkyl,substituted or unsubstituted C6-C14 aromatic hydrocarbon, ora substituted or unsubstituted C3-C10 monocyclic or polycyclic saturated or unsaturated heterocyclic group containing 1 to 3 identical or different heteroatoms selected from nitrogen, oxygen, and sulfur;X isN orCR3, wherein R3 is
+<img> id-US20180009817A1-20180111-C00026.TIF </img>wherein A is pyrazolyl substituted with n-number of R1;R1 ishalogen,cyano,substituted or unsubstituted C1-C6 alkyl,substituted or unsubstituted C3-C7 cycloalkyl,substituted or unsubstituted C6-C14 aromatic hydrocarbon, ora substituted or unsubstituted C3-C10 monocyclic or polycyclic saturated or unsaturated heterocyclic group containing 1 to 3 identical or different heteroatoms selected from nitrogen, oxygen, and sulfur;R2 issubstituted or unsubstituted C1-C10 alkyl,substituted or unsubstituted C3-C4 cycloalkyl,substituted or unsubstituted C2-C6 alkenyl,substituted or unsubstituted C3-C4 cycloalkenyl,substituted or unsubstituted C4-C12 bridged cycloalkyl,substituted or unsubstituted C6-C14 aromatic hydrocarbon, ora substituted or unsubstituted C3-C10 monocyclic or polycyclic saturated or unsaturated heterocyclic group containing 1 to 3 identical or different heteroatoms selected from nitrogen, oxygen, and sulfur;X isN orCR3, wherein R3 is
 hydrogen,
 halogen,
 cyano,
@@ -401,7 +421,7 @@ C2-C4 alkynyl that may be substituted withC1-C6 alkyl that may be substituted wi
 C1-C4 alkoxy that may be substituted with one or more C3-C6 monocyclic saturated heterocyclic groups containing 1 to 3 identical or different heteroatoms selected from nitrogen, oxygen, and sulfur; andn is more preferably 1 or 2,wherein when n is 2, R1 may be identical or different from each other.
 In another embodiment of the present invention, a compound of Formula (I') wherein pyrazolyl is bonded to an amide structure at 3-position is preferable. Moreover, a preferred embodiment of the compound of Formula (I') wherein pyrazolyl is bonded to an amide structure at 3-position in present invention
 [22] a compound represented by Formula (II') below or a salt thereof:
-wherein R1 ishalogen,cyano,substituted or unsubstituted C1-C6 alkyl,substituted or unsubstituted C3-C7 cycloalkyl,substituted or unsubstituted C6-C14 aromatic hydrocarbon, ora substituted or unsubstituted C3-C10 monocyclic or polycyclic saturated or unsaturated heterocyclic group containing 1 to 3 identical or different heteroatoms selected from nitrogen, oxygen, and sulfur;R2 issubstituted or unsubstituted C1-C10 alkyl,substituted or unsubstituted C3-C4 cycloalkyl,substituted or unsubstituted C2-C6 alkenyl, orsubstituted or unsubstituted C4-C12 bridged cycloalkyl;X isN orCR3, wherein R3 is
+<img> id-US20180009817A1-20180111-C00027.TIF </img>wherein R1 ishalogen,cyano,substituted or unsubstituted C1-C6 alkyl,substituted or unsubstituted C3-C7 cycloalkyl,substituted or unsubstituted C6-C14 aromatic hydrocarbon, ora substituted or unsubstituted C3-C10 monocyclic or polycyclic saturated or unsaturated heterocyclic group containing 1 to 3 identical or different heteroatoms selected from nitrogen, oxygen, and sulfur;R2 issubstituted or unsubstituted C1-C10 alkyl,substituted or unsubstituted C3-C4 cycloalkyl,substituted or unsubstituted C2-C6 alkenyl, orsubstituted or unsubstituted C4-C12 bridged cycloalkyl;X isN orCR3, wherein R3 is
 hydrogen,
 halogen,
 substituted or unsubstituted C1-C6 alkyl,
@@ -425,7 +445,7 @@ hydrogen; or
 C2-C4 alkynyl that is substituted withC1-C6 alkyl that may be substituted with hydroxy,C3-C7 cycloalkyl that may be substituted with hydroxy,one or more C3-C6 monocyclic saturated heterocyclic groups containing 1 to 3 identical or different heteroatoms selected from nitrogen, oxygen, and sulfur, orone or more C3-C6 monocyclic unsaturated heterocyclic groups that may be substituted with C1-C4 alkyl and contains 1 to 3 identical or different heteroatoms selected from nitrogen, oxygen, and sulfur; andn is more preferably an integer of 1.
 Preferred in another embodiment of the present invention is
 [26] a compound represented by Formula (IX') below or a salt thereof:
-wherein R1 ishalogen;cyano;C1-C6 alkyl that may be substituted with halogen;C3-C7 cycloalkyl;phenyl; ora C3-C6 monocyclic unsaturated heterocyclic group containing one oxygen atom or one sulfur atom;R2 islinear C1-C6 alkyl or branched C3-C8 alkyl that may be substituted with halogen, C3-C7 cycloalkyl that may be substituted with C1-C4 alkyl, phenyl, C1-C4 alkoxy, or one or more C3-C6 monocyclic unsaturated heterocyclic groups containing one oxygen atom or one sulfur atom;C3-C4 cycloalkyl that may be substituted with halogen, C1-C4 alkyl, halogeno C1-C4 alkyl, or C3-C5 cycloalkyl;C2-C6 alkenyl that may be substituted with halogen; orC4-C12 bridged cycloalkyl; andX isN orCR3, wherein R3 is
+<img> id-US20180009817A1-20180111-C00028.TIF </img>wherein R1 ishalogen;cyano;C1-C6 alkyl that may be substituted with halogen;C3-C7 cycloalkyl;phenyl; ora C3-C6 monocyclic unsaturated heterocyclic group containing one oxygen atom or one sulfur atom;R2 islinear C1-C6 alkyl or branched C3-C8 alkyl that may be substituted with halogen, C3-C7 cycloalkyl that may be substituted with C1-C4 alkyl, phenyl, C1-C4 alkoxy, or one or more C3-C6 monocyclic unsaturated heterocyclic groups containing one oxygen atom or one sulfur atom;C3-C4 cycloalkyl that may be substituted with halogen, C1-C4 alkyl, halogeno C1-C4 alkyl, or C3-C5 cycloalkyl;C2-C6 alkenyl that may be substituted with halogen; orC4-C12 bridged cycloalkyl; andX isN orCR3, wherein R3 is
 hydrogen;
 halogen;
 C1-C4 alkyl;
@@ -470,6 +490,7 @@ Moreover, the present invention provides a method of inhibiting RET comprising a
 Next, the method for producing the compound of the present invention is described.
 Compound (I) of the present invention may be produced, for example, through the production methods below or the methods described in the Examples. Compound (I') of the present invention may also be produced by the same method for producing Compound (I). However, the method for producing Compounds (I) and (I') is not limited to these reaction examples.
 Production Method 1
+<img> id-US20180009817A1-20180111-C00029.TIF </img>
 wherein L1 is a leaving group, and R2 and R3 are as defined above.
 Step 1
 This step synthesizes a compound represented by Formula (BB) from a compound represented by Formula (AA).
@@ -491,6 +512,7 @@ The reaction solvent is not particularly limited, and any solvent that does not 
 The reaction temperature generally ranges from 0 to 200° C., preferably room temperature to 150° C. The reaction time generally ranges from 5 minutes to 7 days, preferably 30 minutes to 48 hours.
 The thus-obtained compound represented by Formula (DD) can be subjected to the subsequent step after, or without, isolation and purification by known separation and purification means, such as concentration, vacuum concentration, crystallization, solvent extraction, reprecipitation, and chromatography.
 Production Method 2
+<img> id-US20180009817A1-20180111-C00030.TIF </img>
 wherein L1 and L2 are each a leaving group, and R2 is as defined above.
 Step 4
 This step produces a compound represented by Formula (FF) using a compound represented by Formula (EE) and a compound represented by Formula (III) or (IV).
@@ -510,6 +532,7 @@ The reaction solvent is not particularly limited, and any solvent that does not 
 The reaction temperature generally ranges from 0 to 200° C., preferably room temperature to 150° C. The reaction time generally ranges from 5 minutes to 7 days, preferably 30 minutes to 24 hours.
 The thus-obtained compound represented by Formula (GG) can be subjected to the subsequent step after, or without, isolation and purification by known separation and purification means, such as concentration, vacuum concentration, crystallization, solvent extraction, reprecipitation, and chromatography.
 Production Method 3
+<img> id-US20180009817A1-20180111-C00031.TIF </img>
 wherein L1 and L2 are each a leaving group, and R2 is as defined above.
 Step 6
 This step produces a compound represented by Formula (WW) using a compound represented by Formula (QQ) and a compound represented by Formula (III) or (IV).
@@ -522,6 +545,7 @@ The reaction solvent is not particularly limited, and any solvent that does not 
 The reaction temperature generally ranges from −78 to 200° C., preferably 0 to 50° C. The reaction time generally ranges from 5 minutes to 3 days, preferably 10 minutes to 10 hours.
 The thus-obtained compound represented by Formula (WW) can be subjected to the subsequent step after, or without, isolation and purification by known separation and purification means, such as concentration, vacuum concentration, crystallization, solvent extraction, reprecipitation, and chromatography.
 Production Method 4
+<img> id-US20180009817A1-20180111-C00032.TIF </img>
 wherein leaving group, and R2 and X are as defined above.
 Step 7
 This step produces a compound represented by Formula (JJ) reacting a compound represented Formula (HH) in a carbon monoxide atmosphere in the presence of an alcohol using, for example, a transition metal and optionally a base in a solvent that does not adversely affect the reaction.
@@ -536,6 +560,7 @@ The reaction solvent is not particularly limited, and any solvent that does not 
 The reaction time ranges from 0.1 to 100 hours, preferably 0.5 to 24 hours. The reaction temperature ranges from 0° C. to the boiling temperature of the solvent, preferably 0 to 150° C.
 The thus-obtained compound represented by Formula (JJ) can be subjected to the subsequent step after, or without, isolation and purification by known separation and purification means, such as concentration, vacuum concentration, crystallization, solvent extraction, reprecipitation, and chromatography.
 Production Method 5
+<img> id-US20180009817A1-20180111-C00033.TIF </img>
 wherein L1 is a leaving group; E is ester, cyano, or carboxylic acid equivalent, such as carboxamide; Z is halogen; and R2 and R3 are as defined above.
 Step 8
 This step produces an ester derivative or cyano derivative represented by Formula (KK) by reacting the compound represented by Formula (GG), in a carbon monoxide atmosphere in the presence of an alcohol, or using a cyano compound, such as copper cyanide or zinc cyanide, using, for example, a transition metal catalyst and optionally a base in a solvent that does not adversely affect the reaction.
@@ -561,6 +586,7 @@ The reaction solvent is not particularly limited, and any solvent that does not 
 The reaction time ranges from 0.1 to 100 hours, preferably 0.5 to 24 hours. The reaction temperature ranges from 0° C. to the boiling temperature of the solvent, preferably 0 to 160° C. Moreover, the reaction can be performed while appropriately protecting the compound represented by Formula (LL) with a protecting group, such as Boc (tert-butoxycarbonyl), and then the protecting group can be removed.
 The thus-obtained compound represented by Formula (MM) can be subjected to the subsequent step after, or without, isolation and purification by known separation and purification means, such as concentration, vacuum concentration, crystallization, solvent extraction, reprecipitation, and chromatography.
 Production Method 6
+<img> id-US20180009817A1-20180111-C00034.TIF </img>
 wherein E, R2, and R3 are as defined above.
 Step 11
 This step produces a carboxylic acid compound represented by Formula (NN) by hydrolyzing the compound represented by Formula (MM).
@@ -569,6 +595,7 @@ The reaction solvent is not particularly limited, and any solvent that does not 
 The reaction time ranges from 0.1 to 100 hours, preferably 0.5 to 24 hours. The reaction temperature ranges from 0° C. to the boiling temperature of the solvent, preferably 0 to 160° C.
 The thus-obtained compound represented by Formula (NN) can be subjected to the subsequent step after, or without, isolation and purification by known separation and purification means, such as concentration, vacuum concentration, crystallization, solvent extraction, reprecipitation, and chromatography.
 Production Method 7
+<img> id-US20180009817A1-20180111-C00035.TIF </img>
 wherein A, R2, and X are as defined above.
 Step 12
 This step produces a compound represented by Formula (I) by performing an amidation reaction using the compound represented by Formula (JJ) and a compound represented by Formula (VII). This step is performed in the presence of an appropriate condensing agent or activating agent as an amidation reagent, using the compound of Formula (VII) in an amount of 0.5 to 10 moles, preferably 1 to 3 moles, per mole of the compound represented by Formula (JJ).
@@ -579,6 +606,7 @@ Further, a base may be added during the above reaction as necessary. Examples of
 After completion of the reaction, a base, such as a sodium hydroxide solution, can be added to perform a post-treatment.
 The thus-obtained compound represented by Formula (I) can be isolated and purified by known separation and purification means, such as concentration, vacuum concentration, crystallization, solvent extraction, reprecipitation, and chromatography.
 Production Method 8
+<img> id-US20180009817A1-20180111-C00036.TIF </img>
 wherein L1 is a leaving group, and A, R2, and X are as defined above.
 Step 13
 This step produces a compound represented by Formula (I) by reacting the compound represented by Formula (HH) in the presence of Compound (VII) in a carbon monoxide atmosphere using, for example, a transition metal and optionally a base in a solvent that does not adversely affect the reaction.
@@ -588,6 +616,7 @@ Further, a base may be added during the above reaction as necessary. Examples of
 The reaction solvent is not particularly limited, and any solvent that does not adversely affect the reaction can be used. Examples of the solvent include hydrocarbons (e.g., benzene, toluene, and xylene), nitriles (e.g., acetonitrile), ethers (e.g., dimethoxyethane, tetrahydrofuran, and 1,4-dioxane), alcohols (e.g., methanol and ethanol), aprotic polar solvents (e.g., dimethylformamide, dimethylacetamide, N-methylpyrrolidinone, dimethylsulfoxide, and hexamethylphosphoramide), water, and mixtures thereof. The reaction time ranges from 0.1 to 100 hours, preferably 0.5 to 24 hours. The reaction temperature is 0° C. to 250° C., preferably 0 to 200° C.
 The thus-obtained compound represented by Formula (I) can be isolated and purified by known separation and purification means, such as concentration, vacuum concentration, crystallization, solvent extraction, reprecipitation, and chromatography.
 Production Method 9
+<img> id-US20180009817A1-20180111-C00037.TIF </img>
 wherein A, R2, and R3 are as defined above.
 This step produces a compound represented by Formula (SS) by subjecting a compound represented by Formula (RR) to a coupling reaction with a borate derivative, boric acid derivative, tin derivative, or acetylene derivative that has R3 using, for example, a transition metal and optionally a base in a solvent that does not adversely affect the reaction.
 The amount of the borate derivative, boric acid derivative, tin derivative, or acetylene derivative that has R3 used is 1 to 100 moles, preferably 1 to 20 moles. Examples of transition metal catalysts usable in this step include palladium catalysts (e.g., palladium acetate, tetrakis triphenylphosphine palladium, tris(benzylideneacetone)dipalladium, bis(triphenylphosphine)palladium(II) dichloride, 1,1-bis(diphenylphosphino)ferrocene-palladium(II) dichloride-dichloromethane complex, etc.). As necessary, a ligand triphenylphosphine, xantphos, 2-dicyclohexylphosphino-2',4',6'-triisopropylbiphenyl, 2-dicyclohexylphosphino-2',6'-dimethoxybiphenyl, tricyclohexylphosphine, tri-tert-butylphosphine, etc.) is added. Examples of copper catalysts include copper iodide, copper bromide, and copper chloride. The amount of the transition metal catalyst varies depending on the type of catalyst. For example, the amount of the transition metal catalyst used is generally 0.0001 to 1 mole, preferably 0.001 to 0.5 moles, per mole of the compound represented by Formula (RR). Transition metal catalysts can be used in combination, as necessary. The amount of the ligand used is generally 0.000 1 to 4 moles, preferably 0.01 to 2 moles, per mole of the compound represented by Formula (RR).
@@ -1065,13 +1094,13 @@ of Ex. & Formula & Physical Properties
 <header>
 
 </header>
-1 &  & m/z [M + H] + 342.1 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.20 (t, J = 7.6 Hz, 3H), 1.67-1.70 (m, 2H), 1.92-1.95 (m, 2H), 2.08-2.12 (m, 4H), 2.60 (q, J = 7.6 Hz, 2H), 5.22-5.25 (m, 1H), 6.42 (s, 1H), 8.23 (brs, 1H), 8.24 (s, 1H), 8.31 (brs, 1H), 10.37 (s, 1H), 12.31 (s, 1H).
-2 &  & m/z [M + H] + 379.1 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.68-1.71 (m, 2H), 1.90-2.00 (m, 2H), 2.09-2.12 (m, 4H), 5.21-5.28 (m, 1H), 6.63 (s, 1H), 6.88 (m, 1H), 6.91 (brs, 1H), 7.79 (s, 1H), 8.11 (brs, 1H), 8.25 (s, 1H), 8.48 (brs, 1H), 10.70 (s, 1H), 13.16 (s, 1H).
-3 &  & m/z [M + H] + 379.3 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.68-1.71 (m, 2H), 1.93-1.97 (m, 2H), 2.09-2.14 (m, 4H), 5.23-5.26 (m, 1H), 6.91-6.93 (m, (2H), 7.77 (s, 1H), 8.11 (brs, 1H), 8.17 (s, 1H), 8.25 (s, 1H), 8.62 (brs, 1H), 10.61 (s, 1H), 12.90 (s, 1H).
-4 &  & m/z [M + H] + 395.2 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.69 (m, 2H), 1.90-2.00 (m, 2H), 2.11-2.13 (m, 4H), 5.21-5.29 (m, 1H), 6.85-6.87 (m, 1H), 7.14 (m, 1H), 7.50 (brs, 1H), 7.60 (brs, 1H), 8.12 (brs, 1H), 8.25 (s, 1H), 8.47 (brs, 1H), 10.69 (s, 1H), 13.15 (s, 1H).
-5 &  & m/z [M + H] + 389.1 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.68-1.71 (m, 2H), 1.94-1.99 (m, 2H), 2.10-2.13 (m, 4H), 5.23-5.27 (m, 1H), 7.07 (s, 1H), 7.34-7.38 (m, 1H), 7.44-7.48 (m, 2H), 7.78-7.80 (m, 2H), 8.12 (brs, 1H), 8.25 (s, 1H), 8.52 (brs, 1H), 10.63 (s, 1H), 13.12 (s, 1H).
-6 &  & m/z [M + H] + 381.2 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.55-1.72 (m, 8H), 1.91-2.03 (m, 4H), 2.07-2.12 (m, 4H), 3.00-3.04 (m, 1H), 5.21-5.25 (m, 1H), 6.41 (s, 1H), 8.08 (brs, 1H), 8.23 (s, 1H), 8.60 (brs, 1H), 10.38 (s, 1H), 12.32 (s, 1H).
-7 &  & m/z [M + H] + 353.3 1H-NMR (400 MHz, DMSO-d6) δ ppm 0.69-0.72 (m, 2H), 0.91-0.93 (m, 2H), 1.65-1.70 (m, 2H), 1.88-1.96 (m, 3H), 2.07-2.12 (m, 4H), 5.21-5.23 (m, 1H), 6.29 (s, 1H), 8.08 (brs, 1H), 8.23 (s, 1H), 8.48 (brs, 1H), 10.36 (s, 1H), 12.33 (s, 1H).
+1 & <img> id-US20180009817A1-20180111-C00038.TIF </img> & m/z [M + H] + 342.1 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.20 (t, J = 7.6 Hz, 3H), 1.67-1.70 (m, 2H), 1.92-1.95 (m, 2H), 2.08-2.12 (m, 4H), 2.60 (q, J = 7.6 Hz, 2H), 5.22-5.25 (m, 1H), 6.42 (s, 1H), 8.23 (brs, 1H), 8.24 (s, 1H), 8.31 (brs, 1H), 10.37 (s, 1H), 12.31 (s, 1H).
+2 & <img> id-US20180009817A1-20180111-C00039.TIF </img> & m/z [M + H] + 379.1 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.68-1.71 (m, 2H), 1.90-2.00 (m, 2H), 2.09-2.12 (m, 4H), 5.21-5.28 (m, 1H), 6.63 (s, 1H), 6.88 (m, 1H), 6.91 (brs, 1H), 7.79 (s, 1H), 8.11 (brs, 1H), 8.25 (s, 1H), 8.48 (brs, 1H), 10.70 (s, 1H), 13.16 (s, 1H).
+3 & <img> id-US20180009817A1-20180111-C00040.TIF </img> & m/z [M + H] + 379.3 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.68-1.71 (m, 2H), 1.93-1.97 (m, 2H), 2.09-2.14 (m, 4H), 5.23-5.26 (m, 1H), 6.91-6.93 (m, (2H), 7.77 (s, 1H), 8.11 (brs, 1H), 8.17 (s, 1H), 8.25 (s, 1H), 8.62 (brs, 1H), 10.61 (s, 1H), 12.90 (s, 1H).
+4 & <img> id-US20180009817A1-20180111-C00041.TIF </img> & m/z [M + H] + 395.2 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.69 (m, 2H), 1.90-2.00 (m, 2H), 2.11-2.13 (m, 4H), 5.21-5.29 (m, 1H), 6.85-6.87 (m, 1H), 7.14 (m, 1H), 7.50 (brs, 1H), 7.60 (brs, 1H), 8.12 (brs, 1H), 8.25 (s, 1H), 8.47 (brs, 1H), 10.69 (s, 1H), 13.15 (s, 1H).
+5 & <img> id-US20180009817A1-20180111-C00042.TIF </img> & m/z [M + H] + 389.1 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.68-1.71 (m, 2H), 1.94-1.99 (m, 2H), 2.10-2.13 (m, 4H), 5.23-5.27 (m, 1H), 7.07 (s, 1H), 7.34-7.38 (m, 1H), 7.44-7.48 (m, 2H), 7.78-7.80 (m, 2H), 8.12 (brs, 1H), 8.25 (s, 1H), 8.52 (brs, 1H), 10.63 (s, 1H), 13.12 (s, 1H).
+6 & <img> id-US20180009817A1-20180111-C00043.TIF </img> & m/z [M + H] + 381.2 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.55-1.72 (m, 8H), 1.91-2.03 (m, 4H), 2.07-2.12 (m, 4H), 3.00-3.04 (m, 1H), 5.21-5.25 (m, 1H), 6.41 (s, 1H), 8.08 (brs, 1H), 8.23 (s, 1H), 8.60 (brs, 1H), 10.38 (s, 1H), 12.32 (s, 1H).
+7 & <img> id-US20180009817A1-20180111-C00044.TIF </img> & m/z [M + H] + 353.3 1H-NMR (400 MHz, DMSO-d6) δ ppm 0.69-0.72 (m, 2H), 0.91-0.93 (m, 2H), 1.65-1.70 (m, 2H), 1.88-1.96 (m, 3H), 2.07-2.12 (m, 4H), 5.21-5.23 (m, 1H), 6.29 (s, 1H), 8.08 (brs, 1H), 8.23 (s, 1H), 8.48 (brs, 1H), 10.36 (s, 1H), 12.33 (s, 1H).
 </table>
 Note: In the tables and figures, “Comp.” denotes compounds, and “Ex.” denotes Examples.
 <table>
@@ -1081,13 +1110,13 @@ TABLE 2
 <header>
 
 </header>
-8 &  & m/z [M + H] + 355.4 1H-NMR (400 MHz, DMSO-d6) δ ppm 0.91 (t, J = 7.2 Hz, 3H), 1.57-1.64 (m, 2H), 1.66-1.88 (m, 2H), 1.91-1.98 (m, 2H), 2.07- 2.12 (m, 4H), 2.56 (t, J = 7.6 Hz, 2H), 5.21-5.25 (m, 1H), 6.41 (s, 1H), 8.08 (brs, 1H), 8.24 (s, 1H), 8.50 (brs, 1H), 10.36 (s, 1H), 12.31 (s, 1H).
-9 &  & m/z [M + H] + 341.3 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.64-1.71 (m, 2H), 1.89-1.98 (m, 2H), 2.06-2.09 (m, 4H), 2.13 (s, 3H), 3.60 (s, 3H), 5.04- 5.26 (m, 1H), 6.03 (s, 1H), 8.09 (brs, 1H), 8.24 (s, 1H), 8.36 (brs, 1H), 10.49 (s, 1H).
-10 &  & m/z [M + H] + 355.2 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.23 (d, J = 6.8 Hz, 6H), 1.65- 1.70 (m, 2H), 1.90-1.97 (m, 2H), 2.08-2.12 (m, 4H), 2.92- 2.95 (m, 1H), 5.21-5.25 (m, 1H), 6.42 (s, 1H), 8.08 (brs, 1H), 8.24 (s, 1H), 8.50 (brs, 1H), 10.37 (s, 1H), 12.31 (s, 1H).
-11 &  & m/z [M + H] + 313.3 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.84-1.92 (m, 2H), 2.24 (s, 3H), 2.40-2.41 (m, 2H), 2.74-2.84 (m, 2H), 5.30-5.36 (m, 1H), 6.40 (s, 1H), 8.10 (brs, 1H), 8.23 (s, 1H), 8.49 (brs, 1H), 10.51 (brs, 1H), 12.29 (brs, 1H).
-12 &  & m/z [M + H] + 327.2 1H-NMR (400 MHz, DMSO-d6) δ ppm 0.32-0.35 (m, 2H), 0.76-0.78 (m, 2H), 1.22 (s, 3H), 2.23 (s, 3H), 4.25 (s, 2H), 6.40 (s, 1H), 8.13 (brs, 1H), 8.26 (s, 1H), 8.52 (brs, 1H), 10.24 (s, 1H), 12.28 (s, 1H).
-13 &  & m/z [M + H] + 341.1 1H-NMR (400 MHz, DMSO-d6) δ ppm 2.23 (s, 3H), 5.29-5.36 (m, 2H), 6.38 (s, 1H), 8.33 (brs, 2H), 8.52 (brs, 1H), 10.32 (s, 1H), 12.29 (s, 1H).
-14 &  & m/z [M + H] + 355.1 1H-NMR (400 MHz, DMSO-d6) δ ppm 2.23 (s, 3H), 3.05-3.16 (m, 2H), 4.61 (t, J = 6.8 Hz, 2H) 6.40 (s, 1H), 8.18 (brs, 1H), 8.28 (s, 1H), 8.47 (brs, 1H), 10.52 (s, 1H), 12.28 (s, 1H).
+8 & <img> id-US20180009817A1-20180111-C00045.TIF </img> & m/z [M + H] + 355.4 1H-NMR (400 MHz, DMSO-d6) δ ppm 0.91 (t, J = 7.2 Hz, 3H), 1.57-1.64 (m, 2H), 1.66-1.88 (m, 2H), 1.91-1.98 (m, 2H), 2.07- 2.12 (m, 4H), 2.56 (t, J = 7.6 Hz, 2H), 5.21-5.25 (m, 1H), 6.41 (s, 1H), 8.08 (brs, 1H), 8.24 (s, 1H), 8.50 (brs, 1H), 10.36 (s, 1H), 12.31 (s, 1H).
+9 & <img> id-US20180009817A1-20180111-C00046.TIF </img> & m/z [M + H] + 341.3 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.64-1.71 (m, 2H), 1.89-1.98 (m, 2H), 2.06-2.09 (m, 4H), 2.13 (s, 3H), 3.60 (s, 3H), 5.04- 5.26 (m, 1H), 6.03 (s, 1H), 8.09 (brs, 1H), 8.24 (s, 1H), 8.36 (brs, 1H), 10.49 (s, 1H).
+10 & <img> id-US20180009817A1-20180111-C00047.TIF </img> & m/z [M + H] + 355.2 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.23 (d, J = 6.8 Hz, 6H), 1.65- 1.70 (m, 2H), 1.90-1.97 (m, 2H), 2.08-2.12 (m, 4H), 2.92- 2.95 (m, 1H), 5.21-5.25 (m, 1H), 6.42 (s, 1H), 8.08 (brs, 1H), 8.24 (s, 1H), 8.50 (brs, 1H), 10.37 (s, 1H), 12.31 (s, 1H).
+11 & <img> id-US20180009817A1-20180111-C00048.TIF </img> & m/z [M + H] + 313.3 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.84-1.92 (m, 2H), 2.24 (s, 3H), 2.40-2.41 (m, 2H), 2.74-2.84 (m, 2H), 5.30-5.36 (m, 1H), 6.40 (s, 1H), 8.10 (brs, 1H), 8.23 (s, 1H), 8.49 (brs, 1H), 10.51 (brs, 1H), 12.29 (brs, 1H).
+12 & <img> id-US20180009817A1-20180111-C00049.TIF </img> & m/z [M + H] + 327.2 1H-NMR (400 MHz, DMSO-d6) δ ppm 0.32-0.35 (m, 2H), 0.76-0.78 (m, 2H), 1.22 (s, 3H), 2.23 (s, 3H), 4.25 (s, 2H), 6.40 (s, 1H), 8.13 (brs, 1H), 8.26 (s, 1H), 8.52 (brs, 1H), 10.24 (s, 1H), 12.28 (s, 1H).
+13 & <img> id-US20180009817A1-20180111-C00050.TIF </img> & m/z [M + H] + 341.1 1H-NMR (400 MHz, DMSO-d6) δ ppm 2.23 (s, 3H), 5.29-5.36 (m, 2H), 6.38 (s, 1H), 8.33 (brs, 2H), 8.52 (brs, 1H), 10.32 (s, 1H), 12.29 (s, 1H).
+14 & <img> id-US20180009817A1-20180111-C00051.TIF </img> & m/z [M + H] + 355.1 1H-NMR (400 MHz, DMSO-d6) δ ppm 2.23 (s, 3H), 3.05-3.16 (m, 2H), 4.61 (t, J = 6.8 Hz, 2H) 6.40 (s, 1H), 8.18 (brs, 1H), 8.28 (s, 1H), 8.47 (brs, 1H), 10.52 (s, 1H), 12.28 (s, 1H).
 </table>
 <table>
 <header>
@@ -1096,13 +1125,13 @@ TABLE 3
 <header>
 
 </header>
-15 &  & m/z [M + H] + 315.3 1H-NMR (400 MHz, DMSO-d6) δ ppm 0.68 (t, J = 7.4 Hz, 3H), 1.50 (d, J = 6.4 Hz, 3H), 1.81-2.06 (m, 2H), 2.23 (s, 3H), 4.81-4.86 (m, 1H), 6.40 (s, 1H), 8.09 (brs, 1H), 8.23 (s, 1H), 8.49 (brs, 1H), 10.30 (s, 1H), 12.28 (s, 1H).
-16 &  & m/z [M + H] + 327.2 1H-NMr (400 MHz, DMSO-d6) δ ppm 1.79-1.87 (m, 4H), 1.92-1.98 (m, 2H), 2.23 (s, 3H), 2.88-2.95 (m, 1H), 4.40 (d, J = 7.2 Hz, 2H), 6.37 (s, 1H), 8.12 (brs, 1H), 8.25 (s, 1H), 8.49 (brs, 1H), 10.24 (s, 1H), 12.26 (s, 1H).
-17 &  & m/z [M + H] + 392.9 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.79-1.87 (m, 4H), 1.92-1.98 (m, 2H), 2.89-2.93 (m, 1H), 4.43 (d, J = 6.8 Hz, 2H), 6.36 (s, 1H), 8.22 (brs, 1H), 8.28 (s, 1H), 8.38 (brs, 1H), 11.45 (s, 1H), 12.81 (s, 1H).
-18 &  & m/z [M + H] + 313.7 1H-NMR (400 MHz, DMSO-d6) δ ppm 0.43-0.52 (m, 4H), 1.34-1.39 (m, 1H), 2.23 (s, 3H), 4.24 (d, J = 6.6 Hz, 2H), 6.38 (s, 1H), 8.13 (brs, 1H), 8.25 (s, 1H), 8.50 (brs, 1H), 10.28 (s, 1H), 12.26 (s, 1H).
-19 &  & m/z [M + H] + 341.1 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.22-1.60 (m, 8H), 2.22 (s, 3H), 2.53-2.59 (m, 1H), 4.27-4.30 (m, 2H), 6.37 (s, 1H), 8.12 (brs, 1H), 8.25 (s, 1H), 8.50 (brs, 1H), 10.27 (s, 1H), 12.25 (s, 1H).
-20 &  & m/z [M + H] + 407.7 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.21-1.61 (m, 8H), 2.53-2.58 (m, 1H), 4.31-4.33 (m, 2H), 6.36 (s, 1H), 8.21 (brs, 1H), 8.27 (s, 1H), 8.39 (brs, 1H), 11.46 (s, 1H), 12.81 (s, 1H).
-21 &  & m/z [M + H] + 356.3 1H-NMR (400 MHZ, DMSO-d6) δ ppm 1.55 (d, J = 6.8 Hz, 6H), 5.09- 5.13 (m, 1H), 6.67 (s, 1H), 8.20 (brs, 1H), 8.27 (s, 1H), 8.36 (brs, 1H), 11.39 (s, 1H), 13.40 (s, 1H).
+15 & <img> id-US20180009817A1-20180111-C00052.TIF </img> & m/z [M + H] + 315.3 1H-NMR (400 MHz, DMSO-d6) δ ppm 0.68 (t, J = 7.4 Hz, 3H), 1.50 (d, J = 6.4 Hz, 3H), 1.81-2.06 (m, 2H), 2.23 (s, 3H), 4.81-4.86 (m, 1H), 6.40 (s, 1H), 8.09 (brs, 1H), 8.23 (s, 1H), 8.49 (brs, 1H), 10.30 (s, 1H), 12.28 (s, 1H).
+16 & <img> id-US20180009817A1-20180111-C00053.TIF </img> & m/z [M + H] + 327.2 1H-NMr (400 MHz, DMSO-d6) δ ppm 1.79-1.87 (m, 4H), 1.92-1.98 (m, 2H), 2.23 (s, 3H), 2.88-2.95 (m, 1H), 4.40 (d, J = 7.2 Hz, 2H), 6.37 (s, 1H), 8.12 (brs, 1H), 8.25 (s, 1H), 8.49 (brs, 1H), 10.24 (s, 1H), 12.26 (s, 1H).
+17 & <img> id-US20180009817A1-20180111-C00054.TIF </img> & m/z [M + H] + 392.9 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.79-1.87 (m, 4H), 1.92-1.98 (m, 2H), 2.89-2.93 (m, 1H), 4.43 (d, J = 6.8 Hz, 2H), 6.36 (s, 1H), 8.22 (brs, 1H), 8.28 (s, 1H), 8.38 (brs, 1H), 11.45 (s, 1H), 12.81 (s, 1H).
+18 & <img> id-US20180009817A1-20180111-C00055.TIF </img> & m/z [M + H] + 313.7 1H-NMR (400 MHz, DMSO-d6) δ ppm 0.43-0.52 (m, 4H), 1.34-1.39 (m, 1H), 2.23 (s, 3H), 4.24 (d, J = 6.6 Hz, 2H), 6.38 (s, 1H), 8.13 (brs, 1H), 8.25 (s, 1H), 8.50 (brs, 1H), 10.28 (s, 1H), 12.26 (s, 1H).
+19 & <img> id-US20180009817A1-20180111-C00056.TIF </img> & m/z [M + H] + 341.1 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.22-1.60 (m, 8H), 2.22 (s, 3H), 2.53-2.59 (m, 1H), 4.27-4.30 (m, 2H), 6.37 (s, 1H), 8.12 (brs, 1H), 8.25 (s, 1H), 8.50 (brs, 1H), 10.27 (s, 1H), 12.25 (s, 1H).
+20 & <img> id-US20180009817A1-20180111-C00057.TIF </img> & m/z [M + H] + 407.7 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.21-1.61 (m, 8H), 2.53-2.58 (m, 1H), 4.31-4.33 (m, 2H), 6.36 (s, 1H), 8.21 (brs, 1H), 8.27 (s, 1H), 8.39 (brs, 1H), 11.46 (s, 1H), 12.81 (s, 1H).
+21 & <img> id-US20180009817A1-20180111-C00058.TIF </img> & m/z [M + H] + 356.3 1H-NMR (400 MHZ, DMSO-d6) δ ppm 1.55 (d, J = 6.8 Hz, 6H), 5.09- 5.13 (m, 1H), 6.67 (s, 1H), 8.20 (brs, 1H), 8.27 (s, 1H), 8.36 (brs, 1H), 11.39 (s, 1H), 13.40 (s, 1H).
 </table>
 <table>
 <header>
@@ -1111,13 +1140,13 @@ TABLE 4
 <header>
 
 </header>
-22 &  & m/z [M + H] + 366.9 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.54 (d, J = 6.8 Hz, 6H), 5.07- 5.12 (m, 1H), 6.38 (d, J = 1.6 Hz, 1H), 8.18 (brs, 1H), 8.26 (s, 1H), 8.37 (brs, 1H), 11.26 (s, 1H), 12.85 (s, 1H).
-23 &  & m/z [M + H] + 355.4 1H-NMR (400 MHz, DMSO-d6) δ ppm 0.52 (d, J = 6.4 Hz, 3H), 1.15- 1.47 (m, 4H), 1.70-1.73 (m, 1H), 1.82-1.84 (m, 3H), 1.20-2.08 (m, 1H), 2.23 (s, 3H), 4.31-4.37 (m, 1H), 6.39 (s, 1H), 8.11 (brs, 1H) 8.23 (s, 1H), 8.50 (brs, 1H), 10.34 (s, 1H), 12.27 (s, 1H).
-24 &  & m/z [M + H] + 369.3 1H-NMR (400 MHz, DMSO-d6) δ ppm 0.97 (s, 3H0, 1.06 (s, 3H), 1.39-1.52 (m, 4H), 1.72-1.75 (m, 2H), 2.18-2.27 (m, 2H), 2.23 (s, 3H), 4.58-4.64 (m, 1H), 6.40 (s, 1H), 8.08 (brs, 1H), 8.23 (s, 1H), 8.52 (brs (brs, 1H), 10.46 (s, 1H), 12.28 (s, 1H).
-25 &  & m/z [M + H] + 435.1 1H-NMR (400 MHz, DMSO-d6) δ ppm 0.97 (s, 3H), 1.05 (s, 3H), 1.40-1.53 (m, 4H), 1.76-1.79 (m, 2H), 2.19-2.28 (m, 2H), 4.62- 4.63 (m, 1H), 6.38 (s, 1H), 8.18 (brs, 1H), 8.25 (s, 1H), 8.36 (brs, 1H), 11.21 (s, 1H), 12.89 (s, 1H).
-26 &  & m/z [M + H] + 341.3 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.26 (s, 6H), 2.21-2.26 (m, 2H), 2.24 (s, 3H), 2.57-2.62 (m, 2H), 5.32-5.36 (m, 1H), 6.41 (s, 1H), 6.09 (brs, 1H), 8.22 (s, 1H), 8.51 (brs, 1H), 10.56 (s, 1H), 12.29 (s, 1H).
-27 &  & m/z [M + H] + 353.4 1H-NMR (400 MHZ, DMSO-d6) δ ppm 1.01-1.69 (m, 7H), 2.01 (m, 1H), 2.24 (s, 3H), 2.35 (m, 1H), 2.67 (brs, 1H), 5.08-05.10 (m, 1H), 6.40 (s, 1H), 8.08 (brs, 1H), 8.24 (s, 1H), 8.56 (brs, 1H), 10.47 (s, 1H), 12.29 (s, 1H).
-28 &  & m/z [M + H] + 417.3 1H-NMR (400 MHz, DMSO-d6) δ ppm 0.94-1.67 (m, 7H), 2.06 (m, 1H), 2.37 (m, 1H), 2.72 (brs, 1H), 5.80-5.12 (m, 1H), 6.40 (s, 1H), 8.18 (brs, 1H), 8.26 (s, 1H), 8.36 (brs, 1H), 11.01 (s, 1H), 12.95 (s, 1H).
+22 & <img> id-US20180009817A1-20180111-C00059.TIF </img> & m/z [M + H] + 366.9 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.54 (d, J = 6.8 Hz, 6H), 5.07- 5.12 (m, 1H), 6.38 (d, J = 1.6 Hz, 1H), 8.18 (brs, 1H), 8.26 (s, 1H), 8.37 (brs, 1H), 11.26 (s, 1H), 12.85 (s, 1H).
+23 & <img> id-US20180009817A1-20180111-C00060.TIF </img> & m/z [M + H] + 355.4 1H-NMR (400 MHz, DMSO-d6) δ ppm 0.52 (d, J = 6.4 Hz, 3H), 1.15- 1.47 (m, 4H), 1.70-1.73 (m, 1H), 1.82-1.84 (m, 3H), 1.20-2.08 (m, 1H), 2.23 (s, 3H), 4.31-4.37 (m, 1H), 6.39 (s, 1H), 8.11 (brs, 1H) 8.23 (s, 1H), 8.50 (brs, 1H), 10.34 (s, 1H), 12.27 (s, 1H).
+24 & <img> id-US20180009817A1-20180111-C00061.TIF </img> & m/z [M + H] + 369.3 1H-NMR (400 MHz, DMSO-d6) δ ppm 0.97 (s, 3H0, 1.06 (s, 3H), 1.39-1.52 (m, 4H), 1.72-1.75 (m, 2H), 2.18-2.27 (m, 2H), 2.23 (s, 3H), 4.58-4.64 (m, 1H), 6.40 (s, 1H), 8.08 (brs, 1H), 8.23 (s, 1H), 8.52 (brs (brs, 1H), 10.46 (s, 1H), 12.28 (s, 1H).
+25 & <img> id-US20180009817A1-20180111-C00062.TIF </img> & m/z [M + H] + 435.1 1H-NMR (400 MHz, DMSO-d6) δ ppm 0.97 (s, 3H), 1.05 (s, 3H), 1.40-1.53 (m, 4H), 1.76-1.79 (m, 2H), 2.19-2.28 (m, 2H), 4.62- 4.63 (m, 1H), 6.38 (s, 1H), 8.18 (brs, 1H), 8.25 (s, 1H), 8.36 (brs, 1H), 11.21 (s, 1H), 12.89 (s, 1H).
+26 & <img> id-US20180009817A1-20180111-C00063.TIF </img> & m/z [M + H] + 341.3 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.26 (s, 6H), 2.21-2.26 (m, 2H), 2.24 (s, 3H), 2.57-2.62 (m, 2H), 5.32-5.36 (m, 1H), 6.41 (s, 1H), 6.09 (brs, 1H), 8.22 (s, 1H), 8.51 (brs, 1H), 10.56 (s, 1H), 12.29 (s, 1H).
+27 & <img> id-US20180009817A1-20180111-C00064.TIF </img> & m/z [M + H] + 353.4 1H-NMR (400 MHZ, DMSO-d6) δ ppm 1.01-1.69 (m, 7H), 2.01 (m, 1H), 2.24 (s, 3H), 2.35 (m, 1H), 2.67 (brs, 1H), 5.08-05.10 (m, 1H), 6.40 (s, 1H), 8.08 (brs, 1H), 8.24 (s, 1H), 8.56 (brs, 1H), 10.47 (s, 1H), 12.29 (s, 1H).
+28 & <img> id-US20180009817A1-20180111-C00065.TIF </img> & m/z [M + H] + 417.3 1H-NMR (400 MHz, DMSO-d6) δ ppm 0.94-1.67 (m, 7H), 2.06 (m, 1H), 2.37 (m, 1H), 2.72 (brs, 1H), 5.80-5.12 (m, 1H), 6.40 (s, 1H), 8.18 (brs, 1H), 8.26 (s, 1H), 8.36 (brs, 1H), 11.01 (s, 1H), 12.95 (s, 1H).
 </table>
 <table>
 <header>
@@ -1126,13 +1155,13 @@ TABLE 5
 <header>
 
 </header>
-29 &  & m/z [M + H] + 393.2 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.57-1.60 (m, 2H), 1.77 (brs, 2H), 1.91-1.98 (m, 6H), 2.24 (s, 3H), 2.33-2.36 (m, 2H), 2.60 (brs, 2H), 4.87 (s, 1H), 6.41 (s, 1H), 8.09 (brs, 1H), 8.22 (s, 1H), 8.54 (brs, 1H), 10.23 (s, 1H), 12.29 (s, 1H).
-30 &  & m/z [M + H] + 395.4 1H-NMR (400 MHz, DMSO-d6) δ ppm 0.449 (d, J = 7.6 Hz, 3H), 1.24 (s, 3H), 1.30 (s, 3H), 1.54 (d, J = 7.6 Hz, 1H), 1.94-1.98 (m, 1H), 2.04-2.06 (m, 1H), 2.24 (s, 3H), 2.27-2.35 (m, 2H), 2.82- 2.84 (m, 1H), 3.10-3.14 (m, 1H), 5.62-5.75 (m, 1H), 6.41 (s, 1H), 8.25 (brs, 1H), 8.26 (s, 1H), 8.50 (brs, 1H), 10.29 (s, 1H), 11.83 (s, 1H).
-31 &  & m/z [M + H] + 317.1 1H-NMR (400 MHz, DMSO-d6) δ ppm 2.24 (s, 3H), 5.59 (brs, 1H), 5.61 (s, 1H), 5.72 (s, 1H), 6.42 (brs, 1H), 6.45 (brs, 1H), 8.29 (m, 1H), 8.34 (s, 1H), 8.68 (brs, 1H), 10.81 (s, 1H), 12.31 (s, 1H).
-32 &  & m/z [M + H] + 407.0 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.23-2.10 (m, 10H), 4.69-4.71 (m, 1H), 8.38 (s, 1H), 8.19 (brs, 1H), 8.26 (s, 1H), 8.36 (brs, 1H), 11.25 (s, 1H), 12.84 (s, 1H).
-33 &  & m/z [M + H] + 377.3 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.30-1.72 (m, 1H), 1.42-1.51 (m, 2H), 1.70-1.73 (m, 1H), 1.86-2.07 (m, 6H), 4.69-4.72 (m, 1H), 6.52 (s, 1H), 7.05-7.08 (m, 1H), 8.12 (brs, 1H), 8.24 (s, 1H), 8.40 (brs, 1H), 11.28 (s, 1H), 13.02 (s, 1H).
-34 &  & m/z [M + H] + 315.1 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.76 (s, 9H), 2.24 (s, 3H), 6.40 (s, 1H), 8.02 (brs, 1H), 8.23 (s, 1H), 8.57 (brs, 1H), 10.25 (s, 1H), 12.26 (s, 1H).
-35 &  & m/z [M + H] + 380.9 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.77 (s, 9H), 6.39 (s, 1H), 8.15 (brs, 1H), 8.25 (m, 1H), 8.35 (brs, 1H), 11.00 (brs, 1H), 12.89 (brs, 1H).
+29 & <img> id-US20180009817A1-20180111-C00066.TIF </img> & m/z [M + H] + 393.2 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.57-1.60 (m, 2H), 1.77 (brs, 2H), 1.91-1.98 (m, 6H), 2.24 (s, 3H), 2.33-2.36 (m, 2H), 2.60 (brs, 2H), 4.87 (s, 1H), 6.41 (s, 1H), 8.09 (brs, 1H), 8.22 (s, 1H), 8.54 (brs, 1H), 10.23 (s, 1H), 12.29 (s, 1H).
+30 & <img> id-US20180009817A1-20180111-C00067.TIF </img> & m/z [M + H] + 395.4 1H-NMR (400 MHz, DMSO-d6) δ ppm 0.449 (d, J = 7.6 Hz, 3H), 1.24 (s, 3H), 1.30 (s, 3H), 1.54 (d, J = 7.6 Hz, 1H), 1.94-1.98 (m, 1H), 2.04-2.06 (m, 1H), 2.24 (s, 3H), 2.27-2.35 (m, 2H), 2.82- 2.84 (m, 1H), 3.10-3.14 (m, 1H), 5.62-5.75 (m, 1H), 6.41 (s, 1H), 8.25 (brs, 1H), 8.26 (s, 1H), 8.50 (brs, 1H), 10.29 (s, 1H), 11.83 (s, 1H).
+31 & <img> id-US20180009817A1-20180111-C00068.TIF </img> & m/z [M + H] + 317.1 1H-NMR (400 MHz, DMSO-d6) δ ppm 2.24 (s, 3H), 5.59 (brs, 1H), 5.61 (s, 1H), 5.72 (s, 1H), 6.42 (brs, 1H), 6.45 (brs, 1H), 8.29 (m, 1H), 8.34 (s, 1H), 8.68 (brs, 1H), 10.81 (s, 1H), 12.31 (s, 1H).
+32 & <img> id-US20180009817A1-20180111-C00069.TIF </img> & m/z [M + H] + 407.0 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.23-2.10 (m, 10H), 4.69-4.71 (m, 1H), 8.38 (s, 1H), 8.19 (brs, 1H), 8.26 (s, 1H), 8.36 (brs, 1H), 11.25 (s, 1H), 12.84 (s, 1H).
+33 & <img> id-US20180009817A1-20180111-C00070.TIF </img> & m/z [M + H] + 377.3 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.30-1.72 (m, 1H), 1.42-1.51 (m, 2H), 1.70-1.73 (m, 1H), 1.86-2.07 (m, 6H), 4.69-4.72 (m, 1H), 6.52 (s, 1H), 7.05-7.08 (m, 1H), 8.12 (brs, 1H), 8.24 (s, 1H), 8.40 (brs, 1H), 11.28 (s, 1H), 13.02 (s, 1H).
+34 & <img> id-US20180009817A1-20180111-C00071.TIF </img> & m/z [M + H] + 315.1 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.76 (s, 9H), 2.24 (s, 3H), 6.40 (s, 1H), 8.02 (brs, 1H), 8.23 (s, 1H), 8.57 (brs, 1H), 10.25 (s, 1H), 12.26 (s, 1H).
+35 & <img> id-US20180009817A1-20180111-C00072.TIF </img> & m/z [M + H] + 380.9 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.77 (s, 9H), 6.39 (s, 1H), 8.15 (brs, 1H), 8.25 (m, 1H), 8.35 (brs, 1H), 11.00 (brs, 1H), 12.89 (brs, 1H).
 </table>
 <table>
 <header>
@@ -1141,13 +1170,13 @@ TABLE 6
 <header>
 
 </header>
-36 &  & m/z [M + H] + 369.4 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.79 (s, 9H), 6.68 (brs, 1H), 8.12 (brs, 1H), 8.26 (s, 1H), 8.36 (brs, 1H), 11.13 (s, 1H), 13.44 (s, 1H).
-37 &  & m/z [M + H] + 367.1 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.79 (s, 9H), 6.61-6.64 (m, 1H), 6.87-6.88 (m, 1H), 6.89-6.92 (m, 1H), 7.79 (s, 1H), 8.06 (brs, 1H), 8.24 (s, 1H), 8.55 (brs, 1H), 10.60 (s, 1H), 13.15 (s, 1H).
-38 &  & m/z [M + H] + 326.2 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.75 (s, 9H), 6.91 (brs, 1H), 8.15 (brs, 1H), 8.29 (s, 1H), 8.36 (brs, 1H), 11.19 (brs, 1H), 13.85 (brs, 1H).
-39 &  & m/z [M + H] + 329.3 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.19 (t, J = 7.8 Hz, 3H), 1.74 (s, 9H), 2.59 (q, J = 7.8 Hz, 2H), 6.39 (s, 1H), 7.98 (brs, 1H), 8.23 (s, 1H), 6.64 (brs, 1H), 10.30 (brs, 1H), 12.27 (brs, 1H).
-40 &  & m/z [M + H] + 343.3 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.21 (d, J = 7.0 Hz, 6H), 1.75 (s, 9H), 2.84-2.97 (m, 1H), 6.39 (s, 1H), 8.06 (brs, 1H), 8.23 (s, 1H), 8.62 (brs, 1H), 10.29 (brs, 1H), 12.31 (brs, 1H).
-41 &  & m/z [M + H] + 341.2 1H-NMR (400 MHz, DMSO-d6) δ ppm 0.67-0.72 (m, 2H), 0.89-0.98 (m, 2H), 1.76 (s, 9H), 1.84-1.91 (m, 1H), 6.26 (s, 1H), 8.05 (brs, 1H), 8.22 (s, 1H), 8.59 (brs, 1H), 10.28 (brs, 1H), 12.34 (brs, 1H).
-42 &  & m/z [M + H] + 355.1 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.74 (s, 9H), 1.77-1.98 (m, 2H), 2.06-2.17 (m, 2H), 2.21-2.32 (m, 2H), 3.44-3.52 (m, 1H), 6.45 (s, 1H), 8.06 (br s, 1H), 8.22 (s, 1H), 8.61 (br s, 1H), 10.30 (br s, 1H), 12.31 (br s, 1H).
+36 & <img> id-US20180009817A1-20180111-C00073.TIF </img> & m/z [M + H] + 369.4 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.79 (s, 9H), 6.68 (brs, 1H), 8.12 (brs, 1H), 8.26 (s, 1H), 8.36 (brs, 1H), 11.13 (s, 1H), 13.44 (s, 1H).
+37 & <img> id-US20180009817A1-20180111-C00074.TIF </img> & m/z [M + H] + 367.1 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.79 (s, 9H), 6.61-6.64 (m, 1H), 6.87-6.88 (m, 1H), 6.89-6.92 (m, 1H), 7.79 (s, 1H), 8.06 (brs, 1H), 8.24 (s, 1H), 8.55 (brs, 1H), 10.60 (s, 1H), 13.15 (s, 1H).
+38 & <img> id-US20180009817A1-20180111-C00075.TIF </img> & m/z [M + H] + 326.2 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.75 (s, 9H), 6.91 (brs, 1H), 8.15 (brs, 1H), 8.29 (s, 1H), 8.36 (brs, 1H), 11.19 (brs, 1H), 13.85 (brs, 1H).
+39 & <img> id-US20180009817A1-20180111-C00076.TIF </img> & m/z [M + H] + 329.3 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.19 (t, J = 7.8 Hz, 3H), 1.74 (s, 9H), 2.59 (q, J = 7.8 Hz, 2H), 6.39 (s, 1H), 7.98 (brs, 1H), 8.23 (s, 1H), 6.64 (brs, 1H), 10.30 (brs, 1H), 12.27 (brs, 1H).
+40 & <img> id-US20180009817A1-20180111-C00077.TIF </img> & m/z [M + H] + 343.3 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.21 (d, J = 7.0 Hz, 6H), 1.75 (s, 9H), 2.84-2.97 (m, 1H), 6.39 (s, 1H), 8.06 (brs, 1H), 8.23 (s, 1H), 8.62 (brs, 1H), 10.29 (brs, 1H), 12.31 (brs, 1H).
+41 & <img> id-US20180009817A1-20180111-C00078.TIF </img> & m/z [M + H] + 341.2 1H-NMR (400 MHz, DMSO-d6) δ ppm 0.67-0.72 (m, 2H), 0.89-0.98 (m, 2H), 1.76 (s, 9H), 1.84-1.91 (m, 1H), 6.26 (s, 1H), 8.05 (brs, 1H), 8.22 (s, 1H), 8.59 (brs, 1H), 10.28 (brs, 1H), 12.34 (brs, 1H).
+42 & <img> id-US20180009817A1-20180111-C00079.TIF </img> & m/z [M + H] + 355.1 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.74 (s, 9H), 1.77-1.98 (m, 2H), 2.06-2.17 (m, 2H), 2.21-2.32 (m, 2H), 3.44-3.52 (m, 1H), 6.45 (s, 1H), 8.06 (br s, 1H), 8.22 (s, 1H), 8.61 (br s, 1H), 10.30 (br s, 1H), 12.31 (br s, 1H).
 </table>
 <table>
 <header>
@@ -1156,13 +1185,13 @@ TABLE 7
 <header>
 
 </header>
-43 &  & m/z [M + H] + 377.0 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.97-2.34 (m, 11H), 4.91-5.00 (m, 1H), 6.37 (s, 1H), 8.09 (brs, 1H), 8.23 (s, 1H), 8.49 (brs, 1H), 10.50 (brs, 1H), 12.25 (brs, 1H).
-44 &  & m/z [M + H] + 442.9 1H-NMR (400 MHz, DMSO-d6) δ ppm 2.01-2.30 (m, 8H), 4.96-4.99 (m, 1H), 6.36 (s, 1H), 8.07-8.22 (br m, 1H), 6.24-6.26 (m, 1H), 8.34-8.37 (br m, 1H), 11.24 (s, 1H), 12.84 (s, 1H).
-45 &  & m/z [M + H] + 300.2 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.43 (d, J = 6.4 Hz, 6H), 2.21 (s, 3H), 4.89-4.92 (m, 1H), 6.36 (s, 1H), 8.09 (s, 1H), 8.52 (s, 1H), 10.52 (s, 1H).
-46 &  & m/z [M + H] + 318.1 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.49 (d, J = 6.8 Hz, 3H), 2.21 (s, 3H), 4.62-4.77 (m, 2H), 5.06-5.15 (m, 1H), 6.37 (s, 1H), 8.10 (brs, 1H), 8.52 (s, 1H), 10.57 (s, 1H), 12.11 (s, 1H).
-47 &  & m/z [M + H] + 368.3 1H-NMR (400 MHz, DMSO-d6) δ ppm 0.96 (s, 3H), 1.04 (s, 3H), 1.39-1.53 (m, 4H), 1.76-1.90 (m, 4H), 2.21 (s, 3H), 4.48-4.49 (m, 1H), 6.38 (s, 1H), 8.09 (s, 1H), 8.60 (s, 1H), 10.45 (s, 1H), 12.12 (s, 1H).
-48 &  & m/z [M + H] + 314.1 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.70 (s, 9H), 2.19 (s, 3H), 6.35 (d, J = 1.5 Hz, 1H), 8.07 (s, 1H), 8.47 (s, 1H), 10.59 (s, 1H), 12.07 (s, 1H).
-49 &  & m/z [M + H] + 366.2 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.72 (s, 9H), 6.61 (s, 1H), 6.85-6.89 (m, 2H), 7.76 (s, 1H), 8.11 (s, 1H), 8.53 (s, 1H), 10.85 (s, 1H), 12,99 (s, 1H).
+43 & <img> id-US20180009817A1-20180111-C00080.TIF </img> & m/z [M + H] + 377.0 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.97-2.34 (m, 11H), 4.91-5.00 (m, 1H), 6.37 (s, 1H), 8.09 (brs, 1H), 8.23 (s, 1H), 8.49 (brs, 1H), 10.50 (brs, 1H), 12.25 (brs, 1H).
+44 & <img> id-US20180009817A1-20180111-C00081.TIF </img> & m/z [M + H] + 442.9 1H-NMR (400 MHz, DMSO-d6) δ ppm 2.01-2.30 (m, 8H), 4.96-4.99 (m, 1H), 6.36 (s, 1H), 8.07-8.22 (br m, 1H), 6.24-6.26 (m, 1H), 8.34-8.37 (br m, 1H), 11.24 (s, 1H), 12.84 (s, 1H).
+45 & <img> id-US20180009817A1-20180111-C00082.TIF </img> & m/z [M + H] + 300.2 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.43 (d, J = 6.4 Hz, 6H), 2.21 (s, 3H), 4.89-4.92 (m, 1H), 6.36 (s, 1H), 8.09 (s, 1H), 8.52 (s, 1H), 10.52 (s, 1H).
+46 & <img> id-US20180009817A1-20180111-C00083.TIF </img> & m/z [M + H] + 318.1 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.49 (d, J = 6.8 Hz, 3H), 2.21 (s, 3H), 4.62-4.77 (m, 2H), 5.06-5.15 (m, 1H), 6.37 (s, 1H), 8.10 (brs, 1H), 8.52 (s, 1H), 10.57 (s, 1H), 12.11 (s, 1H).
+47 & <img> id-US20180009817A1-20180111-C00084.TIF </img> & m/z [M + H] + 368.3 1H-NMR (400 MHz, DMSO-d6) δ ppm 0.96 (s, 3H), 1.04 (s, 3H), 1.39-1.53 (m, 4H), 1.76-1.90 (m, 4H), 2.21 (s, 3H), 4.48-4.49 (m, 1H), 6.38 (s, 1H), 8.09 (s, 1H), 8.60 (s, 1H), 10.45 (s, 1H), 12.12 (s, 1H).
+48 & <img> id-US20180009817A1-20180111-C00085.TIF </img> & m/z [M + H] + 314.1 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.70 (s, 9H), 2.19 (s, 3H), 6.35 (d, J = 1.5 Hz, 1H), 8.07 (s, 1H), 8.47 (s, 1H), 10.59 (s, 1H), 12.07 (s, 1H).
+49 & <img> id-US20180009817A1-20180111-C00086.TIF </img> & m/z [M + H] + 366.2 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.72 (s, 9H), 6.61 (s, 1H), 6.85-6.89 (m, 2H), 7.76 (s, 1H), 8.11 (s, 1H), 8.53 (s, 1H), 10.85 (s, 1H), 12,99 (s, 1H).
 </table>
 <table>
 <header>
@@ -1171,13 +1200,13 @@ TABLE 8
 <header>
 
 </header>
-50 &  & m/z [M + H] + 332.2 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.71 (s, 6H), 2.21 (s, 3H), 4.93 (s, 1H), 5.05 (s, 1H), 6.37 (s, 1H), 8.09 (s, 1H), 8.49 (s, 1H), 10.64 (s, 1H), 12.10 (s, 1H).
-51 &  & m/z [M + H] + 312.2 1H-NMR (400 MHz, DMSO-d6) δ ppm 0.97 (m, 2H), 1.13 (m, 2H), 1.54 (s, 3H), 2.21 (s, 3H), 6.36 (s, 1H), 8.11 (s, 1H), 8.37 (s, 1H), 10.50 (s, 1H), 12.09 (s, 1H).
-52 &  & m/z [M + H] + 340.4 1H-NMR (400 MHz, DMSO-d6) δ ppm 0.49-0.56 (m, 4H), 1.62 (s, 6H), 1.61 (m, 1H), 2.23 (s, 3H), 6.39 (s, 1H), 8.09 (s, 1H), 8.56 (s, 1H), 10.65 (s, 1H), 12.10 (s, 1H).
-53 &  & m/z [M + H] + 344.2 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.67 (s, 6H), 2.67 (s, 3H), 3.12 (s, 3H), 3.91 (s, 2H), 6.36 (s, 1H), 8.07 (s, 1H), 8.42 (s, 1H), 10.63 (s, 1H), 12.10 (s, 1H).
-54 &  & m/z [M + H] + 330.1 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.28 (brs, 4H), 2.21 (s, 3H), 4.57 (s, 1H), 4.69 (s, 1H), 6.34 (s, 1H), 8.12 (s, 1H), 8.40 (s, 1H), 10.58 (s, 1H), 12.11 (s, 1H).
-55 &  & m/z [M + H] + 348.1 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.40-1.45 (m, 4H), 2.03 (s, 3H), 6.14 (s, 1H), 6.36 (s, 1H), 8.12 (s, 1H), 8.41 (s, 1H), 10.63 (s, 1H), 12.13 (s, 1H).
-56 &  & m/z [M + H] + 382.1 1H-NMR (400 MHz, DMSO-d6) δ ppm 2.17 (s, 6H), 2.22 (s, 3H), 6.38 (s, 1H), 6.90-6.91 (m, 2H), 7.32-7.33 (m, 1H), 7.96 (s, 1H), 8.59 (s, 1H), 10.70 (s, 1H), 12.12 (s, 1H).
+50 & <img> id-US20180009817A1-20180111-C00087.TIF </img> & m/z [M + H] + 332.2 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.71 (s, 6H), 2.21 (s, 3H), 4.93 (s, 1H), 5.05 (s, 1H), 6.37 (s, 1H), 8.09 (s, 1H), 8.49 (s, 1H), 10.64 (s, 1H), 12.10 (s, 1H).
+51 & <img> id-US20180009817A1-20180111-C00088.TIF </img> & m/z [M + H] + 312.2 1H-NMR (400 MHz, DMSO-d6) δ ppm 0.97 (m, 2H), 1.13 (m, 2H), 1.54 (s, 3H), 2.21 (s, 3H), 6.36 (s, 1H), 8.11 (s, 1H), 8.37 (s, 1H), 10.50 (s, 1H), 12.09 (s, 1H).
+52 & <img> id-US20180009817A1-20180111-C00089.TIF </img> & m/z [M + H] + 340.4 1H-NMR (400 MHz, DMSO-d6) δ ppm 0.49-0.56 (m, 4H), 1.62 (s, 6H), 1.61 (m, 1H), 2.23 (s, 3H), 6.39 (s, 1H), 8.09 (s, 1H), 8.56 (s, 1H), 10.65 (s, 1H), 12.10 (s, 1H).
+53 & <img> id-US20180009817A1-20180111-C00090.TIF </img> & m/z [M + H] + 344.2 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.67 (s, 6H), 2.67 (s, 3H), 3.12 (s, 3H), 3.91 (s, 2H), 6.36 (s, 1H), 8.07 (s, 1H), 8.42 (s, 1H), 10.63 (s, 1H), 12.10 (s, 1H).
+54 & <img> id-US20180009817A1-20180111-C00091.TIF </img> & m/z [M + H] + 330.1 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.28 (brs, 4H), 2.21 (s, 3H), 4.57 (s, 1H), 4.69 (s, 1H), 6.34 (s, 1H), 8.12 (s, 1H), 8.40 (s, 1H), 10.58 (s, 1H), 12.11 (s, 1H).
+55 & <img> id-US20180009817A1-20180111-C00092.TIF </img> & m/z [M + H] + 348.1 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.40-1.45 (m, 4H), 2.03 (s, 3H), 6.14 (s, 1H), 6.36 (s, 1H), 8.12 (s, 1H), 8.41 (s, 1H), 10.63 (s, 1H), 12.13 (s, 1H).
+56 & <img> id-US20180009817A1-20180111-C00093.TIF </img> & m/z [M + H] + 382.1 1H-NMR (400 MHz, DMSO-d6) δ ppm 2.17 (s, 6H), 2.22 (s, 3H), 6.38 (s, 1H), 6.90-6.91 (m, 2H), 7.32-7.33 (m, 1H), 7.96 (s, 1H), 8.59 (s, 1H), 10.70 (s, 1H), 12.12 (s, 1H).
 </table>
 <table>
 <header>
@@ -1186,13 +1215,13 @@ TABLE 9
 <header>
 
 </header>
-57 &  & m/z [M + H] + 362.2 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.84-1.92 (m, 2H), 2.13-2.68 (m, 4H), 2.22 (s, 3H), 5.25-5.29 (m, 1H), 6.38 (s, 1H), 8.11 (s, 1H), 8.62 (s, 1H), 10.58 (s, 1H), 12.13 (s, 1H).
-58 &  & m/z [M + H] + 324.1 1H-NMR (400 MHz, DMSO-d6) δ ppm 2.21 (s, 3H), 2.38 (brs, 6H), 2.68 (brs, 1H), 6.37 (brs, 1H), 8.09 (s, 1H), 8.40 (brs, 1H), 10.58 (brs, 1H), 12.10 (brs, 1H).
-59 &  & m/z [M + H] + 340.3 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.60 (s, 3H), 1.69-1.74 (m, 4H), 2.06-2.09 (m, 2H), 2.21 (s 3H), 2.43-2.47 (m, 2H), 6.36 (s, 1H), 8.08 (s, 1H), 8.48 (s, 1H), 10.61 (s, 1H), 12.10 (s, 1H).
-60 &  & m/z [M + H] + 376.2 1H-NMR (400 MHz, DMSO-d6) δ ppm 2.05 (s, 6H), 2.22 (s, 3H), 6.40 (s, 1H), 6.99-7.01 (m, 2H), 7.14-7.26 (m, 3H), 7.85 (s, 1H), 8.72 (s, 1H), 10.73 (s, 1H), 12.13 (s, 1H).
-61 &  & m/z [M + H] + 356.2 1H-NMR (400 MHz, DMSO-d6) δ ppm 0.89 (s, 9H), 1.82 (s, 6H), 2.21 (s, 3H), 6.37 (s, 1H), 8.04 (s, 1H), 8.52 (s, 1H), 10.63 (s, 1H), 12.12 (s, 1H).
-62 &  & m/z [M + H] + 342.2 1H-NMR (400 MHz, DMSO-d6) δ ppm 0.68 (d, J = 6.8 Hz, 6H), 1.64 (s, 6H), 2.21 (s, 3H), 3.12-3.15 (m, 1H), 6.37 (s, 1H), 8.05 (s, 1H), 8.43 (s, 1H), 10.61 (s, 1H), 12.10 (s, 1H).
-63 &  & m/z [M + H] + 380.0 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.74 (s, 9 H), 6.13 (s, 1 H), 8.14 (s, 1 H), 8.32 (s, 1 H) 10.85-10.90 (m, 1 H), 12.98 (s, 1H).
+57 & <img> id-US20180009817A1-20180111-C00094.TIF </img> & m/z [M + H] + 362.2 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.84-1.92 (m, 2H), 2.13-2.68 (m, 4H), 2.22 (s, 3H), 5.25-5.29 (m, 1H), 6.38 (s, 1H), 8.11 (s, 1H), 8.62 (s, 1H), 10.58 (s, 1H), 12.13 (s, 1H).
+58 & <img> id-US20180009817A1-20180111-C00095.TIF </img> & m/z [M + H] + 324.1 1H-NMR (400 MHz, DMSO-d6) δ ppm 2.21 (s, 3H), 2.38 (brs, 6H), 2.68 (brs, 1H), 6.37 (brs, 1H), 8.09 (s, 1H), 8.40 (brs, 1H), 10.58 (brs, 1H), 12.10 (brs, 1H).
+59 & <img> id-US20180009817A1-20180111-C00096.TIF </img> & m/z [M + H] + 340.3 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.60 (s, 3H), 1.69-1.74 (m, 4H), 2.06-2.09 (m, 2H), 2.21 (s 3H), 2.43-2.47 (m, 2H), 6.36 (s, 1H), 8.08 (s, 1H), 8.48 (s, 1H), 10.61 (s, 1H), 12.10 (s, 1H).
+60 & <img> id-US20180009817A1-20180111-C00097.TIF </img> & m/z [M + H] + 376.2 1H-NMR (400 MHz, DMSO-d6) δ ppm 2.05 (s, 6H), 2.22 (s, 3H), 6.40 (s, 1H), 6.99-7.01 (m, 2H), 7.14-7.26 (m, 3H), 7.85 (s, 1H), 8.72 (s, 1H), 10.73 (s, 1H), 12.13 (s, 1H).
+61 & <img> id-US20180009817A1-20180111-C00098.TIF </img> & m/z [M + H] + 356.2 1H-NMR (400 MHz, DMSO-d6) δ ppm 0.89 (s, 9H), 1.82 (s, 6H), 2.21 (s, 3H), 6.37 (s, 1H), 8.04 (s, 1H), 8.52 (s, 1H), 10.63 (s, 1H), 12.12 (s, 1H).
+62 & <img> id-US20180009817A1-20180111-C00099.TIF </img> & m/z [M + H] + 342.2 1H-NMR (400 MHz, DMSO-d6) δ ppm 0.68 (d, J = 6.8 Hz, 6H), 1.64 (s, 6H), 2.21 (s, 3H), 3.12-3.15 (m, 1H), 6.37 (s, 1H), 8.05 (s, 1H), 8.43 (s, 1H), 10.61 (s, 1H), 12.10 (s, 1H).
+63 & <img> id-US20180009817A1-20180111-C00100.TIF </img> & m/z [M + H] + 380.0 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.74 (s, 9 H), 6.13 (s, 1 H), 8.14 (s, 1 H), 8.32 (s, 1 H) 10.85-10.90 (m, 1 H), 12.98 (s, 1H).
 </table>
 <table>
 <header>
@@ -1201,13 +1230,13 @@ TABLE 10
 <header>
 
 </header>
-64 &  & m/z [M + H] + 344.2 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.73 (s, 9H) 3.27 (s, 3H) 4.40 (s, 2 H) 6.58-6.61 (m, 1 H) 8.10 (s, 1 H) 8.51 (s, 1H), 10.73 (s, 1H), 12.49-12.52 (m, 1H).
-65 &  & m/z [M + H] + 366.0 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.45-1.47 (m, 6H), 4.92-4.95 (m, 1H), 6.13 (s, 1H), 7.94 (brs, 1H), 8.11 (s, 1H), 8.13 (s, 1H), 8.31 (s, 1H), 10.87 (s, 1H), 12.95 (s, 1H).
-66 &  & m/z [M + H] + 398.0 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.74 (brs, 6H) 4.96 (brs, 1 H) 5.08 (brs, 1H) 6.14 (s, 1 H) 8.07-8.15 (m, 1 H), 8.31 (s, 1H), 10.91 (s, 1H), 12.99 (s, 1H).
-67 &  & m/z [M + H] + 378.0 1H-NMR (400 MHz, DMSO-d6) δ ppm 0.96-1.06 (m, 2 H), 1.12- 1.20 (m, 2 H), 1.55 (s, 3 H), 6.11-6.16 (m, 1 H), 8.11-8.18 (m, 1 H), 8.22-8.26 (m, 1 H), 10.74-10.95 (m, 1 H), 12.93 (brs, 1 H).
-68 &  & m/z [M + H] + 326.3 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.65 (s, 3H), 1.86-1.89 (m, 1H), 1.98-2.03 (m, 1H), 2.31 (s, 3H), 2.31-2.36 (m, 2H), 2.62- 2.67 (m, 2H), 6.37 (s, 1H), 8.06 (s, 1H), 8.38 (s, 1H), 10.58 (s, 1H), 12.10 (s, 1H).
-69 &  & m/z [M + H] + 312.2 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.82-1.90 (m, 2H), 2.22 (s, 3H), 2.37-2.47 (m, 4H), 5.10-5.18 (m, 1H), 6.37 (s, 1H), 8.09 (s, 1H), 8.67 (s, 1H), 10.57 (s, 1H), 12.12 (s, 1H).
-70 &  & m/z [M + H] + 328.4 1H-NMR (400 MHz, DMSO-d6) δ ppm 0.53 (t, J = 7.4 Hz, 3H), 1.68 (s, 6H), 2.17-2.21 (m, 2H), 2.21 (s, 3H), 6.36 (s, 1H), 8.07 (s, 1H), 8.43 (s, 1H), 10.62 (s 1H), 12.10 (s, 1H).
+64 & <img> id-US20180009817A1-20180111-C00101.TIF </img> & m/z [M + H] + 344.2 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.73 (s, 9H) 3.27 (s, 3H) 4.40 (s, 2 H) 6.58-6.61 (m, 1 H) 8.10 (s, 1 H) 8.51 (s, 1H), 10.73 (s, 1H), 12.49-12.52 (m, 1H).
+65 & <img> id-US20180009817A1-20180111-C00102.TIF </img> & m/z [M + H] + 366.0 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.45-1.47 (m, 6H), 4.92-4.95 (m, 1H), 6.13 (s, 1H), 7.94 (brs, 1H), 8.11 (s, 1H), 8.13 (s, 1H), 8.31 (s, 1H), 10.87 (s, 1H), 12.95 (s, 1H).
+66 & <img> id-US20180009817A1-20180111-C00103.TIF </img> & m/z [M + H] + 398.0 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.74 (brs, 6H) 4.96 (brs, 1 H) 5.08 (brs, 1H) 6.14 (s, 1 H) 8.07-8.15 (m, 1 H), 8.31 (s, 1H), 10.91 (s, 1H), 12.99 (s, 1H).
+67 & <img> id-US20180009817A1-20180111-C00104.TIF </img> & m/z [M + H] + 378.0 1H-NMR (400 MHz, DMSO-d6) δ ppm 0.96-1.06 (m, 2 H), 1.12- 1.20 (m, 2 H), 1.55 (s, 3 H), 6.11-6.16 (m, 1 H), 8.11-8.18 (m, 1 H), 8.22-8.26 (m, 1 H), 10.74-10.95 (m, 1 H), 12.93 (brs, 1 H).
+68 & <img> id-US20180009817A1-20180111-C00105.TIF </img> & m/z [M + H] + 326.3 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.65 (s, 3H), 1.86-1.89 (m, 1H), 1.98-2.03 (m, 1H), 2.31 (s, 3H), 2.31-2.36 (m, 2H), 2.62- 2.67 (m, 2H), 6.37 (s, 1H), 8.06 (s, 1H), 8.38 (s, 1H), 10.58 (s, 1H), 12.10 (s, 1H).
+69 & <img> id-US20180009817A1-20180111-C00106.TIF </img> & m/z [M + H] + 312.2 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.82-1.90 (m, 2H), 2.22 (s, 3H), 2.37-2.47 (m, 4H), 5.10-5.18 (m, 1H), 6.37 (s, 1H), 8.09 (s, 1H), 8.67 (s, 1H), 10.57 (s, 1H), 12.12 (s, 1H).
+70 & <img> id-US20180009817A1-20180111-C00107.TIF </img> & m/z [M + H] + 328.4 1H-NMR (400 MHz, DMSO-d6) δ ppm 0.53 (t, J = 7.4 Hz, 3H), 1.68 (s, 6H), 2.17-2.21 (m, 2H), 2.21 (s, 3H), 6.36 (s, 1H), 8.07 (s, 1H), 8.43 (s, 1H), 10.62 (s 1H), 12.10 (s, 1H).
 </table>
 <table>
 <header>
@@ -1216,13 +1245,13 @@ TABLE 11
 <header>
 
 </header>
-71 &  & m/z [M + H] + 352.4 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.26-2.00 (m, 8H), 2.21 (s, 3H), 2.32 (m,, 1H), 2.42 (m, 1H), 4.62 (m, 1H), 6.37 (s, 1H), 8.10 (s, 1H), 8.54 (s, 1H), 10.62 (s, 1H), 12.12 (s, 1H).
-72 &  & m/z [M + H] + 326.2 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.68-1.72 (m, 2H), 1.79-1.90 (m, 4H), 2.12-2.17 (m, 2H), 2.21 (s, 3H), 5.06-5.09 (m, 1H), 6.37 (s, 1H), 8.09 (s, 1H), 8.46 (s, 1H), 10.58 (s, 1H), 12.11 (s, 1H).
-73 &  & m/z [M + H] + 328.1 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.85 (s, 9 H), 2.22 (s, 3 H), 2.67 (s, 3 H), 6.40 (s, 1 H), 6.85 (s, 2 H), 8.08 (s, 1 H) 10.49 (s, 1 H), 12.11 (s, 1 H).
-74 &  & m/z [M + H] + 338.3 1H-NMR (400 MHz, DMSO-d6) δ ppm 0.28-0.32 (m, 2H), 0.35-0.38, (m, 2H), 0.91-0.94 (m, 2H), 1.05-1.08 (m, 2H), 1.51-1.53 (m, 1H), 2.21 (s, 3H), 6.36 (s, 1H), 8.11 (s, 1H), 8.34 (s, 1H), 10.55 (s, 1H), 12.10 (brs, 1H).
-75 &  & m/z [M + H] + 346.0 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.08-1.24 (m, 4H), 1.46 (s, 3H) 2.21 (s, 3H) 6.37 (s, 1H) 7.27 (s, 2H) 8.16 (s, 1H) 10.32 (s, 1H) 12.16 (s, 1H).
-76 &  & m/z [M + H] + 392.0 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.10-1.32 (m, 4H) 1.46 (s, 3H) 2.21 (s, 3H) 6.38 (s, 1H) 7.18 (brs, 2H) 8.14 (s, 1H) 10.34 (s, 1H) 12.15 (brs, 1H).
-77 &  & m/z [M + H] + 342.2 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.09-1.15 (m, 2 H) 1.29- 1.34 (m, 2 H) 1.70 (s, 3 H) 2.34 (s, 3 H) 4.26 (s, 3 H) 6.49- 6.51 (m, 1 H) 8.34-8.36 (m, 1 H) 9.16-9.19 (m, 1 H).
+71 & <img> id-US20180009817A1-20180111-C00108.TIF </img> & m/z [M + H] + 352.4 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.26-2.00 (m, 8H), 2.21 (s, 3H), 2.32 (m,, 1H), 2.42 (m, 1H), 4.62 (m, 1H), 6.37 (s, 1H), 8.10 (s, 1H), 8.54 (s, 1H), 10.62 (s, 1H), 12.12 (s, 1H).
+72 & <img> id-US20180009817A1-20180111-C00109.TIF </img> & m/z [M + H] + 326.2 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.68-1.72 (m, 2H), 1.79-1.90 (m, 4H), 2.12-2.17 (m, 2H), 2.21 (s, 3H), 5.06-5.09 (m, 1H), 6.37 (s, 1H), 8.09 (s, 1H), 8.46 (s, 1H), 10.58 (s, 1H), 12.11 (s, 1H).
+73 & <img> id-US20180009817A1-20180111-C00110.TIF </img> & m/z [M + H] + 328.1 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.85 (s, 9 H), 2.22 (s, 3 H), 2.67 (s, 3 H), 6.40 (s, 1 H), 6.85 (s, 2 H), 8.08 (s, 1 H) 10.49 (s, 1 H), 12.11 (s, 1 H).
+74 & <img> id-US20180009817A1-20180111-C00111.TIF </img> & m/z [M + H] + 338.3 1H-NMR (400 MHz, DMSO-d6) δ ppm 0.28-0.32 (m, 2H), 0.35-0.38, (m, 2H), 0.91-0.94 (m, 2H), 1.05-1.08 (m, 2H), 1.51-1.53 (m, 1H), 2.21 (s, 3H), 6.36 (s, 1H), 8.11 (s, 1H), 8.34 (s, 1H), 10.55 (s, 1H), 12.10 (brs, 1H).
+75 & <img> id-US20180009817A1-20180111-C00112.TIF </img> & m/z [M + H] + 346.0 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.08-1.24 (m, 4H), 1.46 (s, 3H) 2.21 (s, 3H) 6.37 (s, 1H) 7.27 (s, 2H) 8.16 (s, 1H) 10.32 (s, 1H) 12.16 (s, 1H).
+76 & <img> id-US20180009817A1-20180111-C00113.TIF </img> & m/z [M + H] + 392.0 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.10-1.32 (m, 4H) 1.46 (s, 3H) 2.21 (s, 3H) 6.38 (s, 1H) 7.18 (brs, 2H) 8.14 (s, 1H) 10.34 (s, 1H) 12.15 (brs, 1H).
+77 & <img> id-US20180009817A1-20180111-C00114.TIF </img> & m/z [M + H] + 342.2 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.09-1.15 (m, 2 H) 1.29- 1.34 (m, 2 H) 1.70 (s, 3 H) 2.34 (s, 3 H) 4.26 (s, 3 H) 6.49- 6.51 (m, 1 H) 8.34-8.36 (m, 1 H) 9.16-9.19 (m, 1 H).
 </table>
 <table>
 <header>
@@ -1231,13 +1260,13 @@ TABLE 12
 <header>
 
 </header>
-78 &  & m/z [M + H] + 366.1 1H-NMR (400 MHz, CHLOROFORM-d) δ ppm 1.97-2.02 (m, 6 H) 2.35 (s, 3 H) 6.15 (s, 1H) 6.27 (s, 1 H) 6.57 (s, 1 H) 8.24 (s, 1 H) 8.98 (brs, 1 H).
-79 &  & m/z [M + H] + 394.1 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.03-1.11 (m, 2 H) 1.21- 1.26 (m, 2 H) 1.49 (s, 3 H) 1.60 (s, 6 H) 2.21 (s, 3 H) 5.79 (br s, 1 H) 6.39 (br s, 1 H) 8.19 (s, 1H) 9.89 (br s, 1 H) 12.24 (br s, 1 H).
-80 &  & m/z [M + H] + 413.4 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.17-1.25 (m, 2 H) 1.25- 1.38 (m, 2 H) 1.55 (s, 3 H) 2.23 (s, 3 H) 6.44 (br s, 1 H) 7.52 (dd, J = 7.70, 4.77 Hz, 1 H) 8.14 (br dt, J = 7.97, 1.88 Hz, 1 H) 8.20 (s, 1 H) 8.66 (dd, J = 4.77, 1.47 Hz, 1 H) 8.96 (d, J = 1.10 Hz, 1 H) 10.32 (brs, 1 H) 12.34 (brs, 1 H).
-81 &  & m/z [M + H] + 420.4 1H-NMR (400 MHz, DMSO-d6) δ ppm 0.99-1.16 (m, 2 H) 1.19- 1.38 (m, 2 H) 1.50 (s, 3 H) 1.69-1.85 (m, 4 H) 1.92-2.07 (m, 2 H) 2.07-2.17 (m, 2 H) 2.22 (s, 3 H) 5.67 (s, 1 H) 6.41 (s, 1 H) 8.32 (s, 1 H) 9.91 (s, 1 H) 12.15-12.36 (m, 1 H).
-82 &  & m/z [M + H] + 416.2 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.09-1.14 (m, 2 H) 1.25- 1.30 (m, 2 H) 1.50 (s, 3 H) 2.22 (s, 3 H) 3.89 (s, 3 H) 6.42 (s, 1 H) 7.94 (s, 1 H) 8.17 (s, 1 H) 8.30 (s, 1 H) 10.07 (s, 1 H) 12.22 (s, 1 H).
-83 &  & m/z [M + H] + 416.2 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.10-1.17 (m, 2 H) 1.26- 1.33 (m, 2 H) 1.54 (s, 3 H) 2.21 (s, 3 H) 3.75 (s, 3 H) 6.42 (s, 1 H) 7.60 (s, 1 H) 7.86 (s, 1 H) 8.19 (s, 1 H) 10.15 (s, 1 H) 12.21 (s, 1 H).
-84 &  & m/z [M + H] + 435.2 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.03-1.12 (m, 2 H) 1.22- 1.28 (m, 2 H) 1.49 (s, 3 H) 2.21 (s, 3 H) 2.54-2.63 (m, 4 H) 3.54-3.61 (m, 4 H) 3.76 (s, 2 H) 6.38 (br s, 1 H) 8.17 (s, 1 H) 10.01 (br s, 1 H) 12.17 (br s, 1 H).
+78 & <img> id-US20180009817A1-20180111-C00115.TIF </img> & m/z [M + H] + 366.1 1H-NMR (400 MHz, CHLOROFORM-d) δ ppm 1.97-2.02 (m, 6 H) 2.35 (s, 3 H) 6.15 (s, 1H) 6.27 (s, 1 H) 6.57 (s, 1 H) 8.24 (s, 1 H) 8.98 (brs, 1 H).
+79 & <img> id-US20180009817A1-20180111-C00116.TIF </img> & m/z [M + H] + 394.1 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.03-1.11 (m, 2 H) 1.21- 1.26 (m, 2 H) 1.49 (s, 3 H) 1.60 (s, 6 H) 2.21 (s, 3 H) 5.79 (br s, 1 H) 6.39 (br s, 1 H) 8.19 (s, 1H) 9.89 (br s, 1 H) 12.24 (br s, 1 H).
+80 & <img> id-US20180009817A1-20180111-C00117.TIF </img> & m/z [M + H] + 413.4 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.17-1.25 (m, 2 H) 1.25- 1.38 (m, 2 H) 1.55 (s, 3 H) 2.23 (s, 3 H) 6.44 (br s, 1 H) 7.52 (dd, J = 7.70, 4.77 Hz, 1 H) 8.14 (br dt, J = 7.97, 1.88 Hz, 1 H) 8.20 (s, 1 H) 8.66 (dd, J = 4.77, 1.47 Hz, 1 H) 8.96 (d, J = 1.10 Hz, 1 H) 10.32 (brs, 1 H) 12.34 (brs, 1 H).
+81 & <img> id-US20180009817A1-20180111-C00118.TIF </img> & m/z [M + H] + 420.4 1H-NMR (400 MHz, DMSO-d6) δ ppm 0.99-1.16 (m, 2 H) 1.19- 1.38 (m, 2 H) 1.50 (s, 3 H) 1.69-1.85 (m, 4 H) 1.92-2.07 (m, 2 H) 2.07-2.17 (m, 2 H) 2.22 (s, 3 H) 5.67 (s, 1 H) 6.41 (s, 1 H) 8.32 (s, 1 H) 9.91 (s, 1 H) 12.15-12.36 (m, 1 H).
+82 & <img> id-US20180009817A1-20180111-C00119.TIF </img> & m/z [M + H] + 416.2 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.09-1.14 (m, 2 H) 1.25- 1.30 (m, 2 H) 1.50 (s, 3 H) 2.22 (s, 3 H) 3.89 (s, 3 H) 6.42 (s, 1 H) 7.94 (s, 1 H) 8.17 (s, 1 H) 8.30 (s, 1 H) 10.07 (s, 1 H) 12.22 (s, 1 H).
+83 & <img> id-US20180009817A1-20180111-C00120.TIF </img> & m/z [M + H] + 416.2 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.10-1.17 (m, 2 H) 1.26- 1.33 (m, 2 H) 1.54 (s, 3 H) 2.21 (s, 3 H) 3.75 (s, 3 H) 6.42 (s, 1 H) 7.60 (s, 1 H) 7.86 (s, 1 H) 8.19 (s, 1 H) 10.15 (s, 1 H) 12.21 (s, 1 H).
+84 & <img> id-US20180009817A1-20180111-C00121.TIF </img> & m/z [M + H] + 435.2 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.03-1.12 (m, 2 H) 1.22- 1.28 (m, 2 H) 1.49 (s, 3 H) 2.21 (s, 3 H) 2.54-2.63 (m, 4 H) 3.54-3.61 (m, 4 H) 3.76 (s, 2 H) 6.38 (br s, 1 H) 8.17 (s, 1 H) 10.01 (br s, 1 H) 12.17 (br s, 1 H).
 </table>
 <table>
 <header>
@@ -1246,12 +1275,12 @@ TABLE 13
 <header>
 
 </header>
-85 &  & m/z [M + H] + 420.2 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.02-1.08 (m, 2 H) 1.20- 1.26 (m, 2 H) 1.48 (s, 3 H) 1.50-1.72 (m, 2 H) 1.99-2.10 (m, 2 H) 2.10-2.19 (m, 2 H) 2.22 (s, s H) 2.93 (s, 2 H) 5.57 (s, 1 H) 6.39 (br s, 1 H) 8.15 (s, 1 H) 10.01 (s, 1 H) 12.23 (br s, 1 H).
-86 &  & m/z [M + H] + 420.2 1H-NMR (400 MHz, CHLOROFORM-d) δ ppm 1.11 (s, 2 H) 1.36 (s, 2 H) 1.59 (s, 3 H) 1.93-2.03 (m, 2 H) 2.05-2.13 (m, 2 H) 2.34 (s, 3 H) 3.18 (dt, J = 8.89, 4.54 Hz, 1 H) 3.61 (ddd, J = 11.73, 8.80, 2.93 Hz, 2 H) 4.01 (dt, J = 12.10, 4.22 Hz, 2 H) 6.53 (br s, 1 H) 8.35 (s, 1 H) 9.79 (s, 1 H).
-87 &  & m/z [M + H] + 416.2 1H-NMR (400 MHz, DMSO-d6) δ ppm: 1.08 (m, 2H), 1.29 (m, 2H), 1.52 (s, 3H). 2.22 (s, 3H), 3.91 (s, 3H), 6.42 (s, 1H), 6.81 (m, 1H), 7.86 (m, 1H), 8.14 (m, 1H), 10.13 (s, 1H).
-88 &  & m/z [M + H] + 453.2 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.16-1.19 (m, 2H), 1.34-1.37 (m, 2H), 1.57 (s, 3H), 2.23 (s, 3H), 6.42 (s, 1H), 7.40-1.43 (m, 1H), 8.21 (s, 1H), 8.28-8.30 (m, 2H), 8.39 (m, 1H), 8.65- 8.66 (m, 1H).
-89 &  & m/z [M + H] + 356.2 1H-NMR (400 MHz, DMSO-d6) δ ppm 0.99-1.07 (m, 2 H) 1.14- 1.21 (m, 2 H) 1.51 (t, J = 6.96 Hz, 3 H) 1.56 (s, 3 H) 2.20 (s, 3 H) 4.43 (q, J = 6.96 Hz, 2 H) 6.36 (s, 1 H) 8.12 8.12 (s, 1 H) 9.52 (s, 1 H) 12.09 (brs, 1 H).
-90 &  & m/z [M + H] + 412.2 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.01-1.07 (m, 2H) 1.13- 1.20 (m, 2H) 1.59 (s, 3H) 1.72-1.94 (m, 3H) 1.99-2.09 (m, 1H) 2.18-2.22 (m, 3H) 3.64-3.71 (m, 1 H) 3.84-3.95 (m, 1 H) 4.24-4.35 (m, 2H) 4.44 (br d, J = 7.33 Hz, 1H) 6.32 (brs, 1H) 8.11 (s, 1H) 9.68 (brs, 1H) 12.06 (s, 1H).
+85 & <img> id-US20180009817A1-20180111-C00122.TIF </img> & m/z [M + H] + 420.2 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.02-1.08 (m, 2 H) 1.20- 1.26 (m, 2 H) 1.48 (s, 3 H) 1.50-1.72 (m, 2 H) 1.99-2.10 (m, 2 H) 2.10-2.19 (m, 2 H) 2.22 (s, s H) 2.93 (s, 2 H) 5.57 (s, 1 H) 6.39 (br s, 1 H) 8.15 (s, 1 H) 10.01 (s, 1 H) 12.23 (br s, 1 H).
+86 & <img> id-US20180009817A1-20180111-C00123.TIF </img> & m/z [M + H] + 420.2 1H-NMR (400 MHz, CHLOROFORM-d) δ ppm 1.11 (s, 2 H) 1.36 (s, 2 H) 1.59 (s, 3 H) 1.93-2.03 (m, 2 H) 2.05-2.13 (m, 2 H) 2.34 (s, 3 H) 3.18 (dt, J = 8.89, 4.54 Hz, 1 H) 3.61 (ddd, J = 11.73, 8.80, 2.93 Hz, 2 H) 4.01 (dt, J = 12.10, 4.22 Hz, 2 H) 6.53 (br s, 1 H) 8.35 (s, 1 H) 9.79 (s, 1 H).
+87 & <img> id-US20180009817A1-20180111-C00124.TIF </img> & m/z [M + H] + 416.2 1H-NMR (400 MHz, DMSO-d6) δ ppm: 1.08 (m, 2H), 1.29 (m, 2H), 1.52 (s, 3H). 2.22 (s, 3H), 3.91 (s, 3H), 6.42 (s, 1H), 6.81 (m, 1H), 7.86 (m, 1H), 8.14 (m, 1H), 10.13 (s, 1H).
+88 & <img> id-US20180009817A1-20180111-C00125.TIF </img> & m/z [M + H] + 453.2 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.16-1.19 (m, 2H), 1.34-1.37 (m, 2H), 1.57 (s, 3H), 2.23 (s, 3H), 6.42 (s, 1H), 7.40-1.43 (m, 1H), 8.21 (s, 1H), 8.28-8.30 (m, 2H), 8.39 (m, 1H), 8.65- 8.66 (m, 1H).
+89 & <img> id-US20180009817A1-20180111-C00126.TIF </img> & m/z [M + H] + 356.2 1H-NMR (400 MHz, DMSO-d6) δ ppm 0.99-1.07 (m, 2 H) 1.14- 1.21 (m, 2 H) 1.51 (t, J = 6.96 Hz, 3 H) 1.56 (s, 3 H) 2.20 (s, 3 H) 4.43 (q, J = 6.96 Hz, 2 H) 6.36 (s, 1 H) 8.12 8.12 (s, 1 H) 9.52 (s, 1 H) 12.09 (brs, 1 H).
+90 & <img> id-US20180009817A1-20180111-C00127.TIF </img> & m/z [M + H] + 412.2 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.01-1.07 (m, 2H) 1.13- 1.20 (m, 2H) 1.59 (s, 3H) 1.72-1.94 (m, 3H) 1.99-2.09 (m, 1H) 2.18-2.22 (m, 3H) 3.64-3.71 (m, 1 H) 3.84-3.95 (m, 1 H) 4.24-4.35 (m, 2H) 4.44 (br d, J = 7.33 Hz, 1H) 6.32 (brs, 1H) 8.11 (s, 1H) 9.68 (brs, 1H) 12.06 (s, 1H).
 </table>
 <table>
 <header>
@@ -1260,10 +1289,10 @@ TABLE 14
 <header>
 
 </header>
- & m/z [M + H] + 381.2 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.67-1.85 (m, 2H), 1.86-1.90 (m, 2H), 1.99-2.14 (m, 4H), 5.23-5.27 (m, 1H), 6.34 (brs, 2H), 7.18-7.22 (m, 1H), 7.58-7.65 (m, 2H), 8.12-8.14 (m, 1H), 8.26 (s, 1H).
- & m/z [M + H] + 331.3 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.85-1.93 (m, 2H), 2.32 (s, 3H), 2.39-2.44 (m, 2H), 2.76-2.86 (m, 2H), 5.31-5.40 (m, 1H), 6.91 (s, 1H), 8.21 (brs, 2H), 8.30 (s, 1H), 12.64 (brs, 1H).
- & m/z [M + H] + 313.3 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.82-1.90 (m, 2H), 2.12 (s, 3H), 2.32-2.41 (m, 2H), 2.64-2.76 (m, 2H), 5.27-5.35 (m, 1H), 6.60 (s, 1H), 7.89 (brs, 1H), 8.20 (s, 1H), 9.46 (brs, 1H), 11.99 (brs, 1H).
- & m/z [M + H] + 282.3 1H-NMR (400 MHz, CHLOROFORM-d) δ ppm 1.84 (s, 9H), 2.43 (s, 3H), 5.35 (brs, 2H), 7.33 (d, J = 7.8 Hz, 2H), 7.58 (d, J = 7.8 Hz, 2H), 8.36 (s, 1H).
+<img> id-US20180009817A1-20180111-C00128.TIF </img> & m/z [M + H] + 381.2 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.67-1.85 (m, 2H), 1.86-1.90 (m, 2H), 1.99-2.14 (m, 4H), 5.23-5.27 (m, 1H), 6.34 (brs, 2H), 7.18-7.22 (m, 1H), 7.58-7.65 (m, 2H), 8.12-8.14 (m, 1H), 8.26 (s, 1H).
+<img> id-US20180009817A1-20180111-C00129.TIF </img> & m/z [M + H] + 331.3 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.85-1.93 (m, 2H), 2.32 (s, 3H), 2.39-2.44 (m, 2H), 2.76-2.86 (m, 2H), 5.31-5.40 (m, 1H), 6.91 (s, 1H), 8.21 (brs, 2H), 8.30 (s, 1H), 12.64 (brs, 1H).
+<img> id-US20180009817A1-20180111-C00130.TIF </img> & m/z [M + H] + 313.3 1H-NMR (400 MHz, DMSO-d6) δ ppm 1.82-1.90 (m, 2H), 2.12 (s, 3H), 2.32-2.41 (m, 2H), 2.64-2.76 (m, 2H), 5.27-5.35 (m, 1H), 6.60 (s, 1H), 7.89 (brs, 1H), 8.20 (s, 1H), 9.46 (brs, 1H), 11.99 (brs, 1H).
+<img> id-US20180009817A1-20180111-C00131.TIF </img> & m/z [M + H] + 282.3 1H-NMR (400 MHz, CHLOROFORM-d) δ ppm 1.84 (s, 9H), 2.43 (s, 3H), 5.35 (brs, 2H), 7.33 (d, J = 7.8 Hz, 2H), 7.58 (d, J = 7.8 Hz, 2H), 8.36 (s, 1H).
 </table>
 Test Example 1
 Measurement of RET Inhibitory Activity (In Vitro)

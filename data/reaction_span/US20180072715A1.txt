@@ -7,6 +7,7 @@ The provision of small molecules which effectively inhibit, regulate and/or modu
 It is furthermore desirable that kinase inhibitors of this type are selective, i.e. have no or significantly lower activity against other kinases. Thus, off-target effects or associated toxicities can be reduced.
 DESCRIPTION OF THE INVENTION
 The object has surprisingly been achieved by compounds of the formula (I)
+<img> id-US20180072715A1-20180315-C00001.TIF </img>
 whereR1 denotes A,R3 denotes A or H,A in each case independently denotes unbranched or branched alkyl having 1, 2, 3, 4, 5, 6, 7, 8, 9 or 10 C atoms, where, independently of one another, 1, 2, 3, 4, 5, 6 or 7 H atoms may be replaced by Hal,Het1 denotes mono- or bicyclic heteroaryl having 2, 3, 4, 5, 6, 7, 8 or 9 C atoms and 1, 2, 3 or 4 N, O and/or S atoms, which may be unsubstituted or mono-, di- or trisubstituted, independently of one another, by Hal, A, CN, -(CY2)p-OY, -(CY2)p-NYY, -(CY2)p-COOY, -(CY2)p-CO-NYY, -(CY2)p-NY-COY, -Het2 and/or -SO2-Het2,Het2 denotes a monocyclic saturated heterocycle having 2, 3, 4, 5, 6 or 7 C atoms and 1, 2, 3 or 4 N, O and/or S atoms, which may be unsubstituted or monosubstituted by A,HET denotes a 5- or 6-membered aromatic heterocycle having 1, 2 or 3 N atoms and optionally an O atom or S atom, where this heterocycle is linked to the N atom of the skeleton via a ring C atom and where this heterocycle may be unsubstituted or substituted by one, two or three substituents, which are selected, independently of one another, from the group consisting of: Hal, A, Het2, CN, -(CY2)p-OY, -(CY2)p-OZ, -(CY2)p-O-Het2, -(CY2)p-O-(CY2)t-Het2, -(CY2)p-O-(CY2)t-NYY, -(CY2)p-O-(CY2)t-OY, -(CY2)p-O-(CY2)t-POAA, -(CY2)p-NYY, -(CY2)p-COOY, -(CY2)p-CO-NYY, -(CY2)p-NY-COY, -SO2-Het2, CyA, -(CY2)p-O-(CY2)t-SO2-Y, -(CY2)p-NY-SO2-Y, and -(CY2)p-SO2-Y, and where this heterocycle may be part of a bicyclic 11- or 12-membered aromatic heterocycle, where this bicyclic aromatic heterocycle may overall be unsubstituted or substituted by one, two, three or more substituents, which are selected, independently of one another, from the group consisting of: Hal, A, Het2, -CN, -(CY2)p-OY, -(CY2)p-OZ, -(CY2)p-O-Het2, -(CY2)p-O-(CY2)t-Het2, -(CY2)p-O-(CY2)t-NYY, -(CY2)p-O-(CY2)t-OY, -(CY2)p-O-(CY2)t-POAA, -(CY2)p-NYY, -(CY2)p-COOY, -(CY2)p-CO-NYY, -(CY2)p-NY-COY, -SO2-Het2, CyA, -(CY2)p-(CY2)t-SO2-Y, -(CY2)p-NY-SO2-Y, and -(CY2)p-SO2-Y,Y denotes H or A,Z denotes unbranched or branched alkenyl having 2, 3, 4, 5, 6, 7, 8, 9 or 10 C atoms, where, independently of one another, 1, 2, 3, 4, 5, 6 or 7 H atoms may be replaced by Hal,CyA denotes cycloalkyl having 3, 4, 5, 6, 7 or 8 ring C atoms which is unsubstituted or mono- or polysubstituted, independently of one another, by Hal, A, CN, -(CY2)p-OY, -(CY2)p-NYY, -(CY2)p-COOY, -(CY2)p-CO-NYY and/or -(CY2)p-NY-COY,Hal denotes F, Cl, Br or I, andp denotes 0, 1, 2, 3, 4, 5 or 6t denotes 1, 2, 3, 4, 5 or 6,
 and/or pharmaceutically usable derivative, salt, solvate, tautomer, stereoisomer thereof, including mixtures thereof in all ratios.
 As stated in greater detail below, the compounds are to be understood in such a way that the atoms, such as, for example, H, C, N, in each case also include the heavier isotopes of these atoms. This applies, in particular, to H, where deuterium can advantageously be employed, as shown by the examples.
@@ -30,16 +31,20 @@ For the purposes of the present invention, “HET” stands for a 5- or 6-member
 The term “Hal”, or also “halogen”, “halogen atom”, “halogen substituent”, herein denotes one or more atoms of fluorine (F), bromine (Br), chlorine (Cl) or iodine (I). The terms “dihalogen”, “trihalogen” and “perhalogen” relate to two, three or four substituents, where each substituent can be selected, independently of one another, from the group of F, Cl, Br or I. “Halogen” preferably means F, Cl or Br. F and Cl are particularly preferred, in particular if the halogens are substituents on an alkyl (haloalkyl) or alkoxy group (for example CF3 and CF3O).
 “CN” can stand both for cyano and also for isocyano, where the meaning cyano (-CN) is preferred.
 -POAA, -COOY, -CO-NYY, -COOY and -NY-COY are conventional notations for the following groups:
+<img> id-US20180072715A1-20180315-C00002.TIF </img>
 The index p preferably denotes 0, 1, 2 or 3, particularly preferably 0.
 The index t preferably denotes 1, 2, 3 or 4, particularly preferably 2.
 Examples of -(CY2)p-OY, -(CY2)p-OZ, -(CY2)p-O-Het2, -(CY2)p-O-(CY2)t-Het2, -(CY2)p-O-(CY2)t-NYY, -(CY2)p-O-(CY2)t-OY, -(CY2)p-O-(CY2)t-POAA, -(CY2)p-NYY, -(CY2)p-COOY, -(CY2)p-CO-NYY, -(CY2)p-NY-COY, -(CY2)p-O-(CY2)t-SO2-Y, -(CY2)p-NY-SO2-Y, and -(CY2)p-SO2-Y are thus: -OY, -OH, -O-A, -O-CH3, -O-CHF2, -O-CH2F, -O-CH2CH3, -(CH2)p-OY, -CH2-O-CH3, -CH2-O-CH2CH3, -O-CH═CH2, -CH2-O-CH═CH2, -O-CH2-CH═CH2, -CH2-O-CH2-CH═CH2, -O-Het2, -O-CH2-Het2, -O-CH2CH2-Het2, -O-CH2-NYY, -O-CH2CH2-NYY, -O-CH2-NH2, -O-CH2CH2-NH2, -O-CH2-NHCH3, -O-CH2CH2-NHCH3, -O-CH2-OY, -O-CH2CH2-OY, -O-CH2CH2CH2-OY, -O-CH2-OH, -O-CH2CH2-OH, -O-CH2CH2CH2-OH, -O-CH2-OA, -O-CH2CH2-OA, -O-CH2CH2CH2-OA, -O-CH2-OCH3, -O-CH2CH2-OCH3, -O-CH2CH2CH2-OCH3, -O-CH2-SO2-Y, -O-CH2-SO2-CH3, -NYY, -NH2, -NHA, -NAA, -NHCH3, -N(CH3)2, -CH2-NYY, -CH2-NH2, -CH2-NHA, -CH2-NAA, -CH2-NHCH3, -CH2-N(CH3)2, -COOY, -COOA, -CH2-COOY, -CH2-COOA, -CH2-COOCH3, -CO-NYY, -CO-NAA, -CO-NHA, -CO-NH-CH3, -CH2-CO-NYY, -CH2-CO-NAA, -(CH2)p-NY-COY, -(CH2)p-NY-COA.
 Correspondingly, the invention relates to the compounds of the formula (I) in which at least one of the said radicals has one of the meanings indicated above. Radicals not indicated in greater detail in the context of one of the formula (I), sub-formulae thereof or any residue thereon are intended to have the meaning indicated in the case of the formula (I), as disclosed herein, in order to achieve the object of the invention. This means that the said radicals can adopt all meanings ascribed to them as described above or below, including all preferred embodiments, without being restricted thereto and independently of their occurrence in another particular context. In particular, it goes without saying that each embodiment of a certain radical can be combined with each embodiment of one or more other radicals.
 In an illustrative embodiment:Het1 denotes mono- or bicyclic heteroaryl having 2, 3, 4, 5, 6, 7, 8 or 9 C atoms and 1, 2, 3 or 4 N, O and/or S atoms, which may be unsubstituted or mono-, di- or tri-substituted, independently of one another, by Hal, A, CN, -(CY2)p-OY, -(CY2)p-NYY, -(CY2)p-COOY, -(CY2)p-CO-NYY, -(CY2)p-NY-COY and/or -SO2-Het2, HET denotes a 5- or 6-membered aromatic heterocycle having 1, 2 or 3 N atoms and optionally an O atom or S atom, where this heterocycle is linked to the N atom of the skeleton via a ring C atom and where this heterocycle may be unsubstituted or substituted by one, two or three substituents, which are selected, independently of one another, from the group consisting of: Hal, A, Het2, CN, -(CY2)p-OY, -(CY2)p-O-(CY2)t-OY, -(CY2)p-O-(CY2)t-POAA, -(CY2)p-NYY, -(CY2)p-COOY, -(CY2)p-CO-NYY, -(CY2)p-NY-COY or -SO2-Het2; and may be part of a bicyclic 11- or 12-membered aromatic heterocycle, where this bicyclic aromatic heterocycle may overall be unsubstituted or substituted by one, two, three or more substituents, which are selected, independently of one another, from the group consisting of: Hal, A, Het2, -CN, -(CY2)p-OY, -(CY2)p-O-(CY2)t-OY, -(CY2)p-O-(CY2)t-POAA, -(CY2)p-NYY, -(CY2)p-COOY, -(CY2)p-CO-NYY, -(CY2)p-NY-COY or -SO2-Het2,Hal denotes F, Cl, Br or I,p denotes, independently of one another, 0, 1, 2, 3, 4, 5 or 6 andt denotes 1, 2, 3, 4, 5 or 6.
 Compounds of the formula (I) where R3=A can also be depicted as follows:
+<img> id-US20180072715A1-20180315-C00003.TIF </img>
 where it is to be understood that the groups A can have the same or different meaning.
 In preferred embodiments of the compounds of the formula (I) or (IA), R1 stands for unsubstituted or substituted C1-C3-alkyl, particularly preferably methyl. Correspondingly, the present invention provides preferred compounds of the following formulae (II):
+<img> id-US20180072715A1-20180315-C00004.TIF </img>
 and the alternatives where R3=H.
 In preferred embodiments of the compounds of the formulae (I) or (IA) and (II), R3 denotes H or, more preferably, unbranched or branched alkyl having 1, 2, or 3 C atoms, where 1, 2, 3, 4, or 5 H atoms may be replaced, independently of one another, by Hal. R3 particularly preferably denotes methyl. The present invention thus also provides compounds of the following formulae (III) and (IV):
+<img> id-US20180072715A1-20180315-C00005.TIF </img>
 In each of the formulae (I), (II), (III) and (IV), Het1 is preferably a monocyclic heteroaryl having 2, 3, or 4 C atoms and 1, 2, or 3 N atoms, which may be unsubstituted or substituted as given defined in compound having formula (I). Het1 (in each of the formulae shown) is furthermore particularly preferably selected from pyridinyl, pyrimidinyl, pyrazolyl, triazolyl and imidazolyl, which may be unsubstituted or substituted as defined above, where pyrazolyl and triazolyl, in particular 1,2,3-triazolyl, are particularly preferred.
 Het1 can be, for example, unsubstituted or substituted by one or two substituents, which are preferably selected, independently of one another, from: Hal, A, -(CY2)p-OY, -(CY2)p-NYY, and -Het2, particularly preferably alkyl, which may be unsubstituted or mono- or poly-substituted by halogen, in particular F; -OY, -NYY, halogen, and -Het2, particularly preferably methyl, ethyl, amino, methoxy, fluoromethyl, difluoromethyl, fluorine, azetidinyl, where methyl and ethyl are particularly preferred.
 Het1 (in each of the formulae shown) is particularly preferably selected from: 1 H-pyrazol-4-yl, 2H-pyrazol-3-yl, 1H-pyrazol-3-yl, 1-methyl-1H-pyrazol-4-yl, 3-methyl-1H-pyrazol-4-yl, 5-methyl-1H-pyrazol-3-yl, 4-methyl-1H-pyrazol-3-yl, 1-fluoromethyl-1H-pyrazol-4-yl, 1-difluoromethyl-1H-pyrazol-4-yl, 1,3-dimethyl-1H-pyrazol-4-yl, 1-ethyl-1H-pyrazol-4-yl, 1-ethyl-3-methyl-1H-pyrazolyl, 3-fluoro-1-methyl-1H-pyrazol-4-yl, 3-amino-1 H-pyrazol-5-yl, 2H-1,2,3-triazol-4-yl, 3H-1,2,3-triazol-4-yl-, 1-methyl-1H-1,2,3-triazol-4-yl, 2-methyl-2H-1,2,3-triazol-4-yl, 2-amino-1H-imidazol-4-yl, 6-methoxypyridin-3-yl, and 1-(azetidin-3-yl)-3-methyl-1H-pyrazol-4-yl. Het1 is very preferably pyrazolyl, which may be unsubstituted or substituted as defined above, and can be selected, for example, from 1H-pyrazol-4-yl, 2H-pyrazol-3-yl, 1H-pyrazol-3-yl, 1-methyl-1H-pyrazol-4-yl, 3-methyl-1H-pyrazol-4-yl, 5-methyl-1 H-pyrazol-3-yl, 4-methyl-1H-pyrazol-3-yl, 1-fluoromethyl-1H-pyrazol-4-yl, 1-diluormethyl-1 H-pyrazol-4-yl, 1,3-dimethyl-1H-pyrazol-4-yl, 1-ethyl-1H-pyrazol-4-yl, 1-ethyl-3-methyl-1H-pyrazolyl, 3-fluoro-1-methyl-1H-pyrazol-4-yl, 3-amino-1H-pyrazol-5-yl, where 1 H-pyrazol-4-yl, 2H-pyrazol-3-yl, 1H-pyrazol-3-yl, 1-methyl-1H-pyrazol-4-yl, 3-methyl-1H-pyrazol-4-yl, 5-methyl-1H-pyrazol-3-yl, 4-methyl-1H-pyrazol-3-yl, 1-fluoromethyl-1H-pyrazol-4-yl, 1,3-dimethyl-1H-pyrazol-4-yl, 1-ethyl-1H-pyrazol-4-yl and are particularly preferred. Alternatively, Het1 is preferably triazolyl, which may be unsubstituted or substituted as defined above, and can be selected, for example, from 2H-1,2,3-triazol-4-yl, 3H-1,2,3-triazol-4-yl-, 1-methyl-1H-1,2,3-triazol-4-yl, 2-methyl-2H-1,2,3-triazol-4-yl, particularly preferably 2-methyl-2H-1,2,3-triazol-4-yl.
@@ -69,150 +74,150 @@ Particularly preferred compounds
 <header>
 
 </header>
- & 1-(3,5-Difluoropyridin-2-yl)-7-methoxy-3-methyl-8-(1-methyl- 1H-pyrazol-4-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2-one
- & 1-(3,5-Difluoropyridin-4-yl)-7-methoxy-3-methyl-8-(1H- pyrazol-4-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2-one
- & 1-(1,3-Dimethyl-1H-pyrazol-4-yl)-7-methoxy-3-methyl-8-(1H- pyrazol-4-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2-one
- & 8-(1,3-Dimethyl-1H-pyrazol-4-yl)-1-(3-fluoro-5- methoxypyridin-4-yl)-7-methoxy-3-methyl-1,3-dihydro- imidazo[4,5-c]quinolin-2-one
- & 1-(1,3-Dimethyl-1H-pyrazol-4-yl)-7-methoxy-3-methyl-8-(1- methyl-1H-pyrazol-4-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2- one
- & 1-(3,5-Difluoropyridin-2-yl)-7-methoxy-3-methyl-8-(1H- pyrazol-4-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2-one
- & 1-(3-Fluoropyridin-2-yl)-7-methoxy-3-methyl-8-(1H-pyrazol-4- yl)-1,3-dihydroimidazo[4,5-c]quinolin-2-one
- & 1-(3-Fluoro-5-methylpyridin-4-yl)-7-methoxy-3-methyl-8-(1H- pyrazol-4-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2-one
- & 1-(3-Fluoropyridin-4-yl)-7-methoxy-3-methyl-8-(1H-pyrazol-4- yl)-1,3-dihydroimidazo[4,5-c]quinolin-2-one
- & 1,8-Bis(1,3-dimethyl-1H-pyrazol-4-yl)-7-methoxy-3-methyl- 1,3-dihydroimidazo[4,5-c]quinolin-2-one
- & 1-(3,5-Difluoropyridin-2-yl)-8-(1,3-dimethyl-1H-pyrazol-4-yl)- 7-methoxy-3-methyl-1,3-dihydroimidazo[4,5-c]quinolin-2-one
- & 1-(3-Ethyl-5-fluoropyridin-4-yl)-7-methoxy-3-methyl-8-(1- methyl-1H-pyrazol-4-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2- one
- & 8-(1-Ethyl-1H-pyrazol-4-yl)-1-(3-fluoro-5-methoxypyridin-4- yl)-7-methoxy-3-methyl-1,3-dihydroimidazo[4,5-c]quinolin-2- one
- & 1-(3-Fluoropyridin-2-yl)-7-methoxy-3-methyl-8-(1-methyl-1H- pyrazol-4-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2-one
- & 1-(3-Fluoro-5-methoxypyridin-4-yl)-7-methoxy-3-methyl-8-(1- methyl-1H-pyrazol-4-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2- one
- & 8-(1,3-Dimethyl-1H-pyrazol-4-yl)-1-(3-fluoropyridin-2-yl)-7- methoxy-3-methyl-1,3-dihydroimidazo[4,5-c]quinolin-2-one
- & 7-Methoxy-3-methyl-1-(1-methyl-1H-pyrazol-4-yl)-8-(1H- pyrazol-4-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2-one
- & 1-(3-Fluoro-5-methylpyridin-4-yl)-7-methoxy-3-methyl-8-(1- methyl-1H-pyrazol-4-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2- one
- & 7-Methoxy-3-methyl-1-(3-methylpyridin-4-yl)-8-(1H-pyrazol- 4-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2-one
- & 1-(3-Fluoro-5-methylpyridin-2-yl)-7-methoxy-3-methyl-8-(1H- pyrazol-4-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2-one
- & 1-(1,3-Dimethyl-1H-pyrazol-4-yl)-8-(1-ethyl-1H-pyrazol-4-yl)- 7-methoxy-3-methyl-1,3-dihydroimidazo[4,5-c]quinolin-2-one
- & 1-(3,5-Difluoropyridin-4-yl)-7-methoxy-3-methyl-8-(1-methyl- 1H-pyrazol-4-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2-one
- & 7-Methoxy-3-methyl-1,8-bis(1-methyl-1H-pyrazol-4-yl)-1,3- dihydroimidazo[4,5-c]quinolin-2-one
- & 8-(1-Ethyl-1H-pyrazol-4-yl)-1-(3-fluoropyridin-2-yl)-7- methoxy-3-methyl-1,3-dihydroimidazo[4,5-c]quinolin-2-one
- & 1-(3-Ethyl-5-fluoropyridin-4-yl)-8-(1-ethyl-1H-pyrazol-4-yl)-7- methoxy-3-methyl-1,3-dihydroimidazo[4,5-c]quinolin-2-one
- & 1-(3,5-Difluoropyridin-4-yl)-8-(1-ethyl-1H-pyrazol-4-yl)-7- methoxy-3-methyl-1,3-dihydroimidazo[4,5-c]quinolin-2-one
- & 1-(3-Fluoro-5-methylpyridin-2-yl)-7-methoxy-3-methyl-8-(1- methyl-1H-pyrazol-4-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2- one
- & 7-Methoxy-1-(3-methoxypyridin-4-yl)-3-methyl-8-(1-methyl- 1H-pyrazol-4-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2-one
- & 1-(3-Fluoropyridin-2-yl)-7-methoxy-3-methyl-8-(5-methyl-1H- pyrazol-3-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2-one
- & 7-Methoxy-3-methyl-1-(2-methylthiazol-4-yl)-8-(1H-pyrazol- 4-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2-one
- & 1-(5-Fluoropyrimidin-4-yl)-7-methoxy-3-methyl-8-(1-methyl- 1H-pyrazol-4-yl)-1H,2H,3H-imidazo[4,5-c]quinolin-2-one hydrochloride
- & 7-Methoxy-1-(3-methoxypyridin-4-yl)-3-methyl-8-(1H- pyrazol-4-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2-one
- & 8-(1-Ethyl-1H-pyrazol-4-yl)-1-(3-fluoropyridin-4-yl)-7- methoxy-3-methyl-1,3-dihydroimidazo[4,5-c]quinolin-2-one
- & 8-(1-Ethyl-1H-pyrazol-4-yl)-7-methoxy-3-methyl-1-(3- methylpyridin-4-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2-one
- & 1-(3-Fluoropyridin-4-yl)-7-methoxy-3-methyl-8-(1-methyl-1H- pyrazol-4-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2-one
- & 1-(5-Fluoropyrimidin-2-yl)-7-methoxy-3-methyl-8-(1-methyl- 1H-pyrazol-4-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2-one
- & 7-Methoxy-3-methyl-8-(1H-pyrazol-4-yl)-1-[1- (tetrahydropyran-4-yl)-1H-pyrazol-4-yl]-1,3-dihydroimidazo- [4,5-c]quinolin-2-one
- & 8-(1-Ethyl-1H-pyrazol-4-yl)-1-(3-fluoro-5-methylpyridin-4-yl)- 7-methoxy-3-methyl-1,3-dihydroimidazo[4,5-c]quinolin-2-one
- & 8-(1,3-Dimethyl-1H-pyrazol-4-yl)-1-(3-fluoro-5-methylpyridin- 4-yl)-7-methoxy-3-methyl-1,3-dihydroimidazo[4,5-c]quinolin- 2-one
- & 7-Methoxy-3-methyl-8-(1-methyl-1H-pyrazol-4-yl)-1-(3- methylpyridin-4-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2-one
- & 7-Methoxy-3-methyl-1-(2-methyl-2H-pyrazol-3-yl)-8-(1H- pyrazol-4-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2-one
- & 1-(1,3-Dimethyl-1H-pyrazol-4-yl)-7-methoxy-3-methyl-8-(1- methyl-1H-1,2,3-triazol-4-yl)-1,3-dihydroimidazo[4,5-c]- quinolin-2-one
- & 7-Methoxy-3-methyl-1-(3-methyl-1H-pyrazol-4-yl)-8-(1- methyl-1H-pyrazol-4-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2- one
- & 5-Fluoro-4-[7-Methoxy-3-methyl-8-(1-methyl-1H-pyrazol-4- yl)-2-oxo-2,3-dihydroimidazo[4,5-c]quinolin-1-yl]nicotinonitrile
- & 4-[7-Methoxy-3-methyl-8-(1-methyl-1H-pyrazol-4-yl)-2-oxo- 2,3-dihydroimidazo[4,5-c]quinolin-1-yl]pyridine-2-carbonitrile
- & 4-[7-Methoxy-3-methyl-8-(1-methyl-1H-pyrazol-4-yl)-2-oxo- 2,3-dihydroimidazo[4,5-c]quinolin-1-yl]nicotinonitrile
- & 7-Methoxy-3-methyl-8-(1-methyl-1H-pyrazol-4-yl)-1-thiazol- 2-yl-1,3-dihydroimidazo[4,5-c]quinolin-2-one
- & 6-[7-Methoxy-3-methyl-8-(1-methyl-1H-pyrazol-4-yl)-2-oxo- 2,3-dihydroimidazo[4,5-c]quinolin-1-yl]nicotinonitrile
- & 7-Methoxy-3-methyl-1-(2-methyl-2H-pyrazol-3-yl)-8-(1- methyl-1H-pyrazol-4-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2- one
- & 1-(5-Fluoropyridin-2-yl)-7-methoxy-3-methyl-8-(1-methyl-1H- pyrazol-4-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2-one
- & 1-(3-Fluoropyridin-2-yl)-7-methoxy-3-methyl-8-(1-methyl-1H- 1,2,3-triazol-4-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2-one
- & 7-Methoxy-3-methyl-8-(1-methyl-1H-pyrazol-4-yl)-1- pyrimidin-2-yl-1,3-dihydroimidazo[4,5-c]quinolin-2-one
- & 7-Methoxy-3-methyl-8-(1-methyl-1H-pyrazol-4-yl)-1-(1H- pyrazol-4-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2-one
- & 1-(3-Ethyl-5-methylpyridin-4-yl)-7-methoxy-3-methyl-8-(1- methyl-1H-pyrazol-4-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2- one
- & 7-Methoxy-3-methyl-8-(1-methyl-1H-pyrazol-4-yl)-1-[1- (tetrahydropyran-4-yl)-1H-pyrazol-4-yl]-1,3-dihydroimidazo- [4,5-c]quinolin-2-one
- & 7-Methoxy-3-methyl-8-(1-methyl-1H-pyrazol-4-yl)-1-pyridin- 2-yl-1,3-dihydroimidazo[4,5-c]quinolin-2-one
- & 7-Methoxy-3-methyl-8-(1-methyl-1H-pyraozl-4-yl)-1- pyrimidin-5-yl-1,3-dihydroimidazo[4,5-c]quinolin-2-one
- & 7-Methoxy-3-methyl-8-(1-methyl-1H-pyrazol-4-yl)-1-pyridin- 4-yl-1,3-dihydroimidazo[4,5-c]quinolin-2-one
- & 7-Methoxy-3-methyl-1-(1-methyl-1H-imidazol-4-yl)-8-(1- methyl-1H-pyrazol-4-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2- one
- & 1-(3-Chloropyridin-4-yl)-7-methoxy-3-methyl-8-(1-methyl-1H- pyrazol-4-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2-one
- & 1-(3-Ethyl-5-methylpyridin-4-yl)-8-(1-ethyl-1H-pyrazol-4-yl)-7- methoxy-3-methyl-1,3-dihydroimidazo[4,5-c]quinolin-2-one
- & 8-(1-Ethyl-1H-pyrazol-4-yl)-7-methoxy-3-methyl-1-pyridin-4- yl-1,3-dihydroimidazo[4,5-c]quinolin-2-one
- & 1-(3-Fluoro-5-methylpyridin-4-yl)-7-methoxy-3-methyl-8-(1- methyl-1H-1,2,3-triazol-4-yl)-1,3-dihydroimidazo[4,5-c]- quinolin-2-one
- & 1-(3-Fluoropyridin-4-yl)-7-methoxy-3-methyl-8-(1-methyl-1H- 1,2,3-triazol-4-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2-one
- & 8-(3-Amino-1H-pyrazol-5-yl)-1-(3-fluoro-2-pyridyl)-7- methoxy-3-methylimidazo[4,5-c]quinolin-2-one
- & 1-[3-Fluoro-5-(2-methoxyethoxy)-2-pyridyl]-7-methoxy-3- methyl-8-(1-methylpyrazol-4-yl)imidazo[4,5-c]quinolin-2-one
- & 1-[3-Fluoro-5-(2-hydroxyethoxy)-2-pyridyl]-7-methoxy-3- methyl-8-(1-methylpyrazol-4-yl)imidazo[4,5-c]quinolin-2-one
- & 7-Methoxy-3-methyl-8-(1-methyl-1H-pyrazol-4-yl)-1-quinolin- 2-yl-1,3-dihydroimidazo[4,5-c]quinolin-2-one
- & 7-Methoxy-3-methyl-8-(1-methyl-1H-pyrazol-4-yl)-1-(1H- pyrrolo[2,3-b]pyridin-6-yl)1,3-dihydroimidazo[4,5-c]quinolin- 2-one
- & 1-(3,5-Difluoropyridin-2-yl)-7-methoxy-3-methyl-8-(2-methyl- 2H-1,2,3-triazol-4-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2- one
- & 1-(1,3-Dimethyl-1H-pyrazol-4-yl)-7-methoxy-3-methyl-8-(2- methyl-2H-1,2,3-triazol-4-yl)-1,3-dihydroimidazo[4,5-c]- quinolin-2-one
- & 1-(3-Fluoro-5-methylpyridin-4-yl)-7-methoxy-3-methyl-8-(2- methyl-2H-1,2,3-triazol-4-yl)-1,3-dihydroimidazo[4,5-c] quinolin-2-one
- & 8-(1-Ethyl-1H-pyrazol-4-yl)-7-methoxy-1-(3-methoxypyridin- 4-yl)-3-methyl-1,3-dihydroimidazo[4,5-c]quinolin-2-one
- & 1-(3-Fluoro-5-methoxypyridin-2-yl)-7-methoxy-3-methyl-8-(1- methyl-1H-pyrazol-4-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2- one
- & 8-(1,3-Dimethyl-1H-pyrazol-4-yl)-1-(3-fluoro-5-methoxy- pyridin-2-yl)-7-methoxy-3-methyl-1,3-dihydroimidazo[4,5-c]- quinolin-2-one
- & 1-(3,5-Difluoropyridin-2-yl)-7-methoxy-8-(1-methyl-1H- pyrazol-4-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2-one
- & 1-(3,5-Difluoropyridin-2-yl)-8-(1,3-dimethyl-1H-pyrazol-4-yl)- 7-methoxy-1,3-dihydroimidazo[4,5-c]quinolin-2-one
- & 1-(3-Fluoro-5-methoxypyridin-2-yl)-7-methoxy-3-methyl-8- (2H-pyrazol-3-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2-one
- & 1-(3-Fluoro-5-fluoromethoxypyridin-2-yl)-7-methoxy-3- methyl-8-(1-methyl-1H-pyrazol-4-yl)-1,3-dihydroimidazo- [4,5-c]quinolin-2-one
- & 8-(1-Ethyl-1H-pyrazol-4-yl)-1-(3-fluoro-5-methoxypyridin-2- yl)-7-methoxy-3-methyl-1,3-dihydroimidazo[4,5-c]quinolin-2- one
- & 1-(3-Ethyl-5-fluoropyridin-4-yl)-7-methoxy-3-methyl-8-(2- methyl-2H-1,2,3-triazol-4-yl)-1,3-dihydroimidazo[4,5-c] quinolin-2-one
- & 1-(5-Ethoxy-3-fluoropyridin-2-yl)-7-methoxy-3-methyl-8-(1- methyl-1H-pyrazol-4-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2- one
- & 1-(5-Difluoromethoxy-3-fluoropyridin-2-yl)-7-methoxy-3- methyl-8-(1-methyl-1H-pyrazol-4-yl)-1,3-dihydroimidazo- [4,5-c]quinolin-2-one
- & 1-(3-Fluoro-5-methoxypyridin-2-yl)-7-methoxy-8-(1-methyl- 1H-pyrazol-4-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2-one
- & 1-(3-Fluoro-5-methoxypyridin-4-yl)-7-methoxy-8-(1-methyl- 1H-pyrazol-4-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2-one
- & 1-(3,5-Difluoropyridin-2-yl)-7-methoxy-3-methyl-8-(3-methyl- 1H-pyrazol-4-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2-one
- & 1-(3,5-Dimethyl-1H-pyrazol-4-yl)-7-methoxy-3-methyl-8-(1- methyl-1H-pyrazol-4-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2- one
- & 1-(5-Chloro-3-fluoropyridin-2-yl)-7-methoxy-3-methyl-8-(1- methyl-1H-pyrazol-4-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2- one
- & 7-Methoxy-3-methyl-8-(1-methyl-1H-pyrazol-4-yl)-1-(1H- pyrrolo[3,2-c]pyridin-6-yl)-1,3-dihydroimidazo[4,5-c]quinolin- 2-one
- & 1-(1,3-Dimethyl-1H-pyrazol-4-yl)-7-methoxy-3-methyl-8-(1H- pyrazol-3-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2-one
- & 1-(3-Fluoro-5-methoxypyridin-2-yl)-7-methoxy-3-methyl-8-(3- methyl-1H-pyrazol-4-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2- one
- & 1-(3-Fluoro-5-piperazin-1-yl-pyridin-2-yl)-7-methoxy-3- methyl-8-(1-methyl-1H-pyrazol-4-yl)-1,3-dihydroimidazo- [4,5-c]quinolin-2-one
- & 1-(3-Fluoro-5-methoxypyridin-4-yl)-7-methoxy-3-methyl-8- (2H-pyrazol-3-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2-one
- & 1-(3-Ethyl-5-fluoropyridin-4-yl)-7-methoxy-3-methyl-8-(2H- 1,2,3-triazol-4-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2-one
- & 1-(3-Ethyl-5-fluoropyridin-4-yl)-7-methoxy-3-methyl-8-(1- methyl-1H-1,2,3-triazol-4-yl)-1,3-dihydroimidazo[4,5-c] quinolin-2-one
- & 1-(3-Fluoro-5-methoxypyridin-4-yl)-7-methoxy-3-methyl-8-(2- methyl-2H-1,2,3-triazol-4-yl)-1,3-dihydroimidazo[4,5-c] quinolin-2-one
- & 1-(3-Fluoro-5-methoxypyridin-2-yl)-7-methoxy-3-methyl-8- (3H-1,2,3-triazol-4-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2- one
- & 8-(1,3-Dimethyl-1H-pyrazol-4-yl)-1-(3-fluoro-5-methoxy- pyridin-4-yl)-7-methoxy-1,3-dihydroimidazo[4,5-c]quinolin-2- one
- & 1-(1-Ethyl-3-methyl-1H-pyrazol-4-yl)-7-methoxy-3-methyl-8- (1-methyl-1H-pyrazol-4-yl)-1,3-dihydroimidazo[4,5-c]quinolin- 2-one
- & 1-(3-Fluoro-5-methoxypyridin-4-yl)-7-methoxy-3-methyl-8-(1- methyl-1H-1,2,3-triazol-4-yl)-1,3-dihydroimidazo[4,5-c]- quinolin-2-one
- & 1-(1,3-Dimethyl-1H-pyrazol-4-yl)-7-methoxy-3-methyl-8-(2- methyl-3H-benzoimidazol-5-yl)-1,3-dihydroimidazo[4,5-c]- quinolin-2-one
- & 1-(3-Fluoro-5-methoxypyridin-2-yl)-7-methoxy-3-methyl-8-(1- methyl-1H-1,2,3-triazol-4-yl)-1,3-dihydroimidazo[4,5-c] quinolin-2-one
- & 1-(3-Fluoro-5-methoxypyridin-4-yl)-7-methoxy-3-methyl-8- (3H-1,2,3-triazol-4-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2- one
- & 8-(1,3-Dimethyl-1H-pyrazol-4-yl)-1-(1-ethyl-3-methyl-1H- pyrazol-4-yl)-7-methoxy-3-methyl-1,3-dihydroimidazo[4,5-c]- quinolin-2-one
- & 1-(3-Fluoro-5-methoxypyridin-4-yl)-7-methoxy-3-methyl-8-(2- methyl-3H-benzoimidazol-5-yl)-1,3-dihydroimidazo[4,5-c]- quinolin-2-one
- & 1-(3-Fluoro-5-methoxypyridin-4-yl)-7-methoxy-8-(6-methoxy- pyridin-3-yl)-3-methyl-1,3-dihydroimidazo[4,5-c]quinolin-2- one
- & 5-Fluoro-6-[7-methoxy-3-methyl-8-(1-methyl-1H-pyrazol-4- yl)-2-oxo-2,3-dihydroimidazo[4,5-c]quinolin-1-yl]-N-methyl- nicotinamide
- & 6-[8-(1,3-Dimethyl-1H-pyrazol-4-yl)-7-methoxy-3-methyl-2- oxo-2,3-dihydroimidazo[4,5-c]quinolin-1-yl]-5-fluoro-N- methylnicotinamide
- & 1-(3-Fluoro-5-methoxypyridin-4-yl)-8-(1-fluoromethyl-1H- pyrazol-4-yl)-7-methoxy-3-methyl-1,3-dihydroimidazo[4,5-c]- quinolin-2-one
- & 1-(3-Fluoro-1-methyl-1H-pyrazol-4-yl)-7-methoxy-3-methyl-8- (1-methyl-1H-pyrazol-4-yl)-1,3-dihydroimidazo[4,5-c]quinolin- 2-one
- & 8-(1-Ethyl-3-methyl-1H-pyrazol-4-yl)-1-(3-fluoro-5-methoxy- pyridin-4-yl)-7-methoxy-3-methyl-1,3-dihydroimidazo[4,5-c] quinolin-2-one
- & 8-(1-Difluoromethyl-1H-pyrazol-4-yl)-1-(3-fluoro-5-methoxy- pyridin-4-yl)-7-methoxy-3-methyl-1,3-dihydroimidazo[4,5-c] quinolin-2-one
- & 1-(3-Fluoro-5-methoxypyridin-2-yl)-7-methoxy-3-methyl-8-(2- methyl-3H-benzoimidazol-5-yl)-1,3-dihydroimidazo[4,5-c]- quinolin-2-one
- & 1-[3-Fluoro-5-(trideuteriomethoxy)-4-pyridyl]-7-methoxy-3- methyl-8-(1-methylpyrazol-4-yl)imidazo[4,5-c]quinolin-2-one
- & 1-(3-Difluoromethoxy-5-fluoropyridin-4-yl)-7-methoxy-3- methyl-8-(1-methyl-1H-pyrazol-4-yl)-1,3-dihydroimidazo- [4,5-c]quinolin-2-one
- & 1-(3-Difluoromethoxy-5-fluoropyridin-4-yl)-8-(1,3-dimethyl- 1H-pyrazol-4-yl)-7-methoxy-3-methyl-1,3-dihydroimidazo- [4,5-c]quinolin-2-one
- & 1-(3-Fluoro-5-fluoromethoxypyridin-4-yl)-7-methoxy-3- methyl-8-(1-methyl-1H-pyrazol-4-yl)-1,3-dihydroimidazo- [4,5-c]quinolin-2-one
- & 8-(1,3-Dimethyl-1H-pyrazol-4-yl)-1-(3-fluoro-5-fluoro- methoxypyridin-4-yl)-7-methoxy-3-methyl-1,3-dihydro- imidazo[4,5-c]quinolin-2-one
- & 8-(1,3-Dimethylpyrazol-4-yl)-1-[3-fluoro-5-(trideuterio- methoxy)-4-pyridyl]-7-methoxy-3-methylimidazo[4,5-c]- quinolin-2-one
- & 1-(1,3-Dimethyl-1H-pyrazol-4-yl)-7-methoxy-3-methyl-8-(4- methyl-1H-pyrazol-3-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2- one
- & 1-(3-Fluoro-5-methoxypyridin-4-yl)-7-methoxy-3-methyl-8-(2- methyl-1H-imidazo[4,5-b]pyridin-6-yl)-1,3-dihydroimidazo- [4,5-c]quinolin-2-one
- & 8-(3H-Benzimidazol-5-yl)-1-(3-fluoro-5-methoxypyridin-2-yl)- 7-methoxy-3-methyl-1,3-dihydroimidazo[4,5-c]quinolin-2-one
- & 1-(1,3-Dimethyl-1H-pyrazol-4-yl)-7-methoxy-3-methyl-8-(2- methyl-1H-imidazo[4,5-b]pyridin-6-yl)-1,3-dihydroimidazo- [4,5-c]quinolin-2-one
- & 1-[3-Fluoro-5-(trideuteriomethoxy)-2-pyridyl]-7-methoxy-3- methyl-8-(1-methylpyrazol-4-yl)imidazo[4,5-c]quinolin-2-one
- & 1-(3-Ethylpyridin-4-yl)-7-methoxy-3-methyl-8-(1-methyl-1H- pyrazol-4-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2-one
- & 8-(1-Ethyl-1H-pyrazol-4-yl)-1-(3-ethylpyridin-4-yl)-7-methoxy- 3-methyl-1,3-dihydroimidazo[4,5-c]quinolin-2-one
- & 1-(3-Fluoropyridin-2-yl)-7-methoxy-3-methyl-8-(2-methyl-2H- 1,2,3-triazol-4-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2-one
- & 1-(3-Fluoro-1-methyl-1H-pyrazol-4-yl)-7-methoxy-8-(6- methoxypyridin-3-yl)-3-methyl-1,3-dihydroimidazo[4,5-c]- quinolin-2-one
- & 1-(3-Cyclopropylpyridin-4-yl)-7-methoxy-3-methyl-8-(1- methyl-1H-pyrazol-4-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2- one
- & 1-(3-Fluoro-5-methylsulfonylmethoxypyridin-2-yl)-7-methoxy- 3-methyl-8-(1-methyl-1H-pyrazol-4-yl)-1,3-dihydroimidazo- [4,5-c]quinolin-2-one
- & 1-(3-Cyclopropyl-5-fluoropyridin-4-yl)-7-methoxy-3-methyl-8- (1-methyl-1H-pyrazol-4-yl)-1,3-dihydroimidazo[4,5-c]quinolin- 2-one
- & 8-(1,3-Dimethyl-1H-pyrazol-4-yl)-1-(3-fluoro-5-methyl- sulfonylmethoxypyridin-2-yl)-7-methoxy-3-methyl-1,3- dihydroimidazo[4,5-c]quinolin-2-one
- & 1-(5-Allyloxy-3-fluoropyridin-2-yl)-7-methoxy-3-methyl-8-(1- methyl-1H-pyrazol-4-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2- one
- & 1-[5-(Azetidin-3-yloxy)-3-fluoropyridin-2-yl]-7-methoxy-3- methyl-8-(1-methyl-1H-pyrazol-4-yl)-1,3-dihydroimidazo- [4,5-c]quinolin-2-one
- & 1-[3-Fluoro-5-(2-methylaminoethoxy)-pyridin-2-yl]-7- methoxy-3-methyl-8-(1-methyl-1H-pyrazol-4-yl)-1,3-dihydro- imidazo[4,5-c]quinolin-2-one
- & 1-[3-Fluoro-5-(1-methylazetidin-3-ylmethoxy)pyridin-2-yl]-7- methoxy-3-methyl-8-(1-methyl-1H-pyrazol-4-yl)-1,3-dihydro- imidazo[4,5-c]quinolin-2-one
- & 8-[1-(Azetidin-3-yl)-1H-pyrazol-4-yl]-1-(3-fluoro-5-methoxy- pyridin-4-yl)-7-methoxy-3-methyl-1H,2H,3H-imidazo[4,5-c]- quinolin-2-one
- & 1-(3-Fluoro-5-methoxypyridin-4-yl)-7-methoxy-3-methyl-8-(3- fluoro-1-methyl-1H-pyrazol-4-yl)-1,3-dihydroimidazo[4,5-c]- quinolin-2-one
- & 1-(1,3-Dimethyl-1H-pyrazol-4-yl)-7-methoxy-3-methyl-8-(3- fluoro-1-methyl-1H-pyrazol-4-yl)-1,3-dihydroimidazo[4,5-c]- quinolin-2-one
- & 1-(5-Fluoro-1H-pyrrolo[2,3-b]pyridin-6-yl)-7-methoxy-3- methyl-8-(1-methyl-1H-pyrazol-4-yl)-1,3-dihydroimidazo- [4,5-c]quinolin-2-one
- & 1-[3-Fluoro-5-(trifluoromethoxy)-4-pyridyl]-7-methoxy-3- methyl-8-(1-methyl-1H-pyrazol-4-yl)-1,3-dihydroimidazo- [4,5-c]quinolin-2-one
- & 1-[3-Fluoro-5-(trifluoromethoxy)-4-pyridyl]-7-methoxy-3- methyl-8-(1,3-dimethylpyrazol-4-yl)-1,3-dihydroimidazo- [4,5-c]quinolin-2-one
- & 1-(3-Fluoro-5-methylsulfonylpyridin-2-yl)-7-methoxy-3- methyl-8-(1-methyl-1H-pyrazol-4-yl)-1H,2H,3H-imidazo- [4,5-c]quinolin-2-one
- & 8-[1-(Azetidin-3-yl)-3-methyl-1H-pyrazol-4-yl]-1-(3-fluoro-5- methoxypyridin-4-yl)-7-methoxy-3-methyl-1H,2H,3H- imidazo[4,5-c]quinolin-2-one
+<img> id-US20180072715A1-20180315-C00006.TIF </img> & 1-(3,5-Difluoropyridin-2-yl)-7-methoxy-3-methyl-8-(1-methyl- 1H-pyrazol-4-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2-one
+<img> id-US20180072715A1-20180315-C00007.TIF </img> & 1-(3,5-Difluoropyridin-4-yl)-7-methoxy-3-methyl-8-(1H- pyrazol-4-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2-one
+<img> id-US20180072715A1-20180315-C00008.TIF </img> & 1-(1,3-Dimethyl-1H-pyrazol-4-yl)-7-methoxy-3-methyl-8-(1H- pyrazol-4-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2-one
+<img> id-US20180072715A1-20180315-C00009.TIF </img> & 8-(1,3-Dimethyl-1H-pyrazol-4-yl)-1-(3-fluoro-5- methoxypyridin-4-yl)-7-methoxy-3-methyl-1,3-dihydro- imidazo[4,5-c]quinolin-2-one
+<img> id-US20180072715A1-20180315-C00010.TIF </img> & 1-(1,3-Dimethyl-1H-pyrazol-4-yl)-7-methoxy-3-methyl-8-(1- methyl-1H-pyrazol-4-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2- one
+<img> id-US20180072715A1-20180315-C00011.TIF </img> & 1-(3,5-Difluoropyridin-2-yl)-7-methoxy-3-methyl-8-(1H- pyrazol-4-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2-one
+<img> id-US20180072715A1-20180315-C00012.TIF </img> & 1-(3-Fluoropyridin-2-yl)-7-methoxy-3-methyl-8-(1H-pyrazol-4- yl)-1,3-dihydroimidazo[4,5-c]quinolin-2-one
+<img> id-US20180072715A1-20180315-C00013.TIF </img> & 1-(3-Fluoro-5-methylpyridin-4-yl)-7-methoxy-3-methyl-8-(1H- pyrazol-4-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2-one
+<img> id-US20180072715A1-20180315-C00014.TIF </img> & 1-(3-Fluoropyridin-4-yl)-7-methoxy-3-methyl-8-(1H-pyrazol-4- yl)-1,3-dihydroimidazo[4,5-c]quinolin-2-one
+<img> id-US20180072715A1-20180315-C00015.TIF </img> & 1,8-Bis(1,3-dimethyl-1H-pyrazol-4-yl)-7-methoxy-3-methyl- 1,3-dihydroimidazo[4,5-c]quinolin-2-one
+<img> id-US20180072715A1-20180315-C00016.TIF </img> & 1-(3,5-Difluoropyridin-2-yl)-8-(1,3-dimethyl-1H-pyrazol-4-yl)- 7-methoxy-3-methyl-1,3-dihydroimidazo[4,5-c]quinolin-2-one
+<img> id-US20180072715A1-20180315-C00017.TIF </img> & 1-(3-Ethyl-5-fluoropyridin-4-yl)-7-methoxy-3-methyl-8-(1- methyl-1H-pyrazol-4-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2- one
+<img> id-US20180072715A1-20180315-C00018.TIF </img> & 8-(1-Ethyl-1H-pyrazol-4-yl)-1-(3-fluoro-5-methoxypyridin-4- yl)-7-methoxy-3-methyl-1,3-dihydroimidazo[4,5-c]quinolin-2- one
+<img> id-US20180072715A1-20180315-C00019.TIF </img> & 1-(3-Fluoropyridin-2-yl)-7-methoxy-3-methyl-8-(1-methyl-1H- pyrazol-4-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2-one
+<img> id-US20180072715A1-20180315-C00020.TIF </img> & 1-(3-Fluoro-5-methoxypyridin-4-yl)-7-methoxy-3-methyl-8-(1- methyl-1H-pyrazol-4-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2- one
+<img> id-US20180072715A1-20180315-C00021.TIF </img> & 8-(1,3-Dimethyl-1H-pyrazol-4-yl)-1-(3-fluoropyridin-2-yl)-7- methoxy-3-methyl-1,3-dihydroimidazo[4,5-c]quinolin-2-one
+<img> id-US20180072715A1-20180315-C00022.TIF </img> & 7-Methoxy-3-methyl-1-(1-methyl-1H-pyrazol-4-yl)-8-(1H- pyrazol-4-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2-one
+<img> id-US20180072715A1-20180315-C00023.TIF </img> & 1-(3-Fluoro-5-methylpyridin-4-yl)-7-methoxy-3-methyl-8-(1- methyl-1H-pyrazol-4-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2- one
+<img> id-US20180072715A1-20180315-C00024.TIF </img> & 7-Methoxy-3-methyl-1-(3-methylpyridin-4-yl)-8-(1H-pyrazol- 4-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2-one
+<img> id-US20180072715A1-20180315-C00025.TIF </img> & 1-(3-Fluoro-5-methylpyridin-2-yl)-7-methoxy-3-methyl-8-(1H- pyrazol-4-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2-one
+<img> id-US20180072715A1-20180315-C00026.TIF </img> & 1-(1,3-Dimethyl-1H-pyrazol-4-yl)-8-(1-ethyl-1H-pyrazol-4-yl)- 7-methoxy-3-methyl-1,3-dihydroimidazo[4,5-c]quinolin-2-one
+<img> id-US20180072715A1-20180315-C00027.TIF </img> & 1-(3,5-Difluoropyridin-4-yl)-7-methoxy-3-methyl-8-(1-methyl- 1H-pyrazol-4-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2-one
+<img> id-US20180072715A1-20180315-C00028.TIF </img> & 7-Methoxy-3-methyl-1,8-bis(1-methyl-1H-pyrazol-4-yl)-1,3- dihydroimidazo[4,5-c]quinolin-2-one
+<img> id-US20180072715A1-20180315-C00029.TIF </img> & 8-(1-Ethyl-1H-pyrazol-4-yl)-1-(3-fluoropyridin-2-yl)-7- methoxy-3-methyl-1,3-dihydroimidazo[4,5-c]quinolin-2-one
+<img> id-US20180072715A1-20180315-C00030.TIF </img> & 1-(3-Ethyl-5-fluoropyridin-4-yl)-8-(1-ethyl-1H-pyrazol-4-yl)-7- methoxy-3-methyl-1,3-dihydroimidazo[4,5-c]quinolin-2-one
+<img> id-US20180072715A1-20180315-C00031.TIF </img> & 1-(3,5-Difluoropyridin-4-yl)-8-(1-ethyl-1H-pyrazol-4-yl)-7- methoxy-3-methyl-1,3-dihydroimidazo[4,5-c]quinolin-2-one
+<img> id-US20180072715A1-20180315-C00032.TIF </img> & 1-(3-Fluoro-5-methylpyridin-2-yl)-7-methoxy-3-methyl-8-(1- methyl-1H-pyrazol-4-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2- one
+<img> id-US20180072715A1-20180315-C00033.TIF </img> & 7-Methoxy-1-(3-methoxypyridin-4-yl)-3-methyl-8-(1-methyl- 1H-pyrazol-4-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2-one
+<img> id-US20180072715A1-20180315-C00034.TIF </img> & 1-(3-Fluoropyridin-2-yl)-7-methoxy-3-methyl-8-(5-methyl-1H- pyrazol-3-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2-one
+<img> id-US20180072715A1-20180315-C00035.TIF </img> & 7-Methoxy-3-methyl-1-(2-methylthiazol-4-yl)-8-(1H-pyrazol- 4-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2-one
+<img> id-US20180072715A1-20180315-C00036.TIF </img> & 1-(5-Fluoropyrimidin-4-yl)-7-methoxy-3-methyl-8-(1-methyl- 1H-pyrazol-4-yl)-1H,2H,3H-imidazo[4,5-c]quinolin-2-one hydrochloride
+<img> id-US20180072715A1-20180315-C00037.TIF </img> & 7-Methoxy-1-(3-methoxypyridin-4-yl)-3-methyl-8-(1H- pyrazol-4-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2-one
+<img> id-US20180072715A1-20180315-C00038.TIF </img> & 8-(1-Ethyl-1H-pyrazol-4-yl)-1-(3-fluoropyridin-4-yl)-7- methoxy-3-methyl-1,3-dihydroimidazo[4,5-c]quinolin-2-one
+<img> id-US20180072715A1-20180315-C00039.TIF </img> & 8-(1-Ethyl-1H-pyrazol-4-yl)-7-methoxy-3-methyl-1-(3- methylpyridin-4-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2-one
+<img> id-US20180072715A1-20180315-C00040.TIF </img> & 1-(3-Fluoropyridin-4-yl)-7-methoxy-3-methyl-8-(1-methyl-1H- pyrazol-4-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2-one
+<img> id-US20180072715A1-20180315-C00041.TIF </img> & 1-(5-Fluoropyrimidin-2-yl)-7-methoxy-3-methyl-8-(1-methyl- 1H-pyrazol-4-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2-one
+<img> id-US20180072715A1-20180315-C00042.TIF </img> & 7-Methoxy-3-methyl-8-(1H-pyrazol-4-yl)-1-[1- (tetrahydropyran-4-yl)-1H-pyrazol-4-yl]-1,3-dihydroimidazo- [4,5-c]quinolin-2-one
+<img> id-US20180072715A1-20180315-C00043.TIF </img> & 8-(1-Ethyl-1H-pyrazol-4-yl)-1-(3-fluoro-5-methylpyridin-4-yl)- 7-methoxy-3-methyl-1,3-dihydroimidazo[4,5-c]quinolin-2-one
+<img> id-US20180072715A1-20180315-C00044.TIF </img> & 8-(1,3-Dimethyl-1H-pyrazol-4-yl)-1-(3-fluoro-5-methylpyridin- 4-yl)-7-methoxy-3-methyl-1,3-dihydroimidazo[4,5-c]quinolin- 2-one
+<img> id-US20180072715A1-20180315-C00045.TIF </img> & 7-Methoxy-3-methyl-8-(1-methyl-1H-pyrazol-4-yl)-1-(3- methylpyridin-4-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2-one
+<img> id-US20180072715A1-20180315-C00046.TIF </img> & 7-Methoxy-3-methyl-1-(2-methyl-2H-pyrazol-3-yl)-8-(1H- pyrazol-4-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2-one
+<img> id-US20180072715A1-20180315-C00047.TIF </img> & 1-(1,3-Dimethyl-1H-pyrazol-4-yl)-7-methoxy-3-methyl-8-(1- methyl-1H-1,2,3-triazol-4-yl)-1,3-dihydroimidazo[4,5-c]- quinolin-2-one
+<img> id-US20180072715A1-20180315-C00048.TIF </img> & 7-Methoxy-3-methyl-1-(3-methyl-1H-pyrazol-4-yl)-8-(1- methyl-1H-pyrazol-4-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2- one
+<img> id-US20180072715A1-20180315-C00049.TIF </img> & 5-Fluoro-4-[7-Methoxy-3-methyl-8-(1-methyl-1H-pyrazol-4- yl)-2-oxo-2,3-dihydroimidazo[4,5-c]quinolin-1-yl]nicotinonitrile
+<img> id-US20180072715A1-20180315-C00050.TIF </img> & 4-[7-Methoxy-3-methyl-8-(1-methyl-1H-pyrazol-4-yl)-2-oxo- 2,3-dihydroimidazo[4,5-c]quinolin-1-yl]pyridine-2-carbonitrile
+<img> id-US20180072715A1-20180315-C00051.TIF </img> & 4-[7-Methoxy-3-methyl-8-(1-methyl-1H-pyrazol-4-yl)-2-oxo- 2,3-dihydroimidazo[4,5-c]quinolin-1-yl]nicotinonitrile
+<img> id-US20180072715A1-20180315-C00052.TIF </img> & 7-Methoxy-3-methyl-8-(1-methyl-1H-pyrazol-4-yl)-1-thiazol- 2-yl-1,3-dihydroimidazo[4,5-c]quinolin-2-one
+<img> id-US20180072715A1-20180315-C00053.TIF </img> & 6-[7-Methoxy-3-methyl-8-(1-methyl-1H-pyrazol-4-yl)-2-oxo- 2,3-dihydroimidazo[4,5-c]quinolin-1-yl]nicotinonitrile
+<img> id-US20180072715A1-20180315-C00054.TIF </img> & 7-Methoxy-3-methyl-1-(2-methyl-2H-pyrazol-3-yl)-8-(1- methyl-1H-pyrazol-4-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2- one
+<img> id-US20180072715A1-20180315-C00055.TIF </img> & 1-(5-Fluoropyridin-2-yl)-7-methoxy-3-methyl-8-(1-methyl-1H- pyrazol-4-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2-one
+<img> id-US20180072715A1-20180315-C00056.TIF </img> & 1-(3-Fluoropyridin-2-yl)-7-methoxy-3-methyl-8-(1-methyl-1H- 1,2,3-triazol-4-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2-one
+<img> id-US20180072715A1-20180315-C00057.TIF </img> & 7-Methoxy-3-methyl-8-(1-methyl-1H-pyrazol-4-yl)-1- pyrimidin-2-yl-1,3-dihydroimidazo[4,5-c]quinolin-2-one
+<img> id-US20180072715A1-20180315-C00058.TIF </img> & 7-Methoxy-3-methyl-8-(1-methyl-1H-pyrazol-4-yl)-1-(1H- pyrazol-4-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2-one
+<img> id-US20180072715A1-20180315-C00059.TIF </img> & 1-(3-Ethyl-5-methylpyridin-4-yl)-7-methoxy-3-methyl-8-(1- methyl-1H-pyrazol-4-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2- one
+<img> id-US20180072715A1-20180315-C00060.TIF </img> & 7-Methoxy-3-methyl-8-(1-methyl-1H-pyrazol-4-yl)-1-[1- (tetrahydropyran-4-yl)-1H-pyrazol-4-yl]-1,3-dihydroimidazo- [4,5-c]quinolin-2-one
+<img> id-US20180072715A1-20180315-C00061.TIF </img> & 7-Methoxy-3-methyl-8-(1-methyl-1H-pyrazol-4-yl)-1-pyridin- 2-yl-1,3-dihydroimidazo[4,5-c]quinolin-2-one
+<img> id-US20180072715A1-20180315-C00062.TIF </img> & 7-Methoxy-3-methyl-8-(1-methyl-1H-pyraozl-4-yl)-1- pyrimidin-5-yl-1,3-dihydroimidazo[4,5-c]quinolin-2-one
+<img> id-US20180072715A1-20180315-C00063.TIF </img> & 7-Methoxy-3-methyl-8-(1-methyl-1H-pyrazol-4-yl)-1-pyridin- 4-yl-1,3-dihydroimidazo[4,5-c]quinolin-2-one
+<img> id-US20180072715A1-20180315-C00064.TIF </img> & 7-Methoxy-3-methyl-1-(1-methyl-1H-imidazol-4-yl)-8-(1- methyl-1H-pyrazol-4-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2- one
+<img> id-US20180072715A1-20180315-C00065.TIF </img> & 1-(3-Chloropyridin-4-yl)-7-methoxy-3-methyl-8-(1-methyl-1H- pyrazol-4-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2-one
+<img> id-US20180072715A1-20180315-C00066.TIF </img> & 1-(3-Ethyl-5-methylpyridin-4-yl)-8-(1-ethyl-1H-pyrazol-4-yl)-7- methoxy-3-methyl-1,3-dihydroimidazo[4,5-c]quinolin-2-one
+<img> id-US20180072715A1-20180315-C00067.TIF </img> & 8-(1-Ethyl-1H-pyrazol-4-yl)-7-methoxy-3-methyl-1-pyridin-4- yl-1,3-dihydroimidazo[4,5-c]quinolin-2-one
+<img> id-US20180072715A1-20180315-C00068.TIF </img> & 1-(3-Fluoro-5-methylpyridin-4-yl)-7-methoxy-3-methyl-8-(1- methyl-1H-1,2,3-triazol-4-yl)-1,3-dihydroimidazo[4,5-c]- quinolin-2-one
+<img> id-US20180072715A1-20180315-C00069.TIF </img> & 1-(3-Fluoropyridin-4-yl)-7-methoxy-3-methyl-8-(1-methyl-1H- 1,2,3-triazol-4-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2-one
+<img> id-US20180072715A1-20180315-C00070.TIF </img> & 8-(3-Amino-1H-pyrazol-5-yl)-1-(3-fluoro-2-pyridyl)-7- methoxy-3-methylimidazo[4,5-c]quinolin-2-one
+<img> id-US20180072715A1-20180315-C00071.TIF </img> & 1-[3-Fluoro-5-(2-methoxyethoxy)-2-pyridyl]-7-methoxy-3- methyl-8-(1-methylpyrazol-4-yl)imidazo[4,5-c]quinolin-2-one
+<img> id-US20180072715A1-20180315-C00072.TIF </img> & 1-[3-Fluoro-5-(2-hydroxyethoxy)-2-pyridyl]-7-methoxy-3- methyl-8-(1-methylpyrazol-4-yl)imidazo[4,5-c]quinolin-2-one
+<img> id-US20180072715A1-20180315-C00073.TIF </img> & 7-Methoxy-3-methyl-8-(1-methyl-1H-pyrazol-4-yl)-1-quinolin- 2-yl-1,3-dihydroimidazo[4,5-c]quinolin-2-one
+<img> id-US20180072715A1-20180315-C00074.TIF </img> & 7-Methoxy-3-methyl-8-(1-methyl-1H-pyrazol-4-yl)-1-(1H- pyrrolo[2,3-b]pyridin-6-yl)1,3-dihydroimidazo[4,5-c]quinolin- 2-one
+<img> id-US20180072715A1-20180315-C00075.TIF </img> & 1-(3,5-Difluoropyridin-2-yl)-7-methoxy-3-methyl-8-(2-methyl- 2H-1,2,3-triazol-4-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2- one
+<img> id-US20180072715A1-20180315-C00076.TIF </img> & 1-(1,3-Dimethyl-1H-pyrazol-4-yl)-7-methoxy-3-methyl-8-(2- methyl-2H-1,2,3-triazol-4-yl)-1,3-dihydroimidazo[4,5-c]- quinolin-2-one
+<img> id-US20180072715A1-20180315-C00077.TIF </img> & 1-(3-Fluoro-5-methylpyridin-4-yl)-7-methoxy-3-methyl-8-(2- methyl-2H-1,2,3-triazol-4-yl)-1,3-dihydroimidazo[4,5-c] quinolin-2-one
+<img> id-US20180072715A1-20180315-C00078.TIF </img> & 8-(1-Ethyl-1H-pyrazol-4-yl)-7-methoxy-1-(3-methoxypyridin- 4-yl)-3-methyl-1,3-dihydroimidazo[4,5-c]quinolin-2-one
+<img> id-US20180072715A1-20180315-C00079.TIF </img> & 1-(3-Fluoro-5-methoxypyridin-2-yl)-7-methoxy-3-methyl-8-(1- methyl-1H-pyrazol-4-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2- one
+<img> id-US20180072715A1-20180315-C00080.TIF </img> & 8-(1,3-Dimethyl-1H-pyrazol-4-yl)-1-(3-fluoro-5-methoxy- pyridin-2-yl)-7-methoxy-3-methyl-1,3-dihydroimidazo[4,5-c]- quinolin-2-one
+<img> id-US20180072715A1-20180315-C00081.TIF </img> & 1-(3,5-Difluoropyridin-2-yl)-7-methoxy-8-(1-methyl-1H- pyrazol-4-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2-one
+<img> id-US20180072715A1-20180315-C00082.TIF </img> & 1-(3,5-Difluoropyridin-2-yl)-8-(1,3-dimethyl-1H-pyrazol-4-yl)- 7-methoxy-1,3-dihydroimidazo[4,5-c]quinolin-2-one
+<img> id-US20180072715A1-20180315-C00083.TIF </img> & 1-(3-Fluoro-5-methoxypyridin-2-yl)-7-methoxy-3-methyl-8- (2H-pyrazol-3-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2-one
+<img> id-US20180072715A1-20180315-C00084.TIF </img> & 1-(3-Fluoro-5-fluoromethoxypyridin-2-yl)-7-methoxy-3- methyl-8-(1-methyl-1H-pyrazol-4-yl)-1,3-dihydroimidazo- [4,5-c]quinolin-2-one
+<img> id-US20180072715A1-20180315-C00085.TIF </img> & 8-(1-Ethyl-1H-pyrazol-4-yl)-1-(3-fluoro-5-methoxypyridin-2- yl)-7-methoxy-3-methyl-1,3-dihydroimidazo[4,5-c]quinolin-2- one
+<img> id-US20180072715A1-20180315-C00086.TIF </img> & 1-(3-Ethyl-5-fluoropyridin-4-yl)-7-methoxy-3-methyl-8-(2- methyl-2H-1,2,3-triazol-4-yl)-1,3-dihydroimidazo[4,5-c] quinolin-2-one
+<img> id-US20180072715A1-20180315-C00087.TIF </img> & 1-(5-Ethoxy-3-fluoropyridin-2-yl)-7-methoxy-3-methyl-8-(1- methyl-1H-pyrazol-4-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2- one
+<img> id-US20180072715A1-20180315-C00088.TIF </img> & 1-(5-Difluoromethoxy-3-fluoropyridin-2-yl)-7-methoxy-3- methyl-8-(1-methyl-1H-pyrazol-4-yl)-1,3-dihydroimidazo- [4,5-c]quinolin-2-one
+<img> id-US20180072715A1-20180315-C00089.TIF </img> & 1-(3-Fluoro-5-methoxypyridin-2-yl)-7-methoxy-8-(1-methyl- 1H-pyrazol-4-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2-one
+<img> id-US20180072715A1-20180315-C00090.TIF </img> & 1-(3-Fluoro-5-methoxypyridin-4-yl)-7-methoxy-8-(1-methyl- 1H-pyrazol-4-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2-one
+<img> id-US20180072715A1-20180315-C00091.TIF </img> & 1-(3,5-Difluoropyridin-2-yl)-7-methoxy-3-methyl-8-(3-methyl- 1H-pyrazol-4-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2-one
+<img> id-US20180072715A1-20180315-C00092.TIF </img> & 1-(3,5-Dimethyl-1H-pyrazol-4-yl)-7-methoxy-3-methyl-8-(1- methyl-1H-pyrazol-4-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2- one
+<img> id-US20180072715A1-20180315-C00093.TIF </img> & 1-(5-Chloro-3-fluoropyridin-2-yl)-7-methoxy-3-methyl-8-(1- methyl-1H-pyrazol-4-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2- one
+<img> id-US20180072715A1-20180315-C00094.TIF </img> & 7-Methoxy-3-methyl-8-(1-methyl-1H-pyrazol-4-yl)-1-(1H- pyrrolo[3,2-c]pyridin-6-yl)-1,3-dihydroimidazo[4,5-c]quinolin- 2-one
+<img> id-US20180072715A1-20180315-C00095.TIF </img> & 1-(1,3-Dimethyl-1H-pyrazol-4-yl)-7-methoxy-3-methyl-8-(1H- pyrazol-3-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2-one
+<img> id-US20180072715A1-20180315-C00096.TIF </img> & 1-(3-Fluoro-5-methoxypyridin-2-yl)-7-methoxy-3-methyl-8-(3- methyl-1H-pyrazol-4-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2- one
+<img> id-US20180072715A1-20180315-C00097.TIF </img> & 1-(3-Fluoro-5-piperazin-1-yl-pyridin-2-yl)-7-methoxy-3- methyl-8-(1-methyl-1H-pyrazol-4-yl)-1,3-dihydroimidazo- [4,5-c]quinolin-2-one
+<img> id-US20180072715A1-20180315-C00098.TIF </img> & 1-(3-Fluoro-5-methoxypyridin-4-yl)-7-methoxy-3-methyl-8- (2H-pyrazol-3-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2-one
+<img> id-US20180072715A1-20180315-C00099.TIF </img> & 1-(3-Ethyl-5-fluoropyridin-4-yl)-7-methoxy-3-methyl-8-(2H- 1,2,3-triazol-4-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2-one
+<img> id-US20180072715A1-20180315-C00100.TIF </img> & 1-(3-Ethyl-5-fluoropyridin-4-yl)-7-methoxy-3-methyl-8-(1- methyl-1H-1,2,3-triazol-4-yl)-1,3-dihydroimidazo[4,5-c] quinolin-2-one
+<img> id-US20180072715A1-20180315-C00101.TIF </img> & 1-(3-Fluoro-5-methoxypyridin-4-yl)-7-methoxy-3-methyl-8-(2- methyl-2H-1,2,3-triazol-4-yl)-1,3-dihydroimidazo[4,5-c] quinolin-2-one
+<img> id-US20180072715A1-20180315-C00102.TIF </img> & 1-(3-Fluoro-5-methoxypyridin-2-yl)-7-methoxy-3-methyl-8- (3H-1,2,3-triazol-4-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2- one
+<img> id-US20180072715A1-20180315-C00103.TIF </img> & 8-(1,3-Dimethyl-1H-pyrazol-4-yl)-1-(3-fluoro-5-methoxy- pyridin-4-yl)-7-methoxy-1,3-dihydroimidazo[4,5-c]quinolin-2- one
+<img> id-US20180072715A1-20180315-C00104.TIF </img> & 1-(1-Ethyl-3-methyl-1H-pyrazol-4-yl)-7-methoxy-3-methyl-8- (1-methyl-1H-pyrazol-4-yl)-1,3-dihydroimidazo[4,5-c]quinolin- 2-one
+<img> id-US20180072715A1-20180315-C00105.TIF </img> & 1-(3-Fluoro-5-methoxypyridin-4-yl)-7-methoxy-3-methyl-8-(1- methyl-1H-1,2,3-triazol-4-yl)-1,3-dihydroimidazo[4,5-c]- quinolin-2-one
+<img> id-US20180072715A1-20180315-C00106.TIF </img> & 1-(1,3-Dimethyl-1H-pyrazol-4-yl)-7-methoxy-3-methyl-8-(2- methyl-3H-benzoimidazol-5-yl)-1,3-dihydroimidazo[4,5-c]- quinolin-2-one
+<img> id-US20180072715A1-20180315-C00107.TIF </img> & 1-(3-Fluoro-5-methoxypyridin-2-yl)-7-methoxy-3-methyl-8-(1- methyl-1H-1,2,3-triazol-4-yl)-1,3-dihydroimidazo[4,5-c] quinolin-2-one
+<img> id-US20180072715A1-20180315-C00108.TIF </img> & 1-(3-Fluoro-5-methoxypyridin-4-yl)-7-methoxy-3-methyl-8- (3H-1,2,3-triazol-4-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2- one
+<img> id-US20180072715A1-20180315-C00109.TIF </img> & 8-(1,3-Dimethyl-1H-pyrazol-4-yl)-1-(1-ethyl-3-methyl-1H- pyrazol-4-yl)-7-methoxy-3-methyl-1,3-dihydroimidazo[4,5-c]- quinolin-2-one
+<img> id-US20180072715A1-20180315-C00110.TIF </img> & 1-(3-Fluoro-5-methoxypyridin-4-yl)-7-methoxy-3-methyl-8-(2- methyl-3H-benzoimidazol-5-yl)-1,3-dihydroimidazo[4,5-c]- quinolin-2-one
+<img> id-US20180072715A1-20180315-C00111.TIF </img> & 1-(3-Fluoro-5-methoxypyridin-4-yl)-7-methoxy-8-(6-methoxy- pyridin-3-yl)-3-methyl-1,3-dihydroimidazo[4,5-c]quinolin-2- one
+<img> id-US20180072715A1-20180315-C00112.TIF </img> & 5-Fluoro-6-[7-methoxy-3-methyl-8-(1-methyl-1H-pyrazol-4- yl)-2-oxo-2,3-dihydroimidazo[4,5-c]quinolin-1-yl]-N-methyl- nicotinamide
+<img> id-US20180072715A1-20180315-C00113.TIF </img> & 6-[8-(1,3-Dimethyl-1H-pyrazol-4-yl)-7-methoxy-3-methyl-2- oxo-2,3-dihydroimidazo[4,5-c]quinolin-1-yl]-5-fluoro-N- methylnicotinamide
+<img> id-US20180072715A1-20180315-C00114.TIF </img> & 1-(3-Fluoro-5-methoxypyridin-4-yl)-8-(1-fluoromethyl-1H- pyrazol-4-yl)-7-methoxy-3-methyl-1,3-dihydroimidazo[4,5-c]- quinolin-2-one
+<img> id-US20180072715A1-20180315-C00115.TIF </img> & 1-(3-Fluoro-1-methyl-1H-pyrazol-4-yl)-7-methoxy-3-methyl-8- (1-methyl-1H-pyrazol-4-yl)-1,3-dihydroimidazo[4,5-c]quinolin- 2-one
+<img> id-US20180072715A1-20180315-C00116.TIF </img> & 8-(1-Ethyl-3-methyl-1H-pyrazol-4-yl)-1-(3-fluoro-5-methoxy- pyridin-4-yl)-7-methoxy-3-methyl-1,3-dihydroimidazo[4,5-c] quinolin-2-one
+<img> id-US20180072715A1-20180315-C00117.TIF </img> & 8-(1-Difluoromethyl-1H-pyrazol-4-yl)-1-(3-fluoro-5-methoxy- pyridin-4-yl)-7-methoxy-3-methyl-1,3-dihydroimidazo[4,5-c] quinolin-2-one
+<img> id-US20180072715A1-20180315-C00118.TIF </img> & 1-(3-Fluoro-5-methoxypyridin-2-yl)-7-methoxy-3-methyl-8-(2- methyl-3H-benzoimidazol-5-yl)-1,3-dihydroimidazo[4,5-c]- quinolin-2-one
+<img> id-US20180072715A1-20180315-C00119.TIF </img> & 1-[3-Fluoro-5-(trideuteriomethoxy)-4-pyridyl]-7-methoxy-3- methyl-8-(1-methylpyrazol-4-yl)imidazo[4,5-c]quinolin-2-one
+<img> id-US20180072715A1-20180315-C00120.TIF </img> & 1-(3-Difluoromethoxy-5-fluoropyridin-4-yl)-7-methoxy-3- methyl-8-(1-methyl-1H-pyrazol-4-yl)-1,3-dihydroimidazo- [4,5-c]quinolin-2-one
+<img> id-US20180072715A1-20180315-C00121.TIF </img> & 1-(3-Difluoromethoxy-5-fluoropyridin-4-yl)-8-(1,3-dimethyl- 1H-pyrazol-4-yl)-7-methoxy-3-methyl-1,3-dihydroimidazo- [4,5-c]quinolin-2-one
+<img> id-US20180072715A1-20180315-C00122.TIF </img> & 1-(3-Fluoro-5-fluoromethoxypyridin-4-yl)-7-methoxy-3- methyl-8-(1-methyl-1H-pyrazol-4-yl)-1,3-dihydroimidazo- [4,5-c]quinolin-2-one
+<img> id-US20180072715A1-20180315-C00123.TIF </img> & 8-(1,3-Dimethyl-1H-pyrazol-4-yl)-1-(3-fluoro-5-fluoro- methoxypyridin-4-yl)-7-methoxy-3-methyl-1,3-dihydro- imidazo[4,5-c]quinolin-2-one
+<img> id-US20180072715A1-20180315-C00124.TIF </img> & 8-(1,3-Dimethylpyrazol-4-yl)-1-[3-fluoro-5-(trideuterio- methoxy)-4-pyridyl]-7-methoxy-3-methylimidazo[4,5-c]- quinolin-2-one
+<img> id-US20180072715A1-20180315-C00125.TIF </img> & 1-(1,3-Dimethyl-1H-pyrazol-4-yl)-7-methoxy-3-methyl-8-(4- methyl-1H-pyrazol-3-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2- one
+<img> id-US20180072715A1-20180315-C00126.TIF </img> & 1-(3-Fluoro-5-methoxypyridin-4-yl)-7-methoxy-3-methyl-8-(2- methyl-1H-imidazo[4,5-b]pyridin-6-yl)-1,3-dihydroimidazo- [4,5-c]quinolin-2-one
+<img> id-US20180072715A1-20180315-C00127.TIF </img> & 8-(3H-Benzimidazol-5-yl)-1-(3-fluoro-5-methoxypyridin-2-yl)- 7-methoxy-3-methyl-1,3-dihydroimidazo[4,5-c]quinolin-2-one
+<img> id-US20180072715A1-20180315-C00128.TIF </img> & 1-(1,3-Dimethyl-1H-pyrazol-4-yl)-7-methoxy-3-methyl-8-(2- methyl-1H-imidazo[4,5-b]pyridin-6-yl)-1,3-dihydroimidazo- [4,5-c]quinolin-2-one
+<img> id-US20180072715A1-20180315-C00129.TIF </img> & 1-[3-Fluoro-5-(trideuteriomethoxy)-2-pyridyl]-7-methoxy-3- methyl-8-(1-methylpyrazol-4-yl)imidazo[4,5-c]quinolin-2-one
+<img> id-US20180072715A1-20180315-C00130.TIF </img> & 1-(3-Ethylpyridin-4-yl)-7-methoxy-3-methyl-8-(1-methyl-1H- pyrazol-4-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2-one
+<img> id-US20180072715A1-20180315-C00131.TIF </img> & 8-(1-Ethyl-1H-pyrazol-4-yl)-1-(3-ethylpyridin-4-yl)-7-methoxy- 3-methyl-1,3-dihydroimidazo[4,5-c]quinolin-2-one
+<img> id-US20180072715A1-20180315-C00132.TIF </img> & 1-(3-Fluoropyridin-2-yl)-7-methoxy-3-methyl-8-(2-methyl-2H- 1,2,3-triazol-4-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2-one
+<img> id-US20180072715A1-20180315-C00133.TIF </img> & 1-(3-Fluoro-1-methyl-1H-pyrazol-4-yl)-7-methoxy-8-(6- methoxypyridin-3-yl)-3-methyl-1,3-dihydroimidazo[4,5-c]- quinolin-2-one
+<img> id-US20180072715A1-20180315-C00134.TIF </img> & 1-(3-Cyclopropylpyridin-4-yl)-7-methoxy-3-methyl-8-(1- methyl-1H-pyrazol-4-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2- one
+<img> id-US20180072715A1-20180315-C00135.TIF </img> & 1-(3-Fluoro-5-methylsulfonylmethoxypyridin-2-yl)-7-methoxy- 3-methyl-8-(1-methyl-1H-pyrazol-4-yl)-1,3-dihydroimidazo- [4,5-c]quinolin-2-one
+<img> id-US20180072715A1-20180315-C00136.TIF </img> & 1-(3-Cyclopropyl-5-fluoropyridin-4-yl)-7-methoxy-3-methyl-8- (1-methyl-1H-pyrazol-4-yl)-1,3-dihydroimidazo[4,5-c]quinolin- 2-one
+<img> id-US20180072715A1-20180315-C00137.TIF </img> & 8-(1,3-Dimethyl-1H-pyrazol-4-yl)-1-(3-fluoro-5-methyl- sulfonylmethoxypyridin-2-yl)-7-methoxy-3-methyl-1,3- dihydroimidazo[4,5-c]quinolin-2-one
+<img> id-US20180072715A1-20180315-C00138.TIF </img> & 1-(5-Allyloxy-3-fluoropyridin-2-yl)-7-methoxy-3-methyl-8-(1- methyl-1H-pyrazol-4-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2- one
+<img> id-US20180072715A1-20180315-C00139.TIF </img> & 1-[5-(Azetidin-3-yloxy)-3-fluoropyridin-2-yl]-7-methoxy-3- methyl-8-(1-methyl-1H-pyrazol-4-yl)-1,3-dihydroimidazo- [4,5-c]quinolin-2-one
+<img> id-US20180072715A1-20180315-C00140.TIF </img> & 1-[3-Fluoro-5-(2-methylaminoethoxy)-pyridin-2-yl]-7- methoxy-3-methyl-8-(1-methyl-1H-pyrazol-4-yl)-1,3-dihydro- imidazo[4,5-c]quinolin-2-one
+<img> id-US20180072715A1-20180315-C00141.TIF </img> & 1-[3-Fluoro-5-(1-methylazetidin-3-ylmethoxy)pyridin-2-yl]-7- methoxy-3-methyl-8-(1-methyl-1H-pyrazol-4-yl)-1,3-dihydro- imidazo[4,5-c]quinolin-2-one
+<img> id-US20180072715A1-20180315-C00142.TIF </img> & 8-[1-(Azetidin-3-yl)-1H-pyrazol-4-yl]-1-(3-fluoro-5-methoxy- pyridin-4-yl)-7-methoxy-3-methyl-1H,2H,3H-imidazo[4,5-c]- quinolin-2-one
+<img> id-US20180072715A1-20180315-C00143.TIF </img> & 1-(3-Fluoro-5-methoxypyridin-4-yl)-7-methoxy-3-methyl-8-(3- fluoro-1-methyl-1H-pyrazol-4-yl)-1,3-dihydroimidazo[4,5-c]- quinolin-2-one
+<img> id-US20180072715A1-20180315-C00144.TIF </img> & 1-(1,3-Dimethyl-1H-pyrazol-4-yl)-7-methoxy-3-methyl-8-(3- fluoro-1-methyl-1H-pyrazol-4-yl)-1,3-dihydroimidazo[4,5-c]- quinolin-2-one
+<img> id-US20180072715A1-20180315-C00145.TIF </img> & 1-(5-Fluoro-1H-pyrrolo[2,3-b]pyridin-6-yl)-7-methoxy-3- methyl-8-(1-methyl-1H-pyrazol-4-yl)-1,3-dihydroimidazo- [4,5-c]quinolin-2-one
+<img> id-US20180072715A1-20180315-C00146.TIF </img> & 1-[3-Fluoro-5-(trifluoromethoxy)-4-pyridyl]-7-methoxy-3- methyl-8-(1-methyl-1H-pyrazol-4-yl)-1,3-dihydroimidazo- [4,5-c]quinolin-2-one
+<img> id-US20180072715A1-20180315-C00147.TIF </img> & 1-[3-Fluoro-5-(trifluoromethoxy)-4-pyridyl]-7-methoxy-3- methyl-8-(1,3-dimethylpyrazol-4-yl)-1,3-dihydroimidazo- [4,5-c]quinolin-2-one
+<img> id-US20180072715A1-20180315-C00148.TIF </img> & 1-(3-Fluoro-5-methylsulfonylpyridin-2-yl)-7-methoxy-3- methyl-8-(1-methyl-1H-pyrazol-4-yl)-1H,2H,3H-imidazo- [4,5-c]quinolin-2-one
+<img> id-US20180072715A1-20180315-C00149.TIF </img> & 8-[1-(Azetidin-3-yl)-3-methyl-1H-pyrazol-4-yl]-1-(3-fluoro-5- methoxypyridin-4-yl)-7-methoxy-3-methyl-1H,2H,3H- imidazo[4,5-c]quinolin-2-one
 </table>
 Each of the meanings for R1, R3, HET, and Het1 disclosed in the context of the above preferred compounds is also to be regarded as preferred meaning of the corresponding radical, irrespective of the other substitution of the molecule's basic structure, i.e. as possible meanings of R1, R3, HET, and Het1 in each case independently of one another.
 Preparation
@@ -319,6 +324,7 @@ All documents cited in the description are hereby intended to be incorporated in
 It goes without saying that this invention is not restricted to the specific compounds, pharmaceutical compositions, uses and methods as described herein, since such things can vary. It furthermore goes without saying that the terminology used here serves exclusively the purpose of description of particular embodiments and is not intended to restrict the scope of protection of the invention. As used here in the specification, including the appended claims, word forms in the singular, such as, for example, “a” or “the”, include the equivalent in the plural, so long as the context does not specifically indicate otherwise. For example, the reference to “a compound” includes a single compound or a plurality of compounds, which may in turn be identical or different, or the reference to “a method” includes equivalent steps and methods which are known to the person skilled in the art.
 Further Compounds
 Besides the above-mentioned compounds of the formula (I), the invention encompasses compounds of the following general formula (X):
+<img> id-US20180072715A1-20180315-C00150.TIF </img>
 in whichR1 denotes A or -(CY2)n-Ar,R2 denotes Y, -(CY2)p-(C[YR4])s-R5 or -Alk-R5,R3 denotes Y, -(CY2)p-COOY or -(CY2)p-CO-NYY,R4 denotes Y, Hal, -(CY2),-NYY, -(CY2),-NY-COO-(CY2)n-SiA3, -(CY2),-COOY, -CO-NYY, -CO-NY-(CY2)n-OY, -CO-NY-(CY2)n-NYY or-SO2A,R5 denotes -(CY2)p-Ar or -(CY2)p-Het',X denotes CH2, O, S or a single bond,Y denotes H or A,A denotes unbranched or branched alkyl having 1, 2, 3, 4, 5, 6, 7, 8, 9 or 10 C atoms, where 1, 2, 3, 4, 5, 6 or 7 H atoms may be replaced, independently of one another, by Hal,Alk denotes alkenylene having 2, 3, 4, 5 or 6 C atoms, where 1, 2, 3 or 4 H atoms may be replaced, independently of one another, by Hal and/or OY,CyA denotes cycloalkyl having 3, 4, 5, 6, 7 or 8 ring C atoms which is unsubstituted or mono- or polysubstituted, independently of one another, by Hal, A, CN, -(CY2)p-OY, -(CY2)p-NYY, -(CY2)p-COOY, -(CY2)p-CO-NYY and/or -(CY2)p-NY-COY,Ar denotes phenyl which is unsubstituted or mono-, di- or trisubstituted, independently of one another, by Hal, A, CN, -NO2, -(CY2)p-OY, -(CY2)p-NYY, -(CY2)p-COOY, -(CY2)p-CO-NYY and/or -(CY2)p-NY-COY,Het1 denotes mono- or bicyclic heteroaryl having 2, 3, 4, 5, 6, 7, 8 or 9 C atoms and 1, 2, 3 or 4 N, O and/or S atoms, which may be unsubstituted or mono-, di- or trisubstituted, independently of one another, by Hal, A, CN, -(CY2)p-OY, -(CY2)p-NYY, -(CY2)p-COOY, -(CY2)p-CO-NYY, -(CY2)p-NY-COY and/or-SO2-Het2,Het2 denotes a monocyclic saturated heterocycle having 2, 3, 4, 5, 6 or 7 C atoms and 1, 2, 3 or 4 N, O and/or S atoms, which may be unsubstituted or monosubstituted by A,HET denotes a 5- or 6-membered aromatic heterocycle having 1, 2 or 3 N atoms and optionally an O atom or S atom, where this heterocycle is linked to the N atom of the skeleton via a ring C atom and where this heterocycle may be unsubstituted or substituted by one, two or three substituents, which are selected, independently of one another, from the group consisting of: Hal, A, Het2, -CN, -(CY2)p-OY, -(CY2)p-O-(CY2)t-OY, -(CY2)p-O-(CY2)t-POAA, -(CY2)p-NYY, -(CY2)p-COOY, -(CY2)p-CO-NYY, -(CY2)p-NY-COY or -SO2-Het2; and may be part of a bicyclic 11- or 12-membered aromatic heterocycle, where this bicyclic aromatic heterocycle may overall be unsubstituted or substituted by one, two, three or more substituents, which are selected, independently of one another, from the group consisting of: Hal, A, Het2, CN, -(CY2)p-OY, -(CY2)p-O-(CY2)t-OY, -(CY2)p-O-(CY2)t-POAA, -(CY2)p-NYY, -(CY2)p-COOY, -(CY2)p-CO-NYY, -(CY2)p-NY-COY or -SO2-Het2,Hal denotes F, Cl, Br or I,m denotes 0, 1, 2, 3 or 4,n, p, s, independently of one another, denote 0, 1, 2, 3, 4, 5 or 6 andt denotes 1, 2, 3, 4, 5 or 6,
 and/or pharmaceutically usable salts, solvates, tautomers and stereoisomers thereof, including mixtures thereof in all ratios,
 where, in addition to or in contrast to formula (I), it is not simultaneously possible for R1 and R3 to denote A and X to denote a single bond, R2 to denote -(CY2)p-(C[YR4])s-R5 where p and s=0 and R5 to denote -(CY2)p-Het1 where p=0.
@@ -326,8 +332,10 @@ The term “Alk” here denotes unbranched or branched alkenylene having 2, 3, 4
 “Ar” herein denotes phenyl which is unsubstituted or mono-, di- or trisubstituted, independently of one another, by Hal, A, CN, NO2, -(CY2)p-OY, -(CY2)p-NYY, -(CY2)p-COOY, -(CY2)p-CO-NYY or -(CY2)p-NY-COY. “Ar” particularly preferably denotes phenyl which is unsubstituted or mono- or disubstituted by Hal. It goes without saying that the respective meanings of “Ar” are independent of one another in the radicals of a formula according to the invention. Examples of suitable “Ar” are, in particular, (unsubstituted), phenyl, o-, m- or p-tolyl, o-, m- or p-ethylphenyl, o-, m- or p-proylphenyl, o-, m- or p-isoproylphenyl, o-, m- or p-tert-butylphenyl, o-, m- or p-trifluoromethylphenyl, o-, m- or p-fluorophenyl, o-, m- or p-bromophenyl, o-, m- or p-chlorophenyl, o-, m- or p-hydroxyphenyl, o-, m- or p-methoxyphenyl, o-, m- or p-nitrophenyl, o-, m- or p-aminophenyl, o-, m- or p-methylamino-phenyl, o-, m- or p-dimethylaminophenyl, o-, m- or p-aminocarbonylphenyl, o-, m- or p-carboxyphenyl, o-, m- or p-methoxycarbonylphenyl, o-, m- or p-ethoxycarbonylphenyl, o-, m- or p-acetylphenyl, o-, m- or p-formylphenyl, o-, m- or p-cyanophenyl, 2,3-, 2,4-, 2,5-, 2,6-, 3,4- or 3,5-difluorophenyl, 2,3-, 2,4-, 2,5-, 2,6-, 3,4- or 3,5-dichlorophenyl, 2,3-, 2,4-, 2,5-, 2,6-, 3,4- or 3,5-dibromophenyl, 2,3,4-, 2,3,5-, 2,3,6-, 2,4,6- or 3,4,5-trichlorophenyl, p-iodophenyl, 4-fluoro-3-chlorophenyl, 2-fluoro-4-bromophenyl, 2,5-difluoro-4-bromophenyl or 2,5-dimethyl-4-chlorophenyl.
 The definitions and preferred meanings or embodiments mentioned in connection with the compounds of the formula (I) apply with respect to the other variables, radicals and substituents.
 In compounds of the formula (X), R1 can stand for A, preferably unsubstituted or substituted C1-C3-alkyl, particularly preferably methyl. Correspondingly, the present invention provides compounds of the following formulae:
+<img> id-US20180072715A1-20180315-C00151.TIF </img>
 Further preferably, R3 stands for Y, i.e. H or A, or Hal. R3 particularly preferably stands for A, in particular unbranched or branched alkyl having 1, 2, or 3 C atoms, where 1, 2, 3, 4, or 5 H atoms may be replaced, independently of one another, by Hal. R3 particularly preferably denotes unsubstituted C1-3 alkyl and particularly preferably methyl.
 Correspondingly, the present invention provides compounds of the following formulae:
+<img> id-US20180072715A1-20180315-C00152.TIF </img>
 EXAMPLES
 The invention is explained in greater detail below with reference to non-limiting examples of specific embodiments. The examples (in particular compound examples) should, in particular, be interpreted in such a way that they are not restricted to the feature combinations specifically illustrated, but instead the illustrative features can in turn be freely combined so long as the object of the invention is achieved.
 Analytical Methods
@@ -350,7 +358,7 @@ MS type: API-ES
 Description of the Syntheses
 Example 1
 Synthesis of 1-(3-fluoro-2-pyridyl)-7-methoxy-3-methyl-8-(1-methylpyrazol-4-yl)imidazo[4,5-c]quinolin-2-one (Compound Example 14)
-a. Synthesis of 5-bromo-4-methoxy-2-[[(E)-2-nitrovinyl]amino]benzoic acid
+<img> id-US20180072715A1-20180315-C00153.TIF </img>a. Synthesis of 5-bromo-4-methoxy-2-[[(E)-2-nitrovinyl]amino]benzoic acid
 Nitromethane (0.63 ml, 11.7 mmol) was added dropwise at room temperature to a solution of sodium hydroxide (14.7 g, 368 mmol) in water (33 ml) with stirring. The mixture was subsequently warmed slowly at 45° C. for 5 minutes with stirring. The reaction solution was then cooled to room temperature, and nitromethane (0.63 ml, 11.7 mmol) was again added dropwise. The reaction mixture was subsequently stirred for a further 10 minutes, during which a clear, reddish solution formed. After brief warming (5 minutes) at 50° C., the mixture was cooled to room temperature and decanted off onto ice (11 g). The aqueous solution was carefully acidified to pH<2 using conc. hydrochloric acid and subsequently immediately added to a solution of 2-amino-5-bromo-4-methoxybenzoic acid (8.00 g, 32.5 mmol) in water (259 ml), acidified using conc. hydrochloric acid (126 ml, 2.75 mol), with stirring. The suspension obtained was stirred overnight and subsequently filtered. The residue was dried at 50°, giving 9.60 g (93%) of 5-bromo-4-methoxy-2-[[(E)-2-nitrovinyl]amino]benzoic acid as colourless solid.b. Synthesis of 6-bromo-7-methoxy-3-nitro-1 H-quinolin-4-one
 5-Bromo-4-methoxy-2-((E)-2-nitrovinylamino)benzoic acid (4.0 g, 12.6 mmol) was dissolved in N,N-dimethylformamide (150 ml). 1,1'-Carbonyldiimidazole (3.07 g, 18.9 mmol) was subsequently added at room temperature with stirring. The reaction solution was stirred overnight at room temperature. Acetonitrile (120 ml) was subsequently added. The suspension obtained was cooled and then filtered off. The yellow residue was washed with diethyl ether and dried overnight at 40° C., giving 3.0 g (80%) of 6-bromo-7-methoxy-3-nitro-1 H-quinolin-4-one as colourless solid.c. Synthesis of 6-bromo-4-chloro-7-methoxy-3-nitroquinoline
 6-Bromo-7-methoxy-3-nitro-1 H-quinolin-4-one (2.50 g, 8.36 mmol) was initially introduced under a dry nitrogen atmosphere. Phosphoryl chloride (20 ml, 215 mmol) and N,N-dimethylformamide (0.13 ml, 1.68 mmol) were subsequently added. The reaction solution was heated at 115° C. for 12 hours with stirring. The mixture was subsequently evaporated in vacuo, and the residue obtained was purified by chromatography on silica gel (petroleum ether/ethyl acetate=87:13, proportions by volume), giving 2.40 g (90%) of 6-bromo-4-chloro-7-methoxy-3-nitroquinoline as colourless solid.d. Synthesis of 6-bromo-N-(3-fluoro-2-pyridyl)-7-methoxy-3-nitroquinolin-4-amine
@@ -361,47 +369,57 @@ Nitromethane (0.63 ml, 11.7 mmol) was added dropwise at room temperature to a so
 8-Bromo-1-(3-fluoro-2-pyridyl)-7-methoxy-3-methylimidazo[4,5-c]quinolin-2-one (150 mg, 0.37 mmol), 1-methyl-4-(tetramethyl-1,3,2-dioxaborolan-2-yl)-1H-pyrazole (93 mg, 0.45 mmol), Pd(PPh3)4 (43 mg, 0.04 mmol) and potassium carbonate (103 mg, 0.75 mmol) in 1,4-dioxane (10 ml) and water (3 ml) were initially introduced under an argon inert-gas atmosphere in a sealed apparatus. The reaction mixture was heated at 80° C. for 2 hours with stirring. The mixture was subsequently cooled to room temperature, and the reaction mixture was evaporated to dryness in vacuo. The residue was pre-purified by chromatography on silica gel (ethyl acetate/methanol=10:1, proportions by volume). The eluate was evaporated to dryness, and the crude product obtained was subjected to final purification by means of preparative RP-HPLC (water/acetonitrile). Evaporation of the product fractions gave 1-(3-fluoro-2-pyridyl)-7-methoxy-3-methyl-8-(1-methylpyrazol-4-yl)imidazo[4,5-c]-quinolin-2-one (60 mg, 40%, Compound Example 14) as colourless solid.
 Example 2
 Synthesis of 7-methoxy-3-methyl-8-(1-methylpyrazol-4-yl)-1-thiazol-2-yl-imidazo[4,5-c]quinolin-2-one (Compound Example 47)
-i. Synthesis of tert-butyl 8-bromo-7-methoxy-2-oxo-3H-imidazo[4,5-c]quinoline-1-carboxylate
+<img> id-US20180072715A1-20180315-C00154.TIF </img>i. Synthesis of tert-butyl 8-bromo-7-methoxy-2-oxo-3H-imidazo[4,5-c]quinoline-1-carboxylate
 tert-Butyl N-(3-amino-6-bromo-7-methoxyquinolin-4-yl)carbamate (50.0 mg, 0.14 mmol), ditrichloromethyl carbonate (119 mg, 0.40 mmol) and triethylamine (0.18 ml, 1.29 mmol) were dissolved in dichloromethane (3 ml) and stirred at 25° C. for 2 hours. The mixture was evaporated to dryness in vacuo, and the residue was purified by chromatography on silica gel (ethyl acetate:methanol=10:1, proportions by volume), giving 50.0 mg (93%) of tert-butyl 8-bromo-7-methoxy-2-oxo-3H-imidazo[4,5-c]quinoline-1-carboxylate as colourless solid.k. Synthesis of 7-methoxy-3-methyl-8-(1-methylpyrazol-4-yl)-1-thiazol-2-ylimidazo[4,5-c]-quinolin-2-one
 7-Methoxy-3-methyl-8-(1-methylpyrazol-4-yl)-1H-imidazo[4,5-c]quinolin-2-one (20 mg, 0.06 mmol), 2-bromo-1,3-thiazole (20 mg, 0.12 mmol), Cul (20.00 mg, 0.11 mmol), K3PO4 (50 mg, 0.24 mmol) were taken up in toluene (4 ml) under argon in a sealable reaction vessel. (1S,2S)-1-N,2-N-Dimethylcyclohexane-1,2-diamine (30 mg, 0.21 mmol) was subsequently added at room temperature. The mixture was heated at 100° C. for 18 hours with stirring. The cooled solution was evaporated to dryness in vacuo, and the residue was purified by chromatography on silica gel (water/0.05% of NH4HCO3 : acetonitrile=10:1), giving 10 mg (43%) of 7-methoxy-3-methyl-8-(1-methylpyrazol-4-yl)-1-thiazol-2-ylimidazo-[4,5-c]quinolin-2-one as colourless solid.
 Example 3
 Synthesis of 1-[5-(azetidin-3-ylmethoxy)-3-fluoropyridin-2-yl]-7-methoxy-3-methyl-8-(1-methyl-1H-pyrazol-4-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2-one
+<img> id-US20180072715A1-20180315-C00155.TIF </img>
 i. 1-(5-Benzyloxy-3-fluoro-2-pyridyl)-7-methoxy-3-methyl-8-(1-methylpyrazol-4-yl)imidazo-[4,5-c]quinolin-2-one (1.1 g, 2.15 mmol), MeOH (200 ml), and Pd/C (229 mg, 2.15 mmol) were initially introduced in a 500 ml round-necked flask, the flask was flushed with H2 and an H2 atmosphere was maintained. The solution was stirred at room temperature for 8 hours. Solid was filtered off, and the mixture was evaporated in vacuo, giving 740 mg (80%) of 1-(3-fluoro-5-hydroxy-2-pyridyl)-7-methoxy-3-methyl-8-(1-methylpyrazol-4-yl)-imidazo[4,5-c]quinolin-2-one as white solid.
 ii. 1-(3-Fluoro-5-hydroxy-2-pyridyl)-7-methoxy-3-methyl-8-(1-methylpyrazol-4-yl)imidazo-[4,5-c]quinolin-2-one (100 mg, 0.23 mmol, 98%), 3-(bromomethyl)azetidine 1-tert-butyl-carbamate (80 mg, 0.32 mmol), potassium carbonate (66.2 mg, 0.48 mmol) and N,N-dimethylformamide (10 ml) were initially introduced in a 30 ml reaction vessel. The solution was stirred at 50° C. overnight. The reaction was then terminated by addition of 10 ml of water. The solution was then extracted three times with 10 ml of ethyl acetate each time, the combined organic phases were dried over anhydrous sodium sulfate, filtered off and evaporated in vacuo, giving 160 mg (>100%) of 3-[[5-fluoro-6-[7-methoxy-3-methyl-8-(1-methylpyrazol-4-yl)-2-oxoimidazo[4,5-c]quinolin-1-yl]-3-pyridyl]oxymethyl]azetidine 1-tert-butylcarbamate as yellow oil.
 iii. 3-[[5-Fluoro-6-[7-methoxy-3-methyl-8-(1-methylpyrazol-4-yl)-2-oxoimidazo[4,5-c]quinolin-1-yl]-3-pyridyl]oxymethyl]azetidine 1-tert-butylcarbamate (160 mg, 0.27 mmol, 99%), dichloromethane (5 ml) and trifluoroacetic acid (1 ml) were initially introduced in a 50 ml round-bottomed flask. The solution was stirred at 25° C. overnight. The crude product obtained was purified by means of preparative HPLC, giving 30 mg (21%) of 1-[5-(azetidin-3-ylmethoxy)-3-fluoropyridin-2-yl]-7-methoxy-3-methyl-8-(1-methyl-1H-pyrazol-4-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2-one as yellow solid.
 Example 4
 Synthesis of 1-(3-fluoro-5-fluoromethoxypyridin-2-yl)-7-methoxy-3-methyl-8-(1-methyl-1H-pyrazol-4-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2-one (Compound Example 110)
+<img> id-US20180072715A1-20180315-C00156.TIF </img>
 1-(3-Fluoro-5-hydroxy-2-pyridyl)-7-methoxy-3-methyl-8-(1-methylpyrazol-4-yl)imidazo-[4,5-c]quinolin-2-one (80 mg, 0.19 mmol, 98%), potassium carbonate (52.4 mg, 0.38 mmol), N,N-dimethylformamide (5 ml) and bromofluoromethane (43.0 mg, 0.36 mmol, 95%) were initially introduced in a sealed 30 ml reaction vessel. The solution was stirred at room temperature for 2 hours. The reaction was then terminated by addition of water. The solution was then extracted three times with 10 ml of ethyl acetate each time, and the organic phases were combined. The residue was pre-purified on silica gel with EtOAC/MeOH (97/3). The crude product was purified by means of preparative HPLC, giving 45 mg (53%) of 1-(3-fluoro-5-fluoromethoxypyridin-2-yl)-7-methoxy-3-methyl-8-(1-methyl-1H-pyrazol-4-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2-one as white solid.
 Example 5
 Synthesis of 1-(5-difluoromethoxy-3-fluoropyridin-2-yl)-7-methoxy-3-methyl-8-(1-methyl-1H-pyrazol-4-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2-one (Compound Example 114)
+<img> id-US20180072715A1-20180315-C00157.TIF </img>
 1-(3-Fluoro-5-hydroxy-2-pyridyl)-7-methoxy-3-methyl-8-(1-methylpyrazol-4-yl)imidazo-[4,5-c]quinolin-2-one (80 mg, 0.18 mmol, 95%), potassium carbonate (52.5 mg, 0.36 mmol, 95%), N,N-dimethylformamide (5 ml) were initially introduced in a sealed 8 ml reaction vessel, the vessel was flushed with chlorodifluoromethane and a chlorodifluoromethane atmosphere was maintained at −30° C. The solution was stirred at 40° C. for 2 days. The reaction was then terminated by addition of 20 ml of ice-water. The solution was extracted three times with 50 ml of ethyl acetate each time, and the organic phases were combined. The mixture was washed once with 20 ml of salt solution, dried over anhydrous sodium sulfate and evaporated in vacuo. The crude product was purified by means of preparative HPLC, giving 27.7 mg (32%) of 1-(5-difluoromethoxy-3-fluoropyridin-2-yl)-7-methoxy-3-methyl-8-(1-methyl-1H-pyrazol-4-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2-one as white solid.
 Example 6
 Synthesis of 1-[5-(dimethylphosphinoylmethoxy)-3-fluoropyridin-2-yl]-8-(1,3-dimethyl-1H-pyrazol-4-yl)-7-methoxy-3-methyl-1,3-dihydroimidazo[4,5-c]quinolin-2-one
+<img> id-US20180072715A1-20180315-C00158.TIF </img>
 8-(1,3-Dimethylpyrazol-4-yl)-1-(3-fluoro-5-hydroxy-2-pyridyl)-7-methoxy-3-methylimidazo-[4,5-c]quinolin-2-one (80 mg, 0.18 mmol, 98%), chloro(dimethylphosphoryl)methane (76.3 mg, 0.54 mmol, 90%), potassium carbonate (50 mg, 0.36 mmol) and N,N-dimethyl-formamide (5 ml) were initially introduced in an 8 ml reaction vessel which had been flushed with argon and kept under argon inert-gas atmosphere. The reaction mixture was heated at 180° C. for 2 hours (microwave). The solids obtained were filtered off. The crude product was purified by means of preparative HPLC, giving 11.7 mg (12%) of 1-[5-(dimethylphosphinoylmethoxy)-3-fluoropyridin-2-yl]-8-(1,3-dimethyl-1H-pyrazol-4-yl)-7-methoxy-3-methyl-1,3-dihydroimidazo[4,5-c]quinolin-2-one as solid.
 Example 7
 Synthesis of 8-(1,3-dimethyl-1H-pyrazol-4-yl)-1-(3-fluoro-5-methylsulfonyl-methoxypyridin-2-yl)-7-methoxy-3-methyl-1,3-dihydroimidazo[4,5-c]cquinolin-2-one (Compound Example 201)
+<img> id-US20180072715A1-20180315-C00159.TIF </img>
 i. 8-(1,3-Dimethylpyrazol-4-yl)-1-(3-fluoro-5-hydroxy-2-pyridyl)-7-methoxy-3-methyl-imidazo[4,5-c]quinolin-2-one (80 mg, 0.18 mmol, 98%), N,N-dimethylformamide (5 ml), potassium carbonate (50 mg, 0.36 mmol) and chloro(methylsulfanyl)methane (110 mg, 1.09 mmol, 95%) were initially introduced in a 25 ml round-bottomed flask. The solution was stirred overnight at 25° C. The reaction was then terminated by addition of 50 ml of water. The solution was extracted four times with 30 ml of ethyl acetate each time, and the organic phases were combined. The mixture was evaporated in vacuo. The residue was pre-purified on silica gel with MeOH:Et0Ac (6:94), giving 80 mg (85%) of 8-(1,3-dimethylpyrazol-4-yl)-1-[3-fluoro-5-(methylsulfanyl methoxy)-2-pyridyl]-7-methoxy-3-methyl-imidazo[4,5-c]quinolin-2-one as yellow solid.
 ii. 8-(1,3-Dimethylpyrazol-4-yl)-1-[3-fluoro-5-(methylsulfanylmethoxy)-2-pyridyl]-7-methoxy-3-methylimidazo[4,5-c]quinolin-2-one (80 mg, 0.15 mmol, 95%), MeOH (5.00 ml) and a solution of potassium peroxodisulfate (220 mg, 0.77 mmol, 95%) in water (0.5 ml) was initially introduced in a 25 ml round-bottomed flask. The solution was stirred at 25° C. for 3 hours. The residue was pre-purified on silica gel with EtOAc:MeOH (70:30), and the crude product was purified by means of preparative HPLC, giving 15 mg (18%) of 8-(1,3-dimethyl-1H-pyrazol-4-yl)-1-(3-fluoro-5-methylsulfonylmethoxypyridin-2-yl)-7-methoxy-3-methyl-1,3-dihydroimidazo[4,5-c]quinolin-2-one as white solid.
 Example 8
 Synthesis of 1-[3-fluoro-5-(trideuteriomethoxy)-2-pyridyl]-7-methoxy-3-methyl-8-(1-methylpyrazol-4-Aimidazo[4,5-c]quinolin-2-one (Compound Example 155)
+<img> id-US20180072715A1-20180315-C00160.TIF </img>
 1-(3-Fluoro-5-hydroxy-2-pyridyl)-7-methoxy-3-methyl-8-(1-methylpyrazol-4-yl)imidazo-[4,5-c]quinolin-2-one (80 mg, 0.19 mmol, 98%), N,N-dimethylformamide (5.00 ml), potassium carbonate (51.7 mg, 0.37 mmol) and iodo(D3)methane (57.1 mg, 0.37 mmol, 95%) were initially introduced in a 25 ml round-bottomed flask. The solution was stirred at room temperature for 30 minutes. The progress of the reaction was followed by means of LCMS (dichloromethane/MeOH=10:1). The reaction was then terminated by addition of 50 ml of ice-water. The solution was extracted three times with 20 ml of ethyl acetate each time, and the organic phases were combined. The mixture was evaporated in vacuo, giving 38.5 mg (47%) of 1-[3-fluoro-5-(trideuteriomethoxy)-2-pyridyl]-7-methoxy-3-methyl-8-(1-methyl-pyrazol-4-Aimidazo[4,5-c]quinolin-2-one as white solid.
 Example 9
 Synthesis of 1-(3-fluoro-5-piperazin-1-ylpyridin-2-yl)-7-methoxy-3-methyl-8-(1-methyl-1H-pyrazol-4-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2-one (Compound Example 123)
+<img> id-US20180072715A1-20180315-C00161.TIF </img>
 1-(5-Chloro-3-fluoro-2-pyridyl)-7-methoxy-3-methyl-8-(1-methylpyrazol-4-yl)imidazo[4,5-c]-quinolin-2-one (100 mg, 0.22 mmol, 95%), piperazine 1-tert-butylcarbamate (128 mg, 0.65 mmol, 95%), Pd2(dba)3 (21 mg, 0.02 mmol), Xantphos (27 mg, 0.05 mmol), Cs2CO3 (150 mg, 0.46 mmol) and toluene (10 ml) were initially introduced in a sealed 30 ml reaction vessel which had been flushed with argon and kept under argon inert-gas atmosphere. The mixture was stirred at 90° C. overnight and subsequently evaporated in vacuo. The residue was purified on silica gel with EtOAc/MeOH (95:5, volume units), giving 120 mg (94%) of 4-[5-fluoro-6-[7-methoxy-3-methyl-8-(1-methylpyrazol-4-yl)-2-oxoimidazo-[4,5-c]quinolin-1-yl]-3-pyridyl]piperazine 1-tert-butylcarbamate as yellow solid.
 ii. 4-[5-Fluoro-6-[7-methoxy-3-methyl-8-(1-methylpyrazol-4-yl)-2-oxoimidazo[4,5-c]quinolin-1-yl]-3-pyridyl]piperazine 1-tert-butylcarbamate (115 mg, 0.18 mmol, 92%), dichloro-methane (10 ml) and trifluoroacetic acid (4 ml) were initially introduced in a 25 ml round-bottomed flask. The mixture was stirred for 30 minutes at 0° C. in a water/ice bath and evaporated in vacuo. The crude product was purified by means of preparative HPLC, giving 50 mg (55%) of 1-(3-fluoro-5-piperazin-1-ylpyridin-2-yl)-7-methoxy-3-methyl-8-(1-methyl-1H-pyrazol-4-yl)-1,3-dihydroimidazo[4,5-c]quinolin-2-one as white solid.
 Example 10
 Synthesis of 5-fluoro-6-[7-methoxy-3-methyl-8-(1-methyl-1H-pyrazol-4-yl)-2-oxo-2,3-dihydroimidazo[4,5-c]quinolin-1-yl]-N-methylnicotinamide (Compound Example 138)
+<img> id-US20180072715A1-20180315-C00162.TIF </img>
 i. A solution of sulfuric acid (2 ml, 98%) in water (2 ml) and 5-fluoro-6-[7-methoxy-3-methyl-8-(1-methylpyrazol-4-yl)-2-oxoimidazo[4,5-c]quinolin-1-yl]pyridine-3-nitrile (110 mg, 0.26 mmol) were initially introduced in an 8 ml reaction vessel. The mixture was stirred at 80° C. overnight. Sodium hydroxide (4 mol/I) was used to adjust the pH to 8. The mixture was evaporated in vacuo, and the residue was purified on silica gel with a 0.5% aqueous NH4HCO3 solution and CH3CN (82/18), giving 70 mg (61%) of 5-fluoro-6-[7-methoxy-3-methyl-8-(1-methylpyrazol-4-yl)-2-oxoimidazo[4,5-c]quinolin-1-yl]pyridine-3-carboxylic acid as white solid.
 ii. 5-Fluoro-6-[7-methoxy-3-methyl-8-(1-methylpyrazol-4-yl)-2-oxoimidazo[4,5-c]quinolin-1-yl]pyridine-3-carboxylic acid (65.0 mg, 0.14 mmol), a solution of methylamine (10 mg, 0.32 mmol) in tetrahydrofuran (0.5 ml), triethylamine (44 mg, 0.43 mmol), BOP (64.9 mg, 0.15 mmol), and tetrahydrofuran (5 ml) were initially introduced in a sealed 30 ml reaction vessel. The solution was stirred at room temperature for 18 hours and evaporated in vacuo, the residue was diluted with 10 ml of EtOAc. The mixture was dried over anhydrous sodium sulfate and evaporated in vacuo. The crude product was purified by means of preparative HPLC, giving 20 mg (30%) of 5-fluoro-6-[7-methoxy-3-methyl-8-(1-methyl-1H-pyrazol-4-yl)-2-oxo-2,3-dihydroimidazo[4,5-c]quinolin-1-yl]-N-methylnicotinamide as white solid.
 Example 11
 Synthesis of 1-[3-fluoro-5-(trideuteriomethoxy)-4-pyridyl]-7-methoxy-3-methyl-8-(1-methylpyrazol-4-Aimidazo[4,5-c]quinolin-2-one (Compound Example 145)
+<img> id-US20180072715A1-20180315-C00163.TIF </img>
 1-(3-Fluoro-5-hydroxy-4-pyridyl)-7-methoxy-3-methyl-8-(1-methylpyrazol-4-yl)imidazo-[4,5-c]quinolin-2-one (145 mg, 0.33 mmol, 97%), CD3OD (0.3 ml), potassium carbonate (143 mg, 1.03 mmol) and N,N-dimethylformamide (3 ml) were initially introduced in a sealed 8 ml reaction vessel. The mixture was stirred at 100° C. overnight. The reaction was then terminated by addition of 10 ml of water. The solution was extracted three times with 10 ml of ethyl acetate each time. The organic phases were combined, dried over anhydrous sodium sulfate and evaporated in vacuo. The crude product was purified by means of preparative HPLC, giving 20 mg (14%) of 1-[3-fluoro-5-(trideuteriomethoxy)-4-pyridyl]-7-methoxy-3-methyl-8-(1-methylpyrazol-4-Aimidazo[4,5-c]quinolin-2-one as white solid.
 Example 12
 Synthesis of 1-(3-fluoro-5-methoxypyridin-4-yl)-8-(1-fluoromethyl-1H-pyrazol-4-yl)-7-methoxy-3-methyl-1,3-dihydroimidazo[4,5-c]quinolin-2-one (Compound Example 140)
+<img> id-US20180072715A1-20180315-C00164.TIF </img>
 1-(3-Fluoro-5-methoxy-4-pyridyl)-7-methoxy-3-methyl-8-(1 H-pyrazol-4-yl)imidazo[4,5-c]-quinolin-2-one (60 mg, 0.14 mmol, 97%), potassium carbonate (57.6 mg, 0.42 mmol) and N,N-dimethylformamide (5 ml) were initially introduced in a sealed 30 ml reaction vessel. The mixture was stirred at room temperature for 5 minutes and cooled to 0° C. Bromofluoro-methane (165 mg, 1.39 mmol, 95%) was added, the mixture was warmed to room temperature and stirred for a further hour. The reaction was then terminated by addition of 50 mL of water. The solution was extracted three times with 30 mL of ethyl acetate each time, the organic phases were combined and evaporated in vacuo. The crude product was purified by means of preparative HPLC, giving 5 mg (8%) of 1-(3-fluoro-5-methoxypyridin-4-yl)-8-(1-fluoromethyl-1H-pyrazol-4-yl)-7-methoxy-3-methyl-1,3-dihydroimidazo[4,5-c]quinolin-2-one as white solid.
 Example 13
 Synthesis of 1-(3-fluoro-5-methoxy-4-pyridyl)-7-methoxy-3-methyl-8-(1-methylpyrazol-4-Aimidazo[4,5-c]quinolin-2-one (Compound Example 4)
-a. Synthesis of 6-bromo-N-(3-fluoro-5-methoxy-4-pyridyl)-7-methoxy-3-nitroquinolin-4-amine
+<img> id-US20180072715A1-20180315-C00165.TIF </img>a. Synthesis of 6-bromo-N-(3-fluoro-5-methoxy-4-pyridyl)-7-methoxy-3-nitroquinolin-4-amine
 3-Fluoro-5-methoxypyridin-4-amine (447 mg, 3.02 mmol), dissolved in N,N-dimethylformamide (5 ml), were initially introduced under a dry nitrogen atmosphere. Sodium hydride (504 mg, 12.6 mmol, 60%) was subsequently added to the solution, and the mixture was stirred at room temperature for a further 5 minutes. 6-Bromo-4-chloro-7-methoxy-3-nitro-quinoline (800 mg, 2.52 mmol) was then added to the reaction mixture, the mixture was stirred at room temperature for 15 minutes, and the reaction was subsequently terminated by addition of ice-water (100 ml). The deposited precipitate was filtered off, washed with ice-water and dried, giving 1.0 g (94%) of 6-bromo-N-(3-fluoro-5-methoxy-4-pyridyl)-7-methoxy-3-nitroquinolin-4-amine as yellow solid.b. Synthesis of 6-bromo-N4-(3-fluoro-5-methoxy-4-pyridyl)-7-methoxyquinoline-3,4-diamine
 6-Bromo-N-(3-fluoro-5-methoxy-4-pyridyl)-7-methoxy-3-nitroquinolin-4-amine (990 mg, 2.20 mmol), dissolved in methanol (100 ml), was initially introduced under a nitrogen protective-gas atmosphere. Raney Ni (100 mg, 1.17 mmol) was subsequently added, and the reaction mixture was stirred under a hydrogen atmosphere at atmospheric pressure for 30 minutes. After aeration with nitrogen, the suspension was filtered, and the filtrate was evaporated to dryness in vacuo. The residue was crystallised from ethyl acetate/petroleum ether, giving 0.86 g (99%) of 6-bromo-N4-(3-fluoro-5-methoxy-4-pyridyl)-7-methoxyquino-line-3,4-diamine as yellow solid.c. Synthesis of 8-bromo-1-(3-fluoro-5-methoxy-4-pyridyl)-7-methoxy-3H-imidazo[4,5-c]-quinolin-2-one
 6-Bromo-N4-(3-fluoro-5-methoxy-4-pyridyl)-7-methoxyquinoline-3,4-diamine (0.85 g, 2.20 mmol), dissolved in tetrahydrofuran (20 ml), were initially introduced. 1,1'-Carbonyl-diimidazole (1.84 g, 11.3 mmol) and Hunig base (1.46 g, 11.3 mmol) were subsequently added. The reaction solution was warmed at 40° C. for 16 hours with stirring. The reaction was then terminated by addition of ice-water (200 mL). The deposited precipitate was filtered off, washed with ice-water and dried, giving 0.87 g (94%) of 8-bromo-1-(3-fluoro-5-methoxy-4-pyridyl)-7-methoxy-3H-imidazo[4,5-c]quinolin-2-one as pale-yellow solid.d. Synthesis of 8-bromo-1-(3-fluoro-5-methoxy-4-pyridyl)-7-methoxy-3-methyl-imidazo-[4,5-c]quinolin-2-one
@@ -410,6 +428,7 @@ a. Synthesis of 6-bromo-N-(3-fluoro-5-methoxy-4-pyridyl)-7-methoxy-3-nitroquinol
 The abbreviations used above, which are usual in the specialist area, have the following meanings: MeOH: methanol; Pd(PPh3)4: tetrakis(triphenylphosphine)palladium; EtOAc: ethyl acetate; BOP: benzotriazolyloxytris(dimethylamino)phosphonium hexafluorophosphate; Pd2(dba)3: tris(dibenzylideneacetone)dipalladium
 Example 14
 Compound examples prepared correspondingly or analogously to EXAMPLES 1 to 13 are shown in Table 2 below. The amine derivatives, boronic acid esters or analogues used are summarised in Schema 4 below.
+<img> id-US20180072715A1-20180315-C00166.TIF </img><img> id-US20180072715A1-20180315-C00167.TIF </img><img> id-US20180072715A1-20180315-C00168.TIF </img><img> id-US20180072715A1-20180315-C00169.TIF </img>
 <table>
 <header>
 TABLE 2
@@ -429,726 +448,726 @@ Ex. & Structural formula & Name & (pCHK2) & [μM]
 <header>
 
 </header>
-1 &  & 1-(3,5-Difluoropyridin-2-yl)- 7-methoxy-3-methyl-8-(l- methyl-1H-pyrazol-4-yl)-1,3- dihydroimidazo[4,5-c] quinolin-2-one & +++ & <0.01
+1 & <img> id-US20180072715A1-20180315-C00170.TIF </img> & 1-(3,5-Difluoropyridin-2-yl)- 7-methoxy-3-methyl-8-(l- methyl-1H-pyrazol-4-yl)-1,3- dihydroimidazo[4,5-c] quinolin-2-one & +++ & <0.01
  & MS: 423 (M + H+) & 1H NMR (400 MHz, DMSO-d6, ppm): 8.915
  &  & (s, 1H), 8.855-8.849 (d, J = 2.4 Hz, 1H), 8.544-8.495
  &  & (m, 1H), 8.016 (s, 1H), 7.538 (s, 1H), 7.339 (s, 1H),
  &  & 6.944 (s, 1H), 4.005 (s, 3H), 3.864 (s, 3H), 3.597
  &  & (s, 3H)
-2 &  & 1-(3,5-Difluoropyridin-4-yl)- 7-methoxy-3-methyl-8-(1H- pyrazol-4-yl)-1,3-dihydro- imidazo[4,5-c]quinolin-2- one & +++ & <0.001
+2 & <img> id-US20180072715A1-20180315-C00171.TIF </img> & 1-(3,5-Difluoropyridin-4-yl)- 7-methoxy-3-methyl-8-(1H- pyrazol-4-yl)-1,3-dihydro- imidazo[4,5-c]quinolin-2- one & +++ & <0.001
  & MS: 409 (M + H+) & 1H NMR (400 MHz, DMSO, ppm): 13.036 (s, 1H),
  &  & 9.050 (s, 2H), 8.944 (s, 1H), 7.992 (s, 1H), 7.563
  &  & (s, 1H), 7.440 (s, 1H), 7.281(s, 1H), 4.012 (s, 3H),
  &  & 3.613 (s, 3H)
-3 &  & 1-(1,3-Dimethyl-1H-pyrazol- 4-yl)-7-methoxy-3-methyl-8- (1H-pyrazol-4-yl)-1,3- dihydroimidazo[4,5-c] quinolin-2-one & +++ & <0.001
+3 & <img> id-US20180072715A1-20180315-C00172.TIF </img> & 1-(1,3-Dimethyl-1H-pyrazol- 4-yl)-7-methoxy-3-methyl-8- (1H-pyrazol-4-yl)-1,3- dihydroimidazo[4,5-c] quinolin-2-one & +++ & <0.001
  & MS: 390 (M + H+) & 1H NMR (400 MHz, DMSO, ppm): 13.03(s, 1H), 8.80
  &  & (s, 1H), 8.13 (s, 1H), 7.96 (br, 1H), 7.45 (d, 3H), 3.97
  &  & (m, 6H), 3.53 (s, 3H), 1.94 (s, 3H)
-4 &  & 8-(1,3-Dimethyl-1H-pyrazol- 4-yl)-1-(3-fluoro-5-methoxy- pyridin-4-yl)-7-methoxy-3- methyl-1,3-dihydroimidazo- [4,5-c]quinolin-2-one & +++ & <0.001
+4 & <img> id-US20180072715A1-20180315-C00173.TIF </img> & 8-(1,3-Dimethyl-1H-pyrazol- 4-yl)-1-(3-fluoro-5-methoxy- pyridin-4-yl)-7-methoxy-3- methyl-1,3-dihydroimidazo- [4,5-c]quinolin-2-one & +++ & <0.001
  & MS: 449 (M + H+) & 1H NMR (400 MHz, DMSO, ppm): 8.912
  &  & (s, 1H), 8.707-8.681 (m, 2H), 7.822 (s, 1H), 7.527
  &  & (s, 1H), 6.985 (s, 1H), 3.927 (s, 3H), 3.861 (s, 3H),
  &  & 3.766(s, 3H), 3.595 (s, 3H), 1.744 (s, 3H)
-5 &  & 1-(1,3-Dimethyl-1H-pyrazol- 4-yl)-7-methoxy-3-methyl-8- (1-methyl-1H-pyrazol-4-yl)- 1,3-dihydroimidazo[4,5-c]- quinolin-2-one & +++ & <0.001
+5 & <img> id-US20180072715A1-20180315-C00174.TIF </img> & 1-(1,3-Dimethyl-1H-pyrazol- 4-yl)-7-methoxy-3-methyl-8- (1-methyl-1H-pyrazol-4-yl)- 1,3-dihydroimidazo[4,5-c]- quinolin-2-one & +++ & <0.001
  & MS: 404 (M + H+) & 1H NMR (400 MHz, DMSO, ppm): 8.80 (s, 1H), 8.13
  &  & (s, 1H), 8.00 (s, 1H), 7.41(m, 3H), 3.97 (m, 6H), 3.87
  &  & (d, 3H), 3.54 (s, 3H), 1.94 (s, 3H)
-6 &  & 1-(3,5-Difluoropyridin-2-yl)- 7-methoxy-3-methyl-8-(1H- pyrazol-4-yl)-1,3-dihydro- imidazo[4,5-c]quinolin-2- one & +++ & <0.001
+6 & <img> id-US20180072715A1-20180315-C00175.TIF </img> & 1-(3,5-Difluoropyridin-2-yl)- 7-methoxy-3-methyl-8-(1H- pyrazol-4-yl)-1,3-dihydro- imidazo[4,5-c]quinolin-2- one & +++ & <0.001
  & MS: 410 (M + H+) & 1H NMR (400 MHz, DMSO, ppm): 12.95 (br, 1H),
  &  & 8.86 (d, 2H), 8.51 (m, 1H), 7.71 (s, 2H), 7.52 (s, 1H),
  &  & 6.96 (s, 1H), 3.99 (s, 3H), 3.29 (s. 3H)
-7 &  & 1-(3-Fluoropyridin-2-yl)-7- methoxy-3-methyl-8-(1H- pyrazol-4-yl)-1,3-dihydro- imidazo[4,5-c]quinolin-2- one & +++ & <0.001
+7 & <img> id-US20180072715A1-20180315-C00176.TIF </img> & 1-(3-Fluoropyridin-2-yl)-7- methoxy-3-methyl-8-(1H- pyrazol-4-yl)-1,3-dihydro- imidazo[4,5-c]quinolin-2- one & +++ & <0.001
  & MS: 391 (M + H+) & 1H NMR (300 MHz, DMSO, ppm): 13.007 (s, 1H),
  &  & 8.907 (s, 1H), 8.727 (s, 1H), 8.305-8.241 (m, 1H),
  &  & 7.981-7.939 (m, 2H), 7.526 (s, 1H), 7.321 (s, 1H),
  &  & 6.934 (s, 1H), 3.997 (s, 3H), 3.597 (s, 3H)
-8 &  & 1-(3-Fluoro-5-methylpyridin- 4-yl)-7-methoxy-3-methyl-8- (1H-pyrazol-4-yl)-1,3- dihydroimidazo[4,5-c] quinolin-2-one & +++ & <0.001
+8 & <img> id-US20180072715A1-20180315-C00177.TIF </img> & 1-(3-Fluoro-5-methylpyridin- 4-yl)-7-methoxy-3-methyl-8- (1H-pyrazol-4-yl)-1,3- dihydroimidazo[4,5-c] quinolin-2-one & +++ & <0.001
  & MS: 405 (M + H+) & 1H NMR (400 MHz, DMSO, ppm): 13.035 (s, 1H),
  &  & 8.930 (s, 1H), 8.901 (s, 1H), 8.805 (s, 1H), 7.920
  &  & (s, 1H), 7.544 (s, 1H), 7.271 (s, 1H), 7.030 (s, 1H),
  &  & 3.999 (s, 3H), 3.615 (s, 3H), 2.220 (s, 3H)
-9 &  & 1-(3-Fluoropyridin-4-yl)-7- methoxy-3-methyl-8-(1H- pyrazol-4-yl)-1,3-dihydro- imidazo[4,5-c]quinolin-2- one & +++ & <0.001
+9 & <img> id-US20180072715A1-20180315-C00178.TIF </img> & 1-(3-Fluoropyridin-4-yl)-7- methoxy-3-methyl-8-(1H- pyrazol-4-yl)-1,3-dihydro- imidazo[4,5-c]quinolin-2- one & +++ & <0.001
  & MS: 391 (M + H+) & 1H NMR (400 MHz, DMSO, ppm): 13.023 (s, 1H),
  &  & 9.075 (s, 1H), 8.908 (s, 1H), 8.838-8.825 (d,
  &  & J = 5.2 Hz, 1H), 7.997-7.940 (m, 2H), 7.537 (s, 1H),
  &  & 7.337 (s, 1H), 7.195 (s, 1H), 4.000 (s, 3H), 3.589
  &  & (s, 3H)
-10 &  & 1,8-Bis-(1,3-dimethyl-1H- pyrazol-4-yl)-7-methoxy-3- methyl-1,3-dihydroimidazo- [4,5-c]quinolin-2-one & +++ & <0.001
+10 & <img> id-US20180072715A1-20180315-C00179.TIF </img> & 1,8-Bis-(1,3-dimethyl-1H- pyrazol-4-yl)-7-methoxy-3- methyl-1,3-dihydroimidazo- [4,5-c]quinolin-2-one & +++ & <0.001
  & MS: 418 (M + H+) & 1H NMR (400 MHz, DMSO, ppm): 8.82 (s, 1H),
  &  & 8.08 (s, 1H), 7.86 (s, 1H), 7.48 (s, 1H), 7.35 (s, 1H),
  &  & 3.92 (d, 3H), 3.87 (s, 3H), 3.78 (s, 3H), 3.54 (s, 3H),
  &  & 1.90 (d, 6H)
-11 &  & 1-(3,5-Difluoropyridin-2-yl)- 8-(1,3-dimethyl-1H-pyrazol- 4-yl)-7-methoxy-3-methyl- 1,3-dihydroimidazo[4,5-c]- quinolin-2-one & +++ & <0.001
+11 & <img> id-US20180072715A1-20180315-C00180.TIF </img> & 1-(3,5-Difluoropyridin-2-yl)- 8-(1,3-dimethyl-1H-pyrazol- 4-yl)-7-methoxy-3-methyl- 1,3-dihydroimidazo[4,5-c]- quinolin-2-one & +++ & <0.001
  & MS: 437 (M + H+) & 1H NMR (400 MHz, DMSO, ppm): 8.829 (s, 1H),
  &  & 8.605-8.599 (d, J = 2.4 Hz, 1H), 8.133-8.085 (m, 1H),
  &  & 7.700 (s, 1H), 7.499 (s, 1H), 6.874 (s, 1H), 3.985
  &  & (s, 3H), 3.852 (s, 3H), 3.680 (s, 3H), 1.948 (s, 3H)
-12 &  & 1-(3-Ethyl-5-fluoropyridin-4- yl)-7-methoxy-3-methyl-8- (1-methyl-1H-pyrazol-4-yl)- 1,3-dihydroimidazo[4,5-c]- quinolin-2-one & +++ & <0.001
+12 & <img> id-US20180072715A1-20180315-C00181.TIF </img> & 1-(3-Ethyl-5-fluoropyridin-4- yl)-7-methoxy-3-methyl-8- (1-methyl-1H-pyrazol-4-yl)- 1,3-dihydroimidazo[4,5-c]- quinolin-2-one & +++ & <0.001
  & MS: 433 (M + H+) & 1H NMR (400 MHz, DMSO, ppm): 8.935 (s, 2H),
  &  & 8.853 (s, 1H), 7.986 (s, 1H), 7.545 (s, 1H), 7.062
  &  & (s, 1H), 6.960 (s, 1H), 3.994 (s, 3H), 3.844 (s, 3H),
  &  & 3.618 (s, 3H), 2.672-2.600 (m, 2H), 1.069-1.002
  &  & (m, 3H)
-13 &  & 8-(1-Ethyl-1H-pyrazol-4-yl)- 1-(3-fluoro-5- methoxypyridin-4-yl)-7- methoxy-3-methyl-1,3- dihydroimidazo[4,5-c]- quinolin-2-one & +++ & <0.001
+13 & <img> id-US20180072715A1-20180315-C00182.TIF </img> & 8-(1-Ethyl-1H-pyrazol-4-yl)- 1-(3-fluoro-5- methoxypyridin-4-yl)-7- methoxy-3-methyl-1,3- dihydroimidazo[4,5-c]- quinolin-2-one & +++ & <0.001
  & MS: 449 (M + H+) & 1H NMR (400 MHz, DMSO, ppm): 8.896 (s, 1H),
  &  & 8.789 (s, 1H), 8.744 (s, 1H), 8.024 (s, 1H), 7.527
  &  & (s, 1H), 7.206 (s, 1H), 7.158 (s, 1H), 4.175-4.120
  &  & (m, 2H), 4.002 (s, 3H), 3.877 (s, 3H), 3.333 (s, 3H),
  &  & 1.390-1.354 (m, 3H)
-14 &  & 1-(3-Fluoropyridin-2-yl)-7- methoxy-3-methyl-8-(1- methyl-1H-pyrazol-4-yl)-1,3- dihydroimidazo[4,5-c]- quinolin-2-one & +++ & <0.001
+14 & <img> id-US20180072715A1-20180315-C00183.TIF </img> & 1-(3-Fluoropyridin-2-yl)-7- methoxy-3-methyl-8-(1- methyl-1H-pyrazol-4-yl)-1,3- dihydroimidazo[4,5-c]- quinolin-2-one & +++ & <0.001
  & MS: 405 (M + H+) & 1H NMR (400 MHz, DMSO, ppm): 8.908 (s, 1H),
  &  & 8.719-8.708 (m, 1H), 8.295-8.271 (m, 1H), 7.977-
  &  & 7.930 (m, 2H), 7.525 (s, 1H), 7.195-7.194 (s, 1H),
  &  & 6.896 (s, 1H), 4.033 (s, 3H), 3.994 (s, 3H), 3.595
  &  & (s, 3H)
-15 &  & 1-(3-Fluoro-5- methoxypyridin-4-yl)-7- methoxy-3-methyl-8-(1- methyl-1H-pyrazol-4-yl)-1,3- dihydroimidazo[4,5-c]- quinolin-2-one & +++ & <0.001
+15 & <img> id-US20180072715A1-20180315-C00184.TIF </img> & 1-(3-Fluoro-5- methoxypyridin-4-yl)-7- methoxy-3-methyl-8-(1- methyl-1H-pyrazol-4-yl)-1,3- dihydroimidazo[4,5-c]- quinolin-2-one & +++ & <0.001
  & MS: 435 (M + H+) & 1H NMR (400 MHz, DMSO, ppm): 8.896 (s, 1H),
  &  & 8.780 (s, 1H), 8.739 (s, 1H), 8.007 (s, 1H), 7.528
  &  & (s, 1H), 7.176-7.149 (m, 2H), 3.998 (s, 3H), 3.870
  &  & (s, 6H), 3.596 (s, 3H)
-16 &  & 8-(1,3-Dimethyl-1H-pyrazol- 4-yl)-1-(3-fluoropyridin-2-yl)- 7-methoxy-3-methyl-1,3- dihydroimidazo[4,5-c] quinolin-2-one & +++ & <0.001
+16 & <img> id-US20180072715A1-20180315-C00185.TIF </img> & 8-(1,3-Dimethyl-1H-pyrazol- 4-yl)-1-(3-fluoropyridin-2-yl)- 7-methoxy-3-methyl-1,3- dihydroimidazo[4,5-c] quinolin-2-one & +++ & <0.001
  & MS: 419 (M + H+) & 1H NMR (400 MHz, DMSO-d6) ppm = 8.93
  &  & (s, 1H), 8.63-8.62 (d, J = 4.8 Hz, 1H), 8.25-8.20 (m,
  &  & 1H), 7.89-7.85 (m, 1H), 7.77 (s, 1H), 7.53 (s, 1H),
  &  & 6.77 (s, 1H), 3.92 (s, 3H), 3.76 (s, 3H), 3.59 (s,
  &  & 3H), 1.75 (s, 3H)
-17 &  & 7-Methoxy-3-methyl-1-(1- methyl-1H-pyrazol-4-yl)-8- (1H-pyrazol-4-yl)-1,3- dihydroimidazo[4,5-c] quinolin-2-one & +++ & <0.001
+17 & <img> id-US20180072715A1-20180315-C00186.TIF </img> & 7-Methoxy-3-methyl-1-(1- methyl-1H-pyrazol-4-yl)-8- (1H-pyrazol-4-yl)-1,3- dihydroimidazo[4,5-c] quinolin-2-one & +++ & <0.001
  & MS: 375 (M + H+) & 1H NMR (300 MHz, DMSO, ppm): 13.009 (s, 1H),
  &  & 8.802 (s, 1H), 8.239 (s, 1H), 7.818 (s, 1H), 7.729
  &  & (s, 2H), 7.476 (m, 2H), 4.034 (s, 3H), 3.987 (s, 3H),
  &  & 3.532 (s, 3H)
-18 &  & 1-(3-Fluoro-5-methylpyridin- 4-yl)-7-methoxy-3-methyl-8- (1-methyl-1H-pyrazol-4-yl)- 1,3-dihydroimidazo[4,5-c] quinolin-2-one & +++ & <0.01
+18 & <img> id-US20180072715A1-20180315-C00187.TIF </img> & 1-(3-Fluoro-5-methylpyridin- 4-yl)-7-methoxy-3-methyl-8- (1-methyl-1H-pyrazol-4-yl)- 1,3-dihydroimidazo[4,5-c] quinolin-2-one & +++ & <0.01
  & MS: 419 (M + H+) & 1H NMR (400 MHz, DMSO, ppm): 8.930 (s, 1H),
  &  & 8.895 (s, 1H), 8.800 (s, 1H), 7.981 (s, 1H), 7.544
  &  & (s, 1H), 7.109 (s, 1H), 6.999 (s, 1H), 3.996 (s, 3H),
  &  & 3.844 (s, 3H), 3.613 (s, 3H), 2.215 (s, 3H)
-19 &  & 7-Methoxy-3-methyl-1-(3- methylpyridin-4-yl)-8-(1H- pyrazol-4-yl)-1,3-dihydro- imidazo[4,5-c]quinolin-2- one & +++ & <0.01
+19 & <img> id-US20180072715A1-20180315-C00188.TIF </img> & 7-Methoxy-3-methyl-1-(3- methylpyridin-4-yl)-8-(1H- pyrazol-4-yl)-1,3-dihydro- imidazo[4,5-c]quinolin-2- one & +++ & <0.01
  & MS: 387 (M + H+) & 1H NMR (400 Hz, DMSO, ppm): 2.141 (s, 3H),
  &  & 3.596 (s, 3H), 3.991 (s, 3H), 6.970 (s, 1H), 7.202
  &  & (s, 1H), 7.517 (s, 1H), 7.682-7.695 (d, J = 5.2 Hz,
  &  & 1H), 7.883 (s, 1H), 8.777-8.789 (d, J = 4.8 Hz, 1H),
  &  & 8.900 (s, 2H), 13.016 (s, 1H)
-20 &  & 1-(3-Fluoro-5-methylpyridin- 2-yl)-7-methoxy-3-methyl-8- (1H-pyrazol-4-yl)-1,3- dihydroimidazo[4,5-c] quinolin-2-one & +++ & <0.001
+20 & <img> id-US20180072715A1-20180315-C00189.TIF </img> & 1-(3-Fluoro-5-methylpyridin- 2-yl)-7-methoxy-3-methyl-8- (1H-pyrazol-4-yl)-1,3- dihydroimidazo[4,5-c] quinolin-2-one & +++ & <0.001
  & MS: 405 (M + H+) & 1H NMR (400 MHz, MeOD, ppm): 8.747 (s, 1H),
  &  & 8.514 (s, 1H), 7.941-7.914 (d, J = 10.8, 2H), 7.422
  &  & (s, 2H), 6.947 (s, 1H), 4.019 (s, 3H), 3.654 (s, 3H),
  &  & 2.618 (s, 3H)
-21 &  & 1-(1,3-Dimethyl-1H-pyrazol- 4-yl)-8-(1-ethyl-1H-pyrazol- 4-yl)-7-methoxy-3-methyl- 1,3-dihydroimidazo[4,5-c] quinolin-2-one & +++ & <0.001
+21 & <img> id-US20180072715A1-20180315-C00190.TIF </img> & 1-(1,3-Dimethyl-1H-pyrazol- 4-yl)-8-(1-ethyl-1H-pyrazol- 4-yl)-7-methoxy-3-methyl- 1,3-dihydroimidazo[4,5-c] quinolin-2-one & +++ & <0.001
  & MS: 418 (M + H+) & 1H NMR (400 MHz, DMSO, ppm): 8.81 (s, 1H), 8.14
  &  & (s, 1H), 8.03 (s, 1H), 7.78-7.38 (m, 3H), 4.16
  &  & (m, 2H), 3.99 (d, 6H), 3.55 (s, 3H), 1.95 (s, 3H), 1.40
  &  & (m, 3H)
-22 &  & 1-(3,5-Difluoropyridin-4-yl)- 7-methoxy-3-methyl-8-(1- methyl-1H-pyrazol-4-yl)-1,3- dihydroimidazo[4,5-c] quinolin-2-one & +++ & <0.001
+22 & <img> id-US20180072715A1-20180315-C00191.TIF </img> & 1-(3,5-Difluoropyridin-4-yl)- 7-methoxy-3-methyl-8-(1- methyl-1H-pyrazol-4-yl)-1,3- dihydroimidazo[4,5-c] quinolin-2-one & +++ & <0.001
  & MS: 423 (M + H+) & 1H NMR (400 MHz, DMSO, ppm): 9.050 (s, 2H),
  &  & 8.499 (s., 1H), 8.030 (s, 1H), 7.562 (s, 1H), 7.312-
  &  & 7.254 (d, J = 23.2, 2H), 4.010 (s, 3H), 3.854 (s, 3H),
  &  & 3.611 (s, 3H).
-23 &  & 7-Methoxy-3-methyl-1,8-bis- (1-methyl-1H-pyrazol-4-yl)- 1,3-dihydroimidazo[4,5-c] quinolin-2-one & +++ & <0.01
+23 & <img> id-US20180072715A1-20180315-C00192.TIF </img> & 7-Methoxy-3-methyl-1,8-bis- (1-methyl-1H-pyrazol-4-yl)- 1,3-dihydroimidazo[4,5-c] quinolin-2-one & +++ & <0.01
  & MS: 390 (M + H+) & 1H NMR (300 MHz, DMSO, ppm): 8.798 (s, 1H),
  &  & 8.241 (s, 1H), 8.005 (s, 1H), 7.811 (s, 1H), 7.471-
  &  & 7.462 (d, J = 2.7 Hz, 2H), 7.348 (s, 1H), 4.037 (s, 3H),
  &  & 3.984 (s, 3H), 3.874 (s, 3H), 3.525 (s, 3H)
-24 &  & 8-(1-Ethyl-1H-pyrazol-4-yl)- 1-(3-fluoropyridin-2-yl)-7- methoxy-3-methyl-1,3- dihydroimidazo[4,5-c] quinolin-2-one & +++ & <0.001
+24 & <img> id-US20180072715A1-20180315-C00193.TIF </img> & 8-(1-Ethyl-1H-pyrazol-4-yl)- 1-(3-fluoropyridin-2-yl)-7- methoxy-3-methyl-1,3- dihydroimidazo[4,5-c] quinolin-2-one & +++ & <0.001
  & MS: 419 (M + H+) & 1H NMR (400 MHz, DMSO, ppm): 8.907 (s, 1H),
  &  & 8.732-8.721 (m, 1H), 8.300-8.252 (m, 1H), 7.997-
  &  & 7.936 (m, 2H), 7.524 (s, 1H), 7.226 (s, 1H), 6.907
  &  & (s, 1H), 4.165-40125 (m, 2H), 3.998 (s, 3H), 3.596
  &  & (s, 3H), 1.387-1.350 (m, 3H)
-25 &  & 1-(3-Ethyl-5-fluoropyridin-4- yl)-8-(1-ethyl-1H-pyrazol-4- yl)-7-methoxy-3-methyl-1,3- dihydroimidazo[4,5-c] quinolin-2-one & +++ & <0.001
+25 & <img> id-US20180072715A1-20180315-C00194.TIF </img> & 1-(3-Ethyl-5-fluoropyridin-4- yl)-8-(1-ethyl-1H-pyrazol-4- yl)-7-methoxy-3-methyl-1,3- dihydroimidazo[4,5-c] quinolin-2-one & +++ & <0.001
  & MS: 447 (M + H+) & 1H NMR (400 MHz, DMSO, ppm): 8.934 (s, 2H),
  &  & 8.860 (s, 1H), 8.001 (s, 1H), 7.544 (s, 1H), 7.098
  &  & (s, 1H), 6.973 (s, 1H), 4.165-4.111 (m, 2H), 3.999
  &  & (s, 3H), 3.619 (s, 3H), 2.678-2.605 (m, 2H), 1.384-
  &  & 1.348 (m, 3H), 1.045-1.007 (m, 3H)
-26 &  & 1-(3,5-Difluoropyridin-4-yl)- 8-(1-ethyl-1H-pyrazol-4-yl)- 7-methoxy-3-methyl-1,3- dihydroimidazo[4,5-c] quinolin-2-one & +++ & <0.001
+26 & <img> id-US20180072715A1-20180315-C00195.TIF </img> & 1-(3,5-Difluoropyridin-4-yl)- 8-(1-ethyl-1H-pyrazol-4-yl)- 7-methoxy-3-methyl-1,3- dihydroimidazo[4,5-c] quinolin-2-one & +++ & <0.001
  & MS: 437 (M + H+) & 1H NMR (300 MHz, DMSO, ppm): 9.162 (s, 1H),
  &  & 9.078 (s, 2H), 8.101 (s., 1H), 7.618 (s, 1H), 7.380
  &  & (s, 2H), 4.192-4.120 (m, 2H), 4.062 (s, 3H), 3.631
  &  & (s, 3H), 1.398-1.351 (m, 3H).
-27 &  & 1-(3-Fluoro-5-methylpyridin- 2-yl)-7-methoxy-3-methyl-8- (1-methyl-1H-pyrazol-4-yl)- 1,3-dihydroimidazo[4,5-c] quinolin-2-one & +++ & <0.001
+27 & <img> id-US20180072715A1-20180315-C00196.TIF </img> & 1-(3-Fluoro-5-methylpyridin- 2-yl)-7-methoxy-3-methyl-8- (1-methyl-1H-pyrazol-4-yl)- 1,3-dihydroimidazo[4,5-c] quinolin-2-one & +++ & <0.001
  & MS: 419 (M + H+) & 1H NMR (400 MHz, DMSO, ppm): 8.896 (s, 1H),
  &  & 8.577 (s, 1H), 8.144-8.118 (d, J = 10.4, 1H), 7.948
  &  & (s, 1H), 7.517 (s, 1H), 7.218 (s, 1H), 6.857 (s, 1H),
  &  & 3.992 (s, 3H), 3.852 (s, 3H), 3.588 (s, 3H), 2.672
  &  & (s, 3H)
-28 &  & 7-Methoxy-1-(3-methoxy- pyridin-4-yl)-3-methyl-8-(1- methyl-1H-pyrazol-4-yl)-1,3- dihydroimidazo[4,5-c] quinolin-2-one & +++ & <0.01
+28 & <img> id-US20180072715A1-20180315-C00197.TIF </img> & 7-Methoxy-1-(3-methoxy- pyridin-4-yl)-3-methyl-8-(1- methyl-1H-pyrazol-4-yl)-1,3- dihydroimidazo[4,5-c] quinolin-2-one & +++ & <0.01
  & MS: 417 (M + H+) & 1H NMR (300 MHz, DMSO, ppm): 8.855 (m, 2H),
  &  & 8.581 (s, 1H), 7.973 (s., 1H), 7.758 (s, 1H), 7.492
  &  & (s, 1H), 7.093 (s, 2H), 4.021 (s, 3H), 3.843 (m, 3H),
  &  & 3.570 (s, 3H), 3.319 (s, 3H)
-29 &  & 1-(3-Fluoropyridin-2-yl)-7- methoxy-3-methyl-8-(5- methyl-1H-pyrazol-3-yl)-1,3- dihydroimidazo[4,5-c] quinolin-2-one & +++ & <0.01
+29 & <img> id-US20180072715A1-20180315-C00198.TIF </img> & 1-(3-Fluoropyridin-2-yl)-7- methoxy-3-methyl-8-(5- methyl-1H-pyrazol-3-yl)-1,3- dihydroimidazo[4,5-c] quinolin-2-one & +++ & <0.01
  & MS: 405 (M + H+) & 1H NMR (400 MHz, DMSO, ppm): 8.936 (s, 1H),
  &  & 8.628 (s, 1H), 8.263-8.239 (m, 1H), 7.891-7.841
  &  & (m, 2H), 7.541 (s, 1H), 7.376 (s, 1H), 6.319 (s, 1H),
  &  & 5.980 (s, 1H), 4.016 (s, 3H), 3.595 (s, 3H), 2.220
  &  & (s, 3H)
-30 &  & 7-Methoxy-3-methyl-1-(2- methylthiazol-4-yl)-8-(1H- pyrazol-4-yl)-1,3-dihydro- imidazo[4,5-c]quinolin-2- one & +++ & <0.01
+30 & <img> id-US20180072715A1-20180315-C00199.TIF </img> & 7-Methoxy-3-methyl-1-(2- methylthiazol-4-yl)-8-(1H- pyrazol-4-yl)-1,3-dihydro- imidazo[4,5-c]quinolin-2- one & +++ & <0.01
  & MS: 393 (M + H+) & 1H NMR (400 MHz, DMSO, ppm): 12.96 (br, 1H),
  &  & 8.84 (s, 1H), 8.00 (s, 1H), 7.73 (s, 2H), 7.48 (s, 1H),
  &  & 7.15 (s, 1H), 3.99 (s, 3H), 3.55 (s, 3H), 2.79 (s, 3H)
-31 &  & 1-(5-Fluoropyrimidin-4-yl)-7- methoxy-3-methyl-8-(1- methyl-1H-pyrazol-4-yl)- 1H,2H,3H-imidazo[4,5-c] quinolin-2-one hydrochloride & +++ & <0.01
+31 & <img> id-US20180072715A1-20180315-C00200.TIF </img> & 1-(5-Fluoropyrimidin-4-yl)-7- methoxy-3-methyl-8-(1- methyl-1H-pyrazol-4-yl)- 1H,2H,3H-imidazo[4,5-c] quinolin-2-one hydrochloride & +++ & <0.01
  & MS: 406 (M + H+) & 1H NMR (400 MHz, DMSO, ppm): 9.43-9.31
  &  & (m, 3H), 8.14 (s, 1H), 7.75 (s, 1H), 7.56 (d, 2H), 4.08
  &  & (s, 3H), 3.88 (s, 3H), 3.62 (s, 3H)
-32 &  & 7-Methoxy-1-(3-methoxy- pyridin-4-yl)-3-methyl-8- (1H-pyrazol-4-yl)-1,3- dihydroimidazo[4,5-c]- quinolin-2-one & +++ & <0.01
+32 & <img> id-US20180072715A1-20180315-C00201.TIF </img> & 7-Methoxy-1-(3-methoxy- pyridin-4-yl)-3-methyl-8- (1H-pyrazol-4-yl)-1,3- dihydroimidazo[4,5-c]- quinolin-2-one & +++ & <0.01
  & MS: 403 (M + H+) & 1H NMR (300 MHz, DMSO, ppm): 13.016 (s, 1H),
  &  & 8.856 (s, 2H), 8.584 (s., 1H), 7.908 (s, 1H), 7.766
  &  & (s, 1H), 7.492 (s, 1H), 7.255 (s, 1H), 7.119 (s, 1H),
  &  & 3.986 (s, 3H), 3.801 (s, 3H), 3.571 (s, 3H)
-33 &  & 8-(1-Ethyl-1H-pyrazol-4-yl)- 1-(3-fluoropyridin-4-yl)-7- methoxy-3-methyl-1,3- dihydroimidazo[4,5-c] quinolin-2-one & +++ & <0.001
+33 & <img> id-US20180072715A1-20180315-C00202.TIF </img> & 8-(1-Ethyl-1H-pyrazol-4-yl)- 1-(3-fluoropyridin-4-yl)-7- methoxy-3-methyl-1,3- dihydroimidazo[4,5-c] quinolin-2-one & +++ & <0.001
  & MS: 419 (M + H+) & 1H NMR (400 MHz, DMSO, ppm): 9.076 (s, 1H),
  &  & 8.908 (s, 1H), 8.842-8.829 (d, J = 5.2 Hz, 1H), 8.009
  &  & (s, 1H), 7.997-7.969 (m, 1H), 7.535 (s, 1H), 7.217
  &  & (s, 1H), 7.175 (s, 1H), 4.166-4.112 (m, 2H), 4.000
  &  & (s, 3H), 3.587 (s, 3H), 1.383-1.347 (m, 3H)
-34 &  & 8-(1-Ethyl-1H-pyrazol-4-yl)- 7-methoxy-3-methyl-1-(3- methylpyridin-4-yl)-1,3- dihydroimidazo[4,5-c] quinolin-2-one & +++ & <0.01
+34 & <img> id-US20180072715A1-20180315-C00203.TIF </img> & 8-(1-Ethyl-1H-pyrazol-4-yl)- 7-methoxy-3-methyl-1-(3- methylpyridin-4-yl)-1,3- dihydroimidazo[4,5-c] quinolin-2-one & +++ & <0.01
  & MS: 415 (M + H+) & 1H NMR (400 MHz, DMSO, ppm): 1.349-1.386 (t,
  &  & J = 7.4 Hz, 3H), 2.139 (s, 3H), 3.597 (s, 3H), 3.994
  &  & (s, 3H), 4.1-4.2 (m, 2H), 6.949 (s, 1H), 7.066 (s,
  &  & 1H), 7.517 (s, 1H), 7.682-7.695 (d, J = 5.2 Hz, 1H),
  &  & 7.968 (s, 1H), 8.780-8.793 (d, J = 5.2 Hz, 1H), 8.900
  &  & (s, 2H)
-35 &  & 1-(3-Fluoropyridin-4-yl)-7- methoxy-3-methyl-8-(1- methyl-1H-pyrazol-4-yl)-1,3- dihydroimidazo[4,5-c] quinolin-2-one & +++ & <0.01
+35 & <img> id-US20180072715A1-20180315-C00204.TIF </img> & 1-(3-Fluoropyridin-4-yl)-7- methoxy-3-methyl-8-(1- methyl-1H-pyrazol-4-yl)-1,3- dihydroimidazo[4,5-c] quinolin-2-one & +++ & <0.01
  & MS: 405 (M + H+) & 1H NMR (400 MHz, DMSO, ppm): 9.073-9.070 (d,
  &  & J = 1.2 Hz, 1H), 8.901 (s, 1H), 8.838-8.825 (d,
  &  & J = 5.2 Hz, 1H), 7.993-7.964 (m, 2H), 7.532 (s, 1H),
  &  & 7.185 (s, 1H), 7.164 (s, 1H), 3.995 (s, 3H), 3.847
  &  & (s, 3H), 3.583 (s, 3H)
-36 &  & 1-(5-Fluoropyrimidin-2-yl)-7- methoxy-3-methyl-8-(1- methyl-1H-pyrazol-4-yl)-1,3- dihydroimidazo[4,5-c] quinolin-2-one & +++ & <0.01
+36 & <img> id-US20180072715A1-20180315-C00205.TIF </img> & 1-(5-Fluoropyrimidin-2-yl)-7- methoxy-3-methyl-8-(1- methyl-1H-pyrazol-4-yl)-1,3- dihydroimidazo[4,5-c] quinolin-2-one & +++ & <0.01
  & MS: 406 (M + H+) & 1H NMR (400 MHz, DMSO, ppm): 9.33 (s, 2H), 8.89
  &  & (s, 1H), 8.08 (s, 1H), 7.51 (s, 1H), 7.42 (s, 1H), 6.92
  &  & (s, 1H), 4.11 (s, 3H), 3.99 (s, 3H), 3.57 (s, 3H)
-37 &  & 7-Methoxy-3-methyl-8-(1H- pyrazol-4-yl)-1-[1- (tetrahydropyran-4-yl)-1H- pyrazol-4-yl]-1,3-dihydro- imidazo[4,5-c] quinolin-2- one & +++ & <0.01
+37 & <img> id-US20180072715A1-20180315-C00206.TIF </img> & 7-Methoxy-3-methyl-8-(1H- pyrazol-4-yl)-1-[1- (tetrahydropyran-4-yl)-1H- pyrazol-4-yl]-1,3-dihydro- imidazo[4,5-c] quinolin-2- one & +++ & <0.01
  & MS: 446 (M + H+) & 1H NMR (400 MHz, DMSO, ppm): 12.98 (br, 1H),
  &  & 8.79 (s, 1H), 8.35 (s, 1H), 7.84 (s, 1H), 7.69 (s, 2H),
  &  & 7.44 (d, 2H), 4.58 (m, 1H), 4.00 (m, 5H), 3.52
  &  & (m, 5H), 2.07 (m, 4H)
-38 &  & 8-(1-Ethyl-1H-pyrazol-4-yl)- 1-(3-fluoro-5-methylpyridin- 4-yl)-7-methoxy-3-methyl- 1,3-dihydroimidazo[4,5-c] quinolin-2-one & ++ & <0.001
+38 & <img> id-US20180072715A1-20180315-C00207.TIF </img> & 8-(1-Ethyl-1H-pyrazol-4-yl)- 1-(3-fluoro-5-methylpyridin- 4-yl)-7-methoxy-3-methyl- 1,3-dihydroimidazo[4,5-c] quinolin-2-one & ++ & <0.001
  & MS: 433 (M + H+) & 1H NMR (400 MHz, DMSO, ppm): 8.929 (s, 1H),
  &  & 8.904 (s, 1H), 8.806 (s, 1H), 7.993 (s, 1H), 7.543
  &  & (s, 1H), 7.144 (s, 1H), 7.010 (s, 1H), 4.165-4.111
  &  & (m, 2H), 4.000 (s, 3H), 3.614 (s, 3H), 2.218 (s, 3H),
  &  & 1.384-1.348 (m, 3H)
-39 &  & 8-(1,3-Dimethyl-1H-pyrazol- 4-yl)-1-(3-fluoro-5-methyl- pyridin-4-yl)-7-methoxy-3- methyl-1,3-dihydroimidazo- [4,5-c]quinolin-2-one & ++ & <0.001
+39 & <img> id-US20180072715A1-20180315-C00208.TIF </img> & 8-(1,3-Dimethyl-1H-pyrazol- 4-yl)-1-(3-fluoro-5-methyl- pyridin-4-yl)-7-methoxy-3- methyl-1,3-dihydroimidazo- [4,5-c]quinolin-2-one & ++ & <0.001
  & MS: 433 (M + H+) & 1H NMR (400 MHz, DMSO, ppm): 8.948 (s, 1H),
  &  & 8.833 (s, 1H), 8.732 (s, 1H), 7.824 (s, 1H), 7.545
  &  & (s, 1H), 6.874 (s, 1H), 3.929 (s, 3H), 3.759 (s, 3H),
  &  & 3.611 (s, 3H), 2.189 (s, 3H), 1.702 (s, 3H)
-40 &  & 7-Methoxy-3-methyl-8-(1- methyl-1H-pyrazol-4-yl)-1- (3-methylpyridin-4-yl)-1,3- dihydroimidazo[4,5-c] quinolin-2-one & ++ & <0.01
+40 & <img> id-US20180072715A1-20180315-C00209.TIF </img> & 7-Methoxy-3-methyl-8-(1- methyl-1H-pyrazol-4-yl)-1- (3-methylpyridin-4-yl)-1,3- dihydroimidazo[4,5-c] quinolin-2-one & ++ & <0.01
  & MS: 401 (M + H+) & 1H NMR (400 MHz, DMSO, ppm): 2.128 (s, 3H),
  &  & 3.589 (s, 3H), 3.833 (s, 3H), 3.982 (s, 3H), 6.933
  &  & (s, 1H), 7.018 (s, 1H), 7.511 (s, 1H), 7.665-7.678
  &  & (d, J = 5.2 Hz, 1H), 7.953 (s, 1H), 8.764-8.777 (d,
  &  & J = 5.2 Hz, 1H), 8.886-8.893 (d, J = 2.8 Hz, 2H).
-41 &  & 7-Methoxy-3-methyl-1-(2- methyl-2H-pyrazol-3-yl)-8- (1H-pyrazol-4-yl)-1,3- dihydroimidazo[4,5-c] quinolin-2-one & ++ & <0.01
+41 & <img> id-US20180072715A1-20180315-C00210.TIF </img> & 7-Methoxy-3-methyl-1-(2- methyl-2H-pyrazol-3-yl)-8- (1H-pyrazol-4-yl)-1,3- dihydroimidazo[4,5-c] quinolin-2-one & ++ & <0.01
  & MS: 376 (M + H+) & 1H NMR (400 MHz, DMSO, ppm): 8.77 (s, 1H), 7.85
  &  & (s, 1H), 7.73 (s, 2H), 7.50 (s, 1H), 6.92 (s, 1H), 6.71
  &  & (s, 1H), 6.04 (s, 1H), 3.99 (s, 3H), 3.73 (s, 3H), 3.62
  &  & (s, 3H)
-42 &  & 1-(1,3-Dimethyl-1H-pyrazol- 4-yl)-7-methoxy-3-methyl-8- (1-methyl-1H-1,2,3-triazol- 4-yl)-1,3-dihydroimidazo- [4,5-c]quinolin-2-one & ++ & <0.01
+42 & <img> id-US20180072715A1-20180315-C00211.TIF </img> & 1-(1,3-Dimethyl-1H-pyrazol- 4-yl)-7-methoxy-3-methyl-8- (1-methyl-1H-1,2,3-triazol- 4-yl)-1,3-dihydroimidazo- [4,5-c]quinolin-2-one & ++ & <0.01
  & MS: 405 (M + H+) & 1H NMR (400 MHz, DMSO, ppm): 8.85 (s, 1H), 8.40
  &  & (s, 1H), 8.28 (s, 1H), 8.08 (s, 1H), 7.52 (s, 1H), 4.07
  &  & (s, 3H), 4.01 (s, 3H), 3.91 (s, 3H), 3.54 (s, 3H), 1.93
  &  & (s, 3H)
-43 &  & 7-Methoxy-3-methyl-1-(3- methyl-1H-pyrazol-4-yl)-8- (1-methyl-1H-pyrazol-4-yl)- 1,3-dihydroimidazo[4,5-c]- quinolin-2-one & ++ & <0.001
+43 & <img> id-US20180072715A1-20180315-C00212.TIF </img> & 7-Methoxy-3-methyl-1-(3- methyl-1H-pyrazol-4-yl)-8- (1-methyl-1H-pyrazol-4-yl)- 1,3-dihydroimidazo[4,5-c]- quinolin-2-one & ++ & <0.001
  & MS: 390 (M + H+) & 1H NMR 1H NMR (400 MHz, DMSO): 13.21 (s,
  &  & 1H), 8.80 (s, 1H), 7.98 (d, J = 25.3 Hz, 2H), 7.47
  &  & (s, 1H), 7.36 (s, 1H), 7.31 (s, 1H), 3.98 (s, 3H),
  &  & 3.87 (s, 3H), 3.54 (s, 3H), 2.05 (s, 3H).
-44 &  & 5-Fluoro-4-[7-methoxy-3- methyl-8-(1-methyl-1H- pyrazol-4-yl)-2-oxo-2,3- dihydroimidazo[4,5-c]- quinolin-1-yl]nicotinonitrile & ++ & <0.01
+44 & <img> id-US20180072715A1-20180315-C00213.TIF </img> & 5-Fluoro-4-[7-methoxy-3- methyl-8-(1-methyl-1H- pyrazol-4-yl)-2-oxo-2,3- dihydroimidazo[4,5-c]- quinolin-1-yl]nicotinonitrile & ++ & <0.01
  & MS: 430 (M + H+) & 1H NMR (400 MHz, DMSO, ppm): 9.399 (s, 1H),
  &  & 9.346 (s, 1H), 8.968 (s, 1H), 8.036 (s, 1H), 7.578
  &  & (s, 1H), 7.404 (s, 1H), 7.215 (s, 1H), 4.020 (s, 3H),
  &  & 3.851 (s, 3H), 3.636 (s, 3H)
-45 &  & 4-[7-Methoxy-3-methyl-8-(1- methyl-1H-pyrazol-4-yl)-2- oxo-2,3-dihydroimidazo- [4,5-c]quinolin-1-yl]pyridine- 2-carbonitrile & ++ & <0.05
+45 & <img> id-US20180072715A1-20180315-C00214.TIF </img> & 4-[7-Methoxy-3-methyl-8-(1- methyl-1H-pyrazol-4-yl)-2- oxo-2,3-dihydroimidazo- [4,5-c]quinolin-1-yl]pyridine- 2-carbonitrile & ++ & <0.05
  & MS: 412 (M + H+) & 1H NMR (400 MHz, DMSO, ppm): 9.099 (s, 1H),
  &  & 8.913 (s, 1H), 8.497 (s, 1H), 8.106 (s, 1H), 8.097
  &  & (s, 1H), 7.549 (s, 1H), 7.332 (s, 1H), 7.269 (s, 1H),
  &  & 4.007 (s, 3H), 3.857 (s, 3H), 3.574 (s, 3H)
-46 &  & 4-[7-Methoxy-3-methyl-8-(1- methyl-1H-pyrazol-4-yl)-2- oxo-2,3-dihydroimidazo- [4,5-c]quinolin-1-yl]- nicotinonitrile & ++ & <0.05
+46 & <img> id-US20180072715A1-20180315-C00215.TIF </img> & 4-[7-Methoxy-3-methyl-8-(1- methyl-1H-pyrazol-4-yl)-2- oxo-2,3-dihydroimidazo- [4,5-c]quinolin-1-yl]- nicotinonitrile & ++ & <0.05
  & MS: 412 (M + H+) & 1H NMR (400 MHz, CDCl3, ppm): 9.219 (s, 1H),
  &  & 9.122 (s, 1H), 8.718 (s, 1H), 7.767 (s, 1H), 7.689
  &  & (s, 2H), 7.300 (s, 1H), 7.140 (s, 1H), 4.071 (s, 3H),
  &  & 3.924 (s, 3H), 3.686 (s, 3H)
-47 &  & 7-Methoxy-3-methyl-8-(1- methyl-1H-pyrazol-4-yl)-1- thiazol-2-yl-1,3-dihydro- imidazo[4,5-c]quinolin-2- one & ++ & <0.01
+47 & <img> id-US20180072715A1-20180315-C00216.TIF </img> & 7-Methoxy-3-methyl-8-(1- methyl-1H-pyrazol-4-yl)-1- thiazol-2-yl-1,3-dihydro- imidazo[4,5-c]quinolin-2- one & ++ & <0.01
  & MS: 393 (M + H+) & 1H NMR (400HMz, DMSO, ppm): 8.82 (s, 1H), 8.04
  &  & (s, 2H), 7.98 (s, 1H), 7.60 (s, 1H), 7.40 (d, 2H), 3.94
  &  & (s, 3H), 3.81 (s, 3H), 3.50 (s, 3H)
-48 &  & 6-[7-Methoxy-3-methyl-8-(1- methyl-1H-pyrazol-4-yl)-2- oxo-2,3-dihydroimidazo- [4,5-c]quinolin-1-yl]- nicotinonitrile & ++ & <0.01
+48 & <img> id-US20180072715A1-20180315-C00217.TIF </img> & 6-[7-Methoxy-3-methyl-8-(1- methyl-1H-pyrazol-4-yl)-2- oxo-2,3-dihydroimidazo- [4,5-c]quinolin-1-yl]- nicotinonitrile & ++ & <0.01
  & MS 412 (M + H+) & 1H NMR (300 MHz, DMSO, ppm): 9.308 (s, 1H),
  &  & 8.909 (s, 1H), 8.744 (m, 1H), 8.090 (m, 1H), 8.009
  &  & (s, 1H), 7.524 (s, 1H), 7.402 (s, 1H), 7.242 (s, 1H),
  &  & 4.003 (s, 3H), 3.865 (s, 3H), 3.576 (s, 3H)
-49 &  & 7-Methoxy-3-methyl-1-(2- methyl-2H-pyrazol-3-yl)-8- (1-methyl-1H-pyrazol-4-yl)- 1,3-dihydroimidazo[4,5-c]- quinolin-2-one & ++ & <0.01
+49 & <img> id-US20180072715A1-20180315-C00218.TIF </img> & 7-Methoxy-3-methyl-1-(2- methyl-2H-pyrazol-3-yl)-8- (1-methyl-1H-pyrazol-4-yl)- 1,3-dihydroimidazo[4,5-c]- quinolin-2-one & ++ & <0.01
  & MS: 390 (M + H+) & 1H NMR (300 MHz, MeOD, ppm): 8.79 (s, 1H), 7.90
  &  & (m, 2H), 7.51 (s, 2H), 7.04 (s, 1H), 6.72 (s, 1H), 4.06
  &  & (s, 3H), 3.92 (s, 3H), 3.73 (s, 3H), 3.66 (s, 3H)
-50 &  & 1-(5-Fluoropyridin-2-yl)-7- methoxy-3-methyl-8-(1- methyl-1H-pyrazol-4-yl)-1,3- dihydroimidazo[4,5-c]- quinolin-2-one & ++ & <0.01
+50 & <img> id-US20180072715A1-20180315-C00219.TIF </img> & 1-(5-Fluoropyridin-2-yl)-7- methoxy-3-methyl-8-(1- methyl-1H-pyrazol-4-yl)-1,3- dihydroimidazo[4,5-c]- quinolin-2-one & ++ & <0.01
  & MS: 405 (M + H+) & 1H NMR (400 MHz, DMSO, ppm): 8.916 (m, 2H),
  &  & 8.240 (m, 1H), 7.963 (m, 2H), 7.515 (s, 1H), 7.258
  &  & (m, 1H), 6.993 (s, 1H), 4.174 (s, 3H), 3.854 (s, 3H),
  &  & 3.523 (s, 3H)
-51 &  & 1-(3-Fluoropyridin-2-yl)-7- methoxy-3-methyl-8-(1- methyl-1H-1,2,3-triazol-4- yl)-1,3-dihydroimidazo- [4,5-c]quinolin-2-one & ++ & <0.01
+51 & <img> id-US20180072715A1-20180315-C00220.TIF </img> & 1-(3-Fluoropyridin-2-yl)-7- methoxy-3-methyl-8-(1- methyl-1H-1,2,3-triazol-4- yl)-1,3-dihydroimidazo- [4,5-c]quinolin-2-one & ++ & <0.01
  & MS: 406 (M + H+) & 1H NMR (400 MHz, DMSO, ppm): 8.964 (s, 1H),
  &  & 8.643 (s, 1H), 8.424 (s, 1H), 8.287-8.239 (m, 1H),
  &  & 7.939-7.907 (m, 1H), 7.769 (s, 1H), 7.593 (s, 1H),
  &  & 4.057 (s, 6H), 3.606 (s, 3H)
-52 &  & 7-Methoxy-3-methyl-8-(1- methyl-1H-pyrazol-4-yl)-1- pyrimidin-2-yl-1,3-dihydro- imidazo[4,5-c]quinolin-2- one & ++ & <0.01
+52 & <img> id-US20180072715A1-20180315-C00221.TIF </img> & 7-Methoxy-3-methyl-8-(1- methyl-1H-pyrazol-4-yl)-1- pyrimidin-2-yl-1,3-dihydro- imidazo[4,5-c]quinolin-2- one & ++ & <0.01
  & MS: 388 (M + H+) & 1H NMR (300 MHz, DMSO): 3.57 (s, 3H), 3.85
  &  & (s, 3H), 3.99 (s, 3H), 6.83 (s, 1H), 7.26 (s, 1H), 7.51
  &  & (s, 1H), 7.93 (t, J = 4.8, 1H), 7.98 (s, 1H), 8.89 (s, 1H),
  &  & 9.23 (d, J = 4.8, 2H).
-53 &  & 7-Methoxy-3-methyl-8-(1- methyl-1H-pyrazol-4-yl)-1- (1H-pyrazol-4-yl)-1,3- dihydroimidazo[4,5-c]- quinolin-2-one & ++ & <0.01
+53 & <img> id-US20180072715A1-20180315-C00222.TIF </img> & 7-Methoxy-3-methyl-8-(1- methyl-1H-pyrazol-4-yl)-1- (1H-pyrazol-4-yl)-1,3- dihydroimidazo[4,5-c]- quinolin-2-one & ++ & <0.01
  & MS: 376 (M + H+) & 1H NMR (400 MHz, DMSO): 8.80 (s, 1H), 8.03 (d,
  &  & J = 20.4 Hz, 2H), 7.46 (s, 1H), 7.39 (s, 1H), 7.29
  &  & (s, 1H), 3.97 (s, 3H), 3.85 (s, 3H), 3.53 (s, 3H).
-54 &  & 1-(3-Ethyl-5-methylpyridin- 4-yl)-7-methoxy-3-methyl-8- (1-methyl-1H-pyrazol-4-yl)- 1,3-dihydroimidazo[4,5-c]- quinolin-2-one & ++ & <0.01
+54 & <img> id-US20180072715A1-20180315-C00223.TIF </img> & 1-(3-Ethyl-5-methylpyridin- 4-yl)-7-methoxy-3-methyl-8- (1-methyl-1H-pyrazol-4-yl)- 1,3-dihydroimidazo[4,5-c]- quinolin-2-one & ++ & <0.01
  & MS: 429 (M + H+) & 1H NMR (400 MHz, DMSO, ppm): 8.918 (s, 1H),
  &  & 8.751 (s, 1H), 8.714 (s, 1H), 7.952 (s, 1H), 7.514
  &  & (s, 1H), 6.963 (s, 1H), 6.831 (s, 1H), 3.982 (s, 3H),
  &  & 3.833 (s, 3H), 3.681 (s, 3H), 2.469-2.329 (m, 3H),
  &  & 1.977 (s, 3H), 0.966-0.928 (m, 3H)
-55 &  & 7-Methoxy-3-methyl-8-(1- methyl-1H-pyrazol-4-yl)-1- [1-(tetrahydropyran-4-yl)- 1H-pyrazol-4-yl]-1,3- dihydroimidazo[4,5-c]- quinolin-2-one & ++ & <0.01
+55 & <img> id-US20180072715A1-20180315-C00224.TIF </img> & 7-Methoxy-3-methyl-8-(1- methyl-1H-pyrazol-4-yl)-1- [1-(tetrahydropyran-4-yl)- 1H-pyrazol-4-yl]-1,3- dihydroimidazo[4,5-c]- quinolin-2-one & ++ & <0.01
  & MS: 460 (M + H+) & 1H NMR (300 MHz, DMSO, ppm): 8.80 (s, 1H), 8.35
  &  & (s, 1H), 7.96 (s, 1H), 7.83 (s, 1H), 7.40 (m, 3H), 4.60
  &  & (m, 1H), 3.97 (m, 5H), 3.84 (s, 3H), 3.53 (m, 5H),
  &  & 2.07 (m, 4H)
-56 &  & 7-Methoxy-3-methyl-8-(1- methyl-1H-pyrazol-4-yl)-1- pyridin-2-yl-1,3-dihydro- imidazo[4,5-c]quinolin-2- one & ++ & <0.01
+56 & <img> id-US20180072715A1-20180315-C00225.TIF </img> & 7-Methoxy-3-methyl-8-(1- methyl-1H-pyrazol-4-yl)-1- pyridin-2-yl-1,3-dihydro- imidazo[4,5-c]quinolin-2- one & ++ & <0.01
  & MS: 387 (M + H+) & 1H NMR (DMSO, 400 MHz, ppm): 8.874 (s, 1H),
  &  & 8.816-8.832 (m, 1H), 8.2-8.3 (t, 1H), 7.964 (s, 1H),
  &  & 7.822-7.842 (d, J = 8.0 Hz, 1H), 7.758-7.789 (m, 1H),
  &  & 7.494 (s, 1H), 7.160 (s, 1H), 6.984 (s, 1H), 3.986
  &  & (s, 3H), 3.842 (s, 3H), 3.575 (s, 3H)
-57 &  & 7-Methoxy-3-methyl-8-(1- methyl-1H-pyrazol-4-yl)-1- pyrimidin-5-yl-1,3-dihydro- imidazo[4,5-c]quinolin-2- one & ++ & <0.05
+57 & <img> id-US20180072715A1-20180315-C00226.TIF </img> & 7-Methoxy-3-methyl-8-(1- methyl-1H-pyrazol-4-yl)-1- pyrimidin-5-yl-1,3-dihydro- imidazo[4,5-c]quinolin-2- one & ++ & <0.05
  & MS: 388 (M + H+) & 1H NMR (400 MHz, DMSO, ppm): 9.512 (s, 1H),
  &  & 9.241 (s, 2H), 8.906 (s, 1H), 7.991 (s, 1H), 7.541
  &  & (s, 1H), 7.247 (s, 1H), 7.134 (s, 1H), 4.035-4.004
  &  & (s, 3H), 3.884-3.857 (s, 3H), 3.590 (s, 3H)
-58 &  & 7-Methoxy-3-methyl-8-(1- methyl-1H-pyrazol-4-yl)-1- pyridin-4-yl-1,3-dihydro- imidazo[4,5-c]quinolin-2- one & ++ & <0.01
+58 & <img> id-US20180072715A1-20180315-C00227.TIF </img> & 7-Methoxy-3-methyl-8-(1- methyl-1H-pyrazol-4-yl)-1- pyridin-4-yl-1,3-dihydro- imidazo[4,5-c]quinolin-2- one & ++ & <0.01
  & MS: 387 (M + H+) & 1H NMR (300 MHZ, DMSO): 3.57 (s, 3H), 3.84
  &  & (s, 3H), 3.99 (s, 3H), 7.11 (s, 1H), 7.20 (s, 1H), 7.50
  &  & (s, 1H), 7.75 (d, J = 6.0 Hz, 2H), 8.00 (s, 1H), 8.90
  &  & (s, 1H), 8.99 (d, J = 6.0 Hz, 2H)
-59 &  & 7-Methoxy-3-methyl-1-(1- methyl-1H-imidazol-4-yl)-8- (1-methyl-1H-pyrazol-4-yl)- 1,3-dihydroimidazo[4,5-c] quinolin-2-one & + & <0.01
+59 & <img> id-US20180072715A1-20180315-C00228.TIF </img> & 7-Methoxy-3-methyl-1-(1- methyl-1H-imidazol-4-yl)-8- (1-methyl-1H-pyrazol-4-yl)- 1,3-dihydroimidazo[4,5-c] quinolin-2-one & + & <0.01
  & MS: 390 (M + H+) & 1H NMR (400 MHz, DMSO, ppm): 8.79 (s, 1H), 7.96
  &  & (1 d, 2H), 7.58 (s, 1H), 7.45 (s, 1H), 7.39 (d, 2H),
  &  & 4.00 (s, 3H), 3.88 (m, 6H), 3.53 (s, 3H)
-60 &  & 1-(3-Chloropyridin-4-yl)-7- methoxy-3-methyl-8-(1- methyl-1H-pyrazol-4-yl)-1,3- dihydroimidazo[4,5-c] quinolin-2-one & + & <0.01
+60 & <img> id-US20180072715A1-20180315-C00229.TIF </img> & 1-(3-Chloropyridin-4-yl)-7- methoxy-3-methyl-8-(1- methyl-1H-pyrazol-4-yl)-1,3- dihydroimidazo[4,5-c] quinolin-2-one & + & <0.01
  & MS: 421 (M + H+) & 1H NMR (300 MHz, DMSO, ppm): 9.43 (s, 1H),
  &  & 9.24 (s, 1H), 9.03 (d, J = 5.1 Hz, 1H), 8.10 (d, J =
  &  & 5.1 Hz, 2H), 7.98 (s, 1H), 7.13 (s, 1H), 7.06 (s, 1H),
  &  & 4.07 (s, 3H), 3.87 (s, 3H), 3.67 (s, 3H)
-61 &  & 1-(3-Ethyl-5-methylpyridin- 4-yl)-8-(1-ethyl-1H-pyrazol- 4-yl)-7-methoxy-3-methyl- 1,3-dihydroimidazo[4,5-c] quinolin-2-one & + & <0.01
+61 & <img> id-US20180072715A1-20180315-C00230.TIF </img> & 1-(3-Ethyl-5-methylpyridin- 4-yl)-8-(1-ethyl-1H-pyrazol- 4-yl)-7-methoxy-3-methyl- 1,3-dihydroimidazo[4,5-c] quinolin-2-one & + & <0.01
  & MS: 443 (M + H+) & 1H NMR (400 MHz, DMSO, ppm): 8.918 (s, 1H),
  &  & 8.760 (s, 1H), 8.723 (s, 1H), 7.963 (s, 1H), 7.516
  &  & (s, 1H), 7.009 (s, 1H), 6.847 (s, 1H), 4.156-4.102
  &  & (m, 2H), 3.989 (s, 3H), 3.622 (s, 3H), 2.514-2.458
  &  & (m, 2H), 2.004 (s, 3H), 1.382-1.345 (m, 3H), 0.973-
  &  & 0.936 (m, 3H)
-62 &  & 8-(1-Ethyl-1H-pyrazol-4-yl)- 7-methoxy-3-methyl-1- pyridin-4-yl-1,3-dihydro- imidazo[4,5-c]quinolin-2- one & + & <0.01
+62 & <img> id-US20180072715A1-20180315-C00231.TIF </img> & 8-(1-Ethyl-1H-pyrazol-4-yl)- 7-methoxy-3-methyl-1- pyridin-4-yl-1,3-dihydro- imidazo[4,5-c]quinolin-2- one & + & <0.01
  & MS: 401 (M + H+) & 1H NMR (400 MHZ, DMSO, ppm): 1.35 (t, J = 7.6 Hz,
  &  & 3H), 3.56 (s, 3H), 3.98 (s, 3H), 4.12 (q, J = 7.6, 2H),
  &  & 7.17 (d, J = 8.8 Hz, 2H), 7.51 (s, 1H), 7.74 (d,
  &  & J = 6 Hz, 2H), 7.98 (s, 1H), 8.87 (s, 1H), 8.95 (br, 2H)
-63 &  & 1-(3-Fluoro-5-methylpyridin- 4-yl)-7-methoxy-3-methyl-8- (1-methyl-1H-1,2,3-triazol- 4-yl)-1,3-dihydroimidazo- [4,5-c] quinolin-2-one & ++ & <0.01
+63 & <img> id-US20180072715A1-20180315-C00232.TIF </img> & 1-(3-Fluoro-5-methylpyridin- 4-yl)-7-methoxy-3-methyl-8- (1-methyl-1H-1,2,3-triazol- 4-yl)-1,3-dihydroimidazo- [4,5-c] quinolin-2-one & ++ & <0.01
  & MS: 420 (M + H+) & 1H NMR (400 MHz, DMSO-d6) ppm = 8.97
  &  & (s, 1H), 8.83 (s, 1H), 8.74 (s, 1H), 8.42 (s, 1H) 7.91
  &  & (s, 1H), 7.60 (s, 1H), 4.10 (s, 6H), 3.61 (s, 3H), 2.19
  &  & (s, 3H)
-64 &  & 1-(3-Fluoropyridin-4-yl)-7- methoxy-3-methyl-8-(1- methyl-1H-1,2,3-triazol-4- yl)-1,3-dihydroimidazo- [4,5-c] quinolin-2-one & ++ & <0.01
+64 & <img> id-US20180072715A1-20180315-C00233.TIF </img> & 1-(3-Fluoropyridin-4-yl)-7- methoxy-3-methyl-8-(1- methyl-1H-1,2,3-triazol-4- yl)-1,3-dihydroimidazo- [4,5-c] quinolin-2-one & ++ & <0.01
  & MS: 406 (M + H+) & 1H NMR (400 MHz, DMSO-d6) ppm = 9.01
  &  & (s, 1H), 8.94 (s, 1H), 8.78-8.77 (m, 1H), 8.42 (s, 1H),
  &  & 8.04 (s, 1H), 7.94-7.92 (m, 1H), 7.58 (s, 1H), 4.05
  &  & (s, 6H), 3.58 (s, 3H)
-65 &  & 8-(3-Amino-1H-pyrazol-5- yl)-1-(3-fluoro-2-pyridyl)-7- methoxy-3-methyl-imidazo- [4,5-c]quinolin-2-one & ++ & <0.001
+65 & <img> id-US20180072715A1-20180315-C00234.TIF </img> & 8-(3-Amino-1H-pyrazol-5- yl)-1-(3-fluoro-2-pyridyl)-7- methoxy-3-methyl-imidazo- [4,5-c]quinolin-2-one & ++ & <0.001
  & MS: 406 (M + H+) & 1H NMR (400 MHz, DMSO) ppm = 11.3 (s, 1H),
  &  & 8.87 (s, 1H), 8.60-8.59 (m, 1H), 8.17-8.10 (m, 1H),
  &  & 7.86-7.80 (m, 1H), 7.52 (s, 1H), 7.16 (s, 1H), 5.50
  &  & (s, 1H), 4.40 (s, 2H), 3.97 (s, 3H), 3.58 (s, 3H).
-66 &  & 1-[3-Fluoro-5-(2-methoxy- ethoxy)-2-pyridyl]-7- methoxy-3-methyl-8-(1- methylpyrazol-4-yl)imidazo- [4,5-c]quinolin-2-one & +++ & <0.001
+66 & <img> id-US20180072715A1-20180315-C00235.TIF </img> & 1-[3-Fluoro-5-(2-methoxy- ethoxy)-2-pyridyl]-7- methoxy-3-methyl-8-(1- methylpyrazol-4-yl)imidazo- [4,5-c]quinolin-2-one & +++ & <0.001
  & MS: 479 (M + H+) & 1H NMR (400 MHz, DMSO) ppm = 8.90 (s, 1H),
  &  & 8.48 (s, 1H), 8.02-7.97 (m, 2H), 7.52 (s, 1H), 7.29
  &  & (s, 1H), 6.92 (s, 1H), 4.43 (d, J = 4, 2H), 4.00 (s, 3H),
  &  & 3.86 (s, 3H), 3.79-3.77 (m, 2H), 3.59 (s, 3H), 3.37
  &  & (s, 3H)
-67 &  & 1-[3-Fluoro-5-(2-hydroxy- ethoxy)-2-pyridyl]-7- methoxy-3-methyl-8-(1- methylpyrazol-4-yl)imidazo- [4,5-c]quinolin-2-one & +++ & <0001
+67 & <img> id-US20180072715A1-20180315-C00236.TIF </img> & 1-[3-Fluoro-5-(2-hydroxy- ethoxy)-2-pyridyl]-7- methoxy-3-methyl-8-(1- methylpyrazol-4-yl)imidazo- [4,5-c]quinolin-2-one & +++ & <0001
  & MS: 465 (M + H+) & 1H NMR (400 MHz, DMSO) ppm = 8.89 (s, 1H),
  &  & 8.46 (s, 1H), 7.95 (m, 2H), 7.51 (s, 1H), 7.29 (s, 1H),
  &  & 6.92 (s, 1H), 5.07 (m, 1H), 4.30 (m, 2H), 3.99
  &  & (s, 3H), 3.85-3.82 (m, 5H), 3.58 (s, 3H)
-68 &  & 7-Methoxy-3-methyl-8-(1- methyl-1H-pyrazol-4-yl)-1- quinolin-2-yl-1,3-dihydro- imidazo[4,5-c]quinolin-2- one & + & <0.01
+68 & <img> id-US20180072715A1-20180315-C00237.TIF </img> & 7-Methoxy-3-methyl-8-(1- methyl-1H-pyrazol-4-yl)-1- quinolin-2-yl-1,3-dihydro- imidazo[4,5-c]quinolin-2- one & + & <0.01
  & MS. 437 (M + H+) & 1H NMR (400 MHz, DMSO-d6) ppm = 8.905
  &  & (s, 1H), 8.801-8.780 (m, 1H), 8.254-8.235 (m, 1H),
  &  & 8.0-032 (m, 1H), 7.949-7.928 (s, 2H), 7.850-7.829
  &  & (m, 1H), 7.829 (s, 1H), 7.700 (s, 1H), 7.113 (s, 1H),
  &  & 6.674 (s, 1H), 3.965 (s, 3H), 3.671 (s, 3H), 3.596
  &  & (s, 3H)
-69 &  & 7-Methoxy-3-methyl-8-(1- methyl-1H-pyrazol-4-yl)-1- (1H-pyrrolo[2,3-b]pyridin-6- yl)1,3-dihydroimidazo- [4,5-c]quinolin-2-one & ++ & <0.001
+69 & <img> id-US20180072715A1-20180315-C00238.TIF </img> & 7-Methoxy-3-methyl-8-(1- methyl-1H-pyrazol-4-yl)-1- (1H-pyrrolo[2,3-b]pyridin-6- yl)1,3-dihydroimidazo- [4,5-c]quinolin-2-one & ++ & <0.001
  & MS. 426 (M + H+) & 1H NMR (400 MHz, DMSO-d6) ppm = 8.85
  &  & (s, 1H), 8.36 (d, J = 8, 1H), 7.76-7.71 (m, 2H), 7.46-
  &  & 7.41 (m, 2H), 6.75-6.67 (m, 3H), 3.96 (s, 3H), 3.74
  &  & (s, 3H), 3.52 (s, 3H)
-101 &  & 1-(3,5-Difluoropyridin-2-yl)- 7-methoxy-3-methyl-8-(2- methyl-2H-1,2,3-triazol-4- yl)-1,3-dihydroimidazo- [4,5-c] quinolin-2-one & +++ & <0.05
+101 & <img> id-US20180072715A1-20180315-C00239.TIF </img> & 1-(3,5-Difluoropyridin-2-yl)- 7-methoxy-3-methyl-8-(2- methyl-2H-1,2,3-triazol-4- yl)-1,3-dihydroimidazo- [4,5-c] quinolin-2-one & +++ & <0.05
  & MS: 424 (M + H+) & 1H NMR (300 MHz, DMSO-d6) ppm = 8.97
  &  & (s, 1H), 8.84 (s, 1H), 8.57-8.51 (m, 1H), 7.59
  &  & (s, 1H), 7.45 (s, 1H), 4.13 (s, 3H), 4.04 (s, 3H), 3.61
  &  & (s, 3H)
-102 &  & 1-(1,3-Dimethyl-1H-pyrazol- 4-yl)-7-methoxy-3-methyl-8- (2-methyl-2H-1,2,3-triazol- 4-yl)-1,3-dihydroimidazo- [4,5-c]quinolin-2-one & +++ & <0.05
+102 & <img> id-US20180072715A1-20180315-C00240.TIF </img> & 1-(1,3-Dimethyl-1H-pyrazol- 4-yl)-7-methoxy-3-methyl-8- (2-methyl-2H-1,2,3-triazol- 4-yl)-1,3-dihydroimidazo- [4,5-c]quinolin-2-one & +++ & <0.05
  & MS: 405 (M + H+) & 1H NMR (400 MHz, DMSO-d6) ppm = 8.88 (s,
  &  & 1H), 8.14-8.11 (s, 2H), 8.04 (s, 1H), 7.54 (s, 1H),
  &  & 4.19 (s, 3H), 4.03-3.99 (d, 6H), 3.56 (s, 3H), 1.56
  &  & (s, 3H)
-103 &  & 1-(3-Fluoro-5-methylpyridin- 4-yl)-7-methoxy-3-methyl-8- (2-methyl-2H-1,2,3-triazol- 4-yl)-1,3-dihydroimidazo- [4,5-c] quinolin-2-one & ++ & <0.05
+103 & <img> id-US20180072715A1-20180315-C00241.TIF </img> & 1-(3-Fluoro-5-methylpyridin- 4-yl)-7-methoxy-3-methyl-8- (2-methyl-2H-1,2,3-triazol- 4-yl)-1,3-dihydroimidazo- [4,5-c] quinolin-2-one & ++ & <0.05
  & MS: 420 (M + H+) & 1H NMR (300 MHz, DMSO-d6) ppm = 9.04
  &  & (s, 1H), 8.87 (s, 1H), 8.77 (s, 1H), 8.09 (s, 1H), 7.68
  &  & (s, 1H), 7.61 (s, 1H), 4.40 (s, 3H), 4.04 (s, 3H), 3.62
  &  & (s, 3H), 2.20 (s, 3H)
-104 &  & 8-(1-Ethyl-1H-pyrazol-4-yl)- 7-methoxy-1-(3-methoxy- pyridin-4-yl)-3-methyl-1,3- dihydroimidazo[4,5-c] quinolin-2-one & ++ & <0.01
+104 & <img> id-US20180072715A1-20180315-C00242.TIF </img> & 8-(1-Ethyl-1H-pyrazol-4-yl)- 7-methoxy-1-(3-methoxy- pyridin-4-yl)-3-methyl-1,3- dihydroimidazo[4,5-c] quinolin-2-one & ++ & <0.01
  & MS: 431 (M + H+) & 1H NMR (300 MHz, DMSO) ppm = 8.85-8.84 (d,
  &  & J = 4.5, 2H), 8.58-8.57 (d, J = 4.8, 1H), 7.98 (s, 1H),
  &  & 7.76-7.74 (d, J = 5.1, 1H), 7.49 (s, 1H), 7.12-7.10 (d,
  &  & J = 6.6, 2H), 4.17 (m, 2H), 3.98 (s, 3H), 3.57 (s, 3H),
  &  & 3.36 (s, 3H), 1.39 (m, 3H)
-105 &  & 1-(3-Fluoro-5-methoxy- pyridin-2-yl)-7-methoxy-3- methyl-8-(1-methyl-1H- pyrazol-4-yl)-1,3-dihydro- imidazo[4,5-c]quinolin-2- one & ++ & <0.001
+105 & <img> id-US20180072715A1-20180315-C00243.TIF </img> & 1-(3-Fluoro-5-methoxy- pyridin-2-yl)-7-methoxy-3- methyl-8-(1-methyl-1H- pyrazol-4-yl)-1,3-dihydro- imidazo[4,5-c]quinolin-2- one & ++ & <0.001
  & MS: 435 (M + H+) & 1H NMR (400 MHz, DMSO) ppm = 8.89 (s, 1H),
  &  & 8.45 (s, 1H), 7.98 (m, 2H), 7.51 (s, 1H), 7.25 (s, 1H),
  &  & 6.88 (s, 1H), 4.04 (s, 3H), 3.99 (s, 3H), 3.85 (s, 3H),
  &  & 3.58 (s, 3H)
-106 &  & 8-(1,3-Dimethyl-1H-pyrazol- 4-yl)-1-(3-fluoro-5- methoxypyridin-2-yl)-7- methoxy-3-methyl-1,3- dihydroimidazo[4,5-c]- quinolin-2-one & ++ & <0.001
+106 & <img> id-US20180072715A1-20180315-C00244.TIF </img> & 8-(1,3-Dimethyl-1H-pyrazol- 4-yl)-1-(3-fluoro-5- methoxypyridin-2-yl)-7- methoxy-3-methyl-1,3- dihydroimidazo[4,5-c]- quinolin-2-one & ++ & <0.001
  & MS: 449 (M + H+) & 1H NMR (400 MHz, DMSO) ppm = 8.89 (s, 1H),
  &  & 8.35 (s, 1H), 7.94 (s, 1H), 7.78 (s, 1H), 7.50 (s, 1H),
  &  & 6.78 (s, 1H), 3.98 (m, 3H), 3.90 (s, 3H), 3.75 (s, 3H),
  &  & 3.63 (s, 3H), 1.78 (s, 3H)
-107 &  & 1-(3,5-Difluoropyridin-2-yl)- 7-methoxy-8-(1-methyl-1H- pyrazol-4-yl)-1,3-dihydro- imidazo[4,5-c]quinolin-2- one & ++ & <0.001
+107 & <img> id-US20180072715A1-20180315-C00245.TIF </img> & 1-(3,5-Difluoropyridin-2-yl)- 7-methoxy-8-(1-methyl-1H- pyrazol-4-yl)-1,3-dihydro- imidazo[4,5-c]quinolin-2- one & ++ & <0.001
  & MS: 409 (M + H+) & 1H NMR (400 MHz, DMSO) ppm = 11.81 (s, 1H),
  &  & 8.84 (d, J = 2.6 Hz, 1H), 8.68 (s, 1H), 8.00 (s, 1H),
  &  & 7.49 (s, 1H), 7.33 (d, J = 0.8 Hz, 1H), 6.93 (s, 1H),
  &  & 3.99 (s, 3H), 3.85 (s, 3H).
-108 &  & 1-(3,5-Difluoropyridin-2-yl)- 8-(1,3-dimethyl-1H-pyrazol- 4-yl)-7-methoxy-1,3- dihydroimidazo[4,5-c]- quinolin-2-one & ++ & <0.001
+108 & <img> id-US20180072715A1-20180315-C00246.TIF </img> & 1-(3,5-Difluoropyridin-2-yl)- 8-(1,3-dimethyl-1H-pyrazol- 4-yl)-7-methoxy-1,3- dihydroimidazo[4,5-c]- quinolin-2-one & ++ & <0.001
  & MS: 423 (M + H+) & 1H NMR (400 MHz, DMSO) ppm = 11.84 (s, 1H),
  &  & 8.77 (d, J = 2.5 Hz, 1H), 8.70 (s, 1H), 8.48 (m, 1H),
  &  & 7.79 (s, 1H), 7.50 (s, 1H), 6.76 (s, 1H), 3.91 (s, 3H),
  &  & 3.77 (s, 3H), 1.82 (s, 3H).
-109 &  & 1-(3-Fluoro-5-methoxy- pyridin-2-yl)-7-methoxy-3- methyl-8-(2H-pyrazol-3-yl)- 1,3-dihydroimidazo[4,5-c] quinolin-2-one & +++ & <0.01
+109 & <img> id-US20180072715A1-20180315-C00247.TIF </img> & 1-(3-Fluoro-5-methoxy- pyridin-2-yl)-7-methoxy-3- methyl-8-(2H-pyrazol-3-yl)- 1,3-dihydroimidazo[4,5-c] quinolin-2-one & +++ & <0.01
  & MS: 421 (M + H+) & 1H NMR (400 MHz, DMSO) ppm = 8.91 (s, 1H),
  &  & 8.36 (d, J = 2.6 Hz, 1H), 7.93 (m, 1H), 7.64 (s, 1H),
  &  & 7.53 (s, 1H), 7.40 (s, 1H), 6.54 (s, 1H), 4.01 (s, 3H),
  &  & 3.97 (s, 3H), 3.57 (s, 3H).
-110 &  & 1-(3-Fluoro-5-fluoro- methoxypyridin-2-yl)-7- methoxy-3-methyl-8-(1- methyl-1H-pyrazol-4-yl)-1,3- dihydroimidazo[4,5-c]- quinolin-2-one & +++ & <0.001
+110 & <img> id-US20180072715A1-20180315-C00248.TIF </img> & 1-(3-Fluoro-5-fluoro- methoxypyridin-2-yl)-7- methoxy-3-methyl-8-(1- methyl-1H-pyrazol-4-yl)-1,3- dihydroimidazo[4,5-c]- quinolin-2-one & +++ & <0.001
  & MS: 453 (M + H+) & 1H NMR (400 MHz, DMSO) ppm = 8.90 (s, 1H),
  &  & 8.65-8.62 (s, 1H), 8.23-8.20 (m, 1H), 7.95 (s, 1H),
  &  & 7.52 (s, 1H), 7.30 (s, 1H), 6.90 (s, 1H), 6.23-6.20
  &  & (m, 1H), 6.10-6.01 (s, 1H), 3.99 (s, 3H), 3.84 (s, 3H),
  &  & 3.59 (s, 3H)
-111 &  & 8-(1-Ethyl-1H-pyrazol-4-yl)- 1-(3-fluoro-5-methoxy- pyridin-2-yl)-7-methoxy-3- methyl-1,3-dihydroimidazo- [4,5-c] quinolin-2-one & ++ & <0.01
+111 & <img> id-US20180072715A1-20180315-C00249.TIF </img> & 8-(1-Ethyl-1H-pyrazol-4-yl)- 1-(3-fluoro-5-methoxy- pyridin-2-yl)-7-methoxy-3- methyl-1,3-dihydroimidazo- [4,5-c] quinolin-2-one & ++ & <0.01
  & MS: 449 (M + H+) & 1H NMR (400 MHz, DMSO) ppm = 8.87 (s, 1H),
  &  & 8.47 (s, 1H), 7.96 (m, 2H), 7.50 (s, 1H), 7.29 (s, 1H),
  &  & 6.88 (s, 1H), 4.16 (m, 2H), 4.03 (s, 3H), 3.98 (s, 3H),
  &  & 3.57 (s, 3H), 1.36 (m, 3H)
-112 &  & 1-(3-Ethyl-5-fluoropyridin-4- yl)-7-methoxy-3-methyl-8- (2-methyl-2H-1,2,3-triazol- 4-yl)-1,3-dihydroimidazo- [4,5-c] quinolin-2-one & ++ & <0.01
+112 & <img> id-US20180072715A1-20180315-C00250.TIF </img> & 1-(3-Ethyl-5-fluoropyridin-4- yl)-7-methoxy-3-methyl-8- (2-methyl-2H-1,2,3-triazol- 4-yl)-1,3-dihydroimidazo- [4,5-c] quinolin-2-one & ++ & <0.01
  & MS: 434 (M + H+) & 1H NMR (400 MHz, DMSO) ppm = 9.00 (s, 1H),
  &  & 8.88 (s, 1H), 8.82 (s, 1H), 8.08 (s, 1H), 7.64-7.06 (d,
  &  & J = 16, 2H), 4.08 (s, 3H), 4.03 (s, 3H), 3.62 (s, 3H),
  &  & 2.57-2.55 (m, 2H), 1.03-1.00 (m, 3H)
-113 &  & 1-(5-Ethoxy-3-fluoropyridin- 2-yl)-7-methoxy-3-methyl-8- (1-methyl-1H-pyrazol-4-yl)- 1,3-dihydroimidazo[4,5-c]- quinolin-2-one & +++ & <0.001
+113 & <img> id-US20180072715A1-20180315-C00251.TIF </img> & 1-(5-Ethoxy-3-fluoropyridin- 2-yl)-7-methoxy-3-methyl-8- (1-methyl-1H-pyrazol-4-yl)- 1,3-dihydroimidazo[4,5-c]- quinolin-2-one & +++ & <0.001
  & MS: 449 (M + H+) & 1H NMR (400 MHz, DMSO) ppm = 8.87 (s, 1H),
  &  & 8.43 (s, 1H), 7.94 (m, 2H), 7.50 (s, 1H), 7.24 (s, 1H),
  &  & 6.87 (s, 1H), 4.32 (m, 2 H), 3.98 (s, 3H), 3.84
  &  & (s, 3H), 3.57 (s, 3H), 1.44 (m, 3H)
-114 &  & 1-(5-Difluoromethoxy-3- fluoropyridin-2-yl)-7- methoxy-3-methyl-8-(1- methyl-1H-pyrazol-4-yl)-1,3- dihydroimidazo[4,5-c]- quinolin-2-one & +++ & <0.001
+114 & <img> id-US20180072715A1-20180315-C00252.TIF </img> & 1-(5-Difluoromethoxy-3- fluoropyridin-2-yl)-7- methoxy-3-methyl-8-(1- methyl-1H-pyrazol-4-yl)-1,3- dihydroimidazo[4,5-c]- quinolin-2-one & +++ & <0.001
  & MS: 471 (M + H+) & 1H NMR (400 MHz, DMSO) ppm = 8.92 (s, 1H),
  &  & 8.71 (s, 1H), 8.35 (m, 1H), 7.96 (s, 1H), 7.78 (s, 2H),
  &  & 7.34 (s, 1H), 6.94 (s, 1H), 4.00 (s, 3H), 3.84 (s, 3H),
  &  & 3.32 (s, 3H)
-115 &  & 1-(3-Fluoro-5-methoxy- pyridin-2-yl)-7-methoxy-8- (1-methyl-1H-pyrazol-4-yl)- 1,3-dihydroimidazo[4,5-c]- quinolin-2-one & ++ & <0.01
+115 & <img> id-US20180072715A1-20180315-C00253.TIF </img> & 1-(3-Fluoro-5-methoxy- pyridin-2-yl)-7-methoxy-8- (1-methyl-1H-pyrazol-4-yl)- 1,3-dihydroimidazo[4,5-c]- quinolin-2-one & ++ & <0.01
  & MS: 421 (M + H+) & 1H NMR (400 MHz, DMSO) ppm = 11.71 (s, 1H),
  &  & 8.65 (s, 1H), 8.46 (s, 1H), 7.98 (m, 2H), 7.47 (s, 1H),
  &  & 7.24 (s, 1H), 6.87 (s, 1H), 4.04 (s, 3H), 3.98 (s, 3H),
  &  & 3.85 (s, 3H)
-116 &  & 1-(3-Fluoro-5-methoxy- pyridin-4-yl)-7-methoxy-8-(1- methyl-1H-pyrazol-4-yl)-1,3- dihydroimidazo[4,5-c]- quinolin-2-one & + & <0.01
+116 & <img> id-US20180072715A1-20180315-C00254.TIF </img> & 1-(3-Fluoro-5-methoxy- pyridin-4-yl)-7-methoxy-8-(1- methyl-1H-pyrazol-4-yl)-1,3- dihydroimidazo[4,5-c]- quinolin-2-one & + & <0.01
  & MS: 421 (M + H+) & 1H NMR (400 MHz, DMSO-d6) ppm = 11.77
  &  & (s, 1H), 8.72 (d, J = 16.7 Hz, 2H), 8.64 (s, 1H), 7.98
  &  & (s, 1H), 7.47 (s, 1H), 7.13 (d, J = 14.7 Hz, 2H), 3.97
  &  & (s, 3H), 3.84 (d, J = 8.0 Hz, 6H).
-117 &  & 1-(3,5-Difluoropyridin-2-yl)- 7-methoxy-3-methyl-8-(3- methyl-1H-pyrazol-4-yl)-1,3- dihydroimidazo[4,5-c]- quinolin-2-one & ++ & <0.01
+117 & <img> id-US20180072715A1-20180315-C00255.TIF </img> & 1-(3,5-Difluoropyridin-2-yl)- 7-methoxy-3-methyl-8-(3- methyl-1H-pyrazol-4-yl)-1,3- dihydroimidazo[4,5-c]- quinolin-2-one & ++ & <0.01
  & MS: 423 (M + H+) & 1H NMR (300 MHz, DMSO) ppm = 12.34-12.31
  &  & (s, 1H), 8.64-8.41 (s, 1H), 8.78 (s, 1H), 8.67-8.59
  &  & (m, 1H), 7.52-7.44 (s, 2H), 6.74 (s, 1H), 3.91-3.82
  &  & (s, 3H), 3.57-3.49 (s, 3H), 2.02-1.87 (m, 3H)
-118 &  & 1-(3,5-Dimethyl-1H-pyrazol- 4-yl)-7-methoxy-3-methyl-8- (1-methyl-1H-pyrazol-4-yl)- 1,3-dihydroimidazo[4,5-c]- quinolin-2-one & ++ & <0.01
+118 & <img> id-US20180072715A1-20180315-C00256.TIF </img> & 1-(3,5-Dimethyl-1H-pyrazol- 4-yl)-7-methoxy-3-methyl-8- (1-methyl-1H-pyrazol-4-yl)- 1,3-dihydroimidazo[4,5-c]- quinolin-2-one & ++ & <0.01
  & MS: 404 (M + H+) & 1H NMR (400 MHz, DMSO) ppm = 12.9 (s, 1H),
  &  & 8.80 (s, 1H), 8.00 (s, 1H), 7.47 (s, 1H), 7.33 (s, 1H),
  &  & 7.30 (d, J = 0.8 Hz, 1H), 3.97 (s, 3H), 3.86 (s, 3H),
  &  & 3.55 (s, 3H), 1.98 (s, 6H).
-119 &  & 1-(5-Chloro-3-fluoropyridin- 2-yl)-7-methoxy-3-methyl-8- (1-methyl-1H-pyrazol-4-yl)- 1,3-dihydroimidazo[4,5-c]- quinolin-2-one & +++ & <0.001
+119 & <img> id-US20180072715A1-20180315-C00257.TIF </img> & 1-(5-Chloro-3-fluoropyridin- 2-yl)-7-methoxy-3-methyl-8- (1-methyl-1H-pyrazol-4-yl)- 1,3-dihydroimidazo[4,5-c]- quinolin-2-one & +++ & <0.001
  & MS: 440 (M + H+) & 1H NMR (400 MHz, DMSO) ppm = 8.91 (s, 1H),
  &  & 8.85 (s, 1H), 8.66 (m, 1H), 8.00 (s, 1H), 7.53 (s, 1H),
  &  & 7.33 (s, 1H), 6.96 (s, 1H), 4.00 (s, 3H), 3.86 (s, 3H),
  &  & 3.59 (s, 3H)
-120 &  & 7-Methoxy-3-methyl-8-(1- methyl-1H-pyrazol-4-yl)-1- (1H-pyrrolo[3,2-c]pyridin-6- yl)-1,3-dihydroimidazo- [4,5-c]quinolin-2-one & ++ & <0.001
+120 & <img> id-US20180072715A1-20180315-C00258.TIF </img> & 7-Methoxy-3-methyl-8-(1- methyl-1H-pyrazol-4-yl)-1- (1H-pyrrolo[3,2-c]pyridin-6- yl)-1,3-dihydroimidazo- [4,5-c]quinolin-2-one & ++ & <0.001
  & MS: 426 (M + H+) & 1H NMR (400 MHz, DMSO) ppm = 11.97 (s, 1H),
  &  & 9.00 (s, 1H), 8.84 (s, 1H), 7.78 (s, 2H), 7.71 (d,
  &  & J = 2.2 Hz, 1H), 7.44 (s, 1H), 6.84 (d, J = 2.9 Hz, 1H),
  &  & 6.80 (d, 1H), 6.73 (s, 1H), 3.95 (s, 3H), 3.74 (s, 3H),
  &  & 3.57 (s, 3H)
-121 &  & 1-(1,3-Dimethyl-1H-pyrazol- 4-yl)-7-methoxy-3-methyl-8- (1H-pyrazol-3-yl)-1,3- dihydroimidazo[4,5-c]- quinolin-2-one & +++ & <0.01
+121 & <img> id-US20180072715A1-20180315-C00259.TIF </img> & 1-(1,3-Dimethyl-1H-pyrazol- 4-yl)-7-methoxy-3-methyl-8- (1H-pyrazol-3-yl)-1,3- dihydroimidazo[4,5-c]- quinolin-2-one & +++ & <0.01
  & MS: 390 (M + H+) & 1H NMR (400 MHz, DMSO) ppm = 12.97 (s, 1H),
  &  & 8.84 (d, J = 40, 1H), 8.07-7.72 (m, 2H), 7.54-6.72
  &  & (m, 2H), 6.15 (s, 1H), 4.00-3.92 (m, 6H), 3.55
  &  & (s, 3H), 1.95 (s, 3H)
-122 &  & 1-(3-Fluoro-5-methoxy- pyridin-2-yl)-7-methoxy-3- methyl-8-(3-methyl-1H- pyrazol-4-yl)-1,3-dihydro- imidazo[4,5-c] quinolin-2- one & +++ & <0.001
+122 & <img> id-US20180072715A1-20180315-C00260.TIF </img> & 1-(3-Fluoro-5-methoxy- pyridin-2-yl)-7-methoxy-3- methyl-8-(3-methyl-1H- pyrazol-4-yl)-1,3-dihydro- imidazo[4,5-c] quinolin-2- one & +++ & <0.001
  & MS: 435 (M + H+) & 1H NMR (300 MHz, DMSO) ppm = 8.84 (s, 1H),
  &  & 8.31-8.30 (s, 1H), 7.81-7.77 (d, J = 12, 1H), 7.50
  &  & (s, 2H), 6.76 (s, 1H), 3.99 (s, 3H), 3.90 (s, 3H), 3.56
  &  & (s, 3H), 1.93 (s, 3H)
-123 &  & 1-(3-Fluoro-5-piperazin-1-yl- pyridin-2-yl)-7-methoxy-3- methyl-8-(1-methyl-1H- pyrazol-4-yl)-1,3-dihydro- imidazo[4,5-c]quinolin-2- one & ++ & <0.01
+123 & <img> id-US20180072715A1-20180315-C00261.TIF </img> & 1-(3-Fluoro-5-piperazin-1-yl- pyridin-2-yl)-7-methoxy-3- methyl-8-(1-methyl-1H- pyrazol-4-yl)-1,3-dihydro- imidazo[4,5-c]quinolin-2- one & ++ & <0.01
  & MS: 490(M + H+) & 1H NMR (400 MHz, DMSO) ppm = 8.85 (s, 1H),
  &  & 8.36 (d, J = 2.5 Hz, 1H), 7.95 (s, 1H), 7.64 (dd, J =
  &  & 12.7, 2.6 Hz, 1H), 7.48 (s, 1H), 7.28 (s, 1H), 6.89
  &  & (s, 1H), 3.97 (s, 3H), 3.84 (s, 3H), 3.56 (s, 3H), 3.36
  &  & (dd, J = 6.1, 3.8 Hz, 4H), 2.88 (t, J = 5.0 Hz, 4H)
-124 &  & 1-(3-Fluoro-5-methoxy- pyridin-4-yl)-7-methoxy-3- methyl-8-(2H-pyrazol-3-yl)- 1,3-dihydroimidazo[4,5-c] quinolin-2-one & ++ & <0.05
+124 & <img> id-US20180072715A1-20180315-C00262.TIF </img> & 1-(3-Fluoro-5-methoxy- pyridin-4-yl)-7-methoxy-3- methyl-8-(2H-pyrazol-3-yl)- 1,3-dihydroimidazo[4,5-c] quinolin-2-one & ++ & <0.05
  & MS: 421 (M + H+) & 1H NMR (400 MHz, DMSO) ppm = 13.0 (d, J =
  &  & 22.4 Hz, 1H), 8.92 (d, J = 16.3 Hz, 1H), 8.68 (dd, J =
  &  & 15.0, 10.1 Hz, 2H), 7.82 (s, 1H), 7.70 (t, J =
  &  & 1.9 Hz, 1H), 7.61-7.45 (m, 1H), 6.73 (t, J = 2.1 Hz,
  &  & 1H), 3.98 (d, J = 7.6 Hz, 3H), 3.84 (d, J = 12.8 Hz,
  &  & 3H), 3.58 (s, 3H).
-125 &  & 1-(3-Ethyl-5-fluoropyridin-4- yl)-7-methoxy-3-methyl-8- (2H-1,2,3-triazol-4-yl)-1,3- dihydroimidazo[4,5-c] quinolin-2-one & ++ & <0.001
+125 & <img> id-US20180072715A1-20180315-C00263.TIF </img> & 1-(3-Ethyl-5-fluoropyridin-4- yl)-7-methoxy-3-methyl-8- (2H-1,2,3-triazol-4-yl)-1,3- dihydroimidazo[4,5-c] quinolin-2-one & ++ & <0.001
  & MS: 420 (M + H+) & 1H NMR (400 MHz, DMSO) ppm = 15.25 (s, 1H),
  &  & 9.00 (s, 1H), 8.88 (s, 1H), 8.82 (s, 1H), 8.26 (s, 1H),
  &  & 7.83 (s, 1H), 7.62 (s, 1H), 4.05 (s, 3H), 3.64 (s, 3H),
  &  & 2.67-2.51 (m, 2H), 1.03 (m, 3H).
-126 &  & 1-(3-Ethyl-5-fluoropyridin-4- yl)-7-methoxy-3-methyl-8- (1-methyl-1H-1,2,3-triazol- 4-yl)-1,3-dihydroimidazo- [4,5-c] quinolin-2-one & ++ & <0.01
+126 & <img> id-US20180072715A1-20180315-C00264.TIF </img> & 1-(3-Ethyl-5-fluoropyridin-4- yl)-7-methoxy-3-methyl-8- (1-methyl-1H-1,2,3-triazol- 4-yl)-1,3-dihydroimidazo- [4,5-c] quinolin-2-one & ++ & <0.01
  & MS: 434 (M + H+) & 1H NMR (400 MHz, DMSO) ppm = 9.00 (s, 1H),
  &  & 8.87 (s, 1H), 8.82 (s, 1H), 8.44 (s, 1H), 7.92 (s, 1H),
  &  & 7.62 (s, 1H), 4.06 (d, J = 6.0 Hz, 6H), 3.64 (s, 3H),
  &  & 2.59 (m, 2H), 1.03 (t, J = 7.6 Hz, 3H)
-127 &  & 1-(3-Fluoro-5-methoxy- pyridin-4-yl)-7-methoxy-3- methyl-8-(2-methyl-2H- 1,2,3-triazol-4-yl)-1,3- dihydroimidazo[4,5-c] quinolin-2-one & ++ & <0.01
+127 & <img> id-US20180072715A1-20180315-C00265.TIF </img> & 1-(3-Fluoro-5-methoxy- pyridin-4-yl)-7-methoxy-3- methyl-8-(2-methyl-2H- 1,2,3-triazol-4-yl)-1,3- dihydroimidazo[4,5-c] quinolin-2-one & ++ & <0.01
  & MS: 436 (M + H+) & 1H NMR (400 MHz, DMSO-d6) ppm = 8.94 (s,
  &  & 1H), 8.76 (s, 1H), 8.68 (s, 1H), 8.08 (s, 1H), 7.81
  &  & (s, 1H), 7.57 (s, 1H), 4.11 (s, 3H), 4.02 (s, 3H), 3.86
  &  & (s, 3H), 3.59 (s, 3H).
-128 &  & 1-(3-Fluoro-5-methoxy- pyridin-2-yl)-7-methoxy-3- methyl-8-(3H-1,2,3-triazol- 4-yl)-1,3-dihydroimidazo- [4,5-c] quinolin-2-one & ++ & <0.01
+128 & <img> id-US20180072715A1-20180315-C00266.TIF </img> & 1-(3-Fluoro-5-methoxy- pyridin-2-yl)-7-methoxy-3- methyl-8-(3H-1,2,3-triazol- 4-yl)-1,3-dihydroimidazo- [4,5-c] quinolin-2-one & ++ & <0.01
  & MS: 422 (M + H+) & 1H NMR (400 MHz, DMSO-d6) ppm = 15.16
  &  & (s, 1H), 8.93 (s, 1H), 8.38 (d, J = 2.6 Hz, 1H), 8.23
  &  & (s, 1H), 7.96 (dd, J = 11.0, 2.6 Hz, 1H), 7.66
  &  & (s, 1H), 7.57 (s, 1H), 4.02 (s, 6H), 3.58 (s, 3H).
-129 &  & 8-(1,3-Dimethyl-1H-pyrazol- 4-yl)-1-(3-fluoro-5-methoxy- pyridin-4-yl)-7-methoxy-1,3- dihydroimidazo[4,5-c]- quinolin-2-one & + & <0.001
+129 & <img> id-US20180072715A1-20180315-C00267.TIF </img> & 8-(1,3-Dimethyl-1H-pyrazol- 4-yl)-1-(3-fluoro-5-methoxy- pyridin-4-yl)-7-methoxy-1,3- dihydroimidazo[4,5-c]- quinolin-2-one & + & <0.001
  & MS: 435 (M + H+) & 1H NMR (400 MHz, DMSO-d6) ppm = 11.8
  &  & (s, 1H), 8.69-8.62 (m, 3H), 7.79 (s, 1H), 7.46
  &  & (s, 1H), 6.95 (s, 1H), 3.90 (s, 3H), 3.84 (s, 3H), 3.75
  &  & (s, 3H), 1.72 (s, 3H).
-130 &  & 1-(1-Ethyl-3-methyl-1H- pyrazol-4-yl)-7-methoxy-3- methyl-8-(1-methyl-1H- pyrazol-4-yl)-1,3-dihydro- imidazo[4,5-c]quinolin-2- one & ++ & <0.001
+130 & <img> id-US20180072715A1-20180315-C00268.TIF </img> & 1-(1-Ethyl-3-methyl-1H- pyrazol-4-yl)-7-methoxy-3- methyl-8-(1-methyl-1H- pyrazol-4-yl)-1,3-dihydro- imidazo[4,5-c]quinolin-2- one & ++ & <0.001
  & MS: 418 (M + H+) & 1H NMR (400 MHz, DMSO) ppm = 8.83 (s, 1H),
  &  & 8.19 (s, 1H), 8.01 (s, 1H), 7.49 (s, 1H), 7.43 (s, 1H),
  &  & 7.36 (s, 1H), 4.30-4.20 (m, 2H), 4.00 (s, 3H), 3.88
  &  & (s, 3H), 3.56 (s, 3H), 1.96 (s, 3H), 1.50 (m, 3H)
-131 &  & 1-(3-Fluoro-5-methoxy- pyridin-4-yl)-7-methoxy-3- methyl-8-(1-methyl-1H- 1,2,3-triazol-4-yl)-1,3- dihydroimidazo[4,5-c]- quinolin-2-one & ++ & <0.01
+131 & <img> id-US20180072715A1-20180315-C00269.TIF </img> & 1-(3-Fluoro-5-methoxy- pyridin-4-yl)-7-methoxy-3- methyl-8-(1-methyl-1H- 1,2,3-triazol-4-yl)-1,3- dihydroimidazo[4,5-c]- quinolin-2-one & ++ & <0.01
  & MS: 436 (M + H+) & 1H NMR (400 MHz, DMSO-d6) ppm = 8.93
  &  & (s, 1H), 8.72 (s, 1H), 8.67 (s, 1H), 8.42 (s, 1H), 8.05
  &  & (s, 1H), 7.57 (s, 1H), 4.04 (d, J = 9.80 Hz, 6H), 3.84
  &  & (s, 3H), 3.59 (s, 3H).
-132 &  & 1-(1,3-Dimethyl-1H-pyrazol- 4-yl)-7-methoxy-3-methyl-8- (2-methyl-3H-benzo- imidazol-5-yl)-1,3-dihydro- imidazo[4,5-c]quinolin-2- one & ++ & <0.001
+132 & <img> id-US20180072715A1-20180315-C00270.TIF </img> & 1-(1,3-Dimethyl-1H-pyrazol- 4-yl)-7-methoxy-3-methyl-8- (2-methyl-3H-benzo- imidazol-5-yl)-1,3-dihydro- imidazo[4,5-c]quinolin-2- one & ++ & <0.001
  & MS: 455 (M + H+) & 1H NMR (400 MHz, DMSO) ppm = 12.24 (d, J =
  &  & 6.5 Hz, 1H), 8.85(d, J = 2.1 Hz, 1H), 8.13 (d, J =
  &  & 4.9 Hz, 1H), 7.55-7.47 (m, 2H), 7.45-7.36
  &  & (m, 1H), 7.26 (d, J = 2.2 Hz, 1H), 7.10 (m, 1H), 3.94-
  &  & 3.77 (m, 6H), 3.55 (s, 3H), 2.49 (s, 3H), 1.94
  &  & (s, 3H).
-133 &  & 1-(3-Fluoro-5-methoxy- pyridin-2-yl)-7-methoxy-3- methyl-8-(1-methyl-1H- 1,2,3-triazol-4-yl)-1,3- dihydroimidazo[4,5-c] quinolin-2-one & ++ & <0.01
+133 & <img> id-US20180072715A1-20180315-C00271.TIF </img> & 1-(3-Fluoro-5-methoxy- pyridin-2-yl)-7-methoxy-3- methyl-8-(1-methyl-1H- 1,2,3-triazol-4-yl)-1,3- dihydroimidazo[4,5-c] quinolin-2-one & ++ & <0.01
  & MS: 436 (M + H+) & 1H NMR (400 MHz, DMSO-d6) ppm = 8.92
  &  & (s, 1H), 8.43-8.34 (m, 2H), 7.96 (dd, J = 11.0, 2.6
  &  & Hz, 1H), 7.73 (s, 1H), 7.56 (s, 1H), 4.04 (d, J = 13.4
  &  & Hz, 9H), 3.58 (s, 3H)
-134 &  & 1-(3-Fluoro-5-methoxy- pyridin-4-yl)-7-methoxy-3- methyl-8-(3H-1,2,3-triazol- 4-yl)-1,3-dihydroimidazo- [4,5-c] quinolin-2-one & ++ & <0.001
+134 & <img> id-US20180072715A1-20180315-C00272.TIF </img> & 1-(3-Fluoro-5-methoxy- pyridin-4-yl)-7-methoxy-3- methyl-8-(3H-1,2,3-triazol- 4-yl)-1,3-dihydroimidazo- [4,5-c] quinolin-2-one & ++ & <0.001
  & MS: 422 (M + H+) & 1H NMR (400 MHz, DMSO-d6) ppm = 15.11
  &  & (s, 1H), 8.94 (s, 1H), 8.70 (d, J = 16.3 Hz, 2H), 8.25
  &  & (s, 1H), 7.96 (s, 1H), 7.58 (s, 1H), 4.03 (s, 3H), 3.85
  &  & (s, 3H), 3.59 (s, 3H), 2.06 (s, 1H).
-135 &  & 8-(1,3-Dimethyl-1H-pyrazol- 4-yl)-1-(1-ethyl-3-methyl- 1H-pyrazol-4-yl)-7-methoxy- 3-methyl-1,3-dihydro- imidazo[4,5-c]quinolin-2- one & ++ & <0.001
+135 & <img> id-US20180072715A1-20180315-C00273.TIF </img> & 8-(1,3-Dimethyl-1H-pyrazol- 4-yl)-1-(1-ethyl-3-methyl- 1H-pyrazol-4-yl)-7-methoxy- 3-methyl-1,3-dihydro- imidazo[4,5-c]quinolin-2- one & ++ & <0.001
  & MS: 432 (M + H+) & 1H NMR (400 MHz, DMSO) ppm = 8.84 (s, 1H),
  &  & 8.13 (s, 1H), 7.82 (s, 1H), 7.49 (s, 1H), 7.32 (s, 1H),
  &  & 4.15 (q, J = 7.2 Hz, 2H), 3.92 (s, 3H), 3.78 (s, 3H),
  &  & 3.55 (s, 3H), 1.91 (d, J = 15.3 Hz, 6H), 1.40 (t, J =
  &  & 7.2 Hz, 3H).
-136 &  & 1-(3-Fluoro-5-methoxy- pyridin-4-yl)-7-methoxy-3- methyl-8-(2-methyl-3H- benzoimidazol-5-yl)-1,3- dihydroimidazo[4,5-c]- quinolin-2-one & +++ & <0.001
+136 & <img> id-US20180072715A1-20180315-C00274.TIF </img> & 1-(3-Fluoro-5-methoxy- pyridin-4-yl)-7-methoxy-3- methyl-8-(2-methyl-3H- benzoimidazol-5-yl)-1,3- dihydroimidazo[4,5-c]- quinolin-2-one & +++ & <0.001
  & MS: 485 (M + H+) & 1H NMR (400 MHz, DMSO) ppm = 12.23 (s, 1H),
  &  & 8.93 (s, 1H), 8.65 (d, J = 1.9 Hz, 1H), 8.60 (s, 1H),
  &  & 7.56 (s, 1H), 7.50-7.28 (m, 2H), 7.07-6.94 (m, 2H),
  &  & 3.89 (d, J = 2.0 Hz, 6H), 3.59 (s, 3H), 2.49 (s, 3H).
-137 &  & 1-(3-Fluoro-5-methoxy- pyridin-4-yl)-7-methoxy-8- (6-methoxypyridin-3-yl)-3- methyl-1,3-dihydroimidazo- [4,5-c]quinolin-2-one & ++ & <0.01
+137 & <img> id-US20180072715A1-20180315-C00275.TIF </img> & 1-(3-Fluoro-5-methoxy- pyridin-4-yl)-7-methoxy-8- (6-methoxypyridin-3-yl)-3- methyl-1,3-dihydroimidazo- [4,5-c]quinolin-2-one & ++ & <0.01
  & MS: 462 (M + H+) & 1H NMR (400 MHz, DMSO) ppm = 8.95 (s, 1H),
  &  & 8.65 (d, J = 15.8 Hz, 2H), 8.00 (d, J = 2.4 Hz, 1H),
  &  & 7.65 (dd, J = 8.6, 2.5 Hz, 1H), 7.57 (s, 1H), 6.93
  &  & (s, 1H), 6.83 (d, J = 8.6 Hz, 1H), 3.87 (d, J =
  &  & 15.0 Hz, 9H), 3.59 (s, 3H)
-138 &  & 5-Fluoro-6-[7-methoxy-3- methyl-8-(1-methyl-1H- pyrazol-4-yl)-2-oxo-2,3- dihydroimidazo[4,5-c]- quinolin-1-yl]-N-methyl- nicotinamid & ++ & <0.01
+138 & <img> id-US20180072715A1-20180315-C00276.TIF </img> & 5-Fluoro-6-[7-methoxy-3- methyl-8-(1-methyl-1H- pyrazol-4-yl)-2-oxo-2,3- dihydroimidazo[4,5-c]- quinolin-1-yl]-N-methyl- nicotinamid & ++ & <0.01
  & MS: 462 (M + H+) & 1H NMR (400 MHz, DMSO) ppm = 9.08-8.96
  &  & (m, 2H), 8.93 (s, 1H), 8.55 (dd, J = 9.6, 1.9 Hz, 1H),
  &  & 7.94 (s, 1H), 7.54 (s, 1H), 7.30 (s, 1H), 6.95 (s, 1H),
  &  & 4.01 (s, 3H), 3.84 (s, 3H), 3.61 (s, 3H), 2.92 (d, J =
  &  & 4.5 Hz, 3H)
-139 &  & 6-[8-(1,3-Dimethyl-1H- pyrazol-4-yl)-7-methoxy-3- methyl-2-oxo-2,3-dihydro- imidazo[4,5-c]quinolin-1-yl]- 5-fluoro-N-methyl- nicotinamid & ++ & <0.001
+139 & <img> id-US20180072715A1-20180315-C00277.TIF </img> & 6-[8-(1,3-Dimethyl-1H- pyrazol-4-yl)-7-methoxy-3- methyl-2-oxo-2,3-dihydro- imidazo[4,5-c]quinolin-1-yl]- 5-fluoro-N-methyl- nicotinamid & ++ & <0.001
  & MS: 476 (M + H+) & 1H NMR (400 MHz, DMSO) ppm = 9.02-8.93
  &  & (m, 3H), 8.52 (dd, J = 9.5, 1.9 Hz, 1H), 7.80 (s, 1H),
  &  & 7.55 (s, 1H), 6.81 (s, 1H), 3.94 (s, 3H), 3.76 (s, 3H),
  &  & 3.61 (s, 3H), 2.90 (d, J = 4.5 Hz, 3H), 1.76 (s, 3H)
-140 &  & 1-(3-Fluoro-5-methoxy- pyridin-4-yl)-8-(1-fluoro- methyl-1H-pyrazol-4-yl)-7- methoxy-3-methyl-1,3- dihydroimidazo[4,5-c]- quinolin-2-one & +++ & <0.001
+140 & <img> id-US20180072715A1-20180315-C00278.TIF </img> & 1-(3-Fluoro-5-methoxy- pyridin-4-yl)-8-(1-fluoro- methyl-1H-pyrazol-4-yl)-7- methoxy-3-methyl-1,3- dihydroimidazo[4,5-c]- quinolin-2-one & +++ & <0.001
  & MS: 453 (M + H+) & 1H NMR (400 MHz, DMSO-d6) 8.91 (s, 1H), 8.74
  &  & (d, J = 16.3 Hz, 2H), 8.40 (s, 1H), 7.55 (s, 1H), 7.40-
  &  & 7.35 (m, 1H), 7.19 (s, 1H), 6.22 (s, 1H), 6.09
  &  & (s, 1H), 4.00 (s, 3H), 3.85 (s, 3H), 3.59 (s, 3H).
-141 &  & 1-(3-Fluoro-1-methyl-1H- pyrazol-4-yl)-7-methoxy-3- methyl-8-(1-methyl-1H- pyrazol-4-yl)-1,3-dihydro- imidazo[4,5-c]quinolin-2- one & ++ & <0.01
+141 & <img> id-US20180072715A1-20180315-C00279.TIF </img> & 1-(3-Fluoro-1-methyl-1H- pyrazol-4-yl)-7-methoxy-3- methyl-8-(1-methyl-1H- pyrazol-4-yl)-1,3-dihydro- imidazo[4,5-c]quinolin-2- one & ++ & <0.01
  & MS: 408 (M + H+) & 1H NMR (400 MHz, DMSO) ppm = 8.82 (s, 1H),
  &  & 8.03 (s, 1H), 7.89 (d, J = 2.4 Hz, 1H), 7.60 (s, 1H),
  &  & 7.49 (s, 1H), 7.46 (s, 1H), 3.98 (s, 3H), 3.91 (s, 3H),
  &  & 3.86 (s, 3H), 3.53 (s, 3H).
-142 &  & 8-(1-Ethyl-3-methyl-1H- pyrazol-4-yl)-1-(3-fluoro-5- methoxypyridin-4-yl)-7- methoxy-3-methyl-1,3- dihydroimidazo[4,5-c] quinolin-2-one & ++ & <0.001
+142 & <img> id-US20180072715A1-20180315-C00280.TIF </img> & 8-(1-Ethyl-3-methyl-1H- pyrazol-4-yl)-1-(3-fluoro-5- methoxypyridin-4-yl)-7- methoxy-3-methyl-1,3- dihydroimidazo[4,5-c] quinolin-2-one & ++ & <0.001
  & MS: 463 (M + H+) & 1H NMR (400 MHz, DMSO) ppm = 8.92 (s, 1H),
  &  & 8.71 (d, J = 11.5 Hz, 2H), 7.86 (s, 1H), 7.54 (s, 1H),
  &  & 7.01 (s, 1H), 4.07 (m, 2H), 3.94 (s, 3H), 3.88 (s, 3H),
  &  & 3.61 (s, 3H), 1.78 (s, 3H), 1.36 (t, J = 7.2 Hz, 3H).
-143 &  & 8-(1-Difluoromethyl-1H- pyrazol-4-yl)-1-(3-fluoro-5- methoxypyridin-4-yl)-7- methoxy-3-methyl-1,3- dihydroimidazo[4,5-c] quinolin-2-one & ++ & <0.001
+143 & <img> id-US20180072715A1-20180315-C00281.TIF </img> & 8-(1-Difluoromethyl-1H- pyrazol-4-yl)-1-(3-fluoro-5- methoxypyridin-4-yl)-7- methoxy-3-methyl-1,3- dihydroimidazo[4,5-c] quinolin-2-one & ++ & <0.001
  & MS: 471 (M + H+) & 1H NMR (400 MHz, DMSO-d6) ppm = 8.93
  &  & (s, 1H), 8.72 (d, J = 14.3 Hz, 2H), 8.47 (s, 1H), 7.83
  &  & (t, J = 58.9 Hz, 1H), 7.57 (s, 1H), 7.52 (s, 1H), 7.21
  &  & (s, 1H), 4.01 (s, 3H), 3.85 (s, 3H), 3.59 (s, 3H).
-144 &  & 1-(3-Fluoro-5-methoxy- pyridin-2-yl)-7-methoxy-3- methyl-8-(2-methyl-3H- benzoimidazol-5-yl)-1,3- dihydroimidazo[4,5-c]- quinolin-2-one & ++ & <0.001
+144 & <img> id-US20180072715A1-20180315-C00282.TIF </img> & 1-(3-Fluoro-5-methoxy- pyridin-2-yl)-7-methoxy-3- methyl-8-(2-methyl-3H- benzoimidazol-5-yl)-1,3- dihydroimidazo[4,5-c]- quinolin-2-one & ++ & <0.001
  & MS: 485 (M + H+) & 1H NMR (400 MHz, DMSO-d6) ppm = 12.21
  &  & (s, 1H), 8.93 (s, 1H), 8.35 (d, J = 2.6 Hz, 1H), 7.95-
  &  & 7.81 (m, 1H), 7.55 (s, 1H), 7.38 (d, J = 21.1 Hz,
  &  & 2H), 7.01 (d, J = 32.5 Hz, 1H), 6.72 (s, 1H), 3.93
  &  & (d, J = 27.1 Hz, 6H), 3.58 (s, 3H), 2.48 (d, J = 1.9
  &  & Hz, 3H).
-145 &  & 1-[3-Fluoro-5-(trideuterio- methoxy)-4-pyridyl]-7- methoxy-3-methyl-8-(1- methylpyrazol-4-yl)imidazo- [4,5-c]quinolin-2-one & ++ & <0.001
+145 & <img> id-US20180072715A1-20180315-C00283.TIF </img> & 1-[3-Fluoro-5-(trideuterio- methoxy)-4-pyridyl]-7- methoxy-3-methyl-8-(1- methylpyrazol-4-yl)imidazo- [4,5-c]quinolin-2-one & ++ & <0.001
  & MS: 438 (M + H+) & 1H NMR (300 MHz, DMSO-d6) ppm = 8.89
  &  & (s, 1H), 8.75 (d, J = 12.1 Hz, 2H), 7.99 (s, 1H), 7.52
  &  & (s, 1H), 7.20-7.11 (m, 2H), 3.99 (s, 3H), 3.85
  &  & (s, 3H), 3.31 (s, 3H).
-146 &  & 1-(3-Difluoromethoxy-5- fluoropyridin-4-yl)-7- methoxy-3-methyl-8-(1- methyl-1H-pyrazol-4-yl)-1,3- dihydroimidazo[4,5-c]- quinolin-2-one & +++ & <0.001
+146 & <img> id-US20180072715A1-20180315-C00284.TIF </img> & 1-(3-Difluoromethoxy-5- fluoropyridin-4-yl)-7- methoxy-3-methyl-8-(1- methyl-1H-pyrazol-4-yl)-1,3- dihydroimidazo[4,5-c]- quinolin-2-one & +++ & <0.001
  & MS: 471 (M + H+) & 1H NMR (400 MHz, DMSO-d6) ppm = 9.06
  &  & (s, 1H), 8.93 (d, J = 3.7 Hz, 2H), 8.02 (s, 1H), 7.58
  &  & (s, 0H), 7.54 (s, 1H), 7.42 (d, J = 1.6 Hz, 0H), 7.27-
  &  & 7.20 (m, 1H), 7.16 (s, 1H), 4.01 (s, 3H), 3.86 (s, 3H),
  &  & 3.62 (s, 3H)
-147 &  & 1-(3-Difluoromethoxy-5- fluoropyridin-4-yl)-8-(1,3- dimethyl-1H-pyrazol-4-yl)-7- methoxy-3-methyl-1,3- dihydroimidazo[4,5-c]- quinolin-2-one & +++ & <0.001
+147 & <img> id-US20180072715A1-20180315-C00285.TIF </img> & 1-(3-Difluoromethoxy-5- fluoropyridin-4-yl)-8-(1,3- dimethyl-1H-pyrazol-4-yl)-7- methoxy-3-methyl-1,3- dihydroimidazo[4,5-c]- quinolin-2-one & +++ & <0.001
  & MS: 485 (M + H+) & 1H NMR (400 MHz, DMSO-d6) ppm = 9.03
  &  & (s, 1H), 8.96 (s, 1H), 8.88 (s, 1H), 7.84 (s, 1H), 7.56
  &  & (d, J = 3.5 Hz, 1H), 7.39 (d, J = 1.7 Hz, 1H), 7.21
  &  & (s, 0H), 7.00 (s, 1H), 3.95 (s, 3H), 3.78 (s, 3H), 3.62
  &  & (s, 3H), 1.75 (s, 3H)
-148 &  & 1-(3-Fluoro-5-fluoro- methoxypyridin-4-yl)-7- methoxy-3-methyl-8-(1- methyl-1H-pyrazol-4-yl)-1,3- dihydroimidazo[4,5-c]- quinolin-2-one & +++ & <0.001
+148 & <img> id-US20180072715A1-20180315-C00286.TIF </img> & 1-(3-Fluoro-5-fluoro- methoxypyridin-4-yl)-7- methoxy-3-methyl-8-(1- methyl-1H-pyrazol-4-yl)-1,3- dihydroimidazo[4,5-c]- quinolin-2-one & +++ & <0.001
  & MS: 453 (M + H+) & 1H NMR (400 MHz, DMSO-d6) ppm = 9.04-8.79
  &  & (m, 3H), 8.00 (s, 1H), 7.54 (s, 1H), 7.18 (d, J = 21.6
  &  & Hz, 2H), 5.95 (m, 2H), 4.01 (s, 3H), 3.86 (s, 3H),
  &  & 3.61 (s, 3H).
-149 &  & 8-(1,3-Dimethyl-1H-pyrazol- 4-yl)-1-(3-fluoro-5-fluoro- methoxypyridin-4-yl)-7- methoxy-3-methyl-1,3- dihydroimidazo[4,5-c]- quinolin-2-one & +++ & <0.001
+149 & <img> id-US20180072715A1-20180315-C00287.TIF </img> & 8-(1,3-Dimethyl-1H-pyrazol- 4-yl)-1-(3-fluoro-5-fluoro- methoxypyridin-4-yl)-7- methoxy-3-methyl-1,3- dihydroimidazo[4,5-c]- quinolin-2-one & +++ & <0.001
  & MS: 467 (M + H+) & 1H NMR (400 MHz, DMSO-d6) ppm = 9.00-8.75
  &  & (m, 3H), 7.83 (s, 1H), 7.55 (s, 1H), 6.99 (s, 1H), 5.93
  &  & (m, 2H), 3.94 (s, 3H), 3.77 (s, 3H), 3.61 (s, 3H), 1.74
  &  & (s, 3H)
-150 &  & 8-(1,3-Dimethylpyrazol-4- yl)-1-[3-fluoro-5-(trideuterio- methoxy)-4-pyridyl]-7- methoxy-3-methyl-imidazo- [4,5-c]quinolin-2-one & +++ & <0.001
+150 & <img> id-US20180072715A1-20180315-C00288.TIF </img> & 8-(1,3-Dimethylpyrazol-4- yl)-1-[3-fluoro-5-(trideuterio- methoxy)-4-pyridyl]-7- methoxy-3-methyl-imidazo- [4,5-c]quinolin-2-one & +++ & <0.001
  & MS: 452 (M + H+) & 1H NMR (400 MHz, DMSO-d6) ppm = 8.92
  &  & (s, 1H), 8.70 (d, J = 9.5 Hz, 2H), 7.83 (s, 1H), 7.54
  &  & (s, 1H), 7.00 (s, 1H), 3.94 (s, 3H), 3.78 (s, 3H), 3.60
  &  & (s, 3H), 1.75 (s, 3H).
-151 &  & 1-(1,3-Dimethyl-1H-pyrazol- 4-yl)-7-methoxy-3-methyl-8- (4-methyl-1H-pyrazol-3-yl)- 1,3-dihydroimidazo[4,5-c] quinolin-2-one & +++ & <0.05
+151 & <img> id-US20180072715A1-20180315-C00289.TIF </img> & 1-(1,3-Dimethyl-1H-pyrazol- 4-yl)-7-methoxy-3-methyl-8- (4-methyl-1H-pyrazol-3-yl)- 1,3-dihydroimidazo[4,5-c] quinolin-2-one & +++ & <0.05
  & MS: 404 (M + H+) & 
-152 &  & 1-(3-Fluoro-5-methoxy- pyridin-4-yl)-7-methoxy-3- methyl-8-(2-methyl-1H- imidazo[4,5-b]pyridin-6-yl)- 1,3-dihydroimidazo[4,5-c]- quinolin-2-one & +++ & <0.001
+152 & <img> id-US20180072715A1-20180315-C00290.TIF </img> & 1-(3-Fluoro-5-methoxy- pyridin-4-yl)-7-methoxy-3- methyl-8-(2-methyl-1H- imidazo[4,5-b]pyridin-6-yl)- 1,3-dihydroimidazo[4,5-c]- quinolin-2-one & +++ & <0.001
  & MS: 486 (M + H+) & 1H NMR (400 MHz, DMSO-d6) ppm = 12.87-
  &  & 12.50 (m, 1H), 8.99 (s, 1H), 8.65 (d, J = 14.3 Hz,
  &  & 2H), 8.11 (d, J = 23.8 Hz, 1H), 7.78 (d, J = 12.4
  &  & Hz, 1H), 7.62 (d, J = 2.4 Hz, 1H), 7.06-6.98 (d, J =
  &  & 20 Hz, 1H), 3.93 (s, 3H), 3.89 (d, J = 6.8 Hz,
  &  & 3H), 3.63 (s, 3H), 2.55 (d, J = 14.3 Hz, 3H).
-153 &  & 8-(3H-Benzimidazol-5-yl)-1- (3-fluoro-5-methoxypyridin-2- yl)-7-methoxy-3-methyl-1,3- dihydroimidazo[4,5-c]- quinolin-2-one & ++ & <0.01
+153 & <img> id-US20180072715A1-20180315-C00291.TIF </img> & 8-(3H-Benzimidazol-5-yl)-1- (3-fluoro-5-methoxypyridin-2- yl)-7-methoxy-3-methyl-1,3- dihydroimidazo[4,5-c]- quinolin-2-one & ++ & <0.01
  & MS: 471 (M + H+) & 1H NMR (400 MHz, DMSO-d6) ppm = 12.47
  &  & (s, 1H), 8.93 (s, 1H), 8.36 (d, J = 2.6 Hz, 1H), 8.24
  &  & (s, 1H), 7.88 (d, J = 10.9 Hz, 1H), 7.56 (s, 3H), 7.19-
  &  & 7.00 (m, 1H), 6.75 (s, 1H), 3.90 (s, 3H), 3.59
  &  & (s, 3H), 3.31 (s, 3H).
-154 &  & 1-(1,3-Dimethyl-1H-pyrazol- 4-yl)-7-methoxy-3-methyl-8- (2-methyl-1H-imidazo[4,5- b]pyridin-6-yl)-1,3-dihydro- imidazo[4,5-c]quinolin-2- one & + & <0.001
+154 & <img> id-US20180072715A1-20180315-C00292.TIF </img> & 1-(1,3-Dimethyl-1H-pyrazol- 4-yl)-7-methoxy-3-methyl-8- (2-methyl-1H-imidazo[4,5- b]pyridin-6-yl)-1,3-dihydro- imidazo[4,5-c]quinolin-2- one & + & <0.001
  & MS: 455 (M + H+) & 1H NMR (400 MHz, DMSO-d6) ppm = 8.91 (s, 1H),
  &  & 8.21 (s, 1H), 8.15 (s, 1H), 7.87 (s, 1H), 7.59 (s, 1H),
  &  & 7.29 (s, 1H), 3.93 (s, 3H), 3.87 (s, 3H), 3.58 (s, 3H),
  &  & 2.56 (s, 3H), 1.97 (s, 3H).
-155 &  & 1-[3-Fluoro-5-(trideuterio- methoxy)-2-pyridyl]-7- methoxy-3-methyl-8-(1- methylpyrazol-4-yl) imidazo- [4,5-c]quinolin-2-one & +++ & <0.001
+155 & <img> id-US20180072715A1-20180315-C00293.TIF </img> & 1-[3-Fluoro-5-(trideuterio- methoxy)-2-pyridyl]-7- methoxy-3-methyl-8-(1- methylpyrazol-4-yl) imidazo- [4,5-c]quinolin-2-one & +++ & <0.001
  & MS: 438 (M + H+) & 1H NMR (400 MHz, DMSO) ppm = 8.89 (s, 1H),
  &  & 8.47 (s, 1H), 7.98 (m, 2H), 7.52 (s, 1H), 7.25 (s, 1H),
  &  & 6.88(s, 1H), 3.99 (s, 3H), 3.85 (s, 3H), 3.59 (s, 3H)
-156 &  & 1-(3-Ethylpyridin-4-yl)-7- methoxy-3-methyl-8-(1- methyl-1H-pyrazol-4-yl)-1,3- dihydroimidazo[4,5-c] quinolin-2-one & ++ & <0.001
+156 & <img> id-US20180072715A1-20180315-C00294.TIF </img> & 1-(3-Ethylpyridin-4-yl)-7- methoxy-3-methyl-8-(1- methyl-1H-pyrazol-4-yl)-1,3- dihydroimidazo[4,5-c] quinolin-2-one & ++ & <0.001
  & MS: 415 (M + H+) & 1H NMR (400 MHz, DMSO-d6) ppm = 8.93
  &  & (s, 1H), 8.89 (s, 1H), 8.78 (d, 1H), 7.95 (s, 1H), 7.65
  &  & (d, 1H), 7.50 (s, 1H), 6.97 (s, 1H), 6.89 (s, 1H), 3.98
  &  & (s, 3H), 3.83 (s, 3H), 3.59 (s, 3H), 2.50 (m, 2H),
  &  & 0.99-0.95 (m, 3H)
-157 &  & 8-(1-Ethyl-1H-pyrazol-4-yl)- 1-(3-ethylpyridin-4-yl)-7- methoxy-3-methyl-1,3- dihydroimidazo[4,5-c] quinolin-2-one & +++ & <0.01
+157 & <img> id-US20180072715A1-20180315-C00295.TIF </img> & 8-(1-Ethyl-1H-pyrazol-4-yl)- 1-(3-ethylpyridin-4-yl)-7- methoxy-3-methyl-1,3- dihydroimidazo[4,5-c] quinolin-2-one & +++ & <0.01
  & MS: 429 (M + H+) & 1H NMR (400 MHz, DMSO-d6) ppm = 8.88
  &  & (s, 1H), 8.14-8.11 (s, 2H), 8.04 (s, 1H), 7.54 (s, 1H),
  &  & 4.19 (s, 3H), 4.03-3.99 (d, 6H), 3.56 (s, 3H), 1.56
  &  & (s, 3H)
-158 &  & 1-(3-Fluoropyridin-2-yl)-7- methoxy-3-methyl-8-(2- methyl-2H-1,2,3-triazol-4- yl)-1,3-dihydroimidazo- [4,5-c] quinolin-2-one & ++ & <0.5
+158 & <img> id-US20180072715A1-20180315-C00296.TIF </img> & 1-(3-Fluoropyridin-2-yl)-7- methoxy-3-methyl-8-(2- methyl-2H-1,2,3-triazol-4- yl)-1,3-dihydroimidazo- [4,5-c] quinolin-2-one & ++ & <0.5
  & MS: 406 (M + H+) & 1H NMR (400 MHz, DMSO-d6) ppm = 8.96
  &  & (s, 1H), 8.68 (s, 1H), 8.27-8.23 (m, 1H), 8.07 (s, 1H),
  &  & 7.96-7.92 (m, 1H), 7.57 (s, 1H), 7.51 (s, 1H), 4.10
  &  & (s, 3H), 4.02 (s, 3H), 3.59 (s, 3H)
-159 &  & 1-(3-Fluoro-1-methyl-1H- pyrazol-4-yl)-7-methoxy-8- (6-methoxypyridin-3-yl)-3- methyl-1,3-dihydroimidazo- [4,5-c]quinolin-2-one & + & <0.01
+159 & <img> id-US20180072715A1-20180315-C00297.TIF </img> & 1-(3-Fluoro-1-methyl-1H- pyrazol-4-yl)-7-methoxy-8- (6-methoxypyridin-3-yl)-3- methyl-1,3-dihydroimidazo- [4,5-c]quinolin-2-one & + & <0.01
  & MS: 435 (M + H+) & 1H NMR (400 MHz, DMSO-d6) ppm = 8.90
  &  & (s, 1H), 8.19 (dd, J = 2.4, 0.8 Hz, 1H), 7.89 (d, J =
  &  & 2.4 Hz, 1H), 7.76 (dd, J = 8.6, 2.5 Hz, 1H), 7.56
  &  & (s, 1H), 7.42 (s, 1H), 6.92-6.84 (m, 1H), 3.89 (d, J =
  &  & 8.2 Hz, 6H), 3.82 (d, J = 1.1 Hz, 3H), 3.55
  &  & (s, 3H).
-200 &  & 1-(3-Cyclopropylpyridin-4- yl)-7-methoxy-3-methyl-8- (1-methyl-1H-pyrazol-4-yl)- 1,3-dihydroimidazo[4,5-c] quinolin-2-one & ++ & <0.05
+200 & <img> id-US20180072715A1-20180315-C00298.TIF </img> & 1-(3-Cyclopropylpyridin-4- yl)-7-methoxy-3-methyl-8- (1-methyl-1H-pyrazol-4-yl)- 1,3-dihydroimidazo[4,5-c] quinolin-2-one & ++ & <0.05
  & MS: 427 (M + H+) & 1H NMR (400 MHz, DMSO) ppm = 8.87 (s, 1H),
  &  & 8.73 (d, J = 5.1, 1H), 8.61 (s, 1H), 7.95 (s, 1H), 7.64
  &  & (d, J = 5.1 Hz, 1H), 7.49 (s, 1H), 6.98-6.92 (m, 2H),
  &  & 3.97 (s, 3H), 3.82 (s, 3H), 3.58 (s, 3H), 1.59 (m, 1H),
  &  & 0.91 (m, 1H), 0.82-0.73 (m, 1H), 0.62-0.49 (m, 2H).
-201 &  & 1-(3-Fluoro-5-methyl- sulfonylmethoxypyridin-2- yl)-7-methoxy-3-methyl-8- (1-methyl-1H-pyrazol-4-yl)- 1,3-dihydroimidazo[4,5-c]- quinolin-2-one & +++ & <0.001
+201 & <img> id-US20180072715A1-20180315-C00299.TIF </img> & 1-(3-Fluoro-5-methyl- sulfonylmethoxypyridin-2- yl)-7-methoxy-3-methyl-8- (1-methyl-1H-pyrazol-4-yl)- 1,3-dihydroimidazo[4,5-c]- quinolin-2-one & +++ & <0.001
  & MS: 514 (M + H+) & 1H NMR (400 MHz, DMSO) ppm = 8.91 (s, 1H),
  &  & 8.66 (s, 1H), 8.28 (m, 1H), 7.89 (s, 1H), 7.53 (s, 1H),
  &  & 7.41 (s, 1H), 6.95 (s, 1H), 5.70 (s, 2H), 4.02 (s, 3H),
  &  & 4.00 (s, 3H), 3.59 (s, 3H), 3.21 (s, 3H)
-202 &  & 1-(3-Cyclopropyl-5-fluoro- pyridin-4-yl)-7-methoxy-3- methyl-8-(1-methyl-1H- pyrazol-4-yl)-1,3-dihydro- imidazo[4,5-c]quinolin-2- one & ++ & <0.001
+202 & <img> id-US20180072715A1-20180315-C00300.TIF </img> & 1-(3-Cyclopropyl-5-fluoro- pyridin-4-yl)-7-methoxy-3- methyl-8-(1-methyl-1H- pyrazol-4-yl)-1,3-dihydro- imidazo[4,5-c]quinolin-2- one & ++ & <0.001
  & MS: 445 (M + H+) & 1H NMR (400 MHz, DMSO) ppm = 8,91 (s, 1H),
  &  & 8.83 (s, 1H), 8.50 (s, 1H), 7.98 (s, 1H), 7.52 (s, 1H),
  &  & 7.08-6.99 (m, 2H), 3.98 (s, 3H), 3.83 (s, 3H), 3.60
  &  & (s, 3H), 1.71-1.61 (m, 1H), 1.04-0.95 (m, 1H), 0.87
  &  & (m, 1H), 0.37-0.62 (m, 2H).
-203 &  & 8-(1,3-Dimethyl-1H-pyrazol- 4-yl)-1-(3-fluoro-5-methyl- sulfonylmethoxypyridin-2- yl)-7-methoxy-3-methyl-1,3- dihydroimidazo[4,5-c]- quinolin-2-one & ++ & <0.001
+203 & <img> id-US20180072715A1-20180315-C00301.TIF </img> & 8-(1,3-Dimethyl-1H-pyrazol- 4-yl)-1-(3-fluoro-5-methyl- sulfonylmethoxypyridin-2- yl)-7-methoxy-3-methyl-1,3- dihydroimidazo[4,5-c]- quinolin-2-one & ++ & <0.001
  & MS: 528 (M + H+) & 1H NMR (400 MHz, DMSO) ppm = 8.92 (s, 1H),
  &  & 8.56 (s, 1H), 8.22 (m, 1H), 7.75 (s, 1H), 7.53 (s, 1H),
  &  & 6.83 (s, 1H), 5.64 (s, 2H), 3.92 (s, 3H), 3.76 (s, 3H),
  &  & 3.58 (s, 3H), 3.17 (s, 3H), 1.826(s, 3H)
-204 &  & 1-(5-Allyloxy-3-fluoropyridin- 2-yl)-7-methoxy-3-methyl-8- (1-methyl-1H-pyrazol-4-yl)- 1,3-dihydroimidazo[4,5-c]- quinolin-2-one & ++ & <0.001
+204 & <img> id-US20180072715A1-20180315-C00302.TIF </img> & 1-(5-Allyloxy-3-fluoropyridin- 2-yl)-7-methoxy-3-methyl-8- (1-methyl-1H-pyrazol-4-yl)- 1,3-dihydroimidazo[4,5-c]- quinolin-2-one & ++ & <0.001
  & MS: 461 (M + H+) & 1H NMR (400 MHz, DMSO) ppm = 8.87 (s, 1H),
  &  & 8.46 (d, J = 2.6 Hz, 1H), 8.01-7.93 (m, 2H), 7.50
  &  & (s, 1H), 7.24 (d, J = 0.8 Hz, 1H), 6.87 (s, 1H), 6.11
  &  & (ddt, J = 17.2, 10.6, 5.3 Hz, 1H), 5.51 (dq, J =
  &  & 17.3, 1.6 Hz, 1H), 5.38 (dq, J = 10.5, 1.4 Hz, 1H),
  &  & 4.88
-205 &  & 1-[5-(Azetidin-3-yloxy)-3- fluoropyridin-2-yl]-7- methoxy-3-methyl-8-(1- methyl-1H-pyrazol-4-yl)-1,3- dihydroimidazo[4,5-c]- quinolin-2-one & ++ & <0.001
+205 & <img> id-US20180072715A1-20180315-C00303.TIF </img> & 1-[5-(Azetidin-3-yloxy)-3- fluoropyridin-2-yl]-7- methoxy-3-methyl-8-(1- methyl-1H-pyrazol-4-yl)-1,3- dihydroimidazo[4,5-c]- quinolin-2-one & ++ & <0.001
  & MS: 476 (M + H+) & 1H NMR (400 MHz, DMSO) ppm = 8.87 (s, 1H),
  &  & 8.40 (s, 1H), 7.98 (s, 1H), 7.84 (m, 1H), 7.50 (s, 1H),
  &  & 7.27 (s, 1H), 6.89 (s, 1H), 5.28 (m, 1H), 3.98 (s, 3H),
  &  & 3.85 (s, 2H), 3.84 (s, 3H), 3.62 (s, 2H), 3.57 (s, 3H)
-206 &  & 1-[3-Fluoro-5-(2-methyl- amino-ethoxy)-pyridin-2-yl]- 7-methoxy-3-methyl-8-(1- methyl-1H-pyrazol-4-yl)-1,3- dihydroimidazo[4,5-c] quinolin-2-one & ++ & <0.01
+206 & <img> id-US20180072715A1-20180315-C00304.TIF </img> & 1-[3-Fluoro-5-(2-methyl- amino-ethoxy)-pyridin-2-yl]- 7-methoxy-3-methyl-8-(1- methyl-1H-pyrazol-4-yl)-1,3- dihydroimidazo[4,5-c] quinolin-2-one & ++ & <0.01
  & MS: 478 (M + H+) & 1H NMR (400 MHz, DMSO-d6) ppm = 8.87
  &  & (s, 1H), 8.44 (d, J = 2.6 Hz, 1H), 7.97 (d, J = 13.0
  &  & Hz, 2H), 7.50 (s, 1H), 7.26 (d, J = 0.8 Hz, 1H), 6.89
  &  & (s, 1H), 4.36-4.27 (m, 2H), 3.97 (s, 3H), 3.84
  &  & (s, 3H), 3.57 (s, 3H), 2.97-2.89 (m, 2H), 2.37
  &  & (s, 3H).
-207 &  & 1-[3-Fluoro-5-(1-methyl- azetidin-3-ylmethoxy)- pyridin-2-yl]-7-methoxy-3- methyl-8-(1-methyl-1H- pyrazol-4-yl)-1,3-dihydro- imidazo[4,5-c]quinolin-2- one & ++ & <0.01
+207 & <img> id-US20180072715A1-20180315-C00305.TIF </img> & 1-[3-Fluoro-5-(1-methyl- azetidin-3-ylmethoxy)- pyridin-2-yl]-7-methoxy-3- methyl-8-(1-methyl-1H- pyrazol-4-yl)-1,3-dihydro- imidazo[4,5-c]quinolin-2- one & ++ & <0.01
  & MS: 505 (M + H+) & 1H NMR (400 MHz, DMSO) ppm = 8.87 (s, 1H),
  &  & 8.45 (d, J = 2.5 Hz, 1H), 7.98 (d, J = 12.0 Hz, 2H),
  &  & 7.50 (s, 1H), 7.25 (s, 1H), 6.86 (s, 1H), 4.42-4.35
  &  & (m, 2H), 3.97 (s, 3H), 3.84 (s, 3H), 3.57 (s, 3H), 3.35
  &  & (s, 2H), 3.02 (t, J = 6.20 Hz, 2H), 2.84 (m, 1H), 2.22
  &  & (s, 3H).
-208 &  & 8-[1-(Azetidin-3-yl)-1H- pyrazol-4-yl]-1-(3-fluoro-5- methoxypyridin-4-yl)-7- methoxy-3-methyl- 1H,2H,3H-imidazo[4,5-c]- quinolin-2-one & + & <0.01
+208 & <img> id-US20180072715A1-20180315-C00306.TIF </img> & 8-[1-(Azetidin-3-yl)-1H- pyrazol-4-yl]-1-(3-fluoro-5- methoxypyridin-4-yl)-7- methoxy-3-methyl- 1H,2H,3H-imidazo[4,5-c]- quinolin-2-one & + & <0.01
  & MS: 476 (M + H+) & H NMR (400 MHz, DMSO-d6) ppm = 8.90 (s, 1H),
  &  & 8.78 (s, 1H), 8.74 (s, 1H), 8.11 (s, 1H), 7.53 (s, 1H),
  &  & 7.28 (s, 1H), 7.17 (s, 1H), 5.21 (m, 1H), 4.00 (s, 3H),
@@ -1251,13 +1270,13 @@ TABLE 4
 <header>
 
 </header>
-300 &  & 1-(3-Fluoro-5-methoxypyridin-4-yl)-7-methoxy-3- methyl-8-(3-fluoro-1-methyl-1H-pyrazol-4-yl)- 1,3-dihydroimidazo[4,5-c]quinolin-2-one
-301 &  & 1-(1,3-Dimethyl-1H-pyrazol-4-yl)-7-methoxy-3- methyl-8-(3-fluoro-1-methyl-1H-pyrazol-4-yl)-1,3- dihydroimidazo[4,5-c]quinolin-2-one
-302 &  & 1-(5-Fluoro-1H-pyrrolo[2,3-b]pyridin-6-yl)-7- methoxy-3-methyl-8-(1-methyl-1H-pyrazol-4-yl)- 1,3-dihydroimidazo[4,5-c]quinolin-2-one
-303 &  & 1-[3-Fluoro-5-(trifluoromethoxy)-4-pyridyl]-7- methoxy-3-methyl-8-(1-methyl-1H-pyrazol-4-yl)- 1,3-dihydroimidazo[4,5-c]quinolin-2-one
-304 &  & 1-[3-Fluoro-5-(trifluoromethoxy)-4-pyridyl]-7- methoxy-3-methyl-8-(1,3-dimethylpyrazol-4-yl)- 1,3-dihydroimidazo[4,5-c]quinolin-2-one
-400 &  & 1-(3-Fluoro-5-methylsulfonyl-pyridin-2-yl)-7- methoxy-3-methyl-8-(1-methyl-1H-pyrazol-4-yl)- 1H,2H,3H-imidazo[4,5-c]quinolin-2-one
-401 &  & 8-[1-(Azetidin-3-yl)-3-methyl-1H-pyrazol-4-yl]-1-(3- fluoro-5-methoxypyridin-4-yl)-7-methoxy-3-methyl- 1H,2H,3H-imidazo[4,5-c]quinolin-2-one
+300 & <img> id-US20180072715A1-20180315-C00307.TIF </img> & 1-(3-Fluoro-5-methoxypyridin-4-yl)-7-methoxy-3- methyl-8-(3-fluoro-1-methyl-1H-pyrazol-4-yl)- 1,3-dihydroimidazo[4,5-c]quinolin-2-one
+301 & <img> id-US20180072715A1-20180315-C00308.TIF </img> & 1-(1,3-Dimethyl-1H-pyrazol-4-yl)-7-methoxy-3- methyl-8-(3-fluoro-1-methyl-1H-pyrazol-4-yl)-1,3- dihydroimidazo[4,5-c]quinolin-2-one
+302 & <img> id-US20180072715A1-20180315-C00309.TIF </img> & 1-(5-Fluoro-1H-pyrrolo[2,3-b]pyridin-6-yl)-7- methoxy-3-methyl-8-(1-methyl-1H-pyrazol-4-yl)- 1,3-dihydroimidazo[4,5-c]quinolin-2-one
+303 & <img> id-US20180072715A1-20180315-C00310.TIF </img> & 1-[3-Fluoro-5-(trifluoromethoxy)-4-pyridyl]-7- methoxy-3-methyl-8-(1-methyl-1H-pyrazol-4-yl)- 1,3-dihydroimidazo[4,5-c]quinolin-2-one
+304 & <img> id-US20180072715A1-20180315-C00311.TIF </img> & 1-[3-Fluoro-5-(trifluoromethoxy)-4-pyridyl]-7- methoxy-3-methyl-8-(1,3-dimethylpyrazol-4-yl)- 1,3-dihydroimidazo[4,5-c]quinolin-2-one
+400 & <img> id-US20180072715A1-20180315-C00312.TIF </img> & 1-(3-Fluoro-5-methylsulfonyl-pyridin-2-yl)-7- methoxy-3-methyl-8-(1-methyl-1H-pyrazol-4-yl)- 1H,2H,3H-imidazo[4,5-c]quinolin-2-one
+401 & <img> id-US20180072715A1-20180315-C00313.TIF </img> & 8-[1-(Azetidin-3-yl)-3-methyl-1H-pyrazol-4-yl]-1-(3- fluoro-5-methoxypyridin-4-yl)-7-methoxy-3-methyl- 1H,2H,3H-imidazo[4,5-c]quinolin-2-one
 </table>
 Example 16
 Pharmaceutical Compositions

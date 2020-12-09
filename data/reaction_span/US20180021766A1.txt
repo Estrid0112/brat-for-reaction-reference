@@ -34,6 +34,7 @@ Still another objective of the present invention is to provide a process for the
 Still another objective of the present invention is to provide a one pot process for the conversion of carbon dioxide to methanol in the presence of a pincer based catalyst and a secondary amine under mild conditions with improved yield.
 SUMMARY OF THE INVENTION
 Accordingly the present invention provides a phenanthroline based pincer catalyst complexes of Formula (I);
+<img> id-US20180021766A1-20180125-C00001.TIF </img>
 wherein
 M is a noble metal, transition metal (1st, 2nd and 3rd row of elements), alkaline-earth-or rare-earth elements;
 Y is selected from the group consisting of phosphine (PRaRb), phosphite P(ORa)(ORb), phosphinite P(ORa)(Rb), amine (NRaRb), imine, sulphide SRa, oxide ORa, sulfoxide S(O)Ra, sulphone SO2Ra, oxazoline, N-heterocyclic carbine, heteroaryl containing at least one heteroatom selected from nitrogen or Sulphur;
@@ -44,15 +45,18 @@ R1, represents hydrogen or one or two substituents wherein each such substituent
 R2 and R3 form a 6 membered aromatic ring which is further substituted with one or two substituents wherein each such substituent is independently selected from the group consisting of alkyl (linear and branched), cycloalkyl, aryl, substituted aryl, heterocyclyl, heteroaryl, alkylcycloalkyl, alkylaryl, alkylheterocyclyl, alkylheteroaryl, halogen, triflurometyl, nitro, amide, ester (-CO2R), -OC(O)R, -OC(O)CF3, -OSO2R, -OSO2CF3) cyano, alkoxy, alkylamino (mono or di), arylamino (mono or di), -SR, an inorganic support or a polymeric moiety.
 R3 and R4 form a six member aromatic ring which is further substituted with one or two substituents wherein each such substituent is independently selected from the group consisting of alkyl (linear and branched), cycloalkyl, aryl, substituted aryl, heterocyclyl, heteroaryl, alkylcycloalkyl, alkylaryl, alkylheterocyclyl, alkylheteroaryl, halogen, triflurometyl, nitro, amide, ester (-CO2R), -OC(O)R, -OC(O)CF3, -OSO2R, -OSO2CF3) cyano, alkoxy, alkylamino (mono or di), arylamino (mono or di), -SR, an inorganic support or a polymeric moiety.
 In an embodiment present, invention provides a phenanthroline based pincer complexes of formula (I) as claimed in claim 1, wherein said complex is selected from HCl(CO)Ru(Phen-(tBu)PNN) (3), H(CO)Ru-(Phen-(tBu)PNN) (4) and H(CO)Ru(η1BH4)(Phen-(tBu)PNN) (5a).
+<img> id-US20180021766A1-20180125-C00002.TIF </img>
 In another embodiment of present invention, the said catalyst is used for hydrogenation of lactones to diols and esters to alcohols
 In still another embodiment of present invention, the said catalyst is used for dehydrogenation of diols to lactones, alcohol to esters and secondary alcohols to ketones.
 In yet another embodiment, present invention provides a process for the preparation of phenanthroline based pincer complexes of formula (I) as claimed in claim 1, wherein said process comprising the steps of:a) adding solution of Lithium diisopropylamide and tBuOK in suitable solvent to a solution of 2-methyl-1,10-phenanthroline (1) in ether at a temperature in the range of 0 to 5° C. followed by stirring the reaction mixture for the period in the range of 30 to 40 min to obtain a solution;
-b) adding a solution of di-tert-butylchlorophosphine in ether to the solution as obtained in step (a) and stirring for a period of 1 to 2 hr at a temperature in the range of −50 to −78° C. followed by stirring at temperature in the range of 25 to 30° C. for the period in the range of 12 to 14 hrs to obtain Phen-PNN(tBu) (2);
-c) mixing the Phen-PNN(tBu) (2) as obtained in step (b), RuHCl(CO)(PPh3)3 and tetrahydrofuran heating at a temperature in the range of 60 to 70° C. for the period in the range of 5 to 6 hr under argon atmosphere to obtain HCl(CO)Ru(Phen-(tBu)PNN) (3);
-d) adding Sodium bis(trimethylsilyl)amide to the compound of step (c) in C6H6 to obtain H(CO)Ru-(Phen-(tBu)PNN) (4);
-e) stirring the reaction mixture comprising HCl(CO)Ru(Phen-(tBu)PNN) (3) and NaBH4 in toluene and ethanol at temperature in the range of 50 to 70° C. for the period in the range of 10 to 15 min followed by stirring at a temperature in the range of 25-30° C. for the period in the range of 4 to 6 hrs to obtain H(CO)Ru(η1BH4)(Phen-(tBu)PNN) (5a).
+<img> id-US20180021766A1-20180125-C00003.TIF </img>b) adding a solution of di-tert-butylchlorophosphine in ether to the solution as obtained in step (a) and stirring for a period of 1 to 2 hr at a temperature in the range of −50 to −78° C. followed by stirring at temperature in the range of 25 to 30° C. for the period in the range of 12 to 14 hrs to obtain Phen-PNN(tBu) (2);
+<img> id-US20180021766A1-20180125-C00004.TIF </img>c) mixing the Phen-PNN(tBu) (2) as obtained in step (b), RuHCl(CO)(PPh3)3 and tetrahydrofuran heating at a temperature in the range of 60 to 70° C. for the period in the range of 5 to 6 hr under argon atmosphere to obtain HCl(CO)Ru(Phen-(tBu)PNN) (3);
+<img> id-US20180021766A1-20180125-C00005.TIF </img>d) adding Sodium bis(trimethylsilyl)amide to the compound of step (c) in C6H6 to obtain H(CO)Ru-(Phen-(tBu)PNN) (4);
+<img> id-US20180021766A1-20180125-C00006.TIF </img>e) stirring the reaction mixture comprising HCl(CO)Ru(Phen-(tBu)PNN) (3) and NaBH4 in toluene and ethanol at temperature in the range of 50 to 70° C. for the period in the range of 10 to 15 min followed by stirring at a temperature in the range of 25-30° C. for the period in the range of 4 to 6 hrs to obtain H(CO)Ru(η1BH4)(Phen-(tBu)PNN) (5a).
+<img> id-US20180021766A1-20180125-C00007.TIF </img>
 In yet another embodiment of present invention, the solvent used in step (a) is selected from hexane, heptane, tetrahydrofuran (THF), diethyl ether, toluene, and etheylbenzene.
 In yet another embodiment of present invention, the phenanthroline based pincer complexes of Formula (I) is useful for the preparation of methanol from carbon dioxide
+<img> id-US20180021766A1-20180125-C00008.TIF </img>
 wherein
 M is a noble metal, transition metal (1st, 2nd and 3rd row of elements), alkaline-earth-or rare-earth elements;
 Y is selected from the group consisting of phosphine (PRaRb), phosphite P(ORa)(ORb), phosphinite P(ORa)(Rb), amine (NRaRb), imine, sulphide SRa, oxide ORa, sulfoxide S(O)Ra, sulphone SO2Ra, oxazoline, N-heterocyclic carbine, heteroaryl containing at least one heteroatom selected from nitrogen or Sulphur;
@@ -68,6 +72,7 @@ wherein the said catalyst is useful for the preparation of methanol from carbon 
 In yet another embodiment of present invention, wherein catalyst of formula 1 used in step (i) is selected from HCl(CO)Ru(Phen-(tBu)PNN) (3); H(CO)Ru-(Phen-(tBu)PNN) (4); H(CO)Ru(η1BH4)(Phen-(tBu)PNN) (5a); HCl(CO)Ru(BPy-tPNN); [H(CO)Ru(BPy-tPNN−)]; and H(CO) Ru−(Py-tPNN)].
 In yet another embodiment of present invention, wherein said steps (ii) and (vi) are absent when [H(CO)Ru(BPy-tPNN)] catalyst is used.
 In yet another embodiment of present invention, wherein secondary amine used in step (i) is selected from A or B
+<img> id-US20180021766A1-20180125-C00009.TIF </img>
 wherein;
 X is selected from the group consisting of NH, CH2, and O
 R1 and R2 are the same or different and is selected from the group consisting of alkyl (linear, branched), cyclo (up to 7 membered, which may be further mono, di, tri or tetra substituted and selected from the group consisting of alkyl (linear and branced), aryl (further substituted), cycloalkyl, alkylaryl, alkylheterocyclyl, alkylheteroaryl, halogen, triflurometyl, nitro, alkoxy, dialkylamino, diarylamino, and -SR), cycloalkyl, aryl (which may be further mono, di, tri or tetra substituted), heterocyclyl, heteroaryl,
@@ -75,6 +80,7 @@ ABBREVIATIONS
 CO2: Carbon dioxideTHF: Tetrahydro furanH2: HydrogenPhen-PNN(tBu): 2-((di-tert-butylphosphanyl)methyl)-1,10-phenanthrolineHCl(CO)Ru(Phen-(tBu)PNN): [2-((di-tert-butylphosphanyl)methyl)-1,10-phenanthroline] ruthenium(II) chlorocarbonyl hydrideH(CO)Ru-(Phen-(tBu)PNN): Carbonylhydrido[2-((di-tert-butylphosphanyl)methylene)-2H-1,10-phenanthrolin-1-ide]ruthenium(II)HCl(CO)Ru(BPy-tPNN): [6-((di-tert-butylphosphanyl)methyl)-2,2'-bipyridine] ruthenium(II)chlorocarbonyl hydride[H(CO)Ru-(BPy-tPNN-)]: Carbonylhydrido[6-((di-tert-butylphosphanyl)methylene)-6H-[2,2'-bipyridin]-1-ide]ruthenium(II)HCl(CO)Ru(Py-tPNN-)]: [2-(Di-tert-butylphosphinomethyl)-6-(diethylaminomethyl) pyridine]ruthenium(II) chlorocarbonyl hydride
 DETAILED DESCRIPTION OF THE INVENTION
 The present invention provides novel phenanthroline based pincer complexes of formula (I) as shown below:
+<img> id-US20180021766A1-20180125-C00010.TIF </img>
 wherein
 M is a noble metal, transition metal (1st, 2nd and 3rd row of elements), alkaline-earth-or rare-earth elements;
 Y is selected from the group consisting of phosphine (PRaRb), phosphite P(ORa)(ORb), phosphinite P(ORa)(Rb), amine (NRaRb), imine, sulphide SRa, oxide ORa, sulfoxide S(O)Ra, sulphone SO2Ra, oxazoline, N-heterocyclic carbine, heteroaryl containing at least one heteroatom selected from nitrogen or Sulphur;
@@ -99,16 +105,17 @@ The said catalyst is used for hydrogenation of esters to alcohols as shown in ta
 TABLE 1
 </header>
 Catalytic hydrogenation of esters to alcohols.
+<img> id-US20180021766A1-20180125-C00011.TIF </img>
 Entry & Catalyst & esters & products & Yield (%)b
-1 & 3 &  &  & 86
-2a & 5a &  &  & 92
-3 & 3 &  &  & 89
-4 & 3 &  &  & 91
-5 & 3 &  &  & 95
-6 & 3 &  &  & 98
-7 & 3 &  &  & 92
-8 & 3 &  &  & 94
-9 & 3 &  &  & 90
+1 & 3 & <img> id-US20180021766A1-20180125-C00012.TIF </img> & <img> id-US20180021766A1-20180125-C00013.TIF </img> & 86
+2a & 5a & <img> id-US20180021766A1-20180125-C00014.TIF </img> & <img> id-US20180021766A1-20180125-C00015.TIF </img> & 92
+3 & 3 & <img> id-US20180021766A1-20180125-C00016.TIF </img> & <img> id-US20180021766A1-20180125-C00017.TIF </img> & 89
+4 & 3 & <img> id-US20180021766A1-20180125-C00018.TIF </img> & <img> id-US20180021766A1-20180125-C00019.TIF </img> & 91
+5 & 3 & <img> id-US20180021766A1-20180125-C00020.TIF </img> & <img> id-US20180021766A1-20180125-C00021.TIF </img> & 95
+6 & 3 & <img> id-US20180021766A1-20180125-C00022.TIF </img> & <img> id-US20180021766A1-20180125-C00023.TIF </img> & 98
+7 & 3 & <img> id-US20180021766A1-20180125-C00024.TIF </img> & <img> id-US20180021766A1-20180125-C00025.TIF </img> & 92
+8 & 3 & <img> id-US20180021766A1-20180125-C00026.TIF </img> & <img> id-US20180021766A1-20180125-C00027.TIF </img> & 94
+9 & 3 & <img> id-US20180021766A1-20180125-C00028.TIF </img> & <img> id-US20180021766A1-20180125-C00029.TIF </img> & 90
 10 & 5a & HCO2Me & CH3OH & 89
 awithout tBuOK. byields are based on aromatic alcohols (entries 4-9).
 </table>
@@ -118,11 +125,12 @@ The said catalyst is used for hydrogenation of lactones to diols as shown in tab
 TABLE 2
 </header>
 Catalytic hydrogenation of lactones to diols.
+<img> id-US20180021766A1-20180125-C00030.TIF </img>
 Entry & Catalyst & lactones & diols (yield %)
-1 & 3 &  & 
-2 & 5a &  & 
-3 & 5a &  & 
-4 & 5a &  & 
+1 & 3 & <img> id-US20180021766A1-20180125-C00031.TIF </img> & <img> id-US20180021766A1-20180125-C00032.TIF </img>
+2 & 5a & <img> id-US20180021766A1-20180125-C00033.TIF </img> & <img> id-US20180021766A1-20180125-C00034.TIF </img>
+3 & 5a & <img> id-US20180021766A1-20180125-C00035.TIF </img> & <img> id-US20180021766A1-20180125-C00036.TIF </img>
+4 & 5a & <img> id-US20180021766A1-20180125-C00037.TIF </img> & <img> id-US20180021766A1-20180125-C00038.TIF </img>
 </table>
 The said catalyst is used for dehydrogenation of alcohols to esters as shown in table 3.
 <table>
@@ -130,12 +138,13 @@ The said catalyst is used for dehydrogenation of alcohols to esters as shown in 
 TABLE 3
 </header>
 Catalytic dehydrogenation of alcohols to esters and dihydrogen.
+<img> id-US20180021766A1-20180125-C00039.TIF </img>
 Entry & Catalysta & alcohols & esters (yield %)
-1 & 3 &  & 
-2 & 3 &  & 
-3 & 3 &  & 
-4 & 3 &  & 
-5 & 5a &  & 
+1 & 3 & <img> id-US20180021766A1-20180125-C00040.TIF </img> & <img> id-US20180021766A1-20180125-C00041.TIF </img>
+2 & 3 & <img> id-US20180021766A1-20180125-C00042.TIF </img> & <img> id-US20180021766A1-20180125-C00043.TIF </img>
+3 & 3 & <img> id-US20180021766A1-20180125-C00044.TIF </img> & <img> id-US20180021766A1-20180125-C00045.TIF </img>
+4 & 3 & <img> id-US20180021766A1-20180125-C00046.TIF </img> & <img> id-US20180021766A1-20180125-C00047.TIF </img>
+5 & 5a & <img> id-US20180021766A1-20180125-C00048.TIF </img> & <img> id-US20180021766A1-20180125-C00049.TIF </img>
 ain case of Cat. 3 one equiv. of tBuOK (w.r.t Cat. 3) was used.
 </table>
 In another preferred embodiment, said catalyst is used for dehydrogenation of diols to lactones as shown in table 4.
@@ -144,10 +153,11 @@ In another preferred embodiment, said catalyst is used for dehydrogenation of di
 TABLE 4
 </header>
 Catalytic dehydrogenation of diols to lactones and dihydrogen.
+<img> id-US20180021766A1-20180125-C00050.TIF </img>
 Entry & Catalyst & diols & lactones (yield %)
-1 & 3 &  & 
-2 & 3 &  & 
-3 & 3 &  & 
+1 & 3 & <img> id-US20180021766A1-20180125-C00051.TIF </img> & <img> id-US20180021766A1-20180125-C00052.TIF </img>
+2 & 3 & <img> id-US20180021766A1-20180125-C00053.TIF </img> & <img> id-US20180021766A1-20180125-C00054.TIF </img>
+3 & 3 & <img> id-US20180021766A1-20180125-C00055.TIF </img> & <img> id-US20180021766A1-20180125-C00056.TIF </img>
 </table>
 The said catalyst is used for dehydrogenation of secondary alcohols to ketones as shown table 5.
 <table>
@@ -155,30 +165,35 @@ The said catalyst is used for dehydrogenation of secondary alcohols to ketones a
 TABLE 5
 </header>
 Catalytic dehydrogenation of sec. alcohols to ketones.
+<img> id-US20180021766A1-20180125-C00057.TIF </img>
 Entry & Catalyst & sec. alcohols & ketones (yield %)
-1 & 3 &  & 
-2 & 3 &  & 
-3 & 5a &  & 
-4 & 3 &  & 
-5 & 3 &  & 
-6 & 3 &  & 
+1 & 3 & <img> id-US20180021766A1-20180125-C00058.TIF </img> & <img> id-US20180021766A1-20180125-C00059.TIF </img>
+2 & 3 & <img> id-US20180021766A1-20180125-C00060.TIF </img> & <img> id-US20180021766A1-20180125-C00061.TIF </img>
+3 & 5a & <img> id-US20180021766A1-20180125-C00062.TIF </img> & <img> id-US20180021766A1-20180125-C00063.TIF </img>
+4 & 3 & <img> id-US20180021766A1-20180125-C00064.TIF </img> & <img> id-US20180021766A1-20180125-C00065.TIF </img>
+5 & 3 & <img> id-US20180021766A1-20180125-C00066.TIF </img> & <img> id-US20180021766A1-20180125-C00067.TIF </img>
+6 & 3 & <img> id-US20180021766A1-20180125-C00068.TIF </img> & <img> id-US20180021766A1-20180125-C00069.TIF </img>
 </table>
 The following examples, which include preferred embodiments, will serve to illustrate the practice of this invention, it being understood that the particulars shown are by way of example and for purpose of illustrative discussion of preferred embodiments of the invention.
 EXAMPLES
 Following examples are given by way of illustration and therefore should not be construed to limit the scope of the invention.
 Example 1
 Synthesis of Phen-PNN(tBu)
+<img> id-US20180021766A1-20180125-C00070.TIF </img>
 An oven-dried 250 mL two-necked round bottom flask equipped with an argon inlet, a stirring bar and dropping funnel is cooled under a stream of argon. The flask is then charged with 1.94 g (10.0 mmol) of 2-methyl-1,10-phenanthroline (1) in 50 mL dry ether. The solution was cooled to 0° C. and a 1.8 M solution of LDA in heptane/THF/etheylbenzene (6.2 mL, 11.0 mmol) was added via a syringe (15 min) followed by addition of tBuOK (2 mmol). The resulting brown coloured mixture was stirred for 30 min at the same temperature and a solution of di-tert-butylchlorophosphine (1.99 g, 11.0 mmol) in 10 mL dry ether was added dropwise (10 min). Continue the stirring for further 1 hr at -78° C. and the mixture was allowed slowly to warm up to 30° C. and continue the stirring for 12 hrs at the temperature. To this reaction mixture was added 20 mL of degassed water and the ether phase was separated under N2 atmosphere. The aqueous phase was extracted with ether (2×20 mL). The combined ether solutions were dried over anhydrous Na2SO4, filtered, and the solvent was removed under vacuum to get yellowish-white solid. This was crystallized from mixture of toluene:ether (1:2) at ca. 0° C. to yield 2.27 g (67%) of 2-((di-tert-butylphosphanyl)methyl)-1,10-phenanthroline [Phen-(tBu)PNN] (2) as a white solid.
 31P{1H}NMR (120 MHz, CDCl3): 38.13. 1H NMR (300 MHz, CDCl3): δ 1.19 (d, JPH=10.0 Hz, 18H, P(C(CH3)3)2), 3.15 (d, JPH=3.0 Hz, 2H, P-CH2), 7.43-7.50 (m, 1H), 7.59-7.64 (m, 1H), 7.73 (d, JHH=9.0 Hz, 2H), 8.06 (d, JHH=9.0 Hz, 1H), 8.25 (dd, JHH=3.0 Hz and JHH=9.0 Hz 1H), 9.21 (dd, JHH=3.0 Hz and JHH=9.0 Hz 1H). 13C{1H} NMR (75 MHz, CDCl3): δ 25.62 (s, P(C(C'H3)3), 25.70 (s, P(C(C″H3)3), 31.25 (d, JPC=21.0 Hz, PCH2), 31.56 (d, JPC=23.2 Hz, P(C(CH3)3)2), 122.59 (s), 123.53 (s), 125.37 (s), 126.33 (s), 126.33 (s), 128.76 (s), 135.79 (s), 136.00 (s), 145.80 (s), 146.09 (s), 150.16 (s), 159.46 (d, JPC=14.0 Hz). HRMS (FAB) Calculated for C21H27N2P [MH+]: 338.4348. Found: 238.4361.
 Example 2
 Synthesis of HCl(CO)Ru(Phen-(tBu)PNN) (3)
+<img> id-US20180021766A1-20180125-C00071.TIF </img>
 To an oven dried 25 mL pressure vessel equipped with magnetic stirring bar was added Phen-(tBu)PNN (2) (199 mg, 0.52 mmol), RuHCl(CO)(PPh3)3 (476 mg, 0.5 mmol), and 10 mL dry THF under argon atmosphere. The flask was sealed and heated at 65° C. (bath temperature) for 5 hr with constant stirring, then cooled to room temperature to lead to reddish-orange solid. Then the solvent was decanted and the solid thus obtained was washed with diethyl ether (3×3 mL), followed by dried under vacuum to give analytically pure complex 3 (212 mg, 88%).
 IR (KBr pellet, cm−1): 1995, 1900. 31P{1H}NMR (120 MHz, CD2Cl2): 108.21 (s). 1H NMR (300 MHz, CD2Cl2): δ −15.30 (d, JPH=24.0 Hz, Ru-H), 1.29 (d, JPH=15.0 Hz, 9H, P(C(CHa3)3), 1.58 (d, JPH=6.0 Hz, 9H, P(C(CHb3)3), AB system centered at 3.82 and 3.97 (ABq, JHH=18.0 Hz and JPH=12.0 Hz, 2H, PCHaHb), 7.78 (dd, 1H, JHH=9.0 Hz and JHH=3.0 Hz), 7.89 (d, JHH=9.0 Hz, 1H), 7.93-7.98 (m, 2H), 8.39 (dd→t, JHH=9.0 Hz, 1H), 9.43 (br m, 1H). 13C{1H}NMR (75 MHz, CD2Cl2): 28.50 (d, JPC=3.0 Hz, P(C(CaH3)3), 29.96 (d, JPC=3.0 Hz, P(C(CbH3)3), 36.49 (d, JPC=23.0 Hz, PCH2), 37.40 (d, JPC=15.0 Hz, P(Ca(CH3)3), 37.76 (d, JPC=16.5 Hz, P(Cb(CH3)3), 122.23 (d, J=8.0 Hz), 125.15 (d, J=2.3 Hz), 126.17 (s), 126.36 (s), 127.78 (s), 130.08 (s), 135.42 (s), 135.86 (s), 153.19 (d, J=1.0 Hz), 161.49 (d, J=5.0 Hz), 208.31 (d, JPC=14.8 Hz, Ru-CO). HRMS (FAB) Calculated for C22H28N2OPRu [M-Cl]−: 468.5228. Found: 468.5239.
 Example 3
 Synthesis of H(CO)Ru−(Phen-(tBu)PNN) (4)
+<img> id-US20180021766A1-20180125-C00072.TIF </img>
 5.0 mg. of HCl(CO)Ru(Phen-(tBu)PNN) (3) (0.01 mmol) were placed into a J. Young NMR tube, dissolved in ˜0.5 mL of C6H6 and 1 eq. of NaHMDS (2.5 mg) was added to generate dark yellowish-brown complex 4. The resulting complex 4 exhibits a broad singlet at 91.53 in 31P{1H}NMR.
 Example 4
 Synthesis of H(CO)Ru(η1BH4)(Phen-(tBu)PNN) (5a)
+<img> id-US20180021766A1-20180125-C00073.TIF </img>
 50 mg of HCl(CO)Ru(Phen-(tBu)PNN) (3) (0.1 mmol) and NaBH4 (19 mg, 0.5 mmol) were placed in a 15 mL Schlenk flask equipped with a Teflon-coated magnetic stirring bar. A 1:1 mixture of toluene and ethanol (2 mL) was added to the flask. It was then stirred at 60° C. for 15 min then at room temperature for 5 hr. Solvent was removed in vacuo and the resulted residue was dissolved in dry CH2Cl2 (5 mL) and the remaining insoluble materials were removed by filtration through a celite pad. The filtrate was concentrated to ca. 0.3 mL and 3 mL of hexane was added to cause precipitation of a orange-yellow solid, which was filtered, dried under vacuum to give 40 mg (81%) of RuH(CO)(η1BH4)Phen-(tBu)PNN (5a).
 31P{1H}NMR (200 MHz, CD2Cl2): 113.8 (s). 1H NMR (300 MHz, CD2Cl2): −12.60 (d, 2JPH=22.0 Hz, 1H, Ru-H), −2.28 to −1.86 (br d, 4 H, Ru-HBH3), 1.31 (d, JPH=14.0 Hz, 9H, P(C(CHa3)3), 1.56 (d, JPH=10.5 Hz, 9H, P(C(CHb3)3), 3.58-3.72 (m, 2H, PCHaHb), 7.68-7.71 (m, 1H), 7.85 (d, JHH=8.0 Hz, 1H), 7.90-7.97 (m, 2H), 8.42 (m, 1H), 9.46-9.49 (br m, 1H).
 Example 5
@@ -192,11 +207,12 @@ A 90 mL Fischer-Porter tube was charged under argon with catalyst (0.02 mmol), t
 TABLE 2
 </header>
 Catalytic hydrogenation of lactones to diols.
+<img> id-US20180021766A1-20180125-C00074.TIF </img>
 Entry & Catalyst & lactones & diols (yield %)
-1 & 3 &  & 
-2 & 5a &  & 
-3 & 5a &  & 
-4 & 5a &  & 
+1 & 3 & <img> id-US20180021766A1-20180125-C00075.TIF </img> & <img> id-US20180021766A1-20180125-C00076.TIF </img>
+2 & 5a & <img> id-US20180021766A1-20180125-C00077.TIF </img> & <img> id-US20180021766A1-20180125-C00078.TIF </img>
+3 & 5a & <img> id-US20180021766A1-20180125-C00079.TIF </img> & <img> id-US20180021766A1-20180125-C00080.TIF </img>
+4 & 5a & <img> id-US20180021766A1-20180125-C00081.TIF </img> & <img> id-US20180021766A1-20180125-C00082.TIF </img>
 </table>
 Example 7
 Dehydrogenation of Alcohols to Esters
@@ -206,12 +222,13 @@ Complex 3 or 5a (0.02 mmol) and primary alcohol (5 mmol) were added to a 15 mL S
 TABLE 3
 </header>
 Catalytic dehydrogenation of alcohols to esters and dihydrogen.
+<img> id-US20180021766A1-20180125-C00083.TIF </img>
 Entry & Catalysta & alcohols & esters (yield %)
-1 & 3 &  & 
-2 & 3 &  & 
-3 & 3 &  & 
-4 & 3 &  & 
-5 & 5a &  & 
+1 & 3 & <img> id-US20180021766A1-20180125-C00084.TIF </img> & <img> id-US20180021766A1-20180125-C00085.TIF </img>
+2 & 3 & <img> id-US20180021766A1-20180125-C00086.TIF </img> & <img> id-US20180021766A1-20180125-C00087.TIF </img>
+3 & 3 & <img> id-US20180021766A1-20180125-C00088.TIF </img> & <img> id-US20180021766A1-20180125-C00089.TIF </img>
+4 & 3 & <img> id-US20180021766A1-20180125-C00090.TIF </img> & <img> id-US20180021766A1-20180125-C00091.TIF </img>
+5 & 5a & <img> id-US20180021766A1-20180125-C00092.TIF </img> & <img> id-US20180021766A1-20180125-C00093.TIF </img>
 ain case of Cat. 3 one equiv of tBuOK (w.r.t Cat. 3) was used.
 </table>
 Example 8
@@ -222,10 +239,11 @@ Complex 3 (0.02 mmol), tBuOK (0.02 mmol), diol (2 mmol), and m-xylene (2 mL) wer
 TABLE 4
 </header>
 Catalytic dehydrogenation of diols to lactones and dihydrogen.
+<img> id-US20180021766A1-20180125-C00094.TIF </img>
 Entry & Catalyst & diols & lactones (yield %)
-1 & 3 &  & 
-2 & 3 &  & 
-3 & 3 &  & 
+1 & 3 & <img> id-US20180021766A1-20180125-C00095.TIF </img> & <img> id-US20180021766A1-20180125-C00096.TIF </img>
+2 & 3 & <img> id-US20180021766A1-20180125-C00097.TIF </img> & <img> id-US20180021766A1-20180125-C00098.TIF </img>
+3 & 3 & <img> id-US20180021766A1-20180125-C00099.TIF </img> & <img> id-US20180021766A1-20180125-C00100.TIF </img>
 </table>
 Example 9
 Dehydrogenation of Sec.Alcohols to Ketones and Dihydrogen
@@ -235,13 +253,14 @@ Complex 3 or 5a (0.02 mmol), tBuOK (in case of cat. 3; 0.02 mmol), sec.alcohols 
 TABLE 5
 </header>
 Catalytic dehydrogenation of sec. alcohols to ketones.
+<img> id-US20180021766A1-20180125-C00101.TIF </img>
 Entry & Catalyst & sec. alcohols & ketones (yield %)
-1 & 3 &  & 
-2 & 3 &  & 
-3 & 5a &  & 
-4 & 3 &  & 
-5 & 3 &  & 
-6 & 3 &  & 
+1 & 3 & <img> id-US20180021766A1-20180125-C00102.TIF </img> & <img> id-US20180021766A1-20180125-C00103.TIF </img>
+2 & 3 & <img> id-US20180021766A1-20180125-C00104.TIF </img> & <img> id-US20180021766A1-20180125-C00105.TIF </img>
+3 & 5a & <img> id-US20180021766A1-20180125-C00106.TIF </img> & <img> id-US20180021766A1-20180125-C00107.TIF </img>
+4 & 3 & <img> id-US20180021766A1-20180125-C00108.TIF </img> & <img> id-US20180021766A1-20180125-C00109.TIF </img>
+5 & 3 & <img> id-US20180021766A1-20180125-C00110.TIF </img> & <img> id-US20180021766A1-20180125-C00111.TIF </img>
+6 & 3 & <img> id-US20180021766A1-20180125-C00112.TIF </img> & <img> id-US20180021766A1-20180125-C00113.TIF </img>
 </table>
 Example 10
 Process for the Synthesis of Methanol from Carbon Dioxide Using Ruthenium (II) Based Pincer-Type Complexes Catalyst
@@ -249,6 +268,7 @@ The process for the synthesis of methanol from carbon dioxide by using single ca
 The solvent used is tetrahydrofuran, 1,4-dioxane, toluene, mesitylene, xylene etc.,
 The ruthenium (II) based pincer-type complexes catalyst is selected from HCl(CO)Ru(Phen(tBu)PNN), H(CO)Ru-(Phen-(tBu)PNN), HCl(CO)Ru(BPy-tPNN), [H(CO)Ru−(BPy-tPNN)], and HCl(CO)Ru(Py-tPNN)].
 The said secondary amine may be reused and is selected from:
+<img> id-US20180021766A1-20180125-C00114.TIF </img>
 Wherein;
 X is selected from the group consisting of NH, CH2 and O
 R1 and R2 are the same or different and each such substituent is independently selected from the group consisting of alkyl (linear, branched), cyclo (up to 7 membered, which may be further mono, di, tri or tetra substituted and selected from the group consisting of alkyl (linear and branced), aryl (further substituted), cycloalkyl, alkylaryl, alkylheterocyclyl, alkylheteroaryl, halogen, triflurometyl, nitro, alkoxy, dialkylamino, diarylamino, and -SR), cycloalkyl, aryl (which may be further mono, di, tri or tetra substituted), heterocyclyl, heteroaryl, alkylcycloalkyl, alkylaryl, alkylheterocyclyl, and alkylheteroaryl.
@@ -279,6 +299,7 @@ A 30 mL autoclave equipped with a magnetic stirring was charged under argon with
 Example 22
 A 30 mL autoclave equipped with a magnetic stirring was charged under argon with catalyst 7 (0.01 mmol), tBuOK (0.011 mmol), piperidine (5.0 mmol), and THF (5 mL). The autoclave was pressurized with CO2 (10 atm) followed by H2 (40 atm). The solution was heated at 120° C. (bath temperature) with stirring for 14 hrs. After cooling to 30° C., the excess gases were vented carefully (the obtained product is N-formyl piperidine). Fresh catalyst 7 (0.01 mmol) and tBuOK (0.011 mmol) were once again added and the autoclave was pressurized with H2 (45 atm). The solution was heated at 120° C. (bath temperature) with stirring for 20 hrs. After cooling to 30° C., the excess H2 was vented carefully and the products (methanol and piperidine) were analysed by GC.
 The pincer catalysts used for the hydrogenation of CO2 to MeOH are shown in FIG. 1.
+<img> id-US20180021766A1-20180125-C00115.TIF </img>
 The result of catalytic hydrogenation of CO2 to methanol is summarized in table 1:
 <table>
 <header>
@@ -288,18 +309,18 @@ Catalytic hydrogenation of CO2 to MeOH.
 lst stage & 2nd stage
  &  &  &  &  &  &  & Yield (%) of
 Entry & Catalyst & Amine & Formamide & Yield (%) & Formamide & Products & methanol
-1 & 3 + tBuOK &  &  & quantitative &  &  & 91
-2 & 5 + tBuOK &  &  & 93 &  &  & 84
-3 & 3 + tBuOK &  &  & quantitative &  &  & 93
-4 & 5 + tBuOK &  &  & 95 &  &  & 88
-5 & 6 &  &  & 96 &  &  & 88
-6 & 7 + tBuOK &  &  & 62 &  &  & 35
-7 & 4 &  &  & quantitative &  &  & 97
-8 & 4 (in 1,4- dioxane) &  &  & 96 &  &  & 89
-9 & 4 &  &  & 99 &  &  & 90
-10 & 4 &  &  & 94 &  &  & 81
-11 & 6 &  &  & 81 &  &  & 42
-12 & 7 + tBuOK &  &  & 50 &  &  & 28
+1 & 3 + tBuOK & <img> id-US20180021766A1-20180125-C00116.TIF </img> & <img> id-US20180021766A1-20180125-C00117.TIF </img> & quantitative & <img> id-US20180021766A1-20180125-C00118.TIF </img> & <img> id-US20180021766A1-20180125-C00119.TIF </img> & 91
+2 & 5 + tBuOK & <img> id-US20180021766A1-20180125-C00120.TIF </img> & <img> id-US20180021766A1-20180125-C00121.TIF </img> & 93 & <img> id-US20180021766A1-20180125-C00122.TIF </img> & <img> id-US20180021766A1-20180125-C00123.TIF </img> & 84
+3 & 3 + tBuOK & <img> id-US20180021766A1-20180125-C00124.TIF </img> & <img> id-US20180021766A1-20180125-C00125.TIF </img> & quantitative & <img> id-US20180021766A1-20180125-C00126.TIF </img> & <img> id-US20180021766A1-20180125-C00127.TIF </img> & 93
+4 & 5 + tBuOK & <img> id-US20180021766A1-20180125-C00128.TIF </img> & <img> id-US20180021766A1-20180125-C00129.TIF </img> & 95 & <img> id-US20180021766A1-20180125-C00130.TIF </img> & <img> id-US20180021766A1-20180125-C00131.TIF </img> & 88
+5 & 6 & <img> id-US20180021766A1-20180125-C00132.TIF </img> & <img> id-US20180021766A1-20180125-C00133.TIF </img> & 96 & <img> id-US20180021766A1-20180125-C00134.TIF </img> & <img> id-US20180021766A1-20180125-C00135.TIF </img> & 88
+6 & 7 + tBuOK & <img> id-US20180021766A1-20180125-C00136.TIF </img> & <img> id-US20180021766A1-20180125-C00137.TIF </img> & 62 & <img> id-US20180021766A1-20180125-C00138.TIF </img> & <img> id-US20180021766A1-20180125-C00139.TIF </img> & 35
+7 & 4 & <img> id-US20180021766A1-20180125-C00140.TIF </img> & <img> id-US20180021766A1-20180125-C00141.TIF </img> & quantitative & <img> id-US20180021766A1-20180125-C00142.TIF </img> & <img> id-US20180021766A1-20180125-C00143.TIF </img> & 97
+8 & 4 (in 1,4- dioxane) & <img> id-US20180021766A1-20180125-C00144.TIF </img> & <img> id-US20180021766A1-20180125-C00145.TIF </img> & 96 & <img> id-US20180021766A1-20180125-C00146.TIF </img> & <img> id-US20180021766A1-20180125-C00147.TIF </img> & 89
+9 & 4 & <img> id-US20180021766A1-20180125-C00148.TIF </img> & <img> id-US20180021766A1-20180125-C00149.TIF </img> & 99 & <img> id-US20180021766A1-20180125-C00150.TIF </img> & <img> id-US20180021766A1-20180125-C00151.TIF </img> & 90
+10 & 4 & <img> id-US20180021766A1-20180125-C00152.TIF </img> & <img> id-US20180021766A1-20180125-C00153.TIF </img> & 94 & <img> id-US20180021766A1-20180125-C00154.TIF </img> & <img> id-US20180021766A1-20180125-C00155.TIF </img> & 81
+11 & 6 & <img> id-US20180021766A1-20180125-C00156.TIF </img> & <img> id-US20180021766A1-20180125-C00157.TIF </img> & 81 & <img> id-US20180021766A1-20180125-C00158.TIF </img> & <img> id-US20180021766A1-20180125-C00159.TIF </img> & 42
+12 & 7 + tBuOK & <img> id-US20180021766A1-20180125-C00160.TIF </img> & <img> id-US20180021766A1-20180125-C00161.TIF </img> & 50 & <img> id-US20180021766A1-20180125-C00162.TIF </img> & <img> id-US20180021766A1-20180125-C00163.TIF </img> & 28
 </table>
 ADVANTAGES OF THE INVENTION
 1. Environmentally benign conditions2. Operationally simple synthetic process3. solvent-free reaction conditions4. Direct conversion of alcohols to esters with liberation of hydrogen gas5. Efficient hydrogenation of esters including lactones to the corresponding alcohols6. One-pot process catalyzed by a single-site molecularly defined Ru-catalyst7. Operationally simple synthetic process (low temperature and pressure)8. Amine acts as auto-catalyst and can be reused9. Improved yield

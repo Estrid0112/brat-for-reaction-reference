@@ -17,6 +17,7 @@ Accordingly, a purpose of the present disclosure is to provide a compound for us
 Another purpose of the present disclosure is to provide an OLED comprising the compound.
 Technical Solution
 In order to accomplish one purpose thereof, the present disclosure provides an organic luminescent compound represented by the following Chemical Formula A:
+<img> id-US20180009776A1-20180111-C00001.TIF </img>
 wherein,
 R1 to R5 may be the same or different and are each independently any one selected from among a hydrogen, a deuterium, a substituted or unsubstituted alkyl of 1 to 30 carbon atoms, a substituted or unsubstituted alkenyl of 2 to 30 carbon atoms, a substituted or unsubstituted alkynyl of 2 to 30 carbon atoms, a substituted or unsubstituted cycloalkyl of 3 to 30 carbon atoms, a substituted or unsubstituted cycloalkenyl of 5 to 30 carbon atoms, a substituted or unsubstituted alkoxyl of 1 to 30 carbon atoms, a substituted or unsubstituted aryloxy of 6 to 30 carbon atoms, a substituted or unsubstituted alkylthioxy of 1 to 30 carbon atoms, a substituted or unsubstituted arylthioxy of 6 to 30 carbon atoms, a substituted or unsubstituted alkylamine of 1 to 30 carbon atoms, a substituted or unsubstituted arylamine of 6 to 30 carbon atoms, a substituted or unsubstituted aryl of 6 to 50 carbon atoms, a substituted or unsubstituted heteroaryl of 2 to 50 carbon atoms bearing O, N or S as a heteroatom, a cyano, a nitro, a halogen, a substituted or unsubstituted silyl of 1 to 30 carbon atoms, a substituted or unsubstituted germanium of 1 to 30 carbon atoms, a substituted or unsubstituted boron of 1 to 30 carbon atoms, a substituted or unsubstituted aluminum of 1 to 30 carbon atoms, a carbonyl, a phosphoryl, an amino, a thiol, a hydroxyl, a selenium, a tellurium, an amide, an ether, and an ester, wherein each of unsubstituted carbon atoms of R1 to R5 is bound with a hydrogen atom or a deuterium atom,
 linker L is a single bond, or a substituted or unsubstituted arylene of 6 to 60 carbon atoms;
@@ -31,6 +32,7 @@ According to the present disclosure, the organic luminescent compound represente
 MODE FOR CARRYING OUT THE INVENTION
 Below, a detailed description is given of the present disclosure.
 The present disclosure addresses a novel aromatic organic luminescent compound represented by the following Chemical Formula A:
+<img> id-US20180009776A1-20180111-C00002.TIF </img>
 wherein,
 R1 to R5 may be the same or different and are each independently any one selected from among a hydrogen, a deuterium, a substituted or unsubstituted alkyl of 1 to 30 carbon atoms, a substituted or unsubstituted alkenyl of 2 to 30 carbon atoms, a substituted or unsubstituted alkynyl of 2 to 30 carbon atoms, a substituted or unsubstituted cycloalkyl of 3 to 30 carbon atoms, a substituted or unsubstituted cycloalkenyl of 5 to 30 carbon atoms, a substituted or unsubstituted alkoxyl of 1 to 30 carbon atoms, a substituted or unsubstituted aryloxy of 6 to 30 carbon atoms, a substituted or unsubstituted alkylthioxy of 1 to 30 carbon atoms, a substituted or unsubstituted arylthioxy of 6 to 30 carbon atoms, a substituted or unsubstituted alkylamine of 1 to 30 carbon atoms, a substituted or unsubstituted arylamine of 6 to 30 carbon atoms, a substituted or unsubstituted aryl of 6 to 50 carbon atoms, a substituted or unsubstituted heteroaryl of 2 to 50 carbon atoms bearing O, N, or S as a heteroatom, a cyano, a nitro, a halogen a substituted or unsubstituted silyl of 1 to 30 carbon atoms, a substituted or unsubstituted germanium of 1 to 30 carbon atoms, a substituted or unsubstituted boron of 1 to 30 carbon atoms, a substituted or unsubstituted aluminum of 1 to 30 carbon atoms, a carbonyl, a phosphoryl, an amino, a thiol, a hydroxyl, a selenium, a tellurium, an amide, an ether, and an ester, wherein each of unsubstituted carbon atoms of R1 to R5 is bound with a hydrogen atom or a deuterium atom,
 linker L is a single bond, or a substituted or unsubstituted arylene of 6 to 60 carbon atoms;
@@ -48,10 +50,13 @@ Examples of the substituent alkyl useful in the present disclosure include methy
 Examples of the substituent alkoxy useful in the present disclosure include methoxy, ethoxy, propoxy, isobutyloxy, sec-butyloxy, pentyloxy, iso-amyloxy, and hexyloxy. At least one hydrogen atom of the alkoxy may be substituted with the same substituent as in the aryl.
 Representative among examples of the substituent silyl useful in the present disclosure are trimethylsilyl, triethylsilyl, triphenylsilyl, trimethoxysilyl, dimethoxyphenylsilyl, diphenylmethylsilyl, silyl, diphenylvinylsilyl, methylcyclobutylsilyl, and dimethylfurylsilyl. One or more hydrogen atoms of the silyl may be substituted with the same substituent as in the aryl.
 In Chemical Formula A, linking occurs between the carbon atom at position 9 of the anthracene moiety and the carbon atom at position 1 or 2 of either phenyl ring of the substituted or unsubstituted dibenzofuran moiety, as shown in the following Diagram 1, through the linker L.
+<img> id-US20180009776A1-20180111-C00003.TIF </img>
 Given a light-emitting layer containing therein the compound represented by Chemical Formula A, an OLED can be driven at a low voltage.
 In addition, the linker L in Chemical Formula A may each be a single bond or any one selected from among the following Structural Formulas 1 and 2:
+<img> id-US20180009776A1-20180111-C00004.TIF </img>
 wherein each of the unsubstituted carbon atoms of the aromatic ring moiety is bound with a hydrogen atom or a deuterium atom.
 For instance, the linker L may be a single bond or may have a structure represented by the following L1 to L6:
+<img> id-US20180009776A1-20180111-C00005.TIF </img>
 wherein ‘-*’ denotes a bonding site to be linked to the anthracene moiety, and ‘-**’ denotes a bonding site to linked to X.
 In addition, at least one of the substituents R1 to R5 in Chemical Formula A may contain a deuterium.
 In one embodiment, R1 is a deuterium, and k is 5.
@@ -60,6 +65,7 @@ In another embodiment, R2 and R3 are both a deuterium, and l and m are each an i
 In another embodiment, R4 and/or R5 is a deuterium, and n is an integer of 2 or greater or o is an integer of 2 or greater.
 In another embodiment, R4 and R5 are both a deuterium, and n and o are each an integer of 2 or greater.
 Representative of the organic luminescent compounds of the present disclosure is any one selected from among, but not limited to, compounds represented by the following Chemical Formulas 1 to 138.
+<img> id-US20180009776A1-20180111-C00006.TIF </img><img> id-US20180009776A1-20180111-C00007.TIF </img><img> id-US20180009776A1-20180111-C00008.TIF </img><img> id-US20180009776A1-20180111-C00009.TIF </img><img> id-US20180009776A1-20180111-C00010.TIF </img><img> id-US20180009776A1-20180111-C00011.TIF </img><img> id-US20180009776A1-20180111-C00012.TIF </img><img> id-US20180009776A1-20180111-C00013.TIF </img><img> id-US20180009776A1-20180111-C00014.TIF </img><img> id-US20180009776A1-20180111-C00015.TIF </img><img> id-US20180009776A1-20180111-C00016.TIF </img><img> id-US20180009776A1-20180111-C00017.TIF </img><img> id-US20180009776A1-20180111-C00018.TIF </img><img> id-US20180009776A1-20180111-C00019.TIF </img><img> id-US20180009776A1-20180111-C00020.TIF </img><img> id-US20180009776A1-20180111-C00021.TIF </img><img> id-US20180009776A1-20180111-C00022.TIF </img><img> id-US20180009776A1-20180111-C00023.TIF </img><img> id-US20180009776A1-20180111-C00024.TIF </img><img> id-US20180009776A1-20180111-C00025.TIF </img><img> id-US20180009776A1-20180111-C00026.TIF </img><img> id-US20180009776A1-20180111-C00027.TIF </img><img> id-US20180009776A1-20180111-C00028.TIF </img><img> id-US20180009776A1-20180111-C00029.TIF </img><img> id-US20180009776A1-20180111-C00030.TIF </img><img> id-US20180009776A1-20180111-C00031.TIF </img><img> id-US20180009776A1-20180111-C00032.TIF </img><img> id-US20180009776A1-20180111-C00033.TIF </img><img> id-US20180009776A1-20180111-C00034.TIF </img><img> id-US20180009776A1-20180111-C00035.TIF </img><img> id-US20180009776A1-20180111-C00036.TIF </img><img> id-US20180009776A1-20180111-C00037.TIF </img><img> id-US20180009776A1-20180111-C00038.TIF </img><img> id-US20180009776A1-20180111-C00039.TIF </img><img> id-US20180009776A1-20180111-C00040.TIF </img><img> id-US20180009776A1-20180111-C00041.TIF </img><img> id-US20180009776A1-20180111-C00042.TIF </img><img> id-US20180009776A1-20180111-C00043.TIF </img><img> id-US20180009776A1-20180111-C00044.TIF </img><img> id-US20180009776A1-20180111-C00045.TIF </img><img> id-US20180009776A1-20180111-C00046.TIF </img><img> id-US20180009776A1-20180111-C00047.TIF </img><img> id-US20180009776A1-20180111-C00048.TIF </img><img> id-US20180009776A1-20180111-C00049.TIF </img><img> id-US20180009776A1-20180111-C00050.TIF </img><img> id-US20180009776A1-20180111-C00051.TIF </img><img> id-US20180009776A1-20180111-C00052.TIF </img><img> id-US20180009776A1-20180111-C00053.TIF </img><img> id-US20180009776A1-20180111-C00054.TIF </img><img> id-US20180009776A1-20180111-C00055.TIF </img><img> id-US20180009776A1-20180111-C00056.TIF </img><img> id-US20180009776A1-20180111-C00057.TIF </img><img> id-US20180009776A1-20180111-C00058.TIF </img><img> id-US20180009776A1-20180111-C00059.TIF </img><img> id-US20180009776A1-20180111-C00060.TIF </img><img> id-US20180009776A1-20180111-C00061.TIF </img>
 Also, the present disclosure provides an OLED, comprising a first electrode; a second electrode facing the first electrode; and an organic layer interposed therebetween, wherein the organic layer contains at least one of the organic luminescent compounds of the present disclosure.
 As used herein, the expression “(the organic layer) contains at least one organic compound” is construed to mean that (the organic layer) may contain one organic compound falling within the scope of the present disclosure or two or more different compounds falling within the scope of the present disclosure.
 According to some particular embodiments of the present disclosure, the organic layer containing the compound of the present disclosure may comprise at least one of a hole injecting layer, a hole transport layer, a functional layer capable of both hole injection and hole transport, an electron transport layer, and an electron injecting layer.
@@ -81,8 +87,10 @@ Then, an organic light-emitting layer 50 is deposited on the hole transport laye
 Using a vacuum deposition method or a spin-coating method, an electron transport layer 60 may be deposited on the hole barrier layer and may then be overlaid with an electron injection layer 70. A cathode metal is deposited on the electron injection layer 70 by thermal deposition in a vacuum to form a cathode 80, thus obtaining an organic EL diode. Here, the cathode may be made of lithium (Li), magnesium (Mg), aluminum (Al), aluminum-lithium (Al-Li), calcium (Ca), magnesium-indium (Mg-In), or magnesium-silver (Mg-Ag). For a top-emitting OLED, a transparent cathode made of ITO or IZO may be employed.
 In some embodiments of the present disclosure, the light-emitting layer particularly ranges in thickness from 50 to 2,000 Å. In addition, the light-emitting layer may be composed of a host and a dopant wherein the host may be the compound of the present disclosure.
 The dopant may be a compound represented by Chemical Formula 1 or 2. In this regard, the light-emitting layer may further contain various dopant materials.
+<img> id-US20180009776A1-20180111-C00062.TIF </img>
 wherein A may be any one selected from among a substituted or unsubstituted aryl of 5 to 50 carbon atoms, a substituted or unsubstituted heteroaryl of 3 to 50 carbon atoms bearing O, N, or S as a heteroatom, a substituted or unsubstituted arylene of 6 to 60 carbon atoms, and a substituted or unsubstituted heteroarylene of 3 to 50 carbon atoms bearing O, N, or S as a heteroatom.
 In greater detail, A may be a substituted or unsubstituted arylene of 6 to 60 carbon atoms, or a single bond, particularly any one selected from among anthracene, pyrene, phenanthrene, indenophenanthrene, chrysene, naphthacene, pycene, triphenylene, perylene, and pentacene, and more particularly a substituent represented by the following Chemical Formulas A1 to A10:
+<img> id-US20180009776A1-20180111-C00063.TIF </img><img> id-US20180009776A1-20180111-C00064.TIF </img>
 In Chemical Formula A3, Z1 and Z2 may be the same or different and are each independently selected from the group consisting of a hydrogen, a deuterium, a substituted or unsubstituted alkyl of 1 to 60 carbon atoms, a substituted or unsubstituted alkenyl of 2 to 60 carbon atoms, a substituted or unsubstituted alkynyl of 2 to 60 carbon atoms, a substituted or unsubstituted alkoxy of 1 to 60 carbon atoms, a substituted or unsubstituted alkylthio of 1 to 60 carbon atoms, a substituted or unsubstituted cycloalkyl of 3 to 60 carbon atoms, a substituted or unsubstituted aryl of 6 to 60 carbon atoms, a substituted or unsubstituted aryloxy of 5 to 60 carbon atoms, a substituted or unsubstituted arylthio of 5 to 60 carbon atoms, a substituted or unsubstituted heteroaryl of 2 to 60 carbon atoms, a substituted or unsubstituted (alkyl)amino of 1 to 60 carbon atoms, a di(substituted or unsubstituted alkyl)amino of 1 to 60 carbon atoms or a (substituted or unsubstituted aryl)amino of 6 to 60 carbon atoms, and a di(substituted or unsubstituted aryl)amino of 6 to 60 carbon atoms, with the proviso that Z1 and Z2 may each form a fused ring with an adjacent radical.
 In Chemical Formula 1,
 X1 and X2 may each be independently a substituted or unsubstituted arylene of 6 to 30 carbon atoms or a single bond, with the proviso that X1 and X2 may bond to each other, Y1 and Y2 may be the same or different and are each independently selected from the group consisting of a substituted or unsubstituted aryl of 6 to 24 carbon atoms, a substituted or unsubstituted heteroaryl of 2 to 24 carbon atoms, a substituted or unsubstituted alkyl of 1 to 24 carbon atoms, a substituted or unsubstituted heteroalkyl of 1 to 24 carbon atoms, a substituted or unsubstituted cycloalkyl of 3 to 24 carbon atoms, a substituted or unsubstituted alkoxy of 1 to 24 carbon atoms, a cyano, a halogen, a substituted or unsubstituted aryloxy of 6 to 24 carbon atoms, a substituted or unsubstituted alkylsilyl of 1 to 40 carbon atoms, a substituted or unsubstituted arylsilyl of 6 to 30 carbon atoms, a germanium, a phosphorus, a boron, a deuterium, and a hydrogen, with the proviso that Y1 and Y2 may each form with an aliphatic, aromatic, heteroaliphatic or heteroaromatic fused ring with an adjacent radical,
@@ -96,94 +104,118 @@ R1, R2, R3, R5, and R6 may each be independently selected from among a hydrogen 
 a is an integer of 1 to 4, with the proviso that when a is 2 or greater, the corresponding plural R3's may be the same or different and may be individually in a fused form, and
 n is an integer of 1 to 4.
 The amine radical of Chemical Formulas 1 and 2, which is linked to A, may be represented by any one selected from among, but not limited to, the following Substituents 1 to 52:
+<img> id-US20180009776A1-20180111-C00065.TIF </img><img> id-US20180009776A1-20180111-C00066.TIF </img><img> id-US20180009776A1-20180111-C00067.TIF </img><img> id-US20180009776A1-20180111-C00068.TIF </img><img> id-US20180009776A1-20180111-C00069.TIF </img><img> id-US20180009776A1-20180111-C00070.TIF </img><img> id-US20180009776A1-20180111-C00071.TIF </img><img> id-US20180009776A1-20180111-C00072.TIF </img><img> id-US20180009776A1-20180111-C00073.TIF </img><img> id-US20180009776A1-20180111-C00074.TIF </img><img> id-US20180009776A1-20180111-C00075.TIF </img><img> id-US20180009776A1-20180111-C00076.TIF </img><img> id-US20180009776A1-20180111-C00077.TIF </img>
 wherein R's may be the same or different and are each independently selected from among a hydrogen atom, a deuterium atom, a halogen atom, a hydroxyl, a cyano, a nitro, an amino, an amidino, a hydrazine, a hydrazaone, a carboxyl or a salt thereof, a sulfonic acid or a salt thereof, a phosphoric acid or a salt thereof, a substituted or unsubstituted alkyl of 1 to 60 carbon atoms, a substituted or unsubstituted alkenyl of 2 to 60 carbon atoms, a substituted or unsubstituted alkynyl of 2 to 60 carbon atoms, a substituted or unsubstituted alkoxy of 1 to 60 carbon atoms, a substituted or unsubstituted alkylthio of 1 to 60 carbon atoms, a substituted or unsubstituted cycloalkyl of 3 to 60 carbon atoms, a substituted or unsubstituted aryl of 6 to 60 carbon atoms, a substituted or unsubstituted aryloxy of 5 to 60 carbon atoms, a substituted or unsubstituted arylthio of 5 to 60 carbon atoms, a substituted or unsubstituted heteroaryl of 2 to 60 carbon atoms, a substituted or unsubstituted (alkyl)amino of 1 to 60 carbon atoms, a di(substituted or unsubstituted alkyl)amino of 1 to 60 carbon atoms or a (substituted or unsubstituted aryl)amino of 6 to 60 carbon atoms, a di(substituted or unsubstituted aryl)amino of 6 to 60 carbon atoms, a substituted or unsubstituted alkylsilyl of 1 to 40 carbon atoms, a substituted or unsubstituted arylsilyl of 6 to 30 carbon atoms, a germanium, a phosphorus, and a boron, and may each form a fused ring with an adjacent radical.
 A better understanding of the present disclosure may be obtained through the following examples which are set forth to illustrate, but are not to be construed as limiting the present disclosure.
 EXAMPLES
 Synthesis Example 1: Synthesis of Compound 1
 Synthesis Example 1-(1): Synthesis of Intermediate 1-a
 Intermediate 1-a was synthesized as illustrated in the following Reaction Scheme 1:
+<img> id-US20180009776A1-20180111-C00078.TIF </img>
 In a 500-mL round-bottom flask reactor, (10-phenyl(d5)-anthracene-9-boronic acid (38.6 g, 127 mmol), 1-bromo-4-iodobenzene (30.0 g, 106 mmol), tetrakis(triphenylphosphine)palladium (3.43 g, mmol), and potassium carbonate (27.35 g, 197.9 mmol) were placed, followed by toluene (150 mL), tetrahydrofuran (150 mL), and water (60 mL). The temperature of the reactor was increased to 90° C. and stirring was conducted overnight. After completion of the reaction, the reaction mixture was cooled to room temperature and extracted with ethyl acetate. The organic layer thus formed was separated and concentrated in a vacuum, followed by purification through column chromatography to afford <Intermediate 1-a>. (35.0 g, 79.7%)
 Synthesis Example 1-(2): Synthesis of Intermediate 1-b
 Intermediate 1-b was synthesized as illustrated in the following Reaction Scheme 2:
+<img> id-US20180009776A1-20180111-C00079.TIF </img>
 In a well-dried 2-L round-bottom flask reactor, 1,3-dimethoxy benzene (100.0 g, 0.724 mol) was dissolved in tetrahydrofuran (800 ml). The solution was chilled to −10° C. in a nitrogen atmosphere and then added slowly with drops of n-butyl lithium (543 ml, 0.868 mol). After 4 hrs of stirring at the same temperature, the temperature was decreased to −78° C. While this temperature was maintained, drops of trimethyl borate (112.8 g, 1.086 mol) were slowly added over 30 min, followed by stirring overnight at room temperature. After completion of the reaction, 2 N HCl was dropwise added for acidification. Extraction was made with water and ethyl acetate, and the organic layer thus formed was dried over magnesium sulfate. Subsequent to vacuum concentration, crystallization was conducted in heptane. The solid thus formed was filtered and washed with heptane to afford <Intermediate 1-b>. 92.0 g, 69%)
 Synthesis Example 1-(3): Synthesis of Intermediate 1-c
 Intermediate 1-c was synthesized as illustrated in the following Reaction Scheme 3:
+<img> id-US20180009776A1-20180111-C00080.TIF </img>
 In a 2-L round-bottom flask reactor, 1-bromo-2-fluorobenzene (80.0 g, 0.457 mol), <Intermediate 1-b> (91.5 g, 0.503 mol), tetrakis(triphenylphosphine)palladium (11.6 g, 0.01 mol), and potassium carbonate (126.4 g, 0.914 mol) were placed, followed by toluene (400 mL), tetrahydrofuran (400 mL), and water (160 mL). The temperature of the reactor was increased to 80° C. and stirring was conducted overnight. After completion of the reaction, the reaction mixture was cooled to room temperature and extracted with ethyl acetate. The organic layer thus formed was separated and concentrated in a vacuum, followed by purification through column chromatography to afford <Intermediate 1-c>. (85.0 g, 80%)
 Synthesis Example 1-(4): Synthesis of Intermediate 1-d
 Intermediate 1-d was synthesized as illustrated in the following Reaction Scheme 4:
+<img> id-US20180009776A1-20180111-C00081.TIF </img>
 In a 2-L round-bottom flask reactor, <Intermediate 1-c> (85.0 g, 0.366 mol) was added with acetic acid (510 ml) and hydrobromic acid (340 ml) and stirred overnight under reflux. After completion of the reaction, the reaction mixture was cooled to room temperature and dropwise added little by little to cold water (1000 ml). Extraction was made with water and ethyl acetate and the organic layer thus formed was isolated, washed with an aqueous sodium hydrogen carbonate solution (400 ml), and concentrated in a vacuum. Purification through column chromatography afforded <Intermediate 1-d>. (71 g, 95%)
 Synthesis Example 1-(5): Synthesis of Intermediate 1-e
 Intermediate 1-e was synthesized as illustrated in the following Reaction Scheme 5:
+<img> id-US20180009776A1-20180111-C00082.TIF </img>
 In a 2-L round-bottom flask reactor, <Intermediate 1-d> (71.0, 39 mmol), potassium carbonate (96.1 g, 0.695 mol), and 1-methyl-2-pyrrolidinone (1060 ml) were stirred together overnight at 120° C. After completion of the reaction, the reaction mixture was cooled to room temperature and dropwise added to cold water (1000 ml). Extraction with water and ethyl acetate formed an organic layer which was then isolated and concentrated in a vacuum. Purification through column chromatography afforded <Intermediate 1-e>. (60.0 g, 93.7%)
 Synthesis Example 1-(6): Synthesis of Intermediate 1-f
 Intermediate 1-f was synthesized as illustrated in the following Reaction Scheme 6:
+<img> id-US20180009776A1-20180111-C00083.TIF </img>
 In a 2-L round-bottom flask reactor, <Intermediate 1-e> (60.0 g, 0.326 mol) was dissolved in methylene chloride (600 ml) and slowed added with pyridine (38.7 g, 0.489 mol) before stirring at room temperature for 30 min. The solution was cooled to 0° C. and added with drops of trifluoromethane sulfonyl anhydride (137.8 g, 0.489 mol) at the same temperature. After 5 hrs of stirring at room temperature, the reaction solution was added with water (100 ml) and stirred again for 10 min. Extraction with water and ethyl acetate formed an organic layer which was then isolated and concentrated in a vacuum. Purification through column chromatography afforded <Intermediate 1-f>. (87 g, 84.5%)
 Synthesis Example 1-(7): Synthesis of Intermediate 1-g
 Intermediate 1-g was synthesized as illustrated in the following Reaction Scheme 7:
+<img> id-US20180009776A1-20180111-C00084.TIF </img>
 In a 2-L round-bottom flask reactor, <Intermediate 1-f> (87.0 g, 0.275 mol), bis(pinacolato)diboron (83.8 g, 0.330 mol), 1,1'-bis(diphenylphosphino)ferocene-palladium(II) dichloride (4.5 g, 0.006 mol), potassium acetate (54.0 g, 0.550 mol), and 1,4-dioxane (870 ml) were placed and stirred overnight under reflux. After completion of the reaction, the reaction mixture was filtered through a celite pad and the filtrate was concentrated in a vacuum. The concentrate was purified by column chromatography to afford <Intermediate 1-g>. (65.3 g, 80.7%)
 Synthesis Example 1-(8): Synthesis of Compound 1
 Compound 1 was synthesized as illustrated in the following Reaction Scheme 8:
+<img> id-US20180009776A1-20180111-C00085.TIF </img>
 In a 250-mL round-bottom flask reactor, <Intermediate 1-a> (5.5 g, 13 mmol), <Intermediate 1-g> (4.7 g, 16 mmol), tetrakis(triphenylphosphine)palladium (0.46 g, 3 mmol), and potassium carbonate (3.67 g, 26.5 mmol) were placed, followed by toluene (30 mL), 1,4-dioxane (30 mL) and water (11 mL). The temperature of the reactor was elevated to 90° C. before stirring overnight. After completion of the reaction, the reaction mixture was cooled to room temperature and extracted with ethyl acetate. The organic layer thus formed was isolated and concentrated in a vacuum, followed by purification through column chromatography. Recrystallization in toluene and acetone afforded <Compound 1>. (3.2 g, 48%)
 MS: m/z 502.2 [M+]
 Synthesis Example 2: Synthesis of Compound 13
 Synthesis Example 2-(1): Synthesis of Intermediate 2-a
 Intermediate 2-a was synthesized as illustrated in the following Reaction Scheme 9:
+<img> id-US20180009776A1-20180111-C00086.TIF </img>
 In a 2-L round-bottom flask reactor, a mixture of 2-bromodibenzofuran (70.0 g, 0.283 mol), bis(pinacolato)diboron (86.3 g, 0.340 mol), 1,1'-bis(diphenylphosphino)ferocene-palladium(II) dichloride (4.6 g, 0.006 mol), potassium acetate (56.6 g, 0.567 mol), and 1,4-dioxane (700 ml) was stirred overnight under reflux. After completion of the reaction, the reaction mixture was filtered through a celite pade and the filtrate was concentrated in a vacuum. The concentrate was purified using column chromatography to afford Intermediate 2-a. (66.4 g, 79%)
 Synthesis Example 2-(2): Synthesis of Compound 13
 Compound 13 was synthesized as illustrated in the following Reaction Scheme 10:
+<img> id-US20180009776A1-20180111-C00087.TIF </img>
 The same procedure was carried out as in Synthesis Example 1-(8), with the exception of using Intermediate 2-a instead of Intermediate 1-g, to afford Compound 13. (3.0 g, 66.1%).
 MS: m/z 502.2 [M+]
 Synthesis Example 3: Synthesis of Compound 22
 Synthesis Example 3-(1): Synthesis of Intermediate 3-a
 Intermediate 3-a was synthesized as illustrated in the following Reaction Scheme 11:
+<img> id-US20180009776A1-20180111-C00088.TIF </img>
 The same procedure was carried out as in Synthesis Example 1-(1), with the exception of using 1-bromo-3-iodobenzene instead of 1-bromo-4-iodobenzene, to afford Intermediate 3-a. (32 g, 72.8%)
 Synthesis Example 3-(2): Synthesis of Compound 22
 Compound 22 was synthesized as illustrated in the following Reaction Scheme 12:
+<img> id-US20180009776A1-20180111-C00089.TIF </img>
 The same procedure was carried out as in Synthesis Example 1-(8), with the exception of using Intermediate 3-a instead of Intermediate 1-a, to afford Compound 22. (3.5 g, 57.8%)
 MS: m/z 502.2 [M+]
 Synthesis Example 4: Synthesis of Compound 31
 Synthesis Example 4-(1): Synthesis of Compound 31
 Compound 31 was synthesized as illustrated in the following Reaction Scheme 13:
+<img> id-US20180009776A1-20180111-C00090.TIF </img>
 The same procedure was carried out as in Synthesis Example 2-(2), with the exception of using Intermediate 3-a instead of Intermediate 1-a, to afford Compound 31. (2.7 g, 44.6%)
 MS: m/z 502.2 [M+]
 Synthesis Example 5: Synthesis of Compound 43
 Synthesis Example 5-(1): Synthesis of Intermediate 5-a
 Intermediate 5-a was synthesized as illustrated in the following Reaction Scheme 14:
+<img> id-US20180009776A1-20180111-C00091.TIF </img>
 The same procedure was carried out as in Synthesis Example 1-(1), with the exception of using 1,4-dibromonaphthalene instead of 1-bromo-4-iodobenzene, to afford Intermediate 5-a. (29 g, 59.5%)
 Synthesis Example 5-(2): Synthesis of Compound 43
 Compound 43 was synthesized as illustrated in the following Reaction Scheme 15:
+<img> id-US20180009776A1-20180111-C00092.TIF </img>
 The same procedure was carried out as in Synthesis Example 1-(8), with the exception of using Intermediate 5-a instead of Intermediate 1-a, to afford Compound 43. (4.2 g, 69.4%)
 MS: m/z 552.2 [M+]
 Synthesis Example 6: Synthesis of Compound 52
 Synthesis Example 6-(1): Synthesis of Compound 52
 Compound 52 was synthesized as illustrated in the following Reaction Scheme 16:
+<img> id-US20180009776A1-20180111-C00093.TIF </img>
 The same procedure was carried out as in Synthesis Example 2-(2), with the exception of using Intermediate 5-a instead of Intermediate 1-a, to afford Compound 52. (4.0 g, 67.4%)
 MS: m/z 552.2 [M+]
 Synthesis Example 7: Synthesis of Compound 61
 Synthesis Example 7-(1): Synthesis of Intermediate 7-a
 Intermediate 7-a was synthesized as illustrated in the following Reaction Scheme 17:
+<img> id-US20180009776A1-20180111-C00094.TIF </img>
 The same procedure was carried out as in Synthesis Example 1-(6), with the exception of using 1,4-dihydroxynaphthalene instead of Intermediate 1-e, to afford Intermediate 7-a. (244 g, 95%)
 Synthesis Example 7-(2): Synthesis of Intermediate 7-b
 Intermediate 7-b was synthesized as illustrated in the following Reaction Scheme 18:
+<img> id-US20180009776A1-20180111-C00095.TIF </img>
 In a 2-L round-bottom flask reactor, Intermediate 7-a (110.0 g, 0.259 mol), 10-phenyl(d5)-anthracene-9-boronic acid (78.6 g, 0.259 mol), tetrakis(triphenylphosphine)palladium (6.0 g, 5 mmol), and potassium carbonate (71.7 g, 0.519 mol) were placed, followed by toluene (770 mL), ethanol (330 mL) and water (220 mL). The mixture was heated to 60° C. and stirred for 1 hr. After completion of the reaction, the reaction mixture was cooled to room temperature and the precipitates were filtered off. The filtrate was extracted with water and ethyl acetate and the organic layer was separated and concentrated in a vacuum. The concentrate was dissolved in toluene and recrystallized in methanol to afford Intermediate 7-b. (100.0 g, 72.3%)
 Synthesis Example 7-(3): Synthesis of Compound 61
 Compound 61 was synthesized as illustrated in the following Reaction Scheme 19:
+<img> id-US20180009776A1-20180111-C00096.TIF </img>
 The same procedure was carried out as in Synthesis Example 1-(8), with the exception of using Intermediate 7-b instead of Intermediate 1-a, to afford Compound 61. (2.8 g, 54%)
 MS: m/z 552.2 [M+]
 Synthesis Example 8: Synthesis of Compound 70
 Synthesis Example 8-(1): Synthesis of Compound 70
 Compound 70 was synthesized as illustrated in the following Reaction Scheme 20:
+<img> id-US20180009776A1-20180111-C00097.TIF </img>
 The same procedure was carried out as in Synthesis Example 2-(2), with the exception of using Intermediate 7-b instead of Intermediate 1-a, to afford Compound 70. (2.4 g, 46%).
 MS: m/z 552.2 [M+]
 Synthesis Example 9: Synthesis of Compound 118
 Synthesis Example 9-(1): Synthesis of Compound 118
 Compound 118 was synthesized as illustrated in the following Reaction Scheme 21:
+<img> id-US20180009776A1-20180111-C00098.TIF </img>
 The same procedure was carried out as in Synthesis Examples 7-(2) and 7-(3), with the exception of using 10-phenyl(H5)-anthracene-9-boronic acid and Intermediate 9-a instead of 10-phenyl(d5)-anthracene-9-boronic acid and Intermediate 7-b, respectively, to afford Compound 118. (3.5 g, 58%)
 MS: m/z 547.2 [M+]
 Examples 1-7: Fabrication of OLEDs
 An ITO glass substrate was patterned to have a translucent area of 2 mm×2 mm and cleansed. The ITO glass was mounted in a vacuum chamber that was then set to have a base pressure of 1×10−7 torr. On the ITO glass substrate, films were formed of HAT-CN (50 Å) and α-NPD (600 Å) in that order. A light-emitting layer (200 Å) was formed of a mixture including each of the compounds shown in Table 1 and BD1 (5 wt %). Then, [Chemical Formula E-1] and [Chemical Formula E-2] were deposited at a ratio of 1:1 to form an electron transport layer 300 Å thick, on which an electron injection layer of [Chemical Formula E-1] (10 Å thick) was formed and then covered with an Al layer (1000 Å) to fabricate an organic light-emitting diode. The organic light-emitting diodes thus obtained were measured at 0.4 mA for luminescence properties.
+<img> id-US20180009776A1-20180111-C00099.TIF </img><img> id-US20180009776A1-20180111-C00100.TIF </img>
 Comparative Examples 1-7
 Organic light-emitting diodes were fabricated in the same manner as in Examples 1 to 7, with the exception that [BH1] to [BH7] were used, instead of the compounds used in Examples 1 to 7. The structures of [BH1] to [BH7] are as follows:
+<img> id-US20180009776A1-20180111-C00101.TIF </img><img> id-US20180009776A1-20180111-C00102.TIF </img><img> id-US20180009776A1-20180111-C00103.TIF </img>
 The OLEDs fabricated in Examples 1 to 7 and Comparative Examples 1 to 7 were measured for driving voltage, and the results are summarized in Table 1, below. For voltage, measurement was made at a current density of 10 mA/cm2.
 <table>
 <header>

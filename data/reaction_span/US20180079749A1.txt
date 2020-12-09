@@ -4,18 +4,22 @@ BACKGROUND OF THE INVENTION
 Mammalian target of rapamycin (mTOR) is an important signaling transduction molecule that regulates cell growth and proliferation, and is also a protein kinase. It plays an important role mainly by activating ribosomal 40s subunit S6K protein kinase and inhibiting eukaryotic initiation factor 4E (eIF-4E) binding protein 1. The pathway integrates signals from nutrients, energy, and growth factors to regulate a large number of vital process. The abnormal activation of mTOR signaling pathway relates to the occurrence, development and metastasis of tumor.
 Rapamycin and its derivatives are mTOR signaling specific inhibitors. At present, the first generation mTOR allosteric inhibitor such as Rapamycin Temsirolimus/Torisel, and Everolimus/Afinitor has been used for the treatment of immune, cardiovascular, malignant tumor and other critical diseases, The mTOR related clinical trials have accumulated to more than 1600 items (clinicaltrials.gov), reflecting a high attention on mTOR pathway in the medicine circles and the drug development circles. However, recent studies have found that human mTOR has at least two functional protein complexes, mTORC1 and mTORC2, which mediate both related and independent physiological and pathological mechanisms. Studies have shown that rapamycin, as an allosteric inhibitor, do not directly target mTORC2, and do not completely block mTORC1 either, therefore, the full therapeutic potential of rapamycin as mTOR targeting drugs cannot be realized.
 Substituted pyridine and pyrimidine compounds (Compound A and Compound B) shown in formula A and formula B, as a ATP-competitive selective inhibitor of mTOR shows very good antitumor activity in vivo, good pharmacokinetic properties and good safety, the results of pharmacodynamic study are shown in Chinese patent (201310068888.8), PCT international patent application (PCT/CN2014/072678), and Bioorganic & Medicinal Chemistry Letters 23 (2013) 1212-1216.
+<img> id-US20180079749A1-20180322-C00002.TIF </img>
 However, the methods for preparation the A compound and B compound described in the prior art have many problems, such as low yield, various impurities and unsuitable for industrial production. In summary, a synthetic process of low cost, high purity and suitable for industrial production of substituted pyridine and pyrimidine compound is urgently needed in this field.
 SUMMARY OF THE INVENTION
 The objective of the present invention is to provide a synthetic process of low cost, high purity and suitable for industrial production of substituted pyridine and pyrimidine compound.
 In the first aspect of the invention, a method for preparing compound of formula III is provided.
+<img> id-US20180079749A1-20180322-C00003.TIF </img>
 (7) reacting a compound of formula II' with methylamine or the salt thereof to provide a compound of formula III;
 wherein R1, R2, R3 and R4 are each independently selected from the group consisting of substituted or unsubstituted C1-C4 alkyl, substituted or unsubstituted C1-C4 ester group;
 or R1, R2 and the adjacent -N- together form a substituted or unsubstituted 3-10 membered heterocycle, and the heterocycle may contain 1-3 heteroatoms selected from the group consisting of N, O or S; the 3-10 membered heterocycle is monocycle, bicycle, spirocycle or bridged ring;
 or R3, R4 and the adjacent -N- together constitute a substituted or unsubstituted 3-10 membered heterocycle, and the heterocycle may contain 1-3 heteroatoms selected from the group consisting of N, O or S; the 3-10 membered heterocycle is monocycle, bicycle, spirocycle or bridged ring.
 R5 is selected from the group consisting of C1-C4 alkoxy (preferably methoxyl or ethoxy), chlorine atom, bromine atom, hydroxyl, or active ester group
+<img> id-US20180079749A1-20180322-C00004.TIF </img>
 The substitution is that one or more hydrogen atoms on a group are replaced by substituents selected from the group consisting of halogens, C1-C4 alkyl.
 The methylamine or the salt thereof is selected from the group consisting of methylamine methanol solution, methylamine ethanol solution, methylamine aqueous solution, methylamine tetrahydrofuran solution, methylamine hydrochloride, or methylamine sulfate, etc.
 In another preferred embodiment, in the step (7), when R5 is chlorine atom, bromine atom or active ester group
+<img> id-US20180079749A1-20180322-C00005.TIF </img>
 the said reaction is carried out in the presence of a base; preferably, the base is selected from the group consisting of diisopropylethylamine, triethylamine, pyridine; preferably triethylamine or diisopropylethylamine.
 In another preferred embodiment, in the step (7), when R5 is hydroxy, the reaction is carried out in the presence of a base; preferably, the base is selected from the group consisting of diisopropylethylamine, triethylamine, 4-dimethylaminopyridine, preferably diisopropylethylamine.
 In another preferred embodiment, in the step (7), when R5 is hydroxy, the reaction is carried out in the presence of a condensation reagent and/or an activator; more preferably, the condensation reagent is selected from the group consisting of EDCI, DIC, DCC, PyBOP or HATU, preferably EDCI; and/or the activator is selected from the group consisting of HOBT, DMAP, 4-PPY, HOAT or NHPI, preferably HOBT.
@@ -28,6 +32,7 @@ In another preferred embodiment, in the step (7), when R5 is C1-C4 alkoxy, the r
 In another preferred embodiment, in the step (7), when R5 is C1-C4 alkoxy group, the reaction can also be carried out in a solvent selected from the group consisting of methylamine methanol solution, methylamine ethanol solution, methylamine aqueous solution, or the combinations thereof.
 In another preferred embodiment, in the step (7), when R5 is C1-C4 alkoxy, the mass ratio of the compound of formula II' to methylamine is 1/10˜1/500.
 In another preferred example, the method also optionally comprises the step:
+<img> id-US20180079749A1-20180322-C00006.TIF </img>
 reacting the compound of formula II to provide the compound of formula II':
 wherein, R is selected from the group consisting of C1-C4 alkyl, preferably methyl or ethyl; and the other groups are defined as above;
 and RO- and R5- are different groups.
@@ -39,8 +44,10 @@ In another preferred case, when R5 is a chlorine atom or a bromine atom, the rea
 In another preferred embodiment, the acylation reagent is selected from the group consisting of oxalyl chloride, thionyl chloride, phosphorus oxychloride, phosphorus trichloride, phosphorus pentachloride, phosphorus tribromide, phosphorus pentabromide, pivaloyl chloride, oxalyl bromide, or combinations thereof; preferably oxalyl chloride.
 In another preferred embodiment, the acylation reaction can be carried out with or without the presence of a reaction solvent, the reaction solvent has no special restriction, as long as it does not interfere with the reaction, and, for example, is selected from one or more of dichloromethane, dimethyl sulfoxide, tetrahydrofuran, benzene, toluene, chloroform, xylene, N, N-methyl formamide, N, N-dimethyl acetamide.
 In another preferred case, when R5 is the active ester group
+<img> id-US20180079749A1-20180322-C00007.TIF </img>
 the reaction is carrying out hydrolysis reaction and then forming active ester with the condensation reagent; preferably, the active ester is prepared in the presence of a condensation reagent and/or an activator; more preferably, the condensation agent is selected from the group consisting of EDCI, DIC, DCC, PyBOP or HATU, preferably EDCI; and/or the activator is selected from the group consisting of HOBT, DMAP, 4-PPY, HOAT or NHPI, preferably HOBT.
 In another preferred embodiment, the compound of formula II is prepared by the following step (6):
+<img> id-US20180079749A1-20180322-C00008.TIF </img>
 (6) reacting a compound of formula I with a compound of formula IIa or the salt thereof in the inert solvent to provide the compound of formula II.
 wherein, X is selected from Cl or Br;
 R1, R2, R3, and R4 are each independently selected from the group consisting of substituted or unsubstituted C1-C4 alkyl, substituted or unsubstituted C1-C4 ester group;
@@ -55,6 +62,7 @@ In another preferred embodiment, in the step (6), the molar ratio of the compoun
 In another preferred embodiment, in the step (6), the compound of formula IIa is selected from the group consisting of 3-(S)-3-methyl morpholine.
 In another preferred embodiment, the salt of the compound of formula IIa is hydrochloride.
 In another preferred embodiment, in the method, the compound of formula I is prepared by the step (5):
+<img> id-US20180079749A1-20180322-C00009.TIF </img>
 (5) reacting a compound of formula 4 with a compound of formula Ia or the salt thereof in the inert solvent to provide the compound of formula I.
 wherein, X is selected from Cl or Br;
 R1, R2 are each independently selected from the group consisting of substituted or unsubstituted C1-C4 alkyl, substituted or unsubstituted C1-C4 ester group; or R1, R2 and adjacent -N- together form a substituted or unsubstituted 3-10 membered heterocycle, and the heterocycle may contain 1-3 heteroatoms selected from the group consisting of N, O or S;
@@ -67,6 +75,7 @@ In another preferred embodiment, in the step (5), the reaction temperature is 0.
 In another preferred embodiment, in the step (5), the solvent in the reaction is selected from the groups consisting of tetrahydrofuran, dichloromethane, ethyl acetate, acetone, or the combinations thereof.
 In another preferred embodiment, in the step (5), the molar ratio of the compound of formula 4 to the compound of formula Ia is 1/0.8˜1/2.
 In another preferred embodiment, the compound of formula 4 is prepared by the following step (4):
+<img> id-US20180079749A1-20180322-C00010.TIF </img>
 (4) reacting a compound of formula 3 a halogenated reagent to provide the compound of formula 4.
 In the above formula, the R is defined as above; X is selected from Cl or Br.
 The halogenated reagent is selected from the group consisting of phosphorus oxychloride, thionyl chloride, phosphorus trichloride, phosphorus pentachloride, phosphorus oxybromide, phosphorus tribromide, phosphorus pentabromide or combinations thereof; preferably phosphorus oxychloride.
@@ -75,6 +84,7 @@ In another preferred embodiment, in the step (4), the reaction can be carried ou
 In another preferred embodiment, in the step (4), the reaction can be carried out in the presence of a base catalyst selected from the group consisting of N-ethyldiisopropylamine (DIPEA), triethylamine (Et3N), N,N-Dimethylaniline, N,N-Diethylaniline, or the combinations thereof; preferably DIPEA.
 In another preferred embodiment, in the step (4), the weight ratio of compound of the formula 3 to the halogenated reagent is 1:2-1:10.
 In another preferred embodiment, in the method, the compound of formula 3 is prepared by the step (3):
+<img> id-US20180079749A1-20180322-C00011.TIF </img>
 (3) reacting a compound of formula 2 with 6-aminouracil to provide the compound of formula 3.
 In the above formula, the R is defined as above;
 In another preferred embodiment, in the step (3), the reaction temperature is 50-200° C.
@@ -82,6 +92,7 @@ In another preferred embodiment, in the step (3), the reaction time is 2-48 h.
 In another preferred embodiment, in the step (3), the reaction is carried out in a solvent selected from the group consisting of acetic acid, water, or the combinations thereof, preferably an acetic acid/water mixture solvent with acetic acid/water=1/1˜2/1.
 In another preferred embodiment, in the step (3), the molar ratio of the compound of formula 2 to 6-aminouracil is 1/1˜1/1.5.
 In another preferred embodiment, in the method, the compound of formula 2 is prepared by the step (2):
+<img> id-US20180079749A1-20180322-C00012.TIF </img>
 (2) reacting a compound of formula 1 with DMF-DMA in an inert solvent to provide the compound of formula 2.
 In the above formula, the R is defined as above;
 In another preferred embodiment, in the step (2), the reaction temperature is 50-150° C.
@@ -89,6 +100,7 @@ In another preferred embodiment, in the step (2), the reaction time is 2-12 h.
 In another preferred embodiment, in the step (2), the reaction solvent is selected from the group consisting of DMF-DMA, DMF, toluene, xylene, or the combinations thereof; preferably DMF-DMA.
 In another preferred embodiment, in the step (2), the weight ratio of the compound of formula 1 to DMF-DMA is 1:1˜1:5.
 In another preferred embodiment, the compound of formula 1 is prepared by the following method:
+<img> id-US20180079749A1-20180322-C00013.TIF </img>
 (1) reacting 3-acetylbenzoic acid with R-OH to provide the compound of formula 1.
 In the above formula, the definition of R is defined as above;
 In another preferred embodiment, in the step (1), the reaction was carried out in the presence of a catalyst; preferably, the catalyst is selected from the group consisting of concentrated sulfuric acid, thionyl chloride, or the combinations thereof; preferably concentrated sulfuric acid.
@@ -98,11 +110,15 @@ In another preferred embodiment, in the step (1), the reaction is carried out in
 In another preferred embodiment, in the step (1), the weight ratio of the compound of formula 1 to R-OH is 1/20˜1/200.
 In another preferred embodiment, the R-OH is methanol or ethanol.
 In the second aspect of the invention, a method for preparing a compound of formula A is provided:
+<img> id-US20180079749A1-20180322-C00014.TIF </img>
 comprising the step:
+<img> id-US20180079749A1-20180322-C00015.TIF </img>
 (7a) reacting a compound of formula 6 with methylamine to provide the compound of formula A;
 wherein, R is defined as above.
 In the third aspect of the invention, a method for preparing compound of formula 6 is provided. The method comprises the steps:
+<img> id-US20180079749A1-20180322-C00016.TIF </img>
 (5a) reacting a compound of formula 4 with 3-oxa-8-azabicyclo[3.2.1]octane hydrochloride in an inert solvent to provide a compound of formula 5;
+<img> id-US20180079749A1-20180322-C00017.TIF </img>
 (6a) reacting the compound of formula 5 with 3-(S)-3-methylmorpholine in an inert solvent to provide the compound of formula 6;
 In another preferred embodiment, in the step (5a), the reaction is carried out in the presence of a organic base catalyst; preferably, the organic base catalyst is selected from the group consisting of diisopropylethylamine, N,N-dimethylaniline, or the combinations thereof, preferably diisopropylethylamine.
 In another preferred embodiment, in the step (5a), the reaction temperature is 0-80° C., preferably 10-50° C.
@@ -115,13 +131,16 @@ In another preferred embodiment, in the step (6a), the reaction temperature is 1
 In another preferred embodiment, in the step (6a), the solvent in the reaction is selected from the groups consisting of NMP, acetonitrile, toluene, 1,4-dioxane, DMF, xylene, or the combinations thereof.
 In another preferred embodiment, in the step (6a), the molar ratio of the compound of formula I to 3-(S)-3-methylmorpholine is 1/1˜1/1.5.
 The fourth aspect of the invention, a method for preparing a compound of formula B is provided.
+<img> id-US20180079749A1-20180322-C00018.TIF </img>
 The method comprises the step:
+<img> id-US20180079749A1-20180322-C00019.TIF </img>
 (7b) reacting a compound of formula 8 with methylamine to provide the compound of formula B;
 wherein, R is defined as above.
 DETAILED DESCRIPTION
 Upon extensive and intensive studies, the inventors have finally determined to preparing the intermediate formula 4 from starting material 3-acetylbenzoic acid, thus obtaining a novel process of synthesizing a substituted pyridine and pyrimidine compound by comparing the three synthetic routes. The synthetic method has advantages such as high yield, pure product and suitable for industrial production, therefore, it is very suitable for the production of substituted pyridine and pyrimidine compound such as those disclosed in Chinese Patent No. 201310068888.8. Based on the above findings, the inventors have completed the invention.
 Terms
 As used herein, the term “a compound of formula 4” and “intermediate(4)” can be used interchangeably to refer the compound described as following structure in the invention:
+<img> id-US20180079749A1-20180322-C00020.TIF </img>
 wherein, R is selected from the group consisting of C1-C4 alkyl, preferably methyl or ethyl.
 The term “C1-C4 alkyl” refers to a linear or branched chain alkyl with 1 to 4 carbon atoms, typical examples include methyl, ethyl, isopropyl, n-butyl, iso-butyl, sec-butyl, tert-butyl, etc.
 The term “C1-C4 alkoxy” refers to a linear or branched chain alkoxy with 1 to 4 carbon atoms, typical examples include methoxy, ethoxy, propoxy, isopropoxy and butoxy, etc.
@@ -131,17 +150,23 @@ In the invention, the term “substitution” refers to one or more substituents
 The synthesis of Compound A and Compound B is not suitable for industrial production in the published literature such as Chinese Patent (201310068888.8), Bioorganic & Medicinal Chemistry Letters 23 (2013) 1212-1216. The invention discloses a simple synthetic method for the synthesis of such compounds.
 By comparing the structures of Compounds A and B, it is found that both compounds contain a common methylbenzamide structural fragment which can be introduced from the starting material or from introducing potential groups to convert to amides, thereby providing three routes, of which the specific routes are as follows:
 Synthesis route 1, the formamide group is introduced from the starting material
+<img> id-US20180079749A1-20180322-C00021.TIF </img><img> id-US20180079749A1-20180322-C00022.TIF </img>
 Synthesis route 2, converting cyano into amide:
+<img> id-US20180079749A1-20180322-C00023.TIF </img><img> id-US20180079749A1-20180322-C00024.TIF </img>
 Synthesis route 3, converting carboxyl into amide:
+<img> id-US20180079749A1-20180322-C00025.TIF </img><img> id-US20180079749A1-20180322-C00026.TIF </img>
 By comparing the reaction conditions, by-products, product properties, yield and other factors, synthetic routes 3 is chosen finally.
 Preparation of Intermediate 4 Compound (Intermediate (4))
 The common intermediate of Compound A and Compound B is intermediate (4):
+<img> id-US20180079749A1-20180322-C00027.TIF </img>
 wherein R is selected from the group consisting of C1-C4 alkyl, preferably methyl or ethyl.
 Preferably, the method for preparing the intermediate compound of formula 4 comprises the steps:
 The starting material 3-acetylbenzoic acid is mixed with methanol or ethanol, sulfuric acid or thionyl chloride is added to the resulting solution, and the mixture was heated to reflux to form intermediate 1; and the intermediate 1 is heated to react with DMF-DMA to form intermediate 2, of which the reaction solvent can be DMF-DMA itself, DMF, toluene, xylene; and the intermediate 2 is heated to react with 6-aminouracil to form intermediate 3, of which the reaction solvent is acetic acid and water mixture solvent; the intermediate 3 and phosphorus oxychloride are heated to reflux to form intermediate 4, the organic base used to promote chlorination reaction is one of diisopropylethylamine (DIPEA), N, N-dimethylaniline.
 The Synthesis Step of Compound A
+<img> id-US20180079749A1-20180322-C00028.TIF </img><img> id-US20180079749A1-20180322-C00029.TIF </img>
 The method for preparing Compound A as provided herein starts from the intermediate 4. Firstly, the intermediate 4 is reacted with 3-oxa-8-azabicyclo[3.2.1]octane to form intermediate 5, in which the reaction solvent is one of tetrahydrofuran, dichloromethane, ethyl acetate and acetone, the base is DIPEA or triethylamine; and the intermediate 5 is reacted with 3-(S)-3-methylmorpholine to form the intermediate 6, of which the solvent is one of acetonitrile, toluene, 1,4-dioxane, DMF, xylene. The intermediate 6, methanol alcoholic solution and base are heated to react to form Compound A.
 The Synthesis Step of Compound B
+<img> id-US20180079749A1-20180322-C00030.TIF </img><img> id-US20180079749A1-20180322-C00031.TIF </img>
 The method for preparing Compound B as provided herein starts from intermediate 4. Firstly, the intermediate 4 is reacted with 3-(S)-3-methylmorpholine to form intermediate 7, of which the reaction solvent is one of tetrahydrofuran, dichloromethane, ethyl acetate and acetone, the base was DIPEA or triethylamine; and the intermediate 7 is reacted with 3-(S)-3-methylmorpholine to form the intermediate 8, the solvent is one of acetonitrile, toluene, 1,4-dioxane, DMF, xylene. The intermediate 8, methanol alcoholic solution and base were reacted under heating condition to form Compound B.
 The Main Merits of the Present Invention Comprise:
 (1) Compared with the routes in the prior art, the invention has advantages such as easy operation, mild condition, less environmental pollution, simple synthesis process, convenient raw material acquisition, high yield, and suitable for industrial production

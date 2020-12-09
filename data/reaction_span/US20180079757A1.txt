@@ -6,8 +6,10 @@ Clinically, topoisomerase enzymes represent attractive and successful targets fo
 BRIEF SUMMARY
 The current invention provides compounds and methods for inhibiting the activity of topoisomerase. These compounds and methods according to the current invention can further be used to control bacterial pathogens. The current invention also provides pharmaceutical compositions comprising one or more compounds of the current invention, and methods comprising administration of the compositions for treating a surface or a subject infected with a bacterial pathogen.
 In one embodiment, the compound comprises a scaffold having a general structure of (I):
+<img> id-US20180079757A1-20180322-C00001.TIF </img>
 wherein R1, R2, R3 and R4 are each independent groups, wherein R1, R3 and R4 are each independently selected from H, -OH, -NH2, -NO2, -NHMe, acetyl group (-Ac), -CN, -NHAc, -NHCH2CH2NH2, -CF3, fluorine, chloride, bromine, iodine, alkyl, substituted alkyl, aryl, substituted aryl, heteroaryl, substituted heteroaryl, cycloalkyl, substituted cycloalkyl, cycloalkenyl, substituted cycloalkenyl, heterocycloalkyl, substituted heterocycloalkyl, amino group, and substituted amino group; and R2 is selected from H, alkyl, substituted alkyl, aryl, substituted aryl, heteroaryl, substituted heteroaryl, cycloalkyl, substituted cycloalkyl, cycloalkenyl, and substituted cycloalkenyl.
 In a further embodiment, R1 is selected from NH2, -NO2, -Ac, -CN, -NHAc and -CF3; R2 is H or an ethyl group; R3 is an amino group, substituted amino group including amine group with lipophilic side chainsor selected from:
+<img> id-US20180079757A1-20180322-C00002.TIF </img>
 wherein R5 is H, OH, Me, NH2, NO2, tert-butyloxycarbonyl (Boc) amine (e.g., NHBoc), fluorine, chloride, bromine, iodine, alkyl, or substituted alkyl.
 In one embodiment, the compounds have activity against bacterial pathogens, including both gram-positive and negative bacteria. In a further embodiment, the compounds have activity against mycobacteria. In another further embodiment, the compounds have activity against E. coli, Staphylococcus aureus, Streptococcus pneumoniae, Helicobacter pylori, Mycobacterium bovis, Mycobacterium africanum, Mycobacterium microti, Mycobacterium canetti, Mycobacterium smegmatis and/or Mycobacterium tuberculosis. In a preferred embodiment, the compounds have activity against M. tuberculosis.
 In other embodiments, the compounds have activity against non-tuberculosis mycobacteria (NTM), e.g., Mycobacterium avium complex (MAC), Mycobacterium kansasii, and Mycobacterium abscessus, and thus, can be used to treat NTM infection in a subject. NTM are all the other mycobacteria which can cause pulmonary disease. NTM can also infect skin, soft tissues and lungs of cystic fibrosis patients.
@@ -31,6 +33,7 @@ The compounds, compositions, methods and kits described herein can be used in co
 DETAILED DISCLOSURE
 The current invention provides compounds and methods for inhibiting the activity of topoisomerase. The compounds according to the invention have activity against one or more bacterial pathogens. The current invention also provides a pharmaceutical composition comprising at least one of the compounds, and methods comprising administration of the compositions for treating a subject infected with a bacterial pathogen or in need of such administration for inhibiting the activity of topoisomerase.
 In one embodiment, the compound comprises a scaffold having a general structure of (I):
+<img> id-US20180079757A1-20180322-C00003.TIF </img>
 wherein R1, R2, R3 and R4 are each independent groups, wherein R1, R3 and R4 are each independently selected from H, -OH, NH2, -NO2, -NHMe, -Ac, -CN, -NHAc, -NHCH2CH2NH2, -CF3, fluorine, chloride, bromine, iodine, alkyl, substituted alkyl, aryl, substituted aryl, heteroaryl, substituted heteroaryl, cycloalkyl, substituted cycloalkyl, cycloalkenyl, substituted cycloalkenyl, heterocycloalkyl, substituted heterocycloalkyl, amino group, and substituted amino group; R2 is selected from H, alkyl, substituted alkyl, aryl, substituted aryl, heteroaryl, substituted heteroaryl, cycloalkyl, substituted cycloalkyl, cycloalkenyl, and substituted cycloalkenyl.
 In another embodiment, R1, R2, R3 and R4 are each independent groups, wherein R1 is selected from H, -OH, NH2, -NO2, -NHMe, -Ac, -CN, -NHAc, -NHCH2CH2NH2, and -CF3, R2 is an H or an alkyl group; and R3 is selected from fluorine, alkyl, substituted alkyl, aryl, substituted aryl, heteroaryl, substituted heteroaryl, cycloalkyl, substituted cycloalkyl, cycloalkenyl, substituted cycloalkenyl, heterocycloalkyl, substituted heterocycloalkyl, amino group, and substituted amino group with different functionalities such as piperazine, 1-methylpiperazine, and morpholine; and R4 is selected from H, -OH, NH2, -NO2, -Ac, -CN, -NHAc, -NHCH2CH2NH2, -CF3, fluorine, chloride, bromine, iodine, and alkyl.
 In a further embodiment, R1 selected from NH2, -NO2, -Ac, -CN, and -CF3.
@@ -38,18 +41,28 @@ In one embodiment, each R group may comprise other functional groups including q
 In a specific embodiment, each of the R groups may comprise a positively charged functional group, or a large aromatic group. Furthermore, each of the R groups may comprise a methyl naphthyl group wherein the naphthyl group includes but is not limited to dihydroxyphenyl, halogenated phenyls, aliphatic groups.
 In one embodiment, the R groups may each independently include alkyl amines with varying chain lengths, cyclic amines (e.g., piperazine such as 1-methylpiperazine, morpholine, piperidine), cyclic alkyls, and aryl groups.
 In a further embodiment, R2 is H or an ethyl group. R3 is an amino group, substituted amino group including amine group with lipophilic side chains or is selected from:
+<img> id-US20180079757A1-20180322-C00004.TIF </img>
 wherein R5 is -H, -OH, -Me, -NH2, -NO2, -NHBoc, -Ac, -CN, -NHAc, -NHCH2CH2NH2, -CF3, fluorine, chloride, bromine, iodine, alkyl, or substituted alkyl.
 In certain embodiments, each of R1, R2, R3 and R4 is selected from:
+<img> id-US20180079757A1-20180322-C00005.TIF </img>
 wherein n is at least 2, preferably ranging from 2 to 5.
 In certain embodiments, each of R1, R2, R3 and R4 is independently selected from:
+<img> id-US20180079757A1-20180322-C00006.TIF </img>
 andwherein Z is preferably O, NH, NMe, or S.
 In one embodiment, the compound is:
+<img> id-US20180079757A1-20180322-C00007.TIF </img>
 In one embodiment, the compound is selected from:
+<img> id-US20180079757A1-20180322-C00008.TIF </img>
 In one embodiment, the compound is selected from:
+<img> id-US20180079757A1-20180322-C00009.TIF </img>
 In one embodiment, the compound is selected from:
+<img> id-US20180079757A1-20180322-C00010.TIF </img>
 In one embodiment, the compound is:
+<img> id-US20180079757A1-20180322-C00011.TIF </img>
 wherein R is selected from:
+<img> id-US20180079757A1-20180322-C00012.TIF </img><img> id-US20180079757A1-20180322-C00013.TIF </img>
 In one embodiment, the compound is selected from:
+<img> id-US20180079757A1-20180322-C00014.TIF </img>
 In one embodiment, the compounds are fluoroquinophenzoxazine and derivatives thereof.
 In one embodiment, certain compounds of the present disclosure possess asymmetric carbon atoms (optical or chiral centers) or double bonds; the enantiomers, racemates, diastereomers, tautomers, geometric isomers, stereoisometric forms that may be defined, in terms of absolute stereochemistry, as (R)- or (S)- or, as (D)- or (L)- for amino acids, and individual isomers are encompassed within the scope of the present disclosure. The present disclosure is meant to include compounds in racemic and optically pure forms. Optically active (R)- and (S)-, or (D)- and (L)-isomers may be prepared using chiral synthons or chiral reagents, or resolved using conventional techniques. When the compounds described herein contain olefenic bonds or other centers of geometric asymmetry, and unless specified otherwise, it is intended that the compounds include both E and Z geometric isomers.
 Unless otherwise stated, structures depicted herein also are meant to include all stereochemical forms of the structure; i.e., the R and S configurations for each asymmetric center. Therefore, single stereochemical isomers as well as enantiomeric and diastereomeric mixtures of the present compounds are within the scope of the disclosure.
@@ -280,9 +293,9 @@ IC50 (μM) of compounds 11d, 11e, and 11g against Mycobacterium tuberculosis
 topoisomerase I and MIC (μM) values of compounds 11d, 11e, and 11g for TB (Mycobacterium
 tuberculosis strain H37Rv) and MRSA (staphylococcus aureus BAA44).
 Code & Structure & IC50 & MIC (TB) & MIC (MRSA)
-11d &  & 0.48 & To be determined & 3
-11g &  & 0.24 & 2.5 & 12.5
-11e &  & 0.24 & 21.6 & 25
+11d & <img> id-US20180079757A1-20180322-C00015.TIF </img> & 0.48 & To be determined & 3
+11g & <img> id-US20180079757A1-20180322-C00016.TIF </img> & 0.24 & 2.5 & 12.5
+11e & <img> id-US20180079757A1-20180322-C00017.TIF </img> & 0.24 & 21.6 & 25
 </table>
 Viability of the mycobacteria mycobacterium smegmatis in biofilm was measured by the resazurin assay. Compound 11g at 1.5-3 μM can abolish 90% of viability, versus 24 μM or higher required for ciprofloxacin to achieve the same anti-biofilm activity.
 The resazurin assay is a quick method using the resazurin dye as a bacterial respiration indicator to assay the antibacterial activity of various compounds used against bacterial biofilm growth. Such assay is well-known in the art. Resazurin was used to measure the presence of active biofilm bacteria, after adding the compound, in relation to a standard curve generated from inocula in suspension of the same organism used to grow the biofilm. The biofilm was quantified indirectly by measuring the fluorescent, water-soluble resorufin product produced when resazurin is reduced by reactions associated with respiration.

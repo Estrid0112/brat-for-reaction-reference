@@ -10,6 +10,7 @@ Despite advances in mGluR4 research, there is still a scarcity of compounds that
 SUMMARY
 In accordance with the purpose(s) of the invention, as embodied and broadly described herein, the invention, in one aspect, relates to compounds useful as allosteric modulators of mGluR4 receptor activity, methods of making same, pharmaceutical compositions comprising same, and methods of treating neurological and psychiatric disorders associated with glutamate dysfunction, for example Parkinson's disease, using same. Further disclosed are methods and pharmaceutical compositions useful for treating a disease related to mGluR4 activity. In one aspect, the disclosed compounds can affect the sensitivity of mGluR4 receptors to agonists without binding to the orthosteric agonist binding site or acting as orthosteric agonists themselves. A “receptor allosteric agonist”, as used herein, is generally defined as a ligand that functions as both an allosteric modulator and as an agonist on its own (though the latter is usually only at higher concentrations). The presence of a the receptor allosteric agonist (Ago-PAM) activity may offer advantages in various CNS and neurological disorders where the basal glutamatergic tone is low in given brain regions.
 Disclosed are methods for the treatment of a neurotransmission dysfunction or other disease state associated with mGluR4 activity in a mammal comprising the step of administering to the mammal at least one compound in a dosage and amount effective to treat the dysfunction in the mammal, the compound having a structure represented by the following formula:
+<img> id-US20180057490A1-20180301-C00001.TIF </img>
 wherein the variables are substituted or unsubstituted and:
 X is N, CH, CD, C-alkyl;
 Y is N, CH, CD, C-alkyl;
@@ -20,6 +21,7 @@ RA is H, alkyl, alkene, hydroxyl, alkoxy, CF3, O, O-Me, O-alkyl, O-cycloalkyl, h
 provided that at least one of X1 or X2 is N;
 or a pharmaceutically acceptable salt thereof or a pharmaceutically acceptable derivative thereof.
 Also disclosed are methods for potentiating mGluR4 activity in a subject comprising the step of administering to the subject at least one compound at least one compound having a structure represented by the following formula:
+<img> id-US20180057490A1-20180301-C00002.TIF </img>
 wherein the variables are substituted or unsubstituted and:
 X is N, CH, CD, C-alkyl;
 Y is N, CH, CD, C-alkyl;
@@ -30,6 +32,7 @@ RA is H, alkyl, alkene, hydroxyl, alkoxy, CF3, O, O-Me, O-alkyl, O-cycloalkyl, h
 provided that at least one of X1 or X2 is N;
 or a pharmaceutically acceptable salt thereof or a pharmaceutically acceptable derivative thereof, in a dosage and amount effective to potentiate mGluR4 receptor activity in the subject.
 Also disclosed are methods of potentiating mGluR4 activity in at least one cell comprising the step of contacting at least one cell with at least one compound having a structure represented by the following formula:
+<img> id-US20180057490A1-20180301-C00003.TIF </img>
 wherein the variables are substituted or unsubstituted and:
 X is N, CH, CD, C-alkyl;
 Y is N, CH, CD, C-alkyl;
@@ -40,6 +43,7 @@ RA is H, alkyl, alkene, hydroxyl, alkoxy, CF3, O, O-Me, O-alkyl, O-cycloalkyl, h
 provided that at least one of X1 or X2 is N;
 or a pharmaceutically acceptable salt thereof or a pharmaceutically acceptable derivative thereof, in an amount effective to potentiate mGluR4 receptor activity in the at least one cell.
 Also disclosed are compounds having a structure represented by the following formula:
+<img> id-US20180057490A1-20180301-C00004.TIF </img>
 wherein the variables are substituted or unsubstituted and:
 X is N, CH, CD, C-alkyl;
 Y is N, CH, CD, C-alkyl;
@@ -49,6 +53,7 @@ R is independently H, alkyl, alkene, hydroxyl, alkoxy, CF3, O, O-Me, O-alkyl, O-
 RA is H, alkyl, alkene, hydroxyl, alkoxy, CF3, O, O-Me, O-alkyl, O-cycloalkyl, hydroxyl, amino, aminoalkoxy, halogen, SO2, SO2-alkyl, SO2-Me, CONH2, CN, O, cycloalkyl, cycloheteroalkyl, aryl, heteroaryl;
 provided that at least one of X1 or X2 is N;or a pharmaceutically acceptable salt thereof or a pharmaceutically acceptable derivative thereof.
 Also disclosed pharmaceutical compositions comprising a compound having a structure represented by the following formula:
+<img> id-US20180057490A1-20180301-C00005.TIF </img>
 wherein the variables are substituted or unsubstituted and:
 X is N, CH, CD, C-alkyl;
 Y is N, CH, CD, C-alkyl;
@@ -62,9 +67,11 @@ Also disclosed are methods for potentiating mGluR4 activity in at least one cell
 Also disclosed are methods for potentiating mGluR4 activity in a subject comprising the step of administering to the subject a therapeutically effective amount of at least one disclosed compound in a dosage and amount effective to potentiate mGluR4 receptor activity in the subject.
 Also disclosed are methods for the treatment of a disorder associated with mGluR4 neurotransmission dysfunction or other mGluR4 mediated disease states in a mammal comprising the step of administering to the mammal at least one disclosed compound in a dosage and amount effective to treat the disorder in the mammal.
 Also disclosed are methods for making a compound comprising the steps of providing an amine compound having a structure represented by the following formula:
+<img> id-US20180057490A1-20180301-C00006.TIF </img>
 as shown in the Examples below, wherein the variables are defined herein.
 Also disclosed are the products of the disclosed methods of making.
 Also disclosed are methods for the manufacture of a medicament for potentiating mGluR4 receptor activity in a mammal comprising combining a compound having a structure represented by the following formula:
+<img> id-US20180057490A1-20180301-C00007.TIF </img>
 wherein the variables are substituted or unsubstituted and:
 X is N, CH, CD, C-alkyl;
 Y is N, CH, CD, C-alkyl;
@@ -76,6 +83,7 @@ provided that at least one of X1 or X2 is N;
 or a pharmaceutically acceptable salt thereof or a pharmaceutically acceptable derivative thereof.
 Also disclosed are the products of the disclosed methods for the manufacture of a medicament.
 Also disclosed are uses of a compound for potentiating mGluR4 receptor activity in a mammal, wherein the compound has a structure represented by following formula:
+<img> id-US20180057490A1-20180301-C00008.TIF </img>
 wherein the variables are substituted or unsubstituted and:
 X is N, CH, CD, C-alkyl;
 Y is N, CH, CD, C-alkyl;
@@ -86,6 +94,7 @@ RA is H, alkyl, alkene, hydroxyl, alkoxy, CF3, O, O-Me, O-alkyl, O-cycloalkyl, h
 provided that at least one of X1 or X2 is N;
 or a pharmaceutically acceptable salt thereof or a pharmaceutically acceptable derivative thereof.
 Also disclosed are methods for the treatment of a neurotransmission dysfunction and other disease states associated with mGluR4 activity in a mammal comprising the step of co-administering to the mammal at least one compound in a dosage and amount effective to treat the dysfunction in the mammal, the compound having a structure represented by a compound of the following formula:
+<img> id-US20180057490A1-20180301-C00009.TIF </img>
 wherein the variables are substituted or unsubstituted and:
 X is N, CH, CD, C-alkyl;
 Y is N, CH, CD, C-alkyl;
@@ -96,6 +105,7 @@ RA is H, alkyl, alkene, hydroxyl, alkoxy, CF3, O, O-Me, O-alkyl, O-cycloalkyl, h
 provided that at least one of X1 or X2 is N;
 or a pharmaceutically acceptable salt thereof or a pharmaceutically acceptable derivative thereof with a drug having a known side-effect of increasing metabotropic glutamate receptor activity.
 Also disclosed are methods for the treatment of a neurotransmission dysfunction and other disease states associated with mGluR4 activity in a mammal comprising the step of co-administering to the mammal at least one compound in a dosage and amount effective to treat the dysfunction in the mammal, the compound having a structure represented by a compound of the following formula:
+<img> id-US20180057490A1-20180301-C00010.TIF </img>
 wherein the variables are substituted or unsubstituted and:
 X is N, CH, CD, C-alkyl;
 Y is N, CH, CD, C-alkyl;
@@ -106,6 +116,7 @@ RA is H, alkyl, alkene, hydroxyl, alkoxy, CF3, O, O-Me, O-alkyl, O-cycloalkyl, h
 provided that at least one of X1 or X2 is N;
 or a pharmaceutically acceptable salt thereof or a pharmaceutically acceptable derivative thereof with a drug known to treat a disorder associated with increasing metabotropic glutamate receptor activity.
 Also disclosed are methods for the treatment of a neurotransmission dysfunction and other disease states associated with mGluR4 activity in a mammal comprising the step of co-administering to the mammal at least one compound in a dosage and amount effective to treat the dysfunction in the mammal, the compound having a structure represented by a Also disclosed are methods for the treatment of a neurotransmission dysfunction and other disease states associated with mGluR4 activity in a mammal comprising the step of co-administering to the mammal at least one compound in a dosage and amount effective to treat the dysfunction in the mammal, the compound having a structure represented by a compound of following formula:
+<img> id-US20180057490A1-20180301-C00011.TIF </img>
 wherein the variables are substituted or unsubstituted and:
 X is N, CH, CD, C-alkyl;
 Y is N, CH, CD, C-alkyl;
@@ -117,6 +128,7 @@ provided that at least one of X1 or X2 is N;
 or a pharmaceutically acceptable salt thereof or a pharmaceutically acceptable derivative thereof with a drug known to treat the neurotransmission dysfunction or other disease states.
 Also disclosed are kits comprising a compound having a structure represented by a compound of the present invention.
 Also disclosed are methods for the treatment of a neurotransmission dysfunction and other disease states associated with mGluR4 activity in a mammal comprising the step of co-administering to the mammal at least one compound in a dosage and amount effective to treat the dysfunction in the mammal, the compound having a structure represented by a compound of following formula:
+<img> id-US20180057490A1-20180301-C00012.TIF </img>
 wherein the variables are substituted or unsubstituted and:
 X is N, CH, CD, C-alkyl;
 Y is N, CH, CD, C-alkyl;
@@ -181,6 +193,7 @@ The term “sulfo-oxo” as used herein is represented by a formulas -S(O)A1, S(
 The term “thiol” as used herein is represented by a formula -SH.
 The term “organic residue” defines a carbon containing residue, i.e., a residue comprising at least one carbon atom, and includes but is not limited to the carbon-containing groups, residues, or radicals defined hereinabove. Organic residues can contain various heteroatoms, or be bonded to another molecule through a heteroatom, including oxygen, nitrogen, sulfur, phosphorus, or the like. Examples of organic residues include but are not limited alkyl or substituted alkyls, alkoxy or substituted alkoxy, mono or di-substituted amino, amide groups, etc. Organic residues can preferably comprise 1 to 18 carbon atoms, 1 to 15, carbon atoms, 1 to 12 carbon atoms, 1 to 8 carbon atoms, 1 to 6 carbon atoms, or 1 to 4 carbon atoms. In a further aspect, an organic residue can comprise 2 to 18 carbon atoms, 2 to 15, carbon atoms, 2 to 12 carbon atoms, 2 to 8 carbon atoms, 2 to 4 carbon atoms, or 2 to 4 carbon atoms
 A very close synonym of the term “residue” is the term “radical,” which as used in the specification and concluding claims, refers to a fragment, group, or substructure of a molecule described herein, regardless of how the molecule is prepared. For example, a 2,4-thiazolidinedione radical in a particular compound has the structure
+<img> id-US20180057490A1-20180301-C00013.TIF </img>
 regardless of whether thiazolidinedione is used to prepare the compound. In some aspects the radical (for example an alkyl) can be further modified (i.e., substituted alkyl) by having bonded thereto one or more “substituent radicals.” The number of atoms in a given radical is not critical to the present invention unless it is indicated to the contrary elsewhere herein.
 “Organic radicals,” as the term is defined and used herein, contain one or more carbon atoms. An organic radical can have, for example, 1-26 carbon atoms, 1-18 carbon atoms, 1-12 carbon atoms, 1-8 carbon atoms, 1-6 carbon atoms, or 1-4 carbon atoms. In a further aspect, an organic radical can have 2-26 carbon atoms, 2-18 carbon atoms, 2-12 carbon atoms, 2-8 carbon atoms, 2-6 carbon atoms, or 2-4 carbon atoms. Organic radicals often have hydrogen bound to at least some of the carbon atoms of the organic radical. One example, of an organic radical that comprises no inorganic atoms is a 5, 6, 7, 8-tetrahydro-2-naphthyl radical. In some aspects, an organic radical can contain 1-10 inorganic heteroatoms bound thereto or therein, including halogens, oxygen, sulfur, nitrogen, phosphorus, and the like. Examples of organic radicals include but are not limited to an alkyl, substituted alkyl, cycloalkyl, substituted cycloalkyl, mono-substituted amino, di-substituted amino, acyloxy, cyano, carboxy, carboalkoxy, alkylcarboxamide, substituted alkylcarboxamide, dialkylcarboxamide, substituted dialkylcarboxamide, alkylsulfonyl, alkylsulfinyl, thioalkyl, thiohaloalkyl, alkoxy, substituted alkoxy, haloalkyl, haloalkoxy, aryl, substituted aryl, heteroaryl, heterocyclic, or substituted heterocyclic radicals, wherein the terms are defined elsewhere herein. A few non-limiting examples of organic radicals that include heteroatoms include alkoxy radicals, trifluoromethoxy radicals, acetoxy radicals, dimethylamino radicals and the like.
 “Inorganic radicals,” as the term is defined and used herein, contain no carbon atoms and therefore comprise only atoms other than carbon. Inorganic radicals comprise bonded combinations of atoms selected from hydrogen, nitrogen, oxygen, silicon, phosphorus, sulfur, selenium, and halogens such as fluorine, chlorine, bromine, and iodine, which can be present individually or bonded together in their chemically stable combinations. Inorganic radicals have 10 or fewer, or preferably one to six or one to four inorganic atoms as listed above bonded together. Examples of inorganic radicals include, but not limited to, amino, hydroxy, halogens, nitro, thiol, sulfate, phosphate, and like commonly known inorganic radicals. The inorganic radicals do not have bonded therein the metallic elements of the periodic table (such as the alkali metals, alkaline earth metals, transition metals, lanthanide metals, or actinide metals), although such metal ions can sometimes serve as a pharmaceutically acceptable cation for anionic inorganic radicals such as a sulfate, phosphate, or like anionic inorganic radical. Typically, inorganic radicals do not comprise metalloids elements such as boron, aluminum, gallium, germanium, arsenic, tin, lead, or tellurium, or the noble gas elements, unless otherwise specifically indicated elsewhere herein.
@@ -191,7 +204,9 @@ The term “leaving group” refers to an atom (or a group of atoms) with electr
 Compounds described herein can contain one or more double bonds and, thus, potentially give rise to cis/trans (E/Z) isomers, as well as other conformational isomers. Unless stated to the contrary, the invention includes all such possible isomers, as well as mixtures of such isomers.
 Unless stated to the contrary, a formula with chemical bonds shown only as solid lines and not as wedges or dashed lines contemplates each possible isomer, e.g., each enantiomer and diastereomer, and a mixture of isomers, such as a racemic or scalemic mixture. Compounds described herein can contain one or more asymmetric centers and, thus, potentially give rise to diastereomers and optical isomers. Unless stated to the contrary, the present invention includes all such possible diastereomers as well as their racemic mixtures, their substantially pure resolved enantiomers, all possible geometric isomers, and pharmaceutically acceptable salts thereof. Mixtures of stereoisomers, as well as isolated specific stereoisomers, are also included. During the course of the synthetic procedures used to prepare such compounds, or in using racemization or epimerization procedures known to those skilled in the art, the products of such procedures can be a mixture of stereoisomers. Additionally, unless expressly described as “unsubstituted”, all substituents can be substituted or unsubstituted.
 In some aspects, a structure of a compound can be represented by a formula:
+<img> id-US20180057490A1-20180301-C00014.TIF </img>
 which is understood to be equivalent to a formula:
+<img> id-US20180057490A1-20180301-C00015.TIF </img>
 wherein n is typically an integer. That is, Rn is understood to represent five independent substituents, Rn(a), Rn(b), Rn(c), Rn(d), Rn(e). By “independent substituents,” it is meant that each R substituent can be independently defined. For example, if in one instance Rn(a) is halogen, then Rn(b) is not necessarily halogen in that instance. Likewise, when a group R is defined as four substituents, R is understood to represent four independent substituents, Ra, Rb, Rc, and Rd. Unless indicated to the contrary, the substituents are not limited to any particular order or arrangement.
 The following abbreviations are used herein. DMF: dimethyl formamide. EtOAc: ethyl acetate. THF: tetrahydrofuran. DIPEA or DIEA: diisopropylethylamine. HOBt: 1-hydroxybenzotriazole. EDC: 1-ethyl-3-[3-dimethylaminopropyl]carbodiimide hydrochloride. DMSO: dimethylsulfoxide. DMAP: 4-Dimethylaminopyridine. RT: Room temperature. h: Hours. Min: Minutes. DCM: Dichloromethane. MeCN: Acetonitrile. MeOH: methanol. iPrOH: 2-Propanol. n-BuOH: 1-Butanol.
 Disclosed are the components to be used to prepare the compositions of the invention as well as the compositions themselves to be used within the methods disclosed herein. These and other materials are disclosed herein, and it is understood that when combinations, subsets, interactions, groups, etc. of these materials are disclosed that while specific reference of each various individual and collective combinations and permutation of these compounds cannot be explicitly disclosed, each is specifically contemplated and described herein. For example, if a particular compound is disclosed and discussed and a number of modifications that can be made to a number of molecules including the compounds are discussed, specifically contemplated is each and every combination and permutation of the compound and the modifications that are possible unless specifically indicated to the contrary. Thus, if a class of molecules A, B, and C are disclosed as well as a class of molecules D, E, and F and an example of a combination molecule, A-D is disclosed, then even if each is not individually recited each is individually and collectively contemplated meaning combinations, A-E, A-F, B-D, B-E, B-F, C-D, C-E, and C-F are considered disclosed. Likewise, any subset or combination of these is also disclosed. Thus, for example, the sub-group of A-E, B-F, and C-E would be considered disclosed. This concept applies to all aspects of this application including, but not limited to, steps in methods of making and using the compositions of the invention. Thus, if there are a variety of additional steps that can be performed it is understood that each of these additional steps can be performed with any specific aspect or combination of aspects of the methods of the invention.
@@ -199,6 +214,7 @@ It is understood that the compositions disclosed herein have certain functions. 
 B. Compounds
 In one aspect, the invention relates to compounds, or pharmaceutically acceptable derivatives thereof, useful as potentiators of mGluR4 activity. In general, it is contemplated that each disclosed derivative can be optionally further substituted. It is also contemplated that any one or more derivative can be optionally omitted from the invention. It is understood that a disclosed compound can be provided by the disclosed methods. It is also understood that the disclosed compounds can be employed in the disclosed methods of using. It is also understood that the disclosed compounds can all be employed as corresponding pharmaceutical compositions.
 In one aspect, the invention relates to compounds having a structure represented by a compound of following formula:
+<img> id-US20180057490A1-20180301-C00016.TIF </img>
 wherein the variables are substituted or unsubstituted and:
 X is N, CH, CD, C-alkyl;
 Y is N, CH, CD, C-alkyl;
@@ -209,6 +225,7 @@ RA is H, alkyl, alkene, hydroxyl, alkoxy, CF3, O, O-Me, O-alkyl, O-cycloalkyl, h
 provided that at least one of X1 or X2 is N;
 or a pharmaceutically acceptable salt thereof or a pharmaceutically acceptable derivative thereof.
 Also disclosed are compounds of the following formula:
+<img> id-US20180057490A1-20180301-C00017.TIF </img>
 or a pharmaceutically acceptable salt thereof or a pharmaceutically acceptable derivative thereof.
 Also disclosed are compounds wherein R1 is chosen from aryl, heteroaryl, cycloalkyl, cycloheteroalkyl, 4-7 membered cycloalkyl, cycloheteroaryl and bicyclic ([3.3.0], [2.2.0] and [3.1.0]) ring systems; and is optionally substituted by one or more R.
 Also disclosed are compounds wherein R1 and R2 together form pyridine, optionally substituted by one or more R.
@@ -218,6 +235,7 @@ Also, disclosed are compounds R1 is CO-amino-cycloalkyl (optionally substituted 
 With respect to the compounds disclosed herein, cycloalkyl is independently cyclobutyl, cyclopropyl, cyclopentyl; cycloheteroaryl is independently piperazine, pyrrolidin, thiazepin, piperazin-ethanone, azaspiroheptane, oxazepan, tetrahydropyran, morpholino, thiomorpholino, dioxothiomorpholino, and heteroaryl is independently pyrazole, triazol, isoxazol, azetidin, thiophen, pyrozolopyrimidine, imidazole, indazole, indazole, pyrazolo-pyridin, and tetramethyl-furopyrazole.
 Also disclosed are compounds wherein: (i) Y is N and X is CH, or (ii) Y is CH and X is N.
 Also disclosed are compounds of the following formula:
+<img> id-US20180057490A1-20180301-C00018.TIF </img>
 or a pharmaceutically acceptable salt thereof or a pharmaceutically acceptable derivative thereof.
 The compounds disclosed herein can include all salt forms, for example, salts of both basic groups, inter alia, amines, as well as salts of acidic groups, inter alia, carboxylic acids. The following are non-limiting examples of anions that can form salts with protonated basic groups: chloride, bromide, iodide, sulfate, bisulfate, carbonate, bicarbonate, phosphate, formate, acetate, propionate, butyrate, pyruvate, lactate, oxalate, malonate, maleate, succinate, tartrate, fumarate, citrate, and the like. The following are non-limiting examples of cations that can form salts of acidic groups: ammonium, sodium, lithium, potassium, calcium, magnesium, bismuth, lysine, and the like.
 The analogs (compounds) of the present disclosure are arranged into several categories to assist the formulator in applying a rational synthetic strategy for the preparation of analogs which are not expressly exampled herein. The arrangement into categories does not imply increased or decreased efficacy for any of the compositions of matter described herein.
@@ -254,6 +272,7 @@ In one aspect, the compound can be employed in combination with an anti-depressa
 In the treatment of conditions which require potentiation of mGluR4 activity an appropriate dosage level will generally be about 0.01 to 500 mg per kg patient body weight per day which can be administered in single or multiple doses. Preferably, the dosage level will be about 0.1 to about 250 mg/kg per day; more preferably about 0.5 to about 100 mg/kg per day. A suitable dosage level may be about 0.01 to 250 mg/kg per day, about 0.05 to 100 mg/kg per day, or about 0.1 to 50 mg/kg per day. Within this range the dosage may be 0.05 to 0.5, 0.5 to 5 or 5 to 50 mg/kg per day. For oral administration, the compositions are preferably provided in the form of tablets containing 1.0 to 1000 milligrams of the active ingredient, particularly 1.0, 5.0, 10, 15. 20, 25, 50, 75, 100, 150, 200, 250, 300, 400, 500, 600, 750, 800, 900, and 1000 milligrams of the active ingredient for the symptomatic adjustment of the dosage to the patient to be treated. The compounds may be administered on a regimen of 1 to 4 times per day, preferably once or twice per day. This dosage regimen may be adjusted to provide the optimal therapeutic response. It will be understood, however, that the specific dose level and frequency of dosage for any particular patient may be varied and will depend upon a variety of factors including the activity of the specific compound employed, the metabolic stability and length of action of that compound, the age, body weight, general health, sex, diet, mode and time of administration, rate of excretion, drug combination, the severity of the particular condition, and the host undergoing therapy.
 In one aspect, the invention relates to a pharmaceutical composition comprising a compound disclosed herein or a pharmaceutically acceptable salt thereof or a pharmaceutically acceptable derivative thereof; and a pharmaceutically acceptable carrier.
 In one aspect, the invention relates to pharmaceutical compositions comprising a compound having a structure represented by a compound of the following formula:
+<img> id-US20180057490A1-20180301-C00019.TIF </img>
 wherein the variables are substituted or unsubstituted and:
 X is N, CH, CD, C-alkyl;
 Y is N, CH, CD, C-alkyl;
@@ -264,6 +283,7 @@ RA is H, alkyl, alkene, hydroxyl, alkoxy, CF3, O, O-Me, O-alkyl, O-cycloalkyl, h
 provided that at least one of X1 or X2 is N;
 or a pharmaceutically acceptable salt thereof or a pharmaceutically acceptable derivative thereof; and a pharmaceutically acceptable carrier.
 Also disclosed are pharmaceutical compositions comprising a compound of the following formula:
+<img> id-US20180057490A1-20180301-C00020.TIF </img>
 or a pharmaceutically acceptable salt thereof or a pharmaceutically acceptable derivative thereof; and a pharmaceutically acceptable carrier.
 D. Methods of Using the Compounds and Compositions
 mGluR4 belongs to the group III mGluR subfamily and is located in predominantly in presynaptic locations in the central nervous system where it is functions as an auto- and heteroreceptor to regulate the release of both GABA and glutamate. In addition, mGluR4 is also expressed at a low level in some postsynaptic locations. mGluR4 is expressed in most brain regions, particularly in neurons known to play key roles in the following functions of the CNS:
@@ -303,6 +323,7 @@ Anxiety disorders that can be treated or prevented by the compositions disclosed
 Thus, in some aspects of the disclosed method, the disorder is dementia, delirium, amnestic disorders, age-related cognitive decline, schizophrenia, psychosis including schizophrenia, schizophreniform disorder, schizoaffective disorder, delusional disorder, brief psychotic disorder, substance-related disorder, movement disorders, epilepsy, chorea, pain, migraine, diabetes, dystonia, obesity, eating disorders, brain edema, sleep disorder, narcolepsy, anxiety, affective disorder, panic attacks, unipolar depression, bipolar disorder, psychotic depression.
 Also provided is a method for treating or prevention anxiety, comprising: administering to a subject at least one disclosed compound; at least one disclosed pharmaceutical composition; and/or at least one disclosed product in a dosage and amount effective to treat the disorder in the subject. At present, the fourth edition of the Diagnostic and Statistical Manual of Mental Disorders (DSM-IV) (1994, American Psychiatric Association, Washington, D.C.), provides a diagnostic tool including anxiety and related disorders. These include: panic disorder with or without agoraphobia, agoraphobia without history of panic disorder, specific phobia, social phobia, obsessive-compulsive disorder, post-traumatic stress disorder, acute stress disorder, generalized anxiety disorder, anxiety disorder due to a general medical condition, substance-induced anxiety disorder and anxiety disorder not otherwise specified.
 In one aspect, the invention relates to methods for the treatment of a neurotransmission dysfunction and other disease states associated with mGluR4 activity in a mammal comprising the step of administering to the mammal at least one compound of the present invention in a dosage and amount effective to treat the dysfunction in the mammal. In certain embodiments, the compound has a structure represented by a compound of the following formula:
+<img> id-US20180057490A1-20180301-C00021.TIF </img>
 wherein the variables are substituted or unsubstituted and:
 X is N, CH, CD, C-alkyl;
 Y is N, CH, CD, C-alkyl;
@@ -313,6 +334,7 @@ RA is H, alkyl, alkene, hydroxyl, alkoxy, CF3, O, O-Me, O-alkyl, O-cycloalkyl, h
 provided that at least one of X1 or X2 is N;
 or a pharmaceutically acceptable salt thereof or a pharmaceutically acceptable derivative thereof.
 In one aspect, the invention relates to methods for potentiating mGluR4 activity in a subject comprising the step of administering to the subject at least one compound of the present invention in a dosage and amount effective to treat the dysfunction in the mammal. In certain embodiments, the compound has a structure represented by a compound of the following formula:
+<img> id-US20180057490A1-20180301-C00022.TIF </img>
 wherein the variables are substituted or unsubstituted and:
 X is N, CH, CD, C-alkyl;
 Y is N, CH, CD, C-alkyl;
@@ -323,6 +345,7 @@ RA is H, alkyl, alkene, hydroxyl, alkoxy, CF3, O, O-Me, O-alkyl, O-cycloalkyl, h
 provided that at least one of X1 or X2 is N;
 or a pharmaceutically acceptable salt thereof or a pharmaceutically acceptable derivative thereof, in a dosage and amount effective to potentiate mGluR4 receptor activity in the subject.
 In one aspect, the invention relates to methods of potentiating mGluR4 activity in at least one cell comprising the step of contacting the at least one cell with at least one compound having a structure represented by a compound of following formula:
+<img> id-US20180057490A1-20180301-C00023.TIF </img>
 wherein the variables are substituted or unsubstituted and:
 X is N, CH, CD, C-alkyl;
 Y is N, CH, CD, C-alkyl;
@@ -347,6 +370,7 @@ The disclosed compounds may be used as single agents or in combination with one 
 In one aspect, the compounds can be coadministered with anti-Alzheimer's agents, beta-secretase inhibitors, gamma-secretase inhibitors, muscarinic agonists, muscarinic potentiators HMG-CoA reductase inhibitors, NSAIDs and anti-amyloid antibodies. In a further aspect, the compounds can be administered in combination with sedatives, hypnotics, anxiolytics, antipsychotics, selective serotonin reuptake inhibitors (SSRIs), monoamine oxidase inhibitors (MAOIs), 5-HT2 antagonists, GlyT1 inhibitors and the like such as, but not limited to: risperidone, clozapine, haloperidol, fluoxetine, prazepam, xanomeline, lithium, phenobarbitol, and salts thereof and combinations thereof.
 In a further aspect, the subject compound may be used in combination with levodopa (with or without a selective extracerebral decarboxylase inhibitor), anitcholinergics such as biperiden, COMT inhibitors such as entacapone, A2a adenosine antagonists, cholinergic agonists, NMDA receptor antagonists and dopamine agonists.
 In one aspect, the invention relates to methods for the treatment of a neurotransmission dysfunction and other disease states associated with mGluR4 activity in a mammal comprising the step of co-administering to the mammal at least one compound in a dosage and amount effective to treat the dysfunction in the mammal, the compound having a structure represented by a compound of following formula:
+<img> id-US20180057490A1-20180301-C00024.TIF </img>
 wherein the variables are substituted or unsubstituted and:
 X is N, CH, CD, C-alkyl;
 Y is N, CH, CD, C-alkyl;
@@ -357,6 +381,7 @@ RA is H, alkyl, alkene, hydroxyl, alkoxy, CF3, O, O-Me, O-alkyl, O-cycloalkyl, h
 provided that at least one of X1 or X2 is N;
 or a pharmaceutically acceptable salt thereof or a pharmaceutically acceptable derivative thereof with a drug having a known side-effect of increasing metabotropic glutamate receptor activity.
 In one aspect, the invention relates to methods for the treatment of a neurotransmission dysfunction and other disease states associated with mGluR4 activity in a mammal comprising the step of co-administering to the mammal at least one compound in a dosage and amount effective to treat the dysfunction in the mammal, the compound having a structure represented by a compound of following formula:
+<img> id-US20180057490A1-20180301-C00025.TIF </img>
 wherein the variables are substituted or unsubstituted and:
 X is N, CH, CD, C-alkyl;
 Y is N, CH, CD, C-alkyl;
@@ -367,6 +392,7 @@ RA is H, alkyl, alkene, hydroxyl, alkoxy, CF3, O, O-Me, O-alkyl, O-cycloalkyl, h
 provided that at least one of X1 or X2 is N;
 or a pharmaceutically acceptable salt thereof or a pharmaceutically acceptable derivative thereof with a drug known to treat a disorder associated with increasing metabotropic glutamate receptor activity.
 In one aspect, the invention relates to methods for the treatment of a neurotransmission dysfunction and other disease states associated with mGluR4 activity in a mammal comprising the step of co-administering to the mammal at least one compound in a dosage and amount effective to treat the dysfunction in the mammal, the compound having a structure represented by a compound of following formula:
+<img> id-US20180057490A1-20180301-C00026.TIF </img>
 wherein the variables are substituted or unsubstituted and:
 X is N, CH, CD, C-alkyl;
 Y is N, CH, CD, C-alkyl;
@@ -382,6 +408,7 @@ The above described assay operated in two modes. In the first mode, a range of c
 In particular, the compounds of the following examples were found to have activity in potentiating the mGluR4 receptor in the aforementioned assays, generally with an EC50 for potentiation of less than about 10 μM. One aspect of the disclosed compounds have activity in potentiating rat and human mGluR4 receptors with an EC50 for potentiation of less than about 500 nM. These compounds further caused a leftward shift of the agonist EC50 by greater than 3-fold. These compounds are positive allosteric modulators (potentiators) of human and rat mGluR4 and were selective for mGluR4 compared to the other seven subtypes of metabotropic glutamate receptors.
 F. Manufacture of a Medicament
 In one aspect, the invention relates to methods for the manufacture of a medicament for potentiating mGluR4 receptor activity in a mammal comprising combining a compound having a structure represented by a compound of following formula:
+<img> id-US20180057490A1-20180301-C00027.TIF </img>
 wherein the variables are substituted or unsubstituted and:
 X is N, CH, CD, C-alkyl;
 Y is N, CH, CD, C-alkyl;
@@ -394,6 +421,7 @@ or a pharmaceutically acceptable salt thereof or a pharmaceutically acceptable d
 Thus, the disclosed compounds and compositions can be further directed to a method for the manufacture of a medicament for potentiating glutamate receptor activity (e.g., treatment of one or more neurological and/or psychiatric disorder and other disease states associated with glutamate dysfunction) in mammals (e.g., humans) comprising combining one or more disclosed compounds, products, or compositions with a pharmaceutically acceptable carrier or diluent.
 G. Uses of Compounds
 In one aspect, the invention relates to uses of a compound for potentiating mGluR4 receptor activity in a mammal, wherein the compound has a structure represented by a compound of following formula:
+<img> id-US20180057490A1-20180301-C00028.TIF </img>
 wherein the variables are substituted or unsubstituted and:
 X is N, CH, CD, C-alkyl;
 Y is N, CH, CD, C-alkyl;
@@ -406,6 +434,7 @@ or a pharmaceutically acceptable salt thereof or a pharmaceutically acceptable d
 The disclosed uses for potentiating mGluR4 receptor activity in a mammal can further be directed for use in treating one or more disorders, for example neurological and psychiatric disorders and other disease states associated with glutamate dysfunction (e.g., Parkinson's disease) in a subject, for example a mammal or a human.
 H. Kits
 In one aspect, the invention relates to kits comprising a compound having a structure represented by a compound of following formula:
+<img> id-US20180057490A1-20180301-C00029.TIF </img>
 wherein the variables are substituted or unsubstituted and:
 X is N, CH, CD, C-alkyl;
 Y is N, CH, CD, C-alkyl;
@@ -421,15 +450,21 @@ I. Experimental
 The following examples are put forth so as to provide those of ordinary skill in the art with a complete disclosure and description of how the compounds, compositions, articles, devices and/or methods claimed herein are made and evaluated, and are intended to be purely exemplary of the invention and are not intended to limit the scope of what the inventors regard as their invention. Efforts have been made to ensure accuracy with respect to numbers (e.g., amounts, temperature, etc.), but some errors and deviations should be accounted for. Unless indicated otherwise, parts are parts by weight, temperature is in ° C. or is at ambient temperature, and pressure is at or near atmospheric.
 Several methods for preparing the compounds of this invention are illustrated in the following Examples. Starting materials and the requisite intermediates are in some cases commercially available, or can be prepared according to literature procedures or as illustrated herein. All NMR spectra were recorded on either a Varian Inova 400 (400 MHz) or Varian Inova 500 (500 MHz) spectrophotometer. 1H chemical shifts are reported in δ values in ppm downfield from Me4Si as the internal standard in CDCl3. Data are reported as follows: chemical shift, multiplicity (s=singlet, d=doublet, t=triplet, q=quartet, br=broad, m=multiplet), integration, coupling constant (Hz). 13C chemical shifts are reported in δ values in ppm with the CDCl3 carbon peak set to 77.23 ppm. Low resolution mass spectra were obtained on an HP1100 MSD with electrospray ionization. High resolution mass spectra were recorded on a Bruker Daltonics 3T Fourier transform ion cyclotron resonance mass spectrometer (FT/ICR) with electrospray ionization. Analytical thin layer chromatography was performed on EM Reagent 0.25 mm silica gel 60-F plates. Analytical HPLC was performed on an HP1100 with UV detection at 214 and 254 nm along with ELSD detection, LC/MS (J-Sphere80-C18, 3.0×50 mm, 4.1 min gradient, 5%[0.05% TFA/CH3CN]:95%[0.05% TFA/H2O] to 100% [0.05% TFA/CH3CN]. Preparative purification was performed on a custom HP1100 purification system (reference 16) with collection triggered by mass detection. Solvents for extraction, washing and chromatography were HPLC grade. N-Boc-p-phenylenediamine was purchased from Fluka and 1,2-benzenedisulfonyl dichloride was purchased from TCI America. All other reagents were purchased from Aldrich Chemical Co. and were used without purification.
 Exemplary General Procedures:
+<img> id-US20180057490A1-20180301-C00030.TIF </img><img> id-US20180057490A1-20180301-C00031.TIF </img>
 Exemplary Scheme:
+<img> id-US20180057490A1-20180301-C00032.TIF </img>
 7-Bromo-4-(pyridin-2-yl)-3,4-dihydro-2H-benzo[b] [1,4]oxazine (1)
 7-bromo-3,4-dihydro-2H-benzo[b][1,4]oxazine (200 mg, 0.934 mmol, 1.00 eq) was dissolved in DMF (4.7 mL) and sodium hydride (74.8 mg, 1.87 mmol, 2.00 eq) was added. The reaction was stirred for 5 minutes at which point 2-fluoropyridine (181 mg, 1.87 mmol, 2.00 eq) was added and followed by heating in a microwave reactor at 150° C. for 20 minutes. The reaction was diluted with ethyl acetate and washed with water (2×). The aqueous layer was back extracted with ethyl acetate and the combined organics were dried (MgSO4), filtered and concentrated in vacuo. Purification by flash chromatography on silica gel using 0-20% hexanes/ethyl acetate afforded 140 mg (51%) of the title compound as a brown oil. 1H NMR (400 MHz, DMSO-d6) δ 8.28 (d, J=4.7 Hz, 1H, 7.66 (t, J=7.8 Hz, 1H), 7.35 (d, J=8.7 Hz, 1H), 7.18 (d, J=8.5 Hz, 1H), 7.08 (s, 1H), 6.97 (d, J=8.8 Hz, 1H), 6.92 (t, J=5.9 Hz, 1H), 4.22 (t, J=4.3 Hz, 2H), 3.95 (t, J=4.3 Hz, 2H); ES-MS [M+1]+: 291.2.
+<img> id-US20180057490A1-20180301-C00033.TIF </img>
 Tert-butyl (4-(pyridin-2-yl)-3,4-dihydro-2H-benzo[b][1,4]oxazin-7-yl)carbamate (2)
 Compound 1 (132 mg, 0.453 mmol, 1.00 eq)), tert-butyl carbamate (63.7 mg, 0.544 mmol, 1.20 eq), sodium tert-butoxide (61.0 mg, 0.635 mmol, 1.40 eq), tris(dibenzylideneacetone)dipalladium(0) (12.5 mg, 0.0300 mmol, 0.0300 eq), 2-di-tert-butylphosphino-2',4',6'-triisopropylbiphenyl (17.3 mg, 0.0900 mmol, 0.0900 eq) and toluene (4.5 mL) were added to a sealed vial, purged with argon and heated at 100° C. overnight. The reaction was filtered over a plug of celite and the plug was washed with 5% MeOH/DCM. The solvents were removed in vacuo and the crude mixture was purified by flash chromatography on silica gel using 0-20% hexanes/ethyl acetate to afford 124 mg (84%) of the title compound as a yellow solid: 1H NMR (400 MHz, DMSO-d6) δ 9.22 (s, 1H), 8.23 (d, J=4.7 Hz, 1H), 7.58 (t, J=7.9 Hz, 1H), 7.22 (d, J=8.8 Hz, 1H), 7.11 (d, J=8.5 Hz, 1H), 7.07 (s, 1H), 6.92 (d, J=9.0 Hz, 1H), 6.81 (t, J=6.1 Hz, 1H), 4.14 (t, J=4.0 Hz, 2H), 3.98 (t, J=4.1 Hz, 2H), 1.46 (s, 9H); ES-MS [M+1]+: 328.4.
+<img> id-US20180057490A1-20180301-C00034.TIF </img>
 4-(Pyridin-2-yl)-3,4-dihydro-2H-benzo[b][1,4]oxazin-7-amine (3)
 Compound 2 (119 mg, 0.363 mmol, 1.00 eq) was dissolved in DCM (3.6 mL) and trifluoroacetic acid (1.8 mL) was added. The reaction was stirred until complete by LCMS at which point it was neutralized with saturated sodium bicarbonate and extracted with 3:1 CHCl3/IPA. The solvent was removed in vacuo and the crude product was used without further purification. 1H NMR (400 MHz, DMSO-d6) 8.18 (d, J=4.7 Hz, 1H), 7.51 (t, J=7.7 Hz, 1H), 7.03 (d, J=8.6 Hz, 1H), 6.96 (d, J=8.2 Hz, 1H), 6.72 (t, J=6.1 Hz, 1H), 6.15-6.12 (m, 2H), 4.90 (s, 2H), 4.06 (t, 4.0 Hz, 2H), 3.98 (t, J=4.0 Hz, 2H); ES-MS [M+1]+: 495.3.
+<img> id-US20180057490A1-20180301-C00035.TIF </img>
 4-(Pyridin-2-yl)-N-(1-(tetrahydro-2H-pyran-2-yl)-1H-pyrazolo[4,3-b] pyridin-3-yl)-3,4-dihydro-2H-benzo[b][1,4]oxazin-7-amine (4)
 Compound 3 (55 mg, 0.242 mmol, 1.00 eq), 3-bromo-1-(tetrahydro-2H-pyran-2-yl)-1H-pyrazolo[4,3-b]pyridine (82 mg, 0.290 mmol, 1.20 eq), 4,5-bis(diphenylphosphino)-9,9-dimethylxanthene (21.0 mg, 0.0360 mmol, 0.150 eq), tris(dibenzylideneacetone)dipalladium(0) (22.2 mg, 0.0240 mmol, 0.100 eq) and cesium carbonate (166 mg, 0.508 mmol, 2.10 eq) were suspended in 1,4-dioxane (1.2 mL) in a sealed vial and heated at 100° C. overnight. The reaction was cooled, filtered over celite and washed with 5% methanol in DCM. The organics were concentrated and purified reverse-phase chromatography to afford 81 mg (78%) of the title compound as a yellow solid. 1H NMR (400 MHz, DMSO-d6) δ 9.18 (s, 1H), 8.46 (d, J=4.2 Hz, 1H), 8.23 (d, J=4.6 Hz, 1H), 8.06 (d, J=8.5 Hz, 1H), 7-60-7.55 (m, 2H), 7.44 (dd, J=4.3, 8.5 Hz, 1H), 7.31 (d, J=8.9 Hz, 1H), 7.24 (d, J=8.8 Hz, 1H), 7.15 (d, J=8.5 Hz, 1H), 6.79 (t, J=6.0 Hz, 1H), 5.72 (d, J=9.4 Hz, 1H), 4.18-4.16 (m, 2H), 4.04-4.03 (m, 2H), 3.90-3.87 (m, 1H), 3.74-3.67 (m, 1H), 2.46-2.37 (m, 1H), 2.08-1.98 (m, 2H), 1.75-1.70 (m, 1H), 1.60-1.57 (m, 2H); ES-MS [M+1]+: 429.3.
+<img> id-US20180057490A1-20180301-C00036.TIF </img>
 N-(1H-Pyrazolo[4,3-b] pyridin-3-yl)-4-(pyridin-2-yl)-3,4-dihydro-2H-benzo[b][1,4] oxazin-7-amine (5)
 Compound 4 (30 mg, 0.070 mmol, 1.0 eq) was dissolved in trifluoroacetic acid (1 mL) in a microwave vial and heated in a microwave reactor at 100° C. for 10 minutes. The reaction was concentrated and purified by reverse-phase chromatography to afford 19 mg (79%) of the title compound as a yellow solid: 1H NMR (400 MHz, DMSO-d6) δ 9.01 (s, H), 8.40 (d, J=4.0 Hz, 1H), 8.22 (d, J=4.5 Hz, 1H), 7.84 (d, J=8.4 Hz, 1H), 7.58-7.54 (m, 2H), 7.36 (dd, J=4.3, 8.5 Hz, 1H), 7.29 (d, J=8.9 Hz, 1H), 7.21 (d, J=8.8 Hz, 1H), 7.14 (d, J=8.5 Hz, 1H), 6.78 (t, J=6.0 Hz, 1H), 4.17-4.14 (m, 2H), 4.05-4.01 (m, 2H); ES-MS [M+1]+: 345.3.
 It will be apparent to those skilled in the art that various modifications and variations can be made in the present invention without departing from the scope or spirit of the invention. Other aspects of the invention will be apparent to those skilled in the art from consideration of the specification and practice of the invention disclosed herein. It is intended that the specification and examples be considered as exemplary only, with a true scope and spirit of the invention being indicated by the following claims.

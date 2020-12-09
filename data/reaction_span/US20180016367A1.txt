@@ -23,7 +23,9 @@ Technical Problem
 The present invention has an object to provide an olefin polymerization catalyst and a method for producing an olefin oligomer capable of efficiently oligomerizing a polymerizable monomer including an olefin.
 Solution to Problem
 The present invention provides an olefin polymerization catalyst containing a complex of a ligand being a diimine compound represented by the following formula (1) and at least one metal selected from the group consisting of Group 8 elements, Group 9 elements and Group 10 elements.
+<img> id-US20180016367A1-20180118-C00003.TIF </img>
 In the formula (1), Ar1 and Ar2 may be the same or different and are respectively a group represented by the following formula (2).
+<img> id-US20180016367A1-20180118-C00004.TIF </img>
 In the formula (2), R1 and R5 may be the same or different and are respectively a hydrogen atom or a hydrocarbyl group having 1 to 5 carbon atoms, the total number of carbon atoms of R1 and R5 is 1 or more and 5 or less, and R2, R3 and R4 may be the same or different and are respectively a hydrogen atom or an electron-donating group.
 The olefin polymerization catalyst can further contain an organoaluminum compound.
 Further, the present invention provides a method for producing an olefin oligomer comprising a step of oligomerizing a polymerizable monomer including an olefin in the presence of the above olefin polymerization catalyst.
@@ -33,7 +35,9 @@ DESCRIPTION OF EMBODIMENTS
 Hereinafter, preferred embodiments of the present invention are described in detail.
 First Embodiment: Olefin Polymerization Catalyst
 The olefin polymerization catalyst according to the first embodiment of the present invention contains a complex of a ligand being a diimine compound represented by the following formula (1) and at least one metal selected from the group consisting of Group 8 elements, Group 9 elements and Group 10 elements.
+<img> id-US20180016367A1-20180118-C00005.TIF </img>
 In the formula (1), Ar1 and Ar2 may be the same or different and are respectively a group represented by the following formula (2).
+<img> id-US20180016367A1-20180118-C00006.TIF </img>
 In the formula (2), R1 and R5 may be the same or different and are respectively a hydrogen atom or a hydrocarbyl group having 1 to 5 carbon atoms, the total number of carbon atoms of R1 and R5 is 1 or more and 5 or less, and R2, R3 and R4 may be the same or different and are respectively a hydrogen atom or an electron-donating group.
 Note that Ar1 and Ar2 in the same molecule may be the same or different but are preferably the same in light of simplifying the synthesis of the ligand.
 Examples of the hydrocarbyl group having 1 to 5 carbon atoms and represented by R1 and R3 include an alkyl group having 1 to 5 carbon atoms and an alkenyl group having 2 to 5 carbon atoms. The hydrocarbyl group may be linear, branched or cyclic. Further, the hydrocarbyl group may be a monovalent group of a linear or branched hydrocarbyl group bonded to a cyclic hydrocarbyl group.
@@ -44,6 +48,7 @@ Further, in light of suppressing the influence of steric hindrance by a substitu
 In the formula (2), R2, R3 and R4 are each independently a hydrogen atom or an electron-donating group. The electron-donating group is not particularly limited and examples include an alkyl group having 1 to 8 carbon atoms, an alkoxy group having 1 to 8 carbon atoms, an aryl group, an aryloxy group and a monovalent group of two or more of these groups combined. The alkyl group and the alkoxy group may be either of linear, branched or cyclic. Further, the aryl group and the aryloxy group may have a substituent such as an alkyl group.
 Examples of R2, R3 and R4 include specifically a methyl group, an ethyl group, a linear or branched propyl group, a linear or branched butyl group, a linear or branched pentyl group, a linear or branched hexyl group, a cyclohexyl group, a methylcyclohexyl group, a phenyl group, a tolyl group, a xylyl group, a hydroxy group, a methoxy group, an ethoxy group, a linear or branched propoxy group, a linear or branched butoxy group, a linear or branched pentyloxy group, a cyclopentyloxy group, a linear or branched hexyloxy group, a cyclohexyloxy group, a phenoxy group, a tolyloxy group and a xylyloxy group. Among these, a hydrogen atom, a methyl group and a methoxy group are preferable.
 Examples of the preferable aspect of the diimine compound represented by the formula (1) include each of the diimine compounds represented by the following formulae (1-1) to (1-3). These can be used singly or in combination of two or more.
+<img> id-US20180016367A1-20180118-C00007.TIF </img>
 The diimine compound represented by the formula (1) can be synthesized by, for example, dehydrocondensing camphorquinone and an aniline compound in the presence of an acid.
 A preferable aspect of the production method of the diimine compound represented by the formula (1) comprises a first step of dissolving camphorquinone, an aniline compound and an acid in a solvent and dehydrocondensing by heating under reflux with the solvent and
 a step of carrying out separation and purification treatments of the reaction mixture after the first step to obtain the diimine compound represented by the formula (1).
@@ -98,6 +103,7 @@ The same operation as in the above Synthesis of diimine compound (1-1) was carri
 Comparative Production Example 1
 Synthesis of Diimine Compound (3)
 The same operation as in the above Synthesis of diimine compound (1-1) was carried out except that 2,6-diisopropylaniline (FM=177) was used in place of 2-methyl-4-methoxyaniline to obtain the diimine compound (3). The peak at MS 484 was confirmed by GC-MS. The chemical structure of the diimine compound (3) is shown below.
+<img> id-US20180016367A1-20180118-C00008.TIF </img>
 Example 1
 A 660 ml autoclave equipped with an electromagnetic stirrer was thoroughly dried at 110° C. under reduced pressure in advance. Subsequently, dry toluene (80 ml) was introduced into the autoclave under a nitrogen gas stream and a temperature was adjusted to 30° C.
 The diimine compound (1-1) (26 μmol) was dissolved in 20 ml of dry toluene in a 50 ml eggplant flask under a nitrogen gas stream. Subsequently, a solution of nickel 2-ethylhexanoate in toluene (amount of nickel 2-ethylhexanoate: 26 μmol), prepared to be 12.6 mM, was introduced to an eggplant flask and stirred for 5 minutes thereby obtaining a solution (A).

@@ -5,6 +5,7 @@ Therefore, there is a need for new compounds to treat cancer, especially pancrea
 SUMMARY OF THE INVENTION
 The invention provides compounds that treat cancer, especially pancreatic cancer.
 Accordingly, the invention provides a compound of formula I:
+<img> id-US20180071258A1-20180315-C00002.TIF </img>
 wherein:
 ring A is aryl or heteroaryl;
 ring B is aryl, heteroaryl, carbocycle or heterocycle;
@@ -41,12 +42,15 @@ The phrase “effective amount” means an amount of a compound of the present i
 It will be appreciated by those skilled in the art that compounds of the invention having a chiral center may exist in and be isolated in optically active and racemic forms. Some compounds may exhibit polymorphism. It is to be understood that the present invention encompasses any racemic, optically-active, polymorphic, or stereoisomeric form, or mixtures thereof, of a compound of the invention, which possess the useful properties described herein, it being well known in the art how to prepare optically active forms (for example, by resolution of the racemic form by recrystallization techniques, by synthesis from optically-active starting materials, by chiral synthesis, or by chromatographic separation using a chiral stationary phase.
 When a bond in a compound formula herein is drawn in a non-stereochemical manner (e.g. flat), the atom to which the bond is attached includes all stereochemical possibilities. When a bond in a compound formula herein is drawn in a defined stereochemical manner (e.g. bold, bold-wedge, dashed or dashed-wedge), it is to be understood that the atom to which the stereochemical bond is attached is enriched in the absolute stereoisomer depicted unless otherwise noted. In one embodiment, the compound may be at least 51% the absolute stereoisomer depicted. In another embodiment, the compound may be at least 60% the absolute stereoisomer depicted. In another embodiment, the compound may be at least 80% the absolute stereoisomer depicted. In another embodiment, the compound may be at least 90% the absolute stereoisomer depicted. In another embodiment, the compound may be at least 95 the absolute stereoisomer depicted. In another embodiment, the compound may be at least 99% the absolute stereoisomer depicted.
 In one embodiment, the compound is a compound of formula Ia:
+<img> id-US20180071258A1-20180315-C00003.TIF </img>
 wherein G is N or CH;
 m is 0, 1, 2, or 3;
 or a pharmaceutically acceptable salt thereof.
 In one embodiment, the compound is a compound of formula Ib:
+<img> id-US20180071258A1-20180315-C00004.TIF </img>
 or a pharmaceutically acceptable salt thereof.
 In one embodiment, the compound is a compound of formula Ic:
+<img> id-US20180071258A1-20180315-C00005.TIF </img>
 wherein G is N or CH;
 m is 0, 1, 2, or 3;
 or a pharmaceutically acceptable salt thereof.
@@ -60,13 +64,17 @@ In one embodiment, each RB is independently C1-4 alkyl, C1-4 haloalkyl, halo, -O
 In one embodiment, each RB is independently CH3, -OCH3, -Cl, -CN, -NO2, or CF3.
 In one embodiment, n is 0, 1, or 2.
 In one embodiment, the group
+<img> id-US20180071258A1-20180315-C00006.TIF </img>
 is selected from the group consisting of:
+<img> id-US20180071258A1-20180315-C00007.TIF </img>
 In one embodiment, ring C is phenyl or pyridyl.
 In one embodiment, each RC is independently -N(R9)2, -NO2, -C(O)N(R9)2 or -NR9C(O)R10; wherein each R9 is independently hydrogen, C1-4 alkyl or aryl; R10 is C1-4 alkyl or aryl.
 In one embodiment, each RC is independently C(O)NH2, -C(O)NHMe, -C(O)N(Me)2, -C(O)NHEt, -C(O)NHiPr, -C(O)NHPh, -NO2, -NH2, or -NHC(O)Me.
 In one embodiment, p is 0 or 1.
 In one embodiment, the group
+<img> id-US20180071258A1-20180315-C00008.TIF </img>
 is selected from the group consisting of:
+<img> id-US20180071258A1-20180315-C00009.TIF </img><img> id-US20180071258A1-20180315-C00010.TIF </img>
 In one embodiment, L1 is -LA-NR1-LB-, -LA-NR1C(O)-LB-, or -LA-NR1SO2-LB-; wherein each R1 is independently hydrogen or C1-4 alkyl; each LA is independently absent or C1-4 alkylene; each LB is independently absent or C1-4 alkylene.
 In one embodiment, L1 is -NMeC(O)-, -NHC(O)-, -NHCH2-, or -NHSO2-.
 In one embodiment, L1 is -NHC(O)-.
@@ -76,6 +84,7 @@ In one embodiment, L2 is -CH2O-.
 In one embodiment, L3 is C1-4 alkylene.
 In one embodiment, L3 is -CH2- or -CH(CH3)-.
 In one embodiment, the invention provides a compound selected from the group consisting of:
+<img> id-US20180071258A1-20180315-C00011.TIF </img><img> id-US20180071258A1-20180315-C00012.TIF </img><img> id-US20180071258A1-20180315-C00013.TIF </img><img> id-US20180071258A1-20180315-C00014.TIF </img><img> id-US20180071258A1-20180315-C00015.TIF </img><img> id-US20180071258A1-20180315-C00016.TIF </img><img> id-US20180071258A1-20180315-C00017.TIF </img><img> id-US20180071258A1-20180315-C00018.TIF </img><img> id-US20180071258A1-20180315-C00019.TIF </img><img> id-US20180071258A1-20180315-C00020.TIF </img><img> id-US20180071258A1-20180315-C00021.TIF </img>
 or a pharmaceutically acceptable salt thereof.
 In one embodiment, the cancer is selected from pancreatic cancer, bile duct carcinoma, neuroblastoma, colon cancer, breast cancer, myeloma, gastric cancer, liver cancer, glioblastoma, ovarian cancer, colorectal cancer, non-Hodgkin lymphoma, lung cancer, prostate cancer, small-cell lung cancer, large cell lung cancer, kidney cancer, esophageal cancer, stomach cancer, cervical cancer or lymphoma tumors.
 In one embodiment, the cancer is pancreatic cancer.
@@ -85,6 +94,14 @@ The invention also provides the use of a compound of formula I or a pharmaceutic
 In one embodiment, the cancer cell is pancreatic cancer cell.
 Processes and intermediates useful for preparing compounds of formula I are provided as further embodiments of the invention and are illustrated by the following procedures in which the meanings of the generic radicals are as given above unless otherwise qualified.
 Compounds of formula I may be prepared by the process illustrated in Schemes 1-8.
+<img> id-US20180071258A1-20180315-C00022.TIF </img>
+<img> id-US20180071258A1-20180315-C00023.TIF </img>
+<img> id-US20180071258A1-20180315-C00024.TIF </img>
+<img> id-US20180071258A1-20180315-C00025.TIF </img>
+<img> id-US20180071258A1-20180315-C00026.TIF </img>
+<img> id-US20180071258A1-20180315-C00027.TIF </img>
+<img> id-US20180071258A1-20180315-C00028.TIF </img><img> id-US20180071258A1-20180315-C00029.TIF </img>
+<img> id-US20180071258A1-20180315-C00030.TIF </img>
 In cases where compounds are sufficiently basic or acidic, a salt of a compound of formula I can be useful as an intermediate for isolating or purifying a compound of formula I. Additionally, administration of a compound of formula I as a pharmaceutically acceptable acid or base salt may be appropriate. Examples of pharmaceutically acceptable salts are organic acid addition salts formed with acids which form a physiological acceptable anion, for example, tosylate, methanesulfonate, acetate, citrate, malonate, tartarate, succinate, benzoate, ascorbate, α-ketoglutarate, and α-glycerophosphate. Suitable inorganic salts may also be formed, including hydrochloride, sulfate, nitrate, bicarbonate, and carbonate salts.
 Pharmaceutically acceptable salts may be obtained using standard procedures well known in the art, for example by reacting a sufficiently basic compound such as an amine with a suitable acid affording a physiologically acceptable anion. Alkali metal (for example, sodium, potassium or lithium) or alkaline earth metal (for example calcium) salts of carboxylic acids can also be made.
 The compounds of formula I can be formulated as pharmaceutical compositions and administered to a mammalian host, such as a human patient in a variety of forms adapted to the chosen route of administration, i.e., orally or parenterally, by intravenous, intramuscular, topical or subcutaneous routes.
@@ -387,6 +404,7 @@ Measurement of cell viability was carried out using a modified method of Mosmann
 TABLE 1
 </header>
 Antiproliferative activity.
+<img> id-US20180071258A1-20180315-C00031.TIF </img>
  &  &  &  & EC50
  &  &  &  & MIA PaCa-2
 Compound & R1 & R2 & R3 & (μM)
@@ -416,28 +434,39 @@ A7c & H & H & NHC(O)Me & 2.6
 TABLE 2
 </header>
 Antiproliferative activity.
+<img> id-US20180071258A1-20180315-C00032.TIF </img>
  &  & EC50
  &  & MIA PaCa-2
 Compound & X-Y & (μM)
-B1 &  & 17
-B2 &  & 6.1
-B3 &  & 25
+B1 & <img> id-US20180071258A1-20180315-C00033.TIF </img> & 17
+B2 & <img> id-US20180071258A1-20180315-C00034.TIF </img> & 6.1
+B3 & <img> id-US20180071258A1-20180315-C00035.TIF </img> & 25
 </table>
 <table>
 <header>
 TABLE 3
 </header>
 Antiproliferative activity.
+<img> id-US20180071258A1-20180315-C00036.TIF </img>
+
+
+
+  C1-C5, C7
+<img> id-US20180071258A1-20180315-C00037.TIF </img>
+
+
+
+  C6
  &  & EC50
  &  & MIA PaCa-2
 Compound & R & (μM)
-C1 &  & 8.3
-C2 &  & 17
-C3 &  & 5.4
-C4 &  & 69
-C5 &  & 8.2
+C1 & <img> id-US20180071258A1-20180315-C00038.TIF </img> & 8.3
+C2 & <img> id-US20180071258A1-20180315-C00039.TIF </img> & 17
+C3 & <img> id-US20180071258A1-20180315-C00040.TIF </img> & 5.4
+C4 & <img> id-US20180071258A1-20180315-C00041.TIF </img> & 69
+C5 & <img> id-US20180071258A1-20180315-C00042.TIF </img> & 8.2
 C6 & NA & 32
-C7 &  & 14
+C7 & <img> id-US20180071258A1-20180315-C00043.TIF </img> & 14
 NA, not applicable.
 </table>
 <table>
@@ -445,17 +474,28 @@ NA, not applicable.
 TABLE 4
 </header>
 Antiproliferative activity.
+<img> id-US20180071258A1-20180315-C00044.TIF </img>
  &  & EC50
  &  & MIA PaCa-2
 Compound & R & (μM)
-D1 &  & 9.1
-D2 &  & 6.0
+D1 & <img> id-US20180071258A1-20180315-C00045.TIF </img> & 9.1
+D2 & <img> id-US20180071258A1-20180315-C00046.TIF </img> & 6.0
 </table>
 <table>
 <header>
 TABLE 5
 </header>
 Antiproliferative activity.
+<img> id-US20180071258A1-20180315-C00047.TIF </img>
+
+
+
+  D3a-D10
+<img> id-US20180071258A1-20180315-C00048.TIF </img>
+
+
+
+  D11-D12
  &  &  &  & EC50
  &  &  &  & (MIA PaCa-2)
 Compound & R1 & R2 & R3 & (μM)
@@ -489,62 +529,75 @@ D12 & Me & H & CF3 & 1.1
 TABLE 6
 </header>
 Antiproliferative activity.
+<img> id-US20180071258A1-20180315-C00049.TIF </img>
+
+
+
+  E1a-E4b
+<img> id-US20180071258A1-20180315-C00050.TIF </img>
+
+
+
+  E5a-b
  &  &  & MIA
  &  &  & PaCa-2
  &  &  & EC50
 Compound & R1 & R2 & (μM)
-E1a &  & H & 0.48
-E1b &  & Me & 6.3
-E2a &  & H & 0.85
-E2b &  & Me & 0.33
-E3a &  & H & 8.6
-E3b &  & Me & 7.6
-E4a &  & H & 13
-E4b &  & Me & 4.9
-E5a &  & Me & 6.7
-E5b &  & Me & 9.4
+E1a & <img> id-US20180071258A1-20180315-C00051.TIF </img> & H & 0.48
+E1b & <img> id-US20180071258A1-20180315-C00052.TIF </img> & Me & 6.3
+E2a & <img> id-US20180071258A1-20180315-C00053.TIF </img> & H & 0.85
+E2b & <img> id-US20180071258A1-20180315-C00054.TIF </img> & Me & 0.33
+E3a & <img> id-US20180071258A1-20180315-C00055.TIF </img> & H & 8.6
+E3b & <img> id-US20180071258A1-20180315-C00056.TIF </img> & Me & 7.6
+E4a & <img> id-US20180071258A1-20180315-C00057.TIF </img> & H & 13
+E4b & <img> id-US20180071258A1-20180315-C00058.TIF </img> & Me & 4.9
+E5a & <img> id-US20180071258A1-20180315-C00059.TIF </img> & Me & 6.7
+E5b & <img> id-US20180071258A1-20180315-C00060.TIF </img> & Me & 9.4
 </table>
 <table>
 <header>
 TABLE 7
 </header>
 Antiproliferative activity.
+<img> id-US20180071258A1-20180315-C00061.TIF </img>
  &  &  &  & MIA
  &  &  &  & PaCa-2
  &  &  &  & EC50
 Compound & R1 & R2 & R3 & (μM)
-E6a &  & H & H & 8.4
-E6b &  & CF3 & H & 4.6
-E6c &  & CF3 & Me & 1.2
-E7a &  & CF3 & H & 8.1
-E7b &  & CF3 & Me & 10
+E6a & <img> id-US20180071258A1-20180315-C00062.TIF </img> & H & H & 8.4
+E6b & <img> id-US20180071258A1-20180315-C00063.TIF </img> & CF3 & H & 4.6
+E6c & <img> id-US20180071258A1-20180315-C00064.TIF </img> & CF3 & Me & 1.2
+E7a & <img> id-US20180071258A1-20180315-C00065.TIF </img> & CF3 & H & 8.1
+E7b & <img> id-US20180071258A1-20180315-C00066.TIF </img> & CF3 & Me & 10
 </table>
 <table>
 <header>
 TABLE 8
 </header>
 Antiproliferative activity.
+<img> id-US20180071258A1-20180315-C00067.TIF </img>
  &  &  &  &  & MIA
  &  &  &  &  & PaCa-2
 Com- &  &  &  &  & EC50
 pound & R1 & R2 & R3 & R4 & (μM)
-F1 &  & H & H & Me & 22
-F2 &  & H & H & H & 7.7
-F3 &  & CF3 & Me & H & 2.4
-F4 &  & CF3 & Me & H & 4.0
+F1 & <img> id-US20180071258A1-20180315-C00068.TIF </img> & H & H & Me & 22
+F2 & <img> id-US20180071258A1-20180315-C00069.TIF </img> & H & H & H & 7.7
+F3 & <img> id-US20180071258A1-20180315-C00070.TIF </img> & CF3 & Me & H & 2.4
+F4 & <img> id-US20180071258A1-20180315-C00071.TIF </img> & CF3 & Me & H & 4.0
 </table>
 <table>
 <header>
 TABLE 9
 </header>
 Antiproliferative activity.
+<img> id-US20180071258A1-20180315-C00072.TIF </img>
  &  & MIA
  &  & PaCa-2
  &  & EC50
 Compound & R & (μM)
-G1 &  & >100
-G2 &  & 24
-G3 &  & 99
+G1 & <img> id-US20180071258A1-20180315-C00073.TIF </img> & >100
+G2 & <img> id-US20180071258A1-20180315-C00074.TIF </img> & 24
+G3 & <img> id-US20180071258A1-20180315-C00075.TIF </img> & 99
 </table>
 Example 80. Cell Viability Assay in Panc-1 Cells
 Panc-1 cells are maintained in RPMI 1640 (Invitrogen 11875) media supplemented with 10% FBS, 1% Penicillin/Streptomycin and 1% Glutamax-1. Cells were plated in 96-well plates at 25×104 cells/ml. After 24 hours, compounds were added at 9, 3× dilutions in triplicate from 100 uM final concentration in the appropriate growth media. Plates were incubated for 72 hours at 37° C. in a 5% CO2/95% air humidified atmosphere after which time the media was removed and MTT was added in RPMI phenol red free media. The MTT was removed after 3 hours and formazan crystals were solubilized with 200 μL of isopropanol. Plates were read on a Molecular Devices SpectraMax i3 spectrophotometer at 570 nm for formazan and 690 nm for background subtraction. EC50 values were calculated by fitting the data in GraphPad Prism software. Data for representative compounds is provided in Table 10.

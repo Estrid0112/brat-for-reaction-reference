@@ -38,11 +38,16 @@ The clay stabilizers of the present disclosure are permanent but possess a low m
 <in-line-formulae>HC(RNR1R2R7)(R'NR3R4R8)(R″NR5R6R9)Xn  (II)</in-line-formulae>
 where the R, R', and R″ groups are the same or different that are hydrocarbyl linking groups having between 1 and 8 carbon atoms, when the R, R', and R″ groups include 2 to 8 carbon atoms, then one or more carbon atoms may be replaced by oxygen atoms, acetate groups, or carbonyl groups, where the R1-6 groups are the same or different and are hydrogen atoms or hydrocarbyl groups including from 1 to 6 carbon atoms, when the R1-6 groups include 2 to 6 carbon atoms, then one or more carbon atoms may be replaced by oxygen atoms, acetate groups, or carbonyl groups, where the R7-9 groups are the same or different and are absent, a hydrogen atom, or a hydrocarbyl group including from 1 to 6 carbon atoms; provided, however, that at least one of the R7-9 groups is a hydrogen atom or a hydrocarbyl group, when the R7-9 groups include 2 to 6 carbon atoms, then one or more carbon atoms may be replaced by oxygen atoms, acetate groups, or carbonyl groups, and where the X groups are the same or different and each of the X groups is a halide ion, a formate ion, an acetate ion, a phosphate ion, a fumarate ion, a sulfate ion, a hydrogensulfate ion, alkylsulfate ion, a citrate ion, an oxalate ion, or mixtures thereof, and where n is an integer having a value between 1 and 3. In certain embodiments, the R, R', and R″ groups are the same or different and are linear alkyl linking groups having between 1 and 8 carbon atoms of the formula -(CH2)m-, where m is an integer having a value between 2 and 8. In other embodiments, the R group is a linear alkyl group having between 1 and 3 carbon atoms, the R' group is linear alkyl group having between 2 and 4 carbon atoms, and the R″ group is linear alkyl linking groups having between 3 and 5 carbon atoms.
 In other embodiments, the clay stabilizer compositions include one or more derivatized compounds of triaminononane (TAN) (4-aminomethyl-1,8-octanediamine). TAN is a tri-functional primary amine of Formula III:
+<img> id-US20180118999A1-20180503-C00001.TIF </img>
 In other embodiments, the clay stabilizer compositions include one or more quaternary amines of Formula IV:
+<img> id-US20180118999A1-20180503-C00002.TIF </img>
 where X− is as defined above. These salts are analogous to the more commonly used clay stabilizing salts (e.g., potassium chloride, tetramethylammonium chloride, choline chloride, etc.), but differ in that the tri-functionality of TAN allows these quaternized compounds to bind more strongly to swelling clays.
 In other embodiments, the clay stabilizer compositions include one or more alkylated TANs of Formula V such as methylated TANs:
+<img> id-US20180118999A1-20180503-C00003.TIF </img>
 followed by quaternization using strong acids to form compounds of Formula VI:
+<img> id-US20180118999A1-20180503-C00004.TIF </img>
 or followed by quaternization using strong alkylating agents to form compounds of Formula VII:
+<img> id-US20180118999A1-20180503-C00005.TIF </img>
 where the R1-6 groups, the R7-9 groups, the X groups, and n are as set forth above.
 Suitable Reagents
 Amines, Alkanol Amines, and Alkylene Ether Amines
@@ -251,6 +256,6 @@ Coreflood Experiments
 Experimental Steps
 The coreflood experiments were carried out using the following steps:1. Cores were dried in the oven at 250° F. for at least 5 hours. The weight of the dry cores is measured.2. The cores were saturated with 2 wt. % KCl brine under vacuum for 4 hours and then weighed again. The pore volume was calculated from the difference in weights.3. Initial permeability was measured using brine when the differential pressure stabilizes at different flow rates.4. Brine was injected into the core until the pressure drop stabilizes at 200° F.5. Two PV of the clay stabilizer treatment was injected through the core, followed by DI water.6. The permeability of each core was compared before and after clay stabilizer treatment.
 The improvement factor is expressed as a ratio of effective gas permeability after the clay stabilizer treatment to the effective gas permeability before the clay stabilizer treatment and is given by the formula:
-ImprovementFactor=KfKi
+<img> id-US20180118999A1-20180503-M00001.TIF </img>ImprovementFactor=KfKi
 where Kf is the final core gas permeability after treatment and Ki is the initial (untreated) core gas permeability.
 All references cited herein are incorporated by reference. Although the disclosure has been disclosed with reference to its preferred embodiments, from reading this description those of skill in the art may appreciate changes and modification that may be made which do not depart from the scope and spirit of the disclosure as described above and claimed hereafter.

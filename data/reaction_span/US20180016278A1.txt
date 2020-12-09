@@ -59,6 +59,7 @@ The novel properties appear linked to a family of molecules having precise chara
 Thus, to remedy the disadvantages of the state of the art, the present invention proposes novel imidazo[1,2-α]quinoxaline derivative compounds for the treatment of cancers without specific distinction of the location of the tumor or tumors. These compounds may be used for the preparation of medicinal products for treating cancers.
 SUMMARY OF THE INVENTION
 The present invention relates to a compound of the general formula (I):
+<img> id-US20180016278A1-20180118-C00002.TIF </img>
 wherein:
 the various R1 independently represent a hydrogen or halogen atom or a group selected from hydroxy, C1-C4 alkyl, C1-C4 alkoxy, amino, C1-C4 alkylamino, C1C4 dialkylamino, cyano, -CF3, -OCF3, -(CH2)nNR4R5, -NH-(CH2)nNR4R5, -(CH2)nCOR4, -(CH2)nCO-NR4R5, -(CH2)nSO2-NR4R5, and -(CH2)nCO2R4 groups; (CH2),,S02NR4R5, and (CH2),CO2R4 groups;
 R2 represents a hydrogen atom or a group selected from hydroxy and C1-C2 alkyl groups, preferably a hydrogen atom;
@@ -72,6 +73,7 @@ R3 is preferably a halogen or a group selected from amino, particularly methylam
 The amino acid may be any natural amino acid, any nonnatural amino acid or any amino acid the side chain of which is modified. Advantageously, the amino acid may be selected from the group consisting of Gly, Ala, Val, Leu, Phe, Tyr, Ser, Lys, Orn, Arg, Glu, His, Trp, Pro, Thr, Cys, Met, Asn and Gln.
 The present invention further relates to a method for manufacturing a compound of the invention characterized in that said method comprises:
 a step of coupling the compound of the formula (V):
+<img> id-US20180016278A1-20180118-C00003.TIF </img>
 wherein R1, R3 and p are as defined above; and
 R9 is a halogen atom;
 with a suitable arylboronic acid (e.g. of type [Ph(Ra,Rb,Rc)-B(OH)2]), variously meta- and/or parasubstituted by Ra, Rb and/or Rc groups as defined herein, under Suzuki conditions; and
@@ -113,10 +115,12 @@ Preferably, Ra is selected from H, hydroxy and methoxy.
 Preferably, Rb is selected from H, hydroxy and methoxy.
 Preferably, Rc is selected from H, hydroxy and methoxy.
 The present invention particularly relates to a compound characterized in that it has the formula (II):
+<img> id-US20180016278A1-20180118-C00004.TIF </img>
 wherein the various R1, R2, R3, Ra, Rb, Rc and p groups are as defined above, or a pharmaceutically acceptable salt thereof.
 More particularly, the present invention relates to a compound having the formula (I) or (II) characterized in that:
 Ra, Rb and Rc independently represent a hydrogen atom or a group selected from hydroxy or C1-C4 alkoxy groups, preferably a hydrogen atom or a hydroxy group, or a pharmaceutically acceptable salt thereof.
 An aspect of the present invention relates to a compound characterized in that it has the formula (III):
+<img> id-US20180016278A1-20180118-C00005.TIF </img>
 wherein the various R2, R3, Ra, Rb and Rc groups are as defined above, R6, R7 and R8 independently represent a hydrogen or halogen atom or a group selected from hydroxy, C1-C4 alkyl, C1-C4 alkoxy, amino, C1-C4 alkylamino, C1-C4 dialkylamino, cyano, CF3, OCF3, -(CH2)nNR4R5,-NH-(CH2)nNR4R5, -(CH2)nCOR4, -(CH2) nCO-NR4R5, -(CH2),SO2-NR4R5, and -(CH2)nCO2R4 groups;
 n being 0, 1, 2, 3 or 4, preferably n being 0; and
 the various R4 and R5 independently represent a hydrogen atom or a C1-C4 alkyl group, preferably linear or branched;
@@ -125,6 +129,7 @@ Advantageously, the compound of the formula (III) is characterized in that:
 R6, R7 and R8 independently represent a hydrogen or halogen atom or a group selected from hydroxy, C1-C4 alkyl, C1-C4 alkoxy, OCF3, preferably hydrogen, methoxy, OCF3 or methyl groups;
 or a pharmaceutically acceptable salt thereof.
 In a particular embodiment, the present invention relates to a compound characterized in that it has the formula (IV):
+<img> id-US20180016278A1-20180118-C00006.TIF </img>
 wherein the various R2, R3, Ra, Rb and Rc groups are as defined above; or a pharmaceutically acceptable salt thereof. In a particular embodiment, the invention is directed at a compound according to (I) or (II) wherein
 R1=H
 R2=H
@@ -147,8 +152,10 @@ EXAMPLES
 The following examples in no way limit the subjectmatter of the present invention and are provided for purposes of illustrating the present invention.
 General Synthesis of Imidazo[1,2-a]quinoxaline Compounds
 Imidazoquinoxaline derivatives unsubstituted at the 1-position are synthesized according to a synthesis strategy described previously (Moarbess et al. 2008 Bioorganic & Medicinal Chemistry 16, 6601-6610; Masquefa et al. 2009 European Journal of Medicinal Chemistry 44, 3406-3411). The advantage of this synthesis scheme is direct production of imidazoquinoxaline-structured compounds with no intermediate or final purification. This synthesis strategy makes it possible to obtain the compound 3 with good yields and sufficient purity to continue the synthesis (scheme 1). The production of derivatives substituted at the 4-position by a chlorine atom or an amine function may benefit from microwave assistance, although conventional heating is always an option. The use of microwaves makes it possible to decrease reaction times and to optimize reaction yields. The Suzukitype crosscoupling reaction may also be carried out under microwave assistance and makes it possible to obtain a great diversity of new derivatives substituted at the 1position of the heterocycle. The retrosynthesis scheme 1 illustrates the cyclization method preferably used to obtain a carbonylimidazol dimer 1 by bimolecular condensation of 2imidazol carboxylic acid. The carbonylimidazol dimer 1 is coupled to an orthofluoroaniline to give an intermediate 2, which is then cyclized to provide the tricyclic compounds 3. Chlorinated compounds are obtained by reaction of phosphorus oxychloride in the presence of N,N-diethylaniline in a sealed flask under microwave assistance then purified by liquid chromatography on silica gel column.
+<img> id-US20180016278A1-20180118-C00007.TIF </img>
 Schema 1. Retrosynthesis of intermediate chlorinated imidazoquinoxaline compounds.
 The chlorine atom at the 4-position is substituted by a suitable group (R3). The compounds thus substituted at the 4-position of the heterocycle are treated with N-bromosuccinimide under microwave assistance to obtain the new derivatives substituted at the 1- or 2- position by a bromine atom.
+<img> id-US20180016278A1-20180118-C00008.TIF </img>
 Schema 2: Synthesis of imiqualine derivatives: a) EtOH, ammonia or suitable amine, MW (150° C., 20 min); (b) NBS, CHCI3, reflux, 1 h30 min; c) suitable arylboronic acid ([Ph(Ra,Rb,Rc)]-B(OH)2), Pd(PPh3)4, Na2CO3, DME/H2O (2/1), MW (140° C., 20 min); d) BBr3, CH2Cl2, 1 h30 min, RT.
 The arylboronic acids are coupled by Suzuki reaction under palladium catalysis with the brominated imidazoquinoxaline derivatives at the 1- or 2- position to obtain the substituted aryl compounds with good yields. If methoxylated aryl compounds are used for this coupling step, demethylation can be used to regenerate the phenol functions under the action of boron tribromide.
 EXPERIMENTAL SECTION
@@ -368,30 +375,30 @@ TABLE 4
 </header>
 Summarized results 2
 Compounds & Structure & IC50 (nM)
-CPA 8 &  & 2354
-EAPB 02303 &  & <3
-EAPB 02211 &  & >10000
-EAPB 02212 &  & >10000
-EAPB 02306 &  & 1284
-EAPB 02307 &  & 5694
-EAPB 02306s &  & 1704
-EAPB 02213 &  & >10000
-EAPB 02214 &  & >10000
-EAPB 02203-7b &  & 3493
-EAPB 02303-7b &  & 199
-EAPB 02303-7c &  & 6388
-EAPB 02310 &  & >10000
-EAPB0 2308 &  & >10000
-EAPB 02303-7a &  & 6909
-EAPB 02309 &  & 5588
-EAPB 02203-8a &  & >10000
-EAPB 02303-8b &  & >10000
-EAPB 02303-8a &  & >10000
-EAPB 02220 &  & >10000
-EAPB 02218 &  & >10000
-EAPB 02222 &  & >10000
-PED 26 &  & >10000
-EAPB 02203 &  & 193
+CPA 8 & <img> id-US20180016278A1-20180118-C00009.TIF </img> & 2354
+EAPB 02303 & <img> id-US20180016278A1-20180118-C00010.TIF </img> & <3
+EAPB 02211 & <img> id-US20180016278A1-20180118-C00011.TIF </img> & >10000
+EAPB 02212 & <img> id-US20180016278A1-20180118-C00012.TIF </img> & >10000
+EAPB 02306 & <img> id-US20180016278A1-20180118-C00013.TIF </img> & 1284
+EAPB 02307 & <img> id-US20180016278A1-20180118-C00014.TIF </img> & 5694
+EAPB 02306s & <img> id-US20180016278A1-20180118-C00015.TIF </img> & 1704
+EAPB 02213 & <img> id-US20180016278A1-20180118-C00016.TIF </img> & >10000
+EAPB 02214 & <img> id-US20180016278A1-20180118-C00017.TIF </img> & >10000
+EAPB 02203-7b & <img> id-US20180016278A1-20180118-C00018.TIF </img> & 3493
+EAPB 02303-7b & <img> id-US20180016278A1-20180118-C00019.TIF </img> & 199
+EAPB 02303-7c & <img> id-US20180016278A1-20180118-C00020.TIF </img> & 6388
+EAPB 02310 & <img> id-US20180016278A1-20180118-C00021.TIF </img> & >10000
+EAPB0 2308 & <img> id-US20180016278A1-20180118-C00022.TIF </img> & >10000
+EAPB 02303-7a & <img> id-US20180016278A1-20180118-C00023.TIF </img> & 6909
+EAPB 02309 & <img> id-US20180016278A1-20180118-C00024.TIF </img> & 5588
+EAPB 02203-8a & <img> id-US20180016278A1-20180118-C00025.TIF </img> & >10000
+EAPB 02303-8b & <img> id-US20180016278A1-20180118-C00026.TIF </img> & >10000
+EAPB 02303-8a & <img> id-US20180016278A1-20180118-C00027.TIF </img> & >10000
+EAPB 02220 & <img> id-US20180016278A1-20180118-C00028.TIF </img> & >10000
+EAPB 02218 & <img> id-US20180016278A1-20180118-C00029.TIF </img> & >10000
+EAPB 02222 & <img> id-US20180016278A1-20180118-C00030.TIF </img> & >10000
+PED 26 & <img> id-US20180016278A1-20180118-C00031.TIF </img> & >10000
+EAPB 02203 & <img> id-US20180016278A1-20180118-C00032.TIF </img> & 193
 </table>
 The EC50 values (concentration causing 50% inhibition of the specific activity of the control) are determined by nonlinear regression analysis of the inhibition curve produced by the average of the replicated values (use of a sigmoidal doseresponse curve with the Hill slope as variable and the constant values of 0.0 for the base and 100.0 for the peak as constraints). The analysis is carried out by using the GraphPad PRISM 5.0 software.
 Materials and methods Day 1: the cells are seeded one day before treatment with the compounds in 96well plates. Cell suspensions for each cancer cell line are prepared with a specific density in a specific culture medium (see preceding table). Next, 1004 of cell suspension is distributed per well (1 x 96well plate per cell line).

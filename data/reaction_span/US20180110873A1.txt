@@ -3,11 +3,17 @@ This specification discloses, inter alia, drug compounds that inhibit cell proli
 Double helical DNA has two longitudinal spiral grooves running along its exterior, much like the stripes on a barbershop pole. The two grooves are not identical: one, called the major groove, is much wider than the other, called the minor groove.
 The width of the minor groove is approximately equal to the thickness of a benzene ring. Many biologically active DNA-binding molecules-whether synthetic or naturally occurring-are substantially planar polyaromatic molecules having an arcuate footprint, such shape enabling them to fit snugly into the minor groove. For short, a DNA minor groove binding molecule is referred to herein as an MGB, or minor groove binder.
 One type of MGB is a dimer of two polyaromatic units, each comprising a benzodiazepine and a tetrahydroisoquinoline (“THIQ”) ring system, as shown by the representative structure below. Such MGBs are disclosed in Zhang et al. 2016, McDonald et al. 2016, and Junutula et al. 2016.
+<img> id-US20180110873A1-20180426-C00002.TIF </img>
 Another type of MGB is also a dimer of two polyaromatic units, but in this instance comprising a pyrrolobenzodiazepine (“PBD”) ring system, as illustrated by the structure below. Bose et al. 1992 and Thurston et al. 1993 are exemplary publications disclosing such MGBs.
+<img> id-US20180110873A1-20180426-C00003.TIF </img>
 Yet another type of MGB is represented by the natural products distamycin and netropsin, comprising aminopyrrolecarboxylic acid moieties linked by amide bonds:
+<img> id-US20180110873A1-20180426-C00004.TIF </img>
 Still yet another type of MGB is represented by the natural products duocarmycin SA and yatakemycin, which have a characteristic cyclopropapyrroloindole (“CPI”) subunit and are therefore often referred to as CPI compounds. Members in this class include their seco (ring-opened) counterparts.
+<img> id-US20180110873A1-20180426-C00005.TIF </img>
 There exist a number of disclosures of synthetic compounds combining structural features from different types of MGBs. Rahman et al. 2013 disclose compounds combining a PBD moiety and a distamycin-like moiety, such as:
+<img> id-US20180110873A1-20180426-C00006.TIF </img>
 Zhang et al. 2016 and Junutula et al. 2016 disclose MGB heterodimers comprising one THIQ containing unit and one PBD unit. An illustrative structure is shown below.
+<img> id-US20180110873A1-20180426-C00007.TIF </img>
 Yet other disclosures of compounds combining different MGB moieties include: Ahmed et al. 2012; Baraldi et al. 1998 and 1999; Demayanthi et al. 1999; Kumar and Lown 2002 and 2003; Kumar et al. 2002 and 2005; Reddy et al. 2000; Tercel et al. 2003; Thurston et al. 2016; and Wells et al. 2006.
 The biological activity of MGBs derives from their ability to bind to DNA and disrupt its transcription and, in some instances, chemically react with DNA and damage it. Consequently, many MGBs are highly cytotoxic. There is interest in the use of MGBs for the treatment of cancer, as their cytotoxicity can make them effective in killing cancer cells.
 A type of anticancer agent that is generating strong interest is a conjugate, in which a drug is attached to a targeting agent that binds to a ligand on the cancer cell. The targeting agent, by binding to its ligand, directs the drug to the cancer cell, where it is released by one of several mechanisms, to act on the cancer cell.
@@ -18,9 +24,10 @@ Full citations for the documents cited herein by first author or inventor and ye
 BRIEF SUMMARY OF THE INVENTION
 There is provided a heterodimeric compounds comprising a benzodiazepine-containing moiety in one half and an aromatic polyamide moiety in the other half. Such compounds are biologically active, inhibiting the proliferation of cells (especially cancer cells), and can be used as anticancer agents, particularly as the drug component in an ADC. Without being bound by theory, it is believed that such heterodimeric compounds function like MGBs and derive their biological activity from an ability to bind to DNA and/or damage it chemically.
 In one aspect, there is provided a compound having a structure represented by formula (I)
-whereineach G is C or N, with the proviso that no more than two Gs are N (preferably each G is C);R2 is H or C1-C5 alkyl;R3 and R4 are independently H, F, Cl, Br, OH, C1-C3 alkyl, O(C1-C3 alkyl), cyano, (CH2)0-5NH2, or NO2;the double line  in the diazepine ring system represents a single bond or a double bond;R5 is H if the double line  is a single bond and is absent if the double line  is a double bond;R6 is H, OH, SO3Na, or SO3K if the double line  is a single bond and is absent if the double line  is a double bond;R7, R8, R9, and R10 are independently H, C1-C5 alkyl, C≡C(CH2)1-5X2, OH, O(C1-C5 alkyl), cyano, NO2, F, Cl, Br, O(CH2CH2O)1-8(C1-3 alkyl), (CH2)0-5X2, O(CH2)2-5X2, 3- to 7-membered cycloalkyl or heterocycloalkyl unsubstituted or substituted with (CH2)0-5X2 or O(CH2)2-5X2, phenyl unsubstituted or substituted with (CH2)0-5X2 or O(CH2)2-5X2, 5- to 6-membered heteroaryl unsubstituted or substituted with (CH2)0-5X2 or O(CH2)2-5X2,
-or where a R7, R8, R9, or R10 is attached to a G that is N, such R7, R8, R9, or R10 is absent;each X2 is independently H, F, Cl, Br, OH, O(C1-C3 alkyl), O(C1-C3 alkylene), CO2H, N3, CN, NO2, CO2(C1-C3 alkyl), NH2, NH(C1-C5 alkyl), N(C1-C5 alkyl)2, SH, CHO, N(CH2CH2)2N(C1-C3 alkyl), NHNH2, or C(═O)NHNH2;each Y is independently CH2, C═O, or CHR12; wherein each R12 is independently F, Cl, Br, or C1-C3 alkyl;n is 2, 3, 4, 5, or 6;X20 and X21 are independently
-wherein R20 is H or C1-C3 alkyl and R21 is O, NH, or N(C1-C3 alkyl);Ar1 is (i) a phenyl moiety, (ii) a 5- or 6-membered heteroaromatic moiety, or (iii) a polycyclic aromatic moiety comprising a phenyl or 6-membered heteroaromatic ring fused to a phenyl ring or a 5- or 6-membered heteroaromatic ring; each phenyl, heteroaromatic, or polycyclic aromatic moiety being optionally substituted with one or more of C1-C6 alkyl (especially Me), Cl, or F; andW is (a) C1-C6 alkyl or C3-C6 cycloalkyl or (b) an aromatic moiety comprising one to three (i) phenyl or (ii) 5- or 6-membered heteroaromatic rings, which phenyl or 5- or 6-membered heteroaromatic rings are optionally substituted with one or more of C1-C3 alkyl, OH, Cl, F, CH2F, CHF2, CF3, O(C1-C3 alkyl), O(CH2)2-4OH, O(CH2)0-2CHF2, C(═O)(C1-C3 alkyl), C(═O)O(C1-C3 alkyl), C(═O)NH2, C(═O)NH(C1-C3 alkyl), C(═O)N(C1-C3 alkyl)2, O(C2-C4 alkenyl), NH2, NH(C1-C3 alkyl), N(C1-C3 alkyl)2, O(CH2)0-2C6H5, CN, or NO2; wherein, if more than one phenyl or 5- or 6-membered heteroaromatic ring is present, such rings are fused to each other or joined by an aryl-aryl bond;or a pharmaceutically acceptable salt thereof.
+<img> id-US20180110873A1-20180426-C00008.TIF </img>
+whereineach G is C or N, with the proviso that no more than two Gs are N (preferably each G is C);R2 is H or C1-C5 alkyl;R3 and R4 are independently H, F, Cl, Br, OH, C1-C3 alkyl, O(C1-C3 alkyl), cyano, (CH2)0-5NH2, or NO2;the double line <img> id-US20180110873A1-20180426-P00001.TIF </img> in the diazepine ring system represents a single bond or a double bond; in the diazepine ring system represents a single bond or a double bond;R5 is H if the double line <img> id-US20180110873A1-20180426-P00001.TIF </img> is a single bond and is absent if the double line <img> id-US20180110873A1-20180426-P00001.TIF </img> is a double bond; is a single bond and is absent if the double line  is a double bond;R6 is H, OH, SO3Na, or SO3K if the double line <img> id-US20180110873A1-20180426-P00001.TIF </img> is a single bond and is absent if the double line <img> id-US20180110873A1-20180426-P00001.TIF </img> is a double bond; is a single bond and is absent if the double line  is a double bond;R7, R8, R9, and R10 are independently H, C1-C5 alkyl, C≡C(CH2)1-5X2, OH, O(C1-C5 alkyl), cyano, NO2, F, Cl, Br, O(CH2CH2O)1-8(C1-3 alkyl), (CH2)0-5X2, O(CH2)2-5X2, 3- to 7-membered cycloalkyl or heterocycloalkyl unsubstituted or substituted with (CH2)0-5X2 or O(CH2)2-5X2, phenyl unsubstituted or substituted with (CH2)0-5X2 or O(CH2)2-5X2, 5- to 6-membered heteroaryl unsubstituted or substituted with (CH2)0-5X2 or O(CH2)2-5X2,
+<img> id-US20180110873A1-20180426-C00009.TIF </img>or where a R7, R8, R9, or R10 is attached to a G that is N, such R7, R8, R9, or R10 is absent;each X2 is independently H, F, Cl, Br, OH, O(C1-C3 alkyl), O(C1-C3 alkylene), CO2H, N3, CN, NO2, CO2(C1-C3 alkyl), NH2, NH(C1-C5 alkyl), N(C1-C5 alkyl)2, SH, CHO, N(CH2CH2)2N(C1-C3 alkyl), NHNH2, or C(═O)NHNH2;each Y is independently CH2, C═O, or CHR12; wherein each R12 is independently F, Cl, Br, or C1-C3 alkyl;n is 2, 3, 4, 5, or 6;X20 and X21 are independently
+<img> id-US20180110873A1-20180426-C00010.TIF </img>wherein R20 is H or C1-C3 alkyl and R21 is O, NH, or N(C1-C3 alkyl);Ar1 is (i) a phenyl moiety, (ii) a 5- or 6-membered heteroaromatic moiety, or (iii) a polycyclic aromatic moiety comprising a phenyl or 6-membered heteroaromatic ring fused to a phenyl ring or a 5- or 6-membered heteroaromatic ring; each phenyl, heteroaromatic, or polycyclic aromatic moiety being optionally substituted with one or more of C1-C6 alkyl (especially Me), Cl, or F; andW is (a) C1-C6 alkyl or C3-C6 cycloalkyl or (b) an aromatic moiety comprising one to three (i) phenyl or (ii) 5- or 6-membered heteroaromatic rings, which phenyl or 5- or 6-membered heteroaromatic rings are optionally substituted with one or more of C1-C3 alkyl, OH, Cl, F, CH2F, CHF2, CF3, O(C1-C3 alkyl), O(CH2)2-4OH, O(CH2)0-2CHF2, C(═O)(C1-C3 alkyl), C(═O)O(C1-C3 alkyl), C(═O)NH2, C(═O)NH(C1-C3 alkyl), C(═O)N(C1-C3 alkyl)2, O(C2-C4 alkenyl), NH2, NH(C1-C3 alkyl), N(C1-C3 alkyl)2, O(CH2)0-2C6H5, CN, or NO2; wherein, if more than one phenyl or 5- or 6-membered heteroaromatic ring is present, such rings are fused to each other or joined by an aryl-aryl bond;or a pharmaceutically acceptable salt thereof.
 In another aspect, there is provided a compound according to formula (I) having attached to it a linker having a functional group suitable for forming a bond with a targeting moiety, in particular an antibody.
 In yet another aspect, there is provided a compound according to formula (I) conjugated to a targeting agent, especially an antibody.
 In yet another aspect, there is provided a method of treating a cancer in a subject suffering from such cancer, comprising administering to the subject a therapeutically effective amount of a compound according to formula (I) or a conjugate thereof with a targeting agent, especially an antibody. Especially, the cancer so treated can be colon cancer, stomach cancer, ovarian cancer, or mesothelioma.
@@ -52,16 +59,24 @@ Unless particular stereoisomers are specifically indicated (e.g., by a bolded or
 Those skilled in the art will appreciate that compounds may have tautomeric forms (e.g., keto and enol forms), resonance forms, and zwitterionic forms that are equivalent to those depicted in the structural formulae used herein and that the structural formulae encompass such tautomeric, resonance, or zwitterionic forms.
 “Pharmaceutically acceptable ester” means an ester that hydrolyzes in vivo (for example in the human body) to produce the parent compound or a salt thereof or has per se activity similar to that of the parent compound. Suitable esters include C1-C5 alkyl, C2-C5 alkenyl or C2-C5 alkynyl esters, especially methyl, ethyl or n-propyl.
 “Pharmaceutically acceptable salt” means a salt of a compound suitable for pharmaceutical formulation. Where a compound has one or more basic groups, the salt can be an acid addition salt, such as a sulfate, hydrobromide, tartrate, mesylate, maleate, citrate, phosphate, acetate, pamoate (embonate), hydroiodide, nitrate, hydrochloride, lactate, methylsulfate, fumarate, benzoate, succinate, mesylate, lactobionate, suberate, tosylate, and the like. Where a compound has one or more acidic groups, the salt can be a salt such as a calcium salt, potassium salt, magnesium salt, meglumine salt, ammonium salt, zinc salt, piperazine salt, tromethamine salt, lithium salt, choline salt, diethylamine salt, 4-phenylcyclohexylamine salt, benzathine salt, sodium salt, tetramethylammonium salt, and the like. Polymorphic crystalline forms and solvates are also encompassed within the scope of this invention.
-In the formulae of this specification, a wavy line () transverse to a bond or an asterisk (*) at the end of the bond denotes a covalent attachment site. For instance, a statement that R is
+In the formulae of this specification, a wavy line (<img> id-US20180110873A1-20180426-P00002.TIF </img>) transverse to a bond or an asterisk (*) at the end of the bond denotes a covalent attachment site. For instance, a statement that R is) transverse to a bond or an asterisk (*) at the end of the bond denotes a covalent attachment site. For instance, a statement that R is
+<img> id-US20180110873A1-20180426-C00011.TIF </img>
 or that R is
+<img> id-US20180110873A1-20180426-C00012.TIF </img>
 in the formula
+<img> id-US20180110873A1-20180426-C00013.TIF </img>
 means
+<img> id-US20180110873A1-20180426-C00014.TIF </img>
 In the formulae of this specification, a bond traversing an aromatic ring between two carbons thereof means that the group attached to the bond may be located at any of the available positions of the aromatic ring. By way of illustration, the formula
+<img> id-US20180110873A1-20180426-C00015.TIF </img>
 represents
+<img> id-US20180110873A1-20180426-C00016.TIF </img>
 Compounds
 In a preferred embodiment, compounds disclosed herein have a structure according to formula (Ia):
+<img> id-US20180110873A1-20180426-C00017.TIF </img>
 where R7, R8, R9, R10, n, X20, Ar1, X21, and W are as defined in respect of formula (I) in the BRIEF SUMMARY OF THE INVENTION section hereinabove.
 A more preferred compound according to formula (I) has a structure represented by formula (Ib)
+<img> id-US20180110873A1-20180426-C00018.TIF </img>
 Examples of compounds according to formula (Ib) are shown in Table I below.
 <table>
 <header>
@@ -71,76 +86,76 @@ TABLE I
 
 </header>
 <header>
-Compound & n &  & W
+Compound & n & <img> id-US20180110873A1-20180426-C00019.TIF </img> & W
 </header>
 <header>
 
 </header>
-(Ib-01) & 3 &  & 
-(Ib-02) & 3 &  & 
-(Ib-03) & 3 &  & 
-(Ib-04) & 3 &  & 
-(Ib-05) & 3 &  & 
-(Ib-06) & 3 &  & 
-(Ib-07) & 3 &  & 
-(Ib-08) & 3 &  & 
-(Ib-09) & 3 &  & 
-(Ib-10 & 3 &  & 
-(Ib-11) & 3 &  & 
-(Ib-12) & 3 &  & 
-(Ib-13) & 3 &  & 
-(Ib-14) & 3 &  & 
-(Ib-15) & 3 &  & 
-(Ib-16) & 3 &  & 
-(Ib-17) & 3 &  & 
-(Ib-18) & 3 &  & 
-(Ib-19) & 3 &  & 
-(Ib-20) & 3 &  & 
-(Ib-21) & 3 &  & 
-(Ib-22) & 3 &  & 
-(Ib-23) & 3 &  & 
-(Ib-24) & 3 &  & 
-(Ib-25) & 3 &  & 
-(Ib-26) & 3 &  & 
-(Ib-27) & 3 &  & 
-(Ib-28) & 3 &  & 
-(Ib-29) & 3 &  & 
-(Ib-30) & 3 &  & 
-(Ib-31) & 3 &  & 
-(Ib-32) & 3 &  & 
-(Ib-33) & 3 &  & 
-(Ib-34) & 3 &  & 
-(Ib-35) & 3 &  & 
-(Ib-36) & 3 &  & 
-(Ib-37) & 3 &  & 
-(Ib-38) & 3 &  & Me
-(Ib-39) & 3 &  & 
-(Ib-40) & 3 &  & 
-(Ib-41) & 3 &  & 
-(Ib-42) & 3 &  & 
-(Ib-43) & 3 &  & 
-(Ib-44) & 3 &  & 
-(Ib-45) & 3 &  & 
-(Ib-46) & 3 &  & 
-(Ib-47) & 3 &  & 
-(Ib-48) & 3 &  & 
-(Ib-49) & 3 &  & 
-(Ib-50) & 3 &  & 
-(Ib-51) & 3 &  & 
-(Ib-52) & 3 &  & 
-(Ib-53) & 3 &  & 
-(Ib-54) & 3 &  & 
-(Ib-55) & 3 &  & 
-(Ib-56) & 3 &  & 
-(Ib-57) & 3 &  & 
-(Ib-58) & 3 &  & 
-(Ib-59) & 3 &  & 
-(Ib-60) & 3 &  & 
-(Ib-61) & 3 &  & 
-(Ib-62) & 3 &  & 
-(Ib-63) & 3 &  & 
-(Ib-64) & 3 &  & 
-(Ib-65) & 3 &  & 
+(Ib-01) & 3 & <img> id-US20180110873A1-20180426-C00020.TIF </img> & <img> id-US20180110873A1-20180426-C00021.TIF </img>
+(Ib-02) & 3 & <img> id-US20180110873A1-20180426-C00022.TIF </img> & <img> id-US20180110873A1-20180426-C00023.TIF </img>
+(Ib-03) & 3 & <img> id-US20180110873A1-20180426-C00024.TIF </img> & <img> id-US20180110873A1-20180426-C00025.TIF </img>
+(Ib-04) & 3 & <img> id-US20180110873A1-20180426-C00026.TIF </img> & <img> id-US20180110873A1-20180426-C00027.TIF </img>
+(Ib-05) & 3 & <img> id-US20180110873A1-20180426-C00028.TIF </img> & <img> id-US20180110873A1-20180426-C00029.TIF </img>
+(Ib-06) & 3 & <img> id-US20180110873A1-20180426-C00030.TIF </img> & <img> id-US20180110873A1-20180426-C00031.TIF </img>
+(Ib-07) & 3 & <img> id-US20180110873A1-20180426-C00032.TIF </img> & <img> id-US20180110873A1-20180426-C00033.TIF </img>
+(Ib-08) & 3 & <img> id-US20180110873A1-20180426-C00034.TIF </img> & <img> id-US20180110873A1-20180426-C00035.TIF </img>
+(Ib-09) & 3 & <img> id-US20180110873A1-20180426-C00036.TIF </img> & <img> id-US20180110873A1-20180426-C00037.TIF </img>
+(Ib-10 & 3 & <img> id-US20180110873A1-20180426-C00038.TIF </img> & <img> id-US20180110873A1-20180426-C00039.TIF </img>
+(Ib-11) & 3 & <img> id-US20180110873A1-20180426-C00040.TIF </img> & <img> id-US20180110873A1-20180426-C00041.TIF </img>
+(Ib-12) & 3 & <img> id-US20180110873A1-20180426-C00042.TIF </img> & <img> id-US20180110873A1-20180426-C00043.TIF </img>
+(Ib-13) & 3 & <img> id-US20180110873A1-20180426-C00044.TIF </img> & <img> id-US20180110873A1-20180426-C00045.TIF </img>
+(Ib-14) & 3 & <img> id-US20180110873A1-20180426-C00046.TIF </img> & <img> id-US20180110873A1-20180426-C00047.TIF </img>
+(Ib-15) & 3 & <img> id-US20180110873A1-20180426-C00048.TIF </img> & <img> id-US20180110873A1-20180426-C00049.TIF </img>
+(Ib-16) & 3 & <img> id-US20180110873A1-20180426-C00050.TIF </img> & <img> id-US20180110873A1-20180426-C00051.TIF </img>
+(Ib-17) & 3 & <img> id-US20180110873A1-20180426-C00052.TIF </img> & <img> id-US20180110873A1-20180426-C00053.TIF </img>
+(Ib-18) & 3 & <img> id-US20180110873A1-20180426-C00054.TIF </img> & <img> id-US20180110873A1-20180426-C00055.TIF </img>
+(Ib-19) & 3 & <img> id-US20180110873A1-20180426-C00056.TIF </img> & <img> id-US20180110873A1-20180426-C00057.TIF </img>
+(Ib-20) & 3 & <img> id-US20180110873A1-20180426-C00058.TIF </img> & <img> id-US20180110873A1-20180426-C00059.TIF </img>
+(Ib-21) & 3 & <img> id-US20180110873A1-20180426-C00060.TIF </img> & <img> id-US20180110873A1-20180426-C00061.TIF </img>
+(Ib-22) & 3 & <img> id-US20180110873A1-20180426-C00062.TIF </img> & <img> id-US20180110873A1-20180426-C00063.TIF </img>
+(Ib-23) & 3 & <img> id-US20180110873A1-20180426-C00064.TIF </img> & <img> id-US20180110873A1-20180426-C00065.TIF </img>
+(Ib-24) & 3 & <img> id-US20180110873A1-20180426-C00066.TIF </img> & <img> id-US20180110873A1-20180426-C00067.TIF </img>
+(Ib-25) & 3 & <img> id-US20180110873A1-20180426-C00068.TIF </img> & <img> id-US20180110873A1-20180426-C00069.TIF </img>
+(Ib-26) & 3 & <img> id-US20180110873A1-20180426-C00070.TIF </img> & <img> id-US20180110873A1-20180426-C00071.TIF </img>
+(Ib-27) & 3 & <img> id-US20180110873A1-20180426-C00072.TIF </img> & <img> id-US20180110873A1-20180426-C00073.TIF </img>
+(Ib-28) & 3 & <img> id-US20180110873A1-20180426-C00074.TIF </img> & <img> id-US20180110873A1-20180426-C00075.TIF </img>
+(Ib-29) & 3 & <img> id-US20180110873A1-20180426-C00076.TIF </img> & <img> id-US20180110873A1-20180426-C00077.TIF </img>
+(Ib-30) & 3 & <img> id-US20180110873A1-20180426-C00078.TIF </img> & <img> id-US20180110873A1-20180426-C00079.TIF </img>
+(Ib-31) & 3 & <img> id-US20180110873A1-20180426-C00080.TIF </img> & <img> id-US20180110873A1-20180426-C00081.TIF </img>
+(Ib-32) & 3 & <img> id-US20180110873A1-20180426-C00082.TIF </img> & <img> id-US20180110873A1-20180426-C00083.TIF </img>
+(Ib-33) & 3 & <img> id-US20180110873A1-20180426-C00084.TIF </img> & <img> id-US20180110873A1-20180426-C00085.TIF </img>
+(Ib-34) & 3 & <img> id-US20180110873A1-20180426-C00086.TIF </img> & <img> id-US20180110873A1-20180426-C00087.TIF </img>
+(Ib-35) & 3 & <img> id-US20180110873A1-20180426-C00088.TIF </img> & <img> id-US20180110873A1-20180426-C00089.TIF </img>
+(Ib-36) & 3 & <img> id-US20180110873A1-20180426-C00090.TIF </img> & <img> id-US20180110873A1-20180426-C00091.TIF </img>
+(Ib-37) & 3 & <img> id-US20180110873A1-20180426-C00092.TIF </img> & <img> id-US20180110873A1-20180426-C00093.TIF </img>
+(Ib-38) & 3 & <img> id-US20180110873A1-20180426-C00094.TIF </img> & Me
+(Ib-39) & 3 & <img> id-US20180110873A1-20180426-C00095.TIF </img> & <img> id-US20180110873A1-20180426-C00096.TIF </img>
+(Ib-40) & 3 & <img> id-US20180110873A1-20180426-C00097.TIF </img> & <img> id-US20180110873A1-20180426-C00098.TIF </img>
+(Ib-41) & 3 & <img> id-US20180110873A1-20180426-C00099.TIF </img> & <img> id-US20180110873A1-20180426-C00100.TIF </img>
+(Ib-42) & 3 & <img> id-US20180110873A1-20180426-C00101.TIF </img> & <img> id-US20180110873A1-20180426-C00102.TIF </img>
+(Ib-43) & 3 & <img> id-US20180110873A1-20180426-C00103.TIF </img> & <img> id-US20180110873A1-20180426-C00104.TIF </img>
+(Ib-44) & 3 & <img> id-US20180110873A1-20180426-C00105.TIF </img> & <img> id-US20180110873A1-20180426-C00106.TIF </img>
+(Ib-45) & 3 & <img> id-US20180110873A1-20180426-C00107.TIF </img> & <img> id-US20180110873A1-20180426-C00108.TIF </img>
+(Ib-46) & 3 & <img> id-US20180110873A1-20180426-C00109.TIF </img> & <img> id-US20180110873A1-20180426-C00110.TIF </img>
+(Ib-47) & 3 & <img> id-US20180110873A1-20180426-C00111.TIF </img> & <img> id-US20180110873A1-20180426-C00112.TIF </img>
+(Ib-48) & 3 & <img> id-US20180110873A1-20180426-C00113.TIF </img> & <img> id-US20180110873A1-20180426-C00114.TIF </img>
+(Ib-49) & 3 & <img> id-US20180110873A1-20180426-C00115.TIF </img> & <img> id-US20180110873A1-20180426-C00116.TIF </img>
+(Ib-50) & 3 & <img> id-US20180110873A1-20180426-C00117.TIF </img> & <img> id-US20180110873A1-20180426-C00118.TIF </img>
+(Ib-51) & 3 & <img> id-US20180110873A1-20180426-C00119.TIF </img> & <img> id-US20180110873A1-20180426-C00120.TIF </img>
+(Ib-52) & 3 & <img> id-US20180110873A1-20180426-C00121.TIF </img> & <img> id-US20180110873A1-20180426-C00122.TIF </img>
+(Ib-53) & 3 & <img> id-US20180110873A1-20180426-C00123.TIF </img> & <img> id-US20180110873A1-20180426-C00124.TIF </img>
+(Ib-54) & 3 & <img> id-US20180110873A1-20180426-C00125.TIF </img> & <img> id-US20180110873A1-20180426-C00126.TIF </img>
+(Ib-55) & 3 & <img> id-US20180110873A1-20180426-C00127.TIF </img> & <img> id-US20180110873A1-20180426-C00128.TIF </img>
+(Ib-56) & 3 & <img> id-US20180110873A1-20180426-C00129.TIF </img> & <img> id-US20180110873A1-20180426-C00130.TIF </img>
+(Ib-57) & 3 & <img> id-US20180110873A1-20180426-C00131.TIF </img> & <img> id-US20180110873A1-20180426-C00132.TIF </img>
+(Ib-58) & 3 & <img> id-US20180110873A1-20180426-C00133.TIF </img> & <img> id-US20180110873A1-20180426-C00134.TIF </img>
+(Ib-59) & 3 & <img> id-US20180110873A1-20180426-C00135.TIF </img> & <img> id-US20180110873A1-20180426-C00136.TIF </img>
+(Ib-60) & 3 & <img> id-US20180110873A1-20180426-C00137.TIF </img> & <img> id-US20180110873A1-20180426-C00138.TIF </img>
+(Ib-61) & 3 & <img> id-US20180110873A1-20180426-C00139.TIF </img> & <img> id-US20180110873A1-20180426-C00140.TIF </img>
+(Ib-62) & 3 & <img> id-US20180110873A1-20180426-C00141.TIF </img> & <img> id-US20180110873A1-20180426-C00142.TIF </img>
+(Ib-63) & 3 & <img> id-US20180110873A1-20180426-C00143.TIF </img> & <img> id-US20180110873A1-20180426-C00144.TIF </img>
+(Ib-64) & 3 & <img> id-US20180110873A1-20180426-C00145.TIF </img> & <img> id-US20180110873A1-20180426-C00146.TIF </img>
+(Ib-65) & 3 & <img> id-US20180110873A1-20180426-C00147.TIF </img> & <img> id-US20180110873A1-20180426-C00148.TIF </img>
 </table>
 In this specification, the following preferences apply, unless the context indicates otherwise.
 In formula (I) and the other formulae in which it appears, R2 preferably is Me.
@@ -150,26 +165,40 @@ In formula (I) and the other formulae in which it appears, preferably n is 2 or 
 In formula (I) and the other formulae in which it appears, R20 preferably is H.
 In formula (I) and the other formulae in which it appears, and R21 preferably is O or NH.
 In formula (I) and the other formulae in which it appears, preferred groups X20 are
+<img> id-US20180110873A1-20180426-C00149.TIF </img>
 with
+<img> id-US20180110873A1-20180426-C00150.TIF </img>
 being especially preferred.
 In formula (I) and the other formulae in which it appears, preferred groups X21 are
+<img> id-US20180110873A1-20180426-C00151.TIF </img>
 with O being especially preferred.
 Regarding the group Ar1 in formula (I) and in the other formulae where it appears: Suitable heteroaromatic moieties (ii) include pyridine, pyrimidine, pyrazine, pyrrole, furan, thiophene, imidazole, thiazole, oxazole, isoxazole, pyrazole, triazole, and isothiazole. Suitable polycyclic aromatic moieties (iii) include naphthalene, quinolone, isoquinoline, indole, benzimidazole, benzothiophene, benzofuran, benzotriazole, quinoxaline, and 1,6-naphthyridine. Ar1 preferably is
+<img> id-US20180110873A1-20180426-C00152.TIF </img>
 being more preferred; and with
+<img> id-US20180110873A1-20180426-C00153.TIF </img>
 being especially preferred.
 In formula (I) and the other formulae in which it appears, suitable combinations -X20-Ar1-X21- include
+<img> id-US20180110873A1-20180426-C00154.TIF </img><img> id-US20180110873A1-20180426-C00155.TIF </img><img> id-US20180110873A1-20180426-C00156.TIF </img>
 being preferred; and with
+<img> id-US20180110873A1-20180426-C00157.TIF </img>
 being especially preferred.
 Suitable groups W include
+<img> id-US20180110873A1-20180426-C00158.TIF </img><img> id-US20180110873A1-20180426-C00159.TIF </img>
 wherein each R34 is independently H, C1-C3 alkyl, OH, Cl, F, CH2F, CHF2, CF3, O(C1-C3 alkyl), O(CH2)2-4OH, O(CH2)0-2CHF2, C(═O)(C1-C3 alkyl), C(═O)O(C1-C3 alkyl), C(═O)NH2, C(═O)NH(C1-C3 alkyl), C(═O)N(C1-C3 alkyl)2, O(C2-C4 alkenyl), NH2, NH(C1-C3 alkyl), N(C1-C3 alkyl)2, O(CH2)0-2C6H5, CN, or NO2. Preferably, no more than one R34 is other than H in any given aromatic ring.
 Preferred groups W are:
+<img> id-US20180110873A1-20180426-C00160.TIF </img>
 wherein each R34 is independently as defined above.
 In one aspect, compounds disclosed herein have a structure represented by formula (Ia'):
+<img> id-US20180110873A1-20180426-C00161.TIF </img>
 In another aspect, compounds disclosed herein have a structure represented by formula (Ia″):
+<img> id-US20180110873A1-20180426-C00162.TIF </img>
 In yet another aspect, compounds disclosed herein have a structure represented by formula (Ia'″):
+<img> id-US20180110873A1-20180426-C00163.TIF </img>
 In formulae (Ia'), (Ia″), and (Ia'″), R7, R8, R9, R10, and R34 are as defined hereinabove.
 An example of a compound according to formula (Ia') is compound (Ib-13) (see Table I hereinabove):
+<img> id-US20180110873A1-20180426-C00164.TIF </img>
 An example of a compound according to formula (Ia″) is compound (Ib-54) (see Table I hereinabove):
+<img> id-US20180110873A1-20180426-C00165.TIF </img>
 Examples of compounds according to formula (Ia'″) are compounds (Ib-18), (Ib-19), (Ib-20), (Ib-21), and (Ib-22) from Table I.
 Conjugates
 General
@@ -203,31 +232,40 @@ In one embodiment, Group C is a peptide comprising a two-amino acid sequence -AA
 The preparation and design of cleavable groups C consisting of a single amino acid is disclosed in Chen et al., U.S. Pat. No. 8,664,407 B2 (2014), the disclosure of which is incorporated herein by reference.
 Group C can be bonded directly to Z or D; i.e. spacers XZ or XD, as the case may be, can be absent.
 When present, spacer XZ provides spatial separation between C and Z, lest the former sterically interfere with antigen binding by latter or the latter sterically interfere with cleavage of the former. Further, spacer XZ can be used to confer increased solubility or decreased aggregation properties to conjugates. A spacer XZ can comprise one or more modular segments, which can be assembled in any number of combinations. Examples of suitable segments for a spacer XZ are:
+<img> id-US20180110873A1-20180426-C00166.TIF </img>
 and combinations thereof,where the subscript g is 0 or 1 and the subscript h is 1 to 24, preferably 2 to 4. These segments can be combined, such as illustrated below:
+<img> id-US20180110873A1-20180426-C00167.TIF </img>
 Spacer XD, if present, provides spatial separation between C and D, lest the latter interfere sterically or electronically with cleavage of the former. Spacer XD also can serve to introduce additional molecular mass and chemical functionality into a conjugate. Generally, the additional mass and functionality will affect the serum half-life and other properties of the conjugate. Thus, through judicious selection of spacer groups, the serum half-live of a conjugate can be modulated. Spacer XD also can be assembled from modular segments, analogously to the description above for spacer XZ.
 Spacers XZ and/or XD, where present, preferably provide a linear separation of from 4 to 25 atoms, more preferably from 4 to 20 atoms, between Z and C or D and C, respectively.
 The linker can perform other functions in addition to covalently linking the antibody and the drug. For instance, the linker can contain a poly(ethylene glycol) (“PEG”) group. Since the conjugation step typically involves coupling a drug-linker to an antibody in an aqueous medium, a PEG group many enhance the aqueous solubility of the drug-linker. Also, a PEG group may enhance the solubility or reduce aggregation in the resulting ADC. Where a PEG group is present, it may be incorporated into either spacer XZ of XD, or both. The number of repeat units in a PEG group can be from 2 to 20, preferably between 4 and 10.
 Either spacer XZ or XD, or both, can comprise a self-immolating moiety. A self-immolating moiety is a moiety that (1) is bonded to C and either Z or D and (2) has a structure such that cleavage from group C initiates a reaction sequence resulting in the self-immolating moiety disbonding itself from Z or D, as the case may be. In other words, reaction at a site distal from Z or D (cleavage from group C) causes the XZ-Z or the XD-D bond to rupture as well. The presence of a self-immolating moiety is desirable in the case of spacer XD because, if, after cleavage of the conjugate, spacer XD or a portion thereof were to remain attached to D, the biological activity of D may be impaired. The use of a self-immolating moiety is especially desirable where cleavable group C is a polypeptide, in which instance the self-immolating moiety typically is located adjacent thereto, in order to prevent D from sterically or electronically interfering with peptide cleavage.
 Exemplary self-immolating moieties (i)-(v) bonded to a hydroxyl or amino group of D are shown below:
+<img> id-US20180110873A1-20180426-C00168.TIF </img><img> id-US20180110873A1-20180426-C00169.TIF </img>
 The self-immolating moiety is the structure between dotted lines a and b (or dotted lines b and c), with adjacent structural features shown to provide context. Self-immolating moieties (i) and (v) are bonded to a D-NH2 (i.e., conjugation is via an amino group), while self-immolating moieties (ii), (iii), and (iv) are bonded to a D-OH (i.e., conjugation is via a hydroxyl or carboxyl group). Cleavage of the bond at dotted line b by an enzyme-a peptidase in the instance of structures (i)-(v) and a β-glucuronidase in the instance of structure (vi)-initiates a self-immolating reaction sequence that results in the cleavage of the bond at dotted line a and the consequent release of D-OH or D-NH2, as the case may be. By way of illustration, self-immolating mechanisms for structures (i) and (iv) are shown below:
+<img> id-US20180110873A1-20180426-C00170.TIF </img>
 In other words, cleavage of a first chemical bond at one part of a self-immolating group initiates a sequence of steps that results in the cleavage of a second chemical bond-the one connecting the self-immolating group to the drug-at a different part of the self-immolating group, thereby releasing the drug.
 In some instances, self-immolating groups can be used in tandem, as shown by structure (vii). In such case, cleavage at dotted line c triggers self-immolation of the moiety between dotted lines b and c by a 1,6-elimination reaction, followed by self-immolation of the moiety between dotted lines a and b by a cyclization-elimination reaction. For additional disclosures regarding self-immolating moieties, see Carl et al., J. Med. Chem. 1981, 24, 479; Carl et al., WO 81/01145 (1981); Dubowchik et al., Pharmacology & Therapeutics 1999, 83, 67; Firestone et al., U.S. Pat. No. 6,214,345 B1 (2001); Toki et al., J. Org. Chem. 2002, 67, 1866; Doronina et al., Nature Biotechnology 2003, 21, 778 (erratum, p. 941); Boyd et al., U.S. Pat. No. 7,691,962 B2; Boyd et al., US 2008/0279868 A1; Sufi et al., WO 2008/083312 A2; Feng, U.S. Pat. No. 7,375,078 B2; Jeffrey et al., U.S. Pat. No. 8,039,273; and Senter et al., US 2003/0096743 A1; the disclosures of which are incorporated by reference.
 In another embodiment, Z and D are linked by a non-cleavable linker, i.e., C is absent. Metabolism of D eventually reduces the linker to a small appended moiety that does not interfere with the biological activity of D. Conjugation Techniques
 Conjugates of compounds disclosed herein preferably are made by first preparing a compound comprising D and linker (XD)a(C)c(XZ)b (where XD, C, XZ, a, b, and c are as defined for formula (II)) to form drug-linker compound represented by formula (III):
 <in-line-formulae>D-(XD)a(C)c(XZ)b-R31  (III)</in-line-formulae>
 where R31 is a functional group suitable for reacting with a complementary functional group on Z to form the conjugate. Examples of suitable groups R31 include amino, azide, thiol, cyclooctyne,
+<img> id-US20180110873A1-20180426-C00171.TIF </img>
 where R32 is Cl, Br, F, mesylate, or tosylate and R33 is Cl, Br, I, F, OH, -O-N-succinimidyl, -O-(4-nitrophenyl), -O-pentafluorophenyl, or -O-tetrafluorophenyl. Chemistry generally usable for the preparation of suitable moieties D-(XD)aC(XZ)b-R31 is disclosed in Ng et al., U.S. Pat. No. 7,087,600 B2 (2006); Ng et al., U.S. Pat. No. 6,989,452 B2 (2006); Ng et al., U.S. Pat. No. 7,129,261 B2 (2006); Ng et al., WO 02/096910 A1; Boyd et al., U.S. Pat. No. 7,691,962 B2; Chen et al., U.S. Pat. No. 7,517,903 B2 (2009); Gangwar et al., U.S. Pat. No. 7,714,016 B2 (2010); Boyd et al., US 2008/0279868 A1; Gangwar et al., U.S. Pat. No. 7,847,105 B2 (2010); Gangwar et al., U.S. Pat. No. 7,968,586 B2 (2011); Sufi et al., U.S. Pat. No. 8,461,117 B2 (2013); and Chen et al., U.S. Pat. No. 8,664,407 B2 (2014); the disclosures of which are incorporated herein by reference.
 Preferably reactive functional group -R31 is -NH2, -OH, -CO2H, -SH, maleimido, cyclooctyne, azido (-N3), hydroxylamino (-ONH2) or N-hydroxysuccinimido. Especially preferred functional groups -R31 are:
+<img> id-US20180110873A1-20180426-C00172.TIF </img>
 An -OH group can be esterified with a carboxy group on the antibody, for example, on an aspartic or glutamic acid side chain.
 A -CO2H group can be esterified with a -OH group or amidated with an amino group (for example on a lysine side chain) on the antibody.
 An N-hydroxysuccinimide group is functionally an activated carboxyl group and can conveniently be amidated by reaction with an amino group (e.g., from lysine).
 A maleimide group can be conjugated with an -SH group on the antibody (e.g., from cysteine or from the chemical modification of the antibody to introduce a sulfhydryl functionality), in a Michael addition reaction.
 Where an antibody does not have a cysteine -SH available for conjugation, an ε-amino group in the side chain of a lysine residue can be reacted with 2-iminothiolane or N-succinimidyl-3-(2-pyridyldithio)propionate (“SPDP”) to introduce a free thiol (-SH) group-creating a cysteine surrogate, as it were. The thiol group can react with a maleimide or other nucleophile acceptor group to effect conjugation. The mechanism if illustrated below with 2-iminothiolane.
+<img> id-US20180110873A1-20180426-C00173.TIF </img>
 Typically, a thiolation level of two to three thiols per antibody is achieved. For a representative procedure, see Cong et al., U.S. Pat. No. 8,980,824 B2 (2015), the disclosure of which is incorporated herein by reference.
 In a reversed arrangement, an antibody Z can be modified with N-succinimidyl 4-(maleimidomethyl)-cyclohexanecarboxylate (“SMCC”) or its sulfonated variant sulfo-SMCC, both of which are available from Sigma-Aldrich, to introduce a maleimide group thereto. Then, conjugation can be effected with a drug-linker compound having an -SH group on the linker.
 An alternative conjugation method employs copper-free “click chemistry,” in which an azide group adds across a strained cyclooctyne to form an 1,2,3-triazole ring. See, e.g., Agard et al., J. Amer. Chem. Soc. 2004, 126, 15046; Best, Biochemistry 2009, 48, 6571, the disclosures of which are incorporated herein by reference. The azide can be located on the antibody and the cyclooctyne on the drug-linker moiety, or vice-versa. A preferred cyclooctyne group is dibenzocyclooctyne (DIBO). Various reagents having a DIBO group are available from Invitrogen/Molecular Probes, Eugene, Oreg. The reaction below illustrates click chemistry conjugation for the instance in which the DIBO group is attached to the antibody (Ab):
+<img> id-US20180110873A1-20180426-C00174.TIF </img>
 Yet another conjugation technique involves introducing a non-natural amino acid into an antibody, with the non-natural amino acid providing a functionality for conjugation with a reactive functional group in the drug moiety. For instance, the non-natural amino acid p-acetylphenylalanine can be incorporated into an antibody or other polypeptide, as taught in Tian et al., WO 2008/030612 A2 (2008). The ketone group in p-acetylphenyalanine can be a conjugation site via the formation of an oxime with a hydroxylamino group on the linker-drug moiety. Alternatively, the non-natural amino acid p-azidophenylalanine can be incorporated into an antibody to provide an azide functional group for conjugation via click chemistry, as discussed above. Non-natural amino acids can also be incorporated into an antibody or other polypeptide using cell-free methods, as taught in Goerke et al., US 2010/0093024 A1 (2010) and Goerke et al., Biotechnol. Bioeng. 2009, 102 (2), 400-416. The foregoing disclosures are incorporated herein by reference. Thus, in one embodiment, an antibody that is used for making a conjugate has one or more amino acids replaced by a non-natural amino acid, which preferably is p-acetylphenylalanine or p-azidophenylalanine, more preferably p-acetylphenylalanine.
 Still another conjugation technique uses the enzyme transglutaminase (preferably bacterial transglutaminase from Streptomyces mobaraensis or BTG), per Jeger et al., Angew. Chem. Int. Ed. 2010, 49, 9995. BTG forms an amide bond between the side chain carboxamide of a glutamine (the amine acceptor) and an alkyleneamino group (the amine donor), which can be, for example, the ε-amino group of a lysine or a 5-amino-n-pentyl group. In a typical conjugation reaction, the glutamine residue is located on the antibody, while the alkyleneamino group is located on the linker-drug moiety, as shown below:
+<img> id-US20180110873A1-20180426-C00175.TIF </img>
 The positioning of a glutamine residue on a polypeptide chain has a large effect on its susceptibility to BTG mediated transamidation. None of the glutamine residues on an antibody are normally BTG substrates. However, if the antibody is deglycosylated-the glycosylation site being asparagine 297 (N297; numbering per EU index as set forth in Kabat et al., “Sequences of proteins of immunological interest,” 5th ed., Pub. No. 91-3242, U.S. Dept. Health & Human Services, NIH, Bethesda, Md., 1991; hereinafter “Kabat”) of the heavy chain-nearby glutamine 295 (Q295) is rendered BTG susceptible. An antibody can be deglycosylated enzymatically by treatment with PNGase F (Peptide-N-Glycosidase F). Alternatively, an antibody can be synthesized glycoside free by introducing an N297A mutation in the constant region, to eliminate the N297 glycosylation site. Further, it has been shown that an N297Q substitution not only eliminates glycosylation, but also introduces a second glutamine residue (at position 297) that too is an amine acceptor. Thus, in one embodiment, the antibody is deglycosylated. In another embodiment, the antibody has an N297Q substitution. Those skilled in the art will appreciate that deglycosylation by post-synthesis modification or by introducing an N297A mutation generates two BTG-reactive glutamine residues per antibody (one per heavy chain, at position 295), while an antibody with an N297Q substitution will have four BTG-reactive glutamine residues (two per heavy chain, at positions 295 and 297).
 An antibody can also be rendered susceptible to BTG-mediated conjugation by introducing into it a glutamine containing peptide, or “tag,” as taught, for example, in Pons et al., US 2013/0230543 A1 (2013) and Rao-Naik et al., WO 2016/144608 A1.
 In a complementary approach, the substrate specificity of BTG can be altered by varying its amino acid sequence, such that it becomes capable of reacting with glutamine 295 in an umodified antibody, as taught in Rao-Naik et al., PCT Application PCT/US2016/054585, filed 30 Sep. 2016.
@@ -236,40 +274,55 @@ Conjugation can also be effected using the enzyme Sortase A, as taught in Levary
 Drug-Linker Compounds
 Generally, an ADC comprises a linker attached to a functional group on the drug, which linker is attached in turn to the antibody. Reflecting the diversity of conjugation techniques available, the drugs can be elaborated into many different drug-linker compounds suitable for conjugation to an antibody.
 There are three different positions ((a), (b), and (c)) for attachment of the linker to compounds disclosed herein, as illustrated below (with variables and optional substituents not shown for simplicity):
+<img> id-US20180110873A1-20180426-C00176.TIF </img>
 Linker attachment at position (a) entails forming an addition product (A) across the imine double bond, comprising a carbamate group. Cleavage of the linker at the dotted line leads to intermediate (B), whose unstable carbamic acid group decarboxylates to produce a geminal amino alcohol (C). Dehydration of the latter regenerates the benzodiazepine ring system (D).
+<img> id-US20180110873A1-20180426-C00177.TIF </img>
 For conjugation at position (b), a suitable functional group such as amino (NH2) or hydroxyl (OH) can be situated at the flanking benzene ring.
 For conjugation at position (c), a suitable functional group such as amino (NH2) or hydroxyl (OH) can be situated at Ar1 or W, preferable at W.
 Thus, there is provided a drug-linker compound having a structure represented by formula (IIIa, (IIIb), or (IIIc)
+<img> id-US20180110873A1-20180426-C00178.TIF </img>
 whereinT is a self-immolating group;t is 0 or 1;AAa and each AAb are independently selected from the group consisting of alanine, β-alanine, γ-aminobutyric acid, arginine, asparagine, aspartic acid, γ-carboxyglutamic acid, citrulline, cysteine, glutamic acid, glutamine, glycine, histidine, isoleucine, leucine, lysine, methionine, norleucine, norvaline, ornithine, phenylalanine, proline, serine, threonine, tryptophan, tyrosine, and valine;u is 0 or 1;p is 1, 2, 3, or 4;q is 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, or 12;r is 1, 2, 3, 4, or 5;s is 0 or 1;v is 0 or 1;R31 is H,
-with the provisos that R31 can be H only if s is 1 and v is 0 and that v can be 0 only if s is 1 and R31 is H;each G is C or N, with the proviso that no more than two Gs are N;R2 is H or C1-C5 alkyl;R3 and R4 are independently H, F, Cl, Br, OH, C1-C3 alkyl, O(C1-C3 alkyl), cyano, (CH2)0-5NH2, or NO2;the double line  in the diazepine ring system represents a single bond or a double bond;R5 is H if the double line  is a single bond and is absent if the double line  is a double bond;R6 is H, OH, SO3Na, or SO3K if the double line  is a single bond and is absent if the double line  is a double bond;R7, R8, R9, and R10 are independently H, C1-C5 alkyl, C≡C(CH2)1-5X2, OH, O(C1-C5 alkyl), cyano, NO2, F, Cl, Br, O(CH2CH2O)1-8(C1-3 alkyl), (CH2)0-5X2, O(CH2)2-5X2, 3- to 7-membered cycloalkyl or heterocycloalkyl unsubstituted or substituted with (CH2)0-5X2 or O(CH2)2-5X2, phenyl unsubstituted or substituted with (CH2)0-5X2 or O(CH2)2-5X2, 5- to 6-membered heteroaryl unsubstituted or substituted with (CH2)0-5X2 or O(CH2)2-5X2,
-or where a R7, R8, R9, or R10 is attached to a G that is N, such R7, R8, R9, or R10 is absent;each X2 is independently H, F, Cl, Br, OH, O(C1-C3 alkyl), O(C1-C3 alkylene), CO2H, N3, CN, NO2, CO2(C1-C3 alkyl), NH2, NH(C1-C5 alkyl), N(C1-C5 alkyl)2, SH, CHO, N(CH2CH2)2N(C1-C3 alkyl), NHNH2, or C(═O)NHNH2;each Y is independently CH2, C═O, or CHR12; wherein each R12 is independently F, Cl, Br, or C1-C3 alkyl;n is 2, 3, 4, 5, or 6;X20 and X21 are independently
-wherein R20 is H or C1-C3 alkyl and R21 is O, NH, or N(C1-C3 alkyl;Ar1 is (i) a phenyl moiety, (ii) a 5- or 6-membered heteroaromatic moiety, or (iii) a polycyclic aromatic moiety comprising a phenyl or 6-membered heteroaromatic ring fused to a phenyl ring or a 5- or 6-membered heteroaromatic ring; each phenyl, heteroaromatic, or polycyclic aromatic moiety being optionally substituted with one or more of C1-C6 alkyl, Cl, or F;W is (a) C1-C6 alkyl or C3-C6 cycloalkyl or (b) an aromatic moiety comprising one to three (i) phenyl or (ii) 5- or 6-membered heteroaromatic rings, which phenyl or 5- or 6-membered heteroaromatic rings are optionally substituted with one or more of C1-C3 alkyl, OH, Cl, F, CH2F, CHF2, CF3, O(C1-C3 alkyl), O(CH2)2-4OH, O(CH2)0-2CHF2, C(═O)(C1-C3 alkyl), C(═O)O(C1-C3 alkyl), C(═O)NH2, C(═O)NH(C1-C3 alkyl), C(═O)N(C1-C3 alkyl)2, O(C2-C4 alkenyl), NH2, NH(C1-C3 alkyl), N(C1-C3 alkyl)2, O(CH2)0-2C6H5, CN, or NO2; wherein, if more than one phenyl or 5- or 6-membered heteroaromatic ring is present, such rings are fused to each other or joined by an aryl-aryl bond;each R35 is independently H, Cl, F, Br, C1-C5 alkyl, O(C1-C5 alkyl), OH, CN, NO2, NH(C═O)(C1-C5 alkyl), N(C1-C5 alkyl)2, or CF3;X22 is O or NH;W' is an aromatic moiety comprising one to three (i) phenyl or (ii) 5- or 6-membered heteroaromatic rings, which phenyl or 5- or 6-membered heteroaromatic rings are optionally substituted with one or more of C1-C3 alkyl, OH, Cl, F, CH2F, CHF2, CF3, O(C1-C3 alkyl), O(CH2)2-4OH, O(CH2)0-2CHF2, C(═O)(C1-C3 alkyl), C(═O)O(C1-C3 alkyl), C(═O)NH2, C(═O)NH(C1-C3 alkyl), C(═O)N(C1-C3 alkyl)2, O(C2-C4 alkenyl), NH2, NH(C1-C3 alkyl), N(C1-C3 alkyl)2, O(CH2)0-2C6H5, CN, or NO2; wherein, if more than one phenyl or 5- or 6-membered heteroaromatic ring is present, such rings are fused to each other or joined by an aryl-aryl bond;or a salt thereof.
+<img> id-US20180110873A1-20180426-C00179.TIF </img>with the provisos that R31 can be H only if s is 1 and v is 0 and that v can be 0 only if s is 1 and R31 is H;each G is C or N, with the proviso that no more than two Gs are N;R2 is H or C1-C5 alkyl;R3 and R4 are independently H, F, Cl, Br, OH, C1-C3 alkyl, O(C1-C3 alkyl), cyano, (CH2)0-5NH2, or NO2;the double line <img> id-US20180110873A1-20180426-P00001.TIF </img> in the diazepine ring system represents a single bond or a double bond; in the diazepine ring system represents a single bond or a double bond;R5 is H if the double line <img> id-US20180110873A1-20180426-P00001.TIF </img> is a single bond and is absent if the double line <img> id-US20180110873A1-20180426-P00001.TIF </img> is a double bond; is a single bond and is absent if the double line  is a double bond;R6 is H, OH, SO3Na, or SO3K if the double line <img> id-US20180110873A1-20180426-P00001.TIF </img> is a single bond and is absent if the double line <img> id-US20180110873A1-20180426-P00001.TIF </img> is a double bond; is a single bond and is absent if the double line  is a double bond;R7, R8, R9, and R10 are independently H, C1-C5 alkyl, C≡C(CH2)1-5X2, OH, O(C1-C5 alkyl), cyano, NO2, F, Cl, Br, O(CH2CH2O)1-8(C1-3 alkyl), (CH2)0-5X2, O(CH2)2-5X2, 3- to 7-membered cycloalkyl or heterocycloalkyl unsubstituted or substituted with (CH2)0-5X2 or O(CH2)2-5X2, phenyl unsubstituted or substituted with (CH2)0-5X2 or O(CH2)2-5X2, 5- to 6-membered heteroaryl unsubstituted or substituted with (CH2)0-5X2 or O(CH2)2-5X2,
+<img> id-US20180110873A1-20180426-C00180.TIF </img>or where a R7, R8, R9, or R10 is attached to a G that is N, such R7, R8, R9, or R10 is absent;each X2 is independently H, F, Cl, Br, OH, O(C1-C3 alkyl), O(C1-C3 alkylene), CO2H, N3, CN, NO2, CO2(C1-C3 alkyl), NH2, NH(C1-C5 alkyl), N(C1-C5 alkyl)2, SH, CHO, N(CH2CH2)2N(C1-C3 alkyl), NHNH2, or C(═O)NHNH2;each Y is independently CH2, C═O, or CHR12; wherein each R12 is independently F, Cl, Br, or C1-C3 alkyl;n is 2, 3, 4, 5, or 6;X20 and X21 are independently
+<img> id-US20180110873A1-20180426-C00181.TIF </img>wherein R20 is H or C1-C3 alkyl and R21 is O, NH, or N(C1-C3 alkyl;Ar1 is (i) a phenyl moiety, (ii) a 5- or 6-membered heteroaromatic moiety, or (iii) a polycyclic aromatic moiety comprising a phenyl or 6-membered heteroaromatic ring fused to a phenyl ring or a 5- or 6-membered heteroaromatic ring; each phenyl, heteroaromatic, or polycyclic aromatic moiety being optionally substituted with one or more of C1-C6 alkyl, Cl, or F;W is (a) C1-C6 alkyl or C3-C6 cycloalkyl or (b) an aromatic moiety comprising one to three (i) phenyl or (ii) 5- or 6-membered heteroaromatic rings, which phenyl or 5- or 6-membered heteroaromatic rings are optionally substituted with one or more of C1-C3 alkyl, OH, Cl, F, CH2F, CHF2, CF3, O(C1-C3 alkyl), O(CH2)2-4OH, O(CH2)0-2CHF2, C(═O)(C1-C3 alkyl), C(═O)O(C1-C3 alkyl), C(═O)NH2, C(═O)NH(C1-C3 alkyl), C(═O)N(C1-C3 alkyl)2, O(C2-C4 alkenyl), NH2, NH(C1-C3 alkyl), N(C1-C3 alkyl)2, O(CH2)0-2C6H5, CN, or NO2; wherein, if more than one phenyl or 5- or 6-membered heteroaromatic ring is present, such rings are fused to each other or joined by an aryl-aryl bond;each R35 is independently H, Cl, F, Br, C1-C5 alkyl, O(C1-C5 alkyl), OH, CN, NO2, NH(C═O)(C1-C5 alkyl), N(C1-C5 alkyl)2, or CF3;X22 is O or NH;W' is an aromatic moiety comprising one to three (i) phenyl or (ii) 5- or 6-membered heteroaromatic rings, which phenyl or 5- or 6-membered heteroaromatic rings are optionally substituted with one or more of C1-C3 alkyl, OH, Cl, F, CH2F, CHF2, CF3, O(C1-C3 alkyl), O(CH2)2-4OH, O(CH2)0-2CHF2, C(═O)(C1-C3 alkyl), C(═O)O(C1-C3 alkyl), C(═O)NH2, C(═O)NH(C1-C3 alkyl), C(═O)N(C1-C3 alkyl)2, O(C2-C4 alkenyl), NH2, NH(C1-C3 alkyl), N(C1-C3 alkyl)2, O(CH2)0-2C6H5, CN, or NO2; wherein, if more than one phenyl or 5- or 6-membered heteroaromatic ring is present, such rings are fused to each other or joined by an aryl-aryl bond;or a salt thereof.
 Formulae (IIIa), (IIIb), and (IIIc) represent type (a), type (b), and type (c) drug-linker compounds, respectively.
 A preferred drug-linker compound according to formula (IIIa) has a structure represented by formula (IIIa')
+<img> id-US20180110873A1-20180426-C00182.TIF </img>
 whereineach R30 is independently H, Cl, F, Br, C1-C5 alkyl, O(C1-C5 alkyl), OH, CN, NO2, NH(C═O)(C1-C5 alkyl), N(C1-C5 alkyl)2, or CF3.
 Preferably, each R30 is H in formula (IIIa').
 Another preferred drug-linker compounds of type (a) according to formula (IIIa) has a structure represented by formula (IIIa″)
+<img> id-US20180110873A1-20180426-C00183.TIF </img>
 whereinR15, R16 and R17 are independently H, CH3, CH(CH3)2, CH2CO2H, CH2CH2CO2H, CH2C(═O)NH2, CH2CH2C(═O)NH2, (CH2)4NH2, (CH2)3NHC(═NH)NH2 or (CH2)3NHC(═O)NH2; and
+<img> id-US20180110873A1-20180426-C00184.TIF </img>
 That is, R11, R12, and R13 in formula (IIIa″) correspond to the side chain residues of the amino acids glycine, valine, aspartic acid, glutamic acid, asparagine, glutamine, lysine, arginine, and citrulline, respectively.
 In one embodiment, u is 1 in formula (IIIa) or (IIIa').
 The moiety -AAa-[AAb]p- in formula (IIIa) or (IIIa') represents a polypeptide whose length is determined by the value of p (dipeptide if p is 1, tetrapeptide if p is 3, etc.). AAa is at the carboxy terminus of the polypeptide and its carboxyl group forms a peptide (amide) bond with an amine nitrogen of the drug compound. Conversely, the last AAb is at the amino terminus of the polypeptide and its α-amino group forms a peptide bond with
+<img> id-US20180110873A1-20180426-C00185.TIF </img>
 depending on whether s is 1 or 0, respectively. Preferred polypeptides -AAa-[AAb]p- are Val-Ala, Val-Cit, Val-Lys, Lys-Val-Ala, Asp-Val-Ala, Val-Ala, Lys-Val-Cit, Ala-Val-Cit, Val-Gly, Val-Gln, and Asp-Val-Cit, written in the conventional N-to-C direction, as in H2N-Val-Cit-CO2H). More preferably, the polypeptide is Val-Cit, Val-Lys, or Val-Ala. Preferably, a polypeptide -AAa-[AAb]p- is cleavable by an enzyme found inside the target (cancer) cell, for example a cathepsin and especially cathepsin B.
-As indicated by the subscript t equals 0 or 1, a self-immolating group T in formula (IIIa) or (IIIa') is optionally present. When present, the self-immolating group T preferably is a p-aminobenzyl oxycarbonyl (PABC) group, whose structure is shown below, with an asterisk (*) denoting the end of the PABC bonded to the imine nitrogen of the benzodiazepine ring and a wavy line () denoting the end bonded to the polypeptide -AAa-[AAb]p-.
+As indicated by the subscript t equals 0 or 1, a self-immolating group T in formula (IIIa) or (IIIa') is optionally present. When present, the self-immolating group T preferably is a p-aminobenzyl oxycarbonyl (PABC) group, whose structure is shown below, with an asterisk (*) denoting the end of the PABC bonded to the imine nitrogen of the benzodiazepine ring and a wavy line (<img> id-US20180110873A1-20180426-P00002.TIF </img>) denoting the end bonded to the polypeptide -AAa-[AAb]p-.) denoting the end bonded to the polypeptide -AAa-[AAb]p-.
+<img> id-US20180110873A1-20180426-C00186.TIF </img>
 In a preferred embodiment, in formula (IIIa) or (IIIa') the group R31 is
+<img> id-US20180110873A1-20180426-C00187.TIF </img>
 In another preferred embodiment, in formula (IIIa) or (IIIa') the group R31 is
+<img> id-US20180110873A1-20180426-C00188.TIF </img>
 or R31 is H while v is 0 and s is 1. In each case, the result is a drug-linker compound that has an amino-terminal group, of the structure
+<img> id-US20180110873A1-20180426-C00189.TIF </img>
 respectively, which is suitable as an amine donor for a transglutaminase-mediated conjugation.
 The preferred embodiments for u, moiety -AAa-[AAb]p-, the self-immolating group T, and the group R31 discussed hereinabove in respect of type (a) drug-linker compounds also apply to type (b) and type (c) drug-linker compounds.
 Examples of type (a) drug-linker compounds have structures represented by formulae (IIIa-01) and (IIIa-02):
+<img> id-US20180110873A1-20180426-C00190.TIF </img>
 A preferred type (c) drug-linker compound according to formula (IIIc) has a structure represented by formula (IIIc'):
+<img> id-US20180110873A1-20180426-C00191.TIF </img>
 whereinR15, R16, R17, and R18 are as defined hereinabove in respect of formula (IIIa″);each R33 is independently H, Cl, F, Br, C1-C5 alkyl, O(C1-C5 alkyl), OH, CN, NO2, NH(C═O)(C1-C5 alkyl), N(C1-C5 alkyl)2, or CF3 (with each R33 preferably being H); andeach R36 is independently H, C1-C3 alkyl, OH, Cl, F, CH2F, CHF2, CF3, O(C1-C3 alkyl), O(CH2)2-4OH, O(CH2)0-2CHF2, C(═O)(C1-C3 alkyl), C(═O)O(C1-C3 alkyl), C(═O)NH2, C(═O)NH(C1-C3 alkyl), C(═O)N(C1-C3 alkyl)2, O(C2-C4 alkenyl), O(CH2)0-2C6H5, CN, or NO2 (with each R36 preferably being H). and
 Examples of type (c) drug-linker compound are (IIIc-01) and (IIIc-02):
+<img> id-US20180110873A1-20180426-C00192.TIF </img>
 Conjugates
 In one aspect, there is provided a conjugate, having a structure represented by formula (IVa), (IVb), or (IVc)
+<img> id-US20180110873A1-20180426-C00193.TIF </img>
 whereinAb is an antibody;m is 1, 2, 3, or 4;T is a self-immolating group;t is 0 or 1;AAa and each AAb are independently selected from the group consisting of alanine, β-alanine, γ-aminobutyric acid, arginine, asparagine, aspartic acid, γ-carboxyglutamic acid, citrulline, cysteine, glutamic acid, glutamine, glycine, histidine, isoleucine, leucine, lysine, methionine, norleucine, norvaline, ornithine, phenylalanine, proline, serine, threonine, tryptophan, tyrosine, and valine;u is 0 or 1;p is 1, 2, 3, or 4;q is 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, or 12;r is 1, 2, 3, 4, or 5;s is 0 or 1;R40 is a bond,
-where the open valence of R40 that is bonded to Ab is denoted by an asterisk (*) and the open valence of R40 that is bonded to (CH2)r is denoted by a wavy line ();v is 0 or 1, with the provisos that v can be 0 only if s is 1 and R40 is a bond and that R40 can be a bond only if v is 0 and s is 1;each G is C or N, with the proviso that no more than two Gs are N;R2 is H or C1-C5 alkyl;R3 and R4 are independently H, F, Cl, Br, OH, C1-C3 alkyl, O(C1-C3 alkyl), cyano, (CH2)0-5NH2, or NO2;the double line  in the diazepine ring system represents a single bond or a double bond;R5 is H if the double line  is a single bond and is absent if the double line  is a double bond;R6 is H, OH, SO3Na, or SO3K if the double line  is a single bond and is absent if the double line  is a double bond;R7, R8, R9, and R10 are independently H, C1-C5 alkyl, C≡C(CH2)1-5X2, OH, O(C1-C5 alkyl), cyano, NO2, F, Cl, Br, O(CH2CH2O)1-8(C1-3 alkyl), (CH2)0-5X2, O(CH2)2-5X2, 3- to 7-membered cycloalkyl or heterocycloalkyl unsubstituted or substituted with (CH2)0-5X2 or O(CH2)2-5X2, phenyl unsubstituted or substituted with (CH2)0-5X2 or O(CH2)2-5X2, 5- to 6-membered heteroaryl unsubstituted or substituted with (CH2)0-5X2 or O(CH2)2-5X2,
-or where a R7, R8, R9, or R10 is attached to a G that is N, such R7, R8, R9, or R10 is absent;each X2 is independently H, F, Cl, Br, OH, O(C1-C3 alkyl), O(C1-C3 alkylene), CO2H, N3, CN, NO2, CO2(C1-C3 alkyl), NH2, NH(C1-C5 alkyl), N(C1-C5 alkyl)2, SH, CHO, N(CH2CH2)2N(C1-C3 alkyl), NHNH2, or C(═O)NHNH2;each Y is independently CH2, C═O, or CHR12; wherein each R12 is independently F, Cl, Br, or C1-C3 alkyl;n is 2, 3, 4, 5, or 6;X20 and X21 are independently
-wherein R20 is H or C1-C3 alkyl and R21 is O, NH, or N(C1-C3 alkyl;Ar1 is (i) a phenyl moiety, (ii) a 5- or 6-membered heteroaromatic moiety, or (iii) a polycyclic aromatic moiety comprising a phenyl or 6-membered heteroaromatic ring fused to a phenyl ring or a 5- or 6-membered heteroaromatic ring; each phenyl, heteroaromatic, or polycyclic aromatic moiety being optionally substituted with one or more of C1-C6 alkyl, Cl, or F;W is (a) C1-C6 alkyl or cycloalkyl or (b) an aromatic moiety comprising one to three (i) phenyl or (ii) 5- or 6-membered heteroaromatic rings, which phenyl or 5- or 6-membered heteroaromatic rings are optionally substituted with one or more of C1-C3 alkyl, OH, Cl, F, CH2F, CHF2, CF3, O(C1-C3 alkyl), O(CH2)2-4OH, O(CH2)0-2CHF2, C(═O)(C1-C3 alkyl), C(═O)O(C1-C3 alkyl), C(═O)NH2, C(═O)NH(C1-C3 alkyl), C(═O)N(C1-C3 alkyl)2, O(C2-C4 alkenyl), NH2, NH(C1-C3 alkyl), N(C1-C3 alkyl)2, O(CH2)0-2C6H5, CN, or NO2; wherein, if more than one phenyl or 5- or 6-membered heteroaromatic ring is present, such rings are fused to each other or joined by an aryl-aryl bond;each R35 is independently H, Cl, F, Br, C1-C5 alkyl, O(C1-C5 alkyl), OH, CN, NO2, NH(C═O)(C1-C5 alkyl), N(C1-C5 alkyl)2, or CF3;X22 is O or NH; andW' is an aromatic moiety comprising one to three (i) phenyl or (ii) 5- or 6-membered heteroaromatic rings, which phenyl or 5- or 6-membered heteroaromatic rings are optionally substituted with one or more of C1-C3 alkyl, OH, Cl, F, CH2F, CHF2, CF3, O(C1-C3 alkyl), O(CH2)2-4OH, O(CH2)0-2CHF2, C(═O)(C1-C3 alkyl), C(═O)O(C1-C3 alkyl), C(═O)NH2, C(═O)NH(C1-C3 alkyl), C(═O)N(C1-C3 alkyl)2, O(C2-C4 alkenyl), NH2, NH(C1-C3 alkyl), N(C1-C3 alkyl)2, O(CH2)0-2C6H5, CN, or NO2;wherein, if more than one phenyl or 5- or 6-membered heteroaromatic ring is present, such rings are fused to each other or joined by an aryl-aryl bond.
+<img> id-US20180110873A1-20180426-C00194.TIF </img>where the open valence of R40 that is bonded to Ab is denoted by an asterisk (*) and the open valence of R40 that is bonded to (CH2)r is denoted by a wavy line (<img> id-US20180110873A1-20180426-P00002.TIF </img>););v is 0 or 1, with the provisos that v can be 0 only if s is 1 and R40 is a bond and that R40 can be a bond only if v is 0 and s is 1;each G is C or N, with the proviso that no more than two Gs are N;R2 is H or C1-C5 alkyl;R3 and R4 are independently H, F, Cl, Br, OH, C1-C3 alkyl, O(C1-C3 alkyl), cyano, (CH2)0-5NH2, or NO2;the double line <img> id-US20180110873A1-20180426-P00003.TIF </img> in the diazepine ring system represents a single bond or a double bond; in the diazepine ring system represents a single bond or a double bond;R5 is H if the double line <img> id-US20180110873A1-20180426-P00003.TIF </img> is a single bond and is absent if the double line <img> id-US20180110873A1-20180426-P00003.TIF </img> is a double bond; is a single bond and is absent if the double line  is a double bond;R6 is H, OH, SO3Na, or SO3K if the double line <img> id-US20180110873A1-20180426-P00003.TIF </img> is a single bond and is absent if the double line <img> id-US20180110873A1-20180426-P00003.TIF </img> is a double bond; is a single bond and is absent if the double line  is a double bond;R7, R8, R9, and R10 are independently H, C1-C5 alkyl, C≡C(CH2)1-5X2, OH, O(C1-C5 alkyl), cyano, NO2, F, Cl, Br, O(CH2CH2O)1-8(C1-3 alkyl), (CH2)0-5X2, O(CH2)2-5X2, 3- to 7-membered cycloalkyl or heterocycloalkyl unsubstituted or substituted with (CH2)0-5X2 or O(CH2)2-5X2, phenyl unsubstituted or substituted with (CH2)0-5X2 or O(CH2)2-5X2, 5- to 6-membered heteroaryl unsubstituted or substituted with (CH2)0-5X2 or O(CH2)2-5X2,
+<img> id-US20180110873A1-20180426-C00195.TIF </img>or where a R7, R8, R9, or R10 is attached to a G that is N, such R7, R8, R9, or R10 is absent;each X2 is independently H, F, Cl, Br, OH, O(C1-C3 alkyl), O(C1-C3 alkylene), CO2H, N3, CN, NO2, CO2(C1-C3 alkyl), NH2, NH(C1-C5 alkyl), N(C1-C5 alkyl)2, SH, CHO, N(CH2CH2)2N(C1-C3 alkyl), NHNH2, or C(═O)NHNH2;each Y is independently CH2, C═O, or CHR12; wherein each R12 is independently F, Cl, Br, or C1-C3 alkyl;n is 2, 3, 4, 5, or 6;X20 and X21 are independently
+<img> id-US20180110873A1-20180426-C00196.TIF </img>wherein R20 is H or C1-C3 alkyl and R21 is O, NH, or N(C1-C3 alkyl;Ar1 is (i) a phenyl moiety, (ii) a 5- or 6-membered heteroaromatic moiety, or (iii) a polycyclic aromatic moiety comprising a phenyl or 6-membered heteroaromatic ring fused to a phenyl ring or a 5- or 6-membered heteroaromatic ring; each phenyl, heteroaromatic, or polycyclic aromatic moiety being optionally substituted with one or more of C1-C6 alkyl, Cl, or F;W is (a) C1-C6 alkyl or cycloalkyl or (b) an aromatic moiety comprising one to three (i) phenyl or (ii) 5- or 6-membered heteroaromatic rings, which phenyl or 5- or 6-membered heteroaromatic rings are optionally substituted with one or more of C1-C3 alkyl, OH, Cl, F, CH2F, CHF2, CF3, O(C1-C3 alkyl), O(CH2)2-4OH, O(CH2)0-2CHF2, C(═O)(C1-C3 alkyl), C(═O)O(C1-C3 alkyl), C(═O)NH2, C(═O)NH(C1-C3 alkyl), C(═O)N(C1-C3 alkyl)2, O(C2-C4 alkenyl), NH2, NH(C1-C3 alkyl), N(C1-C3 alkyl)2, O(CH2)0-2C6H5, CN, or NO2; wherein, if more than one phenyl or 5- or 6-membered heteroaromatic ring is present, such rings are fused to each other or joined by an aryl-aryl bond;each R35 is independently H, Cl, F, Br, C1-C5 alkyl, O(C1-C5 alkyl), OH, CN, NO2, NH(C═O)(C1-C5 alkyl), N(C1-C5 alkyl)2, or CF3;X22 is O or NH; andW' is an aromatic moiety comprising one to three (i) phenyl or (ii) 5- or 6-membered heteroaromatic rings, which phenyl or 5- or 6-membered heteroaromatic rings are optionally substituted with one or more of C1-C3 alkyl, OH, Cl, F, CH2F, CHF2, CF3, O(C1-C3 alkyl), O(CH2)2-4OH, O(CH2)0-2CHF2, C(═O)(C1-C3 alkyl), C(═O)O(C1-C3 alkyl), C(═O)NH2, C(═O)NH(C1-C3 alkyl), C(═O)N(C1-C3 alkyl)2, O(C2-C4 alkenyl), NH2, NH(C1-C3 alkyl), N(C1-C3 alkyl)2, O(CH2)0-2C6H5, CN, or NO2;wherein, if more than one phenyl or 5- or 6-membered heteroaromatic ring is present, such rings are fused to each other or joined by an aryl-aryl bond.
 Formulae (IVa), (IVb), and (IVc) correspond to conjugates derived from type (a), type (b) and type (c) drug-linker compounds, respectively.
 EXAMPLES
 The practice of this invention can be further understood by reference to the following examples, which are provided by way of illustration and not of limitation.
@@ -350,6 +403,7 @@ Compound & H226 & N87 & HCT116 & OVCAR3
 (Ib-55) & 0.018 & <0.004 & 0.004 & 0.045
 </table>
 The above results demonstrate the versatility of the heterodimers disclosed herein. The part of the dimer represented by
+<img> id-US20180110873A1-20180426-C00197.TIF </img>
 is readily amenable to substantial structural variability, allowing one to adjust the cytotoxic potency of the dimers, with IC50 values from the picomolar to the micromolar range, depending on the desired potency for the intended end use.
 Example 4-Intermediates 4 and 4a
 This example and FIG. 1 relate to the synthesis of intermediates 4 and 4a, usable for the preparation of compounds disclosed herein.
@@ -358,8 +412,10 @@ Ester 3 (1710 mg, 2.74 mmol) was dissolved in MeOH (40 mL). Water (10 mL) was ad
 DIAD (1.126 mL, 5.72 mmol) was added to a mixture of compound 2a (0.782 g, 3.81 mmol), compound 1 (1 g, 1.906 mmol) and triphenylphosphine (1.500 g, 5.72 mmol) in THF (7 mL) at 0° C. The reaction mixture was allowed to warm up to RT and was stirred at RT for 1 h. Water was added to quench the reaction. The aqueous solution was extracted with EtOAc and the combined organic layers were washed with brine, dried, filtered, and concentrated. The crude product was purified by flash chromatography eluting from silica gel with a gradient of 0-100% EtOAc in hexanes to afford 0.81 g of compound 3a as a white froth. MS: (+) m/z 712.2 (M+1).
 Methylamine in water (40 wt %, 3.25 mL, 37.5 mmol) was added to a mixture of compound 3a (0.81 g, 1.138 mmol) in MeOH (6 mL) at RT. The reaction mixture was stirred at RT for 4 h. The solvent was evaporated. The crude product was purified by flash chromatography eluting from silica gel with a gradient of 0-100% MeOH in DCM to afford 0.11 g of compound 4a as a white solid. MS: (+) m/z 582.2 (M+1).
 Compounds 4 and 4a are versatile starting points for the synthesis of diverse heterodimers. They provide a THIQ moiety and a polymethylene tether for connecting the two dimer halves. By attaching these compounds to a moiety
+<img> id-US20180110873A1-20180426-C00198.TIF </img>
 many different dimers can be made.
 The length of the polymethylene tether can be varied by using homologs of compounds 2 and 2a, to make homologs of compounds 4 and 4a having varying tether lengths, of the formula (V) or (Va):
+<img> id-US20180110873A1-20180426-C00199.TIF </img>
 where n is 2, 3, 4, 5, or 6
 Example 5-Compound (Ib-13)
 This example and FIG. 2 relate to the synthesis of compound (Ib-13). The procedure used can be adapted for the preparation of other dimers disclosed herein, as detailed hereinbelow.
@@ -378,56 +434,56 @@ TABLE III
  & Amine Used in Lieu of Amine 9 & Compound
 Com- &  & Source, Reference & LCMS
 pound & Structure & or Example & [M + H]
-(Ib-06) &  & Gijsen et al., WO 2010/094647 & 674.4
-(Ib-07) &  & Saito et al., WO 2015/115673 & 693.3
-(Ib-08) &  & Boy et al., US 2012/0028994 & 673.4
-(Ib-09) &  & Example 11 & 723.2
-(Ib-10) &  & Boy et al., US 2012/0028994 & 739.4
-(Ib-11) &  & Example 17 & 753.4
-(Ib-12) &  & Boy et al., WO 2015/153709 & 739.4
-(Ib-14) &  & Marcin et al., WO 2010/083141 & 754.4
-(Ib-15) &  & Marcin et al., WO 2010/083141 & 698.5
-(Ib-16) &  & Kamenecka et al., WO 2009/032861 & 673.4
-(Ib-17) &  & Warfield et al., WO 2016/073652 & 659.4
-(Ib-18) &  & Boy et al., US 2012/0028994 & 738.4
-(Ib-19) &  & Boy et al., US 2012/0028994 & 722.4
-(Ib-20) &  & Example 12 & 710.35
-(Ib-21) &  & Boy et al., US 2012/0028994 & 702.4
-(Ib-22) &  & Alfa & 658.4
-(Ib-23) &  & Synquest & 659.4
-(Ib-24) &  & ZelinskyBB & 658.4
-(Ib-25) &  & CAS Reg. No. 864076-06-2 & 730.4
-(Ib-26) &  & Boy et al., WO 2012/009309 & 689.4
+(Ib-06) & <img> id-US20180110873A1-20180426-C00200.TIF </img> & Gijsen et al., WO 2010/094647 & 674.4
+(Ib-07) & <img> id-US20180110873A1-20180426-C00201.TIF </img> & Saito et al., WO 2015/115673 & 693.3
+(Ib-08) & <img> id-US20180110873A1-20180426-C00202.TIF </img> & Boy et al., US 2012/0028994 & 673.4
+(Ib-09) & <img> id-US20180110873A1-20180426-C00203.TIF </img> & Example 11 & 723.2
+(Ib-10) & <img> id-US20180110873A1-20180426-C00204.TIF </img> & Boy et al., US 2012/0028994 & 739.4
+(Ib-11) & <img> id-US20180110873A1-20180426-C00205.TIF </img> & Example 17 & 753.4
+(Ib-12) & <img> id-US20180110873A1-20180426-C00206.TIF </img> & Boy et al., WO 2015/153709 & 739.4
+(Ib-14) & <img> id-US20180110873A1-20180426-C00207.TIF </img> & Marcin et al., WO 2010/083141 & 754.4
+(Ib-15) & <img> id-US20180110873A1-20180426-C00208.TIF </img> & Marcin et al., WO 2010/083141 & 698.5
+(Ib-16) & <img> id-US20180110873A1-20180426-C00209.TIF </img> & Kamenecka et al., WO 2009/032861 & 673.4
+(Ib-17) & <img> id-US20180110873A1-20180426-C00210.TIF </img> & Warfield et al., WO 2016/073652 & 659.4
+(Ib-18) & <img> id-US20180110873A1-20180426-C00211.TIF </img> & Boy et al., US 2012/0028994 & 738.4
+(Ib-19) & <img> id-US20180110873A1-20180426-C00212.TIF </img> & Boy et al., US 2012/0028994 & 722.4
+(Ib-20) & <img> id-US20180110873A1-20180426-C00213.TIF </img> & Example 12 & 710.35
+(Ib-21) & <img> id-US20180110873A1-20180426-C00214.TIF </img> & Boy et al., US 2012/0028994 & 702.4
+(Ib-22) & <img> id-US20180110873A1-20180426-C00215.TIF </img> & Alfa & 658.4
+(Ib-23) & <img> id-US20180110873A1-20180426-C00216.TIF </img> & Synquest & 659.4
+(Ib-24) & <img> id-US20180110873A1-20180426-C00217.TIF </img> & ZelinskyBB & 658.4
+(Ib-25) & <img> id-US20180110873A1-20180426-C00218.TIF </img> & CAS Reg. No. 864076-06-2 & 730.4
+(Ib-26) & <img> id-US20180110873A1-20180426-C00219.TIF </img> & Boy et al., WO 2012/009309 & 689.4
  & From same reaction for preparation of &  & 
  & compound (Ib-27); loss of Alloc group &  & 
  & leads to compound (Ib-26) &  & 
-(Ib-27) &  & Boy et al., WO 2012/009309 & 729.5
-(Ib-28) &  & Example 13 & 687.40
-(Ib-29) &  & CAS Reg. No. 267648-18-0 & 689.40
-(Ib-30) &  & GreenChem & 658.4
-(Ib-31) &  & Raddatz et al., WO 99/40094 (1999) & 687.4
-(Ib-32) &  & Example 18 & 687.4
-(Ib-33) &  & Sigma & 682.4
-(Ib-34) &  & Combi-Blocks & 695.4
+(Ib-27) & <img> id-US20180110873A1-20180426-C00220.TIF </img> & Boy et al., WO 2012/009309 & 729.5
+(Ib-28) & <img> id-US20180110873A1-20180426-C00221.TIF </img> & Example 13 & 687.40
+(Ib-29) & <img> id-US20180110873A1-20180426-C00222.TIF </img> & CAS Reg. No. 267648-18-0 & 689.40
+(Ib-30) & <img> id-US20180110873A1-20180426-C00223.TIF </img> & GreenChem & 658.4
+(Ib-31) & <img> id-US20180110873A1-20180426-C00224.TIF </img> & Raddatz et al., WO 99/40094 (1999) & 687.4
+(Ib-32) & <img> id-US20180110873A1-20180426-C00225.TIF </img> & Example 18 & 687.4
+(Ib-33) & <img> id-US20180110873A1-20180426-C00226.TIF </img> & Sigma & 682.4
+(Ib-34) & <img> id-US20180110873A1-20180426-C00227.TIF </img> & Combi-Blocks & 695.4
  & Alloc group removed during synthesis &  & 
-(Ib-35) &  & JW-Pharmalab & 623.4
-(Ib-36) &  & Combi-Blocks & 699.4
-(Ib-37) &  & Combi-Blocks & 647.4
-(Ib-39) &  & Rahman et al., J. Med. Chem. 2013, 56, 2911 & 729.35
-(Ib-40) &  & Oakwood & 653.35
-(Ib-41) &  & Aldrich & 592.35
-(Ib-42) &  & Aldrich & 556.30
-(Ib-43) &  & Aldrich & 668.30
-(Ib-44) &  & Aldrich & 593.30
-(Ib-45) &  & Aldrich & 627.30
-(Ib-46) &  & Aldrich & 593.30
-(Ib-47) &  & Aldrich & 627.25
-(Ib-50) &  & Example 14 & 738.40
-(Ib-51) &  & Oakwood & 698.40
-(Ib-53) &  & Example 15 & 743.05
+(Ib-35) & <img> id-US20180110873A1-20180426-C00228.TIF </img> & JW-Pharmalab & 623.4
+(Ib-36) & <img> id-US20180110873A1-20180426-C00229.TIF </img> & Combi-Blocks & 699.4
+(Ib-37) & <img> id-US20180110873A1-20180426-C00230.TIF </img> & Combi-Blocks & 647.4
+(Ib-39) & <img> id-US20180110873A1-20180426-C00231.TIF </img> & Rahman et al., J. Med. Chem. 2013, 56, 2911 & 729.35
+(Ib-40) & <img> id-US20180110873A1-20180426-C00232.TIF </img> & Oakwood & 653.35
+(Ib-41) & <img> id-US20180110873A1-20180426-C00233.TIF </img> & Aldrich & 592.35
+(Ib-42) & <img> id-US20180110873A1-20180426-C00234.TIF </img> & Aldrich & 556.30
+(Ib-43) & <img> id-US20180110873A1-20180426-C00235.TIF </img> & Aldrich & 668.30
+(Ib-44) & <img> id-US20180110873A1-20180426-C00236.TIF </img> & Aldrich & 593.30
+(Ib-45) & <img> id-US20180110873A1-20180426-C00237.TIF </img> & Aldrich & 627.30
+(Ib-46) & <img> id-US20180110873A1-20180426-C00238.TIF </img> & Aldrich & 593.30
+(Ib-47) & <img> id-US20180110873A1-20180426-C00239.TIF </img> & Aldrich & 627.25
+(Ib-50) & <img> id-US20180110873A1-20180426-C00240.TIF </img> & Example 14 & 738.40
+(Ib-51) & <img> id-US20180110873A1-20180426-C00241.TIF </img> & Oakwood & 698.40
+(Ib-53) & <img> id-US20180110873A1-20180426-C00242.TIF </img> & Example 15 & 743.05
  & Alloc group removed during course of &  & 
  & synthesis &  & 
-(Ib-54) &  & Example 16 & 683.40
+(Ib-54) & <img> id-US20180110873A1-20180426-C00243.TIF </img> & Example 16 & 683.40
  & Alloc group removed during course of &  & 
  & synthesis
 </table>
@@ -439,18 +495,18 @@ TABLE IV
  & Other Amine Used in Lieu of Compound 12 & Compound
 Com- &  & Source, Reference, & LCMS
 pound & Structure & or Example & [M + H]
-(Ib-01) &  & Aldrich & 589.4
-(Ib-02) &  & CAS Reg. No. 4424-17-3 & 589.35
-(Ib-03) &  & CAS Reg. No. 14315-16-3 & 589.3
-(Ib-04) &  & CAS Reg. No. 1184919-01-4 & 596.3
-(Ib-05) &  & CAS Reg. No. 1340272-93-6 & 596.3
-(Ib-38) &  & Astatech & 531.30
-(Ib-48) &  & Example 19 & 593.35
-(Ib-49) &  & Example 21 & 738.40
-(Ib-52) &  & Example 20 & 607.35
+(Ib-01) & <img> id-US20180110873A1-20180426-C00244.TIF </img> & Aldrich & 589.4
+(Ib-02) & <img> id-US20180110873A1-20180426-C00245.TIF </img> & CAS Reg. No. 4424-17-3 & 589.35
+(Ib-03) & <img> id-US20180110873A1-20180426-C00246.TIF </img> & CAS Reg. No. 14315-16-3 & 589.3
+(Ib-04) & <img> id-US20180110873A1-20180426-C00247.TIF </img> & CAS Reg. No. 1184919-01-4 & 596.3
+(Ib-05) & <img> id-US20180110873A1-20180426-C00248.TIF </img> & CAS Reg. No. 1340272-93-6 & 596.3
+(Ib-38) & <img> id-US20180110873A1-20180426-C00249.TIF </img> & Astatech & 531.30
+(Ib-48) & <img> id-US20180110873A1-20180426-C00250.TIF </img> & Example 19 & 593.35
+(Ib-49) & <img> id-US20180110873A1-20180426-C00251.TIF </img> & Example 21 & 738.40
+(Ib-52) & <img> id-US20180110873A1-20180426-C00252.TIF </img> & Example 20 & 607.35
  & Alloc group removed during course of &  & 
  & synthesis &  & 
-(Ib-55) &  & CAS Reg. No. 1821339-84-7 & 730.40
+(Ib-55) & <img> id-US20180110873A1-20180426-C00253.TIF </img> & CAS Reg. No. 1821339-84-7 & 730.40
 </table>
 Example 7-Drug-Linker Compounds (IIIa-01) and (IIIa-02)
 This example and FIGS. 3A-3B relate to the synthesis of drug-linker compounds (IIIa-01) and (IIIa-02).
@@ -492,47 +548,58 @@ DIPEA (0.018 mL, 0.105 mmol) was added to a mixture of the above residue (94 mg,
 Pyrrolidine (0.012 mL, 0.148 mmol) was added to a mixture of compound 45 and Pd(PPh3)4 (2.449 mg, 2.120 μmol) in DCM (3 mL) at 0° C. The reaction mixture was allowed to warm to RT and was stirred at RT for 30 min. The reaction mixture was injected on to an ISCO 30 g C18 column and eluted with water/acetonitrile (0.05% formic acid) over 30 min. The product-containing fractions were pooled and lyophilized to afford 12.7 mg of dimer-linker (IIIc-02) as a white solid. MS: (+) m/z 1012.3 (M+1).
 Example 11-Precursor for Compound (Ib-09)
 This example describes the preparation of 3-(difluoromethyl)-4-(3-methyl-1H-1,2,4-triazol-1-yl)aniline, which was used instead of compound 9 to prepare compound (Ib-09), analogously following the procedure of Example 5 and FIG. 2.
+<img> id-US20180110873A1-20180426-C00254.TIF </img>
 To a magnetically stirred solution of 2-(difluoromethyl)-1-fluoro-4-nitrobenzene (2 g, 10.47 mmol) in DMSO (10 mL) at 0° C. were added K2CO3 (1.446 g, 10.47 mmol) and 3-methyl-1H-1,2,4-triazole (0.870 g, 10.47 mmol). The reaction mixture was allowed to warm to RT and stirred overnight, poured into ice and extracted with EtOAc (50 mL, twice). The combined organic layers were washed with brine, dried over Na2SO4, and concentrated under reduced pressure. The residue was purified on Biotage using a 0-20% gradient of EtOAc in petroleum ether. Two sets of fractions with desired product mass were isolated, one of which was confirmed to be the desired nitro triazole product by x-ray crystal analysis. 1H NMR (400 MHz, CHLOROFORM-d) δ 400 MHz: 8.74-8.73 (1H, d, J=2.1 Hz), 8.51-8.47 (1H, m), 8.39 (1H, s), 7.70-7.67 (1H, d, J=8.4), 7.39-7.02 (1H, t, J=54), 2.53 (3H, s). LCMS M+H=255.2.
 A dried 250 mL two-necked, round-bottom flask equipped with a magnetic stirring bar, an adaptor with an N2 inlet, and a cooled condenser was charged with the nitro triazole product from the preceding step (0.1 g, 0.393 mmol) in MeOH (50 mL). To this added Pd/C (8.37 mg, 0.079 mmol). The reaction mixture was stirred at RT under hydrogen pressure for 6 h. The reaction mixture was filtered through a CELITE™ bed and concentrated under reduced pressure. The residue was dissolved in DCM (10 mL) over silica (5 g). The resultant slurry of the compound on silica (4 g RediSep silica column, 50% EtOAc in petroleum ether) to get the desired compound as a light green solid (0.07 g, 79%). 1H NMR (400 MHz, CHLOROFORM-d) δ 8.11 (1H, s), 7.17-7.14 (1H, d, J=8.4 Hz), 7.02-7.01 (1H, d, J=2.0 Hz), 6.80-6.78 (1H, m), 6.78-6.51 (1H, t, J=51 Hz), 4.02 (2H, bs), 2.47 (3H, s). LCMS M+H=225.2.
 Example 12-Precursor for Compound (Ib-20)
 This example describes the preparation of 4-(4-chloro-1H-imidazol-1-yl)-3-fluoroaniline, which was used instead of compound 9 to prepare compound (Ib-20), analogously following the procedure of Example 5 and FIG. 2.
+<img> id-US20180110873A1-20180426-C00255.TIF </img>
 A magnetically stirred mixture of 4-chloro-1H-imidazole (15.0 g, 146 mmol), 1,2-difluoro-4-nitrobenzene (30 g, 189 mmol), and K2CO3 (20.22 g, 146 mmol) in DMSO (50 mL) was heated at 80° C. for 4 h. The resulting dark black solution was allowed to cool to RT. The reaction contents was poured into 800 mL water and vigorously stirred for 15 min. An orange preceipitate immediately crashed out and was collected to give 4-chloro-1-(2-fluoro-4-nitro-phenyl)-1H-imidazole (34.6 g, 98%). 1H NMR (500 MHz, CHLOROFORM-d) δ 8.23-8.16 (m, 2H), 7.81-7.78 (m, 1H), 7.61-7.56 (m, 1H), 7.26-7.25 (m, 1H). LCMS M+H=242.07.
 Iron powder (4.62 g, 83 mmol) was added to a 250 mL round bottom flask charged with a mixture of the previous product (10 g, 41.4 mmol), HOAc (40 mL, 699 mmol), and EtOH (100 mL). A water cooled reflux condenser was attached to the flask and the heterogeneous mixture was heated to 100° C. with vigorous stirring for 30 min and cooled to RT. The crude reaction product was filtered over CELITE™ and washed with EtOAc. The organic layer was chilled in an ice bath and neutralized with 5 M NaOH. The resulting solution was poured into a separatory funnel and extracted with EtOAc. The combined organic layers were washed with brine, dried over Na2SO4, filtered, and concentrated in vacuo to afford a solid. The crude product was analyzed by LCMS and the major peak had an ion consistent with desired product 4-(4-chloro-1H-imidazol-1-yl)-3-fluoroaniline (5.5 g, 68%, used as is). LCMS M+H=212.1.
 Example 13-Precursor for Compound (Ib-28)
 This example describes the preparation of 3,5-dimethyl-4-(1H-1,2,4-triazol-1-yl)aniline, which was used instead of compound 9 to prepare compound (Ib-28), analogously following the procedure of Example 5 and FIG. 2.
+<img> id-US20180110873A1-20180426-C00256.TIF </img>
 A mixture of 2-chloro-1,3-dimethyl-5-nitrobenzene (1 g, 5.39 mmol), 1H-1,2,4-triazole (0.372 g, 5.39 mmol) and Cs2CO3 (1.931 g, 5.93 mmol) in DMSO (10 mL) was stirred at 90° C. for 16 h then cooled to RT (LC-MS showed minor product formation). The reaction mixture was poured into water, stirred overnight, and filtered. The dark brown filter cake was washed with water and suction-dried, and further dried on the vacuum pump to give 1-(2-methoxy-4-nitrophenyl)-1H-1,2,4-triazole (1.04 g, 88%, used as is). LCMS M+H=219.05.
 The product from the preceding step (1 g, 4.58 mmol) was taken up in EtOH/water (2:1, 12 mL), NH4Cl (1.961 g, 36.7 mmol) and iron (1.024 g, 18.33 mmol) were added successively. The mixture was heated at 70° C. for 1 h and cooled to RT. The mixture was then treated with aqueous NH4OH (10 mL) and EtOAc (100 mL). The mixture was stirred for 10 min then filtered through CELITE™. The filter cake was washed successively with water and EtOAc. The filtrate layers were partitioned. The organic phases were dried over MgSO4, filtered and concentrated to give 3,5-dimethyl-4-(1H-1,2,4-triazol-1-yl)aniline as a golden yellow solid (0.85 g, 99%). LCMS M+H=189.04.
 Example 14-Precursor for Compound (Ib-50)
 This example describes the preparation of 4-(4-aminophenyl)-N,1-dimethyl-1H-imidazole-2-carboxamide, which was used instead of compound 9 to prepare compound (Ib-50), analogously following the procedure of Example 5 and FIG. 2.
+<img> id-US20180110873A1-20180426-C00257.TIF </img>
 To a solution of 4-(4-((tert-butoxycarbonyl)amino)phenyl)-1-methyl-1H-imidazole-2-carboxylic acid (0.068 g, 0.215 mmol, 1 equiv) and DIPEA (0.15 mL, 0.860 mmol, 4 equiv) in DCM (2.2 mL) was added HATU (0.114 g, 0.301 mmol, 1.4 equiv). After 2 min, methylamine hydrochloride (0.029 g, 0.430 mmol, 2 equiv) was added. After 1 h, the reaction mixture was purified directly by silica gel flash column chromatography (0-100% EtOAc/hex) to provide the corresponding methyl amide (0.060 g, 85%) as a white solid. 1H NMR (400 MHz, CDCl3) δ 7.46-7.31 (m, 4H), 6.97 (s, 1H), 6.74 (s, 1H), 6.46 (br. s., 1H), 5.92 (br. s., 1H), 3.98 (s, 3H), 2.97 (d, J=4.8 Hz, 3H), 1.54 (s, 9H); LCMS M+H=330.10.
 To a solution of the methyl amide (0.060 g, 0.182 mmol, 1 equiv) in DCM (1 mL) and MeOH (1 mL) was added 4 N HCl in dioxane (3 mL). After 3 h, the reaction was concentrated in vacuo to provide 4-(4-aminophenyl)-N, 1-dimethyl-1H-imidazole-2-carboxamide. LCMS M+H=230.05.
 Example 15-Precursor for Compound (Ib-53)
 This example describes the preparation of allyl (4'-amino-3,3'-dimethoxy-[1,1'-biphenyl]-4-yl)carbamate, which was used instead of compound 9 to prepare compound (Ib-53), analogously following the procedure of Example 5 and FIG. 2.
+<img> id-US20180110873A1-20180426-C00258.TIF </img>
 To a solution of 3,3'-dimethoxy-[1,1'-biphenyl]-4,4'-diamine (2.3 g, 9.42 mmol, 1 equiv) and DIPEA (4.9 mL, 28.2 mmol, 3 equiv) in THF (94 mL) was added allyl chloroformate (1.14 mL, 9.42 mmol, 1 equiv). After 1 h, the reaction was diluted with EtOAc and washed with brine (×2). The EtOAc layer was dried (Na2SO4) and concentrated in vacuo. The crude product was purified by flash column silica gel chromatography (10-100% EtOAc/hexane gradient) to give product (1.78 g, 58%) as a viscous tan oil. 1H NMR (400 MHz, CDCl3) δ 8.12 (br. s., 1H), 7.32-7.28 (m, 1H), 7.14 (dd, J=8.4, 1.4 Hz, 1H), 7.06-6.98 (m, 3H), 6.78 (d, J=7.8 Hz, 1H), 6.10-5.91 (m, 1H), 5.40 (dd, J=17.2, 1.4 Hz, 1H), 5.32-5.24 (m, 1H), 4.70 (d, J=5.5 Hz, 2H), 3.94 (s, 6H), 3.86 (br. s., 2H); LCMS M+H=329.00.
 Example 16-Precursor for Compound (Ib-54)
 This example describes the preparation of allyl (4'-amino-[1,1'-biphenyl]-4-yl)carbamate, which was used instead of compound 9 to prepare compound (Ib-54), analogously following the procedure of Example 5 and FIG. 2.
+<img> id-US20180110873A1-20180426-C00259.TIF </img>
 To a solution of benzidine (2 g, 10.9 mmol, 2 eq.) and pyridine (0.53 mL, 5.51 mmol, 1.2 equiv) in THF was added allyl chloroformate (0.58 mL, 5.43 mmol, 1 equiv). Immediate formation of an off-white precipitate was observed. After stirring for 18 h, the reaction mixture was diluted with EtOAc and washed with 10% aqueous K2CO3 and then brine. The EtOAc layer was dried (Na2SO4) and concentrated in vacuo. The crude product was purified by flash column silica gel chromatography (10-100% EtOAc/hexane gradient) to give product (0.78 g, 54%) as a pale orange solid. 1H NMR (400 MHz, CDCl3) δ 7.51-7.46 (m, 2H), 7.44-7.37 (m, 4H), 6.76 (d, J=8.5 Hz, 2H), 6.65 (br. s., 1H), 6.09-5.89 (m, 1H), 5.39 (d, J=17.3 Hz, 1H), 5.29 (d, J=10.3 Hz, 1H), 4.70 (d, J=5.8 Hz, 2H), 3.74 (br. s., 2H); LCMS M+H 269.0.
 Example 17-Precursor for Compound (Ib-11)
 This example describes the preparation of 3-(2,2-difluoroethoxy)-4-(3-methyl-1H-1,2,4-triazol-1-yl)aniline, which used instead of compound 9 to prepare compound (Ib-11), analogously following the procedure of Example 5 and FIG. 2.
+<img> id-US20180110873A1-20180426-C00260.TIF </img>
 2-Aminoprop-1-en-1-yl 4-methylbenzenesulfonate (0.265 g, 1.168 mmol), NMP (1.946 ml), 2-amino-5-nitrophenol (0.15 g, 0.973 mmol), triethyl orthoformate (0.178 ml, 1.071 mmol) and ethanesulfonic acid (10.72 mg, 0.097 mmol) were added to a 25 mL round-bottomed flask. The dark yellow solution was stirred 40° C. under argon for 20 h. The reaction was diluted with water (16 mL). A thick yellow precipitate formed. The pH was adjusted to about 7 with saturated NaHCO3. The suspension was stirred at RT for 1 h. The suspension was filtered and the flask and solids were washed with water (2×8 mL). The tan solid (0.186 g, 86%) that remained was vacuum dried for 17 h. MH+=220.9.
 A mixture of 2-(3-methyl-1H-1,2,4-triazol-1-yl)-5-nitrophenol (1 g, 4.54 mmol), 1,1-difluoro-2-iodoethane (0.872 g, 4.54 mmol) was dissolved in DMF (5 mL). To that was added K2CO3 (0.753 g, 5.45 mmol). The reaction mixture was refluxed at 80° C. overnight. Then the reaction mixture was concentrated under reduced pressure. Then the crude mixture was quenched with ice cold water (15 ml) to get prepcitate which was filtered and dried overnight to get 1-(2-(2,2-difluoroethoxy)-4-nitrophenyl)-3-methyl-1H-1,2,4-triazole (1 g, 77%) as a brown solid. MH+=285.6.
 A dried 500 mL two-necked round-bottom flask (equipped with a magnetic stirring bar, a cooled condenser, and an adaptor with an N2 inlet) was charged with the product from the preceding step (1 g, 3.52 mmol) dissolved in ethanol (30 mL) and water (15 mL) under nitrogen atmosphere. To the flask were added NH4Cl (0.941 g, 17.59 mmol) and iron (0.982 g, 17.59 mmol). The reaction mixture was heated at 80° C. overnight. Then the reaction mixture was cooled to RT, filtered through CELITE™ and concentrated under reduced pressure to obtain 3-(2,2-difluoroethoxy)-4-(3-methyl-1H-1,2,4-triazol-1-yl)aniline (0.8 g, 89%) as brown solid. 1H NMR (400 MHz, DMSO-d6) δ ppm 8.34-8.55 (s, 1H) 7.22 (br. s., 1H) 6.16-6.54 (m, 3H) 5.61 (br. s., 2H) 4.11-4.40 (m, 2H) 2.31 (s, 3H). MH+=255.2.
 Example 18-Precursor for Compound (Ib-32)
 This example describes the preparation of 4H-benzo[b][1,2,4]triazolo[4,3-d][1,4]oxazin-8-amine, which used instead of compound 9 to prepare compound (Ib-32), analogously following the procedure of Example 5 and FIG. 2.
+<img> id-US20180110873A1-20180426-C00261.TIF </img>
 Lawesson's reagent (6.5 g, 15.75 mmol) was added to a brown suspension of 6-nitro-2H-benzo[b][1,4]oxazin-3(4H)-one (6.15 g, 31.68 mmol) in THF (160 mL) and the heterogenous mixture was stirred at RT for 18 h. The resultant clear golden yellow solution was diluted with water (1300 mL), and the yellow suspension was filtered. The filter cake was washed with water, taken up in ETOAc, washed with brine, then concentrated. The residue was purified on silica using 1-5% EtOAc in DCM. The desired fractions were concentrated to give a yellow solid (5.45 g, 82%). MH+=211.3.
 Hydrazine monhydrate (0.46 mL, 9.28 mmol) was added to a pale yellow solution of 6-nitro-2H-benzo[b][1,4]oxazine-3(4H)-thione (1.5 g, 7.14 mmol) in ethanol (100 mL) and the resultant bright yellow suspension was stirred at RT overnight and concentrated. The residue was taken up in water and the suspension was filtered, the filter cake was washed with water and suction-dried to give a bright yellow solid (1.3 g, 87%). MH+=209.4.
 A mixture of (E)-3-hydrazono-6-nitro-3,4-dihydro-2H-benzo[b][1,4]oxazine (0.5 g, 2.4 mmol) and triethyl orthoformate (8.15 mL, 48 mmol) was heated to 150° C. for 3 h and concentrated. The bright yellow residue was taken up in methanol (18 mL), filtered, filter cake washed with methanol and suction-dried to give a yellow solid (0.46 g, 88%). MH+=219.2.
 A suspension of 8-nitro-4H-benzo[b][1,2,4]triazolo[4,3-d][1,4]oxazine (0.46 g,) in THF/MeOH (1:1, 100 mL) was subjected to hydrogenation at 1 atm using 10% Pd/C (0.1 g) for 18 h. The reaction mixture was filtered through CELITE™ and concentrated. The residue was purified on silica using 2-7% MeOH in DCM. The desired fractions were concentrated to give a pale yellow solid (0.29 g, 73%). MH+=189.3.
 Example 19-Precursor for Compound (Ib-48)
 This example describes the preparation of 4-amino-1-methyl-N-phenyl-1H-imidazole-2-carboxamide, which used instead of compound 12 to prepare compound (Ib-48), analogously following the procedure of Example 5 and FIG. 2.
+<img> id-US20180110873A1-20180426-C00262.TIF </img>
 4-((tert-Butoxycarbonyl)amino)-1-methyl-1H-imidazole-2-carboxylic acid was coupled with aniline in an HATU-mediated reaction, followed by removal of the Boc protecting group with HCl, generally following the conditions described hereinabove, to yield 4-amino-1-methyl-N-phenyl-1H-imidazole-2-carboxamide.
 Example 20-Precursor for Compound (Ib-52)
 This example describes the preparation of allyl (4-(4-amino-1-methyl-1H-pyrrole-2-carboxamido)phenyl)carbamate, which was used instead of compound 12 to prepare compound (Ib-52), analogously following the procedure of Example 5 and FIG. 2.
+<img> id-US20180110873A1-20180426-C00263.TIF </img>
 A solution of benzene-1,4-diamine (0.90 g, 8.32 mmol, 1.1 equiv) and 1H-benzo[d][1,2,3]triazol-1-yl 4-((tert-butoxycarbonyl)amino)-1-methyl-1H-pyrrole-2-carboxylate (2.68 g, 7.49 mmol, 1 equiv) in DMF (21 mL) was heated at 60° C. for 2 h. Upon cooling to RT, the reaction was diluted with EtOAc and washed with water and then brine. The EtOAc layer was dried (Na2SO4) and concentrated in vacuo. The crude product was purified by flash column silica gel chromatography (60-100% EtOAc/hexane gradient) to give the adduct (3.17 g, 100%) as a viscous brown oil. 1H NMR (400 MHz, CDCl3) δ 7.79 (d, J=2.3 Hz, 1H), 7.49-7.39 (m, 2H), 7.30 (d, J=8.5 Hz, 2H), 6.84 (br. s., 1H), 6.68 (d, J=8.5 Hz, 2H), 6.58 (br. s., 1H), 6.23 (br. s., 1H), 3.90 (s, 3H), 1.52 (s, 9H); LCMS M+H=331.05.
 To a solution of the adduct (0.59 g, 1.79 mmol, 1 equiv) and DIPEA (0.75 mL, 4.29 mmol, 2.4 equiv) in DCM (9 mL) was added allyl chloroformate (0.23 mL, 2.14 mmol, 1.2 equiv). After stirring 2 h, the reaction was diluted with EtOAc and washed with water and then brine. The EtOAc layer was dried (Na2SO4) and concentrated in vacuo. The crude product was purified by flash column silica gel chromatography (20-100% EtOAc/hexane) to give the Alloc protected compound (0.13 g, 18%) as a poorly soluble tan solid. LCMS M+H=415.05.
 To a solution of the Alloc-protected compound (0.13 g, 0.314 mmol, 1 equiv) in DCM (1 mL) and MeOH (1 mL) was added 4 N HCl in dioxane (2 mL). After 2 h, the reaction was concentrated in vacuo to provide the HCl salt of allyl (4-(4-amino-1-methyl-1H-pyrrole-2-carboxamido)phenyl)carbamate (0.13 g, 100%) as a tan solid LCMS M+H=315.10.
 Example 21-Precursor for Compound (Ib-49)
 This example describes the preparation of 4-amino-1-methyl-N-(4-(1-methyl-5-(oxazol-2-yl)-1H-pyrrol-3-yl)phenyl)-1H-pyrrole-2-carboxamide, which was used instead of compound 12 to prepare compound (Ib-49), analogously following the procedure of Example 5 and FIG. 2
+<img> id-US20180110873A1-20180426-C00264.TIF </img>
 To a solution of 4-(4-((tert-butoxycarbonyl)amino)phenyl)-1-methyl-1H-pyrrole-2-carboxylic acid (0.13 g, 0.411 mmol, 1 equiv) and 2,2-dimethoxyethanamine (0.13 g, 1.23 mmol, 3 equiv) in DMF (4.1 mL) was added HATU (0.22 g, 0.575 mmol, 1.4 equiv). After stirring for 2 h, the reaction was diluted with EtOAc. The EtOAc solution was washed with water and then brine. The EtOAc layer was dried (Na2SO4) and concentrated in vacuo.
 The crude amide product was then treated with MsOH (1.2 mL) and P2O5 (0.12 g) and heated at 140° C. for 3 h. Upon cooling to RT, the dark brown mixture was added to 1 N NaOH and extracted with DCM (×3). The combined DCM layers were dried (Na2SO4) and concentrated in vacuo to yield the crude oxazole product.
 The crude oxazole was taken up in DMF (2 mL) and 1H-benzo[d][1,2,3]triazol-1-yl 4-((tert-butoxycarbonyl)amino)-1-methyl-1H-pyrrole-2-carboxylate (0.29 g, 0.822 mmol, 2 equiv) was added. After stirring 18 h, the DMF solution was diluted with EtOAc and washed with water and brine. The EtOAc layer was washed with water then brine. The EtOAc layer was dried (Na2SO4) and concentrated in vacuo. The crude product was purified by flash column silical gel chromatography (30-100% EtOAc/hexane gradient) to provide the Boc-protected quasi-final product (0.149 g, 79%) as a tan solid. 1H NMR (400 MHz, CDCl3) δ 9.10 (br. s., 1H), 7.65 (br. s., 1H), 7.62 (d, J=8.5 Hz, 2H), 7.49 (d, J=8.5 Hz, 2H), 7.18 (s, 1H), 6.92 (t, J=6.3 Hz, 1H), 6.87 (br. s., 1H), 6.76 (d, J=7.0 Hz, 1H), 6.70 (br. s., 1H), 6.28 (br. s., 1H), 4.24 (s, 3H), 3.95 (s, 3H), 1.53 (s, 9H); LCMS M+H=462.15.

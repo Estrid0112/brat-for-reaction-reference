@@ -7,11 +7,13 @@ Embodiments relate to a heterocyclic compound and an organic light-emitting devi
 Organic light-emitting devices are self-emission devices, have wide viewing angles, high contrast ratios, short response times, and excellent luminance, driving voltage, and response speed characteristics, and produce full-color images. An example of such organic light-emitting devices may include a first electrode disposed on a substrate, and a hole transport region, an emission layer, an electron transport region, and a second electrode, which are sequentially disposed on the first electrode. Holes provided from the first electrode may move toward the emission layer through the hole transport region, and electrons provided from the second electrode may move toward the emission layer through the electron transport region. Carriers, such as holes and electrons, recombine in the emission layer to produce excitons. These excitons transition from an excited state to a ground state, thereby generating light.
 SUMMARY
 Embodiments are directed to a heterocyclic compound is represented by Formula 1:
+<img> id-US20180019410A1-20180118-C00002.TIF </img>
 wherein Formula 1 and Formula 2 are further defined as set forth herein.
 According to one or more embodiments, an organic light-emitting device includes: a first electrode; a second electrode facing the first electrode; and an organic layer that is disposed between the first electrode and the second electrode and includes an emission layer, wherein the organic layer includes a heterocyclic compound represented by Formula 1.
 DETAILED DESCRIPTION
 Example embodiments will now be described more fully hereinafter with reference to the accompanying drawings; however, they may be embodied in different forms and should not be construed as limited to the embodiments set forth herein. Rather, these embodiments are provided so that this disclosure will be thorough and complete, and will fully convey exemplary implementations to those skilled in the art. In the drawing figures, the dimensions of layers and regions may be exaggerated for clarity of illustration. Like reference numerals refer to like elements throughout.
 A heterocyclic compound according to an embodiment may be represented by Formula 1:
+<img> id-US20180019410A1-20180118-C00003.TIF </img>
 wherein R1 to R11, L11, a11, R12, and b12 in Formulae 1 and 2 are the same as described below.
 In Formula 1,
 R5 may be a group represented by Formula 2, and
@@ -45,6 +47,7 @@ a C1-C10 alkyl group, a C1-C10 alkoxy group, a phenyl group, a biphenyl group, a
 a phenyl group, a biphenyl group, a terphenyl group, a naphthyl group, a pyridinyl group, a pyrimidinyl group, a pyrazinyl group, a quinolinyl group, an isoquinolinyl group, a quinoxalinyl group, and a quinazolinyl group, each substituted with at least one selected from a C1-C10 alkyl group, a C1-C10 alkoxy group, and a phenyl group,
 but embodiments are not limited thereto.
 In one or more embodiments, L11 in Formula 2 may be selected from *-P(═O)(Q4)-', *-P(═S)(Q4)-*', *-s(═O)-*', *-s(═O)2-*', and groups represented by Formulae 3-1 to 3-47, but embodiments are not limited thereto:
+<img> id-US20180019410A1-20180118-C00004.TIF </img><img> id-US20180019410A1-20180118-C00005.TIF </img><img> id-US20180019410A1-20180118-C00006.TIF </img><img> id-US20180019410A1-20180118-C00007.TIF </img><img> id-US20180019410A1-20180118-C00008.TIF </img><img> id-US20180019410A1-20180118-C00009.TIF </img>
 wherein, in Formulae 3-1 to 3-47,
 Y1 may be O, S, C(Z3)(Z4), N(Z5), or Si(Z6)(Z7),
 Z1 to Z7 may each independently be selected from:
@@ -59,6 +62,7 @@ d6 may be an integer selected from 1 to 6, and
 d8 may be an integer selected from 1 to 8.
 In one or more embodiments, L11 in Formula 2 may be selected from *-P(═O)(Q4)-*', and groups represented by Formulae 3-1, 3-2, 3-3, 3-6, 3-12, 3-14, 3-31, and 3-47, but embodiments are not limited thereto, and Q4 may be selected from hydrogen, deuterium, -F, -Cl, -Br, -I, a hydroxyl group, a cyano group, a nitro group, an amidino group, a hydrazino group, a hydrazono group, a C1-C60 alkyl group, a phenyl group, a biphenyl group, and a terphenyl group; and a phenyl group, a biphenyl group, and a terphenyl group, each substituted with at least one selected from deuterium, -F, -Cl, -Br, -I, a hydroxyl group, a cyano group, a nitro group, an amidino group, a hydrazino group, a hydrazono group, and a C1-C0 alkyl group.
 In one or more embodiments, L11 in Formula 2 may be selected from groups represented by Formulae 4-1 to 4-30, but embodiments are not limited thereto:
+<img> id-US20180019410A1-20180118-C00010.TIF </img><img> id-US20180019410A1-20180118-C00011.TIF </img><img> id-US20180019410A1-20180118-C00012.TIF </img><img> id-US20180019410A1-20180118-C00013.TIF </img>
 a11 in Formula 2 may be an integer selected from 0 to 3, but embodiments are not limited thereto. In one or more embodiments, a11 may be 0, 1, or 2, but embodiments are not limited thereto. For example, all may be 0 or 1. When a11 is two or more, two or more L11(s) may be identical to or different from each other. When a11 is zero, L11 may be a single bond.
 R12 in Formula 2 may be selected from a substituted or unsubstituted C3-C10 cycloalkyl group, a substituted or unsubstituted C1-C10 heterocycloalkyl group, a substituted or unsubstituted C3-C10 cycloalkenyl group, a substituted or unsubstituted C1-C10 heterocycloalkenyl group, a substituted or unsubstituted C6-C60 aryl group, a substituted or unsubstituted C6-C60 aryloxy group, a substituted or unsubstituted C6-C60 arylthio group, a substituted or unsubstituted C1-C60 heteroaryl group, a substituted or unsubstituted monovalent non-aromatic condensed polycyclic group, a substituted or unsubstituted monovalent non-aromatic condensed heteropolycyclic group, -Si(Q4)(Q5)(Q6), -N(Q4)(Q5), -B(Q4)(Q5), -C(═O)(Q4), -P(═O)(Q4)(Q5), -P(═S)(Q4)(Q5), -S(═O)(Q4), and -S(═O)2(Q4), but embodiments are not limited thereto.
 In one or more embodiments, R12 in Formula 2 may be selected from:
@@ -70,6 +74,7 @@ a C1-C10 alkyl group, a C1-C10 alkoxy group, a phenyl group, a biphenyl group, a
 a phenyl group, a biphenyl group, a terphenyl group, a naphthyl group, a pyridinyl group, a pyrimidinyl group, a pyrazinyl group, a quinolinyl group, an isoquinolinyl group, a quinoxalinyl group, and a quinazolinyl group, each substituted with at least one selected from a C1-C10 alkyl group, a C1-C10 alkoxy group, and a phenyl group,
 but embodiments are not limited thereto.
 In one or more embodiments, R12 in Formula 2 may be selected from -B(Q4)(Q5), -P(═O)(Q4)(Q5), -P(═S)(Q4)(Q5), -S(═O)(Q4), -S(═O)2(Q4), and groups represented by Formulae 5-1 to 5-90, but embodiments are not limited thereto:
+<img> id-US20180019410A1-20180118-C00014.TIF </img><img> id-US20180019410A1-20180118-C00015.TIF </img><img> id-US20180019410A1-20180118-C00016.TIF </img><img> id-US20180019410A1-20180118-C00017.TIF </img><img> id-US20180019410A1-20180118-C00018.TIF </img><img> id-US20180019410A1-20180118-C00019.TIF </img><img> id-US20180019410A1-20180118-C00020.TIF </img><img> id-US20180019410A1-20180118-C00021.TIF </img><img> id-US20180019410A1-20180118-C00022.TIF </img>
 wherein, in Formulae 5-1 to 5-90.
 Y31 may be O, S, C(Z34)(Z35), N(Z36), or Si(Z37)(Z38),
 Z31 to Z38 may each independently be selected from:
@@ -87,6 +92,7 @@ In one or more embodiments, R12 may be selected from -B(Q4)(Q5), -P(═O)(Q4)(Q5
 Q4 and Q5 may each independently be selected from hydrogen, deuterium, -F, -Cl, -Br, -I, a hydroxyl group, a cyano group, a nitro group, an amidino group, a hydrazino group, a hydrazono group, a C1-C60 alkyl group, a phenyl group, a biphenyl group, and a terphenyl group; and
 a phenyl group, a biphenyl group, and a terphenyl group, each substituted with at least one selected from deuterium, -F, -Cl, -Br, -I, a hydroxyl group, a cyano group, a nitro group, an amidino group, a hydrazino group, a hydrazono group, and a C1-C60 alkyl group.
 In one or more embodiments, R12 in Formula 2 may be selected from groups represented by Formulae 6-1 to 6-22, but embodiments are not limited thereto:
+<img> id-US20180019410A1-20180118-C00023.TIF </img><img> id-US20180019410A1-20180118-C00024.TIF </img><img> id-US20180019410A1-20180118-C00025.TIF </img>
 b12 in Formula 2 may be an integer selected from 1 to 3, but embodiments are not limited thereto. For example, b12 may be 1 or 2. When b12 is two or more, two or more R12(s) may be identical to or different from each other.
 In one or more embodiments, in Formula 1,
 R1 to R4 and R6 to R11 may each independently be selected from:
@@ -100,7 +106,9 @@ a11 may be an integer selected from 0 to 2,
 R12 may be selected from groups represented by Formulae 6-1 to 6-22.
 b12 may be 1 or 2, and
 Q1 to Q3 may each independently be selected from a C1-C20 alkyl group, a C1-C20 alkoxy group, a phenyl group, and a naphthyl group:
+<img> id-US20180019410A1-20180118-C00026.TIF </img><img> id-US20180019410A1-20180118-C00027.TIF </img><img> id-US20180019410A1-20180118-C00028.TIF </img><img> id-US20180019410A1-20180118-C00029.TIF </img><img> id-US20180019410A1-20180118-C00030.TIF </img><img> id-US20180019410A1-20180118-C00031.TIF </img>
 The heterocyclic compound represented by Formula 1 may be one selected from Compounds 1 to 87 below, but embodiments are not limited thereto:
+<img> id-US20180019410A1-20180118-C00032.TIF </img><img> id-US20180019410A1-20180118-C00033.TIF </img><img> id-US20180019410A1-20180118-C00034.TIF </img><img> id-US20180019410A1-20180118-C00035.TIF </img><img> id-US20180019410A1-20180118-C00036.TIF </img><img> id-US20180019410A1-20180118-C00037.TIF </img><img> id-US20180019410A1-20180118-C00038.TIF </img><img> id-US20180019410A1-20180118-C00039.TIF </img><img> id-US20180019410A1-20180118-C00040.TIF </img><img> id-US20180019410A1-20180118-C00041.TIF </img>
 The heterocyclic compound represented by Formula 1 may include a benzacridine core. The heterocyclic compound may form a π-conjugated system in an entire structure and may have a structure with low intramolecular steric hindrance. Therefore, a tight packing between molecules may be facilitated to thereby improve charge transport capability. Also, the π-conjugated structure of the heterocyclic compound may contributed to a high glass transition temperature (Tg) and a high melting point. Therefore, an organic light-emitting device including the heterocyclic compound may have high durability, and excellent device characteristics such as a low driving voltage and high efficiency in operation.
 In an example embodiment, the heterocyclic compound has a structure in which a substituent is linked to the benzacridine core at the C5 carbon position. The heterocyclic compound may have reduced intramolecular steric hindrance between a linker and the substituent, and may have a smaller dihedral angle, which may expand the it-conjugated system. Furthermore, the molecule may have a rod shape as a whole, and the heterocyclic compound may have higher electron mobility.
 π-conjugation may be disrupted by bending of 9,10 substitution of an anthracene core due to steric hindrance. However, 2,6 substitution may reduce a dihedral angle and expand the π-conjugated system, which may provide the effects of high electron mobility.
@@ -124,6 +132,7 @@ The organic layer 150 may further include, for example, a hole transport region 
 The hole transport region may have, for example, i) a single-layered structure including a single layer including a single material, ii) a single-layered structure including a single layer including a plurality of different materials, or iii) a multi-layered structure having a plurality of layers including a plurality of different materials.
 The hole transport region may include, for example, at least one layer selected from a hole injection layer, a hole transport layer, an emission auxiliary layer, and an electron blocking layer. For example, the hole transport region may have a single-layered structure including a single layer including a plurality of different materials, or a multi-layered structure having a hole injection layer/hole transport layer structure, a hole injection layer/hole transport layer/emission auxiliary layer structure, a hole injection layer/emission auxiliary layer structure, a hole transport layer/emission auxiliary layer structure, or a hole injection layer/hole transport layer/electron blocking layer structure, wherein for each structure, constituting layers are sequentially stacked from the first electrode 110 in this stated order, but the structure of the hole transport region is not limited thereto.
 The hole transport region may include, for example, at least one selected from m-MTDATA, TDATA, 2-TNATA, NPB(NPD), β-NPB, TPD, Spiro-TPD, Spiro-NPB, methylated-NPB, TAPC, HMTPD, 4,4',4″-tris(N-carbazolyl)triphenylamine (TCTA), polyaniline/dodecylbenzenesulfonic acid (Pani/DBSA), PEDOT/PSS (poly(3,4-ethylenedioxythiophene)/poly(4-styrenesulfonate)), polyaniline/camphor sulfonic acid (PANI/CSA), polyaniline/poly(4-styrenesulfonate) (Pani/PSS), a compound represented by Formula 201, and a compound represented by Formula 202:
+<img> id-US20180019410A1-20180118-C00042.TIF </img><img> id-US20180019410A1-20180118-C00043.TIF </img><img> id-US20180019410A1-20180118-C00044.TIF </img>
 In Formulae 201 and 202,
 L201 to L204 may each independently be selected from a substituted or unsubstituted C3-C10 cycloalkylene group, a substituted or unsubstituted C1-C10 heterocycloalkylene group, a substituted or unsubstituted C3-C10 cycloalkenylene group, a substituted or unsubstituted C1-C10 heterocycloalkenylene group, a substituted or unsubstituted C6-C60 arylene group, a substituted or unsubstituted C1-C60 heteroarylene group, a substituted or unsubstituted divalent non-aromatic condensed polycyclic group, and a substituted or unsubstituted divalent non-aromatic condensed heteropolycyclic group,
 L205 may be selected from *-O-*', *-S-*', *-N(Q201)-*', a substituted or unsubstituted C1-C20 alkylene group, a substituted or unsubstituted C2-C20 alkenylene group, a substituted or unsubstituted C3-C10 cycloalkylene group, a substituted or unsubstituted C1-C10 heterocycloalkylene group, a substituted or unsubstituted C3-C10 cycloalkenylene group, a substituted or unsubstituted C1-C10 heterocycloalkenylene group, a substituted or unsubstituted C6-C60 arylene group, a substituted or unsubstituted C1-C60 heteroarylene group, a substituted or unsubstituted divalent non-aromatic condensed polycyclic group, and a substituted or unsubstituted divalent non-aromatic condensed heteropolycyclic group,
@@ -151,15 +160,21 @@ a carbazolyl group; and
 a carbazolyl group, substituted with at least one selected from deuterium, -F, -Cl, -Br, -I, a hydroxyl group, a cyano group, a nitro group, an amidino group, a hydrazino group, a hydrazono group, a C1-C20 alkyl group, a C1-C20 alkoxy group, a cyclopentyl group, a cyclohexyl group, a cycloheptyl group, a cyclopentenyl group, a cyclohexenyl group, a phenyl group, a biphenyl group, a terphenyl group, a phenyl group substituted with a C1-C10 alkyl group, a phenyl group substituted with -F, a naphthyl group, a fluorenyl group, a spiro-bifluorenyl group, a carbazolyl group, a dibenzofuranyl group, and a dibenzothiophenyl group;
 but embodiments are not limited thereto.
 The compound represented by Formula 201 may be represented by Formula 201A:
+<img> id-US20180019410A1-20180118-C00045.TIF </img>
 In one embodiment, the compound represented by Formula 201 may be represented by Formula 201A(1) below, but embodiments are not limited thereto:
+<img> id-US20180019410A1-20180118-C00046.TIF </img>
 In one embodiment, the compound represented by Formula 201 may be represented by Formula 201A-1 below, but embodiments are not limited thereto:
+<img> id-US20180019410A1-20180118-C00047.TIF </img>
 In one embodiment, the compound represented by Formula 202 may be represented by Formula 202A:
+<img> id-US20180019410A1-20180118-C00048.TIF </img>
 In one embodiment, the compound represented by Formula 202 may be represented by Formula 202A-1:
+<img> id-US20180019410A1-20180118-C00049.TIF </img>
 In Formulae 201A, 201A(1), 201A-1, 202A, and 202A-1,
 L201 to L203, xa1 to xa3, xa5, and R202 to R204 may be the same as described above,
 R211 and R212 may be the same as described in connection with R203.
 R213 to R217 may each independently be selected from hydrogen, deuterium, -F, -Cl, -Br, -I, a hydroxyl group, a cyano group, a nitro group, an amidino group, a hydrazino group, a hydrazono group, a C1-C20 alkyl group, a C1-C20 alkoxy group, a cyclopentyl group, a cyclohexyl group, a cycloheptyl group, a cyclopentenyl group, a cyclohexenyl group, a phenyl group, a biphenyl group, a terphenyl group, a phenyl group substituted with a C1-C10 alkyl group, a phenyl group substituted with -F, a pentalenyl group, an indenyl group, a naphthyl group, an azulenyl group, a heptalenyl group, an indacenyl group, an acenaphthyl group, a fluorenyl group, a spiro-bifluorenyl group, a benzofluorenyl group, a dibenzofluorenyl group, a phenalenyl group, a phenanthrenyl group, an anthracenyl group, a fluoranthenyl group, a triphenylenyl group, a pyrenyl group, a chrysenyl group, a naphthacenyl group, a picenyl group, a perylenyl group, a pentaphenyl group, a hexacenyl group, a pentacenyl group, a rubicenyl group, a coronenyl group, an ovalenyl group, a thiophenyl group, a furanyl group, a carbazolyl group, an indolyl group, an isoindolyl group, a benzofuranyl group, a benzothiophenyl group, a dibenzofuranyl group, a dibenzothiophenyl group, a benzocarbazolyl group, a dibenzocarbazolyl group, a dibenzosilolyl group, and a pyridinyl group.
 The hole transport region may include, for example, at least one compound selected from Compounds HT1 to HT39, but embodiments are not limited thereto:
+<img> id-US20180019410A1-20180118-C00050.TIF </img><img> id-US20180019410A1-20180118-C00051.TIF </img><img> id-US20180019410A1-20180118-C00052.TIF </img><img> id-US20180019410A1-20180118-C00053.TIF </img><img> id-US20180019410A1-20180118-C00054.TIF </img><img> id-US20180019410A1-20180118-C00055.TIF </img><img> id-US20180019410A1-20180118-C00056.TIF </img>
 A thickness of the hole transport region may be in a range of, for example, about 100 Å to about 10,000 Å, for example, about 100 Å to about 1,000 Å. When the hole transport region includes at least one of a hole injection layer and a hole transport layer, the thickness of the hole injection layer may be in a range of, for example, about 100 Å to about 9,000 Å, for example, about 100 Å to about 1,000 Å, and the thickness of the hole transport layer may be in a range of, for example, about 50 Å to about 2,000 Å, for example, about 100 Å to about 1,500 Å. When the thicknesses of the hole transport region, the hole injection layer and the hole transport layer are within these ranges, satisfactory hole transporting characteristics may be obtained without a substantial increase in driving voltage.
 The emission auxiliary layer may increase light-emission efficiency by compensating for an optical resonance distance according to the wavelength of light emitted by an emission layer, and the electron blocking layer may block the flow of electrons from an electron transport region. The emission auxiliary layer and the electron blocking layer may include the materials as described above.
 The hole transport region may further include, in addition to these materials, a charge-generation material for the improvement of conductive properties. The charge-generation material may be homogeneously or non-homogeneously dispersed in the hole transport region.
@@ -172,6 +187,7 @@ a metal oxide, such as tungsten oxide or molybdenum oxide;
 1,4,5,8,9,11-hexaazatriphenylene-hexacarbonitrile (HAT-CN); and
 a compound represented by Formula 221 below:
 but embodiments are not limited thereto:
+<img> id-US20180019410A1-20180118-C00057.TIF </img>
 In Formula 221,
 R221 to R223 may each independently be selected from a substituted or unsubstituted C3-C10 cycloalkyl group, a substituted or unsubstituted C1-C10 heterocycloalkyl group, a substituted or unsubstituted C3-C10 cycloalkenyl group, a substituted or unsubstituted C1-C10 heterocycloalkenyl group, a substituted or unsubstituted C6-C60 aryl group, a substituted or unsubstituted C1-C60 heteroaryl group, a substituted or unsubstituted monovalent non-aromatic condensed polycyclic group, and a substituted or unsubstituted monovalent non-aromatic condensed heteropolycyclic group, provided that at least one selected from R221 to R223 has at least one substituent selected from a cyano group, -F, -Cl, -Br, -I, a C1-C20 alkyl group substituted with -F, a C1-C20 alkyl group substituted with -Cl, a C1-C20 alkyl group substituted with -Br, and a C1-C20 alkyl group substituted with -I.
 When the organic light-emitting device 10 is a full color organic light-emitting device, the emission layer may be patterned into, for example, a red emission layer, a green emission layer, or a blue emission layer, according to a sub-pixel. In one or more embodiments, the emission layer may have, for example, a stacked structure of two or more layers selected from a red emission layer, a green emission layer, and a blue emission layer, in which the two or more layers contact each other or are separated from each other. In one or more embodiments, the emission layer may include, for example, two or more materials selected from a red-light emission material, a green-light emission material, and a blue-light emission material, in which the two or more materials are mixed with each other in a single layer to emit white light.
@@ -194,6 +210,7 @@ a naphthalene group, a fluorene group, a spiro-bifluorene group, a benzofluorene
 wherein Q31 to Q33 may each independently be selected from a C1-C10 alkyl group, a C1-C10 alkoxy group, a phenyl group, a biphenyl group, a terphenyl group, and a naphthyl group, but embodiments are not limited thereto.
 When xb11 in Formula 301 is two or more, two or more Ar301(s) may be linked via a single bond.
 In one or more embodiments, the compound represented by Formula 301 may be represented by Formula 301-1 or 301-2:
+<img> id-US20180019410A1-20180118-C00058.TIF </img>
 In Formulae 301-1 to 301-2,
 A301 to A304 may each independently be selected from a benzene group, a naphthalene group, a phenanthrene group, a fluoranthene group, a triphenylene group, a pyrene group, a chrysene group, a pyridine group, a pyrimidine group, an indene group, a fluorene group, a spiro-bifluorene group, a benzofluorene group, a dibenzolluorene group, an indole group, a carbazole group, benzocarbazole group, dibenzocarbazole group, a furan group, a benzofuran group, a dibenzofuran group, a naphthofuran group, a benzonaphthofuran group, a dinaphthofuran group, a thiophene group, a benzothiophene group, a dibenzothiophene group, a naphthothiophene group, a benzonaphthothiophene group, and a dinaphthothiophene group,
 X301 may be O, S, or N-[(L304)xb4-R304],
@@ -213,9 +230,11 @@ a phenyl group, a biphenyl group, a terphenyl group, a naphthyl group, a fluoren
 wherein Q31 to Q33 may be the same as described above.
 In one or more embodiments, the host may include an alkaline-earth metal complex. For example, the host may be selected from a Be complex (for example, Compound H55), an Mg complex, and a Zn complex.
 The host may include, in addition to the heterocyclic compound represented by Formula 1, at least one selected from, for example, 9,10-di(2-naphthyl)anthracene (ADN), 2-methyl-9,10-bis(naphthalen-2-yl)anthracene (MADN), 9,10-di-(2-naphthyl)-2-t-butyl-anthracene (TBADN), a 4,4'-bis(N-carbazolyl)-1,1'-biphenyl (CBP), 1,3-di-9-carbazolylbenzene (mCP), 1,3,5-tri(carbazol-9-yl)benzene (TCP), and Compounds H1 to H55, but embodiments are not limited thereto:
+<img> id-US20180019410A1-20180118-C00059.TIF </img><img> id-US20180019410A1-20180118-C00060.TIF </img><img> id-US20180019410A1-20180118-C00061.TIF </img><img> id-US20180019410A1-20180118-C00062.TIF </img><img> id-US20180019410A1-20180118-C00063.TIF </img><img> id-US20180019410A1-20180118-C00064.TIF </img><img> id-US20180019410A1-20180118-C00065.TIF </img>
 The dopant may further include, in addition to the heterocyclic compound of Compound 1 represented by Formula 1, a phosphorescent dopant or a fluorescent dopant.
 The phosphorescent dopant may include an organometallic complex represented by Formula 401 below:
 <in-line-formulae>M(L401)xc1(L402)xc2  <Formula 401></in-line-formulae>
+<img> id-US20180019410A1-20180118-C00066.TIF </img>
 In Formulae 401 and 402,
 M may be selected from iridium (Ir), platinum (Pt), palladium (Pd), osmium (Os), titanium (Ti), zirconium (Zr), hafnium (Hf), europium (Eu), terbium (Tb), rhodium (Rh), and thulium (Tm),
 L401 may be selected from ligands represented by Formula 402, and xc1 may be 1, 2, or 3, wherein when xc1 is two or more, two or more L401(s) may be identical to or different from each other,
@@ -240,8 +259,10 @@ wherein Q401 to Q403 may each independently be selected from a C1-C10 alkyl grou
 In one or more embodiments, when xc1 in Formula 401 is two or more, two A40 (s) in two or more L401(s) may be optionally linked to each other via X407, which is a linking group, or two A402(s) in two or more L401(s) may be optionally linked to each other via X408, which is a linking group (see Compounds PD1 to PD4 and PD7). X407 and X408 may each independently be a single bond, *-O-*', *-S-*', *-C(═O)-*', *-N(Q413)-*', *-C(Q413)(Q414)-*', or *-C(Q413)═C(Q414)-*' (wherein Q413 and Q414 may each independently be hydrogen, deuterium, a C1-C20 alkyl group, a C1-C20 alkoxy group, a phenyl group, a biphenyl group, a terphenyl group, or a naphthyl group), but are not limited thereto.
 L402 in Formula 401 may be a monovalent, divalent, or trivalent organic ligand. For example, L402 may be selected from halogen, diketone (for example, acetylacetonate), carboxylic acid (for example, picolinate), -C(═O), isonitrile, -CN, and phosphorus (for example, phosphine or phosphite), but embodiments are not limited thereto.
 In one or more embodiments, the phosphorescent dopant may be selected from, for example, Compounds PD1 to PD25, but embodiments are not limited thereto:
+<img> id-US20180019410A1-20180118-C00067.TIF </img><img> id-US20180019410A1-20180118-C00068.TIF </img><img> id-US20180019410A1-20180118-C00069.TIF </img><img> id-US20180019410A1-20180118-C00070.TIF </img><img> id-US20180019410A1-20180118-C00071.TIF </img>
 The fluorescent dopant may include an arylamine compound or a styrylamine compound.
 The fluorescent dopant may include a compound represented by Formula 501 below.
+<img> id-US20180019410A1-20180118-C00072.TIF </img>
 In Formula 501,
 Ar501 may be a substituted or unsubstituted C5-C60 carbocyclic group or a substituted or unsubstituted C1-C60 heterocyclic group,
 L501 to L503 may each independently be selected from a substituted or unsubstituted C3-C10 cycloalkylene group, a substituted or unsubstituted C1-C10 heterocycloalkylene group, a substituted or unsubstituted C3-C10 cycloalkenylene group, a substituted or unsubstituted C1-C10 heterocycloalkenylene group, a substituted or unsubstituted C6-C60 arylene group, a substituted or unsubstituted C1-C60 heteroarylene group, a substituted or unsubstituted divalent non-aromatic condensed polycyclic group, and a substituted or unsubstituted divalent non-aromatic condensed heteropolycyclic group,
@@ -260,7 +281,9 @@ a phenyl group, a biphenyl group, a terphenyl group, a naphthyl group, a fluoren
 wherein Q31 to Q33 may each be selected from a C1-C10 alkyl group, a C1-C10 alkoxy group, a phenyl group, a biphenyl group, a terphenyl group, and a naphthyl group.
 In one or more embodiments, xd4 in Formula 501 may be 2, but embodiments are not limited thereto.
 For example, the fluorescent dopant may be selected from Compounds FD1 to FD22:
+<img> id-US20180019410A1-20180118-C00073.TIF </img><img> id-US20180019410A1-20180118-C00074.TIF </img><img> id-US20180019410A1-20180118-C00075.TIF </img><img> id-US20180019410A1-20180118-C00076.TIF </img><img> id-US20180019410A1-20180118-C00077.TIF </img><img> id-US20180019410A1-20180118-C00078.TIF </img>
 In one or more embodiments, the fluorescent dopant may be selected from the following compounds, but embodiments are not limited thereto.
+<img> id-US20180019410A1-20180118-C00079.TIF </img>
 The electron transport region may have i) a single-layered structure including a single layer including a single material, ii) a single-layered structure including a single layer including a plurality of different materials, or iii) a multi-layered structure having a plurality of layers including a plurality of different materials.
 The electron transport region may include at least one selected from a buffer layer, a hole blocking layer, an electron control layer, an electron transport layer, and an electron injection layer, but embodiments are not limited thereto.
 For example, the electron transport region may have an electron transport layer/electron injection layer structure, a hole blocking layer/electron transport layer/electron injection layer structure, an electron control layer/electron transport layer/electron injection layer structure, or a buffer layer/electron transport layer/electron injection layer structure, wherein for each structure, constituting layers are sequentially stacked from an emission layer. However, embodiments of the structure of the electron transport region are not limited thereto.
@@ -286,6 +309,7 @@ wherein Q31 to Q33 may each independently be selected from a C1-C10 alkyl group,
 When xe11 in Formula 601 is two or more, two or more Ar601(s) may be linked to each other via a single bond.
 In one or more embodiments, Ar601 in Formula 601 may be an anthracene group.
 In one or more embodiments, a compound represented by Formula 601 may be represented by Formula 601-1:
+<img> id-US20180019410A1-20180118-C00080.TIF </img>
 In Formula 601-1,
 X614 may be N or C(R614), X615 may be N or C(R615), X616 may be N or C(R616), and at least one selected from X614 to X616 may be N,
 L611 to L613 may be each independently substantially the same as described in connection with L601,
@@ -303,12 +327,15 @@ a phenyl group, a biphenyl group, a terphenyl group, a naphthyl group, a fluoren
 <in-line-formulae>-S(═O)2(Q601), and -P(═O)(Q601)(Q602),</in-line-formulae>
 wherein Q601 and Q602 are the same as described above.
 The electron transport region may include at least one compound selected from, for example, Compounds ET1 to ET36, but embodiments are not limited thereto:
+<img> id-US20180019410A1-20180118-C00081.TIF </img><img> id-US20180019410A1-20180118-C00082.TIF </img><img> id-US20180019410A1-20180118-C00083.TIF </img><img> id-US20180019410A1-20180118-C00084.TIF </img><img> id-US20180019410A1-20180118-C00085.TIF </img><img> id-US20180019410A1-20180118-C00086.TIF </img><img> id-US20180019410A1-20180118-C00087.TIF </img><img> id-US20180019410A1-20180118-C00088.TIF </img><img> id-US20180019410A1-20180118-C00089.TIF </img><img> id-US20180019410A1-20180118-C00090.TIF </img><img> id-US20180019410A1-20180118-C00091.TIF </img><img> id-US20180019410A1-20180118-C00092.TIF </img>
 In one or more embodiments, the electron transport region may include, for example, at least one selected from 2,9-dimethyl-4,7-diphenyl-1,10-phenanthroline (BCP), 4,7-dphenyl-1,10-phenanthroline (Bphen), Alq3, BAlq, 3-(biphenyl-4-yl)-5-(4-tert-butylphenyl)-4-phenyl-4H-1,2,4-triazole (TAZ), and NTAZ.
+<img> id-US20180019410A1-20180118-C00093.TIF </img>
 The thickness of the buffer layer, the hole blocking layer, or the electron controlling layer may each independently be in a range of, for example, about 20 Å to about 1,000 Å, for example, about 30 Å to about 300 Å. When the thicknesses of the buffer layer, the hole blocking layer, and the electron control layer are within these ranges, the electron blocking layer may have excellent electron blocking characteristics or electron control characteristics without a substantial increase in driving voltage.
 A thickness of the electron transport layer may be in a range of, for example, about 100 Å to about 1,000 Å, for example, about 150 Å to about 500 Å. When the thickness of the electron transport layer is within the range described above, the electron transport layer may have satisfactory electron transport characteristics without a substantial increase in driving voltage.
 The electron transport region (for example, the electron transport layer in the electron transport region) may further include, for example, in addition to the materials described above, a metal-containing material.
 The metal-containing material may include, for example, at least one selected from alkali metal complex and alkaline earth-metal complex. The alkali metal complex may include, for example, a metal ion selected from an Li ion, a Na ion, a K ion, a Rb ion, and a Cs ion, and the alkaline earth-metal complex may include, for example, a metal ion selected from a Be ion, a Mg ion, a Ca ion, an Sr ion, and a Ba ion. A ligand coordinated with the metal ion of the alkali metal complex or the alkaline earth-metal complex may be selected from, for example, a hydroxy quinoline, a hydroxy isoquinoline, a hydroxy benzoquinoline, a hydroxy acridine, a hydroxy phenanthridine, a hydroxy phenylan oxazole, a hydroxy phenylthiazole, a hydroxy diphenylan oxadiazole, a hydroxy diphenylthiadiazol, a hydroxy phenylpyridine, a hydroxy phenylbenzimidazole, a hydroxy phenylbenzothiazole, a bipyridine, a phenanthroline, and a cyclopentadiene, but embodiments are not limited thereto.
 For example, the metal-containing material may include a Li complex. The Li complex may include, for example, Compound ET-D1 (lithium quinolate, LiQ) or ET-D2.
+<img> id-US20180019410A1-20180118-C00094.TIF </img>
 The electron transport region may include an electron injection layer that facilitates injection of electrons from the second electrode 190. The electron injection layer may, for example, directly contact the second electrode 190.
 The electron injection layer may have, for example, i) a single-layered structure including a single layer including a single material, ii) a single-layered structure including a single layer including a plurality of different materials, or iii) a multi-layered structure having a plurality of layers including a plurality of different materials.
 The electron injection layer may include, for example, alkali metal, alkaline earth metal, rare-earth metal, an alkali metal compound, an alkaline earth-metal compound, a rare-earth metal compound, an alkali metal complex, an alkaline earth-metal complex, a rare-earth metal complex, or any combinations thereof.
@@ -334,6 +361,7 @@ The first capping layer 210 and the second capping layer 220 may each independen
 At least one selected from the first capping layer 210 and the second capping layer 220 may each independently include, for example, at least one material selected from carbocyclic compounds, heterocyclic compounds, amine-based compounds, porphyrine derivatives, phthalocyanine derivatives, naphthalocyanine derivatives, alkali metal complexes, and alkaline earth-metal complexes. The carbocyclic compound, the heterocyclic compound, and the amine-based compound may be optionally substituted with a substituent containing at least one element selected from O, N, S, Se, Si, F, Cl, Br, and I. In one embodiment, at least one selected from the first capping layer 210 and the second capping layer 220 may each independently include an amine-based compound.
 In one embodiment, at least one selected from the first capping layer 210 and the second capping layer 220 may each independently include the compound represented by Formula 201 or the compound represented by Formula 202.
 In one or more embodiments, at least one selected from the first capping layer 210 and the second capping layer 220 may each independently include a compound selected from, for example, Compounds HT28 to HT33 and Compounds CP1 to CP5, but embodiments are not limited thereto.
+<img> id-US20180019410A1-20180118-C00095.TIF </img><img> id-US20180019410A1-20180118-C00096.TIF </img>
 Hereinbefore, the organic light-emitting device according to an embodiment has been described in connection with FIGS. 1-4. However, embodiments are not limited thereto.
 Layers constituting the hole transport region, an emission layer, and layers constituting the electron transport region may be formed in a certain region by using, for example, one or more suitable methods selected from vacuum deposition, spin coating, casting, Langmuir-Blodgett (LB) deposition, ink-jet printing, laser-printing, and laser-induced thermal imaging.
 When the respective layers of the hole transport region, the emission layer, and the respective layers of the electron transport region are formed by deposition, the deposition may be performed at a deposition temperature of, for example, about 100 to about 500° C., at a vacuum degree of, for example, about 10−8 to about 10−3 torr, and at a deposition rate of, for example, about 0.01 to about 100 Å/sec by taking into account a compound for forming a layer to be deposited and the structure of a layer to be formed.
@@ -369,6 +397,7 @@ Hereinafter, a compound according to embodiments and an organic light-emitting d
 EXAMPLE
 Synthesis Example
 Synthesis Example 1: Synthesis of Compound 1
+<img> id-US20180019410A1-20180118-C00097.TIF </img>
 Synthesis of Intermediate 1-1
 1.85 g (10 mmol) of 2-bromobenzaldehyde, 2.22 g (10 mmol) of 4-bromonaphthalen-1-amine, 0.23 g (0.25 mmol) of Pd2dba3, 0.28 g (0.5 mmol) of 1,1'-bis(diphenylphosphino)ferrocened (dppf), and 2.76 g (20 mmol) of K2CO3 were dissolved in 250 mL of toluene and were stirred at a temperature of 80° C. for 24 hours. The obtained reaction solution was cooled to room temperature and was filtered through Celite. The obtained filtrate was dried under reduced pressure. 2.67 g (20 mmol) of AlCl3 was added thereto and remelting was performed in 300 mL of toluene. The resultant solution was stirred at a temperature of 80° C. for 24 hours. The obtained reaction solution was cooled to room temperature. Then, organic layers were extracted three times by using 60 mL of water and 60 mL of diethyl ether. The obtained organic layers were dried by using magnesium sulfate and the solvent was evaporated. The obtained residue was separated and purified by silica gel column chromatography, thereby completing the preparation of 1.53 g (50%) of Intermediate 1-1. Intermediate 1-1 was confirmed through LC-MS.
 C17H11NBr: M+1 308.17
@@ -376,37 +405,46 @@ Synthesis of Compound 1
 3.07 g (10 mmol) of Intermediate 1-1, 4.3 g (10 mmol) of 4,4,5,5-tetramethyl-2-(10-(naphthalen-1-yl)anthracen-9-yl)-1,3,2-dioxaborolane, 0.58 g (0.5 mmol) of Pd(PPh3)4, and 4.15 g (30.0 mmol) of K2CO3 were dissolved in 180 mL of a mixed solution of tetrahydrofuran (THF) and H2O (a volume ratio of 2:1) and were then stirred at a temperature of 80° C. for 16 hours. The obtained reaction solution was cooled to room temperature. Then, organic layers were extracted three times by using 60 mL of water and 60 mL of diethyl ether. The obtained organic layers were dried by using magnesium sulfate and the solvent was evaporated. The obtained residue was separated and purified by silica gel column chromatography, thereby completing the preparation of 3.7 g (70%) of Compound 1. Compound 1 was confirmed through LC-MS and 1H NMR.
 C41H25N: M+1 531.65
 Synthesis Example 2: Synthesis of Compound 19
+<img> id-US20180019410A1-20180118-C00098.TIF </img>
 Synthesis of Compound 19
 3.6 g (65%) of Compound 19 was synthesized in the same manner as in Synthesis of Compound 1, except that 9,9-dimethyl-7-(4-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)phenyl)-9H-fluorene-2-carbonitrile was used instead of 4,4,5,5-tetramethyl-2-(10-(naphthalen-1-yl)anthracen-9-yl)-1,3,2-dioxaborolane in synthesizing Compound 1. Compound 19 was confirmed through LC-MS and 1H NMR.
 C39H26N2: M+1 522.64
 Synthesis Example 3: Synthesis of Compound 32
+<img> id-US20180019410A1-20180118-C00099.TIF </img>
 Synthesis of Compound 32
 3.07 g (10 mmol) of Intermediate 1-1, 3.9 g (10 mmol) of diphenyl(3-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)phenyl)phosphane, 0.58 g (0.5 mmol) of Pd(PPh3)4, and 4.15 g (30.0 mmol) of K2CO3 were dissolved in 180 mL of a mixed solution of THF and H2O (a volume ratio of 2:1) and were then stirred at a temperature of 80° C. for 16 hours. The obtained reaction solution was cooled to room temperature. Then, organic layers were extracted three times by using 60 mL of water and 60 mL of diethyl ether. The obtained organic layers were dried by using magnesium sulfate and the solvent was evaporated. The obtained residue was dissolved in 40 mL of dichloromethane. 4 mL of hydrogen peroxide was added to the obtained solution, and the mixed solution was stirred at room temperature for 20 hours. Then, 20 mL of water was added thereto, and organic layers were extracted three times by using 20 mL of dichloromethane. The obtained organic layers were dried by using magnesium sulfate and the solvent was evaporated. The obtained residue was separated and purified by silica gel column chromatography, thereby completing the preparation of 2.52 g (50%) of Compound 32. Compound 32 was confirmed through LC-MS and 1H NMR.
 C35H24NOP: M+1 505.55
 Synthesis Example 4: Synthesis of Compound 42
+<img> id-US20180019410A1-20180118-C00100.TIF </img>
 Synthesis of Compound 42
 4.4 g (65%) of Compound 42 was synthesized in the same manner as in Synthesis of Compound 1, except that diphenyl(4-(10-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)anthracen-9-yl)phenyl)phosphine oxide was used instead of 4,4,5,5-tetramethyl-2-(10-(naphthalen-1-yl)anthracen-9-yl)-1,3,2-dioxaborolane in synthesizing Compound 1. Compound 42 was confirmed through LC-MS and 1H NMR.
 C49H32NOP: M+1 681.78
 Synthesis Example 5: Synthesis of Compound 43
+<img> id-US20180019410A1-20180118-C00101.TIF </img>
 Synthesis of Compound 43
 2.2 g (50%) of Compound 43 was synthesized in the same manner as in Synthesis of Compound 32, except that diphenyl(6-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)naphthalen-2-yl)phosphane was used instead of diphenyl(3-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)phenyl)phosphane in synthesizing Compound 32. Compound 43 was confirmed through LC-MS and 1H NMR.
 C39H26NOP: M+1 555.64
 Synthesis Example 6: Synthesis of Compound 46
+<img> id-US20180019410A1-20180118-C00102.TIF </img>
 Synthesis of Compound 46
 3.15 g (50%) of Compound 46 was synthesized in the same manner as in Synthesis of Compound 32, except that diphenyl(6-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)-4,5a1-dihydropyren-1-yl)phosphane was used instead of diphenyl(3-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)phenyl)phosphane in synthesizing Compound 32. Compound 46 was confirmed through LC-MS and 1H NMR.
 C45H28NOP: M+1 629.68
 Synthesis Example 7: Synthesis of Compound 49
+<img> id-US20180019410A1-20180118-C00103.TIF </img>
 Synthesis of Compound 49
 2.5 g (40%) of Compound 49 was synthesized in the same manner as in Synthesis of Compound 32, except that 9,9-dimethyl-2-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)-4a,9-dihydro-4H-fluoren-7-yl)diphenylphosphane was used instead of diphenyl(3-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)phenyl)phosphane in synthesizing Compound 32. Compound 49 was synthesized through LC-MS and 1H NMR. C44H32NOP: M+1 621.70
 Synthesis Example 8: Synthesis of Compound 67
+<img> id-US20180019410A1-20180118-C00104.TIF </img>
 Synthesis of Compound 67
 4.0 g (70%) of Compound 67 was synthesized in the same manner as in Synthesis of Compound 1, except that 9,9-diphenyl-2-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)-4a,9-dihydro-4H-fluorene-7-carbonitrile was used instead of 4,4,5,5-tetramethyl-2-(10-(naphthalen-1-yl)anthracen-9-yl)-1,3,2-dioxaborolane in synthesizing Compound 1. Compound 67 was confirmed through LC-MS and 1H NMR.
 C43H26N2: M+1 570.70
 Synthesis Example 9: Synthesis of Compound 68
+<img> id-US20180019410A1-20180118-C00105.TIF </img>
 Synthesis of Compound 68
 3.6 g (55%) of Compound 68 was synthesized in the same manner as in Synthesis of Compound 1, except that 2-(9,10-di(naphthalen-2-yl)anthracen-2-yl)-4,4,5,5-tetramethyl-1,3,2-dioxaborolane was used instead of 4,4,5,5-tetramethyl-2-(10-(naphthalen-1-yl)anthracen-9-yl)-1,3,2-dioxaborolane in synthesizing Compound 1. Compound 68 was confirmed through LC-MS and 1H NMR.
 C51H31N: M+1 657.81
 Synthesis Example 10: Synthesis of Compound 73
+<img> id-US20180019410A1-20180118-C00106.TIF </img>
 Synthesis of Intermediate 73-1
 2.9 g (10 mmol) of 1,4-dibromo-2,3,5,6-tetramethylbenzene was dissolved in 200 mL of tetrahydrofuran (THF), and 4 mL (2.5M in hexane) of normal butyl lithium was added thereto at a temperature of −78° C. After one hour, 40 mL of THF in which 2.70 g (10 mmol) of fluorotrimethylborane was dissolved, was slowly added dropwise, and the mixed solution was stirred for 3 hours. After a temperature for the reaction was raised up to room temperature, water was added thereto, and a washing process was performed thereon three times by using ethylacetate (30 mL). The washed ethylacetate layer obtained therefrom was dried by using magnesium sulfate (MgSO4), dried under pressure, and then, separated and purified by silica gel chromatography, thereby obtaining 2.95 g (yield: 64%) of Intermediate 73-2. Intermediate 73-2 was confirmed through LC-MS.
 C28H34BBr: M+1 461.3
@@ -467,6 +505,7 @@ An anode was prepared by cutting an ITO glass substrate, on which ITO/Ag/ITO wer
 N-([1,1'-biphenyl]-4-yl)-9,9-dimethyl-N-(4-(9-phenyl-9H-carbazol-3-yl)phenyl)-9H-fluoren-2-amine (Compound 301) and F4-TCNQ were co-deposited on the ITO glass substrate (anode) at a weight ratio of 98:2 to form a hole injection layer having a thickness of 100 Å. Compound 301 as a hole transport compound was vacuum-deposited on the hole injection layer to form a first hole transport layer having a thickness of 1,200 Å. N,N-di([1,1'-biphenyl]-4-yl)-4'-(9H-carbazol-9-yl)-[1,1'-biphenyl]-4-amine (Compound A) was vacuum-deposited on the first hole transport layer to form a second hole transport layer having a thickness of 100 Å.
 9,10-di-naphthalene-2-yl-anthracene (ADN) as a blue fluorescent host and N,N,N',N'-tetraphenyl-pyrene-1,6-diamine (TPD) as a blue fluorescent dopant were co-deposited on the second hole transport layer at a weight ratio of 98:2 to form an emission layer having a thickness of 300 Å.
 Then, Compound 1 and LiQ were co-deposited on the emission layer at a weight ratio of 5:5 to form an electron transport layer having a thickness of 300 Å, LiF as alkali metal halide was deposited on the electron transport layer to form an electron injection layer having a thickness of 10 Å, and Mg and Ag were vacuum-deposited on the electron injection layer at a weight ratio of 90:10 to form a cathode electrode having a thickness of 120 Å, thereby completing the manufacture of an organic light-emitting device.
+<img> id-US20180019410A1-20180118-C00107.TIF </img><img> id-US20180019410A1-20180118-C00108.TIF </img>
 Examples 2 to 10 and Comparative Examples 1 to 4
 Organic light-emitting devices of Examples 2 to 10 and Comparative Examples 1 to 4 were manufactured in the same manner as in Example 1, except that Compounds shown in Table 1 were each used instead of Compound 1 in forming an electron transport layer.
 Evaluation Example 1
@@ -507,7 +546,54 @@ Comp. Ex. 1 & Cmpd B & 4.5 & 10 & 4.65 & 0.141, 0.051 & 70
 Comp. Ex. 2 & Cmpd C & 4.4 & 10 & 4.08 & 0.142, 0.050 & 122
 Comp. Ex. 3 & Cmpd D & 4.8 & 10 & 4.38 & 0.142, 0.049 & 105
 Comp. Ex. 4 & Cmpd E & 4.7 & 10 & 4.41 & 0.140, 0.050 & 112
+<img> id-US20180019410A1-20180118-C00109.TIF </img>
+
+
+
+
+<img> id-US20180019410A1-20180118-C00110.TIF </img>
+
+
+
+
+<img> id-US20180019410A1-20180118-C00111.TIF </img>
+
+
+
+
+<img> id-US20180019410A1-20180118-C00112.TIF </img>
+
+
+
+
+<img> id-US20180019410A1-20180118-C00113.TIF </img>
+
+
+
+
+<img> id-US20180019410A1-20180118-C00114.TIF </img>
+
+
+
+
+<img> id-US20180019410A1-20180118-C00115.TIF </img>
+
+
+
+
+<img> id-US20180019410A1-20180118-C00116.TIF </img>
+
+
+
+
+<img> id-US20180019410A1-20180118-C00117.TIF </img>
+
+
+
+
+<img> id-US20180019410A1-20180118-C00118.TIF </img>
 </table>
+<img> id-US20180019410A1-20180118-C00119.TIF </img><img> id-US20180019410A1-20180118-C00120.TIF </img>
 Referring to Table 2, it was confirmed that the organic light-emitting devices of Examples 1 to 10 had a low driving voltage, high efficiency, and a long lifespan, compared to those of Comparative Examples 1 to 4.
 According to one or more embodiments, the organic light-emitting device including the heterocyclic compound may have a low driving voltage, high efficiency, and a long lifespan.
 It should be understood that embodiments described herein should be considered in a descriptive sense only and not for purposes of limitation. Descriptions of features or aspects within each embodiment should typically be considered as available for other similar features or aspects in other embodiments.

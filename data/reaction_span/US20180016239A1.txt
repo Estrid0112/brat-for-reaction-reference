@@ -30,7 +30,7 @@ The term “heterocycloalkyl” is art-recognized and refers to a saturated hete
 The term “heterocycloalkylene” refers to a diradical of a heterocycloalkyl.
 The term “heteroaryl” is art-recognized and refers to aromatic groups that include at least one ring heteroatom. In certain instances, a heteroaryl group contains 1, 2, 3, or 4 ring heteroatoms. Representative examples of heteroaryl groups include pyrrolyl, furanyl, thiophenyl, imidazolyl, oxazolyl, thiazolyl, triazolyl, pyrazolyl, pyridinyl, pyrazinyl, pyridazinyl and pyrimidinyl, and the like. Unless specified otherwise, the heteroaryl ring may be substituted at one or more ring positions with, for example, halogen, azide, alkyl, aralkyl, alkenyl, alkynyl, cycloalkyl, hydroxyl, alkoxyl, amino, nitro, sulfhydryl, imino, amido, carboxylic acid, -C(O)alkyl, -CO2alkyl, carbonyl, carboxyl, alkylthio, sulfonyl, sulfonamido, sulfonamide, ketone, aldehyde, ester, heterocyclyl, aryl or heteroaryl moieties, -CF3, -CN, or the like. The term “heteroaryl” also includes polycyclic ring systems having two or more rings in which two or more carbons are common to two adjoining rings (the rings are “fused rings”) wherein at least one of the rings is heteroaromatic, e.g., the other cyclic rings may be cycloalkyls, cycloalkenyls, cycloalkynyls, and/or aryls. In certain embodiments, the heteroaryl ring is substituted at one or more ring positions with halogen, alkyl, hydroxyl, or alkoxyl. In certain other embodiments, the heteroaryl ring is not substituted, i.e., it is unsubstituted. In certain embodiments, the heteroaryl group is a 5- to 10-membered ring structure, alternatively a 5- to 6-membered ring structure, whose ring structure includes 1, 2, 3, or 4 heteroatoms, such as nitrogen, oxygen, and sulfur.
 The term “heteroaralkyl” refers to an linear or branched C1-10 alkyl group substituted with a heteroaryl group.
-The symbol “” indicates a point of attachment.
+The symbol “<img> id-US20180016239A1-20180118-P00001.TIF </img>” indicates a point of attachment.” indicates a point of attachment.
 When any variable occurs more than one time in any constituent or in any formula depicting and describing compounds of the invention, its definition on each occurrence is independent of its definition at every other occurrence. Also, combinations of substituents and/or variables are permissible only if such combinations result in stable compounds.
 The term “substituted” means that one or more hydrogens on the designated atom/atoms is/are replaced with a selection from the indicated group, provided that the designated atom's normal valency under the existing circumstances is not exceeded, and that the substitution results in a stable compound. Combinations of substituents and/or variables are permissible only if such combinations result in stable compounds. “Stable compound” or “stable structure” is defined as a compound or structure that is sufficiently robust to survive isolation to a useful degree of purity from a reaction mixture, and formulation into an efficacious therapeutic agent.
 The term “optionally substituted” means that a substitution with the specified groups, radicals, or moieties may or may not be made on the specified group.
@@ -42,57 +42,81 @@ A “subject” is a human or non-human mammal. In one embodiment, a subject is 
 It should be noted that any carbon as well as heteroatom with unsatisfied valences in the text, schemes, examples and tables herein is assumed to have the sufficient number of hydrogen atom(s) to satisfy the valences.
 Compounds of the Invention
 The present invention provides a compound according to Formula I-1:
-wherein:Ring A is a monocyclic ring formed by an alkylene group taken together with the C═C of the pyrazolyl to which Ring A is fused, wherein 1, 2, or 3 carbon atoms of the alkylene group are optionally replaced with a heteroatom selected from O, N or S, and Ring A is optionally substituted with one to three substituents independently selected from R3, wherein R3 is selected from the group consisting of OH, oxo, (C1-4)alkyl, -(C1-4)alkylene-N(Ra)2, -(C1-4)alkylene(C3-6 cycloalkyl), (C1-4)alkoxy, N(Ra)2, N(R6)CO2R7, N(R6)C(O)R8, C(O)R8, C(O)N(R8)2,
+<img> id-US20180016239A1-20180118-C00002.TIF </img>wherein:Ring A is a monocyclic ring formed by an alkylene group taken together with the C═C of the pyrazolyl to which Ring A is fused, wherein 1, 2, or 3 carbon atoms of the alkylene group are optionally replaced with a heteroatom selected from O, N or S, and Ring A is optionally substituted with one to three substituents independently selected from R3, wherein R3 is selected from the group consisting of OH, oxo, (C1-4)alkyl, -(C1-4)alkylene-N(Ra)2, -(C1-4)alkylene(C3-6 cycloalkyl), (C1-4)alkoxy, N(Ra)2, N(R6)CO2R7, N(R6)C(O)R8, C(O)R8, C(O)N(R8)2,
+<img> id-US20180016239A1-20180118-C00003.TIF </img>
 wherein said alkyl is optionally substituted with one or more halogen or hydroxyl;Z is C(O) or CH2;m is 0, 1, or 2;n is 1, 2 or 3;R1 is independently OH, halogen, (C1-4)alkyl, CN, CF3, or CHF2, wherein said alkyl is optionally substituted with one or more halogen;R2 is independently halogen, (C1-4)alkyl, CF3, CHF2, or (C3-4)cycloalkyl, wherein said alkyl and cycloalkyl are optionally substituted with one or more substituents independently selected from the group consisting of CN, (C1-4)haloalkyl, and halogen;R5 is independently OH, (C0-4)alkyl, or S(O)2Rb;R6 is independently (C0-4)alkyl;R7 is independently (C1-6)alkyl;R8 is independently OH, (C0-4)alkyl, 2-8 membered heteroalkyl, or one of the following:a heterocyclyl-containing group selected from 3-10 membered heterocyclyl, -C1-6 alkylene-(5-6 membered heteroaryl), -O-(C1-6 alkylene)-(5-6 membered heteroaryl), or -(3-10 membered heterocycloalkylene)-(3-10 membered heterocycloalkyl), each optionally substituted by one or more R9);a carbocyclyl-containing group selected from C3-7 carbocyclyl, -C1-6 alkylene-(C3-7 carbocyclyl), carbocyclyl, or -O-(C1-6 alkylene)-C3-7 carbocyclyl, each optionally substituted by one or more R9;R9 is independently halogen, hydroxyl, (C1-4)alkyl, (C1-4)haloalkyl, (C1-6)alkoxyl, N(Ra)2, (C3-4)cycloalkyl, or cyano, wherein said cycloalkyl is optionally substituted with one or more substituents independently selected from the group consisting of CN, (C1-4)haloalkyl, and halogen;Ra is independently (C0-4)alkyl, (C1-4) haloalkyl, or 3-7 membered heterocycloalkyl; andRb is (C1-4)alkyl;or a pharmaceutically acceptable salt thereof.
 In certain embodiments, Z is C(O).
 In certain embodiments, R1 is independently OH or halogen. In certain embodiments, R1 is independently OH, chloro, or fluoro. In certain embodiments, R1 is OH. In certain embodiments, R1 is fluoro.
 In certain embodiments, m is 1.
 In certain embodiments, R1 is located meta to the -CO2H group.
 In certain embodiments, R2 is independently halogen, (C3-4)cycloalkyl, or (C3-4)cycloalkyl substituted by (C1-4 haloalkyl. In certain embodiments, R2 is independently chloro, cyclopropyl, or cyclopropyl substituted by trifluoromethyl. In certain embodiments, a first occurrence of R2 is chloro, and a second occurrence of R2 is cyclopropyl. In certain embodiments, a first occurrence of R2 is chloro, and a second occurrence of R2 is cyclopropyl substituted by trifluoromethyl. In certain embodiments, a first occurrence of R2 is chloro, and a second occurrence of R2 is
+<img> id-US20180016239A1-20180118-C00004.TIF </img>
 In certain embodiments, any R2 is located at an ortho-position on the phenyl group to which R2 is attached.
 In certain embodiments, n is 2.
 In certain embodiments, Ring A is a 6-membered monocyclic ring formed by an alkylene group taken together with the C═C of the pyrazolyl to which Ring A is fused, and Ring A is substituted with one R3 group selected from C(O)R8, C(O)N(R8)2, and
+<img> id-US20180016239A1-20180118-C00005.TIF </img>
 In certain embodiments, Ring A is
+<img> id-US20180016239A1-20180118-C00006.TIF </img>
 and R3 is C(O)R8, C(O)N(R8)2, or
+<img> id-US20180016239A1-20180118-C00007.TIF </img>
 In certain embodiments, R8 is independently (C0-4)alkyl, 2-8 membered heteroalkyl, or -(3-10 membered heterocyclyl optionally substituted by one or more R9). In certain embodiments, R8 is a 3-10 membered heterocyclyl optionally substituted by one or more R9. In certain embodiments, R8 is a 3-10 membered spirocyclic heterocyclyl optionally substituted by one or more R9. In certain embodiments, R9 is independently halogen, hydroxyl, or (C1-4)alkyl.
 In certain embodiments, the compound is represented by Formula I-1A:
-wherein:R1 is halogen;R2A is halogen;R2B is independently halogen, (C1-4)alkyl, CF3, CHF2, or (C3-4)cycloalkyl, wherein said alkyl and cycloalkyl are optionally substituted with one or more substituents independently selected from the group consisting of CN, (C1-4)haloalkyl, and halogen;R3 is N(Ra)2, N(R6)CO2R7, N(R6)C(O)R8, C(O)R8, C(O)N(R8)2, or
-R6 is independently (C0-4)alkyl;R7 is independently (C1-6)alkyl;R8 is independently (C0-4)alkyl, 2-8 membered heteroalkyl, or -(3-10 membered heterocyclyl optionally substituted by one or more R9);R9 is independently halogen, hydroxyl, (C1-4)alkyl, or (C1-4)haloalkyl; andRa is independently (C0-4)alkyl;or a pharmaceutically acceptable salt thereof.
+<img> id-US20180016239A1-20180118-C00008.TIF </img>wherein:R1 is halogen;R2A is halogen;R2B is independently halogen, (C1-4)alkyl, CF3, CHF2, or (C3-4)cycloalkyl, wherein said alkyl and cycloalkyl are optionally substituted with one or more substituents independently selected from the group consisting of CN, (C1-4)haloalkyl, and halogen;R3 is N(Ra)2, N(R6)CO2R7, N(R6)C(O)R8, C(O)R8, C(O)N(R8)2, or
+<img> id-US20180016239A1-20180118-C00009.TIF </img>R6 is independently (C0-4)alkyl;R7 is independently (C1-6)alkyl;R8 is independently (C0-4)alkyl, 2-8 membered heteroalkyl, or -(3-10 membered heterocyclyl optionally substituted by one or more R9);R9 is independently halogen, hydroxyl, (C1-4)alkyl, or (C1-4)haloalkyl; andRa is independently (C0-4)alkyl;or a pharmaceutically acceptable salt thereof.
 In certain embodiments, R8 is a 3-10 membered heterocyclyl optionally substituted by one or more R9. In certain embodiments, R8 is a 3-10 membered spirocyclic heterocyclyl optionally substituted by one or more R9. In certain embodiments, R9 is independently halogen, hydroxyl, or (C1-4)alkyl.
 In another embodiment, the present invention provides a compound according to Formula I-2:
+<img> id-US20180016239A1-20180118-C00010.TIF </img>
 wherein:Ring A is a saturated monocyclic ring optionally containing 1, 2, or 3 heteroatoms selected from O, N or S and optionally substituted with one to three substituents independently selected from R3, wherein R3 is selected from the group consisting of OH, oxo, (C1-4)alkyl, (C1-4)alkyl-N(Ra)2, (C1-4)alkoxy, N(Ra)2, C(O)R5, C(O)N(R5)2,
+<img> id-US20180016239A1-20180118-C00011.TIF </img>
 wherein said alkyl is optionally substituted with one or more halogen;
 Z is CH2 or C(O);
 m is 0, 1, or 2;n is 1, 2 or 3;R1 is independently OH, (C1-4)alkyl, CN, CF3, CHF2 or halogen, wherein said alkyl is optionally substituted with one or more halogen;R2 is independently selected from halogen, (C1-4)alkyl, CF3, CHF2 and (C3-4)cycloalkyl, wherein said alkyl may optionally be substituted with CN and one to three halogen;R5 is independently selected from OH, (C0-4)alkyl, (C1-4)alkoxy and S(O)2Rb;Ra is independently selected from (C0-4)alkyl; andRb is (C0-4)alkyl;or a pharmaceutically acceptable salt thereof.
 As appreciated, Ring A is fused to the pyrazolyl group in Formula I-2 and accordingly the description of Ring A as a saturated monocyclic ring optionally containing 1, 2, or 3 heteroatoms selected from O, N or S means that bonds between ring atoms in Ring A are a single bond except for the C-C double bond of the pyrazolyl group to which Ring A is fused.
 In another embodiment, the present invention provides a compound according to Formula II:
+<img> id-US20180016239A1-20180118-C00012.TIF </img>
 wherein:Ring A is a saturated monocyclic ring optionally containing 1, 2, or 3 heteroatoms selected from O, N or S and optionally substituted with one to three substituents independently selected from R3, wherein R3 is selected from the group consisting of OH, oxo, (C1-4)alkyl, (C1-4)alkyl-N(Ra)2, (C1-4)alkoxy, N(Ra)2, C(O)R5, C(O)N(R5)2,
+<img> id-US20180016239A1-20180118-C00013.TIF </img>
 wherein said alkyl is optionally substituted with one or more halogen;
 Z is CH2 or C(O);
 m is 0, 1, or 2;R1 is independently OH, (C1-4)alkyl, CN, CF3, CHF2 or halogen, wherein said alkyl is optionally substituted with one or more halogen;R2 is independently selected from halogen, (C1-4)alkyl, CF3, CHF2 and (C3-4)cycloalkyl, wherein said alkyl may optionally be substituted with CN and one to three halogen;R5 is independently selected from OH, (C0-4)alkyl, (C1-4)alkoxy and S(O)2Rb;Ra is independently selected from (C0-4)alkyl; andRb is (C0-4)alkyl;or a pharmaceutically acceptable salt thereof.
 As appreciated, Ring A is fused to the pyrazolyl group in Formula II and accordingly the description of Ring A as a saturated monocyclic ring optionally containing 1, 2, or 3 heteroatoms selected from O, N or S means that bonds between ring atoms in Ring A are a single bond except for the C-C double bond of the pyrazolyl group to which Ring A is fused.
 In a third embodiment, the present invention provides a compound according to Formula III:
+<img> id-US20180016239A1-20180118-C00014.TIF </img>
 wherein:m is 0, 1, or 2;R1 is independently OH, methyl or F;R2 is independently selected from Cl, CF3 and (C3-4)cycloalkyl, wherein the cycloalkyl may optionally be substituted with CN; andR3 is selected from the group consisting of OH, oxo, (C1-4)alkoxy, C(O)R5, C(O)N(R5)2,
+<img> id-US20180016239A1-20180118-C00015.TIF </img>
 R5 is independently selected from OH, (C0-4)alkyl, (C1-4)alkoxy and S(O)2Rb; andRb is methyl;or a pharmaceutically acceptable salt thereof.
 In certain embodiments, compounds according to the instant invention are selected from: 4-(1-(2-chloro-6-(trifluoromethyl)benzoyl)-4,5,6,7-tetrahydro-1H-indazol-3-yl)-3-fluorobenzoic acid; 4-(1-(2-chloro-6-(trifluoromethyl)benzoyl)-1,4,5,6-tetrahydrocyclopenta[c]pyrazol-3-yl)-3-fluorobenzoic acid; 4-(6-(tert-butoxycarbonyl)-1-(2-chloro-6-(trifluoromethyl)benzoyl)-1,4,5,6,7,8-hexahydropyrazolo[3,4-d]azepin-3-yl)-3-fluorobenzoic acid; 4-(1-(2-chloro-6-cyclopropylbenzoyl)-4,5,6,7-tetrahydro-1H-indazol-3-yl)-2-hydroxybenzoic acid; 4-(1-(2-chloro-6-cyclopropylbenzoyl)-4,5,6,7-tetrahydro-1H-indazol-3-yl)-3-fluorobenzoic acid; 4-(1-(2-chloro-6-cyclopropylbenzoyl)-6-hydroxy-4,5,6,7-tetrahydro-1H-indazol-3-yl)-3-fluorobenzoic acid; 4-(6-(tert-butoxycarbonyl)-1-(2-chloro-6-cyclopropylbenzoyl)-4,5,6,7-tetrahydro-1H-pyrazolo[3,4-c]pyridin-3-yl)-3-fluorobenzoic acid; 4-(1-(2-chloro-6-cyclopropylbenzoyl)-4-oxo-4,5,6,7-tetrahydro-1H-indazol-3-yl)-3-fluorobenzoic acid; 4-(1-(2-chloro-6-cyclopropylbenzoyl)-6-methoxy-4,5,6,7-tetrahydro-1H-indazol-3-yl)-3-fluorobenzoic acid; 4-(1-(2-chloro-6-cyclopropylbenzoyl)-6-oxo-4,5,6,7-tetrahydro-1H-indazol-3-yl)-3-fluorobenzoic acid; 4-(1-(2-chloro-6-cyclopropylbenzoyl)-1,4,5,6,7,8-hexahydrocyclohepta[c]pyrazol-3-yl)-3-fluorobenzoic acid; 4-(1-(2-chloro-6-cyclobutylbenzoyl)-4,5,6,7-tetrahydro-1H-indazol-3-yl)-3-fluorobenzoic acid; 4-(1-(2,6-dichlorobenzoyl)-4,5,6,7-tetrahydro-1H-indazol-3-yl)benzoic acid; 4-(1-(2-chloro-6-cyclopropylbenzoyl)-4,5,6,7-tetrahydro-1H-indazol-3-yl)-5-fluoro-2-hydroxybenzoic acid; 4-(1-(2-chloro-6-(trifluoromethyl)benzoyl)-1,4,5,6,7,8-hexahydropyrazolo[3,4-d]azepin-3-yl)-3-fluorobenzoic acid; 4-(1-(2-chloro-6-(trifluoromethyObenzyl)-4,5,6,7-tetrahydro-1H-indazol-3-yl)-3-fluorobenzoic acid; 3-(4-carboxy-2-fluorophenyl)-1-(2-chloro-6-cyclopropylbenzoyl)-4,5,6,7-tetrahydro-1H-indazole-6-carboxylic acid; 4-(1-(2-chloro-6-cyclopropylbenzoyl)-6-(dimethylcarbamoyl)-4,5,6,7-tetrahydro-1H-indazol-3-yl)-3-fluorobenzoic acid; 4-(6-(azetidine-1-carbonyl)-1-(2-chloro-6-cyclopropylbenzoyl)-4,5,6,7-tetrahydro-1H-indazol-3-yl)-3-fluorobenzoic acid; 4-(1-(2-chloro-6-cyclopropylbenzoyl)-6-(methylcarbamoyl)-4,5,6,7-tetrahydro-1H-indazol-3-yl)-3-fluorobenzoic acid; 4-(4-(tert-butoxycarbonyl)-1-(2-chloro-6-cyclopropylbenzoyl)-4,5,6,7-tetrahydro-1H-pyrazolo[4,3-b]pyridin-3-yl)-3-fluorobenzoic acid; 4-(1-(2-chloro-6-cyclopropylbenzoyl)-1,4,6,7-tetrahydropyrano[4,3-c]pyrazol-3-yl)benzoic acid; 4-(1-(2-chloro-6-cyclopropylbenzoyl)-1,4,5,7-tetrahydropyrano[3,4-c]pyrazol-3-yl)-3-fluorobenzoic acid; 4-(6-acetyl-1-(2-chloro-6-cyclopropylbenzoyl)-4,5,6,7-tetrahydro-1H-pyrazolo[3,4-c]pyridin-3-yl)-3-fluorobenzoic acid; 4-(1-(2-chloro-6-cyclopropylbenzoyl)-6-(methoxycarbonyl)-4,5,6,7-tetrahydro-1H-pyrazolo[3,4-c]pyridin-3-yl)-3-fluorobenzoic acid; 4-(1-(2-chloro-6-cyclopropylbenzoyl)-6-(3-methoxyazetidine-1-carbonyl)-4,5,6,7-tetrahydro-1H-indazol-3-yl)-3-fluorobenzoic acid; 4-(1-(2-chloro-6-cyclopropylbenzoyl)-6-(3-methoxyazetidine-1-carbonyl)-4,5,6,7-tetrahydro-1H-indazol-3-yl)-3-fluorobenzoic acid; 4-(1-(2-chloro-6-(1-cyanocyclopropyl)benzoyl)-6-(3-methoxyazetidine-1-carbonyl)-4,5,6,7-tetrahydro-1H-indazol-3-yl)-3-fluorobenzoic acid; 4-(1-(2-chloro-6-(1-cyanocyclopropyl)benzoyl)-6-(3-methoxyazetidine-1-carbonyl)-4,5,6,7-tetrahydro-1H-indazol-3-yl)-3-fluorobenzoic acid; 4-(1-(2-chloro-6-(1-cyanocyclobutyl)benzoyl)-6-(3-(methylsulfonyl)azetidine-1-carbonyl)-4,5,6,7-tetrahydro-1H-indazol-3-yl)-3-fluorobenzoic acid;
 4-(1-(2-chloro-6-(1-cyanocyclobutyl)benzoyl)-6-(3-(methylsulfonyl)azetidine-1-carbonyl)-4,5,6,7-tetrahydro-1H-indazol-3-yl)-3-fluorobenzoic acid; 4-(1-(2-chloro-6-(1-cyanocyclobutyl)benzoyl)-6-(4-methyl-3-oxopiperazine-1-carbonyl)-4,5,6,7-tetrahydro-1H-indazol-3-yl)-3-fluorobenzoic acid; 4-(1-(2-chloro-6-(1-cyanocyclobutyl)benzoyl)-6-(4-methyl-3-oxopiperazine-1-carbonyl)-4,5,6,7-tetrahydro-1H-indazol-3-yl)-3-fluorobenzoic acid; and 4-(1-(2-chloro-6-cyclopropylbenzoyl)-6-(3-methoxyazetidine-1-carbonyl)-4,5,6,7-tetrahydro-1H-indazol-3-yl)-2-methylbenzoic acid; or a pharmaceutically acceptable salt thereof.
 In an embodiment of Formula I-2 or II:
 Ring A is a saturated monocyclic ring optionally containing 1, 2, or 3 heteroatoms selected from O, N or S and optionally substituted with one to three substituents independently selected from R3, wherein R3 is selected from the group consisting of OH, oxo, (C1-4)alkoxy, C(O)R5, C(O)N(R5)2,
+<img> id-US20180016239A1-20180118-C00016.TIF </img>
 Z is CH2 or C(O);
 m is 0, 1, or 2;R1 is independently OH, (C1-4)alkyl or halogen;R2 is independently selected from halogen and (C3-4)cycloalkyl;R5 is independently selected from OH, (C0-4)alkyl, (C1-4)alkoxy and S(O)2Rb; andRb is methyl;
 In an embodiment, Ring A is selected from:
+<img> id-US20180016239A1-20180118-C00017.TIF </img>
 optionally substituted with one to three R3, wherein R3 is selected from the group consisting of OH, oxo, (C1-4)alkyl, (C1-4)alkyl-N(Ra)2, (C1-4)alkoxy, N(Ra)2, C(O)R5, C(O)N(R5)2,
+<img> id-US20180016239A1-20180118-C00018.TIF </img>
 wherein said alkyl is optionally substituted with one or more halogen; and it is understood that the bond between carbon atoms in Ring A shared with the pyrazolyl group is a C-C double bond. This may be more specifically depicted as wherein Ring A is selected from:
+<img> id-US20180016239A1-20180118-C00019.TIF </img>
 optionally substituted with one to three R3, wherein R3 is selected from the group consisting of OH, oxo, (C1-4)alkyl, (C1-4)alkyl-N(Ra)2, (C1-4)alkoxy, N(Ra)2, C(O)R5, C(O)N(R5)2,
+<img> id-US20180016239A1-20180118-C00020.TIF </img>
 wherein said alkyl is optionally substituted with one or more halogen.
 In another embodiment, Ring A is selected from:
+<img> id-US20180016239A1-20180118-C00021.TIF </img>
 optionally substituted with one to three R3, wherein R3 is independently selected from the group consisting of OH, oxo, (C1-4)alkoxy, C(O)R5, C(O)N(R5)2,
+<img> id-US20180016239A1-20180118-C00022.TIF </img>
 and it is understood that the bond between carbon atoms in Ring A shared with the pyrazolyl group is a C-C double bond. This may be more specifically depicted as wherein Ring A is selected from:
+<img> id-US20180016239A1-20180118-C00023.TIF </img>
 optionally substituted with one to three R3, wherein R3 is independently selected from the group consisting of OH, oxo, (C1-4)alkoxy, C(O)R5, C(O)N(R5)2,
+<img> id-US20180016239A1-20180118-C00024.TIF </img>
 In another embodiment, Ring A is selected from:
+<img> id-US20180016239A1-20180118-C00025.TIF </img>
 optionally substituted with one R3, wherein R3 is independently selected from the group consisting of OH, oxo, (C1-4)alkoxy, C(O)R5, C(O)N(R5)2,
+<img> id-US20180016239A1-20180118-C00026.TIF </img>
 and it is understood that the bond between carbon atoms in Ring A shared with the pyrazolyl group is a C-C double bond. This may be more specifically depicted as wherein Ring A is selected from:
+<img> id-US20180016239A1-20180118-C00027.TIF </img>
 optionally substituted with one R3, wherein R3 is independently selected from the group consisting of OH, oxo, (C1-4)alkoxy, C(O)R5, C(O)N(R5)2,
+<img> id-US20180016239A1-20180118-C00028.TIF </img>
 In an embodiment, m is 1 and R1 is fluorine.
 In an embodiment, n is 2 and R2 is chlorine and cyclopropyl.
 The invention also provides a compound of Formulas I (i.e., Formula I-1, I-1A, and I-2), II or III, or a pharmaceutically acceptable salt thereof in purified form.
@@ -176,9 +200,13 @@ All the end products of the Formulas (I-III) were analyzed by NMR and/or LCMS. I
 Abbreviations used herein are as follows: EtOAc: Ethyl acetate; PE: Petroleum ether; EA: Ethyl acetate; DCM: Dichloro methane; Dppf: 1,1'-Bis(diphenylphosphino) ferrocene; AcOH: Acetic acid; DMAC: N,N-Dimethylacetamide; Pd(PPh3)4: Tetrakis(Triphenylphosphine)Palladium(0); Pd(dppf)Cl2: [1,1'-Bis(diphenylphosphino) ferrocene]dichloropalladium (II); Ac2O: Acetic anhydride; LiHMDS: Lithium bis(trimethylsilyl)amide; PhNTf2: N-Phenyl-bis(trifluoromethanesulfonimide); S-Phos: 2-Dicyclohexylphosphino-2',6'-dimethoxybiphenyl; X-Phos: 2-Dicyclohexylphosphino-2',4',6'-triisopropylbiphenyl; CPME: Cyclopentyl methyl ether; DMAP: 4-Dimethylaminopyridine; TEA: Triethylamine; THF: Tetrahydrofuran; PYAOP: (7-Azabenzotriazol-1-yloxy)tripyrrolidinophosphonium hexafluorophosphate.
 Schemes
 Scheme 1 illustrates a general method toward the preparation of compounds of formula I. Starting with the halogenation of compound A followed by N-acylation with either carboxylic acids or acid chlorides in the presence of base led to the formation of compound C. Subsequent Suzuki coupling followed by ester hydrolysis afforded the final compound. In certain cases, ester hydrolysis occurred under the Suzuki coupling condition and led to the formation of final product within one pot.
+<img> id-US20180016239A1-20180118-C00029.TIF </img>
 Scheme 2 illustrates a general method toward the preparation of compounds of formula II. Starting with the halogenation of compound A followed by N-acylation with either carboxylic acids or acid chlorides in the presence of base led to the formation of compound C. Ester hydrolysis led to compound D. Standard amide coupling furnished intermediate E. Subsequent Suzuki coupling followed by ester hydrolysis led to the formation of the final product II.
+<img> id-US20180016239A1-20180118-C00030.TIF </img>
 Scheme 3 illustrates a general method toward the preparation of compounds of formula III. After the halogenation of compound A, N-alkylation through benzyl halides or using standard Mitsunobu conditions with the respective benzyl alcohols yielded compound C. Subsequent Suzuki coupling followed by ester hydrolysis led to the formation of the final product III.
+<img> id-US20180016239A1-20180118-C00031.TIF </img>
 Scheme 4 illustrates a general method for the preparation of compounds of formula IV, which are not easily accessible by following the general methods described previously. Compound A is treated with base and coupled with the respective acid chloride followed by condensation with hydrazine to yield fused pyrazole intermediate B. N-acylation with either carboxylic acids or acid chlorides in the presence of base leads to the formation of compound C. Carbonylation under palladium conditions in the presence of alcohol yields ester D. Subsequent ester hydrolysis leads to the formation of the final product IV.
+<img> id-US20180016239A1-20180118-C00032.TIF </img>
 Commercially Available/Previously Described Materials
 The following table lists commercial sources, and previously disclosed synthetic routes for chemical materials employed in the synthesis of intermediates, and examples of the instant invention. The list is not intended to be exhaustive, exclusive, or limiting in any way.
 <table>
@@ -191,23 +219,24 @@ Structure & Source
 <header>
 
 </header>
- & Acros Organics
- & Alfa Aesar
- & Syntech Solutions
- & Alfa Aesar
- & Chembridge Corporation
- & Sigma-Aldrich
- & WuXi App Tec Co. Ltd.
- & Synthonix Corporation
- & Matrix Scientific
- & Alfa Aesar
- & Enamine
- & Enamine
- & DL Chiral Chemicals
- & Chembridge Corporation
+<img> id-US20180016239A1-20180118-C00033.TIF </img> & Acros Organics
+<img> id-US20180016239A1-20180118-C00034.TIF </img> & Alfa Aesar
+<img> id-US20180016239A1-20180118-C00035.TIF </img> & Syntech Solutions
+<img> id-US20180016239A1-20180118-C00036.TIF </img> & Alfa Aesar
+<img> id-US20180016239A1-20180118-C00037.TIF </img> & Chembridge Corporation
+<img> id-US20180016239A1-20180118-C00038.TIF </img> & Sigma-Aldrich
+<img> id-US20180016239A1-20180118-C00039.TIF </img> & WuXi App Tec Co. Ltd.
+<img> id-US20180016239A1-20180118-C00040.TIF </img> & Synthonix Corporation
+<img> id-US20180016239A1-20180118-C00041.TIF </img> & Matrix Scientific
+<img> id-US20180016239A1-20180118-C00042.TIF </img> & Alfa Aesar
+<img> id-US20180016239A1-20180118-C00043.TIF </img> & Enamine
+<img> id-US20180016239A1-20180118-C00044.TIF </img> & Enamine
+<img> id-US20180016239A1-20180118-C00045.TIF </img> & DL Chiral Chemicals
+<img> id-US20180016239A1-20180118-C00046.TIF </img> & Chembridge Corporation
 </table>
 INTERMEDIATES
 Intermediate i-1a
+<img> id-US20180016239A1-20180118-C00047.TIF </img>
 3-iodo-1,4,5,6-tetrahydrocyclopenta[c]pyrazole
 A mixture of 1,4,5,6-tetrahydrocyclopenta[c]pyrazole (200 mg, 1.85 mmol) and NIS (416 mg, 1.85 mmol) in DMF (2.3 ml) was stirred at room temperature overnight. The reaction mixture was diluted with water and EtOAc. The organic layer was separated and washed twice with aqueous NaHCO3 and once with brine. Aqueous layers were back extracted once with EtOAc, combined organic layers were dried with Na2SO4, filtered and the solvent was evaporated under reduced pressure. The residue was purified by silica gel chromatography for Intermediate i-1a which (EtOAc/Hexane 25-90%) to afford the title compound. LCMS (ESI) calc'd for C6H7IN2 [M+H]+: 235, found: 235.
 The following examples shown in Table 1 were prepared following similar procedures described can be achieved by those of ordinary skill in the art of organic synthesis.
@@ -227,16 +256,17 @@ Intermediate & Structure & IUPAC Name & (M + 1)
 <header>
 
 </header>
-i-1b &  & 3-iodo-4,5,6,7-tetrahydro-1H- indazole & 249
-i-1c &  & tert-butyl 3-iodo-4,6- dihydropyrrolo[3,4-c]pyrazole- 5(1H)-carboxylate & 336
-i-1d &  & tert-butyl 3-iodo-6,7-dihydro- 1H-pyrazolo[4,3-c]pyridine- 5(4H)-carboxylate & 350
-i-1e &  & 3-iodo-4,5,6,7-tetrahydro-1H- indazol-6-ol & 264
-i-1f &  & methyl 3-iodo-4,5,6,7- tetrahydro-1H-indazole-6- carboxylate & 307
-i-1g &  & tert-butyl 3-iodo-1,4,5,7- tetrahydro-6H-pyrazolo[3,4- c]pyridine-6-carboxylate & 350
-i-1h &  & 3-iodo-6,7-dihydro-1H-indazol- 4(5H)-one & 262
-i-1i &  & 3-iodo-1,4,5,6,7,8- hexahydrocyclohepta[c]pyrazole & 263
+i-1b & <img> id-US20180016239A1-20180118-C00048.TIF </img> & 3-iodo-4,5,6,7-tetrahydro-1H- indazole & 249
+i-1c & <img> id-US20180016239A1-20180118-C00049.TIF </img> & tert-butyl 3-iodo-4,6- dihydropyrrolo[3,4-c]pyrazole- 5(1H)-carboxylate & 336
+i-1d & <img> id-US20180016239A1-20180118-C00050.TIF </img> & tert-butyl 3-iodo-6,7-dihydro- 1H-pyrazolo[4,3-c]pyridine- 5(4H)-carboxylate & 350
+i-1e & <img> id-US20180016239A1-20180118-C00051.TIF </img> & 3-iodo-4,5,6,7-tetrahydro-1H- indazol-6-ol & 264
+i-1f & <img> id-US20180016239A1-20180118-C00052.TIF </img> & methyl 3-iodo-4,5,6,7- tetrahydro-1H-indazole-6- carboxylate & 307
+i-1g & <img> id-US20180016239A1-20180118-C00053.TIF </img> & tert-butyl 3-iodo-1,4,5,7- tetrahydro-6H-pyrazolo[3,4- c]pyridine-6-carboxylate & 350
+i-1h & <img> id-US20180016239A1-20180118-C00054.TIF </img> & 3-iodo-6,7-dihydro-1H-indazol- 4(5H)-one & 262
+i-1i & <img> id-US20180016239A1-20180118-C00055.TIF </img> & 3-iodo-1,4,5,6,7,8- hexahydrocyclohepta[c]pyrazole & 263
 </table>
 Intermediate i-2a
+<img> id-US20180016239A1-20180118-C00056.TIF </img>
 (2-chloro-6-(trifluoromethyl)phenyl)(3-iodo-5,6-dihydrocyclopenta[c]pyrazol-1(4H)-yl)methanone
 To a mixture of i-1a (90 mg, 0.39 mmol), DIPEA (134 μl, 0.77 mmol) and DMAP (71 mg, 0.58 mmol) in DMF (1.9 ml) was added 2-chloro-6-(trifluoromethyl)benzoyl chloride (140 mg, 0.58 mmol) drop wise and the reaction was allowed to stir at room temperature overnight. The reaction mixture was diluted with EtOAc. The organic layer was separated and washed twice with aqueous NaHCO3 and once with brine. The combined organic layers were dried with Na2SO4, filtered and the solvent was evaporated under reduced pressure. The residue was purified by silica gel chromatography (EtOAc/Hexane 0-65%) to afford the title compound. LCMS (ESI) calc'd for C1-4H9ClF3IN2O [M+H]+: 440, found: 440.
 The following examples shown in Table 2 were prepared following similar procedures described for Intermediate i-2a which can be achieved by those of ordinary skill in the art of organic synthesis.
@@ -256,21 +286,24 @@ Intermediate & Structure & IUPAC Name & (M + 1)
 <header>
 
 </header>
-i-2b &  & (2-chloro-6- (trifluoromethyl)phenyl)(3- iodo-4,5,6,7-tetrahydro- 1H-indazol-1- yl)methanone & 454
-i-2c &  & tert-butyl 1-(2-chloro-6- (trifluoromethyl)benzoyl)- 3-iodo-4,6- dihydropyrrolo[3,4- c]pyrazole-5(1H)- carboxylate & 541
-i-2d &  & tert-butyl 1-(2-chloro-6- (trifluoromethyl)benzoyl)- 3-iodo-6,7-dihydro-1H- pyrazolo[4,3-c]pyridine- 5(4H)-carboxylate & 556
-i-2e &  & tert-butyl 1-(2-chloro-6- (trifluoromethyl)benzoyl)- 3-iodo-4,5,7,8- tetrahydropyrazolo[3,4- d]azepine-6(1H)- carboxylate & 570
+i-2b & <img> id-US20180016239A1-20180118-C00057.TIF </img> & (2-chloro-6- (trifluoromethyl)phenyl)(3- iodo-4,5,6,7-tetrahydro- 1H-indazol-1- yl)methanone & 454
+i-2c & <img> id-US20180016239A1-20180118-C00058.TIF </img> & tert-butyl 1-(2-chloro-6- (trifluoromethyl)benzoyl)- 3-iodo-4,6- dihydropyrrolo[3,4- c]pyrazole-5(1H)- carboxylate & 541
+i-2d & <img> id-US20180016239A1-20180118-C00059.TIF </img> & tert-butyl 1-(2-chloro-6- (trifluoromethyl)benzoyl)- 3-iodo-6,7-dihydro-1H- pyrazolo[4,3-c]pyridine- 5(4H)-carboxylate & 556
+i-2e & <img> id-US20180016239A1-20180118-C00060.TIF </img> & tert-butyl 1-(2-chloro-6- (trifluoromethyl)benzoyl)- 3-iodo-4,5,7,8- tetrahydropyrazolo[3,4- d]azepine-6(1H)- carboxylate & 570
 </table>
 Intermediate i-3
+<img> id-US20180016239A1-20180118-C00061.TIF </img>
 (2,6-dichlorophenyl)(3-iodo-4,5,6,7-tetrahydro-1H-indazol-1-yl)methanone
 To a mixture of i-1b (200 mg, 0.8 mmol), TEA (1124 μl, 8.0 mmol), and DMAP (98 mg, 0.8 mmol) in DMF (2.6 ml) was added 2,6-dichlorobenzoyl chloride (253 mg, 1.2 mmol) drop wise. The reaction was allowed to stir overnight at room temperature. The mixture was diluted with EtOAc. The organic layer was separated and washed twice with aqueous NaHCO3 and once with brine. The combined organic layers were dried with Na2SO4, filtered and the solvent was evaporated under reduced pressure. The residue was purified by silica gel chromatography (EtOAc/Hexane 5-75%) to afford the title compound. LCMS (ESI) calc'd for C14H11Cl2IN2O [M+H]+: 420, found: 420
 Intermediate i-4
+<img> id-US20180016239A1-20180118-C00062.TIF </img>
 2-chloro-6-cyclopropylbenzoic acid
 Step 1. Preparation of methyl 2-chloro-6-cyclopropylbenzoate (i-4b)
 Methyl 2-bromo-6-chlorobenzoate (1.0 g, 4.0 mmol), cyclopropylboronic acid (516 mg, 6.0 mmol), Pd(OAc)2 (90 mg, 0.4 mmol), Cy3P (224 mg, 0.8 mmol) and K3PO4 (2.5 g, 12.0 mmol) were mixed in toluene (20 ml) and H2O (2.5 ml). The mixture was stirred at 100° C. for 14 h under N2 atmosphere. The mixture was cooled down and poured into water. The mixture was extracted with EtOAc and the organic layer was dried over Na2SO4 and concentrated. The residue was purified by flash chromatography (Petroleum/EtOAc 15/1) to give title compound. LCMS (ESI) calc'd for CHHHClO2 [M+H]+: 211, found: 211.
 Step 2. Preparation of 2-chloro-6-cyclopropylbenzoic acid (i-4)
 NaOH (380 mg, 9.5 mmol) was added to a solution of methyl 2-chloro-6-cyclopropylbenzoate (i-4b) (200 mg, 0.95 mmol) in EtOH (15 ml) and H2O (6 ml). The resulted solution was stirred at 80° C. overnight. The mixture was cooled down and acidified with 2N HCl to pH=2˜3. Then the mixture was extracted with EtOAc. The organic layer was dried over Na2SO4 and concentrated to afford the title compound. LCMS (ESI) calc'd for C10H9ClO2 [M+H]+: 197, found: 197.
 Intermediate i-5a
+<img> id-US20180016239A1-20180118-C00063.TIF </img>
 (2-chloro-6-cyclopropylphenyl)(3-iodo-4,5,6,7-tetrahydro-1H-indazol-1-yl)methanone
 Step 1: 2-chloro-6-cyclopropylbenzoyl chloride (i-5a-1)
 A mixture of i-4 (1.0 g 5.1 mmol), oxalyl chloride (1.1 mL, 12.7 mmol) and DMF (0.039 mL, 0.51 mmol) in DCM (10.2 mL) was allowed to stir at room temperature for 30 minutes. The mixture was concentrated in vacuum to give the crude title compound, which was directly used to next step without further purification.
@@ -293,43 +326,52 @@ Intermediate & Structure & IUPAC Name & (M + 1)
 <header>
 
 </header>
-i-5b &  & (2-chloro-6- cyclopropylphenyl)(6-hydroxy-3- iodo-4,5,6,7-tetrahydro-1H-indazol-1- yl)methanone & 443
-i-5c &  & methyl 1-(2-chloro-6- cyclopropylbenzoyl)-3-iodo-4,5,6,7- tetrahydro-1H-indazole-6-carboxylate & 485
-i-5d &  & tert-butyl 1-(2-chloro-6- cyclopropylbenzoyl)-3-iodo-4,5- dihydro-1H-pyrazolo[3,4-c]pyridine- 6(7H)-carboxylate & 528
-i-5e &  & 1-(2-chloro-6- cyclopropylbenzoyl)-3-iodo-6,7- dihydro-1H-indazol-4(5H)-on & 440
-i-5f &  & (2-chloro-6- cyclopropylphenyl)(3-iodo-5,6,7,8- tetrahydrocyclohepta[c]pyrazol- 1(4H)-yl)methanone & 441
-i-5g &  & (2-chloro-6-(1- (trifluoromethyl)cyclopropyl)phenyl) (6-hydroxy-3-iodo-4,5,6,7-tetrahydro- 1H-indazol-1-yl)methanone & 511
+i-5b & <img> id-US20180016239A1-20180118-C00064.TIF </img> & (2-chloro-6- cyclopropylphenyl)(6-hydroxy-3- iodo-4,5,6,7-tetrahydro-1H-indazol-1- yl)methanone & 443
+i-5c & <img> id-US20180016239A1-20180118-C00065.TIF </img> & methyl 1-(2-chloro-6- cyclopropylbenzoyl)-3-iodo-4,5,6,7- tetrahydro-1H-indazole-6-carboxylate & 485
+i-5d & <img> id-US20180016239A1-20180118-C00066.TIF </img> & tert-butyl 1-(2-chloro-6- cyclopropylbenzoyl)-3-iodo-4,5- dihydro-1H-pyrazolo[3,4-c]pyridine- 6(7H)-carboxylate & 528
+i-5e & <img> id-US20180016239A1-20180118-C00067.TIF </img> & 1-(2-chloro-6- cyclopropylbenzoyl)-3-iodo-6,7- dihydro-1H-indazol-4(5H)-on & 440
+i-5f & <img> id-US20180016239A1-20180118-C00068.TIF </img> & (2-chloro-6- cyclopropylphenyl)(3-iodo-5,6,7,8- tetrahydrocyclohepta[c]pyrazol- 1(4H)-yl)methanone & 441
+i-5g & <img> id-US20180016239A1-20180118-C00069.TIF </img> & (2-chloro-6-(1- (trifluoromethyl)cyclopropyl)phenyl) (6-hydroxy-3-iodo-4,5,6,7-tetrahydro- 1H-indazol-1-yl)methanone & 511
 </table>
 Intermediate i-6
+<img> id-US20180016239A1-20180118-C00070.TIF </img>
 Step 1. Preparation of methyl 2-chloro-6-cyclobutylbenzoate (i-6b)
 A mixture of methyl 2-bromo-6-chlorobenzoate (i-6a) (750 mg, 3 mmol), (PPh3)4Pd (345 mg, 0.3 mmol) and cyclobutylzinc bromide (0.5M in THF, 12 ml) were mixed under N2 protection. The mixture was stirred at 70° C. for 12 h under N2. The mixture was extracted with EtOAc and water. The organic phase was washed with brine, dried over Na2SO4, filtered, and concentrated. The residue was purified with flash chromatography (PE:EtOAc=50:1) to give the title compound. LCMS (ESI) calc'd for C12H13ClO2 [M+H]+: 225, found: 225.
 Step 2. Preparation of 2-chloro-6-cyclobutylbenzoic acid (i-6)
 To a solution of methyl 2-chloro-6-cyclobutylbenzoate (i-6b) (350 mg, 1 mmol) in EtOH (2 ml), was added 0.2M KOH (1.5 ml, 3 mmol). The mixture was stirred at 100° C. for 12 h, acidified with 3N HCl and extracted with EtOAc. The organic phase was washed with brine, dried over Na2SO4, filtered and concentrated. The residue was purified with prep-HPLC (ACN: H2O) to give the title compound. LCMS (ESI) calc'd for C11H11ClO2 [M+H]+: 211, found: 211.
 Intermediate i-7
+<img> id-US20180016239A1-20180118-C00071.TIF </img>
 (2-chloro-6-cyclobutylphenyl)(3-iodo-4,5,6,7-tetrahydro-1H-indazol-1-yl)methanone
 To a mixture of i-6 (208 mg, 0.99 mmol), and DMF (7.7 μl, 0.1 mmol) in DCM (3.2 ml) was added oxalyl chloride (216 μl, 2.47 mmol) dropwise and the resulting solution was stirred at room temperature for 30 minutes. The reaction was concentrated, brought up in DCM (2.5 ml). The resulting solution was added to a mixture of i-1b (125 mg, 0.5 mmol), DMAP (61.6 mg, 0.5 mmol) and TEA (702 μl, 5.0 mmol) in DMF (2.5 ml). The solution was allowed to stir at room temperature overnight. The mixture was diluted with EtOAc, washed twice with NaHCO3 and once with brine. The combined organic layers were dried with Na2SO4, filtered and the solvent was evaporated under reduced pressure. The residue was purified by silica gel chromatography (EtOAc/Hexane 5-60%) to afford the title compound. LCMS (ESI) calc'd for C18H18ClIN2O [M+H]+: 441 found: 441.
 Intermediate i-8
+<img> id-US20180016239A1-20180118-C00072.TIF </img>
 1,4,5,6,7,8-hexahydrocyclohepta[c]pyrazole
 Step 1: (Z)-2-(hydroxymethylene)cycloheptanone (i-8a)
 To a mixture of sodium hydride (60% in mineral oil, 178 mg, 4.46 mmol) in diethyl ether (14.9 mL) at 0° C. was added ethanol (0.02 mL, 0.36 mmol) drop wise and the resulting mixture was allowed to stir at 0° C. for 30 minutes. A solution of cycloheptanone (500 mg, 4.46 mmol) and ethyl formate (0.58 mL, 7.13 mmol) in diethyl ether (3 mL) was then added drop wise to the cooled solution over 10 mins. The resulting mixture was allowed to stir at 0° C. for an hour and then warmed to room temperature and allowed to stir for additional 4 h. The reaction was quenched with 1 mL of ethanol and then 10 mL of water. The layers were separated and the aqueous layer was washed twice with diethyl ether. The combined aqueous layer were acidified with 2N HCl to a pH of ˜2. The aqueous layer was then washed twice with diethyl ether. The resulting organic layers were combined, dried with MgSO4, filtered and concentrated to give title compound, which was directly used to next step without further purification.
 Step 2: 1,4,5,6,7,8-hexahydrocyclohepta[c]pyrazole (i-8)
 To a mixture of i-8a (490 mg, 3.50 mmol) in MeOH (3.5 ml) at 0° C. was added hydrazine (313 μl, 3.50 mmol) drop wise and the then the solution was allowed to stir at room temperature for 30 min. The reaction was concentrated and the residue was brought up in DCM and washed with water and brine. The organic layer was dried over Na2SO4, filtered, and concentrated to afford the title compound. LCMS (ESI) calc'd for C8H12N2 [M+H]+: 137 found: 137.
 Intermediate i-9
+<img> id-US20180016239A1-20180118-C00073.TIF </img>
 methyl 4-(chlorocarbonyl)-3-fluorobenzoate
 A mixture of 2-fluoro-4-(methoxycarbonyl)benzoic acid (400 mg, 2.02 mmol) in thionyl chloride (7 mL) was stirred at 80° C. for 2 hours. After the reaction was completed, the mixture was concentrated in vacuum to give the crude title compound, which was directly used to next step without further purification.
 Intermediate i-10
+<img> id-US20180016239A1-20180118-C00074.TIF </img>
 1-(2-chloro-6-cyclopropylbenzoyl)-3-iodo-4,5,6,7-tetrahydro-1H-indazole-6-carboxylic acid
 A mixture of i-5c (577 mg, 1.19 mmol) and LiOH (285 mg, 11.9 mmol) in THF (2.9 ml), and water (2.9 ml) was allowed to stir at room temperature overnight. The reaction was acidified with 2N HCl and the resulting solution was extracted twice with ethyl acetate. The combined organic layers were dried with Na2SO4, filtered and the solvent was evaporated under reduced pressure to afford title compound. LCMS (ESI) calc'd for C18H16ClIN2O3 [M+H]+: 471 found: 471.
 Intermediate i-11
+<img> id-US20180016239A1-20180118-C00075.TIF </img>
 (2-chloro-6-cyclopropylphenyl)(3-iodo-6-methoxy-4,5,6,7-tetrahydro-1H-indazol-1-yl)methanone
 To a mixture of i-5b (50 mg, 0.11 mmol) in THF (1.1 ml) was added sodium hydride (9.04 mg, 0.23 mmol) and the solution was allowed to stir at room temperature for 30 minutes. Methyl iodide (7.77 μl, 0.12 mmol) was then added drop wise and the resulting solution was allowed to stir overnight at room temperature. The reaction was quenched with water and then diluted with ethyl acetate. The organic layer was separated and washed twice with aqueous NaHCO3 and once with brine. The combined organic layers were dried with Na2SO4, filtered and the solvent was evaporated under reduced pressure. The residue was purified by silica gel chromatography (EtOAc/Hexane 5-75%) to afford the title compound. LCMS (ESI) calc'd for C18H18ClIN2O2 [M+H]+: 457 found: 457.
 Intermediate i-12
+<img> id-US20180016239A1-20180118-C00076.TIF </img>
 1-(2-chloro-6-cyclopropylbenzoyl)-3-iodo-1,4,5,7-tetrahydro-6H-indazol-6-one
 To a mixture of i-5b (126 mg, 0.29 mmol) in DCM (2.8 ml) was added Dess-Martin Periodinane (181 mg, 0.43 mmol) and the resulting solution was allowed to stir at room temperature overnight. The mixture was diluted with ethyl acetate, washed twice with aqueous NaHCO3 and once with brine. The combined organic layers were dried with Na2SO4, filtered and the solvent was evaporated under reduced pressure. The residue was purified by silica gel chromatography (EtOAc/Hexane 10-75%) to afford the title compound. LCMS (ESI) calc'd for C17H14ClIN2O2 [M+H]+: 440 found: 440.
 Intermediate i-13
+<img> id-US20180016239A1-20180118-C00077.TIF </img>
 1-(2-chloro-6-(trifluoromethyl)benzyl)-3-iodo-4,5,6,7-tetrahydro-1H-indazole
 A mixture of i-1b (260 mg, 1.05 mmol), 2-chloro-6-(trifluoromethyl)benzyl bromide (344 mg, 1.26 mmol) and Cs2CO3 (683 mg, 2.1 mmol) in DMF (5.2 ml) was stirred at room temperature overnight. The mixture was diluted with ethyl acetate, washed twice with aqueous NaHCO3 and once with brine. The combined organic layers were dried with Na2SO4, filtered and the solvent was evaporated under reduced pressure. The residue was purified by silica gel chromatography (EtOAc/Hexane 10-100%) to afford the title compound. LCMS (ESI) calc'd for C15H13ClF3IN2 [M+H]+: 440 found: 440.
 Intermediate i-14
+<img> id-US20180016239A1-20180118-C00078.TIF </img>
 benzyl 2-(benzyloxy)-5-fluoro-4-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)benzoate
 Step 1: benzyl 4-bromo-2,5-difluorobenzoate (i-14a)
 To a mixture of 4-bromo-2,5-difluorobenzoic acid (1 g, 4.2 mmol) in benzyl alcohol (3 mL) was added an excess amount of thionyl chloride. The reaction mixture was stirred at room temperature overnight. LCMS indicated partial conversion, an additional aliquot of thionyl chloride was added and the mixture was heated to 70° C. overnight. The reaction mixture was cooled and concentrated. The residue was purified by silica gel chromatography (5% EtOAc in Hexane) to afford the title compound.
@@ -338,10 +380,12 @@ To a solution of i-14a (560 mg, 1.71 mmol) in DMF (0.5 ml) at 0° C. was added d
 Step 3: benzyl 2-(benzyloxy)-5-fluoro-4-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)benzoate (i-14)
 To a reaction vessel was added a mixture of i-14b (170 mg, 0.41 mmol), Xphos G2 biphenyl precatalyst (32.2 mg, 0.04 mmol), potassium acetate (80 mg, 0.82 mmol) and bispinacolatodiboron (208 mg, 0.82 mmol). The flask was evacuated and backfilled with nitrogen three times. Dry cyclopentylmethyl ether (2.0 ml) was then introduced to the reaction flask and the mixture was heated at 80° C. overnight. The mixture was cooled, diluted with ethyl acetate, filtered through celite and concentrated. The residue was purified by silica gel chromatography (30% EtOAc in Hexane) to afford the title compound. LCMS (ESI) calc'd for C27H28BFO5 [M+H]+: 463, found: 463.
 Intermediate i-15
+<img> id-US20180016239A1-20180118-C00079.TIF </img>
 tert-butyl 3-fluoro-4-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)benzoate
 Step 1: Preparation of tert-butyl 3-fluoro-4-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)benzoate
 To a flask was added tert-butyl 4-bromo-3-fluorobenzoate (6.1 g, 22.17 mmol), bis(pinacolato)diboron (6.19 g, 24.39 mmol), potassium acetate (6.53 g, 66.5 mmol) and dichloro [1,1'-bis (diphenylphosphino) ferrocene] palladium II dichloromethane adduct (0.543 g, 0.665 mmol) and the reaction was thoroughly degassed with argon for 5 minutes. DMSO (44.3 ml) was then added and the solution was further degassed with Argon. Reaction was then heated to 80° C. overnight. The reaction was cooled poured into Water (100 mL) and extracted with diethyl ether (3×50 mL). The combined organic layers were washed with brine, dried with Na2SO4, filtered, and concentrated in vacuo. The residue was purified by silica gel chromatography (0-100% EtOAc/Hexane) to afford the title compound. MS: 267 (M-56). 1H NMR (600 MHz, CDCl3) δ 7.76-7.73 (m, 1H), 7.72-7.69 (m, 1H), 7.57 (d, J=9.8 Hz, 1H), 1.57 (s, 9H), 1.35 (s, 12H).
 Intermediate i-16
+<img> id-US20180016239A1-20180118-C00080.TIF </img>
 2-chloro-6-cyclopropyl-3-fluorobenzoic acid
 Step 1. Preparation of 6-bromo-2-chloro-3-fluorobenzaldehyde (i-16b)
 To a solution of 4-bromo-2-chloro-1-fluorobenzene (5.00 g, 23.9 mmol) in THF (40 mL) was added lithium diisopropylamide (14.3 mL, 28.6 mmol) dropwise at −78° C. The resultant mixture was stirred at −78° C. for 2 h and then DMF (2.70 mL, 35.8 mmol) was added. The reaction mixture was warmed to room temperature, quenched with aq. NH4Cl, and extracted with EtOAc (3×100 mL). The combined organic layers were concentrated and purified by chromatography (0-10% EtOAc in petroleum ether) to give the title compound. 1H NMR (400 MHz, CDCl3) δ 10.27-10.33 (m, 1H), 7.56 (dd, J=8.6 Hz, 4.3 Hz, 1H), 7.18-7.26 (m, 1H).
@@ -350,6 +394,7 @@ To a mixture of 6-bromo-2-chloro-3-fluorobenzaldehyde (2.00 g, 8.42 mmol) and cy
 Step 3. Preparation of 2-chloro-6-cyclopropyl-3-fluorobenzoic acid (i-16)
 2-Methylbut-2-ene (2.54 g, 36.2 mmol) was added to the solution of 2-chloro-6-cyclopropyl-3-fluorobenzaldehyde (800 mg, 4.03 mmol) in t-BuOH (3 mL). Then an aqueous solution of sodium chlorite (474 mg, 5.24 mmol) and sodium dihydrogen phosphate (628 mg, 5.24 mmol) was added slowly to the reaction mixture. The resultant mixture was stirred at room temperature for 16 h. The solution was concentrated in vacuo and acidified to pH 2 with 1 M HCl aq., and extracted with EtOAc (3×20 mL). The combined organic layers were concentrated to give the title compound. 1H NMR (400 MHz, MeOD) δ 7.16 (t, J=8.8 Hz, 1H), 6.98 (dd, J=8.6 Hz, 4.7 Hz, 1H), 1.89-1.96 (m, 1H), 0.91-0.97 (m, 2H), 0.68 (q, J=5.2 Hz, 2H).
 Intermediate i-17
+<img> id-US20180016239A1-20180118-C00081.TIF </img>
 2-chloro-6-(1-(trifluoromethyl)cyclopropyl)benzoic acid
 Step 1. Preparation of methyl 2-chloro-6-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)benzoate (i-17a)
 To a solution of methyl 2-bromo-6-chlorobenzoate (7.50 g, 30.1 mmol) in dioxane (65 mL) was added Bis(pinacolato)diboron (15.3 g, 60.3 mmol), AcOK (3.54 g, 36.1 mmol) and PdCl2(dppf) (0.66 g, 0.90 mmol) under N2 atmosphere, then the resulting mixture was stirred at 100° C. for 18 h, cooled to room temperature, filtered and concentrated, the residue was purified by chromatography (0-3% EtOAc in petroleum ether) to give the title compound. MS: 297 (M+1). 1H NMR (400 MHz, CDCl3) δ 7.67 (d, J=7.4 Hz, 1H), 7.46 (d, J=7.8 Hz, 1H), 7.29-7.39 (m, 1H), 3.92 (s, 3H), 1.32 (s, 12H).
@@ -362,6 +407,7 @@ A solution of methyl 2-chloro-6-(3-(trifluoromethyl)-4,5-dihydro-3H-pyrazol-3-yl
 Step 5. Preparation of 2-chloro-6-(1-(trifluoromethyl)cyclopropyl)benzoic acid (i-17)
 To a solution of methyl 2-chloro-6-(1-(trifluoromethyl)cyclopropyl)benzoate (600 mg, 2.15 mmol) in DMF (1 mL) was added potassium thioacetate (984 mg, 8.61 mmol), followed by Polyethylene glycol-tert-octylphenyl ether (111 mg, 0.22 mmol). The resulting mixture was heated at 130° C. for 2 h, and then cooled to room temperature. The mixture was purified by Prep-HPLC to give the title compound. 1H NMR (400 MHz, CDCl3) δ 7.36-7.48 (m, 2H), 7.28-7.36 (m, 1H), 1.32-1.41 (m, 2H), 1.15-1.19 (m, 2H).
 Intermediate i-18
+<img> id-US20180016239A1-20180118-C00082.TIF </img>
 2-chloro-6-(1-(difluoromethyl)cyclopropyl)benzoic acid
 Step 1. Preparation of (2-bromo-6-chlorophenyl)methanol (i-18a)
 To a solution of 2-bromo-6-chlorobenzoic acid (20 g, 85 mmol) in THF (200 mL) was added BH3.DMS (42.5 mL, 425 mmol) slowly at 0° C. The resulting solution was heated at 80° C. for 17 h. The reaction was cooled and quenched with MeOH (100 mL) and NaClO (aq., 100 mL) carefully, then most of THF and MeOH were removed under reduced pressure and the remaining aqueous phase was filtered. The filtrate was extracted with EtOAc (4×30 mL). The combined organic layers were washed with brine (50 mL), dried over Na2SO4, filtered and concentrated in vacuo. The residue was purified by silica gel column chromatography (petroleum ether:EtOAc=50:1-20:1) to give the title compound. 1H NMR (400 MHz, CDCl3) δ 7.52 (d, J=8.0 Hz, 1H), 7.38 (d, J=8.0 Hz, 1H), 7.12 (t, J=8.0 Hz, 1H), 4.99 (d, J=3.5 Hz, 2H), 2.08-2.29 (m, 1H).
@@ -380,6 +426,7 @@ DMP (3.10 g, 7.31 mmol) was added to a stirred mixture of (2-chloro-6-(1-(difluo
 Step 8. Preparation of 2-chloro-6-(1-(difluoromethyl)cyclopropyl)benzoic acid (i-18)
 2-Methylbut-2-ene (1.672 g, 23.85 mmol) was added to a stirred mixture of 2-chloro-6-(1-(difluoromethyl)cyclopropyl)benzaldehyde (0.55 g, 2.385 mmol) in t-BuOH (10 mL) at room temperature. Then sodium dihydrogenphosphate (0.515 g, 4.29 mmol) in H2O (3 mL) and sodium chlorite (0.324 g, 3.58 mmol) in H2O (2 mL) was added. The mixture was stirred at room temperature for 18 h, diluted with ethyl acetate (20 mL) and hydrochloric acid (1 M, 3 mL). The mixture was extracted with ethyl acetate (4×15 mL), washed with brine (20 mL), dried over Na2SO4, filtered and the solvent was evaporated under reduced pressure. The residue was purified by preparative HPLC (reverse phase C-18 column), eluting with Acetonitrile/Water+0.1% HCOOH to give the title compound. 1H NMR (400 MHz, CDCl3) δ 7.29-7.72 (m, 3H), 5.96-6.32 (m, 1H), 1.30 (brs, 2H), 1.02 (brs, 2H).
 Intermediate i-19A and i-19B
+<img> id-US20180016239A1-20180118-C00083.TIF </img>
 methyl (6R)-3-iodo-4,5,6,7-tetrahydro-1H-indazole-6-carboxylate and methyl (6S)-3-iodo-4,5,6,7-tetrahydro-1H-indazole-6-carboxylate
 The mixture of the two stereoisomers was purified by chiral SFC (AD-H column, 30%/70% Methanol/CO2) to afford i-19A (faster eluting): MS: 307 (M+1). i-19B (slower eluting): MS: 307 (M+1).
 The following examples shown in Table 4 were prepared using i-19A and following similar procedures described in i-5a can be achieved by those of ordinary skill in the art of organic synthesis.
@@ -399,14 +446,16 @@ Intermediate & Structure & IUPAC Name & (M + 1)
 <header>
 
 </header>
-i-20A &  & methyl (R or S)-1-(2-chloro-6-(1- (trifluoromethyl)cyclopropyl)benzoyl)- 3-iodo-4,5,6,7-tetrahydro-1H- indazole-6-carboxylate & 553
-i-21A &  & methyl (R or S)-1-(2-chloro-6-(1- (difluoromethyl)cyclopropyl)benzoyl)- 3-iodo-4,5,6,7-tetrahydro-1H- indazole-6-carboxylate & 535
-i-22A &  & methyl (R or S)-1-(2-chloro-6- cyclopropylbenzoyl)-3-iodo-4,5,6,7- tetrahydro-1H-indazole-6-carboxylate & 485
+i-20A & <img> id-US20180016239A1-20180118-C00084.TIF </img> & methyl (R or S)-1-(2-chloro-6-(1- (trifluoromethyl)cyclopropyl)benzoyl)- 3-iodo-4,5,6,7-tetrahydro-1H- indazole-6-carboxylate & 553
+i-21A & <img> id-US20180016239A1-20180118-C00085.TIF </img> & methyl (R or S)-1-(2-chloro-6-(1- (difluoromethyl)cyclopropyl)benzoyl)- 3-iodo-4,5,6,7-tetrahydro-1H- indazole-6-carboxylate & 535
+i-22A & <img> id-US20180016239A1-20180118-C00086.TIF </img> & methyl (R or S)-1-(2-chloro-6- cyclopropylbenzoyl)-3-iodo-4,5,6,7- tetrahydro-1H-indazole-6-carboxylate & 485
 </table>
 Intermediate i-23A and i-23B
+<img> id-US20180016239A1-20180118-C00087.TIF </img>
 methyl (S)-1-(2-chloro-6-cyclopropylbenzoyl)-3-iodo-4,5,6,7-tetrahydro-1H-indazole-6-carboxylate and methyl (R)-1-(2-chloro-6-cyclopropylbenzoyl)-3-iodo-4,5,6,7-tetrahydro-1H-indazole-6-carboxylate
 The mixture of the two stereoisomers was purified by chiral SFC (OJ-H column, 20%/80% Methanol with 0.25% DME/CO2) to afford i-23A (faster eluting): MS: 485 (M+1). 23B (slower eluting): MS: 485 (M+1).
 Intermediate i-24
+<img> id-US20180016239A1-20180118-C00088.TIF </img><img> id-US20180016239A1-20180118-C00089.TIF </img>
 2-(difluoromethyl)-6-(1-(trifluoromethyl)cyclopropyl)benzoic acid
 Step 1: Preparation of 2-(3-chlorophenyl)-1,3-dioxolane (i-24a)
 A mixture of 3-chlorobenzaldehyde (100 g, 711 mmol), ethane-1,2-diol (64 mL, 1145 mmol) and P-TosOH (100 mg, 0.581 mmol) in toluene (200 mL) was stirred in a Dean-Stark apparatus at 110° C. for 15 hours. TLC showed no starting material remained and one major new spot formed. The reaction mixture was cooled to 20° C., diluted with EtOAc (300 mL) and water (500 mL). The aqueous layer was extracted with EtOAc (3×200 mL). The combined organic phase was dried over Na2SO4, filtered and concentrated in vacuo to afford 2-(3-chlorophenyl)-1,3-dioxolane. 1H NMR (400 MHz, chloroform-d) δ 7.47 (s, 1H), 7.36-7.28 (m, 3H), 5.77 (s, 1H), 4.11-4.01 (m, 4H).
@@ -427,6 +476,7 @@ Step 8: Preparation 2-(difluoromethyl)-6-(1-(trifluoromethyl)cyclopropyl)benzoic
 To a mixture of ethyl 2-(difluoromethyl)-6-(1-(trifluoromethyl)cyclopropyl)benzoate (1.12 g, 3.63 mmol) in dioxane (15 mL) was added potassium trimethylsilanolate (1.398 g, 10.90 mmol). The reaction mixture was stirred at 90° C. for 18 hours. LCMS showed no starting material remained. The reaction was cooled to 20° C., diluted with EtOAc (30 mL) and water (20 mL). The aqueous layer was acidified with 2N HCl to PH<1, extracted with EtOAc (3×20 mL). The combined organic phase was dried over Na2SO4, filtered and concentrated in vacuo to afford 2-(difluoromethyl)-6-(1-(trifluoromethyl)cyclopropyl)benzoic acid, which was used directly for next step without purification. MS: 303 (M+Na). 1H NMR (400 MHz, chloroform-d) δ 7.77-7.66 (m, 2H), 7.63-7.55 (m, 1H), 7.17-6.87 (m, 1H), 1.52-1.41 (m, 2H), 1.30-1.19 (m, 2H).
 EXAMPLES
 Example 1A
+<img> id-US20180016239A1-20180118-C00090.TIF </img>
 4-(1-(2-chloro-6-(trifluoromethyl)benzoyl)-4,5,6,7-tetrahydro-1H-indazol-3-yl)-3-fluorobenzoic acid
 Step 1: methyl 4-(1-(2-chloro-6-(trifluoromethyl)benzoyl)-4,5,6,7-tetrahydro-1H-indazol-3-yl)-3-fluorobenzoate (1A-1)
 A mixture of i-2b (50 mg, 0.11 mmol), (2-fluoro-4-(methoxycarbonyl)phenyl)boronic acid (33 mg, 0.17 mmol), PdCl2(dppf)-CH2Cl2 (18 mg, 0.02 mmol), potassium acetate (32 mg, 0.33 mmol) in THF (880 μl) and water (220 μl) was purged with argon for 5 minutes. Reaction was then heated to 80° C. overnight. The reaction was cooled and diluted with EtOAc. The organic layer was separated and washed twice with aqueous NaHCO3 and once with brine. The combined organic layers were dried with Na2SO4, filtered and the solvent was evaporated under reduced pressure. The residue was purified by silica gel chromatography (EtOAc/Hexane 5-65%) to afford the title compound. LCMS (ESI) calc'd for C23H17ClF4N2O3 [M+H]+: 481, found: 481.
@@ -449,41 +499,46 @@ No. & Structure & Name & (M + 1)
 <header>
 
 </header>
-1B &  & 4-(1-(2-chloro-6- (trifluoromethyl)benzoyl)- 1,4,5,6- tetrahydrocyclopenta[c]pyrazol- 3-yl)-3-fluorobenzoic acid & 453
-1C &  & 4-(6-(tert-butoxycarbonyl)-1-(2- chloro-6- (trifluoromethyl)benzoyl)- 1,4,5,6,7,8- hexahydropyrazolo[3,4- d]azepin-3-yl)-3-fluorobenzoic acid & 582
-1D &  & 4-(1-(2-chloro-6- cyclopropylbenzoyl)-4,5,6,7- tetrahydro-1H-indazol-3-yl)-2- hydroxybenzoic acid & 437
-1E &  & 4-(1-(2-chloro-6- cyclopropylbenzoyl)-4,5,6,7- tetrahydro-1H-indazol-3-yl)-3- fluorobenzoic acid & 439
-1F &  & 4-(1-(2-chloro-6- cyclopropylbenzoyl)-6- hydroxy-4,5,6,7-tetrahydro-1H- indazol-3-yl)-3-fluorobenzoic acid & 455
-1G &  & 4-(6-(tert-butoxycarbonyl)-1-(2- chloro-6-cyclopropylbenzoyl)- 4,5,6,7-tetrahydro-1H- pyrazolo[3,4-c]pyridin-3-yl)-3- fluorobenzoic acid & 540
-1H &  & 4-(1-(2-chloro-6- cyclopropylbenzoyl)-4-oxo- 4,5,6,7-tetrahydro-1H-indazol- 3-yl)-3-fluorobenzoic acid & 453
-1I &  & 4-(1-(2-chloro-6- cyclopropylbenzoyl)-6- methoxy-4,5,6,7-tetrahydro-1H- indazol-3-yl)-3-fluorobenzoic acid & 469
-1J &  & 4-(1-(2-chloro-6- cyclopropylbenzoyl)-6-oxo- 4,5,6,7-tetrahydro-1H-indazol- 3-yl)-3-fluorobenzoic acid & 453
-1K &  & 4-(1-(2-chloro-6- cyclopropylbenzoyl)- 1,4,5,6,7,8- hexahydrocyclohepta[c]pyrazol- 3-yl)-3-fluorobenzoic acid & 453
-1L &  & 4-(1-(2-chloro-6- cyclobutylbenzoyl)-4,5,6,7- tetrahydro-1H-indazol-3-yl)-3- fluorobenzoic acid & 453
-1M &  & 4-(1-(2,6-dichlorobenzoyl)- 4,5,6,7-tetrahydro-1H-indazol- 3-yl)benzoic acid & 415
+1B & <img> id-US20180016239A1-20180118-C00091.TIF </img> & 4-(1-(2-chloro-6- (trifluoromethyl)benzoyl)- 1,4,5,6- tetrahydrocyclopenta[c]pyrazol- 3-yl)-3-fluorobenzoic acid & 453
+1C & <img> id-US20180016239A1-20180118-C00092.TIF </img> & 4-(6-(tert-butoxycarbonyl)-1-(2- chloro-6- (trifluoromethyl)benzoyl)- 1,4,5,6,7,8- hexahydropyrazolo[3,4- d]azepin-3-yl)-3-fluorobenzoic acid & 582
+1D & <img> id-US20180016239A1-20180118-C00093.TIF </img> & 4-(1-(2-chloro-6- cyclopropylbenzoyl)-4,5,6,7- tetrahydro-1H-indazol-3-yl)-2- hydroxybenzoic acid & 437
+1E & <img> id-US20180016239A1-20180118-C00094.TIF </img> & 4-(1-(2-chloro-6- cyclopropylbenzoyl)-4,5,6,7- tetrahydro-1H-indazol-3-yl)-3- fluorobenzoic acid & 439
+1F & <img> id-US20180016239A1-20180118-C00095.TIF </img> & 4-(1-(2-chloro-6- cyclopropylbenzoyl)-6- hydroxy-4,5,6,7-tetrahydro-1H- indazol-3-yl)-3-fluorobenzoic acid & 455
+1G & <img> id-US20180016239A1-20180118-C00096.TIF </img> & 4-(6-(tert-butoxycarbonyl)-1-(2- chloro-6-cyclopropylbenzoyl)- 4,5,6,7-tetrahydro-1H- pyrazolo[3,4-c]pyridin-3-yl)-3- fluorobenzoic acid & 540
+1H & <img> id-US20180016239A1-20180118-C00097.TIF </img> & 4-(1-(2-chloro-6- cyclopropylbenzoyl)-4-oxo- 4,5,6,7-tetrahydro-1H-indazol- 3-yl)-3-fluorobenzoic acid & 453
+1I & <img> id-US20180016239A1-20180118-C00098.TIF </img> & 4-(1-(2-chloro-6- cyclopropylbenzoyl)-6- methoxy-4,5,6,7-tetrahydro-1H- indazol-3-yl)-3-fluorobenzoic acid & 469
+1J & <img> id-US20180016239A1-20180118-C00099.TIF </img> & 4-(1-(2-chloro-6- cyclopropylbenzoyl)-6-oxo- 4,5,6,7-tetrahydro-1H-indazol- 3-yl)-3-fluorobenzoic acid & 453
+1K & <img> id-US20180016239A1-20180118-C00100.TIF </img> & 4-(1-(2-chloro-6- cyclopropylbenzoyl)- 1,4,5,6,7,8- hexahydrocyclohepta[c]pyrazol- 3-yl)-3-fluorobenzoic acid & 453
+1L & <img> id-US20180016239A1-20180118-C00101.TIF </img> & 4-(1-(2-chloro-6- cyclobutylbenzoyl)-4,5,6,7- tetrahydro-1H-indazol-3-yl)-3- fluorobenzoic acid & 453
+1M & <img> id-US20180016239A1-20180118-C00102.TIF </img> & 4-(1-(2,6-dichlorobenzoyl)- 4,5,6,7-tetrahydro-1H-indazol- 3-yl)benzoic acid & 415
 </table>
 Example 2A
+<img> id-US20180016239A1-20180118-C00103.TIF </img>
 4-(1-(2-chloro-6-cyclopropylbenzoyl)-4,5,6,7-tetrahydro-1H-indazol-3-yl)-5-fluoro-2-hydroxybenzoic acid
 Step 1: benzyl 2-(benzyloxy)-4-(1-(2-chloro-6-cyclopropylbenzoyl)-4,5,6,7-tetrahydro-1H-indazol-3-yl)-5-fluorobenzoate (2A-1)
 A mixture of i-5a (184 mg, 0.43 mmol), i-14 (299 mg, 0.65 mmol), PdCl2(dppf)-CH2Cl2 (70.4 mg, 0.09 mmol), potassium acetate (127 mg, 1.29 mmol) in water (0.86 ml) and THF (3.4 ml) was purged with argon. The reaction was then heated to 80° C. overnight. The mixture was cooled and diluted with EtOAc. The organic layer was separated and washed twice with aqueous NaHCO3 and once with brine. The combined organic layers were dried with Na2SO4, filtered and the solvent was evaporated under reduced pressure. The residue was purified by silica gel chromatography (EtOAc/hexane 5-75%) to afford the title compound. LCMS (ESI) calc'd for C38H32ClFN2O4 [M+H]+: 635, found: 635.
 Step 1: 4-(1-(2-chloro-6-cyclopropylbenzoyl)-4,5,6,7-tetrahydro-1H-indazol-3-yl)-5-fluoro-2-hydroxybenzoic acid (2A)
 To a flask was added Pd/C (3.8 mg, 0.036 mmol) and the flask thoroughly degassed with argon. A solution of 2A-1 (231 mg, 0.36 mmol) in MeOH (1.8 ml) and EtOAc (1.8 ml) was then introduced to the reaction flask and the resulting mixture was further purged with argon. A H2 (0.7 mg, 0.36 mmol) balloon was then affixed to the reaction flask and the flask was sequentially vacuumed and refilled with hydrogen three times. The reaction was allowed to stir at room temperature overnight with a positive pressure of hydrogen (H2 balloon). The reaction mixture was filtered through celite and concentrated. The residue was purified by Prep-HPLC, eluting with acetonitrile/water+0.10% TFA 50-100% to give the title compound. LCMS (ESI) calc'd for C24H20ClFN2O4 [M+H]+: 455, found: 455. 1H NMR (600 MHz, DMSO-d6) δ 7.56 (d, J=10.1, 1H), 7.41-7.30 (m, 2H), 7.02 (d, J=7.2, 1H), 6.87 (d, J=5.4, 1H), 3.10 (s, 2H), 2.45-2.38 (m, 2H), 1.89-1.78 (m, 2H), 1.76-1.59 (m, 3H), 0.91-0.81 (m, 1H), 0.79-0.71 (m, 1H), 0.71-0.64 (m, 1H), 0.63-0.55 (m, 1H).
 Example 3A
+<img> id-US20180016239A1-20180118-C00104.TIF </img>
 4-(1-(2-chloro-6-(trifluoromethyl)benzoyl)-1,4,5,6,7,8-hexahydropyrazolo[3,4-d]azepin-3-yl)-3-fluorobenzoic acid
 A mixture of 1C (21 mg, 0.04 mmol) in TFA (72 μl) and CH2Cl2 (289 μl) was allowed to stir at room temperature overnight. The reaction mixture was concentrated and the residue was purified by Prep-HPLC, eluting with acetonitrile/water+0.10% TFA 30-90%, to afford the title compound as the TFA salt. LCMS (ESI) calc'd for C22H16ClF4N3O3 [M+H]+: 482, found: 482. 1H NMR (500 MHz, DMSO-d6) δ 13.50 (s, 1H), 8.99 (br s, 2H), 7.97 (d, J=8.0, 1H), 7.93 (d, J=8.0, 1H), 7.86-7.75 (m, 3H), 7.44 (t, J=7.5, 1H), 3.74 (s, 2H), 3.52 (s, 2H), 2.82 (s, 2H), 2.56-2.48 (bs, 2H).
 Example 4A
+<img> id-US20180016239A1-20180118-C00105.TIF </img>
 4-(1-(2-chloro-6-(trifluoromethyl)benzyl)-4,5,6,7-tetrahydro-1H-indazol-3-yl)-3-fluorobenzoic acid
 Step 1: methyl 4-(1-(2-chloro-6-(trifluoromethyl)benzyl)-4,5,6,7-tetrahydro-1H-indazol-3-yl)-3-fluorobenzoate (4A-1)
 A mixture of i-13 (190 mg, 0.43 mmol), (2-fluoro-4-(methoxycarbonyl)phenyl)boronic acid (128 mg, 0.65 mmol), PdCl2(dppf)-CH2Cl2 (70 mg, 0.09 mmol) and potassium acetate (127 mg, 1.29 mmol) in THF (1.7 ml) and water (0.43 ml) was purged with argon for 5 minutes. The reaction was then heated to 80° C. overnight. The mixture was cooled and diluted with EtOAc. The organic layer was separated and washed twice with aqueous NaHCO3 and once with brine. The combined organic layers were dried with Na2SO4, filtered and the solvent was evaporated under reduced pressure. The residue was purified by silica gel chromatography (EtOAc/Hexanes 5-65%) to afford the title compound. LCMS (ESI) calc'd for C23H19ClF4N2O2 [M+H]+: 467, found: 467.
 Step 2: 4-(1-(2-chloro-6-(trifluoromethyl)benzyl)-4,5,6,7-tetrahydro-1H-indazol-3-yl)-3-fluorobenzoic acid (4A)
 A mixture of 4A-1 (165 mg, 0.35 mmol) and lithium hydroxide (85 mg, 3.5 mmol) in THF (1.7 ml) and water (1.7 ml) was allowed to stir overnight at room temperature. The reaction mixture was acidified with 2N HCl and extracted twice with ethyl acetate. The combined organic layers were dried with Na2SO4, filtered and the solvent was evaporated under reduced pressure. The residue was purified by Prep-HPLC, eluting with acetonitrile/water+0.10% TFA 45-100%, to afford the title compound. LCMS (ESI) calc'd for C22H17ClF4N2O2 [M+H]+: 453, found: 453. 1H NMR (600 MHz, DMSO-d6) δ 7.83-7.76 (m, 2H), 7.71-7.66 (m, 1H), 7.64-7.55 (m, 2H), 7.38 (t, J=7.2, 1H), 5.34 (s, 2H), 2.72 (t, J=6.0, 2H), 2.44-2.37 (m, 2H), 1.85-1.73 (m, 2H), 1.69-1.58 (m, 2H).
 Example 5A
+<img> id-US20180016239A1-20180118-C00106.TIF </img>
 3-(4-carboxy-2-fluorophenyl)-1-(2-chloro-6-cyclopropylbenzoyl)-4,5,6,7-tetrahydro-1H-indazole-6-carboxylic acid
 Step 1: methyl 1-(2-chloro-6-cyclopropylbenzoyl)-3-(2-fluoro-4-(methoxycarbonyl)phenyl)-4,5,6,7-tetrahydro-1H-indazole-6-carboxylate (5A-1)
 A mixture of i-5c (140 mg, 0.29 mmol), (2-fluoro-4-(methoxycarbonyl)phenyl)boronic acid (114 mg, 0.58 mmol), PdCl2(dppf)-CH2Cl2 (47 mg, 0.06 mmol), and potassium acetate (85 mg, 0.87 mmol) in THF (1.1 ml) and water (0.28 ml) was purged with argon for 5 minutes. The reaction was then heated to 80° C. overnight. The mixture was cooled and diluted with ethyl acetate. The organic layer was separated and washed twice with aqueous NaHCO3 and once with brine. The combined organic layers were dried with Na2SO4, filtered and the solvent was evaporated under reduced pressure. The residue was purified by silica gel chromatography (EtOAc/Hexanes 5-65%) to afford the title compound. LCMS (ESI) calc'd for C27H24ClFN2O5 [M+H]+: 511, found: 511.
 Step 2: 3-(4-carboxy-2-fluorophenyl)-1-(2-chloro-6-cyclopropylbenzoyl)-4,5,6,7-tetrahydro-1H-indazole-6-carboxylic acid (5A)
 A mixture of 5A-1 (25 mg, 0.05 mmol) and lithium hydroxide (11 mg, 0.49 mmol) in THF (489 μl) and water (489 μl) was allowed to stir at room temperature for 3 h. The reaction mixture was acidified with 2N HCl and concentrated. The residue was purified by Prep-HPLC, eluting with acetonitrile/water+0.10% TFA 50-95%, to afford the title compound. LCMS (ESI) calc'd for C25H20ClFN2O5 [M+H]+: 483, found: 483. 1H NMR (600 MHz, DMSO-d6) δ 7.78 (d, J=7.8, 1H), 7.72 (d, J=10.2, 1H), 7.49 (t, J=7.2, 1H), 7.40-7.31 (m, 2H), 7.03 (dd, J=7.5, 19.0, 1H), 3.27-3.17 (m, 2H), 2.95-2.81 (m, 1H), 2.62-2.48 (m, 2H), 2.14-2.01 (m, 1H), 1.83-1.70 (m, 1H), 1.70-1.60 (m, 1H), 0.91-0.54 (m, 4H).
 Example 6A
+<img> id-US20180016239A1-20180118-C00107.TIF </img>
 4-(1-(2-chloro-6-cyclopropylbenzoyl)-6-(dimethylcarbamoyl)-4,5,6,7-tetrahydro-1H-indazol-3-yl)-3-fluorobenzoic acid
 Step 1: 1-(2-chloro-6-cyclopropylbenzoyl)-3-iodo-N,N-dimethyl-4,5,6,7-tetrahydro-1H-indazole-6-carboxamide (6A-1)
 A mixture of i-10 (80 mg, 0.17 mmol), dimethylamine (170 μl, 0.34 mmol), BOP (113 mg, 0.26 mmol) and Hunig's Base (89 μl, 0.51 mmol) in THF (1.7 ml) was allowed to stir at room temperature for 3 h. The reaction mixture was then diluted with ethyl acetate. The organic layer was separated and washed twice with aqueous NaHCO3 and once with brine. The combined organic layers were dried with Na2SO4, filtered and the solvent was evaporated under reduced pressure. The residue was purified by silica gel chromatography (EtOAc/Hexanes 10-95%) to afford the title compound. LCMS (ESI) calc'd for C20H21ClIN3O2 [M+H]+: 498, found: 498.
@@ -508,10 +563,11 @@ No. & Structure & Name & (M + 1)
 <header>
 
 </header>
-6B &  & 4-(6-(azetidine-1-carbonyl)-1- (2-chloro-6- cyclopropylbenzoyl)-4,5,6,7- tetrahydro-1H-indazol-3-yl)-3- fluorobenzoic acid & 522
-6C &  & 4-(1-(2-chloro-6- cyclopropylbenzoyl)-6- (methylcarbamoyl)-4,5,6,7- tetrahydro-1H-indazol-3-yl)-3- fluorobenzoic acid & 496
+6B & <img> id-US20180016239A1-20180118-C00108.TIF </img> & 4-(6-(azetidine-1-carbonyl)-1- (2-chloro-6- cyclopropylbenzoyl)-4,5,6,7- tetrahydro-1H-indazol-3-yl)-3- fluorobenzoic acid & 522
+6C & <img> id-US20180016239A1-20180118-C00109.TIF </img> & 4-(1-(2-chloro-6- cyclopropylbenzoyl)-6- (methylcarbamoyl)-4,5,6,7- tetrahydro-1H-indazol-3-yl)-3- fluorobenzoic acid & 496
 </table>
 Example 7A
+<img> id-US20180016239A1-20180118-C00110.TIF </img>
 Step 1: tert-butyl 3-(2-fluoro-4-(methoxycarbonyl)phenyl)-6,7-dihydro-1H-pyrazolo[4,3-b]pyridine-4(5H)-carboxylate (7A-1)
 To a solution of tert-butyl 3-oxopiperidine-1-carboxylate (221 mg, 1.11 mmol) in THF (10 mL) was added LiHMDS (185 mg, 1.11 mmol) at 0° C. After 15 min, i-9 (200 mg, 0.92 mmol) was added and the reaction mixture was stirred for 10 min. Acetic acid (1 mL) was added followed by addition of hydrazine (296 mg, 9.23 mmol). The reaction mixture was warmed slowly to 15° C. and further stirred for 1 hour. The reaction was quenched with aqueous NaHCO3 and the mixture was extracted with ethyl acetate. The combined organic layers were washed with saturated brine dried over Na2SO4 and evaporated to give the crude product. The residue was purified prep-TLC (ethyl acetate/petroleum ether=2:3) to give two isomers:
 tert-butyl 3-(2-fluoro-4-(methoxycarbonyl)phenyl)-6,7-dihydro-1H-pyrazolo[4,3-b]pyridine-4(5H)-carboxylate 7A-1. LCMS (ESI) calc'd for C9H6ClFO3 [M+H]+: 376, found: 376. 1H NMR (400 MHz, CDCl3) δ 7.64-7.82 (m, 3H), 6.37 (brs, 1H), 3.95 (s, 3H), 3.82 (brs, 2H), 2.86 (t, J=6.6 Hz, 2H), 1.97 (brs, 2H), 1.46 (s, 9H).
@@ -521,6 +577,7 @@ To a solution of 7A-1 (20 mg, 0.05 mmol) in DMF (3 mL) was added sodium hydride 
 Step 3: 4-(4-(tert-butoxycarbonyl)-1-(2-chloro-6-cyclopropylbenzoyl)-4,5,6,7-tetrahydro-1H-pyrazolo[4,3-b]pyridin-3-yl)-3-fluorobenzoic acid (7A)
 To a solution of 7A-2 (20 mg, 0.04 mmol) in acetonitrile (2 mL) and water (1 mL) was added lithium hydroxide (4.5 mg, 0.18 mmol) at 0° C. The mixture was warmed to room temperature and stirred for 18 h. The resulting mixture was acidified with 2N HCl and then extracted with EtOAc. The combined organic layers were dried with anhydrous Na2SO4, filtered and the solvent was evaporated under reduced pressure. The residue was purified by Prep-HPLC, eluting with acetonitrile/water+0.10% TFA 45-95% to give the title compound. LCMS (ESI) calc'd for C28H27ClFN3O5 [M+H]+: 540, found: 540. 1H NMR (400 MHz, Methanol-d4) δ 7.80 (d, J=7.8 Hz, 1H), 7.70 (d, J=9.4 Hz, 1H), 7.59 (brs, 1H), 7.39 (t, J=7.8 Hz, 1H), 7.31 (d, J=8.0 Hz, 1H), 7.07 (d, J=7.4 Hz, 1H), 3.84 (brs, 2H), 3.36 (t, J=6.0 Hz, 2H), 2.04 (s, 2H), 1.79-1.80 (m, 1H), 1.08 (s, 9H), 0.88-0.93 (m, 1H), 0.73-0.82 (m, 2H), 0.61-0.62 (m, 1H).
 Example 8A
+<img> id-US20180016239A1-20180118-C00111.TIF </img>
 4-(1-(2-chloro-6-cyclopropylbenzoyl)-1,4,6,7-tetrahydropyrano[4,3-c]pyrazol-3-yl)benzoic acid
 Step 1: 3-(4-bromophenyl)-1,4,6,7-tetrahydropyrano[4,3-c]pyrazole (8A-1)
 A mixture of dihydro-2H-pyran-4(3H)-one (1 g, 10 mmol) in toluene (20 mL) was cooled to 0° C. under N2 and then LiHMDS (10.5 mL, 1.0 M in THF, 10.5 mmol) was added quickly and the resulting mixture was stirred for 1 minute followed by addition of 4-bromobenzoyl chloride (1.10 g, 4.99 mmol) dissolved in toluene (5 mL). After stirred for 1 minute, AcOH (10 mL), EtOH (50 mL) and THF (25 mL) were added respectively. Then N2H4H2O (8.58 g, 171.30 mmol) was added and the mixture was refluxed for 20 minutes. The resulting solution was poured into 1.0 M NaOH (a.q.) and extracted with EA. The organic phase was washed with brine, dried over Na2SO4 and concentrated. The residue was purified by column chromatography (DCM:EA=5:1) to afford the title compound. LCMS (ESI) calc'd for C12H11BrN2O [M+H]+: 279, found: 279.
@@ -531,6 +588,7 @@ To a mixture of 8A-2 (87 mg, 0.19 mmol) and Et3N (58 mg, 0.57 mmol) in EtOH (10 
 Step 4: 4-(1-(2-chloro-6-cyclopropylbenzoyl)-1,4,6,7-tetrahydropyrano[4,3-c]pyrazol-3-yl)benzoic acid (8A)
 A mixture of 8A-3 (30 mg, 0.07 mmol) and LiOH.H2O (12 mg, 0.27 mmol) in THF and H2O (2 mL and 0.5 mL) was stirred at 0° C. to room temperature for 3 hours. After diluted with water, the mixture was extracted with EtOAc. The organic phase was dried over Na2SO4 and concentrated. The residue was purified by prep-TLC (DCM:MeOH=20:1) to afford title compound. LCMS (ESI) calc'd for C23H19ClN2O4 [M+H]+: 423, found: 423. 1H NMR (Methanol-d4, 400 MHz) δ 8.03 (d, J=7.8 Hz, 2H), 7.59 (d, J=7.8 Hz, 2H), 7.38-7.43 (m, 1H), 7.29-7.36 (m, 1H), 7.10 (d, J=7.8 Hz, 1H), 4.92 (brs, 2H), 4.04 (brs, 2H), 1.74-1.88 (m, 1H), 1.28 (brs, 1H), 0.89 (d, J=7.0 Hz, 2H), 0.76 (t, J=6.1 Hz, 2H), 0.59-0.64 (m, 1H).
 Example 9A
+<img> id-US20180016239A1-20180118-C00112.TIF </img>
 4-(1-(2-chloro-6-cyclopropylbenzoyl)-1,4,5,7-tetrahydropyrano[3,4-c]pyrazol-3-yl)-3-fluorobenzoic acid
 Step 1: methyl 3-fluoro-4-(1,4,5,7-tetrahydropyrano[3,4-c]pyrazol-3-yl)benzoate (9A-1)
 To a solution of dihydro-2H-pyran-3(4H)-one (100 mg, 1.0 mmol) in dry THF (10 mL) was added lithium bis(trimethylsilyl)amide (1.2 mL, 1.2 mmol, 1M in THF) at 0° C. After stirring for 5 min, i-9 (260 mg, 1.2 mmol) was added and stirred for additional 5 min. Acetic acid (1 mL) was added followed by addition of hydrazine monohydrate (1 mL, 85%). The reaction was quenched with aqueous NaHCO3 and the mixture was extracted with EtOAc. The combined organic layers were washed with saturated brine, dried over Na2SO4 and concentrated. The residue was purified by prep TLC (EtOAc/PE=1:1) to give the title compound. LCMS (ESI) calc'd for C14H13FN2O3[M+H]+: 277, found: 277.
@@ -558,9 +616,10 @@ No. & Structure & IUPAC Name & [M + H]+
 <header>
 
 </header>
-9B &  & 4-[1-({2- chloro-6-[1- (trifluoro- methyl) cyclopropyl] phenyl} carbonyl)- 1,4,5,7- tetrahydro- pyrano[3,4-c] pyrazol- 3-yl]-3- fluorobenzoic acid & 509
+9B & <img> id-US20180016239A1-20180118-C00113.TIF </img> & 4-[1-({2- chloro-6-[1- (trifluoro- methyl) cyclopropyl] phenyl} carbonyl)- 1,4,5,7- tetrahydro- pyrano[3,4-c] pyrazol- 3-yl]-3- fluorobenzoic acid & 509
 </table>
 Example 10A
+<img> id-US20180016239A1-20180118-C00114.TIF </img><img> id-US20180016239A1-20180118-C00115.TIF </img>
 4-(6-acetyl-1-(2-chloro-6-cyclopropylbenzoyl)-4,5,6,7-tetrahydro-1H-pyrazolo[3,4-c]pyridin-3-yl)-3-fluorobenzoic acid
 Step 1: tert-butyl 1-(2-chloro-6-cyclopropylbenzoyl)-3-(2-fluoro-4-(methoxycarbonyl) phenyl)-4,5-dihydro-1H-pyrazolo[3,4-c]pyridine-6(7H)-carboxylate (10A-1)
 To a solution of tert-butyl 3-(2-fluoro-4-(methoxycarbonyl)phenyl)-4,5-dihydro-1H-pyrazolo[3,4-c]pyridine-6(7H)-carboxylate (7A-2) (40 mg, 0.107 mmol) in dry DMF (5 mL) was added sodium hydride (60% in mineral oil, 8.5 mg, 0.214 mmol) at 0° C. After stirring for 30 min at 0° C., i-5a-1 (26 mg, 0.161 mmol) was added. The reaction was warmed slowly to 20° C. and further stirred for 30 min. The reaction mixture was quenched by saturated aqueous NH4Cl and extracted with EtOAc, the combined organic layers were washed by brine, then dried over sodium sulfate and evaporated. The crude product was purified by prep-TLC (ethyl acetate/petroleum ether=4:1) to give the title compound. LCMS (ESI) calc'd for C29H29ClFN3O5 [M+H]+: 554, found: 554.
@@ -571,12 +630,14 @@ To a solution of 10A-2 (30 mg, 0.061 mml) and triethylamine (24.6 mg, 0.244 mml)
 Step 4: 4-(6-acetyl-1-(2-chloro-6-cyclopropylbenzoyl)-4,5,6,7-tetrahydro-1H-pyrazolo[3,4-c]pyridin-3-yl)-3-fluorobenzoic acid (10A)
 At 0° C., to a solution of 10A-3 (15 mg, 0.030 mml) in acetonitrile (2 ml) and water (1 ml) was added lithium hydroxide (2.1 mg, 0.091 mmol). The mixture was warmed to room temperature and stirred for 12 hrs. Then the reaction mixture was diluted with water, acidified with acetic acid (1 mL) and extracted with EtOAc. The organic layers dried over Na2SO4 and evaporated to dryness. The residue was purified by prep-HPLC, eluting with Acetonitrile/Water+0.10% TFA 45-95% to afford the title compound. LCMS (ESI) calc'd for C25H21ClFN3O4 [M+H]+: 482.1, found: 482.0; 1H NMR (400 MHz, Methanol-d4) δ 7.76-7.84 (m, 2H), 7.54-7.56 (m, 1H), 7.35-7.37 (m, 1H), 7.29-7.31 (m, 1H), 7.06-7.08 (m, 1H), 5.16-5.20 (m, 2H), 3.80-3.86 (m, 2H), 2.64 (s, 2H), 2.24 (s, 3H), 1.74-1.80 (m, 1H), 0.86-0.89 (m, 1H), 0.74-0.75 (m, 2H), 0.57-0.60 (m, 1H).
 Example 11A
+<img> id-US20180016239A1-20180118-C00116.TIF </img>
 4-(1-(2-chloro-6-cyclopropylbenzoyl)-6-(methoxycarbonyl)-4,5,6,7-tetrahydro-1H-pyrazolo[3,4-c]pyridin-3-yl)-3-fluorobenzoic acid
 Step 1: methyl 1-(2-chloro-6-cyclopropylbenzoyl)-3-(2-fluoro-4-(methoxycarbonyl)phenyl)-4,5-dihydro-1H-pyrazolo[3,4-c]pyridine-6(7H)-carboxylate (11A-1)
 To a solution of 10A-2 (30 mg, 0.066 mmol) in DCM (15 ml) was added Et3N (0.037 ml, 0.264 mmol) and methyl carbonochloridate (9.37 mg, 0.099 mmol) at 0° C. The mixture was stirred at 0° C. for 1 h. The mixture was concentrated under reduced pressure, and then purified by column chromatography on silica gel (PE:EA=5:1) to give title compound. LCMS (ESI) calc'd for C26H23ClFN3O5 [M+H]+: 512.1, found: 512.1.
 Step 2: 4-(1-(2-chloro-6-cyclopropylbenzoyl)-6-(methoxycarbonyl)-4,5,6,7-tetrahydro-1H-pyrazolo[3,4-c]pyridin-3-yl)-3-fluorobenzoic acid (11A)
 At 0° C., to a solution of 11A-1 (20 mg, 0.039 mml) in ACN (3 ml) and water (1 ml) was added lithium hydroxide (2.8 mg, 0.117 mmol). The mixture was warmed to room temperature and stirred for 12 hrs. The reaction mixture was diluted with water, acidified with acetic acid (1 mL) and extracted with EtOAc. The organic layers dried over Na2SO4 and evaporated to dryness. The residue was purified by prep-HPLC, eluting with acetonitrile/water+0.10% TFA 45-95% to afford title compound. LCMS (ESI) calc'd for C25H21ClFN3O5 [M+H]+: 498.1, found: 498.2; 1H NMR (400 MHz, Methanol-d4) δ 7.76-7.83 (m, 2H), 7.53-7.54 (m, 1H), 7.35-7.37 (m, 1H), 7.28-7.30 (m, 1H), 7.05-7.07 (d, J=7.6 Hz, 1H), 5.09 (s, 2H), 3.74-3.85 (m, 5H), 2.65 (s, 2H), 1.75-1.80 (m, 1H), 0.86-0.90 (m, 1H), 0.74-0.76 (m, 2H), 0.58-0.59 (m, 1H).
 Examples 12A-A/12A-B
+<img> id-US20180016239A1-20180118-C00117.TIF </img>
 Examples 12A-A and 12A-B were synthesized in a similar fashion to example 6A with resolution of enantiomers achieved after amide coupling by SFC purification using a Chiralcel OJ-H, 21×250 (mm) column, at 70 mL/min with a 20% CO2 in methanol (with +0.25 diemthyl ethylamine) acetonitrile solvent system. Retention times were 3.8 minutes for Peak 1 & 5.25 minutes for Peak 2. Peak 1 was advanced on to give title compound 12A-A. Peak 2 was advanced on to give title compound 12A-B.
 The following examples shown in Table 8 were prepared following similar procedures described for Example 12A-A which can be achieved by those of ordinary skill in the art of organic synthesis.
 <table>
@@ -595,17 +656,18 @@ No. & Structure & Name & (M + 1)
 <header>
 
 </header>
-12A-A &  & 4-(1-(2-chloro-6- cyclopropylbenzoyl)- 6-(3- methoxyazetidine-1- carbonyl)-4,5,6,7- tetrahydro-1H- indazol-3-yl)-3- fluorobenzoic acid & 552
-12A-B &  & 4-(1-(2-chloro-6- cyclopropylbenzoyl)- 6-(3- methoxyazetidine-1- carbonyl)-4,5,6,7- tetrahydro-1H- indazol-3-yl)-3- fluorobenzoic acid & 552
-13A-A &  & 4-(1-(2-chloro-6-(1- cyanocyclopropyl) benzoyl)-6-(3- methoxyazetidine-1- carbonyl)-4,5,6,7- tetrahydro-1H- indazol-3-yl)-3- fluorobenzoic acid & 577
-13A-B &  & 4-(1-(2-chloro-6-(1- cyanocyclopropyl) benzoyl)-6-(3- methoxyazetidine-1- carbonyl)-4,5,6,7- tetrahydro-1H- indazol-3-yl)-3- fluorobenzoic acid & 577
-14A-A &  & 4-(1-(2-chloro-6-(1- cyanocyclobutyl) benzoyl)-6-(3- (methylsulfonyl) azetidine-1-carbonyl)- 4,5,6,7-tetrahydro- 1H-indazol-3-yl)-3- fluorobenzoic acid & 639
-14A-B &  & 4-(1-(2-chloro-6-(1- cyanocyclobutyl) benzoyl)-6-(3- (methylsulfonyl) azetidine-1-carbonyl)- 4,5,6,7-tetrahydro- 1H-indazol-3-yl)-3- fluorobenzoic acid & 639
-15A-A &  & 4-(1-(2-chloro-6-(1- cyanocyclobutyl) benzoyl)-6-(4-methyl-3- oxopiperazine-1- carbonyl)-4,5,6,7- tetrahydro-1H- indazol-3-yl)-3- fluorobenzoic acid & 618
-15A-B &  & 4-(1-(2-chloro-6-(1- cyanocyclobutyl) benzoyl)-6-(4-methyl-3- oxopiperazine-1- carbonyl)-4,5,6,7- tetrahydro-1H- indazol-3-yl)-3- fluorobenzoic acid & 618
-16A-B &  & 4-(1-(2-chloro-6- cyclopropylbenzoyl)- 6-(3- methoxyazetidine-1- carbonyl)-4,5,6,7- tetrahydro-1H- indazol-3-yl)-2- methylbenzoic acid & 548
+12A-A & <img> id-US20180016239A1-20180118-C00118.TIF </img> & 4-(1-(2-chloro-6- cyclopropylbenzoyl)- 6-(3- methoxyazetidine-1- carbonyl)-4,5,6,7- tetrahydro-1H- indazol-3-yl)-3- fluorobenzoic acid & 552
+12A-B & <img> id-US20180016239A1-20180118-C00119.TIF </img> & 4-(1-(2-chloro-6- cyclopropylbenzoyl)- 6-(3- methoxyazetidine-1- carbonyl)-4,5,6,7- tetrahydro-1H- indazol-3-yl)-3- fluorobenzoic acid & 552
+13A-A & <img> id-US20180016239A1-20180118-C00120.TIF </img> & 4-(1-(2-chloro-6-(1- cyanocyclopropyl) benzoyl)-6-(3- methoxyazetidine-1- carbonyl)-4,5,6,7- tetrahydro-1H- indazol-3-yl)-3- fluorobenzoic acid & 577
+13A-B & <img> id-US20180016239A1-20180118-C00121.TIF </img> & 4-(1-(2-chloro-6-(1- cyanocyclopropyl) benzoyl)-6-(3- methoxyazetidine-1- carbonyl)-4,5,6,7- tetrahydro-1H- indazol-3-yl)-3- fluorobenzoic acid & 577
+14A-A & <img> id-US20180016239A1-20180118-C00122.TIF </img> & 4-(1-(2-chloro-6-(1- cyanocyclobutyl) benzoyl)-6-(3- (methylsulfonyl) azetidine-1-carbonyl)- 4,5,6,7-tetrahydro- 1H-indazol-3-yl)-3- fluorobenzoic acid & 639
+14A-B & <img> id-US20180016239A1-20180118-C00123.TIF </img> & 4-(1-(2-chloro-6-(1- cyanocyclobutyl) benzoyl)-6-(3- (methylsulfonyl) azetidine-1-carbonyl)- 4,5,6,7-tetrahydro- 1H-indazol-3-yl)-3- fluorobenzoic acid & 639
+15A-A & <img> id-US20180016239A1-20180118-C00124.TIF </img> & 4-(1-(2-chloro-6-(1- cyanocyclobutyl) benzoyl)-6-(4-methyl-3- oxopiperazine-1- carbonyl)-4,5,6,7- tetrahydro-1H- indazol-3-yl)-3- fluorobenzoic acid & 618
+15A-B & <img> id-US20180016239A1-20180118-C00125.TIF </img> & 4-(1-(2-chloro-6-(1- cyanocyclobutyl) benzoyl)-6-(4-methyl-3- oxopiperazine-1- carbonyl)-4,5,6,7- tetrahydro-1H- indazol-3-yl)-3- fluorobenzoic acid & 618
+16A-B & <img> id-US20180016239A1-20180118-C00126.TIF </img> & 4-(1-(2-chloro-6- cyclopropylbenzoyl)- 6-(3- methoxyazetidine-1- carbonyl)-4,5,6,7- tetrahydro-1H- indazol-3-yl)-2- methylbenzoic acid & 548
 </table>
 Example 17A
+<img> id-US20180016239A1-20180118-C00127.TIF </img><img> id-US20180016239A1-20180118-C00128.TIF </img>
 4-(1-(2-chloro-6-(1-(trifluoromethyl)cyclopropyl)benzoyl)-6-(methoxycarbonyl)-4,5,6,7-tetrahydro-1H-pyrazolo[3,4-c]pyridin-3-yl)-3-fluorobenzoic acid
 Step 1: tert-butyl 1-(2-chloro-6-(1-(trifluoromethyl)cyclopropyl)benzoyl)-3-(2-fluoro-4-(methoxycarbonyl)phenyl)-1,4,5,7-tetrahydro-6H-pyrazolo[3,4-c]pyridine-6-carboxylate (17A-1)
 To a solution of tert-butyl 3-(2-fluoro-4-(methoxycarbonyl)phenyl)-4,5-dihydro-1H-pyrazolo[3,4-c]pyridine-6(7H)-carboxylate (7A-2) (15 mg, 0.040 mmol) in DCM (80 μl) at room temperature was added 2-chloro-6-(1-(trifluoromethyl)cyclopropyl)benzoyl chloride (20.36 mg, 0.072 mmol), followed by Et3N (16.71 μl, 0.120 mmol) and DMAP (9.76 mg, 0.080 mmol). The reaction mixture was stirred for 12 hours, then quenched and extracted with IPA/CHl3 and saturated sodium bicarbonate. The separated organic layer was dried with sodium sulfate and concentrated. The crude product was purified by reverse phase HPLC (MeCN/water; TFA buffer) to afford the title compound as white solid. MS: 622 (M+1)
@@ -632,9 +694,9 @@ No. & Structure & Name & (M + 1)
 <header>
 
 </header>
-17-B &  & 4-(1-(2-chloro-6-(1- (trifluoromethyl)cyclo propyl)benzoyl)- 6-((1- methylcyclopropoxy) carbonyl)-4,5,6,7- tetrahydro-1H- pyrazolo[3,4- c]pyridin-3-yl)-3- fluorobenzoic acid & 606
-17-C &  & 4-(1-(2-chloro-6-(1- (trifluoromethyl)cyclo propyl)benzoyl)-6- ((cyclopropylmethoxy) carbonyl)-4,5,6,7- tetrahydro-1H- pyrazolo[3,4- c]pyridin-3-yl)-3- fluorobenzoic acid & 606
-17-D &  & 4-(6-(tert- butoxycarbonyl)-1-(2- chloro-6-(1- (trifluoromethyl) cyclopropyl) benzoyl)- 4,5,6,7-tetrahydro- 1H-pyrazolo[3,4- c]pyridin-3- yl)-3- fluorobenzoic acid & 577
+17-B & <img> id-US20180016239A1-20180118-C00129.TIF </img> & 4-(1-(2-chloro-6-(1- (trifluoromethyl)cyclo propyl)benzoyl)- 6-((1- methylcyclopropoxy) carbonyl)-4,5,6,7- tetrahydro-1H- pyrazolo[3,4- c]pyridin-3-yl)-3- fluorobenzoic acid & 606
+17-C & <img> id-US20180016239A1-20180118-C00130.TIF </img> & 4-(1-(2-chloro-6-(1- (trifluoromethyl)cyclo propyl)benzoyl)-6- ((cyclopropylmethoxy) carbonyl)-4,5,6,7- tetrahydro-1H- pyrazolo[3,4- c]pyridin-3-yl)-3- fluorobenzoic acid & 606
+17-D & <img> id-US20180016239A1-20180118-C00131.TIF </img> & 4-(6-(tert- butoxycarbonyl)-1-(2- chloro-6-(1- (trifluoromethyl) cyclopropyl) benzoyl)- 4,5,6,7-tetrahydro- 1H-pyrazolo[3,4- c]pyridin-3- yl)-3- fluorobenzoic acid & 577
 </table>
 The following urea examples shown in Table 10 were prepared using the corresponding carbamic chloride following similar procedures described for Example 17-A which can be achieved by those of ordinary skill in the art of organic synthesis.
 <table>
@@ -653,13 +715,13 @@ No. & Structure & Name & (M + 1)
 <header>
 
 </header>
-18-A &  & 4-(1-(2-chloro-6-(1- (trifluoromethyl) cyclopropyl) benzoyl)-6- (dimethylcarbamoyl)- 4,5,6,7-tetrahydro- 1H-pyrazolo[3,4-c] pyridin-3-yl)-3- fluorobenzoic acid & 579
-18-B &  & 4-(1-(2-chloro-6-(1- (trifluoromethyl) cyclopropyl) benzoyl)-6- (ethyl(methyl) carbamoyl)- 4,5,6,7-tetrahydro- 1H-pyrazolo[3,4-c] pyridin-3-yl)-3- fluorobenzoic acid & 593
-18-C &  & 4-(1-(2-chloro-6-(1- (trifluoromethyl) cyclopropyl)benzoyl)- 6-(methyl(phenyl) carbamoyl)- 4,5,6,7-tetrahydro-1H- pyrazolo[3,4-c]pyridin- 3-yl)-3-fluorobenzoic acid & 641
-18-D &  & 4-(1-(2-chloro-6-(1- (trifluoromethyl) cyclopropyl) benzoyl)-6- (pyrrolidine-1- carbonyl)-4,5,6,7- tetrahydro-1H- pyrazolo[3,4-c] pyridin-3-yl)-3- fluorobenzoic acid & 605
-18-E &  & 4-(1-(2-chloro-6-(1- (trifluoromethyl) cyclopropyl) benzoyl)-6-(morpholine- 4-carbonyl)-4,5,6,7- tetrahydro-1H- pyrazolo[3,4- c]pyridin-3-yl)-3- fluorobenzoic acid & 621
-18-F &  & 4-(1-(2-chloro-6-(1- (trifluoromethyl) cyclopropyl)benzoyl)-6- (4-methylpiperazine-1- carbonyl)-4,5,6,7- tetrahydro-1H- pyrazolo[3,4-c] pyridin-3-yl)-3- fluorobenzoic acid & 634
-18-G &  & 4-(6-(tert- butylcarbamoyl)-1-(2- chloro-6-(1- (trifluoromethyl) cyclopropyl) benzoyl)-4,5,6,7- tetrahydro-1H- pyrazolo[3,4-c] pyridin-3-yl)-3- fluorobenzoic acid & 607
+18-A & <img> id-US20180016239A1-20180118-C00132.TIF </img> & 4-(1-(2-chloro-6-(1- (trifluoromethyl) cyclopropyl) benzoyl)-6- (dimethylcarbamoyl)- 4,5,6,7-tetrahydro- 1H-pyrazolo[3,4-c] pyridin-3-yl)-3- fluorobenzoic acid & 579
+18-B & <img> id-US20180016239A1-20180118-C00133.TIF </img> & 4-(1-(2-chloro-6-(1- (trifluoromethyl) cyclopropyl) benzoyl)-6- (ethyl(methyl) carbamoyl)- 4,5,6,7-tetrahydro- 1H-pyrazolo[3,4-c] pyridin-3-yl)-3- fluorobenzoic acid & 593
+18-C & <img> id-US20180016239A1-20180118-C00134.TIF </img> & 4-(1-(2-chloro-6-(1- (trifluoromethyl) cyclopropyl)benzoyl)- 6-(methyl(phenyl) carbamoyl)- 4,5,6,7-tetrahydro-1H- pyrazolo[3,4-c]pyridin- 3-yl)-3-fluorobenzoic acid & 641
+18-D & <img> id-US20180016239A1-20180118-C00135.TIF </img> & 4-(1-(2-chloro-6-(1- (trifluoromethyl) cyclopropyl) benzoyl)-6- (pyrrolidine-1- carbonyl)-4,5,6,7- tetrahydro-1H- pyrazolo[3,4-c] pyridin-3-yl)-3- fluorobenzoic acid & 605
+18-E & <img> id-US20180016239A1-20180118-C00136.TIF </img> & 4-(1-(2-chloro-6-(1- (trifluoromethyl) cyclopropyl) benzoyl)-6-(morpholine- 4-carbonyl)-4,5,6,7- tetrahydro-1H- pyrazolo[3,4- c]pyridin-3-yl)-3- fluorobenzoic acid & 621
+18-F & <img> id-US20180016239A1-20180118-C00137.TIF </img> & 4-(1-(2-chloro-6-(1- (trifluoromethyl) cyclopropyl)benzoyl)-6- (4-methylpiperazine-1- carbonyl)-4,5,6,7- tetrahydro-1H- pyrazolo[3,4-c] pyridin-3-yl)-3- fluorobenzoic acid & 634
+18-G & <img> id-US20180016239A1-20180118-C00138.TIF </img> & 4-(6-(tert- butylcarbamoyl)-1-(2- chloro-6-(1- (trifluoromethyl) cyclopropyl) benzoyl)-4,5,6,7- tetrahydro-1H- pyrazolo[3,4-c] pyridin-3-yl)-3- fluorobenzoic acid & 607
 </table>
 The following alkyl amine examples shown in Table 11 were prepared using the corresponding alkyl halides following similar procedures described for Example 17-A which can be achieved by those of ordinary skill in the art of organic synthesis.
 <table>
@@ -678,11 +740,12 @@ No. & Structure & Name & (M + 1)
 <header>
 
 </header>
-19-A &  & 4-(1-(2-chloro-6-(1- (trifluoromethyl)cyclo propyl)benzoyl)-6- methyl-4,5,6,7- tetrahydro-1H- pyrazolo[3,4- c]pyridin-3-yl)-3- fluorobenzoic acid & 522
-19-B &  & 4-(1-(2-chloro-6-(1- (trifluoromethyl)cyclo propyl)benzoyl)-6- isopropyl-4,5,6,7- tetrahydro-1H- pyrazolo[3,4- c]pyridin-3-yl)-3- fluorobenzoic acid & 550
-19-C &  & 4-(1-(2-chloro-6-(1- (trifluoromethyl)cyclo propyl)benzoyl)-6- (cyclopropylmethyl)- 4,5,6,7-tetrahydro- 1H-pyrazolo[3,4- c]pyridin-3-yl)-3- fluorobenzoic acid & 562
+19-A & <img> id-US20180016239A1-20180118-C00139.TIF </img> & 4-(1-(2-chloro-6-(1- (trifluoromethyl)cyclo propyl)benzoyl)-6- methyl-4,5,6,7- tetrahydro-1H- pyrazolo[3,4- c]pyridin-3-yl)-3- fluorobenzoic acid & 522
+19-B & <img> id-US20180016239A1-20180118-C00140.TIF </img> & 4-(1-(2-chloro-6-(1- (trifluoromethyl)cyclo propyl)benzoyl)-6- isopropyl-4,5,6,7- tetrahydro-1H- pyrazolo[3,4- c]pyridin-3-yl)-3- fluorobenzoic acid & 550
+19-C & <img> id-US20180016239A1-20180118-C00141.TIF </img> & 4-(1-(2-chloro-6-(1- (trifluoromethyl)cyclo propyl)benzoyl)-6- (cyclopropylmethyl)- 4,5,6,7-tetrahydro- 1H-pyrazolo[3,4- c]pyridin-3-yl)-3- fluorobenzoic acid & 562
 </table>
 Example 20A
+<img> id-US20180016239A1-20180118-C00142.TIF </img>
 4-(1-(2-chloro-6-(1-(trifluoromethyl)cyclopropyl)benzoyl)-4,5,6,7-tetrahydro-1H-pyrazolo[3,4-c]pyridin-3-yl)-3-fluorobenzoic acid
 To a solution of 17A-2 (20 mg, 0.036 mmol) was added LiOH (4.29 mg, 0.179 mmol) in 1,4-Dioxane (0.7 mL) and Water (0.3 mL). The reaction mixture was stirred at room temperature for 1 h. Upon completion, the reaction was concentrated, dissolved in DMSO, filtered and purified by reverse phase HPLC (MeCN/water; TFA buffer) to afford the desired product as white solid. MS: 508 (M+1); 1H NMR (400 MHz, DMSO-d6) δ 9.43 (br s, 1H), 7.85 (d, J=8.2 Hz, 1H), 7.80 (d, J=10.7 Hz, 1H), 7.67 (m, 3H), 7.53 (t, J=8.0 Hz, 1H), 4.84 (s, 2H), 3.45 (m, 2H), 2.85 (m, 2H), 1.40 (m, 1H), 1.26 (m, 2H), 0.82 (m, 1H).
 The following example shown in Table 12 was prepared following similar procedures described for Example 20A which can be achieved by those of ordinary skill in the art of organic synthesis.
@@ -702,9 +765,10 @@ No. & Structure & IUPAC Name & [M + H]+
 <header>
 
 </header>
-20B &  & 4-{1-[(2-chloro-6- cyclopropylphenyl)car bonyl]-4,5,6,7- tetrahydro-1H- pyrazolo[3,4- c]pyridin-3-yl}-3- fluorobenzoic acid & 440
+20B & <img> id-US20180016239A1-20180118-C00143.TIF </img> & 4-{1-[(2-chloro-6- cyclopropylphenyl)car bonyl]-4,5,6,7- tetrahydro-1H- pyrazolo[3,4- c]pyridin-3-yl}-3- fluorobenzoic acid & 440
 </table>
 Example 21A
+<img> id-US20180016239A1-20180118-C00144.TIF </img>
 (R or S)-4-(1-(2-chloro-6-(1-(trifluoromethyl)cyclopropyl)benzoyl)-6-(2-oxa-6-azaspiro[3.4]octane-6-carbonyl)-4,5,6,7-tetrahydro-1H-indazol-3-yl)-3-fluorobenzoic acid
 Step 1: Preparation of methyl (R or S)-3-(4-(tert-butoxycarbonyl)-2-fluorophenyl)-1-(2-chloro-6-(1-(trifluoromethyl)cyclopropyl)benzoyl)-4,5,6,7-tetrahydro-1H-indazole-6-carboxylate (21A-1)
 To a flask was added methyl (R or S)-1-(2-chloro-6-(1-(trifluoromethyl)cyclopropyl)benzoyl)-3-iodo-4,5,6,7-tetrahydro-1H-indazole-6-carboxylate (i-20A) (780 mg, 1.4 mmol), tert-butyl 3-fluoro-4-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)benzoate (909 mg, 2.82 mmol), 1,1'-bis(diphenylphosphino)ferrocene-palladium(ii)dichloride dichloromethane complex (115 mg, 0.14 mmol), potassium acetate (416 mg, 4.23 mmol), and THF (3.76 mL) and the reaction was thoroughly degassed with Argon. Water (0.94 mL) was added and the reaction was heated to 80° C. overnight. The reaction was cooled and diluted with EtOAc. The organic layer was washed twice with aqueous NaHCO3 and once with brine, dried with Na2SO4, filtered, and concentrated under reduced pressure. The residue was purified by silica gel chromatography (0-100% EtOAc/Hexane) to afford the title compound. MS: 621 (M+1).
@@ -730,61 +794,62 @@ No. & Structure & IUPAC Name & [M + H]+
 <header>
 
 </header>
-21B &  & (R or S)-4-(1-(2- chloro-6-cyclopropyl- 3-fluorobenzoyl)-6- (3-fluoro-[1,3'- biazetidine]-1'- carbonyl)-4,5,6,7- tetrahydro-1H- indazol-3-yl)-3- fluorobenzoic acid & 613
-21C &  & 4-{(6R or S)-1-({2- chloro-6-[1- (trifluoromethyl)cyclo- propyl]phenyl}car- bonyl)-6-[(3- methoxyazetidin-1- yl)carbonyl]-4,5,6,7- tetrahydro-1H- indazol-3-yl}-2- methylbenzoic acid & 616
-21D &  & 4-[(6R or S)-1-({2- chloro-6-[1- (trifluoromethyl)cyclo- propyl]phenyl}car- bonyl)-6-(5-oxa-2- azaspiro[3.4]oct-2- ylcarbonyl)-4,5,6,7- tetrahydro-1H- indazol-3-yl]-2- methylbenzoic acid & 642
-21E &  & 4-{(6R or S)-1-({2- chloro-6-[1- (trifluoromethyl)cyclo- propyl]phenyl}car- bonyl)-6-[(3- methoxyazetidin-1- yl)carbonyl]-4,5,6,7- tetrahydro-1H- indazol-3-yl}-3- fluorobenzoic acid & 620
-21F &  & 4-[(6R or S)-1-({2- chloro-6-[1- (trifluoromethyl)cyclo- propyl]phenyl}car- bonyl)-6-(5-oxa-2- azaspiro[3.4]oct-2- ylcarbonyl)-4,5,6,7- tetrahydro-1H- indazol-3-yl]-3- fluorobenzoic acid & 646
-21G &  & 4-[(6R or S)-1-({2- chloro-6-[1- (trifluoromethyl)cyclo- propyl]phenyl}car- bonyl)-6-{[(3R)-3- (dimethylamino) pyrrolidin-1- yl]carbonyl}-4,5,6,7- tetrahydro-1H- indazol-3-yl]-3- fluorobenzoic acid & 647
-21H &  & 4-[(6R or S)-1-({2- chloro-6-[1- (trifluoromethyl)cyclo- propyl]phenyl}car- bonyl)-6-{[(3R)-3- (dimethylamino) pyrrolidin-1- yl]carbonyl}-4,5,6,7- tetrahydro-1H- indazol-3-yl]-3- fluorobenzoic acid & 647
-21I &  & 4-[(6R or S)-1-({2- chloro-6-[1- (trifluoromethyl)cyclo- propyl]phenyl}car- bonyl)-6-(1-oxa-7- azaspiro[4.4]non-7- ylcarbonyl)-4,5,6,7- tetrahydro-1H- indazol-3-yl]-3- fluorobenzoic acid & 660
-21J &  & 4-{(6R or S)-1-({2- chloro-6-[1- (difluoromethyl)cyclo propyl]phenyl}car- bonyl)-6-[(3- methoxyazetidin-1- yl)carbonyl]-4,5,6,7- tetrahydro-1H- indazol-3-yl}-3- fluorobenzoic acid & 602
-21K &  & 4-{(6R or S)-1-({2- chloro-6-[1- (trifluoromethyl)cyclo- propyl]phenyl}car- bonyl)-6-[(3-methoxy- 3-methylazetidin-1- yl)carbonyl]-4,5,6,7- tetrahydro-1H- indazol-3-yl}-3- fluorobenzoic acid & 634
-21L &  & 4-[(6R or S)-6-[(3- azetidin-1- yl)pyrrolidin-1- yl)carbonyl]-1-({2- chloro-6-[1- (trifluoromethyl)cyclo propyl]phenyl}car- bonyl)-4,5,6,7- tetrahydro-1H- indazol-3-yl]-3- fluorobenzoic acid & 659
-21M &  & 4-[(6R or S)-1-({2- chloro-6-[1- (trifluoromethyl)cyclo- propyl]phenyl}car- bonyl)-6-{[4- (dimethylamino)-3,3- difluoropyrrolidin-1- yl]carbonyl}-4,5,6,7- tetrahydro-1H- indazol-3-yl]-3- fluorobenzoic acid & 683
-21N &  & 4-{(6R or S)-1-({2- chloro-6-[1- (difluoromethyl)cyclo propyl]phenyl}car- bonyl)-6-[(3-methoxy- 3-methylazetidin-1- yl)carbonyl]-4,5,6,7- tetrahydro-1H- indazol-3-yl}-3- fluorobenzoic acid & 616
-21O &  & 4-{(6R or S)-1-({2- chloro-6-[1- (trifluoromethyl)cyclo- propyl]phenyl}car- bonyl)-6-[(3- methoxyazetidin-1- yl)carbonyl]-4,5,6,7- tetrahydro-1H- indazol-3-yl}-2- (trifluoromethyl) benzoic acid & 670
-21P &  & 4-[(6R or S)-1-({2- chloro-6-[1- (difluoromethyl)cyclo propyl]phenyl}car- bonyl)-6-(2-oxa-6- azaspiro[3.4]oct-6- ylcarbonyl)-4,5,6,7- tetrahydro-1H- indazol-3-yl]-3- fluorobenzoic acid & 628
-21Q &  & 4-[(6R or S)-1-({2- chloro-6-[1- (difluoromethyl)cyclo propyl]phenyl)car- bonyl)-6-{[(3S,4R)-3- fluoro-4- hydroxypyrrolidin-1- yl]carbonyl}-4,5,6,7- tetrahydro-1H- indazol-3-yl]-3- fluorobenzoic acid & 620
-21R &  & (R or S)-4-(1-(2- chloro-6-(1- (trifluoromethyl)cyclo- propyl)benzoyl)-6- (1-methyl-3- (trifluoromethyl)- 4,5,6,7-tetrahydro- 1H-pyrazolo[4,3- c]pyridine-5- carbonyl)-4,5,6,7- tetrahydro-1H- indazol-3-yl)-3- fluorobenzoic acid & 738
-21S &  & (R or S)-4-(1-(2- chloro-6-(1- (trifluoromethyl)cyclo- propyl)benzoyl)-6- (methyl((1-methyl- 1H-imidazol-2- yl)methyl)carbamoyl)- 4,5,6,7-tetrahydro- 1H-indazol-3-yl)-3- fluorobenzoic acid & 658
-21T &  & 4-((6R or S)-6-((1- (1H-pyrazol-5- yl)ethyl)(methyl)car- bamoyl)-1-(2-chloro- 6-(1- (trifluoromethyl)cyclo- propyl)benzoyl)- 4,5,6,7-tetrahydro- 1H-indazol-3-yl)-3- fluorobenzoic acid & 658
-21U &  & (R or S)-4-(6-(((1H- pyrazol-5- yl)methyl)(methyl)car- bamoyl)-1-(2- chloro-6-(1- (trifluoromethyl)cyclo- propyl)benzoyl)- 4,5,6,7-tetrahydro- 1H-indazol-3-yl)-3- fluorobenzoic acid & 644
-21V &  & (R or S)-4-(1-(2- chloro-6-(1- (trifluoromethyl)cyclo- propyl)benzoyl)-6- ((isoxazol-3- ylmethyl)(methyl)car bamoyl)-4,5,6,7- tetrahydro-1H- indazol-3-yl)-3- fluorobenzoic acid & 645
-21W &  & (R or S)-4-(1-(2- chloro-6-(1- (trifluoromethyl)cyclo- propyl)benzoyl)-6- (((1-isopropyl-1H- pyrazol-4- yl)methyl)(methyl)car- bamoyl)-4,5,6,7- tetrahydro-1H- indazol-3-yl)-3- fluorobenzoic acid & 686
-21X &  & (R or S)-4-(1-(2- chloro-6-(1- (trifluoromethyl)cyclo- propyl)benzoyl)-6- (methyl((2- methylthiazol-4- yl)methyl)carbamoyl)- 4,5,6,7-tetrahydro- 1H-indazol-3-yl)-3- fluorobenzoic acid & 675
-21Y &  & (R or S)-4-(1-(2- chloro-6-(1- (trifluoromethyl)cyclo- propyl)benzoyl)-6- (methyl(pyridin-2- ylmethyl)carbamoyl)- 4,5,6,7-tetrahydro- 1H-indazol-3-yl)-3- fluorobenzoic acid & 655
-21Z &  & (R or S)-4-(1-(2- chloro-6-(1- (trifluoromethyl)cyclo- propyl)benzoyl)-6- (methyl(pyridin-3- ylmethyl)carbamoyl)- 4,5,6,7-tetrahydro- 1H-indazol-3-yl)-3- fluorobenzoic acid & 655
-21AA &  & (R or S)-4-(1-(2- chloro-6-(1- (trifluoromethyl)cyclo- propyl)benzoyl)-6- (methyl(pyridin-4- ylmethyl)carbamoyl)- 4,5,6,7-tetrahydro- 1H-indazol-3-yl)-3- fluorobenzoic acid & 655
-21BB &  & (R or S)-4-(6-((2- (1H-pyrazol-1- yl)ethyl)(methyl)car- bamoyl)-1-(2-chloro- 6-(1- (trifluoromethyl) cyclopropyl)benzoyl)- 4,5,6,7-tetrahydro- 1H-indazol-3-yl)-3- fluorobenzoic acid & 658
-21CC &  & (R or S)-4-(6-((2- (1H-imidazol-1- yl)ethyl)(methyl)car- bamoyl)-1-(2-chloro- 6-(1- (trifluoromethyl)cyclo- propyl)benzoyl)- 4,5,6,7-tetrahydro- 1H-indazol-3-yl)-3- fluorobenzoic acid & 658
-21DD &  & (R or S)-4-(1-(2- chloro-6-(1- (trifluoromethyl)cyclo- propyl)benzoyl)-6- (methyl(2-(1-methyl- 1H-pyrazol-4- yl)ethyl)carbamoyl)- 4,5,6,7-tetrahydro- 1H-indazol-3-yl)-3- fluorobenzoic acid & 672
-21EE &  & (R or S)-4-(1-(2- chloro-6-(1- (trifluoromethyl)cyclo- propyl)benzoyl)-6- (methyl((1-methyl- 1H-pyrazol-4- yl)methyl)carbamoyl)- 4,5,6,7-tetrahydro- 1H-indazol-3-yl)-3- fluorobenzoic acid & 658
-21FF &  & (R or S)-4-(1-(2- chloro-6-(1- (trifluoromethyl)cyclo- propyl)benzoyl)-6- (1-methyl-1,4,5,6- tetrahydropyrrolo[3,4- c]pyrazole-5- carbonyl)-4,5,6,7- tetrahydro-1H- indazol-3-yl)-3- fluorobenzoic acid & 656
-21GG &  & (R or S)-4-(1-(2- chloro-6-(1- (trifluoromethyl)cyclo- propyl)benzoyl)-6- (4,5,6,7-tetrahydro- 1H-pyrazolo[4,3- c]pyridine-5- carbonyl)-4,5,6,7- tetrahydro-1H- indazol-3-yl)-3- fluorobenzoic acid & 656
-21HH &  & (R or S)-4-(1-(2- chloro-6-(1- (trifluoromethyl)cyclo- propyl)benzoyl)-6- (2-methyl-4,5,6,7- tetrahydro-2H- pyrazolo[4,3- c]pyridine-5- carbonyl)-4,5,6,7- tetrahydro-1H- indazol-3-yl)-3- fluorobenzoic acid & 670
-21II &  & (R or S)-4-(1-(2- chloro-6-(1- (trifluoromethyl)cyclo- propyl)benzoyl)-6- (5,6,7,8-tetrahydro- [1,2,4]triazolo[1,5- a]pyrazine-7- carbonyl)-4,5,6,7- tetrahydro-1H- indazol-3-yl)-3- fluorobenzoic acid & 657
-21JJ &  & (R or S)-4-(1-(2- chloro-6-(1- (trifluoromethyl)cyclo- propyl)benzoyl)-6- (2-methyl-1,4,5,6- tetrahydropyrrolo[3,4- d]imidazole-5- carbonyl)-4,5,6,7- tetrahydro-1H- indazol-3-yl)-3- fluorobenzoic acid & 656
-21KK &  & (R or S)-4-(1-(2- chloro-6-(1- (trifluoromethyl)cyclo- propyl)benzoyl)-6- (methyl(1-methyl- 1H-pyrazol-4- yl)carbamoyl)- 4,5,6,7-tetrahydro- 1H-indazol-3-yl)-3- fluorobenzoic acid & 644
-21LL &  & (R or S)-4-(1-(2- chloro-6-(1- (trifluoromethyl)cyclo- propyl)benzoyl)-6- (5,6-dihydro-4H- pyrrolo[3,4- d]thiazole-5- carbonyl)-4,5,6,7- tetrahydro-1H- indazol-3-yl)-3- fluorobenzoic acid & 659
-21MM &  & (R or S)-4-(1-(2- chloro-6-(1- (trifluoromethyl)cyclo- propyl)benzoyl)-6- (2-methyl-5,6- dihydro-4H- pyrrolo[3,4- d]thiazole-5- carbonyl)-4,5,6,7- tetrahydro-1H- indazol-3-yl)-3- fluorobenzoic acid & 673
-21NN &  & 4-[(6R or S)-1-({2- chloro-6-[1- (trifluoromethyl)cyclo- propyl]phenyl}car- bonyl)-6-{[(3R)-3- cyanopyrrolidin-1- yl]carbonyl}-4,5,6,7- tetrahydro-1H- indazol-3-yl]-3- fluorobenzoic acid & 629
-21PP &  & 4-[(6R or S)-1-({2- chloro-6-[1- (trifluoromethyl)cyclo- propyl]phenyl}car- bonyl)-6-(morpholin- 4-ylcarbonyl)- 4,5,6,7-tetrahydro- 1H-indazol-3-yl]-3- fluorobenzoic acid & 620
-21QQ &  & 4-[(6R or S)-1-({2- chloro-6-[1- (trifluoromethyl)cyclo- propyl]phenyl}car- bonyl)-6-(4-oxa-7- azaspiro[2.5]oct-7- ylcarbonyl)-4,5,6,7- tetrahydro-1H- indazol-3-yl]-3- fluorobenzoic acid & 646
-21RR &  & 4-[(6R or S)-1-({2- chloro-6-[1- (trifluoromethyl)cyclo- propyl]phenyl}car- bonyl)-6-{[(3S,4S)-3- hydroxy-4- methoxypyrrolidin-1- yl]carbonyl}-4,5,6,7- tetrahydro-1H- indazol-3-yl]-3- fluorobenzoic acid & 650
-21SS &  & 4-[(6R or S)-1-({2- chloro-6-[1- (trifluoromethyl)cyclo- propyl]phenyl}car- bonyl)-6-{[(3S,4S)-3- (dimethylamino)-4- hydroxypyrrolidin-1- yl]carbonyl}-4,5,6,7- tetrahydro-1H- indazol-3-yl]-3- fluorobenzoic acid & 663
-21TT &  & (R or S)-4-(1-(2- chloro-6-(1- (trifluoromethyl)cyclo- propyl)benzoyl)-6- ((2- methoxyethyl)(methyl) carbamoyl)-4,5,6,7- tetrahydro-1H- indazol-3-yl)-3- fluorobenzoic acid & 622
-21UU &  & (R or S)-4-(1-(2- chloro-6-(1- (trifluoromethyl)cyclo- propyl)benzoyl)-6- ((2- (dimethylamino)ethyl) carbamoyl)-4,5,6,7- tetrahydro-1H- indazol-3-yl)-3- fluorobenzoic acid & 621
-21VV &  & (R or S)-4-(1-(2- chloro-6-(1- (trifluoromethyl)cyclo- propyl)benzoyl)-6- ((2- (dimethylamino)ethyl) (methyl)carbamoyl)- 4,5,6,7-tetrahydro- 1H-indazol-3-yl)-3- fluorobenzoic acid & 635
-21WW &  & (R or S)-4-(1-(2- chloro-6-(1- (trifluoromethyl)cyclo- propyl)benzoyl)-6- (2-oxa-6- azaspiro[3.3]heptane- 6-carbonyl)-4,5,6,7- tetrahydro-1H- indazol-3-yl)-3- fluorobenzoic acid & 632
-21XX &  & (R or S)-4-(1-(2- chloro-6- cyclopropylbenzoyl)- 6-(3- methoxyazetidine-1- carbonyl)-4,5,6,7- tetrahydro-1H- indazol-3-yl)-3- (trifluoromethyl) benzoic acid & 602
-21YY &  & (R or S)-4-(1-(2- chloro-6-(1- (trifluoromethyl)cyclo- propyl)benzoyl)-6- (3-fluoro-[1,3'- biazetidine]-1'- carbonyl)-4,5,6,7- tetrahydro-1H- indazol-3-yl)-3- fluorobenzoic acid & 663
-21ZZ &  & (R or S)-4-(1-(2- chloro-6-(1- (trifluoromethyl)cyclo- propyl)benzoyl)-6- (3- (dimethylamino)azeti dine-1-carbonyl)- 4,5,6,7-tetrahydro- 1H-indazol-3-yl)-3- fluorobenzoic acid & 633
-21AAA &  & 4-{(6R or S)-1-({2- chloro-6-[1- (trifluoromethyl)cyclo- propyl]phenyl}car- bonyl)-6-[(3- hydroxyazetidin-1- yl)carbonyl]-4,5,6,7- tetrahydro-1H- indazol-3-yl}-3- fluorobenzoic acid & 606
-21BBB &  & (R or S)-4-(1-(2- chloro-6-(1- (trifluoromethyl)cyclo- propyl)benzoyl)-6- (4- hydroxypiperidine-1- carbonyl)-4,5,6,7- tetrahydro-1H- indazol-3-yl)-3- fluorobenzoic acid & 634
-21CCC &  & (R or S)-4-(1-(2- (difluoromethyl)-6- (1- (trifluoromethyl)cyclo- propyl)benzoyl)-6- (2-oxa-6- azaspiro[3.4]octane- 6-carbonyl)-4,5,6,7- tetrahydro-1H- indazol-3-yl)-3- fluorobenzoic acid & 662
+21B & <img> id-US20180016239A1-20180118-C00145.TIF </img> & (R or S)-4-(1-(2- chloro-6-cyclopropyl- 3-fluorobenzoyl)-6- (3-fluoro-[1,3'- biazetidine]-1'- carbonyl)-4,5,6,7- tetrahydro-1H- indazol-3-yl)-3- fluorobenzoic acid & 613
+21C & <img> id-US20180016239A1-20180118-C00146.TIF </img> & 4-{(6R or S)-1-({2- chloro-6-[1- (trifluoromethyl)cyclo- propyl]phenyl}car- bonyl)-6-[(3- methoxyazetidin-1- yl)carbonyl]-4,5,6,7- tetrahydro-1H- indazol-3-yl}-2- methylbenzoic acid & 616
+21D & <img> id-US20180016239A1-20180118-C00147.TIF </img> & 4-[(6R or S)-1-({2- chloro-6-[1- (trifluoromethyl)cyclo- propyl]phenyl}car- bonyl)-6-(5-oxa-2- azaspiro[3.4]oct-2- ylcarbonyl)-4,5,6,7- tetrahydro-1H- indazol-3-yl]-2- methylbenzoic acid & 642
+21E & <img> id-US20180016239A1-20180118-C00148.TIF </img> & 4-{(6R or S)-1-({2- chloro-6-[1- (trifluoromethyl)cyclo- propyl]phenyl}car- bonyl)-6-[(3- methoxyazetidin-1- yl)carbonyl]-4,5,6,7- tetrahydro-1H- indazol-3-yl}-3- fluorobenzoic acid & 620
+21F & <img> id-US20180016239A1-20180118-C00149.TIF </img> & 4-[(6R or S)-1-({2- chloro-6-[1- (trifluoromethyl)cyclo- propyl]phenyl}car- bonyl)-6-(5-oxa-2- azaspiro[3.4]oct-2- ylcarbonyl)-4,5,6,7- tetrahydro-1H- indazol-3-yl]-3- fluorobenzoic acid & 646
+21G & <img> id-US20180016239A1-20180118-C00150.TIF </img> & 4-[(6R or S)-1-({2- chloro-6-[1- (trifluoromethyl)cyclo- propyl]phenyl}car- bonyl)-6-{[(3R)-3- (dimethylamino) pyrrolidin-1- yl]carbonyl}-4,5,6,7- tetrahydro-1H- indazol-3-yl]-3- fluorobenzoic acid & 647
+21H & <img> id-US20180016239A1-20180118-C00151.TIF </img> & 4-[(6R or S)-1-({2- chloro-6-[1- (trifluoromethyl)cyclo- propyl]phenyl}car- bonyl)-6-{[(3R)-3- (dimethylamino) pyrrolidin-1- yl]carbonyl}-4,5,6,7- tetrahydro-1H- indazol-3-yl]-3- fluorobenzoic acid & 647
+21I & <img> id-US20180016239A1-20180118-C00152.TIF </img> & 4-[(6R or S)-1-({2- chloro-6-[1- (trifluoromethyl)cyclo- propyl]phenyl}car- bonyl)-6-(1-oxa-7- azaspiro[4.4]non-7- ylcarbonyl)-4,5,6,7- tetrahydro-1H- indazol-3-yl]-3- fluorobenzoic acid & 660
+21J & <img> id-US20180016239A1-20180118-C00153.TIF </img> & 4-{(6R or S)-1-({2- chloro-6-[1- (difluoromethyl)cyclo propyl]phenyl}car- bonyl)-6-[(3- methoxyazetidin-1- yl)carbonyl]-4,5,6,7- tetrahydro-1H- indazol-3-yl}-3- fluorobenzoic acid & 602
+21K & <img> id-US20180016239A1-20180118-C00154.TIF </img> & 4-{(6R or S)-1-({2- chloro-6-[1- (trifluoromethyl)cyclo- propyl]phenyl}car- bonyl)-6-[(3-methoxy- 3-methylazetidin-1- yl)carbonyl]-4,5,6,7- tetrahydro-1H- indazol-3-yl}-3- fluorobenzoic acid & 634
+21L & <img> id-US20180016239A1-20180118-C00155.TIF </img> & 4-[(6R or S)-6-[(3- azetidin-1- yl)pyrrolidin-1- yl)carbonyl]-1-({2- chloro-6-[1- (trifluoromethyl)cyclo propyl]phenyl}car- bonyl)-4,5,6,7- tetrahydro-1H- indazol-3-yl]-3- fluorobenzoic acid & 659
+21M & <img> id-US20180016239A1-20180118-C00156.TIF </img> & 4-[(6R or S)-1-({2- chloro-6-[1- (trifluoromethyl)cyclo- propyl]phenyl}car- bonyl)-6-{[4- (dimethylamino)-3,3- difluoropyrrolidin-1- yl]carbonyl}-4,5,6,7- tetrahydro-1H- indazol-3-yl]-3- fluorobenzoic acid & 683
+21N & <img> id-US20180016239A1-20180118-C00157.TIF </img> & 4-{(6R or S)-1-({2- chloro-6-[1- (difluoromethyl)cyclo propyl]phenyl}car- bonyl)-6-[(3-methoxy- 3-methylazetidin-1- yl)carbonyl]-4,5,6,7- tetrahydro-1H- indazol-3-yl}-3- fluorobenzoic acid & 616
+21O & <img> id-US20180016239A1-20180118-C00158.TIF </img> & 4-{(6R or S)-1-({2- chloro-6-[1- (trifluoromethyl)cyclo- propyl]phenyl}car- bonyl)-6-[(3- methoxyazetidin-1- yl)carbonyl]-4,5,6,7- tetrahydro-1H- indazol-3-yl}-2- (trifluoromethyl) benzoic acid & 670
+21P & <img> id-US20180016239A1-20180118-C00159.TIF </img> & 4-[(6R or S)-1-({2- chloro-6-[1- (difluoromethyl)cyclo propyl]phenyl}car- bonyl)-6-(2-oxa-6- azaspiro[3.4]oct-6- ylcarbonyl)-4,5,6,7- tetrahydro-1H- indazol-3-yl]-3- fluorobenzoic acid & 628
+21Q & <img> id-US20180016239A1-20180118-C00160.TIF </img> & 4-[(6R or S)-1-({2- chloro-6-[1- (difluoromethyl)cyclo propyl]phenyl)car- bonyl)-6-{[(3S,4R)-3- fluoro-4- hydroxypyrrolidin-1- yl]carbonyl}-4,5,6,7- tetrahydro-1H- indazol-3-yl]-3- fluorobenzoic acid & 620
+21R & <img> id-US20180016239A1-20180118-C00161.TIF </img> & (R or S)-4-(1-(2- chloro-6-(1- (trifluoromethyl)cyclo- propyl)benzoyl)-6- (1-methyl-3- (trifluoromethyl)- 4,5,6,7-tetrahydro- 1H-pyrazolo[4,3- c]pyridine-5- carbonyl)-4,5,6,7- tetrahydro-1H- indazol-3-yl)-3- fluorobenzoic acid & 738
+21S & <img> id-US20180016239A1-20180118-C00162.TIF </img> & (R or S)-4-(1-(2- chloro-6-(1- (trifluoromethyl)cyclo- propyl)benzoyl)-6- (methyl((1-methyl- 1H-imidazol-2- yl)methyl)carbamoyl)- 4,5,6,7-tetrahydro- 1H-indazol-3-yl)-3- fluorobenzoic acid & 658
+21T & <img> id-US20180016239A1-20180118-C00163.TIF </img> & 4-((6R or S)-6-((1- (1H-pyrazol-5- yl)ethyl)(methyl)car- bamoyl)-1-(2-chloro- 6-(1- (trifluoromethyl)cyclo- propyl)benzoyl)- 4,5,6,7-tetrahydro- 1H-indazol-3-yl)-3- fluorobenzoic acid & 658
+21U & <img> id-US20180016239A1-20180118-C00164.TIF </img> & (R or S)-4-(6-(((1H- pyrazol-5- yl)methyl)(methyl)car- bamoyl)-1-(2- chloro-6-(1- (trifluoromethyl)cyclo- propyl)benzoyl)- 4,5,6,7-tetrahydro- 1H-indazol-3-yl)-3- fluorobenzoic acid & 644
+21V & <img> id-US20180016239A1-20180118-C00165.TIF </img> & (R or S)-4-(1-(2- chloro-6-(1- (trifluoromethyl)cyclo- propyl)benzoyl)-6- ((isoxazol-3- ylmethyl)(methyl)car bamoyl)-4,5,6,7- tetrahydro-1H- indazol-3-yl)-3- fluorobenzoic acid & 645
+21W & <img> id-US20180016239A1-20180118-C00166.TIF </img> & (R or S)-4-(1-(2- chloro-6-(1- (trifluoromethyl)cyclo- propyl)benzoyl)-6- (((1-isopropyl-1H- pyrazol-4- yl)methyl)(methyl)car- bamoyl)-4,5,6,7- tetrahydro-1H- indazol-3-yl)-3- fluorobenzoic acid & 686
+21X & <img> id-US20180016239A1-20180118-C00167.TIF </img> & (R or S)-4-(1-(2- chloro-6-(1- (trifluoromethyl)cyclo- propyl)benzoyl)-6- (methyl((2- methylthiazol-4- yl)methyl)carbamoyl)- 4,5,6,7-tetrahydro- 1H-indazol-3-yl)-3- fluorobenzoic acid & 675
+21Y & <img> id-US20180016239A1-20180118-C00168.TIF </img> & (R or S)-4-(1-(2- chloro-6-(1- (trifluoromethyl)cyclo- propyl)benzoyl)-6- (methyl(pyridin-2- ylmethyl)carbamoyl)- 4,5,6,7-tetrahydro- 1H-indazol-3-yl)-3- fluorobenzoic acid & 655
+21Z & <img> id-US20180016239A1-20180118-C00169.TIF </img> & (R or S)-4-(1-(2- chloro-6-(1- (trifluoromethyl)cyclo- propyl)benzoyl)-6- (methyl(pyridin-3- ylmethyl)carbamoyl)- 4,5,6,7-tetrahydro- 1H-indazol-3-yl)-3- fluorobenzoic acid & 655
+21AA & <img> id-US20180016239A1-20180118-C00170.TIF </img> & (R or S)-4-(1-(2- chloro-6-(1- (trifluoromethyl)cyclo- propyl)benzoyl)-6- (methyl(pyridin-4- ylmethyl)carbamoyl)- 4,5,6,7-tetrahydro- 1H-indazol-3-yl)-3- fluorobenzoic acid & 655
+21BB & <img> id-US20180016239A1-20180118-C00171.TIF </img> & (R or S)-4-(6-((2- (1H-pyrazol-1- yl)ethyl)(methyl)car- bamoyl)-1-(2-chloro- 6-(1- (trifluoromethyl) cyclopropyl)benzoyl)- 4,5,6,7-tetrahydro- 1H-indazol-3-yl)-3- fluorobenzoic acid & 658
+21CC & <img> id-US20180016239A1-20180118-C00172.TIF </img> & (R or S)-4-(6-((2- (1H-imidazol-1- yl)ethyl)(methyl)car- bamoyl)-1-(2-chloro- 6-(1- (trifluoromethyl)cyclo- propyl)benzoyl)- 4,5,6,7-tetrahydro- 1H-indazol-3-yl)-3- fluorobenzoic acid & 658
+21DD & <img> id-US20180016239A1-20180118-C00173.TIF </img> & (R or S)-4-(1-(2- chloro-6-(1- (trifluoromethyl)cyclo- propyl)benzoyl)-6- (methyl(2-(1-methyl- 1H-pyrazol-4- yl)ethyl)carbamoyl)- 4,5,6,7-tetrahydro- 1H-indazol-3-yl)-3- fluorobenzoic acid & 672
+21EE & <img> id-US20180016239A1-20180118-C00174.TIF </img> & (R or S)-4-(1-(2- chloro-6-(1- (trifluoromethyl)cyclo- propyl)benzoyl)-6- (methyl((1-methyl- 1H-pyrazol-4- yl)methyl)carbamoyl)- 4,5,6,7-tetrahydro- 1H-indazol-3-yl)-3- fluorobenzoic acid & 658
+21FF & <img> id-US20180016239A1-20180118-C00175.TIF </img> & (R or S)-4-(1-(2- chloro-6-(1- (trifluoromethyl)cyclo- propyl)benzoyl)-6- (1-methyl-1,4,5,6- tetrahydropyrrolo[3,4- c]pyrazole-5- carbonyl)-4,5,6,7- tetrahydro-1H- indazol-3-yl)-3- fluorobenzoic acid & 656
+21GG & <img> id-US20180016239A1-20180118-C00176.TIF </img> & (R or S)-4-(1-(2- chloro-6-(1- (trifluoromethyl)cyclo- propyl)benzoyl)-6- (4,5,6,7-tetrahydro- 1H-pyrazolo[4,3- c]pyridine-5- carbonyl)-4,5,6,7- tetrahydro-1H- indazol-3-yl)-3- fluorobenzoic acid & 656
+21HH & <img> id-US20180016239A1-20180118-C00177.TIF </img> & (R or S)-4-(1-(2- chloro-6-(1- (trifluoromethyl)cyclo- propyl)benzoyl)-6- (2-methyl-4,5,6,7- tetrahydro-2H- pyrazolo[4,3- c]pyridine-5- carbonyl)-4,5,6,7- tetrahydro-1H- indazol-3-yl)-3- fluorobenzoic acid & 670
+21II & <img> id-US20180016239A1-20180118-C00178.TIF </img> & (R or S)-4-(1-(2- chloro-6-(1- (trifluoromethyl)cyclo- propyl)benzoyl)-6- (5,6,7,8-tetrahydro- [1,2,4]triazolo[1,5- a]pyrazine-7- carbonyl)-4,5,6,7- tetrahydro-1H- indazol-3-yl)-3- fluorobenzoic acid & 657
+21JJ & <img> id-US20180016239A1-20180118-C00179.TIF </img> & (R or S)-4-(1-(2- chloro-6-(1- (trifluoromethyl)cyclo- propyl)benzoyl)-6- (2-methyl-1,4,5,6- tetrahydropyrrolo[3,4- d]imidazole-5- carbonyl)-4,5,6,7- tetrahydro-1H- indazol-3-yl)-3- fluorobenzoic acid & 656
+21KK & <img> id-US20180016239A1-20180118-C00180.TIF </img> & (R or S)-4-(1-(2- chloro-6-(1- (trifluoromethyl)cyclo- propyl)benzoyl)-6- (methyl(1-methyl- 1H-pyrazol-4- yl)carbamoyl)- 4,5,6,7-tetrahydro- 1H-indazol-3-yl)-3- fluorobenzoic acid & 644
+21LL & <img> id-US20180016239A1-20180118-C00181.TIF </img> & (R or S)-4-(1-(2- chloro-6-(1- (trifluoromethyl)cyclo- propyl)benzoyl)-6- (5,6-dihydro-4H- pyrrolo[3,4- d]thiazole-5- carbonyl)-4,5,6,7- tetrahydro-1H- indazol-3-yl)-3- fluorobenzoic acid & 659
+21MM & <img> id-US20180016239A1-20180118-C00182.TIF </img> & (R or S)-4-(1-(2- chloro-6-(1- (trifluoromethyl)cyclo- propyl)benzoyl)-6- (2-methyl-5,6- dihydro-4H- pyrrolo[3,4- d]thiazole-5- carbonyl)-4,5,6,7- tetrahydro-1H- indazol-3-yl)-3- fluorobenzoic acid & 673
+21NN & <img> id-US20180016239A1-20180118-C00183.TIF </img> & 4-[(6R or S)-1-({2- chloro-6-[1- (trifluoromethyl)cyclo- propyl]phenyl}car- bonyl)-6-{[(3R)-3- cyanopyrrolidin-1- yl]carbonyl}-4,5,6,7- tetrahydro-1H- indazol-3-yl]-3- fluorobenzoic acid & 629
+21PP & <img> id-US20180016239A1-20180118-C00184.TIF </img> & 4-[(6R or S)-1-({2- chloro-6-[1- (trifluoromethyl)cyclo- propyl]phenyl}car- bonyl)-6-(morpholin- 4-ylcarbonyl)- 4,5,6,7-tetrahydro- 1H-indazol-3-yl]-3- fluorobenzoic acid & 620
+21QQ & <img> id-US20180016239A1-20180118-C00185.TIF </img> & 4-[(6R or S)-1-({2- chloro-6-[1- (trifluoromethyl)cyclo- propyl]phenyl}car- bonyl)-6-(4-oxa-7- azaspiro[2.5]oct-7- ylcarbonyl)-4,5,6,7- tetrahydro-1H- indazol-3-yl]-3- fluorobenzoic acid & 646
+21RR & <img> id-US20180016239A1-20180118-C00186.TIF </img> & 4-[(6R or S)-1-({2- chloro-6-[1- (trifluoromethyl)cyclo- propyl]phenyl}car- bonyl)-6-{[(3S,4S)-3- hydroxy-4- methoxypyrrolidin-1- yl]carbonyl}-4,5,6,7- tetrahydro-1H- indazol-3-yl]-3- fluorobenzoic acid & 650
+21SS & <img> id-US20180016239A1-20180118-C00187.TIF </img> & 4-[(6R or S)-1-({2- chloro-6-[1- (trifluoromethyl)cyclo- propyl]phenyl}car- bonyl)-6-{[(3S,4S)-3- (dimethylamino)-4- hydroxypyrrolidin-1- yl]carbonyl}-4,5,6,7- tetrahydro-1H- indazol-3-yl]-3- fluorobenzoic acid & 663
+21TT & <img> id-US20180016239A1-20180118-C00188.TIF </img> & (R or S)-4-(1-(2- chloro-6-(1- (trifluoromethyl)cyclo- propyl)benzoyl)-6- ((2- methoxyethyl)(methyl) carbamoyl)-4,5,6,7- tetrahydro-1H- indazol-3-yl)-3- fluorobenzoic acid & 622
+21UU & <img> id-US20180016239A1-20180118-C00189.TIF </img> & (R or S)-4-(1-(2- chloro-6-(1- (trifluoromethyl)cyclo- propyl)benzoyl)-6- ((2- (dimethylamino)ethyl) carbamoyl)-4,5,6,7- tetrahydro-1H- indazol-3-yl)-3- fluorobenzoic acid & 621
+21VV & <img> id-US20180016239A1-20180118-C00190.TIF </img> & (R or S)-4-(1-(2- chloro-6-(1- (trifluoromethyl)cyclo- propyl)benzoyl)-6- ((2- (dimethylamino)ethyl) (methyl)carbamoyl)- 4,5,6,7-tetrahydro- 1H-indazol-3-yl)-3- fluorobenzoic acid & 635
+21WW & <img> id-US20180016239A1-20180118-C00191.TIF </img> & (R or S)-4-(1-(2- chloro-6-(1- (trifluoromethyl)cyclo- propyl)benzoyl)-6- (2-oxa-6- azaspiro[3.3]heptane- 6-carbonyl)-4,5,6,7- tetrahydro-1H- indazol-3-yl)-3- fluorobenzoic acid & 632
+21XX & <img> id-US20180016239A1-20180118-C00192.TIF </img> & (R or S)-4-(1-(2- chloro-6- cyclopropylbenzoyl)- 6-(3- methoxyazetidine-1- carbonyl)-4,5,6,7- tetrahydro-1H- indazol-3-yl)-3- (trifluoromethyl) benzoic acid & 602
+21YY & <img> id-US20180016239A1-20180118-C00193.TIF </img> & (R or S)-4-(1-(2- chloro-6-(1- (trifluoromethyl)cyclo- propyl)benzoyl)-6- (3-fluoro-[1,3'- biazetidine]-1'- carbonyl)-4,5,6,7- tetrahydro-1H- indazol-3-yl)-3- fluorobenzoic acid & 663
+21ZZ & <img> id-US20180016239A1-20180118-C00194.TIF </img> & (R or S)-4-(1-(2- chloro-6-(1- (trifluoromethyl)cyclo- propyl)benzoyl)-6- (3- (dimethylamino)azeti dine-1-carbonyl)- 4,5,6,7-tetrahydro- 1H-indazol-3-yl)-3- fluorobenzoic acid & 633
+21AAA & <img> id-US20180016239A1-20180118-C00195.TIF </img> & 4-{(6R or S)-1-({2- chloro-6-[1- (trifluoromethyl)cyclo- propyl]phenyl}car- bonyl)-6-[(3- hydroxyazetidin-1- yl)carbonyl]-4,5,6,7- tetrahydro-1H- indazol-3-yl}-3- fluorobenzoic acid & 606
+21BBB & <img> id-US20180016239A1-20180118-C00196.TIF </img> & (R or S)-4-(1-(2- chloro-6-(1- (trifluoromethyl)cyclo- propyl)benzoyl)-6- (4- hydroxypiperidine-1- carbonyl)-4,5,6,7- tetrahydro-1H- indazol-3-yl)-3- fluorobenzoic acid & 634
+21CCC & <img> id-US20180016239A1-20180118-C00197.TIF </img> & (R or S)-4-(1-(2- (difluoromethyl)-6- (1- (trifluoromethyl)cyclo- propyl)benzoyl)-6- (2-oxa-6- azaspiro[3.4]octane- 6-carbonyl)-4,5,6,7- tetrahydro-1H- indazol-3-yl)-3- fluorobenzoic acid & 662
 </table>
 Example 22A
+<img> id-US20180016239A1-20180118-C00198.TIF </img><img> id-US20180016239A1-20180118-C00199.TIF </img>
 (R or S)-4-(1-(2-chloro-6-cyclopropylbenzoyl)-6-(oxetan-3-ylamino)-4,5,6,7-tetrahydro-1H-indazol-3-yl)-3-fluorobenzoic acid
 Step 1: Preparation of (R or S)-1-(2-chloro-6-cyclopropylbenzoyl)-3-iodo-4,5,6,7-tetrahydro-1H-indazole-6-carboxylic acid (22A-1)
 A mixture of methyl (R or S)-1-(2-chloro-6-cyclopropylbenzoyl)-3-iodo-4,5,6,7-tetrahydro-1H-indazole-6-carboxylate (i-23A) (2.4 g, 4.95 mmol), LiOH (0.593 g, 24.76 mmol), THF (8.25 ml), and water (8.25 ml) was stirred overnight at room temperature. The reaction was diluted with EtOAc and the organic layer was washed twice with saturated ammonium chloride. The organic layer was dried with Na2SO4, filtered, and concentrated in vacuo. The crude product thus obtained was used in the next step without further purification. MS: 471 (M+1).
@@ -799,11 +864,13 @@ To a flask was added (R or S)-(2-chloro-6-cyclopropylphenyl)(3-iodo-6-(oxetan-3-
 Step 6: Preparation of (R or S)-4-(1-(2-chloro-6-cyclopropylbenzoyl)-6-(oxetan-3-ylamino)-4,5,6,7-tetrahydro-1H-indazol-3-yl)-3-fluorobenzoic acid (22A)
 A mixture of methyl (R or S)-4-(1-(2-chloro-6-cyclopropylbenzoyl)-6-(oxetan-3-ylamino)-4,5,6,7-tetrahydro-1H-indazol-3-yl)-3-fluorobenzoate (22 mg, 0.042 mmol) and LiOH (1.005 mg, 0.042 mmol) in THF (336 μl), and Water (84 μl) was allowed to stir at room temperature overnight. Reaction concentrated and residue was purified using mass directed reverse phase chromatography to afford desired product. MS: 510 (M+1). 1H NMR (DMSO-d6) δ (ppm): 9.58 (s, 2H), 7.86-7.69 (m, 2H), 7.52-7.31 (m, 3H), 7.09-6.99 (m, 1H), 4.84-4.75 (m, 2H), 4.71-4.60 (m, 2H), 3.69 (d, J=14.9 Hz, 2H), 3.25-3.09 (m, 1H), 2.15-2.05 (m, 1H), 1.88-1.58 (m, 3H), 0.92-0.58 (m, 4H).
 Example 23A
+<img> id-US20180016239A1-20180118-C00200.TIF </img>
 (R or S)-4-(6-((tert-butoxycarbonyl)amino)-1-(2-chloro-6-cyclopropylbenzoyl)-4,5,6,7-tetrahydro-1H-indazol-3-yl)-3-fluorobenzoic acid
 Step 1: Preparation of (S)-4-(6-((tert-butoxycarbonyl)amino)-1-(2-chloro-6-cyclopropylbenzoyl)-4,5,6,7-tetrahydro-1H-indazol-3-yl)-3-fluorobenzoic acid
 A mixture of tert-butyl (R or S)-(1-(2-chloro-6-cyclopropylbenzoyl)-3-iodo-4,5,6,7-tetrahydro-1H-indazol-6-yl)carbamate (22A-2) (67 mg, 0.124 mmol), (2-fluoro-4-(methoxycarbonyl)phenyl)boronic acid (49.0 mg, 0.247 mmol), PdCl2(dppf)-CH2Cl2 adduct (20.20 mg, 0.025 mmol), potassium acetate (36.4 mg, 0.371 mmol) and THF (495 μl) was thoroughly degassed with Argon for 5 minutes. Water (124 μl) was then added and the solution was heated to 80° C. overnight. The reaction was cooled and diluted with EtOAc. The organic layer was separated and washed twice with aqueous NaHCO3 and once with brine. The combined organic layers were dried with Na2SO4, filtered, and concentrated in vacuo. The residue was purified by silica gel chromatography (0-100% EtOAc/Hexane) to afford the intermediate methyl (R or S)-4-(6-((tert-butoxycarbonyl)amino)-1-(2-chloro-6-cyclopropylbenzoyl)-4,5,6,7-tetrahydro-1H-indazol-3-yl)-3-fluorobenzoate. MS: 568 (M+1).
 To a mixture of methyl (R or S)-4-(6-((tert-butoxycarbonyl)amino)-1-(2-chloro-6-cyclopropylbenzoyl)-4,5,6,7-tetrahydro-1H-indazol-3-yl)-3-fluorobenzoate in 1:1 THF:Water (2 mL) was added LiOH (59.2 mg, 2.473 mmol). The resulting reaction mixture was allowed to stir at room temperature overnight. Reaction concentrated and residue was purified using mass directed reverse phase chromatography to afford desired product. MS: 554 (M+1). 1H NMR (DMSO-d6) δ (ppm): 7.75 (dd, J=39.2, 9.3 Hz, 2H), 7.53-7.30 (m, 2H), 7.15-6.97 (m, 2H), 3.83 (bs, 1H), 3.53-3.37 (m, 1H), 3.00-2.90 (m, 1H), 2.60-2.48 (m, 2H), 1.86 (bs, 1H), 1.74-1.60 (m, 2H), 1.38 (s, 9H), 0.91-0.53 (m, 4H).
 Example 24A
+<img> id-US20180016239A1-20180118-C00201.TIF </img>
 (R or S)-4-(1-(2-chloro-6-cyclopropylbenzoyl)-6-((2,2,2-trifluoroethyl)amino)-4,5,6,7-tetrahydro-1H-indazol-3-yl)-3-fluorobenzoic acid
 Step 1: Preparation of (R or S)-(2-chloro-6-cyclopropylphenyl)(3-iodo-6-((2,2,2-trifluoroethyl)amino)-4,5,6,7-tetrahydro-1H-indazol-1-yl)methanone (24A-1)
 A mixture of (R or S)-(6-amino-3-iodo-4,5,6,7-tetrahydro-1H-indazol-1-yl)(2-chloro-6-cyclopropylphenyl)methanone (22A-3) (100 mg, 0.209 mmol), 2-iodo-1,1,1-trifluoroethane (351 mg, 1.673 mmol), potassium carbonate (173 mg, 1.255 mmol), and acetonitrile (697 μl) was heated to 130° C. for 72 hours. The reaction was cooled and diluted with EtOAc. The organic layer was separated and washed twice with aqueous NaHCO3 and once with brine. The combined organic layers were dried with Na2SO4, filtered, and concentrated in vacuo. The residue was purified by silica gel chromatography (0-100% EtOAc/Hexane) to afford desired product. MS: 524 (M+1).
@@ -812,6 +879,7 @@ A mixture of (R or S)-(2-chloro-6-cyclopropylphenyl)(3-iodo-6-((2,2,2-trifluoroe
 Step 3: Preparation of (R or S)-4-(1-(2-chloro-6-cyclopropylbenzoyl)-6-((2,2,2-trifluoroethyl)amino)-4,5,6,7-tetrahydro-1H-indazol-3-yl)-3-fluorobenzoic acid (24A)
 A mixture of methyl (R or S)-4-(1-(2-chloro-6-cyclopropylbenzoyl)-6-((2,2,2-trifluoroethyl)amino)-4,5,6,7-tetrahydro-1H-indazol-3-yl)-3-fluorobenzoate (12 mg, 0.022 mmol) and LiOH (0.523 mg, 0.022 mmol) in THF (349 μl) and Water (87 μl) was allowed to stir at room temperature overnight. Reaction concentrated and residue was purified using mass directed reverse phase chromatography to afford desired product. MS: 536 (M+1). 1H NMR (DMSO-d6) δ (ppm): 7.76 (dd, J=37.5, 9.3 Hz, 2H), 7.54-7.29 (m, 3H), 7.03 (dd, J=16.8, 7.7 Hz, 1H), 3.60 (bs, 2H), 3.00 (bs, 1H), 2.86-2.49 (m, 4H), 2.04 (bs, 1H), 1.75-1.57 (m, 2H), 0.90-0.55 (m, 4H).
 Example 25A
+<img> id-US20180016239A1-20180118-C00202.TIF </img>
 4-(1-(2-chloro-6-cyclopropylbenzoyl)-4,5,6,7-tetrahydro-1H-pyrazolo[4,3-b]pyridin-3-yl)-3-fluorobenzoic acid
 Step 1: Preparation of 4-(1-(2-chloro-6-cyclopropylbenzoyl)-4,5,6,7-tetrahydro-1H-pyrazolo[4,3-b]pyridin-3-yl)-3-fluorobenzoic acid
 A mixture of Example 7A (15.5 mg, 0.024 mmol), DCM (379 μl), and TFA (95 μl) was allowed to stir at room temperature for 3 hours. Reaction concentrated and residue was purified using mass directed reverse phase chromatography to afford desired product. MS: 440 (M+1). 1H NMR (DMSO-d6) δ (ppm): 7.77 (dd, J=8.0, 1.6 Hz, 1H), 7.68 (dd, J=10.7, 1.6 Hz, 1H), 7.57 (t, J=7.6 Hz, 1H), 7.38-7.28 (m, 2H), 6.99 (d, J=7.7 Hz, 1H), 3.18-3.02 (m, 4H), 1.91-1.80 (m, 2H), 1.72-1.59 (m, 1H), 0.89-0.55 (m, 4H).
@@ -832,9 +900,10 @@ No. & Structure & IUPAC Name & [M + H]+
 <header>
 
 </header>
-25B &  & 4-[1-({2-chloro-6-[1- (trifluoromethyl)cyclo- propyl]phenyl}carbonyl)- 4,5,6,7-tetrahydro-1H- pyrazolo[4,3-b]pyridin- 3-yl]-3-fluorobenzoic acid & 508
+25B & <img> id-US20180016239A1-20180118-C00203.TIF </img> & 4-[1-({2-chloro-6-[1- (trifluoromethyl)cyclo- propyl]phenyl}carbonyl)- 4,5,6,7-tetrahydro-1H- pyrazolo[4,3-b]pyridin- 3-yl]-3-fluorobenzoic acid & 508
 </table>
 Example 26A
+<img> id-US20180016239A1-20180118-C00204.TIF </img><img> id-US20180016239A1-20180118-C00205.TIF </img>
 4-(1-(2-chloro-6-cyclopropylbenzoyl)-4-methyl-4,5,6,7-tetrahydro-1H-pyrazolo[4,3-b]pyridin-3-yl)-3-fluorobenzoic acid
 Step 1: Preparation of methyl 4-(1-(2-chloro-6-cyclopropylbenzoyl)-4,5,6,7-tetrahydro-1H-pyrazolo[4,3-b]pyridin-3-yl)-3-fluorobenzoate (26A-1)
 A mixture of tert-butyl 1-(2-chloro-6-cyclopropylbenzoyl)-3-(2-fluoro-4-(methoxycarbonyl)phenyl)-1,5,6,7-tetrahydro-4H-pyrazolo[4,3-b]pyridine-4-carboxylate (7A) (105 mg, 0.190 mmol), DCM (1516 μl), and TFA (379 μl) was allowed to stir at RT for 3 hours.
@@ -844,6 +913,7 @@ A mixture of methyl 4-(1-(2-chloro-6-cyclopropylbenzoyl)-4,5,6,7-tetrahydro-1H-p
 Step 3: Preparation of 4-(1-(2-chloro-6-cyclopropylbenzoyl)-4-methyl-4,5,6,7-tetrahydro-1H-pyrazolo[4,3-b]pyridin-3-yl)-3-fluorobenzoic acid (26A)
 A mixture of methyl 4-(1-(2-chloro-6-cyclopropylbenzoyl)-4-methyl-4,5,6,7-tetrahydro-1H-pyrazolo[4,3-b]pyridin-3-yl)-3-fluorobenzoate (28 mg, 0.060 mmol) and LiOH (14.33 mg, 0.598 mmol) in THF (479 μl) and Water (120 μl) was allowed to stir at room temperature overnight. Reaction concentrated and residue was purified using mass directed reverse phase chromatography to afford desired product. MS: 454 (M+1). 1H NMR (DMSO-d6) δ (ppm): 7.86-7.69 (m, 2H), 7.58 (t, J=7.5 Hz, 1H), 7.42-7.29 (m, 2H), 7.01 (d, J=7.6 Hz, 1H), 3.19-3.09 (m, 2H), 3.04-2.92 (m, 2H), 2.33 (s, 3H), 1.92 (s, 2H), 1.72-1.58 (m, 1H), 0.94-0.55 (m, 4H).
 Example 27A
+<img> id-US20180016239A1-20180118-C00206.TIF </img><img> id-US20180016239A1-20180118-C00207.TIF </img>
 (R or S)-4-(1-(2-chloro-6-cyclopropylbenzoyl)-6-(3-methoxyazetidine-1-carbonyl)-4,5,6,7-tetrahydro-1H-pyrazolo[4,3-b]pyridin-3-yl)-3-fluorobenzoic acid
 Step 1: Preparation of ethyl 3-bromo-1H-pyrazolo[4,3-b]pyridine-6-carboxylate (27A-1)
 A mixture of ethyl 1H-pyrazolo[4,3-b]pyridine-6-carboxylate (100 mg, 0.523 mmol), DMF (1743 μl), and NBS (112 mg, 0.628 mmol) was allowed to stir at room temperature overnight. The reaction was diluted with EtOAc. The organic layer was separated and washed twice with saturated sodium thiosulfate and once with brine. The combined organic layers were dried with Na2SO4, filtered, and concentrated in vacuo to afford crude product. MS: 270 (M+1).
@@ -877,15 +947,17 @@ No. & Structure & IUPAC Name & [M + H]+
 <header>
 
 </header>
-27B &  & (R or S)-4-(1-(2- chloro-6- cyclopropylbenzoyl)- 6-(3- methoxyazetidine-1- carbonyl)-4,5,6,7- tetrahydro-1H- pyrazolo[4,3- b]pyridin-3-yl)-3- fluorobenzoic acid & 553
+27B & <img> id-US20180016239A1-20180118-C00208.TIF </img> & (R or S)-4-(1-(2- chloro-6- cyclopropylbenzoyl)- 6-(3- methoxyazetidine-1- carbonyl)-4,5,6,7- tetrahydro-1H- pyrazolo[4,3- b]pyridin-3-yl)-3- fluorobenzoic acid & 553
 </table>
 Example 28A
+<img> id-US20180016239A1-20180118-C00209.TIF </img>
 4-(1-(2-Chloro-6-(1-(trifluoromethyl)cyclopropyl)benzoyl)-6-((1-methyl-1H-pyrazol-4-yl)methoxy)-4,5,6,7-tetrahydro-1H-indazol-3-yl)-3-fluorobenzoic acid
 Step 1: Preparation of Methyl 4-(1-(2-chloro-6-(1-(trifluoromethyl)cyclopropyl)benzoyl)-6-hydroxy-4,5,6,7-tetrahydro-1H-indazol-3-yl)-3-fluorobenzoate (28A-1)
 To a vial was added (2-chloro-6-(1-(trifluoromethyl)cyclopropyl)phenyl)(6-hydroxy-3-iodo-4,5,6,7-tetrahydro-1H-indazol-1-yl)methanone (120.0 mg, 0.23 mmol), (2-fluoro-4-(methoxycarbonyl)phenyl)boronic acid (93.0 mg, 0.47 mmol), PdCl2(dppf)-CH2Cl2 Adduct (38.4 mg, 0.047 mmol), potassium acetate (69.2 mg, 0.70 mmol), THF (940 μl), and Water (235 μl). The reaction was thoroughly degassed with Argon and heated to 80° C. overnight. The reaction mixture was cooled to rt, diluted with ethyl acetate, washed with aqueous sodium hydrogen carbonate (×2) and brine. The combined aqueous layers were extracted with ethyl acetate. The combined organic layers were dried over sodium sulfate, filtered, and concentrated in vacuo while loading onto silica gel. The residue was purified by column chromatography on silica (5-60% EtOAc/hexanes) to afford methyl 4-(1-(2-chloro-6-(1-(trifluoromethyl)cyclopropyl)benzoyl)-6-hydroxy-4,5,6,7-tetrahydro-1H-indazol-3-yl)-3-fluorobenzoate. MS: 537 (M+1)
 Step 2: Preparation of 4-(1-(2-Chloro-6-(1-(trifluoromethyl)cyclopropyl)benzoyl)-6-((1-methyl-1H-pyrazol-4-yl)methoxy)-4,5,6,7-tetrahydro-1H-indazol-3-yl)-3-fluorobenzoic acid (28A)
 Methyl 4-(1-(2-chloro-6-(1-(trifluoromethyl)cyclopropyl)benzoyl)-6-hydroxy-4,5,6,7-tetrahydro-1H-indazol-3-yl)-3-fluorobenzoate (30.0 mg, 0.06 mmol) was dissolved in DMF (0.5 mL) and cooled to 0° C. NaH (3.3 mg, 0.08 mmol) was then added. The reaction mixture was stirred at 0° C. for 15 min. 4-(Chloromethyl)-1-methyl-1H-pyrazole, HCl (18.67 mg, 0.11 mmol) and DIEA (0.1 mL, 0.6 mmol) was added and the reaction mixture was stirred at 50° C. for one hour. The reaction mixture was diluted with ethyl acetate and washed with brine. The organic layer was dried over sodium sulfate, filtered, and concentrated in vacuo. The residue was purified by mass triggered reverse phase HPLC (C-18; acetonitrile/water containing 0.1% TFA) to afford 4-(1-(2-chloro-6-(1-(trifluoromethyl)cyclopropyl)benzoyl)-6-((1-methyl-1H-pyrazol-4-yl)methoxy)-4,5,6,7-tetrahydro-1H-indazol-3-yl)-3-fluorobenzoic acid as a TFA salt. MS: 617 (M+1). 1H NMR (500 MHz, d-DMSO) δ 7.83-7.78 (m, 2H), 7.75 (dd, J=10.5, 1.6 Hz, 1H), 7.64-7.55 (m, 3H), 7.52-7.47 (m, 2H), 5.21 (s, 2H), 4.20-4.14 (m, 1H), 3.80 (s, 3H), 3.35 (dd, J=18.0, 4.7 Hz, 1H), 3.03 (dt, J=18.1, 5.9 Hz, 1H), 2.58-2.42 (m, 2H), 1.83-1.71 (m, 2H), 1.38-1.34 (m, 1H), 1.23-1.18 (m, 2H), 0.76 (s, 1H).
 Example 29A
+<img> id-US20180016239A1-20180118-C00210.TIF </img><img> id-US20180016239A1-20180118-C00211.TIF </img>
 4-(1-(2-Chloro-6-(1-(trifluoromethyl)cyclopropyl)benzoyl)-6-(3-methoxyazetidine-1-carboxamido)-4,5,6,7-tetrahydro-1H-indazol-3-yl)-3-fluorobenzoic acid
 Step 1: Preparation of 3-(4-(tert-Butoxycarbonyl)-2-fluorophenyl)-1-(2-chloro-6-(1-(trifluoromethyl)cyclopropyl)benzoyl)-4,5,6,7-tetrahydro-1H-indazole-6-carboxylic acid (29A-1)
 To a vial was added methyl 3-(4-(tert-butoxycarbonyl)-2-fluorophenyl)-1-(2-chloro-6-(1-(trifluoromethyl)cyclopropyl)benzoyl)-4,5,6,7-tetrahydro-1H-indazole-6-carboxylate (1.08 g, 1.74 mmol), LiOH (0.21 g, 8.70 mmol), THF (4.83 mL), and Water (0.97 mL). The reaction mixture was stirred at room temperature overnight. The reaction mixture was diluted with ethyl acetate, washed with aqueous ammonium chloride (×2), and brine. The combined organic layers were dried over sodium sulfate, filtered, and concentrated in vacuo to afford 3-(4-(tert-Butoxycarbonyl)-2-fluorophenyl)-1-(2-chloro-6-(1-(trifluoromethyl)cyclopropyl)benzoyl)-4,5,6,7-tetrahydro-1H-indazole-6-carboxylic acid. MS: 608 (M+1)
@@ -894,12 +966,14 @@ Step 2: Preparation of tert-Butyl 4-(1-(2-chloro-6-(1-(trifluoromethyl)cycloprop
 Step 3: Preparation of 4-(1-(2-Chloro-6-(1-(trifluoromethyl)cyclopropyl)benzoyl)-6-(3-methoxyazetidine-1-carboxamido)-4,5,6,7-tetrahydro-1H-indazol-3-yl)-3-fluorobenzoic acid (29A)
 tert-Butyl 4-(1-(2-chloro-6-(1-(trifluoromethyl)cyclopropyl)benzoyl)-6-(3-methoxyazetidine-1-carboxamido)-4,5,6,7-tetrahydro-1H-indazol-3-yl)-3-fluorobenzoate (13.0 mg, 0.02 mmol) was dissolved in DCM (0.25 mL) then TFA (0.25 mL) was added. The reaction mixture was stirred at rt for one hour. The reaction mixture was concentrated in vacuo. The residue was purified by mass triggered reverse phase HPLC (C-18; acetonitrile/water containing 0.1% TFA) to afford 4-(1-(2-chloro-6-(1-(trifluoromethyl)cyclopropyl)benzoyl)-6-(3-methoxyazetidine-1-carboxamido)-4,5,6,7-tetrahydro-1H-indazol-3-yl)-3-fluorobenzoic acid as a TFA salt. MS: 635 (M+1). 1H NMR (500 MHz, d-DMSO) δ 13.43 (s, 1H), 7.80-7.74 (m, 2H), 7.67-7.56 (m, 3H), 7.51 (dt, J=9.1, 7.6, 1H), 6.49 (dd, J=10.3, 7.7 Hz, 1H), 4.16-4.13 (m, 1H), 4.02-3.99 (m, 2H), 3.96 (d, J=11.2 Hz, 1H), 3.64 (dd, J=9.0, 3.8 Hz, 2H), 3.37-3.34 (m, 1H), 3.19 (s, 3H), 2.97 (dt, J=16.4, 7.4 Hz, 1H), 2.54 (d, J=5.5 Hz, 1H), 1.96 (dd, J=19.9, 11.6 Hz, 1H), 1.72-1.58 (m, 1H), 1.35-1.32 (m, 1H), 1.28-1.16 (m, 2H), 0.82-0.75 (m, 1H).
 Example 30A
+<img> id-US20180016239A1-20180118-C00212.TIF </img>
 4-(1-(2-Chloro-6-(1-(trifluoromethyl)cyclopropyl)benzoyl)-6-(3-methoxy-N-methylazetidine-1-carboxamido)-4,5,6,7-tetrahydro-1H-indazol-3-yl)-3-fluorobenzoic acid
 Step 1: Preparation of tert-Butyl 4-(1-(2-chloro-6-(1-(trifluoromethyl)cyclopropyl)benzoyl)-6-(3-methoxy-N-methylazetidine-1-carboxamido)-4,5,6,7-tetrahydro-1H-indazol-3-yl)-3-fluorobenzoate (30A-1)
 tert-Butyl 4-(1-(2-chloro-6-(1-(trifluoromethyl)cyclopropyl)benzoyl)-6-(3-methoxyazetidine-1-carboxamido)-4,5,6,7-tetrahydro-1H-indazol-3-yl)-3-fluorobenzoate (29A-2; 32.0 mg, 0.05 mmol) was dissolved in DMF (0.5 mL) and NaH (2.2 mg, 0.06 mmol) was added. The reaction mixture was stirred at rt for 20 min. MeI (4.34 μl, 0.07 mmol) was then added and the reaction mixture was stirred at rt overnight. The reaction mixture was diluted with ethyl acetate and washed with brine. The organic layer was dried over sodium sulfate, filtered, and concentrated in vacuo while loading onto silica gel. The residue was purified by column chromatography on silica (10-100% EtOAc/hexanes) to afford tert-butyl 4-(1-(2-chloro-6-(1-(trifluoromethyl)cyclopropyl)benzoyl)-6-(3-methoxy-N-methylazetidine-1-carboxamido)-4,5,6,7-tetrahydro-1H-indazol-3-yl)-3-fluorobenzoate. MS: 705 (M+1)
 Step 2: Preparation of 4-(1-(2-Chloro-6-(1-(trifluoromethyl)cyclopropyl)benzoyl)-6-(3-methoxy-N-methylazetidine-1-carboxamido)-4,5,6,7-tetrahydro-1H-indazol-3-yl)-3-fluorobenzoic acid (30A)
 tert-Butyl 4-(1-(2-chloro-6-(1-(trifluoromethyl)cyclopropyl)benzoyl)-6-(3-methoxy-N-methylazetidine-1-carboxamido)-4,5,6,7-tetrahydro-1H-indazol-3-yl)-3-fluorobenzoate (4.0 mg, 5.67 μmol) was dissolved in DCM (0.1 mL) then TFA (0.1 mL) was added. The reaction mixture was stirred at rt for one hour. The reaction mixture was concentrated in vacuo. The residue was purified by mass triggered reverse phase HPLC (C-18; acetonitrile/water containing 0.1% TFA) to afford 4-(1-(2-chloro-6-(1-(trifluoromethyl)cyclopropyl)benzoyl)-6-(3-methoxy-N-methylazetidine-1-carboxamido)-4,5,6,7-tetrahydro-1H-indazol-3-yl)-3-fluorobenzoic acid as a TFA salt. MS: 649 (M+1). 1H NMR (500 MHz, d-DMSO) δ 13.44 (s, 1H), 7.81 (dd, J=8.3, 4.7 Hz, 1H), 7.75 (dd, J=10.8, 3.5 Hz, 1H), 7.68-7.57 (m, 3H), 7.51 (q, J=7.4 Hz, 1H), 4.32-4.22 (m, 1H), 4.16-4.09 (m, 2H), 4.08-4.02 (m, 1H), 3.80-3.76 (m, 1H), 3.73-3.69 (m, 1H), 3.31 (td, J=20.7, 19.5, 5.7 Hz, 2H), 3.20 (s, 3H), 3.17-3.11 (m, 1H), 2.78 (d, J=4.6 Hz, 3H), 2.74-2.62 (m, 1H), 1.99-1.89 (m, 1H), 1.86-1.78 (m, 1H), 1.42-1.32 (m, 1H), 1.28-1.15 (m, 2H), 0.93-0.82 (m, 1H).
 Example 31A
+<img> id-US20180016239A1-20180118-C00213.TIF </img><img> id-US20180016239A1-20180118-C00214.TIF </img>
 4-(1-(2-Chloro-6-(1-(trifluoromethyl)cyclopropyl)benzoyl)-6-(cyclobutanecarboxamido)-4,5,6,7-tetrahydro-1H-indazol-3-yl)-3-fluorobenzoic acid
 Step 1: Preparation of tert-Butyl 4-(6-amino-1-(2-chloro-6-(1-(trifluoromethyl)cyclopropyl)benzoyl)-4,5,6,7-tetrahydro-1H-indazol-3-yl)-3-fluorobenzoate (31A-1)
 3-(4-(tert-Butoxycarbonyl)-2-fluorophenyl)-1-(2-chloro-6-(1-(trifluoromethyl)cyclopropyl)benzoyl)-4,5,6,7-tetrahydro-1H-indazole-6-carboxylic acid (29A-1; 200.0 mg, 0.329 mmol) was dissolved in Toluene (2.0 mL) and under nitrogen diphenylphosphoryl azide (0.107 mL, 0.494 mmol) and triethylamine (0.069 mL, 0.494 mmol) was added. The reaction mixture was heated to 85° C. and stirred for two hours. The reaction mixture was concentrated in vacuo and cooled to 0° C. then HCl (1.5 mL, 6 N) was added. The reaction mixture was stirred at rt for two hours. The reaction mixture was extracted with dichloromethane. The organic layer was dried over sodium sulfate, filtered, concentrated in vacuo while loading onto silica gel. The residue was purified by column chromatography on silica (0-100% 3:1 EtOAc:Ethanol/hexanes) to afford tert-butyl 4-(6-amino-1-(2-chloro-6-(1-(trifluoromethyl)cyclopropyl)benzoyl)-4,5,6,7-tetrahydro-1H-indazol-3-yl)-3-fluorobenzoate. MS: 578 (M+1)
@@ -908,12 +982,14 @@ tert-Butyl 4-(6-amino-1-(2-chloro-6-(1-(trifluoromethyl)cyclopropyl)benzoyl)-4,5
 Step 3: Preparation of 4-(1-(2-Chloro-6-(1-(trifluoromethyl)cyclopropyl)benzoyl)-6-(cyclobutanecarboxamido)-4,5,6,7-tetrahydro-1H-indazol-3-yl)-3-fluorobenzoic acid (31A)
 tert-Butyl 4-(1-(2-chloro-6-(1-(trifluoromethyl)cyclopropyl)benzoyl)-6-(cyclobutanecarboxamido)-4,5,6,7-tetrahydro-1H-indazol-3-yl)-3-fluorobenzoate (14.5 mg, 0.02 mmol) was dissolved in DCM (0.25 mL) then TFA (0.25 mL) was added. The reaction mixture was stirred at rt for one hour. The reaction mixture was concentrated in vacuo. The residue was purified by mass triggered reverse phase HPLC (C-18; acetonitrile/water containing 0.1% TFA) to afford 4-(1-(2-chloro-6-(1-(trifluoromethyl)cyclopropyl)benzoyl)-6-(cyclobutanecarboxamido)-4,5,6,7-tetrahydro-1H-indazol-3-yl)-3-fluorobenzoic acid as a TFA salt. MS: 604 (M+1). 1H NMR (500 MHz, d-DMSO) δ 13.43 (s, 1H), 7.88 (dd, J=13.2, 7.4 Hz, 1H), 7.81 (ddd, J=8.1, 2.9, 1.5 Hz, 1H), 7.75 (dd, J=10.6, 1.5 Hz, 1H), 7.67-7.56 (m, 2H), 7.51 (td, J=7.6, 3.7 Hz, 1H), 4.19-4.08 (m, 1H), 3.04 (qd, J=8.4, 2.6 Hz, 1H), 2.95 (dt, J=16.9, 7.7 Hz, 1H), 2.67-2.60 (m, 1H), 2.56 (t, J=6.4 Hz, 1H), 2.22-2.11 (m, 2H), 2.08-1.98 (m, 2H), 1.95-1.84 (m, 2H), 1.80-1.61 (m, 2H), 1.39-1.32 (m, 1H), 1.25 (dt, J=9.8, 5.7 Hz, 1H), 1.18 (tt, J=7.7, 4.7 Hz, 2H), 0.86-0.73 (m, 1H).
 Example 32A
+<img> id-US20180016239A1-20180118-C00215.TIF </img>
 (R or S)-4-(1-(2-chloro-6-cyclopropylbenzoyl)-6-(hydroxymethyl)-4,5,6,7-tetrahydro-1H-indazol-3-yl)-3-fluorobenzoic acid
 Step 1: Preparation of (R or S)-(2-chloro-6-cyclopropylphenyl)(6-(hydroxymethyl)-3-iodo-4,5,6,7-tetrahydro-1H-indazol-1-yl)methanone (32A-1)
 To an oven dried microwave vial equipped with magnetic stir bar under an atmosphere of N2, methyl (R or S)-1-(2-chloro-6-cyclopropylbenzoyl)-3-iodo-4,5,6,7-tetrahydro-1H-indazole-6-carboxylate (i-22A) (250 mg, 0.52 mmol, 1 equiv) and DCM (1.79 mL, 0.3 M) were added. The reaction mixture was cooled to −78° C., and diisobutylaluminum hydride (1.547 mL, 1 M in THF, 3 equiv) was added. The reaction mixture was warmed to 0° C. over 1 h, and then quenched with 1 HCl (5 mL), and diluted with EtOAc (20 mL). The mixture was stirred vigorously for 1 h at room temperature. The layers were separated, the aqeuous layer was extracted with EtOAc (3×25 mL), the combined organic layers were washed with brine, filtered through celite, and then concentrated in vacuo. The residue was purified by silica gel chromatography (0-100% EtOAc/Hexane) to afford desired product. MS: 457 (M+1).
 Step 2: Preparation of (R or S)-4-(1-(2-chloro-6-cyclopropylbenzoyl)-6-(hydroxymethyl)-4,5,6,7-tetrahydro-1H-indazol-3-yl)-3-fluorobenzoic acid (32A)
 To an oven dried microwave vial equipped with magnetic stir bar under an atmosphere of N2, (R or S)-(2-chloro-6-cyclopropylphenyl)(6-(hydroxymethyl)-3-iodo-4,5,6,7-tetrahydro-1H-indazol-1-yl)methanone (90 mg, 0.2 mmol, 1 equiv), 2nd Gen Sphos Precatalyst (14.2 mg, 0.02 mmol, 0.1 equiv), tert-butyl 3-fluoro-4-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)benzoate (190 mg, 0.6 mmol, 3 equiv), and dioxane (985 μL, 0.2 M) were added, followed by potassium phosphate tribasic (591 μL, 1M, 3 equiv). The reaction mixture was heated to 80° C. for 24 h, and then cooled to room temperature. The crude reaction mixture was diluted with EtOAc (50 mL), filtered through celite, and concentrated in vacuo. The resulting oil was taken up in DCM (1 mL), and trifluoroacetic acid (1 mL). After stirring for 3 h at room temperature, the solution was concentrated in vacuo, and purified using mass directed reverse phase chromatography to afford desired product. MS: 469 (M+1). 1H NMR (DMSO-d6) δ (ppm): 13.36 (s, 1H), 7.78 (d, J=8 Hz, 1H), 7.71 (d, J=8 Hz, 1H), 7.50 (m, 1H), 7.38-7.31 (m, 2H), 7.04 (d, J=8 Hz, 1H), 7.02 (d, J=8 Hz, 1H), 4.69 (bs, 1H), 3.48-3.45 (m, 2H), 3.34 (m, 1H), 2.71 (m, 1H), 1.95 (m, 1H), 1.89 (m, 1H), 1.65 (m, 1H), 1.35 (m, 1H), 0.85 (m, 1H), 0.74 (m, 1H), 0.68-0.53 (m, 3H).
 Example 33A
+<img> id-US20180016239A1-20180118-C00216.TIF </img>
 4-(1-(2-chloro-6-(1-(trifluoromethyl)cyclopropyl)benzoyl)-1,5,6,7-tetrahydrothiopyrano[3,2-c]pyrazol-3-yl)-3-fluorobenzoic acid
 Step 1: Preparation of ethyl 4-((2-ethoxy-2-oxoethyl)thio)butanoate (33A-1)
 To a mixture of sodium ethanolate (13.96 g, 205 mmol) in Ethanol (150 mL) at 0° C. was added ethyl 2-mercaptoacetate (24.64 g, 205 mmol) and ethyl 4-bromobutanoate (40 g, 205 mmol) dropwise. The resulting mixture was stirred at 20° C. for 16 h. TLC showed no starting material remained and one major new spot formed. The solvent was removed under vacuum and the residue was diluted with water (200 mL), then extracted with EtOAc (3×100 mL). The combined organic phase was washed with brine, dried over Na2SO4 and concentrated to give ethyl 4-((2-ethoxy-2-oxoethyl)thio)butanoate, which was used for the next reaction directly without further purification.
@@ -928,18 +1004,21 @@ To a mixture of methyl 3-fluoro-4-(1,5,6,7-tetrahydrothiopyrano[3,2-c]pyrazol-3-
 Step 6: Preparation of 4-(1-(2-chloro-6-(1-(trifluoromethyl)cyclopropyl)benzoyl)-1,5,6,7-tetrahydrothiopyrano[3,2-c]pyrazol-3-yl)-3-fluorobenzoic acid (33A)
 To a mixture of methyl 4-(1-(2-chloro-6-(1-(trifluoromethyl)cyclopropyl)benzoyl)-1,5,6,7-tetrahydrothiopyrano[3,2-c]pyrazol-3-yl)-3-fluorobenzoate (50 mg, 0.093 mmol) in THF (2 mL) and Water (0.5 mL) was added LiOH (6.67 mg, 0.278 mmol). The mixture was stirred at 20° C. for 3 h. LCMS showed the starting material was consumed, and the desired product was formed. The mixture was concentrated in vacuum to remove THF and the mixture was purified by prep-HPLC (TFA) to give 4-(1-(2-chloro-6-(1-(trifluoromethyl)cyclopropyl)benzoyl)-1,5,6,7-tetrahydrothiopyrano[3,2-c]pyrazol-3-yl)-3-fluorobenzoic. LCMS (ESI) calc'd for C24H17ClF4N2O3S [M+H]+: 539.1, found: 525.1. 1H-NMR (CDCl3, 400 MHz) δ 7.87 (d, J=7.94 Hz, 1H), 7.80 (d, J=10.14 Hz, 1H), 7.51-7.58 (m, 2H), 7.37-7.46 (m, 2H), 3.42 (t, J=6.17 Hz, 2H), 3.00 (t, J=5.18 Hz, 2H), 2.35 (d, J=5.51 Hz, 2H), 1.33-1.42 (m, 1H), 1.21-1.29 (m, 1H), 1.16 (s, 1H), 0.93 (s, 1H).
 Example 34A
+<img> id-US20180016239A1-20180118-C00217.TIF </img>
 4-(1-(2-chloro-6-(1-(trifluoromethyl)cyclopropyl)benzoyl)-4-oxido-1,5,6,7-tetrahydrothiopyrano[3,2-c]pyrazol-3-yl)-3-fluorobenzoic acid
 Step 1: Preparation of methyl 4-(1-(2-chloro-6-(1-(trifluoromethyl)cyclopropyl)benzoyl)-4-oxido-1,5,6,7-tetrahydrothiopyrano[3,2-c]pyrazol-3-yl)-3-fluorobenzoate (34A-1)
 To a mixture of methyl 4-(1-(2-chloro-6-(1-(trifluoromethyl)cyclopropyl)benzoyl)-1,5,6,7-tetrahydrothiopyrano[3,2-c]pyrazol-3-yl)-3-fluorobenzoate (100 mg, 0.186 mmol) in CH2Cl2 (3 mL) was added mCPBA (28.0 mg, 0.130 mmol) (80%), then it was stirred at 20° C. for 16 h. LCMS showed the desired product was formed. The mixture was concentrated in vacuum to give crude methyl 4-(1-(2-chloro-6-(1-(trifluoromethyl)cyclopropyl)benzoyl)-4-oxido-1,5,6,7-tetrahydrothiopyrano[3,2-c]pyrazol-3-yl)-3-fluorobenzoate, which was used directly to next step without further purification. MS: 555 (M+1)
 Step 2: Preparation of 4-(1-(2-chloro-6-(1-(trifluoromethyl)cyclopropyl)benzoyl)-4-oxido-1,5,6,7-tetrahydrothiopyrano[3,2-c]pyrazol-3-yl)-3-fluorobenzoic acid (34A)
 To a mixture of methyl 4-(1-(2-chloro-6-(1-(trifluoromethyl)cyclopropyl)benzoyl)-4-oxido-1,5,6,7-tetrahydrothiopyrano[3,2-c]pyrazol-3-yl)-3-fluorobenzoate (50 mg, 0.090 mmol) in THF (2 mL) and Water (0.5 mL) was added LiOH (6.47 mg, 0.270 mmol). The mixture was stirred at 20° C. for 3 hours. LCMS showed the starting material was consumed, and the desired product was formed. The mixture was concentrated in vacuum. The residue was purified by prep-HPLC (TFA) to give 4-(1-(2-chloro-6-(1-(trifluoromethyl)cyclopropyl)benzoyl)-4-oxido-1,5,6,7-tetrahydrothiopyrano[3,2-c]pyrazol-3-yl)-3-fluorobenzoic acid. MS: 541 (M+1). (CDCl3, 400 MHz) δ 7.89 (s, 1H), 7.78 (s, 1H), 7.53 (s, 4H), 2.97-3.11 (m, 2H), 2.68 (s, 2H), 2.39 (s, 1H), 1.19-1.31 (m, 3H), 0.88 (s, 2H)
 Example 35A
+<img> id-US20180016239A1-20180118-C00218.TIF </img>
 4-(1-(2-chloro-6-(1-(trifluoromethyl)cyclopropyl)benzoyl)-4,4-dioxido-1,5,6,7-tetrahydrothiopyrano[3,2-c]pyrazol-3-yl)-3-fluorobenzoic acid
 Step 1: Preparation of methyl 4-(1-(2-chloro-6-(1-(trifluoromethyl)cyclopropyl)benzoyl)-4,4-dioxido-1,5,6,7-tetrahydrothiopyrano[3,2-c]pyrazol-3-yl)-3-fluorobenzoate (35A-1)
 To a mixture of methyl 4-(1-(2-chloro-6-(1-(trifluoromethyl)cyclopropyl)benzoyl)-1,5,6,7-tetrahydrothiopyrano[3,2-c]pyrazol-3-yl)-3-fluorobenzoate (100 mg, 0.186 mmol) in CH2Cl2 (3 mL) was added mCPBA (80 mg, 0.371 mmol) (80%). The mixture was stirred at 20° C. for 14 h. LCMS showed the starting material was consumed, and the desired product was formed. The mixture was concentrated in vacuum to give crude methyl 4-(1-(2-chloro-6-(1-(trifluoromethyl)cyclopropyl)benzoyl)-4,4-dioxido-1,5,6,7-tetrahydrothiopyrano[3,2-c]pyrazol-3-yl)-3-fluorobenzoate, which was used directly to next step without further purification. MS: 571 (M+1)
 Step 2: Preparation of 4-(1-(2-chloro-6-(1-(trifluoromethyl)cyclopropyl)benzoyl)-4,4-dioxido-1,5,6,7-tetrahydrothiopyrano[3,2-c]pyrazol-3-yl)-3-fluorobenzoic acid (35A)
 To a mixture of methyl 4-(1-(2-chloro-6-(1-(trifluoromethyl)cyclopropyl)benzoyl)-4,4-dioxido-1,5,6,7-tetrahydrothiopyrano[3,2-c]pyrazol-3-yl)-3-fluorobenzoate (106 mg, 0.186 mmol) in THF (2 ml) and Water (0.4 ml) was added LiOH (13.34 mg, 0.557 mmol), then it was stirred at 20° C. for 16 h. LCMS showed the starting material was consumed, and the desired product was formed. The mixture was concentrated in vacuum. The residue was purified by prep-HPLC (TFA) to give 4-(1-(2-chloro-6-(1-(trifluoromethyl)cyclopropyl)benzoyl)-4,4-dioxido-1,5,6,7-tetrahydrothiopyrano[3,2-c]pyrazol-3-yl)-3-fluorobenzoic acid. MS: 557 (M+1). 1H NMR (MeOD, 400 MHz) δ 7.86 (d, J=7.94 Hz, 1H), 7.70-7.77 (m, 2H), 7.61-7.67 (m, 1H), 7.51-7.57 (m, 2H), 3.56 (d, J=4.19 Hz, 2H), 3.40-3.47 (m, 2H), 2.65 (s, 2H), 1.36-1.47 (m, 1H), 1.26-1.35 (m, 1H), 1.21 (s, 1H), 0.95 (s, 1H).
 Example 36A
+<img> id-US20180016239A1-20180118-C00219.TIF </img><img> id-US20180016239A1-20180118-C00220.TIF </img>
 4-(1-(2,6-dichlorobenzoyl)-7-methyl-4,5,6,7-tetrahydro-1H-pyrazolo[3,4-b]pyridin-3-yl)-3-fluorobenzoic acid
 Step 1: Preparation of (2,6-dichlorophenyl)(1H-pyrazolo[3,4-b]pyridin-1-yl)methanone (36A-1)
 To a solution of 1H-pyrazolo[3,4-b]pyridine (500 mg, 4.20 mmol) in THF (8 mL) was added 2,6-dichlorobenzoyl chloride (879 mg, 4.20 mmol), TEA (1.755 mL, 12.59 mmol) and DMAP (256 mg, 2.099 mmol). The reaction was stirred at 90° C. for 4 hours. LCMS show no starting material and the desired product formed. The reaction mixture was concentrated and purified by silica gel column chromatography (SiO2, EtOAc/PE=0% to 50%) to give (2,6-dichlorophenyl)(1H-pyrazolo[3,4-b]pyridin-1-yl)methanone. MS: 292 (M+1)
@@ -954,6 +1033,7 @@ To a solution of methyl 3-fluoro-4-(7-methyl-4,5,6,7-tetrahydro-1H-pyrazolo[3,4-
 Step 6: Preparation of 4-(1-(2,6-dichlorobenzoyl)-7-methyl-4,5,6,7-tetrahydro-1H-pyrazolo[3,4-b]pyridin-3-yl)-3-fluorobenzoic acid (36A)
 To a solution of methyl 4-(1-(2,6-dichlorobenzoyl)-7-methyl-4,5,6,7-tetrahydro-1H-pyrazolo[3,4-b]pyridin-3-yl)-3-fluorobenzoate (20 mg, 0.043 mmol) in ACN (2 mL) and Water (0.5 mL) was added LiOH (10.36 mg, 0.433 mmol). The reaction was stirred at 25° C. for 4 hours. LCMS show no starting material and the desired product formed. The reaction mixture was concentrated and purified by pre-HPLC(TFA) to give 4-(1-(2,6-dichlorobenzoyl)-7-methyl-4,5,6,7-tetrahydro-1H-pyrazolo[3,4-b]pyridin-3-yl)-3-fluorobenzoic acid. MS: 448 (M+1); (CDCl3, 400 MHz) δ 7.83-7.85 (H, m), δ 7.74-7.77 (H, m), δ 7.38 (H, s), δ 7.29-7.33 (3H, m), 3.61-3.65 (2H, m), 3.42-3.48 (1H, m), 3.32-3.34 (1H, m), 3.25-3.26 (1H, m), 2.98-2.99 (1H, m), 2.85-2.89 (1H, m) 2.82 (3H, s).
 Example 37A
+<img> id-US20180016239A1-20180118-C00221.TIF </img><img> id-US20180016239A1-20180118-C00222.TIF </img>
 4-(1-(2-chloro-6-(1-(difluoromethyl)cyclopropyl)benzoyl)-1,5,6,7-tetrahydropyrano[3,2-c]pyrazol-3-yl)-3-fluorobenzoic acid
 Step 1: Preparation of ethyl 2-diazo-6-hydroxy-3-oxohexanoate (37A-1)
 Ethyl diazoacetate (21.87 g, 192 mmol) was added drop wise over 5 min to a cold solution of LDA (100 mL, 200 mmol) in THF (600 mL) under an atmosphere of nitrogen, the temperature being maintained at −78° C. The orange-brown solution was stirred at −78° C. for 15 min and this was followed by drop wise addition of dihydrofuran-2(3H)-one (15.0 g, 174 mmol) at −78° C. The solution was stirred at −78° C. for 2 h, before dropwise addition of acetic acid (40 mL). The reaction mixture was allowed to warm to 0° C., water (100 mL) was added, and then the mixture extracted with DCM (300 mL×3). The combined organic extracts were washed brine (50 mL), dried (MgSO4), and evaporated. The crude product was purified by flash chromatography on silica gel (petroleum ether:EtOAc=10:1-2:1) to give the title compound. 1H NMR (400 MHz, CDCl3) δ 4.26-4.33 (m, 2H), 3.60-3.70 (m, 2H), 2.97 (t, J=6.9 Hz, 2H), 1.88-1.93 (m, 2H), 1.30-1.34 (m, 3H).
@@ -994,7 +1074,7 @@ No. & Structure & IUPAC Name & [M + H]+
 <header>
 
 </header>
-37B &  & 4-[1-({2-chloro-6-[1- (trifluoromethyl)cyclo propyl]phenyl}carbon yl)-1,5,6,7- tetrahydropyrano[3,2- c]pyrazol-3-yl]-3- fluorobenzoic acid & 509
+37B & <img> id-US20180016239A1-20180118-C00223.TIF </img> & 4-[1-({2-chloro-6-[1- (trifluoromethyl)cyclo propyl]phenyl}carbon yl)-1,5,6,7- tetrahydropyrano[3,2- c]pyrazol-3-yl]-3- fluorobenzoic acid & 509
 </table>
 Biological Assay
 The compounds of the invention inhibit RORgammaT activity. Activation of RORgammaT activity can be measured using, e.g., biochemical TR-FRET assay. In such an assay, interaction of cofactor-derived peptides with human RORgammaT-Ligand Binding Domain (LBD) can be measured. The TR-FRET technique is a sensitive biochemical proximity assay that will give information concerning the interaction of a ligand with the LBD, in the presence of cofactor-derived peptides (Zhou et al., Methods 25:54-61, 2001).

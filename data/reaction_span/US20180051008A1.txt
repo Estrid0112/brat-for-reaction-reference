@@ -12,6 +12,7 @@ Means for Solving the Problems
 The present inventors have intensively studied so as to find compounds having excellent control activity against plant diseases, and found that a compound represented by formula (I) below has excellent control activity against plant diseases.
 The present invention includes the followings.
 [1] A tetrazolinone compound represented by formula (1):
+<img> id-US20180051008A1-20180222-C00002.TIF </img>
 wherein R1 represents a hydrogen atom, a C1-C3 alkyl group optionally having one or more halogen atoms, a C1-C3 alkoxy group optionally having one or more halogen atoms, a halogen atom, a cyano group, or a C1-C3 alkylthio group optionally having one or more halogen atoms; andR2 represents a C1-C3 alkyl group optionally having one or more halogen atoms, a C1-C3 alkoxy group optionally having one or more halogen atoms, a hydrogen atom, a halogen atom, or a C3-C4 cycloalkyl group optionally having one or more halogen atoms (hereinafter referred to as the present compound).[2] The tetrazolinone compound according to [1], wherein R1 is a hydrogen atom or a C1-C3 alkyl group optionally having one or more halogen atoms.[3] A plant disease control agent comprising the tetrazolinone compound according to [1] (hereinafter also referred to as the present control agent).[4] A method for controlling plant diseases, which comprises treating plants or soil with an effective amount of the tetrazolinone compound according to [1].[5] Use of the tetrazolinone compound according to [1] for controlling plant diseases.
 Effects of the Invention
 According to the present invention, plant diseases can be controlled.
@@ -26,6 +27,7 @@ Next, a process for producing the present compound will be described.
 The present compound can be produced, for example, by the following Production Processes.
 Production Process A
 The present compound can be produced by reacting a compound represented by formula (A1) (hereinafter referred to as the compound (A1)) with a compound represented by formula (A2) (hereinafter referred to as the compound (A2)) in the presence of a copper compound and a base:
+<img> id-US20180051008A1-20180222-C00003.TIF </img>
 wherein X11 represents a dihydroxyboranyl group, a dialkoxyboranyl group, or a 4,4,5,5-tetramethyl-1,3,2-dioxaborolane-2-yl group, and the other symbols are the same as defined above.
 The reaction is usually performed in a solvent.
 Examples of the solvent to be used in the reaction include hydrocarbons such as n-hexane, cyclohexane, toluene, and xylene (hereinafter referred to as hydrocarbons); ethers such as diethyl ether, tetrahydrofuran, 1,4-dioxane, ethylene glycol dimethyl ether, methyl tert-butyl ether, and diisopropyl ether (hereinafter referred to as ethers); halogenated hydrocarbons such as chloroform, dichloromethane, and chlorobenzene (hereinafter referred to as halogenated hydrocarbons); acid amides such as dimethylformamide, 1,3-dimethyl-2-imidazolidinone, and N-methylpyrrolidone (hereinafter referred to as acid amides); esters such as ethyl acetate and methyl acetate (hereinafter referred to as esters); sulfoxides such as dimethyl sulfoxide (hereinafter referred to as sulfoxides); nitriles such as acetonitrile and propionitrile (hereinafter referred to as nitriles); alcohols such as methanol, ethanol, propanol, and butanol (hereinafter referred to as alcohols); water; and mixtures thereof.
@@ -38,15 +40,18 @@ After completion of the reaction, the present compound can be isolated by perfor
 The compound (A1) and the compound (A2) are known compounds, or can be produced in accordance with a known method.
 Production Process B
 The present compound can be produced by reacting a compound represented by formula (A3) (hereinafter referred to as the compound (A3)) with a compound represented by formula (A4) (hereinafter referred to as the compound (A4)) in the presence of a base:
+<img> id-US20180051008A1-20180222-C00004.TIF </img>
 wherein X12 represents a chlorine atom, a bromine atom, an iodine atom, a methanesulfonyloxy group, or a p-toluenesulfonyloxy group, and the other symbols are the same as defined above.
 The reaction can be produced in accordance with a known method.
 Reference Production Process A
 A compound represented by formula (B2) (hereinafter referred to as the compound (B2)) can be produced by reacting a compound represented by formula (B1) (hereinafter referred to as the compound (B1)) with the compound (A2) in the presence of a copper compound and a base:
+<img> id-US20180051008A1-20180222-C00005.TIF </img>
 wherein X13 represents a C1-C5 alkyl group, and the other symbols are the same as defined above.
 The reaction can be performed in accordance with the method mentioned in Production Process A.
 The compound (B1) is a known compound, or can be produced in accordance with a known method.
 Reference Production Process B
 The compound (A3) can be produced by reacting the compound (B2) with an acid:
+<img> id-US20180051008A1-20180222-C00006.TIF </img>
 wherein the symbols are the same as defined above.
 The reaction can be performed by using an acid, etc. in accordance with the method mentioned in WO 2014/051165.
 The respective compounds produced by the production processes and reference production process mentioned above sometimes can be isolated and purified by other known means, for example, methods of concentration, concentration under reduced pressure, extraction, partition, crystallization, recrystallization, and chromatography.
@@ -75,6 +80,7 @@ Production Example 1
 A mixture of 0.49 g of the intermediate (1A) mentioned in Reference Production Example 1, 0.31 g of cyclopropylboronic acid, 0.26 g of copper(II) acetate, 0.38 g of pyridine, 0.63 g of Molecular Sieves 4A, and 20 ml of acetonitrile was heated to reflux for 9 hours. The reaction solution was filtered through Celite (registered trademark) and the filtrate was concentrated under reduced pressure. The residue thus obtained was subjected to silica gel column chromatography to obtain 0.33 g of the present compound 1 mentioned below.
 Compound produced in accordance with the method mentioned in Production Example 1 and physical properties thereof are shown below.
 Compounds Represented by Formula (a):
+<img> id-US20180051008A1-20180222-C00007.TIF </img>
 wherein R1 and R2 are shown in [Table 1].
 The present compound 1 means a compound represented by formula (a) wherein R1 and R2 are combinations mentioned in the present compound 1 of [Table 1].
 <table>
@@ -134,6 +140,7 @@ Reference Production Example 1
 The intermediate (8A) mentioned in Reference Production Example 3, 40 mL of ethanol, and 8.5 mL of hydrazine monohydrate were added, followed by stirring overnight. Again, the reaction solution was concentrated under reduced pressure and then washed with hexane and tert-butyl methyl ether to obtain 16.2 g of an intermediate (2A) mentioned below.
 Compounds produced in accordance with the method mentioned in Reference Production Example 1 and physical properties thereof are shown below.
 Compounds Represented by Formula (bA):
+<img> id-US20180051008A1-20180222-C00008.TIF </img>
 wherein R2, R3, Z1, and Z2 are shown in [Table 3].
 <table>
 <header>
@@ -160,11 +167,13 @@ Intermediate (2A):
 Intermediate (3A):
 1H NMR (CDCl3) δ: 7.45-7.40 (3H, m), 7.30-7.27 (1H, m), 7.17 (1H, bs), 6.71 (1H, s), 6.13 (1H, s), 5.05 (2H, s), 3.65 (3H, s), 2.52 (3H, s), 2.38 (3H, s), 2.35 (3H, s), 2.07 (3H, s).
 Intermediate (4A)
+<img> id-US20180051008A1-20180222-C00009.TIF </img>
 1H-NMR (CDCl3) δ: 7.60 (1H, s), 7.21 (1H, s), 6.72 (1H, s), 6.36 (1H, d, J=1.2 Hz), 3.86 (3H, s), 2.40 (3H, s), 2.20 (3H, s).
 Reference Production Example 2
 A mixture of 15.0 g of 1-(2,5-dimethyl-4-hydroxyphenyl)ethanone, 25.1 g of 1-{2-(bromomethyl)-3-methylphenyl}-4-methyl-1,4-dihydrotetraz ol-5-one, 18.1 g of potassium carbonate, and 125 mL of acetonitrile was stirred with heating under reflux for 5 hours. The reaction solution was filtered through Celite (registered trademark) and the filtrate was concentrated under reduced pressure. To the residue, ethyl acetate was added, followed by washing with an aqueous sodium hydrogen carbonate solution. The organic layer was dried over anhydrous magnesium sulfate and then concentrated under reduced pressure to obtain 29.0 g of an intermediate (6A) mentioned below.
 Compounds produced in accordance with the method mentioned in Reference Production Example 2 and physical properties thereof are shown below.
 Compounds Represented by Formula (cA):
+<img> id-US20180051008A1-20180222-C00010.TIF </img>
 wherein R2 is shown in [Table 4].
 <table>
 <header>
@@ -191,6 +200,7 @@ Reference Production Example 3
 A mixture of 10 g of the intermediate (5A) and 14 mL of N,N-dimethylformamide diethyl acetal was heated to reflux for 24 hours, and the reaction solution was concentrated under reduced pressure to obtain an intermediate (7A) mentioned below.
 Compounds produced in accordance with the method mentioned in Reference Production Example 3 and physical properties thereof are shown below.
 Compounds Represented by Formula (dA):
+<img> id-US20180051008A1-20180222-C00011.TIF </img>
 wherein R2 is shown in [Table 5].
 <table>
 <header>
@@ -216,19 +226,24 @@ Intermediate (8A):
 Reference Production Example 4
 To 100 mL of tetrahydrofuran, 2.5 g of 55% sodium hydride and 4.81 g of ethyl acetate were added at room temperature, followed by stirring for 0.5 hour. To the mixture thus obtained, 10.0 g of the intermediate (6A), 0.019 g of dibenzo-18-crown-6, and 1.38 g of ethanol were added, followed by stirring with heating under reflux for 6 hours. Water was added to the reaction mixture, followed by extraction with ethyl acetate. The organic layer was washed with water, dried over anhydrous magnesium sulfate, and then concentrated under reduced pressure to obtain an intermediate (9A) mentioned below.
 Intermediate (9A)
+<img> id-US20180051008A1-20180222-C00012.TIF </img>
 1H-NMR (CDCl3) δ: 7.47-7.40 (3H, m), 7.29 (1H, s), 6.66 (1H, s), 5.84 (1H, s), 5.07 (2H, s), 3.64 (3H, s), 2.50 (3H, s), 2.50 (3H, s), 2.15 (3H, s), 2.06 (3H, s).
 Reference Production Example 5
 Using the intermediate (4A) in place of the intermediate (1A), compounds were produced in accordance with the method mentioned in Production Example 1 to obtain an intermediate (10A) mentioned below.
 Intermediate (10A)
+<img> id-US20180051008A1-20180222-C00013.TIF </img>
 1H-NMR (CDCl3) δ: 7.44 (1H, d, J=2.3 Hz), 7.34 (1H, s), 6.68 (1H, s), 6.29 (1H, d, J=2.3 Hz), 3.84 (3H, s), 3.65-3.60 (1H, m), 2.43 (3H, s), 2.20 (3H, s), 1.19-1.15 (2H, m), 1.05-1.00 (2H, m).
 Reference Production Example 6
 A mixture of 2.00 g of the intermediate (10A), 14 mL of hydrobromic acid, and 14 ml of acetic acid was heated to reflux for 9 hours. The reaction solution was concentrated under reduced pressure. Water was added to the reaction mixture, followed by extraction with ethyl acetate. The residue thus obtained was washed with hexane to obtain 0.54 g of an intermediate (11A) mentioned below.
 Intermediate (11A)
+<img> id-US20180051008A1-20180222-C00014.TIF </img>
 1H-NMR (DMSO-D6) δ: 9.22 (1H, s), 7.74 (1H, d, J=2.3 Hz), 7.21 (1H, s), 6.62 (1H, s), 6.33 (1H, d, J=2.3 Hz), 3.73-3.68 (1H, m), 2.29 (3H, s), 2.09 (3H, s), 1.07-1.03 (2H, m), 0.97-0.92 (2H, m).
 In accordance with the method mentioned above, compounds HA101-1 to HA101-96 can be obtained.
 HA101-1 to HA101-96 (hereinafter referred to as the present compounds A) mean tetrazolinone compounds mentioned below [in formula, R1 and R2 represent any one of substituent numbers 1 to 96 mentioned below]. In the following [substituent number], c-Pr represents a cyclopropyl group, and CN represents a cyano group. For example, [7; H, CHF2] means that substituent number is 7, R1 is a hydrogen atom, and R2 is a difluoromethyl group.
+<img> id-US20180051008A1-20180222-C00015.TIF </img>
 [substituent numbers; R1, R2][1; H, H], [2; F, H], [3; Cl, H], [4; CN, H], [5; CH3, H], [6; CH2CH3, H], [7; CHF2, H], [8; CF3, H], [9; OCH3, H], [10; OCH2CH3, H], [11; SCH3, H], [12; SCHF2, H], [13; H, Cl], [14; F, Cl], [15; Cl, Cl], [16; CN, Cl], [17; CH3, Cl], [18; CH2CH3, Cl], [19; CHF2, Cl], [20; CF3, Cl], [21; OCH3, Cl], [22; OCH2CH3, Cl], [23; SCH3, Cl], [24; SCHF2, Cl], [25; H, CH3], [26; F, CH3], [27; Cl, CH3], [28; CN, CH3], [29; CH3, CH3], [30; CH2CH3, CH3], [31; CHF2, CH3], [32; CF3, CH3], [33; OCH3, CH3], [34; OCH2CH3, CH3], [35; SCH3, CH3], [36; SCHF2, CH3], [37; H, CH2 CH3 ], [38; F, CH2 CH3 ], [39; Cl, CH2 CH3 ], [40; CN, CH2 CH3 ], [41; CH3, CH2 CH3 ], [42; CH2 CH3, CH2 CH3 ], [43; CHF2, CH2 CH3 ], [44; CF3, CH2 CH3 ], [45; OCH3, CH2 CH3 ], [46; OCH2 CH3, CH2 CH3 ], [47; SCH3, CH2 CH3 ], [48; SCHF2, CH2 CH3 ], [49; H, CHF2], [50; F, CHF2], [51; Cl, CHF2], [52; CN, CHF2], [53; CH3, CHF2 ], [54; CH2 CH3, CHF2 ], [55; CHF2, CHF2 ], [56; CF3, CHF2 ], [57; OCH3, CHF2 ], [58; OCH2 CH3, CHF2 ], [59; SCH3, CHF2 ], [60; SCHF2, CHF2], [61; H, c-Pr], [62; F, c-Pr], [63; Cl, c-Pr], [64; CN, c-Pr], [65; CH3, c-Pr], [66; CH2CH3, c-Pr], [67; CHF2, c-Pr], [68; CF3, c-Pr], [69; OCH3, c-Pr], [70; OCH2CH3, c-Pr], [71; SCH3, c-Pr], [72; SCHF2, c-Pr], [73; H, OCH3], [74; F, OCH3], [75; Cl, OCH3], [76; CN, OCH3], [77; CH3, OCH3], [78; CH2CH3, OCH3], [79; CHF2, OCH3 ], [80; CF3, OCH3 ], [81; OCH3, OCH3 ], [82; OCH2CH3, OCH3], [83; SCH3, OCH3 ], [84; SCHF2, OCH3], [85; H, OCH2CH3], [86; F, OCH2 CH3 ], [87; Cl, OCH2 CH3 ], [88; CN, OCH2 CH3 ], [89; CH3, OCH2 CH3 ], [90; CH2 CH3, OCH2 CH3], [91; CHF2, OCH2 CH3], [92; CF3, OCH2 CH3], [93; OCH3, OCH2 CH3], [94; OCH2 CH3, OCH2 CH3], [95; SCH3, OCH2 CH3], [96; SCHF2, OCH2CH3]
 For example, HA101-7 means a compound represented by formula (HA101) wherein substituent number is 7, which is represented by the following structure.
+<img> id-US20180051008A1-20180222-C00016.TIF </img>
 Formulation Examples will be shown below.
 Formulation Example 1
 Fifty parts (50 parts) of any one of the present compounds A, 3 parts of calcium ligninsulfoate, 2 parts of laurylmagnesium sulfate, and 45 parts of synthetic hydrated silicon oxide are thoroughly ground and mixed to obtain each formulation.
