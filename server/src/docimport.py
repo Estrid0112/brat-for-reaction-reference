@@ -162,13 +162,13 @@ def modify_reference_file(num_reactions, docid, collection=None, refcoll=None):
             if (int(rel.arg1[1:])) > num - 1 or (int(rel.arg2[1:])) > num - 1:  # Entity index starts from 0
                 raise InvalidInputError("{} and {}".format(rel.arg1, rel.arg2))
 
-    text = " ".join("T{}".format(i) for i in range(num))
+    text = " ".join("T{}".format(i) for i in range(1, num + 1))
     with open_textfile(txt_path, 'w') as txt_file:
         txt_file.write(text)
         txt_file.close()
 
     with open(ann_path, 'w') as ann_file:
-        for i in range(num):
+        for i in range(1, num+1):
             ann_id = "T{}".format(i)
             start = text.find(ann_id)
             end = start + len(ann_id)
