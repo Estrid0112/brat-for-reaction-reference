@@ -41,6 +41,7 @@ ENTITY_SECTION = "entities"
 RELATION_SECTION = "relations"
 EVENT_SECTION = "events"
 ATTRIBUTE_SECTION = "attributes"
+PERMISSION_SECTION = "permission"
 
 # aliases for config section names
 SECTION_ALIAS = {
@@ -51,7 +52,9 @@ __expected_annotation_sections = (
     ENTITY_SECTION,
     RELATION_SECTION,
     EVENT_SECTION,
-    ATTRIBUTE_SECTION)
+    ATTRIBUTE_SECTION,
+    PERMISSION_SECTION
+)
 __optional_annotation_sections = []
 
 # visual config section name constants
@@ -852,6 +855,10 @@ def get_relation_type_hierarchy(directory):
 
 def get_event_type_hierarchy(directory):
     return get_annotation_configs(directory)[0][EVENT_SECTION]
+
+
+def get_permission_configs(directory):
+    return get_annotation_configs(directory)[0][PERMISSION_SECTION]
 
 
 def get_attribute_type_hierarchy(directory):
@@ -1841,6 +1848,10 @@ class ProjectConfiguration(object):
 
     def get_event_type_hierarchy(self):
         return get_event_type_hierarchy(self.directory)
+
+    def get_permission_types(self):
+        return {ele.terms[0]: {k: v[0] for k, v in ele.arguments.items()}
+                for ele in get_permission_configs(self.directory)}
 
     def get_attribute_type_hierarchy(self):
         return get_attribute_type_hierarchy(self.directory)

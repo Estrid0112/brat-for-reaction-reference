@@ -8,6 +8,7 @@ var Configuration = (function(window, undefined) {
     var confirmModeOn = true;
     var autorefreshOn = false;
     var typeCollapseLimit = 30;
+    var txtWritePerm = true;
     
     var visual = {
       margin: { x: 2, y: 1 },
@@ -27,5 +28,6 @@ var Configuration = (function(window, undefined) {
       confirmModeOn: confirmModeOn,
       autorefreshOn: autorefreshOn,
       typeCollapseLimit: typeCollapseLimit,
+      txtWritePerm: txtWritePerm
     };
 })(window);

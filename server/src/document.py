@@ -365,6 +365,11 @@ def _fill_visual_configuration(types, project_conf):
 
     return items
 
+
+def _fill_permission_configuration(project_conf):
+    permission_types = project_conf.get_permission_types()
+    return permission_types
+
 # TODO: this is not a good spot for this
 
 
@@ -396,6 +401,7 @@ def get_base_types(directory):
     relation_hierarchy = project_conf.get_relation_type_hierarchy()
     relation_types = _fill_relation_configuration(relation_hierarchy,
                                                   project_conf, hotkey_by_type)
+    permission_types = _fill_permission_configuration(project_conf)
 
     # make visual config available also for nodes for which there is
     # no annotation config. Note that defaults (SPAN_DEFAULT etc.)
@@ -405,7 +411,7 @@ def get_base_types(directory):
                     not project_conf.is_configured_type(l)]
     unconf_types = _fill_visual_configuration(unconfigured, project_conf)
 
-    return event_types, entity_types, relation_types, unconf_types
+    return event_types, entity_types, relation_types, unconf_types, permission_types
 
 
 def get_attribute_types(directory):
@@ -523,7 +529,7 @@ def _inject_annotation_type_conf(dir_path, json_dic=None):
         json_dic = {}
 
     (event_types, entity_types, rel_types,
-     unconf_types) = get_base_types(dir_path)
+     unconf_types, permission_types) = get_base_types(dir_path)
     (entity_attr_types, rel_attr_types,
      event_attr_types) = get_attribute_types(dir_path)
 
@@ -534,6 +540,7 @@ def _inject_annotation_type_conf(dir_path, json_dic=None):
     json_dic['relation_attribute_types'] = rel_attr_types
     json_dic['entity_attribute_types'] = entity_attr_types
     json_dic['unconfigured_types'] = unconf_types
+    json_dic['permission_types'] = permission_types
 
     # inject annotation category aliases (e.g. "entities" -> "spans")
     # used in config (#903).

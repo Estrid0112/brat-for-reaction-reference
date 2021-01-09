@@ -2856,6 +2856,7 @@ var AnnotatorUI = (function($, window, undefined) {
           collection: coll,
           docid : doc,
           num_reactions : _num_reactions,
+          write_permission : Configuration.txtWritePerm
         };
         dispatcher.post('ajax', [opts, function(response) {
           var x = response.exception;

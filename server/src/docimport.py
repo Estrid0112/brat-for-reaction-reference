@@ -13,7 +13,7 @@ from os.path import join as join_path
 from os.path import isdir, isfile, samefile
 import os
 
-from config import DATA_DIR, REACTION_REF_DIR
+from config import DATA_DIR
 
 from annotation import JOINED_ANN_FILE_SUFF, TEXT_FILE_SUFFIX, open_textfile, TextAnnotations, \
     AnnotationsIsReadOnlyError
@@ -125,7 +125,7 @@ def save_import(text, docid, collection=None):
     return {'document': docid}
 
 
-def modify_reference_file(num_reactions, docid, collection=None, refcoll=None):
+def modify_reference_file(num_reactions, docid, collection=None, write_permission=True):
     num = int(num_reactions)
     if num <= 0:
         raise InvalidInputError("negative")
@@ -140,7 +140,7 @@ def modify_reference_file(num_reactions, docid, collection=None, refcoll=None):
             raise InvalidDirError(directory)
 
         dir_path = real_directory(directory)
-        if not samefile(dir_path, REACTION_REF_DIR):
+        if (not write_permission) or (write_permission == "false"):
             raise NoWritePermissionError(dir_path)
 
     # Is the directory a directory and are we allowed to write?
